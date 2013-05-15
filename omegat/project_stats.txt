@@ -1,0 +1,13 @@
+11/09/12 16:02
+Données du projet
+
+                           	Segments	Mots	Caractères (sans espaces)	Caractères (avec espaces)	
+Total :                    	       0	   0	                        0	                        0	
+Restants :                 	       0	   0	                        0	                        0	
+Segments uniques :         	       0	   0	                        0	                        0	
+Segments uniques restants :	       0	   0	                        0	                        0	
+
+
+Statistiques par fichiers :
+
+Nom du fichier	Total segments	Segments restants	Segments uniques	Segments uniques restants	Total mots	Mots restants	Mots uniques	Mots uniques restants	Total caractères (sans espaces)	Caractères restants (sans espaces)	Caractères uniques (sans espaces)	Caractères uniques restants (sans espaces)	Total caractères (avec espaces)	Caractères restants (avec espaces)	Caractères uniques (avec espaces)	Caractères uniques restants (avec espaces)	
