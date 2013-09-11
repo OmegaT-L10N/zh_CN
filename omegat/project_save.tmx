@@ -742,6 +742,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Source Tokenizer Behavior:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="钢" changedate="20130911T115221Z">
+        <seg>原文分词器行为(&amp;T)：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Statistics</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130505T162529Z">
@@ -754,6 +762,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130504T161742Z">
         <seg>译文语言分词器(&amp;T)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Target Tokenizer Behavior:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="钢" changedate="20130911T115242Z">
+        <seg>译文分词器行为（&amp;T）……</seg>
       </tuv>
     </tu>
     <tu>
@@ -1235,6 +1251,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130505T161733Z">
         <seg>1）减少原文数量并分批进行翻译。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>1.5 or higher to be installed on your system.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="钢" changedate="20130911T114926Z">
+        <seg>的 1.5 或者更高版本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2737,6 +2761,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error load plugin from class '{0}': {1}: {2}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="钢" changedate="20130911T115314Z">
+        <seg>从类 '{0}': {1}: {2} 中载入插件出错</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error monitoring external command!</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T143655Z">
@@ -3636,6 +3668,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In order to run, OmegaT requires the Java Runtime Environment (JRE) version</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="钢" changedate="20130911T114914Z">
+        <seg>为了运行 OmegaT，系统中需要安装 Java 运行环境（JRE）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In so&amp;urce</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T150551Z">
@@ -3897,6 +3937,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T151028Z">
         <seg>关键字搜索将指定的查询字符串视为一系列搜索关键字（由空格分隔），并返回所有以任何顺序包含这些关键字的片段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>L&amp;og...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="钢" changedate="20130911T115123Z">
+        <seg>日志(&amp;o)……</seg>
       </tuv>
     </tu>
     <tu>
