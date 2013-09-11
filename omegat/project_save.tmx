@@ -854,6 +854,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(+{0} more)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="钢" changedate="20130911T115847Z">
+        <seg>(+{0} 更多)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(In the user's manual, see 'Files to translate' &gt; 'File formats' for a list of supported file formats.)
 To add files to the project, click on the Copy Files to Source Folder... button in the Project Files window or call this action from the Project menu and select the source files you want to copy.</seg>
       </tuv>
@@ -1585,6 +1593,14 @@ The TMX file will not be loaded.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130504T160234Z">
         <seg>分析字符串 - {0} / {1} 完成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Android Resources</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="钢" changedate="20130911T115725Z">
+        <seg>Android 资源文件</seg>
       </tuv>
     </tu>
     <tu>
@@ -3305,6 +3321,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Flash XML Export</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="钢" changedate="20130911T115658Z">
+        <seg>Flash XML 输出</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Floating '?' character not tied to '&gt;'!</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T151403Z">
@@ -3349,6 +3373,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130911T115504Z">
         <seg>格式：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Found in:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="钢" changedate="20130911T115833Z">
+        <seg>找到：</seg>
       </tuv>
     </tu>
     <tu>
@@ -3525,6 +3557,22 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T155649Z">
         <seg>HHC 文件过大！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>HTML Help Compiler</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="钢" changedate="20130911T115820Z">
+        <seg>HTML 帮助文件编译器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>HTML and XHTML</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="钢" changedate="20130911T115809Z">
+        <seg>HTML 和 XHTML</seg>
       </tuv>
     </tu>
     <tu>
@@ -4157,6 +4205,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Log:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="钢" changedate="20130911T115757Z">
+        <seg>日志：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Lucene (Apache License 2.0)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130509T154244Z">
@@ -4297,6 +4353,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T150703Z">
         <seg>记忆</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Microsoft Open XML</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="钢" changedate="20130911T115735Z">
+        <seg>Microsoft Open XML</seg>
       </tuv>
     </tu>
     <tu>
@@ -4999,6 +5063,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Perhaps it is already opened in another OmegaT instance</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="钢" changedate="20130911T115915Z">
+        <seg>可能已经在其它 OmegaT 示例中打开</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please close search window.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T151057Z">
@@ -5330,6 +5402,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T164359Z">
         <seg>项目载入开始</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project locked.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="钢" changedate="20130911T115854Z">
+        <seg>项目已锁定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5746,6 +5826,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130504T162539Z">
         <seg>SQLJet 1.1.3 (GPL 许可协议)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SVG Image</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="钢" changedate="20130911T115656Z">
+        <seg>SVG 图片</seg>
       </tuv>
     </tu>
     <tu>
@@ -6318,6 +6406,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SubRip Subtitles</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="钢" changedate="20130911T115718Z">
+        <seg>SubRip 字幕</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Swedish</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T155723Z">
@@ -6780,6 +6876,22 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (at your option) any later version.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="钢" changedate="20130911T115759Z">
+        <seg>该程序是免费软件，在遵守 FSF 的 GNU General Public License 或者该协议的版本2或者更高版本的前提下，你可以对它进行编辑或者重新发布。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This project</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="钢" changedate="20130911T115839Z">
+        <seg>本项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This translation is the work of [insert your name], copyright© [insert year].</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130911T114540Z">
@@ -7056,6 +7168,22 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T170235Z">
         <seg>译者注释：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Typo3 LocManager</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="钢" changedate="20130911T115646Z">
+        <seg>Typo3 LocManager</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Typo3 l10nmgr</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="钢" changedate="20130911T115648Z">
+        <seg>Typo3 l10nmgr</seg>
       </tuv>
     </tu>
     <tu>
@@ -7446,6 +7574,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Visio</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="钢" changedate="20130911T115704Z">
+        <seg>Visio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Warning</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T023406Z">
@@ -7486,6 +7622,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>WiX Localization</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="钢" changedate="20130911T115651Z">
+        <seg>WiX Localization</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Will be synchronized next time.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130504T150758Z">
@@ -7522,6 +7666,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130509T154230Z">
         <seg>WordAr&amp;t</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Wordfast TXML</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="钢" changedate="20130911T115702Z">
+        <seg>Wordfast TXML</seg>
       </tuv>
     </tu>
     <tu>
@@ -7578,6 +7730,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130504T151326Z">
         <seg>用户名或密码错误</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>XHTML</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="钢" changedate="20130911T115822Z">
+        <seg>XHTML</seg>
       </tuv>
     </tu>
     <tu>
@@ -7777,6 +7937,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>jwordsplitter-3.4.jar (Apache License 2.0)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="钢" changedate="20130911T115743Z">
+        <seg>jwordsplitter-3.4.jar (Apache License 2.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>lan&amp;g (language attribute)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T154625Z">
@@ -7789,6 +7957,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T151409Z">
         <seg>已载入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>lucene-gosen-2.0.2-ipadic.jar (LGPL License)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="钢" changedate="20130911T115750Z">
+        <seg>lucene-gosen-2.0.2-ipadic.jar (LGPL License)</seg>
       </tuv>
     </tu>
     <tu>
@@ -7821,6 +7997,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T055217Z">
         <seg>片段 0000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>segment-1.4.1.jar (Segment License)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="钢" changedate="20130911T115746Z">
+        <seg>segment-1.3.0.jar (Segment License)</seg>
       </tuv>
     </tu>
     <tu>
