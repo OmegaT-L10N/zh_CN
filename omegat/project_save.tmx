@@ -1466,6 +1466,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>About &lt;a0&gt;OmegaT&lt;/a0&gt; - introduction</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="钢" changedate="20130911T123157Z">
+        <seg>关于 &lt;a0&gt;OmegaT&lt;/a0&gt; - 介绍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>About OmegaT</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T153640Z">
@@ -2473,10 +2481,26 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>DocBook</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="钢" changedate="20130911T123109Z">
+        <seg>DocBook</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dock</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T164309Z">
         <seg>停靠</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>DokuWiki</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="钢" changedate="20130911T123114Z">
+        <seg>DokuWiki</seg>
       </tuv>
     </tu>
     <tu>
@@ -3788,6 +3812,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Infix</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="钢" changedate="20130911T123103Z">
+        <seg>Infix</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Info</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T164352Z">
@@ -4021,6 +4053,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Key=Value Text</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="钢" changedate="20130911T123111Z">
+        <seg>Key=Value Text</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Keyword searches regard the specified query string as a set of search keywords (separated by space) and return all segments which contain all of the query words, in any order.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T151028Z">
@@ -4241,6 +4281,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T163638Z">
         <seg>机器翻译</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Magento CE Locale CSV</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="钢" changedate="20130911T123118Z">
+        <seg>Magento CE Locale CSV</seg>
       </tuv>
     </tu>
     <tu>
@@ -4765,6 +4813,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT highlights</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="钢" changedate="20130911T123204Z">
+        <seg>OmegaT 特色</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT is a computer-assisted translation (CAT) tool.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130514T145236Z">
@@ -4915,6 +4971,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T153108Z">
         <seg>Open XML 过滤器选项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OpenDocument</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="钢" changedate="20130911T123121Z">
+        <seg>OpenDocument</seg>
       </tuv>
     </tu>
     <tu>
