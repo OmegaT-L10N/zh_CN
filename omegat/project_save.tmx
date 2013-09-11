@@ -1823,6 +1823,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Camtasia for Windows</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="钢" changedate="20130911T115644Z">
+        <seg>Camtasia 的 Windows 版本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cancelled creating new team project</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130504T151856Z">
@@ -2825,6 +2833,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error unload plugin from class '{0}': {1}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="钢" changedate="20130911T115413Z">
+        <seg>从类 '{0}': 中卸载插件出错</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error while trying to edit the project!</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T053526Z">
@@ -3329,6 +3345,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Format:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="钢" changedate="20130911T115504Z">
+        <seg>格式：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>French</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T155722Z">
@@ -3533,6 +3557,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T153147Z">
         <seg>页眉（&amp;a）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Help &amp; Manual</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="钢" changedate="20130911T115611Z">
+        <seg>帮助和手册</seg>
       </tuv>
     </tu>
     <tu>
@@ -3901,6 +3933,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Jar used for plugins: {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="钢" changedate="20130911T115428Z">
+        <seg>插件所使用的 Jar：{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Java(TM) Resource Bundles</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T152502Z">
@@ -3945,6 +3985,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130911T115123Z">
         <seg>日志(&amp;o)……</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LaTeX</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="钢" changedate="20130911T115452Z">
+        <seg>LaTeX</seg>
       </tuv>
     </tu>
     <tu>
@@ -4301,6 +4349,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Monolingual</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="钢" changedate="20130911T115540Z">
+        <seg>单语</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mourning and sorrow&lt;p&gt;404 not with us now&lt;p&gt;Lost to paradise</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130509T153530Z">
@@ -4329,6 +4385,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T155809Z">
         <seg>上移(&amp;p)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mozilla DTD</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="钢" changedate="20130911T115553Z">
+        <seg>Mozilla DTD</seg>
       </tuv>
     </tu>
     <tu>
@@ -4863,6 +4927,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>PO</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="钢" changedate="20130911T115457Z">
+        <seg>PO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>PO Filter Options</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T152058Z">
@@ -5066,6 +5138,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T024759Z">
         <seg>请输入或者粘贴 mediawiki 页面的 URL </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Plugin successfully loaded from class '{0}'</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="钢" changedate="20130911T115448Z">
+        <seg>成功从类 '{0}' 中导入插件</seg>
       </tuv>
     </tu>
     <tu>
@@ -5298,6 +5378,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130504T151119Z">
         <seg>推送失败。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>QuarkXPress CopyFlow Gold</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="钢" changedate="20130911T115558Z">
+        <seg>QuarkXPress CopyFlow Gold</seg>
       </tuv>
     </tu>
     <tu>
@@ -5586,6 +5674,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130514T151525Z">
         <seg>在 SourceForge 网站的下列网址可以（用英语）提出改进建议：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ResX</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="钢" changedate="20130911T115606Z">
+        <seg>ResX</seg>
       </tuv>
     </tu>
     <tu>
@@ -6198,6 +6294,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Standard</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="钢" changedate="20130911T115507Z">
+        <seg>标准</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Start a new paragraph on:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T155645Z">
@@ -6370,6 +6474,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T160310Z">
         <seg>模板标量：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Text</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="钢" changedate="20130911T115601Z">
+        <seg>文本</seg>
       </tuv>
     </tu>
     <tu>
@@ -7390,6 +7502,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Windows Resources</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="钢" changedate="20130911T115549Z">
+        <seg>Windows 资源</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Word</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130504T162355Z">
@@ -7474,6 +7594,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T155653Z">
         <seg>XHTML 过滤器选项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>XLIFF</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="钢" changedate="20130911T115604Z">
+        <seg>XLIFF</seg>
       </tuv>
     </tu>
     <tu>
