@@ -8,7 +8,9 @@
         <glossary_file>__DEFAULT__</glossary_file>
         <dictionary_dir>__DEFAULT__</dictionary_dir>
         <source_lang>EN</source_lang>
-        <target_lang>ZH_CN</target_lang>
+        <target_lang>ZH-CN</target_lang>
+        <source_tok>org.omegat.tokenizer.LuceneEnglishTokenizer</source_tok>
+        <target_tok>org.omegat.tokenizer.LuceneSmartChineseTokenizer</target_tok>
         <sentence_seg>true</sentence_seg>
         <support_default_translations>true</support_default_translations>
         <remove_tags>false</remove_tags>
