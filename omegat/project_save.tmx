@@ -1290,6 +1290,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>3.1</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="钢" changedate="20130514T152512Z">
+        <seg>3.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>3.1 General</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130911T114645Z">
