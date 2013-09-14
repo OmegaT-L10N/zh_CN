@@ -2537,6 +2537,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Download Team Project</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="钢" changedate="20130914T121847Z">
+        <seg>下载团队项目(&amp;T)……</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dra&amp;wings</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T153411Z">
