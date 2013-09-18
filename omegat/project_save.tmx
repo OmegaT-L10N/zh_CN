@@ -8017,6 +8017,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://tech.groups.yahoo.com/group/OmegaT/</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="钢" changedate="20130514T145745Z">
+        <seg>http://tech.groups.yahoo.com/group/OmegaT/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>jWordSplitter (Apache License 2.0)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130509T154246Z">
