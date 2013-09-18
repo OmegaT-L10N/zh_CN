@@ -1426,14 +1426,6 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>==============================================================================</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130514T145242Z">
-        <seg>==============================================================================</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>A note is just a comment regarding this set of source text and translation.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T163921Z">
@@ -6974,8 +6966,8 @@ configuration folder cannot be reliably determined.</seg>
       <tuv lang="EN">
         <seg>This translation is the work of [insert your name], copyright© [insert year].</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130911T114540Z">
-        <seg>本译文由彭钢完成，版权 2013。</seg>
+      <tuv lang="ZH-CN" changeid="Puzzlist" changedate="20130918T033613Z">
+        <seg>本译文由彭钢、尹玉珺完成，版权 2013。</seg>
       </tuv>
     </tu>
     <tu>
