@@ -1282,6 +1282,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>3.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="钢" changedate="20130514T152511Z">
+        <seg>3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>3.1</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130514T152512Z">
@@ -1414,6 +1422,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130509T155259Z">
         <seg>&lt;none&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>==============================================================================</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="钢" changedate="20130514T145242Z">
+        <seg>==============================================================================</seg>
       </tuv>
     </tu>
     <tu>
@@ -7534,6 +7550,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>User support, at the Yahoo user group (multilingual), where the archives are</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Puzzlist" changedate="20130918T034404Z" creationid="Puzzlist" creationdate="20130918T034404Z">
+        <seg>在 Yahoo 用户组可以获得（多语种）用户支持，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>User's Manual</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T055312Z">
@@ -7985,14 +8009,6 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>http://tech.groups.yahoo.com/group/OmegaT/</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130514T145745Z">
-        <seg>http://tech.groups.yahoo.com/group/OmegaT/</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>jWordSplitter (Apache License 2.0)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130509T154246Z">
@@ -8053,6 +8069,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130509T154247Z">
         <seg>pdfbox-app-1.8.1.jar (Apache License 2.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>searchable without subscription:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Puzzlist" changedate="20130918T034411Z" creationid="Puzzlist" creationdate="20130918T034411Z">
+        <seg>无需订阅也可以对归档邮件进行搜索，网址是：</seg>
       </tuv>
     </tu>
     <tu>
