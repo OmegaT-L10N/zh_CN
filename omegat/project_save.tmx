@@ -3964,6 +3964,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is free, that is you</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Puzzlist" changedate="20130918T034648Z" creationid="Puzzlist" creationdate="20130918T034648Z">
+        <seg>它是免费的，也就是说你</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is used to mark your translations.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T155811Z">
