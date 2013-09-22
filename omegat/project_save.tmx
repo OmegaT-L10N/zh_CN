@@ -4271,10 +4271,26 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Linux on PowerPC systems:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Puzzlist" changedate="20130922T041906Z" creationid="Puzzlist" creationdate="20130922T041906Z">
+        <seg>PowerPC 系统上的 Linux:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Linux users:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Puzzlist" changedate="20130922T041429Z" creationid="Puzzlist" creationdate="20130922T041429Z">
         <seg>Linux 用户</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Lion users will be prompted by the system when they first launch an application that requires Java and the system will eventually automatically download and install it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Puzzlist" changedate="20130922T041849Z" creationid="Puzzlist" creationdate="20130922T041849Z">
+        <seg>Lion 用户在第一次运行需要 Java 的应用程序时都会收到提示信息，系统最终将会自动下载并进行安装。</seg>
       </tuv>
     </tu>
     <tu>
