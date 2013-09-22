@@ -903,6 +903,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>* Windows users:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Puzzlist" changedate="20130922T042045Z" creationid="Puzzlist" creationdate="20130922T042045Z">
+        <seg>* Windows 用户：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- (X)HTML (*.html, *.xhtml,*.xht)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130514T151921Z">
@@ -1302,6 +1310,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130911T114645Z">
         <seg>3.1 综述 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3.2 Installation</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Puzzlist" changedate="20130922T042032Z" creationid="Puzzlist" creationdate="20130922T042032Z">
+        <seg>3.2 安装</seg>
       </tuv>
     </tu>
     <tu>
@@ -2541,6 +2557,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130914T121847Z">
         <seg>下载团队项目(&amp;T)……</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Download in this case from:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Puzzlist" changedate="20130922T042020Z" creationid="Puzzlist" creationdate="20130922T042020Z">
+        <seg>在此情况下应该从下列地址下载：</seg>
       </tuv>
     </tu>
     <tu>
@@ -7780,6 +7804,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T161005Z">
         <seg>用户名：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Users will need to download IBM's JRE, as Sun does not provide a JRE for PPC systems.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Puzzlist" changedate="20130922T042001Z" creationid="Puzzlist" creationdate="20130922T041957Z">
+        <seg>用户将需要下载 IBM 的 JRE，因为 Sun 公司没有提供 PPC 系统的 JRE。</seg>
       </tuv>
     </tu>
     <tu>
