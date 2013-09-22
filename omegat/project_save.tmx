@@ -3772,6 +3772,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you are not very familiar with Linux, we therefore recommend that you install an OmegaT version with JRE included.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Puzzlist" changedate="20130922T041540Z" creationid="Puzzlist" creationdate="20130922T041540Z">
+        <seg>如果对 Linux 不是很熟悉的话，我们建议安装带有 JRE 的 OmegaT 版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are using an authenticated proxy, please enter here your user and password.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130504T165542Z">
@@ -3784,6 +3792,15 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Puzzlist" changedate="20130922T041305Z" creationid="Puzzlist" creationdate="20130922T041305Z">
         <seg>如果已经装了 Java，安装当前版本 OmegaT 的途径之一是使用 Java Web Start。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you install a version of Java at system level, you must either ensure that it is in your launch path, or call it explicitly when launching OmegaT.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Puzzlist" changedate="20130922T041539Z" creationid="Puzzlist" creationdate="20130922T041539Z">
+        <seg>如果在系统级安装了某个版本的 Java，你要么确保它处于启动路径当中，
+要么必须在启动 OmegaT 时明确地对它进行调用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4354,6 +4371,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T153813Z">
         <seg>Steve Roy 的 MRJ Adapter （LGPL 许可协议）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mac users:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Puzzlist" changedate="20130922T041635Z" creationid="Puzzlist" creationdate="20130922T041635Z">
+        <seg>Mac 用户：</seg>
       </tuv>
     </tu>
     <tu>
@@ -6832,6 +6857,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The JRE is already installed on Mac OS X before Mac OS X 10.7 (Lion).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Puzzlist" changedate="20130922T041730Z" creationid="Puzzlist" creationdate="20130922T041730Z">
+        <seg>在 Mac OS X 10.7 (Lion) 之前的 Mac OS X 版本中都安装了 JRE。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The PO filter threw an exception:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T152256Z">
@@ -7065,6 +7098,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Puzzlist" changedate="20130922T041421Z" creationid="Puzzlist" creationdate="20130922T041421Z">
         <seg>这样做是安全的，因为即便系统中已经安装了 JRE ,该版本也不会与之冲突。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is safe, since this "local" JRE will not interfere with any other JRE installed on your system.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Puzzlist" changedate="20130922T041630Z" creationid="Puzzlist" creationdate="20130922T041630Z">
+        <seg>这样做是安全的，因为这种“本地的”JRE 将不会和系统中安装的任何 JRE 有冲突。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7835,6 +7876,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T162057Z">
         <seg>警告：改变标签顺序可能会破坏译文文档！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We therefore recommend that you download and install either the Oracle Java Runtime Environment (JRE) or the OmegaT package bundled with JRE (the .tar.bz2) bundle marked "Linux").</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Puzzlist" changedate="20130922T041532Z" creationid="Puzzlist" creationdate="20130922T041532Z">
+        <seg>因此，我们建议下载安装或者 Oracle Java 运行环境（JRE），或者标有"Linix"并绑定了 JRE 的 OmegaT 安装包（.tar.bz2）。</seg>
       </tuv>
     </tu>
     <tu>
