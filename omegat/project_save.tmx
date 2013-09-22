@@ -3764,6 +3764,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you are in any doubt, we recommend that you use the version supplied with JRE.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Puzzlist" changedate="20130922T041419Z" creationid="Puzzlist" creationdate="20130922T041419Z">
+        <seg>如果还是有疑问，我们建议您使用附带了 JRE 的版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are using an authenticated proxy, please enter here your user and password.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130504T165542Z">
@@ -4242,6 +4250,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T152857Z">
         <seg>链接 (&amp;URL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Linux users:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Puzzlist" changedate="20130922T041429Z" creationid="Puzzlist" creationdate="20130922T041429Z">
+        <seg>Linux 用户</seg>
       </tuv>
     </tu>
     <tu>
@@ -5000,6 +5016,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT will run on the open-implementation source Java packaged with many Linux distributions (for example, Ubuntu), but you may experience bugs, display problems or missing features.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Puzzlist" changedate="20130922T041441Z" creationid="Puzzlist" creationdate="20130922T041441Z">
+        <seg>OmegaT 也行可以在很多 Linux 发行版本（如Ubutntu）所附带的开源 Java 包之上运行，但可能会遇到 Bug、显示问题或者功能缺失。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT will try to resegment the TMX file...</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T151602Z">
@@ -5012,6 +5036,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130514T145338Z">
         <seg>OmegaT 的主要特性包括：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT-{0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="钢" changedate="20130505T155531Z">
+        <seg>OmegaT-{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -6559,6 +6591,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Subsequent clicks on  OmegaT.jnlp will check for any upgrades, if you are online, install them if there are any, and then start OmegaT.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Puzzlist" changedate="20130922T041413Z" creationid="Puzzlist" creationdate="20130922T041413Z">
+        <seg>如果处于在线状态，之后再点击 OmegaT.jnlp 将会检查是否有升级，如果有的话将安装升级包并运行 OmegaT。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Swedish</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T155723Z">
@@ -6825,6 +6865,14 @@ Please try to correct the error and reload the project.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The alternative ways and means of dowloading and installing OmegaT are shown below.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Puzzlist" changedate="20130922T041415Z" creationid="Puzzlist" creationdate="20130922T041415Z">
+        <seg>另一种方法下载并安装 OmegaT 的方法如下所述：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The certificate is self-signed by "Didier Briel".</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Puzzlist" changedate="20130922T041335Z">
@@ -7009,6 +7057,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130504T152615Z">
         <seg>该命令将在创建已译文档之后执行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is safe, since even if the JRE is already installed on your system, this version will not interfere with it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Puzzlist" changedate="20130922T041421Z" creationid="Puzzlist" creationdate="20130922T041421Z">
+        <seg>这样做是安全的，因为即便系统中已经安装了 JRE ,该版本也不会与之冲突。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7831,6 +7887,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Windows and Linux users: if you are confident that your system already has a suitable version of the JRE installed, you can install the version of OmegaT without the JRE (this is indicated in the name of the version,"Without_JRE").</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Puzzlist" changedate="20130922T041416Z" creationid="Puzzlist" creationdate="20130922T041416Z">
+        <seg>Windows 和 Linux 用户: 如果确信系统已经安装了合适的 JRE 版本，你可以安装不带 JRE 的 OmegaT 版本版本名称中标明为 without_JRE。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Word</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130504T162355Z">
@@ -8086,6 +8150,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T154619Z">
         <seg>href (&amp;links 的 URL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://omegat.sourceforge.net/webstart/OmegaT.jnlp</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="钢" changedate="20130514T154817Z">
+        <seg>http://omegat.sourceforge.net/webstart/OmegaT.jnlp</seg>
       </tuv>
     </tu>
     <tu>
