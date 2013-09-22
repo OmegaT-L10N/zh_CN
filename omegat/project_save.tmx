@@ -3870,8 +3870,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>Insert Missing Source &amp;Tags</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130505T162310Z">
-        <seg>插入丢失的原文标签（&amp;T）</seg>
+      <tuv lang="ZH-CN" changeid="Puzzlist" changedate="20130922T035838Z">
+        <seg>插入丢失的原文标签(&amp;T)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3918,8 +3918,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>Installing and running OmegaT" in the User Manual.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T023220Z">
-        <seg>《安装运行 OmegaT》。</seg>
+      <tuv lang="ZH-CN" changeid="Puzzlist" changedate="20130922T035602Z">
+        <seg>用户手册的《安装运行 OmegaT》章节。</seg>
       </tuv>
     </tu>
     <tu>
