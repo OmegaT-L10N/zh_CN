@@ -4951,14 +4951,6 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>OmegaT-{0}</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130505T155531Z">
-        <seg>OmegaT-{0}</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>OmegaT-{0}_{1}</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130505T155535Z">
