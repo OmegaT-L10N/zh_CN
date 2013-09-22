@@ -64,8 +64,8 @@
       <tuv lang="EN">
         <seg>&amp;Apply this font to the Project Files window</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T055250Z">
-        <seg>将该字体应用到项目文件窗口（&amp;A）</seg>
+      <tuv lang="ZH-CN" changeid="Puzzlist" changedate="20130922T040011Z">
+        <seg>将该字体应用到项目文件窗口(&amp;A)</seg>
       </tuv>
     </tu>
     <tu>
@@ -440,8 +440,8 @@
       <tuv lang="EN">
         <seg>&amp;Match Statistics</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130505T162550Z">
-        <seg>匹配项统计数据（&amp;M）</seg>
+      <tuv lang="ZH-CN" changeid="Puzzlist" changedate="20130922T035924Z">
+        <seg>匹配项统计数据(&amp;M)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1759,14 +1759,6 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Bartender yells loud:&lt;p&gt;Your page cannot be found, boy&lt;p&gt;Buy another drink.</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130509T153528Z">
-        <seg>Bartender yells loud:&lt;p&gt;Your page cannot be found, boy&lt;p&gt;Buy another drink.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Base64 (public domain)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130509T154241Z">
@@ -1953,16 +1945,16 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Characters (including spaces)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T143754Z">
-        <seg>字符（含空白）</seg>
+      <tuv lang="ZH-CN" changeid="Puzzlist" changedate="20130922T040107Z">
+        <seg>字符(含空白)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Characters (without spaces)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T143752Z">
-        <seg>字符（不含空白字符）</seg>
+      <tuv lang="ZH-CN" changeid="Puzzlist" changedate="20130922T040102Z">
+        <seg>字符(不含空白字符)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2657,18 +2649,10 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Emptiness of soul&lt;p&gt;Forever aching blackness&lt;p&gt;Your help page not found</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130509T153529Z">
-        <seg>Emptiness of soul&lt;p&gt;Forever aching blackness&lt;p&gt;Your help page not found</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Enable &amp;TransTips</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130505T162846Z">
-        <seg>打开翻译提示功能（&amp;T）</seg>
+      <tuv lang="ZH-CN" changeid="Puzzlist" changedate="20130922T035943Z">
+        <seg>打开翻译提示功能(&amp;T)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2741,14 +2725,6 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130505T164513Z">
         <seg>修改了标签的条目</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Ephemeral page&lt;p&gt;I am the Blue Screen of Death&lt;p&gt;No one hears your screams.</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130509T153529Z">
-        <seg>Ephemeral page&lt;p&gt;I am the Blue Screen of Death&lt;p&gt;No one hears your screams.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3049,14 +3025,6 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Exciting help page&lt;p&gt;Gossamer threads hold you back&lt;p&gt;404 not found</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130509T153518Z">
-        <seg>Exciting help page&lt;p&gt;Gossamer threads hold you back&lt;p&gt;404 not found</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Executing external command...</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T143320Z">
@@ -3291,8 +3259,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>File: translated / number of segments (project: unique translated / unique, total number of segments)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T055203Z">
-        <seg>文件：已译/片段数量（项目：独特已译/独特，片段总量）</seg>
+      <tuv lang="ZH-CN" changeid="Puzzlist" changedate="20130922T035956Z">
+        <seg>文件：已译/片段数量(项目：独特已译/独特，片段总量)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3653,14 +3621,6 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130911T115611Z">
         <seg>帮助和手册</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Help you are seeking&lt;p&gt;From your path it is fleeing&lt;p&gt;Its winter has come</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130509T153531Z">
-        <seg>Help you are seeking&lt;p&gt;From your path it is fleeing&lt;p&gt;Its winter has come</seg>
       </tuv>
     </tu>
     <tu>
@@ -4493,14 +4453,6 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Mourning and sorrow&lt;p&gt;404 not with us now&lt;p&gt;Lost to paradise</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130509T153530Z">
-        <seg>Mourning and sorrow&lt;p&gt;404 not with us now&lt;p&gt;Lost to paradise</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Move &amp;Up</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T155810Z">
@@ -5087,14 +5039,6 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Page slips through fingers&lt;p&gt;Pulse pounding hard and frantic&lt;p&gt;Vanishing like mist.</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130509T153528Z">
-        <seg>Page slips through fingers&lt;p&gt;Pulse pounding hard and frantic&lt;p&gt;Vanishing like mist.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Parse error encountered reading preferences file!</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T151437Z">
@@ -5566,14 +5510,6 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Rather than beep&lt;p&gt;Or a rude error message&lt;p&gt;These words: 'Page not found'</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130509T153530Z">
-        <seg>Rather than beep&lt;p&gt;Or a rude error message&lt;p&gt;These words: 'Page not found'</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Re&amp;move Filter</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T022629Z">
@@ -5680,8 +5616,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Remaining Characters (without spaces)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T144041Z">
-        <seg>剩余字符（不含空白）</seg>
+      <tuv lang="ZH-CN" changeid="Puzzlist" changedate="20130922T040126Z">
+        <seg>剩余字符(不含空白)</seg>
       </tuv>
     </tu>
     <tu>
@@ -6786,14 +6722,6 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>The help page you seek&lt;p&gt;Lies beyond our perception&lt;p&gt;But others await</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130509T153528Z">
-        <seg>The help page you seek&lt;p&gt;Lies beyond our perception&lt;p&gt;But others await</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>The language code should be in the form xx-YY, xxx-YY, xx_YY or xxx_YY, where 
 xx or xxx is the language code and YY is the region or country code (optional).</seg>
       </tuv>
@@ -6888,14 +6816,6 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T164345Z">
         <seg>因此，OmegaT 的配置文件夹无法被可靠确认。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>These three are certain:&lt;p&gt;Death, taxes, and page not found.&lt;p&gt;You, victim of one.</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130509T153528Z">
-        <seg>These three are certain:&lt;p&gt;Death, taxes, and page not found.&lt;p&gt;You, victim of one.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7030,8 +6950,8 @@ configuration folder cannot be reliably determined.</seg>
       <tuv lang="EN">
         <seg>Total Characters (without spaces)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T144041Z">
-        <seg>总字符（不含空白）</seg>
+      <tuv lang="ZH-CN" changeid="Puzzlist" changedate="20130922T040119Z">
+        <seg>总字符(不含空白)</seg>
       </tuv>
     </tu>
     <tu>
@@ -7366,8 +7286,8 @@ configuration folder cannot be reliably determined.</seg>
       <tuv lang="EN">
         <seg>Unique Characters (without spaces)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T144200Z">
-        <seg>独特字符（不含空白）</seg>
+      <tuv lang="ZH-CN" changeid="Puzzlist" changedate="20130922T040133Z">
+        <seg>独特字符(不含空白)</seg>
       </tuv>
     </tu>
     <tu>
@@ -7722,14 +7642,6 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130504T150758Z">
         <seg>将在下一次进行同步。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Wind catches lily&lt;p&gt;Scatt'ring petals to the wind:&lt;p&gt;Your page is not found</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130509T153525Z">
-        <seg>Wind catches lily&lt;p&gt;Scatt'ring petals to the wind:&lt;p&gt;Your page is not found</seg>
       </tuv>
     </tu>
     <tu>
