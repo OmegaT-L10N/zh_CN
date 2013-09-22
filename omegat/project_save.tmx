@@ -2561,6 +2561,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>During the installation, depending on your operating system, you may receive several security warnings.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Puzzlist" changedate="20130922T041315Z" creationid="Puzzlist" creationdate="20130922T041315Z">
+        <seg>在安装期间，根据操作系统的不同，你可能会收到几条安全警告。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dutch</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T155722Z">
@@ -3393,6 +3401,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For a quick-start tutorial, launch OmegaT and read the displayed Instant Start Tutorial.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Puzzlist" changedate="20130922T041229Z" creationid="Puzzlist" creationdate="20130922T041229Z">
+        <seg>如果需要快速入门指南，可运行 OmegaT 并阅读所显示的《即时入门指南》。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For this purpose download the following file and then execute it:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130514T154811Z">
@@ -3756,6 +3772,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you have already Java, one way to install the current version of OmegaT is to use Java Web Start.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Puzzlist" changedate="20130922T041305Z" creationid="Puzzlist" creationdate="20130922T041305Z">
+        <seg>如果已经装了 Java，安装当前版本 OmegaT 的途径之一是使用 Java Web Start。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you want to use the same language in OmegaT as the one used during installation, check the box below.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130514T144415Z">
@@ -3792,6 +3816,15 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130911T114914Z">
         <seg>为了运行 OmegaT，系统中需要安装 Java 运行环境（JRE）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In order to run, OmegaT requires the Java Runtime Environment (JRE) version 1.5 or higher to be installed on your system.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Puzzlist" changedate="20130922T041245Z" creationid="Puzzlist" creationdate="20130922T041245Z">
+        <seg>3.1 综述
+要想运行 OmegaT，系统必须安装了 1.5 或更高版本的 Java 运行环境 (JRE)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3972,6 +4005,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is free, that is you don't have to pay anything to be able to use it, even for professional use, and you are free to modify it and/or re-distribute it as long as you respect the user license.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Puzzlist" changedate="20130922T041221Z" creationid="Puzzlist" creationdate="20130922T041221Z">
+        <seg>它是免费的，也就是说无需支付任何费用就可以使用，甚至是用于专业用途；而且只要遵守用户授权协议，你就可以对它进行自由修改并且或重新发布。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is used to mark your translations.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T155811Z">
@@ -3993,6 +4034,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130505T164546Z">
         <seg>由于标签丢失或者损坏，无法创建译文文档。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It will install the correct environment for your computer and the application itself on the first run.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Puzzlist" changedate="20130922T041308Z" creationid="Puzzlist" creationdate="20130922T041308Z">
+        <seg>它将在第一次运行时给您的计算机安装正确的环境和应用程序本身。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4887,6 +4936,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT packages which include the Java Runtime Environment are now  available to save users the trouble of selecting, obtaining and installing it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Puzzlist" changedate="20130922T041301Z" creationid="Puzzlist" creationdate="20130922T041301Z">
+        <seg>目前，封装了 Java 运行环境的 OmegaT 安装包可省去用户选择、获取和安装它的麻烦。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT ran out of memory, and will quit when you press OK.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T022926Z">
@@ -4923,6 +4980,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T153639Z">
         <seg>OmegaT 版本{0}, 第{1}次更新</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT will automatically parse even the most complex source folder hierarchies, to access all the supported files, and produce a target folder with exactly the same structure, including copies of any non-supported files.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Puzzlist" changedate="20130922T041226Z" creationid="Puzzlist" creationdate="20130922T041226Z">
+        <seg>即便是遭遇结构极其复杂的原文目录，OmegaT 也可以自动分析，访问所有支持的文件，制作一个结构完全相同且包含所有未支持文件的译文目录。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6762,8 +6827,8 @@ Please try to correct the error and reload the project.</seg>
       <tuv lang="EN">
         <seg>The certificate is self-signed by "Didier Briel".</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130514T154910Z">
-        <seg>该证书由 "Didier Briel" 自行签署。</seg>
+      <tuv lang="ZH-CN" changeid="Puzzlist" changedate="20130922T041335Z">
+        <seg>该证书由 "Didier Briel" 自签名。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6807,6 +6872,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130514T145738Z">
         <seg>可从下列网址获取 OmegaT 的最新信息：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The permissions you give to this version (which might be mentioned as an "unrestricted access to the computer") are identical  to permissions you give to the local version, as installed by a procedure, described later: they allow an access to the hard drive of the computer.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Puzzlist" changedate="20130922T041320Z" creationid="Puzzlist" creationdate="20130922T041320Z">
+        <seg>您赋予该版本的许可可能会被认为是“对计算机的无限制访问”和您给予本地版本的一样的，如同后面提到的按步骤安装：它们被允许访问计算机硬盘。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6855,6 +6928,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130504T152954Z">
         <seg>译文已修改。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The user manual is in the package you just downloaded, you can access it from the [Help] menu after starting OmegaT.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Puzzlist" changedate="20130922T041238Z" creationid="Puzzlist" creationdate="20130922T041238Z">
+        <seg>用户手册就在刚才下载的文件包中，启动 OmegaT 后可从【帮助】菜单打开。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7558,6 +7639,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>User support, at the Yahoo user group (multilingual), where the archives are searchable without subscription:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Puzzlist" changedate="20130922T041205Z" creationid="Puzzlist" creationdate="20130922T041205Z">
+        <seg>在 Yahoo 用户组可以获得多语种用户支持，无需订阅也可以对归档邮件进行搜索，网址是：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>User's Manual</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T055312Z">
@@ -7997,14 +8086,6 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T154619Z">
         <seg>href (&amp;links 的 URL)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>http://omegat.sourceforge.net/webstart/OmegaT.jnlp</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130514T154817Z">
-        <seg>http://omegat.sourceforge.net/webstart/OmegaT.jnlp</seg>
       </tuv>
     </tu>
     <tu>
