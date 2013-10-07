@@ -1386,6 +1386,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; is a free multi platform Computer Aided Translation tool, with the following highlights:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Yujun Yin" changedate="20131007T072321Z" creationid="Yujun Yin" creationdate="20131007T072321Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt;是一种免费的多平台计算机辅助翻译工具软件，具有以下特色功能：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;auto&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130504T162032Z">
