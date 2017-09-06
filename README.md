@@ -1,1 +1,1 @@
-# zh_CN
+# Chinese (Mainland China) OmegaT Localisation
