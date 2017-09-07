@@ -13,6 +13,33 @@
         <target_tok>org.omegat.tokenizer.LuceneSmartChineseTokenizer</target_tok>
         <sentence_seg>true</sentence_seg>
         <support_default_translations>true</support_default_translations>
-        <remove_tags>false</remove_tags>
+        <remove_tags>false</remove_tags>       
+        <external_command></external_command>
+        <repositories>
+            <repository type="git" url="https://github.com/OmegaT-L10N/zh_CN.git">
+                <mapping local="/" repository="/"/>
+            </repository>
+            <repository type="svn" url="https://svn.code.sf.net/p/omegat/svn/trunk/doc_src/en">
+                <mapping local="source/doc_src/" repository="/"/>
+            </repository>
+            <repository type="http" url="https://svn.code.sf.net/p/omegat/svn/trunk/">
+                <mapping local="source/Bundle.properties" repository="src/org/omegat/Bundle.properties"/>
+                <mapping local="source/readme_zh_CN.txt" repository="release/readme.txt"/>
+                <mapping local="source/release/win32-specific/CustomMessages.ini" repository="release/win32-specific/CustomMessages.ini"/>
+                <mapping local="source/scripts/check_rules.properties" repository="scripts/properties/check_rules.properties"/>
+                <mapping local="source/scripts/spellcheck.properties" repository="scripts/properties/spellcheck.properties"/>
+                <mapping local="source/scripts/svn_cleanup_selected.properties" repository="scripts/properties/svn_cleanup_selected.properties"/>
+                <mapping local="source/scripts/search_replace.properties" repository="scripts/properties/search_replace.properties"/>
+                <mapping local="source/scripts/replace_strip_tags.properties" repository="scripts/properties/replace_strip_tags.properties"/>
+                <mapping local="source/scripts/strip_bidi_marks.properties" repository="scripts/properties/strip_bidi_marks.properties"/>
+                <mapping local="source/scripts/nbsp.properties" repository="scripts/properties/nbsp.properties"/>
+            </repository>
+            <repository type="http" url="https://svn.code.sf.net/p/omegat/svn/trunk/release/mac-specific/OmegaT.app/Contents/Resources/en.lproj/">
+                <mapping local="source/release/mac-specific/Localizable.strings" repository="Localizable.strings"/>
+            </repository>
+            <repository type="svn" url="https://github.com/omegat-org/omegat-website.git/trunk/_i18n/en/">
+                <mapping local="source/website/" repository="/"/>
+            </repository>
+        </repositories>
     </project>
 </omegat>
