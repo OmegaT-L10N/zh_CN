@@ -40,6 +40,9 @@
             <repository type="svn" url="https://github.com/omegat-org/omegat-website.git/trunk/_i18n/en/">
                 <mapping local="source/website/" repository="/"/>
             </repository>
+            <repository type="http" url="https://github.com/omegat-org/omegat-website/">
+                <mapping local="source/website/yml/zh_CN.yml" repository="raw/master/_i18n/en.yml"/>
+            </repository>            
         </repositories>
     </project>
 </omegat>
