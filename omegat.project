@@ -19,10 +19,10 @@
             <repository type="git" url="https://github.com/OmegaT-L10N/zh_CN.git">
                 <mapping local="/" repository="/"/>
             </repository>
-            <repository type="svn" url="https://svn.code.sf.net/p/omegat/svn/trunk/doc_src/en">
+            <repository type="svn" url="https://github.com/omegat-org/omegat.git/trunk/doc_src/en">
                 <mapping local="source/doc_src/" repository="/"/>
             </repository>
-            <repository type="http" url="https://svn.code.sf.net/p/omegat/svn/trunk/">
+            <repository type="http" url="https://github.com/omegat-org/omegat/raw/master/">
                 <mapping local="source/Bundle.properties" repository="src/org/omegat/Bundle.properties"/>
                 <mapping local="source/readme_zh_CN.txt" repository="release/readme.txt"/>
                 <mapping local="source/release/win32-specific/CustomMessages.ini" repository="release/win32-specific/CustomMessages.ini"/>
@@ -34,7 +34,7 @@
                 <mapping local="source/scripts/strip_bidi_marks.properties" repository="scripts/properties/strip_bidi_marks.properties"/>
                 <mapping local="source/scripts/nbsp.properties" repository="scripts/properties/nbsp.properties"/>
             </repository>
-            <repository type="http" url="https://svn.code.sf.net/p/omegat/svn/trunk/release/mac-specific/OmegaT.app/Contents/Resources/en.lproj/">
+            <repository type="http" url="https://github.com/omegat-org/omegat/raw/master/release/mac-specific/OmegaT.app/Contents/Resources/en.lproj/">
                 <mapping local="source/release/mac-specific/Localizable.strings" repository="Localizable.strings"/>
             </repository>
             <repository type="svn" url="https://github.com/omegat-org/omegat-website.git/trunk/_i18n/en/">
