@@ -424,6 +424,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Enable glossary suggestions</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180403T142435Z" creationid="xulihang" creationdate="20180403T142435Z">
+        <seg>启用词语建议(&amp;E)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Endnotes</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T153147Z">
@@ -21584,6 +21592,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180403T133338Z" creationid="xulihang" creationdate="20180403T133338Z">
         <seg>优先显示较长的目标术语(&amp;l)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show &amp;source term first</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180403T142414Z" creationid="xulihang" creationdate="20180403T142414Z">
+        <seg>优先显示源术语(&amp;s)</seg>
       </tuv>
     </tu>
     <tu>
