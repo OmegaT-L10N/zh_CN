@@ -1,1 +1,3 @@
 segment	片段
+History Completion	历史完成
+History Prediction	历史预测
