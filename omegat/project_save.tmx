@@ -2159,6 +2159,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Character table</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180403T123607Z" creationid="xulihang" creationdate="20180403T123607Z">
+        <seg>字符表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Characters (including spaces)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Puzzlist" changedate="20130922T040107Z">
@@ -3941,6 +3949,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T165114Z">
         <seg>隐藏 '{0}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>History Completions</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180403T123625Z" creationid="xulihang" creationdate="20180403T123625Z">
+        <seg>历史完成</seg>
       </tuv>
     </tu>
     <tu>
