@@ -21598,16 +21598,16 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Show &amp;source term first</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180403T142414Z" creationid="xulihang" creationdate="20180403T142414Z">
-        <seg>优先显示源术语(&amp;s)</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180403T143402Z" creationid="xulihang" creationdate="20180403T142414Z">
+        <seg>首先显示源术语(&amp;s)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Show &amp;target term first</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180403T141935Z" creationid="xulihang" creationdate="20180403T141935Z">
-        <seg>优先显示目标术语(&amp;t)</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180403T143352Z" creationid="xulihang" creationdate="20180403T141935Z">
+        <seg>首先显示目标术语(&amp;t)</seg>
       </tuv>
     </tu>
     <tu>
