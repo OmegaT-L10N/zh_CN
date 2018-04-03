@@ -21846,8 +21846,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Sort by source term &amp;alphabetically</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180403T133418Z" creationid="xulihang" creationdate="20180403T133418Z">
-        <seg>按源术语字母顺序排列(a)</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180403T133448Z" creationid="xulihang" creationdate="20180403T133418Z">
+        <seg>按源术语字母顺序排列(&amp;a)</seg>
       </tuv>
     </tu>
     <tu>
