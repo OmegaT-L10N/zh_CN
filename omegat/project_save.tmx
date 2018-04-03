@@ -5824,10 +5824,18 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Press &lt;u&gt;{0}&lt;/u&gt; to go to &lt;b&gt;{1}&lt;/b&gt; suggestions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180403T123539Z" creationid="xulihang" creationdate="20180403T123539Z">
+        <seg>按下 &lt;u&gt;{0}&lt;/u&gt;以跳到&lt;b&gt;{1}&lt;/b&gt; 建议。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Press &lt;u&gt;{0}&lt;/u&gt; to return to &lt;b&gt;{1}&lt;/b&gt; suggestions.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180403T123457Z" creationid="xulihang" creationdate="20180403T123457Z">
-        <seg>按下&lt;u&gt;{0}&lt;/u&gt;来返回到&lt;b&gt;{1}&lt;/b&gt;建议。</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180403T123542Z" creationid="xulihang" creationdate="20180403T123457Z">
+        <seg>按下&lt;u&gt;{0}&lt;/u&gt;以返回到&lt;b&gt;{1}&lt;/b&gt;建议。</seg>
       </tuv>
     </tu>
     <tu>
