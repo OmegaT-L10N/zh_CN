@@ -2569,6 +2569,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Displa&amp;y source terms</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180403T125054Z" creationid="xulihang" creationdate="20180403T125054Z">
+        <seg>显示源术语(&amp;y)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Display &amp;None</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T164612Z">
@@ -3963,7 +3971,7 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>History Predictions</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180403T123757Z" creationid="xulihang" creationdate="20180403T123757Z">
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180403T124448Z" creationid="xulihang" creationdate="20180403T124448Z">
         <seg>历史预测</seg>
       </tuv>
     </tu>
