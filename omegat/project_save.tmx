@@ -23086,8 +23086,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>TaaS Terminology</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T030503Z" creationid="xulihang" creationdate="20180404T030503Z">
-        <seg>TaaS术语y</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T033853Z" creationid="xulihang" creationdate="20180404T030503Z">
+        <seg>TaaS术语</seg>
       </tuv>
     </tu>
     <tu>
@@ -27982,8 +27982,8 @@ configuration folder cannot be reliably determined.</seg>
       <tuv lang="EN">
         <seg>Unauthorized request to TaaS service.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T030127Z" creationid="xulihang" creationdate="20180404T030127Z">
-        <seg>未授权的TaaS服务请求</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T033847Z" creationid="xulihang" creationdate="20180404T030127Z">
+        <seg>未授权的TaaS服务请求。</seg>
       </tuv>
     </tu>
     <tu>
