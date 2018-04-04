@@ -408,6 +408,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Download</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T025650Z" creationid="xulihang" creationdate="20180404T025650Z">
+        <seg>下载(&amp;D)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Edit</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T024936Z">
@@ -944,6 +952,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Select</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T025705Z" creationid="xulihang" creationdate="20180404T025705Z">
+        <seg>选择(&amp;S)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Sheet Names</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T153026Z">
@@ -1004,6 +1020,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130505T162529Z">
         <seg>统计数据（&amp;S）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;TaaS Terminology Lookup</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T025445Z" creationid="xulihang" creationdate="20180404T025445Z">
+        <seg>TaaS术语查询(&amp;T)</seg>
       </tuv>
     </tu>
     <tu>
@@ -6415,6 +6439,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All domains</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T025908Z" creationid="xulihang" creationdate="20180404T025657Z">
+        <seg>所有领域</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All of OmegaT's functions are available through the menu bar at the top of the Editor window.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120209T120918Z">
@@ -9184,6 +9216,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Description</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T025512Z" creationid="xulihang" creationdate="20180404T025512Z">
+        <seg>描述</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Detail View</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T024752Z" creationid="xulihang" creationdate="20180404T024752Z">
@@ -9704,6 +9744,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Domains</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T025918Z" creationid="xulihang" creationdate="20180404T025633Z">
+        <seg>领域</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Done</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T024300Z" creationid="xulihang" creationdate="20180404T024300Z">
@@ -9772,6 +9820,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130914T121847Z">
         <seg>下载团队项目(&amp;T)……</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Download collection {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T030101Z" creationid="xulihang" creationdate="20180404T030101Z">
+        <seg>下载合集 {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -10460,6 +10516,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130911T115413Z">
         <seg>从类 '{0}': 中卸载插件出错</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error updating glossary file</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T030227Z" creationid="xulihang" creationdate="20180404T030227Z">
+        <seg>上传术语表文件错误</seg>
       </tuv>
     </tu>
     <tu>
@@ -16776,6 +16840,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Name</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T025507Z" creationid="xulihang" creationdate="20180404T025507Z">
+        <seg>名称</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Name of the TMX</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131127T130453Z" creationid="Fu Rhong" creationdate="20131127T130453Z">
@@ -20524,6 +20596,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Request error: {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T030108Z" creationid="xulihang" creationdate="20180404T030108Z">
+        <seg>请求错误: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Request to TaaS: {0}</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T025308Z" creationid="xulihang" creationdate="20180404T025308Z">
@@ -20608,6 +20688,22 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T165630Z">
         <seg>结果：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Retrieve collection list...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T025720Z" creationid="xulihang" creationdate="20180404T025720Z">
+        <seg>获得术语集列表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Retrieve domain list...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T030050Z" creationid="xulihang" creationdate="20180404T030050Z">
+        <seg>获取领域列表</seg>
       </tuv>
     </tu>
     <tu>
@@ -21566,8 +21662,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Select TaaS Terminology &amp;Lookup Domain...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T025418Z" creationid="xulihang" creationdate="20180404T025418Z">
-        <seg>选择TaaS术语和查询域(&amp;L)</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T025902Z" creationid="xulihang" creationdate="20180404T025418Z">
+        <seg>选择TaaS术语和查询领域(&amp;L)</seg>
       </tuv>
     </tu>
     <tu>
@@ -22148,6 +22244,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Something went wrong, please visit Tilde Terminology for details.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T030200Z" creationid="xulihang" creationdate="20180404T030200Z">
+        <seg>有错误发生，请访问Tilde Terminology获得具体信息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sometimes you may wish to rename the files you translate automatically, for example adding a language code after the file name.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120201T121816Z">
@@ -22280,6 +22384,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
         <seg>源和目标编码字段使用的组合框包括了所支持的全部编码。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source count</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T025550Z" creationid="xulihang" creationdate="20180404T025532Z">
+        <seg>源数量</seg>
       </tuv>
     </tu>
     <tu>
@@ -22788,6 +22900,22 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>TaaS API key not set.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T030245Z" creationid="xulihang" creationdate="20180404T030245Z">
+        <seg>TaaS API key未设置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TaaS Collections</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T025453Z" creationid="xulihang" creationdate="20180404T025453Z">
+        <seg>TaaS术语集</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tab</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130509T153346Z">
@@ -23064,6 +23192,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
         <seg>泰米尔语</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Target count</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T025541Z" creationid="xulihang" creationdate="20180404T025541Z">
+        <seg>目标数量</seg>
       </tuv>
     </tu>
     <tu>
@@ -27652,6 +27788,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unauthorized request to TaaS service.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T030127Z" creationid="xulihang" creationdate="20180404T030127Z">
+        <seg>未授权的TaaS服务请求</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unchanged sentences are automatically translated, while updated sentences are shown with the translation of the most similar, older sentence.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yujun Yin" changedate="20131007T074117Z" creationid="Yujun Yin" creationdate="20131007T074102Z">
@@ -27890,6 +28034,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131115T002006Z" creationid="Fu Rhong" creationdate="20131115T002006Z">
         <seg>因此未译片段将仍为源语言。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Updated</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T025639Z" creationid="xulihang" creationdate="20180404T025639Z">
+        <seg>更新的</seg>
       </tuv>
     </tu>
     <tu>
@@ -29253,6 +29405,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130504T165532Z">
         <seg>认证错误</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Wrong response format from TaaS service</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T030217Z" creationid="xulihang" creationdate="20180404T030217Z">
+        <seg>TaaS服务的返回格式错误</seg>
       </tuv>
     </tu>
     <tu>
