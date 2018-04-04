@@ -6,3 +6,4 @@ Glossary	术语表	glossary of terms，意为术语表。term是glossary的一�
 shortcut	缩略词	在autotext功能中出现，可以输入缩略词，自动补全单词。比如输入ad.补全为advertisement
 Preferences	偏好设置
 Change	修改
+domain	领域	查询TaaS术语时可以选择特定的领域
