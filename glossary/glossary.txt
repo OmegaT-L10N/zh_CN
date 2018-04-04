@@ -4,3 +4,4 @@ History Prediction	历史预测
 term	术语	原来的版本翻译为词语，译为术语更加合适
 Glossary	术语表	glossary of terms，意为术语表。term是glossary的一个entry
 shortcut	缩略词	在autotext功能中出现，可以输入缩略词，自动补全单词。比如输入ad.补全为advertisement
+Preferences	偏好设置
