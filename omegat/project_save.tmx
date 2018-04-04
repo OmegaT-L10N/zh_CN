@@ -424,6 +424,22 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Enable autotext</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T022511Z" creationid="xulihang" creationdate="20180404T022511Z">
+        <seg>启用自动文本(&amp;E)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Enable character table</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T023217Z" creationid="xulihang" creationdate="20180404T023217Z">
+        <seg>启用字符表(&amp;E)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Enable glossary suggestions</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T020955Z" creationid="xulihang" creationdate="20180403T142435Z">
@@ -7055,8 +7071,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Auto-text file (*.autotext)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131123T104254Z" creationid="Fu Rhong" creationdate="20131123T103829Z">
-        <seg>自动图文集文件(*.autotext)</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T023028Z" creationid="Fu Rhong" creationdate="20131123T103829Z">
+        <seg>自动文本文件(*.autotext)</seg>
       </tuv>
     </tu>
     <tu>
@@ -7073,6 +7089,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120201T035732Z">
         <seg>通过将可翻译内容替换为译文，自动修改可译文档的文件名。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Autotext</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T023106Z" creationid="xulihang" creationdate="20180404T023106Z">
+        <seg>自动文本</seg>
       </tuv>
     </tu>
     <tu>
@@ -8900,6 +8924,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131116T080953Z" creationid="Fu Rhong" creationdate="20131116T080953Z">
         <seg>自定义标签正则表达式：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Customize character &amp;table</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T023229Z" creationid="xulihang" creationdate="20180404T023229Z">
+        <seg>自定义字符表(t)</seg>
       </tuv>
     </tu>
     <tu>
@@ -21872,6 +21904,30 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131126T103900Z" creationid="Fu Rhong" creationdate="20131126T102110Z">
         <seg>有时由于题材、客户、版本状态等，需要从翻译记忆中区分出高质量译文与不可靠译文。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sort &amp;alphabetically</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T022609Z" creationid="xulihang" creationdate="20180404T022609Z">
+        <seg>按字幕排序(&amp;a)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sort by &amp;full text, not shortcut</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T022959Z" creationid="xulihang" creationdate="20180404T022959Z">
+        <seg>按完整文本而非缩略词排序(&amp;f)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sort by len&amp;gth</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T022527Z" creationid="xulihang" creationdate="20180404T022527Z">
+        <seg>按长度排序(&amp;g)</seg>
       </tuv>
     </tu>
     <tu>
