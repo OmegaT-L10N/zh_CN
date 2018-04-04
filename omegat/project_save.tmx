@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.1.4" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_r10313" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -426,8 +426,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Enable glossary suggestions</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180403T142435Z" creationid="xulihang" creationdate="20180403T142435Z">
-        <seg>启用词语建议(&amp;E)</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T020955Z" creationid="xulihang" creationdate="20180403T142435Z">
+        <seg>启用术语表建议(&amp;E)</seg>
       </tuv>
     </tu>
     <tu>
@@ -514,8 +514,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Glossary</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T052818Z">
-        <seg>词汇表(&amp;G)</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T020504Z">
+        <seg>术语表(&amp;G)</seg>
       </tuv>
     </tu>
     <tu>
@@ -7551,8 +7551,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Cannot access glossary folder!</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T060406Z">
-        <seg>无法访问词汇表文件夹！</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T020534Z">
+        <seg>无法访问术语表文件夹！</seg>
       </tuv>
     </tu>
     <tu>
@@ -8434,8 +8434,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Create Glossary Entry</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T160552Z">
-        <seg>创建词汇表词条(&amp;G)</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T020739Z">
+        <seg>创建术语表条目(&amp;G)</seg>
       </tuv>
     </tu>
     <tu>
@@ -9354,8 +9354,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Displays the glossary entries found in the glossary files located in the /glossary/ folder if they are present in the source segment.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T163418Z">
-        <seg>如果词条出现在原文片段中，显示所有位于 /glossary/ 目录的词汇表文件中找到的词条。</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T020806Z">
+        <seg>如果词条出现在原文片段中，显示所有位于 /glossary/ 目录的术语表文件中找到的词条。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10122,8 +10122,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Entries from the writeable glossary are in bold.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131031T092447Z" creationid="Administrator" creationdate="20131031T092447Z">
-        <seg>可写的词汇表条目以粗体显示。</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T020820Z" creationid="Administrator" creationdate="20131031T092447Z">
+        <seg>可写的术语表条目以粗体显示。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11502,8 +11502,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>For your reference, OmegaT displays the translation of any word that is both present in the segment and registered in the glossary.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yujun Yin" changedate="20131007T075049Z" creationid="Yujun Yin" creationdate="20131007T074923Z">
-        <seg>当前句段中的单词如果存在于词汇表中，OmegaT 就会显示出这个单词的译文，以供翻译参考。</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021004Z" creationid="Yujun Yin" creationdate="20131007T074923Z">
+        <seg>当前句段中的单词如果存在于术语表中，OmegaT 就会显示出这个单词的译文，以供翻译参考。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11790,48 +11790,48 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Glossary</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T151101Z">
-        <seg>词汇表</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T020521Z">
+        <seg>术语表</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Glossary Files Folder</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T145939Z">
-        <seg>词汇表文件夹</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T020612Z">
+        <seg>术语表文件夹</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Glossary Folder:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T144650Z">
-        <seg>词汇表文件夹：</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T020543Z">
+        <seg>术语表文件夹：</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Glossary auto-completer options</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180403T141855Z" creationid="xulihang" creationdate="20180403T141855Z">
-        <seg>词语自动完成选项</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T020941Z" creationid="xulihang" creationdate="20180403T141855Z">
+        <seg>术语表自动完成选项</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Glossary entries</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130504T153540Z">
-        <seg>词汇表词条</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T020924Z">
+        <seg>术语表条目</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Glossary file: {0}</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T160702Z">
-        <seg>词汇表文件：</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T020747Z">
+        <seg>术语表文件：</seg>
       </tuv>
     </tu>
     <tu>
@@ -11846,16 +11846,16 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Glossary files folder entered does not exist!</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T150139Z">
-        <seg>输入的词汇表文件目录不存在！</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T020636Z">
+        <seg>输入的术语表文件目录不存在！</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Glossary folder {0} does not exist.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130504T150247Z">
-        <seg>词汇表目录 {0} 不存在。</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T020859Z">
+        <seg>术语表目录 {0} 不存在。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15426,8 +15426,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Loading glossary {0}</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T151730Z">
-        <seg>载入词汇表{0}</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T020719Z">
+        <seg>载入术语表{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -17814,8 +17814,8 @@ your home folder.</seg>
       <tuv lang="EN">
         <seg>OmegaT uses glossaries containing translations of single words or small phrases: a simplified bilingual dictionary for a specific domain.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yujun Yin" changedate="20131007T074914Z" creationid="Yujun Yin" creationdate="20131007T074914Z">
-        <seg>OmegaT 的词汇表包含单词或短语的翻译，即，词汇表就是特定领域中的简易双语词典。</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021018Z" creationid="Yujun Yin" creationdate="20131007T074914Z">
+        <seg>OmegaT 的术语表包含单词或短语的翻译，即，术语表就是特定领域中的简易双语词典。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23866,8 +23866,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The first is the shortcut for &lt;g0&gt;Open Project&lt;/g0&gt;, the second for &lt;g1&gt;Create Glossary Entry&lt;/g1&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T120118Z">
-        <seg>第一个是&lt;g0&gt;打开项目&lt;/g0&gt;的快捷键，第二个为&lt;g1&gt;创建词汇表条目&lt;/g1&gt;。</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021035Z">
+        <seg>第一个是&lt;g0&gt;打开项目&lt;/g0&gt;的快捷键，第二个为&lt;g1&gt;创建术语表条目&lt;/g1&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25300,16 +25300,16 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       <tuv lang="EN">
         <seg>The writeable glossary file is not in the glossary folder.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130504T150422Z">
-        <seg>可写词汇表文件不在词汇表目录当中。</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T020910Z">
+        <seg>可写术语表文件不在术语表目录当中。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>The writeable glossary file must be inside the glossary folder</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T150301Z">
-        <seg>可写词汇表文件必须置于词汇表目录中。</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T020700Z">
+        <seg>可写术语表文件必须置于术语表目录中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25526,8 +25526,8 @@ configuration folder cannot be reliably determined.</seg>
       <tuv lang="EN">
         <seg>They also improve glossary matching.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120220T032701Z">
-        <seg>同时也提高了词汇表的匹配度。</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021106Z">
+        <seg>同时也提高了术语表的匹配度。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25582,8 +25582,8 @@ configuration folder cannot be reliably determined.</seg>
       <tuv lang="EN">
         <seg>They can share common material, like project translation memory and its glossary</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131110T072755Z" creationid="Fu Rhong" creationdate="20131110T070936Z">
-        <seg>他们可以共用材料，如项目的翻译记忆和词汇表</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021051Z" creationid="Fu Rhong" creationdate="20131110T070936Z">
+        <seg>他们可以共用材料，如项目的翻译记忆和术语表</seg>
       </tuv>
     </tu>
     <tu>
@@ -28394,8 +28394,8 @@ searchable without subscription:</seg>
       <tuv lang="EN">
         <seg>When checked, the items in the glossary auto-completer view will contain the source text, too.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180403T133303Z" creationid="Administrator" creationdate="20131031T120248Z">
-        <seg>选中时，在词汇表自动完成视图中显示的术语也将包含源文本。</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T020933Z" creationid="Administrator" creationdate="20131031T120248Z">
+        <seg>选中时，在术语表自动完成视图中显示的术语也将包含源文本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28867,24 +28867,24 @@ searchable without subscription:</seg>
       <tuv lang="EN">
         <seg>Writeable Glossary File</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T145951Z">
-        <seg>可写词汇文件：</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T020618Z">
+        <seg>可写术语表文件：</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Writeable Glossary File:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T144704Z">
-        <seg>可写词汇文件：</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T020556Z">
+        <seg>可写术语表文件：</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Writeable glossary file folder entered does not exist!</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T150203Z">
-        <seg>输入的可写词汇表文件目录不存在！</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T020647Z">
+        <seg>输入的可写术语表文件目录不存在！</seg>
       </tuv>
     </tu>
     <tu>
@@ -29259,8 +29259,8 @@ searchable without subscription:</seg>
       <tuv lang="EN">
         <seg>You can create glossary entries with Create Glossary Entry in the Edit menu.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131031T092603Z" creationid="Administrator" creationdate="20131031T092422Z">
-        <seg>您可以使用编辑菜单的创建词汇表条目来创建。</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T020814Z" creationid="Administrator" creationdate="20131031T092422Z">
+        <seg>您可以使用编辑菜单的创建术语表条目来创建。</seg>
       </tuv>
     </tu>
     <tu>
