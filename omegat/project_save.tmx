@@ -232,6 +232,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Allow only unique characters</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T023320Z" creationid="xulihang" creationdate="20180404T023320Z">
+        <seg>仅允许唯一的字符(&amp;A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Allow translation to be equal to source</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T155829Z">
@@ -7549,6 +7557,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>C&amp;lear</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T023332Z" creationid="xulihang" creationdate="20180404T023332Z">
+        <seg>清楚(&amp;C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Camtasia for Windows</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130911T115644Z">
@@ -7721,6 +7737,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131118T035436Z" creationid="Fu Rhong" creationdate="20131118T035436Z">
         <seg>改变该标志不会对已经译好翻译记忆进行修改。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Character Table</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T023340Z" creationid="xulihang" creationdate="20180404T023340Z">
+        <seg>字符表</seg>
       </tuv>
     </tu>
     <tu>
@@ -11254,6 +11278,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131123T103709Z" creationid="Fu Rhong" creationdate="20131123T103709Z">
         <seg>所有文件：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For best results, please install the appropriate dictionaries via Preferences &gt; Spell Checking.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T023456Z" creationid="xulihang" creationdate="20180404T023456Z">
+        <seg>要使它生效，请通过偏好设置&gt;拼写检查 安装适用的词典。</seg>
       </tuv>
     </tu>
     <tu>
