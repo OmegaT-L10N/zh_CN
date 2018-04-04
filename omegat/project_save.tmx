@@ -13325,8 +13325,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>If the translation for several identical source segments already exists in the translation memory of the project, these segments, together with other, already translated unique segments, will be classified as an "Exact match".</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120219T132744Z">
-        <seg>如果在项目的翻译记忆中存在多个相同源片段的译文，这些及其他已译独特片段将被归类为“精确匹配”。</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T033349Z">
+        <seg>如果在项目的翻译记忆中存在多个相同源片段的译文，这些及其他已译唯一片段将被归类为“精确匹配”。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16266,8 +16266,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Mark Non-Unique Segments</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T075508Z">
-        <seg>标记非独特片段</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T033349Z">
+        <seg>标记非唯一片段</seg>
       </tuv>
     </tu>
     <tu>
@@ -16674,8 +16674,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Modifying the segmentation rules may have the effect of modifying the number of segments/unique segments.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120219T124110Z">
-        <seg>修改分割规则可能改变片段数和独特片段数。</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T033349Z">
+        <seg>修改分割规则可能改变片段数和唯一片段数。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17747,8 +17747,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Number of unique segments</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T055308Z">
-        <seg>独特片段数量</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T033349Z">
+        <seg>唯一片段数量</seg>
       </tuv>
     </tu>
     <tu>
@@ -24362,8 +24362,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The difference between "Number of segments" and "Number of unique segments" provides an approximate idea of the number of repetitions in the text.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120219T121503Z">
-        <seg>通过“片段数”和“独特片段数”的差异可粗略估算出文本中有多少重复内容。</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T033349Z">
+        <seg>通过“片段数”和“唯一片段数”的差异可粗略估算出文本中有多少重复内容。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25027,8 +25027,8 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       <tuv lang="EN">
         <seg>The number of unique segments, if needed, is provided in the standard statistics window, regardless of whether they have been translated or not.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120219T132829Z">
-        <seg>在需要时，标准统计窗口中会显示独特片段数，不论它们是否已经翻译。</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T033349Z">
+        <seg>在需要时，标准统计窗口中会显示唯一片段数，不论它们是否已经翻译。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25219,8 +25219,8 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       <tuv lang="EN">
         <seg>The project in the example is evidently finished, as all the unique segments have been translated.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120218T122317Z">
-        <seg>在这个例子中显然项目已经完成了，因为已经翻译了所有的独特片段。</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T033349Z">
+        <seg>在这个例子中显然项目已经完成了，因为已经翻译了所有的唯一片段。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27662,8 +27662,8 @@ configuration folder cannot be reliably determined.</seg>
       <tuv lang="EN">
         <seg>Translated unique segments</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T055310Z">
-        <seg>已译独特片段</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T033349Z">
+        <seg>已译唯一片段</seg>
       </tuv>
     </tu>
     <tu>
@@ -28086,8 +28086,8 @@ configuration folder cannot be reliably determined.</seg>
       <tuv lang="EN">
         <seg>Unique Remaining Segments</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T143903Z">
-        <seg>剩余独特片段</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T033349Z">
+        <seg>剩余唯一片段</seg>
       </tuv>
     </tu>
     <tu>
@@ -28110,8 +28110,8 @@ configuration folder cannot be reliably determined.</seg>
       <tuv lang="EN">
         <seg>Unique Segments</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T143846Z">
-        <seg>独特片段</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T033349Z">
+        <seg>唯一片段</seg>
       </tuv>
     </tu>
     <tu>
@@ -33967,8 +33967,8 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>number of unique segments - translated vs total in the project</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120218T121756Z">
-        <seg>独特片段数 - 已译/总数（整个项目）</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T033349Z">
+        <seg>唯一片段数 - 已译/总数（整个项目）</seg>
       </tuv>
     </tu>
     <tu>
@@ -35232,8 +35232,8 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>the total number of segments, the number of unique segments in the whole project, and the number of unique segments already translated are shown at the bottom</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131031T063436Z">
-        <seg>整个项目的片段总数、独特片段数和已译独特片段数显示在底部</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T033349Z">
+        <seg>整个项目的片段总数、唯一片段数和已译唯一片段数显示在底部</seg>
       </tuv>
     </tu>
     <tu>
