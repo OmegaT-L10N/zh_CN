@@ -6914,6 +6914,14 @@ The TMX file will not be loaded.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Appropriate Legal Notices; however, if the Program has interactive</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180404T162838Z" creationid="weiyi" creationdate="20180404T162838Z">
+        <seg>相应法律声明;然而,程序中有接口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Arabic</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
@@ -31471,8 +31479,8 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>d) If the work has interactive user interfaces, each must display</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180404T162154Z" creationid="weiyi" creationdate="20180404T162154Z">
-        <seg>d) 若有交互式用户接口，全部都必须显示</seg>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180404T162451Z" creationid="weiyi" creationdate="20180404T162154Z">
+        <seg>d) 若工程有交互式用户接口，必须显示全部</seg>
       </tuv>
     </tu>
     <tu>
