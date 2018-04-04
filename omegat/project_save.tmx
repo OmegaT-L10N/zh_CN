@@ -16184,6 +16184,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Merge</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T023907Z" creationid="xulihang" creationdate="20180404T023907Z">
+        <seg>合并</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Merriam Webster dictionary - use</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120131T120501Z">
@@ -16236,6 +16244,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T165309Z">
         <seg>Microsoft Translator 客户 ID 或者客户安全不可用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mine</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T023852Z" creationid="xulihang" creationdate="20180404T023852Z">
+        <seg>我的</seg>
       </tuv>
     </tu>
     <tu>
@@ -19026,6 +19042,14 @@ to determine the source of the error and try again.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please resolve the conflicts by choosing a translation for each segment below.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T023939Z" creationid="xulihang" creationdate="20180404T023939Z">
+        <seg>请在下方为每个片段选择一条翻译来解决冲突。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please select a dictionary file folder first</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T164601Z">
@@ -21472,6 +21496,22 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
         <seg>塞尔维亚语</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Server (original)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T023846Z" creationid="xulihang" creationdate="20180404T023835Z">
+        <seg>服务器（原来的）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Server (updated)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T023901Z" creationid="xulihang" creationdate="20180404T023901Z">
+        <seg>服务器（更新的）</seg>
       </tuv>
     </tu>
     <tu>
