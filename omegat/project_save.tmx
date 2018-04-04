@@ -448,6 +448,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Enable TaaS terminology lookup</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T030518Z" creationid="xulihang" creationdate="20180404T030518Z">
+        <seg>启用TaaS术语查询(&amp;E)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Enable autotext</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T022511Z" creationid="xulihang" creationdate="20180404T022511Z">
@@ -8648,6 +8656,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Create your own key then input it below.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T030414Z" creationid="xulihang" creationdate="20180404T030414Z">
+        <seg>创建你自己的key并在下方输入。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Created by: {0}</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T151447Z">
@@ -11968,6 +11984,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T155721Z">
         <seg>德语</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Get API Key</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T030448Z" creationid="xulihang" creationdate="20180404T030448Z">
+        <seg>获得API Key</seg>
       </tuv>
     </tu>
     <tu>
@@ -22900,6 +22924,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>TaaS</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T030452Z" creationid="xulihang" creationdate="20180404T030452Z">
+        <seg>TaaS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>TaaS API key not set.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T030245Z" creationid="xulihang" creationdate="20180404T030245Z">
@@ -22912,6 +22944,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T025453Z" creationid="xulihang" creationdate="20180404T025453Z">
         <seg>TaaS术语集</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TaaS Terminology</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T030503Z" creationid="xulihang" creationdate="20180404T030503Z">
+        <seg>TaaS术语y</seg>
       </tuv>
     </tu>
     <tu>
