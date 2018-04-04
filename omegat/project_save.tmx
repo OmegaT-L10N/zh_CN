@@ -16656,6 +16656,22 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Modification info</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T033921Z" creationid="xulihang" creationdate="20180404T033921Z">
+        <seg>修改信息</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Modification info text</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T033926Z" creationid="xulihang" creationdate="20180404T033926Z">
+        <seg>修改信息文本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Modifications to the original document are thus handled with greater ease.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yujun Yin" changedate="20131007T074415Z" creationid="Yujun Yin" creationdate="20131007T074415Z">
@@ -17221,6 +17237,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T033046Z" creationid="xulihang" creationdate="20180404T033046Z">
         <seg>非唯一片段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Non-unique segments background</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T033916Z" creationid="xulihang" creationdate="20180404T033916Z">
+        <seg>非唯一片段背景</seg>
       </tuv>
     </tu>
     <tu>
@@ -20504,6 +20528,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T153851Z">
         <seg>删除模式？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove text target</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T033944Z" creationid="xulihang" creationdate="20180404T033944Z">
+        <seg>删除文本目标</seg>
       </tuv>
     </tu>
     <tu>
