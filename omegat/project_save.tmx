@@ -10768,6 +10768,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Exclusion Patterns</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T030557Z" creationid="xulihang" creationdate="20180404T030557Z">
+        <seg>排除模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Executing external command...</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T143320Z">
@@ -16252,6 +16260,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T102552Z" creationid="Fu Rhong" creationdate="20131108T030345Z">
         <seg>马绍尔语</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mask</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T031211Z" creationid="xulihang" creationdate="20180404T031211Z">
+        <seg>掩码</seg>
       </tuv>
     </tu>
     <tu>
