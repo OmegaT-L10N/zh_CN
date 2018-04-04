@@ -2166,8 +2166,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; main window (Editor, Match viewer, Glossary viewer)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120211T134849Z">
-        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; 主窗口 (编辑器、匹配查看器、词汇表查看器）</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021248Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; 主窗口 (编辑器、匹配查看器、术语表查看器）</seg>
       </tuv>
     </tu>
     <tu>
@@ -2246,8 +2246,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;a2&gt;OmegaT&lt;/a2&gt; automatically detects glossary files in this folder when a project is opened.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120205T124503Z">
-        <seg>在打开项目时，&lt;a2&gt;OmegaT&lt;/a2&gt; 自动检测该目录下的词汇表文件。</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021248Z">
+        <seg>在打开项目时，&lt;a2&gt;OmegaT&lt;/a2&gt; 自动检测该目录下的术语表文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2551,8 +2551,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Dictionaries, Glossaries&lt;/e0&gt;, &lt;e1&gt;Machine translation&lt;/e1&gt; , &lt;e2&gt;Spellchecker, LanguageTool:&lt;/e2&gt; OmegaT supports an extensive use of dictionaries and glossaries.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yujun Yin" changedate="20131007T084744Z" creationid="Yujun Yin" creationdate="20131007T084720Z">
-        <seg>&lt;e0&gt;字典和词汇表&lt;/e0&gt;、&lt;e1&gt;机器翻译&lt;/e1&gt;、&lt;e2&gt;拼写检查和语言工具：&lt;/e2&gt; OmegaT 支持字典和词汇表工具。</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021248Z" creationid="Yujun Yin" creationdate="20131007T084720Z">
+        <seg>&lt;e0&gt;字典和术语表&lt;/e0&gt;、&lt;e1&gt;机器翻译&lt;/e1&gt;、&lt;e2&gt;拼写检查和语言工具：&lt;/e2&gt; OmegaT 支持字典和术语表工具。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3937,64 +3937,64 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Glossaries&lt;/p0&gt; &lt;s1&gt;Creating a glossary&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120205T131257Z">
-        <seg>&lt;p0&gt;词汇表&lt;/p0&gt; &lt;s1&gt;创建词汇表&lt;/s1&gt;</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021248Z">
+        <seg>&lt;p0&gt;术语表&lt;/p0&gt; &lt;s1&gt;创建术语表&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Glossaries&lt;/p0&gt; &lt;s1&gt;File format&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120205T125626Z">
-        <seg>&lt;p0&gt;词汇表&lt;/p0&gt; &lt;s1&gt;文件格式&lt;/s1&gt;</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021248Z">
+        <seg>&lt;p0&gt;术语表&lt;/p0&gt; &lt;s1&gt;文件格式&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Glossaries&lt;/p0&gt; &lt;s1&gt;Glossary pane&lt;/s1&gt; &lt;t2&gt;multiple-words entries&lt;/t2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131116T115200Z" creationid="Fu Rhong" creationdate="20131116T115200Z">
-        <seg>&lt;p0&gt;词汇表&lt;/p0&gt; &lt;s1&gt;词汇表窗格&lt;/s1&gt; &lt;t2&gt;多单词条目&lt;/t2&gt;</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021248Z" creationid="Fu Rhong" creationdate="20131116T115200Z">
+        <seg>&lt;p0&gt;术语表&lt;/p0&gt; &lt;s1&gt;术语表窗格&lt;/s1&gt; &lt;t2&gt;多单词条目&lt;/t2&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Glossaries&lt;/p0&gt; &lt;s1&gt;Location of the writable glossary file&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131116T121614Z" creationid="Fu Rhong" creationdate="20131116T121614Z">
-        <seg>&lt;p0&gt;词汇表&lt;/p0&gt; &lt;s1&gt;可写词汇表的位置&lt;/s1&gt;</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021248Z" creationid="Fu Rhong" creationdate="20131116T121614Z">
+        <seg>&lt;p0&gt;术语表&lt;/p0&gt; &lt;s1&gt;可写术语表的位置&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Glossaries&lt;/p0&gt; &lt;s1&gt;Microsoft Terminology collection&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120205T130257Z">
-        <seg>&lt;p0&gt;词汇表&lt;/p0&gt; &lt;s1&gt;微软术语集&lt;/s1&gt;</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021248Z">
+        <seg>&lt;p0&gt;术语表&lt;/p0&gt; &lt;s1&gt;微软术语集&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Glossaries&lt;/p0&gt; &lt;s1&gt;Problems with glossaries&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120206T090549Z">
-        <seg>&lt;p0&gt;词汇表&lt;/p0&gt; &lt;s1&gt;词汇表相关问题&lt;/s1&gt;</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021248Z">
+        <seg>&lt;p0&gt;术语表&lt;/p0&gt; &lt;s1&gt;术语表相关问题&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Glossaries&lt;/p0&gt; &lt;s1&gt;TBX format&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120205T130146Z">
-        <seg>&lt;p0&gt;词汇表&lt;/p0&gt; &lt;s1&gt;TBX 格式&lt;/s1&gt;</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021248Z">
+        <seg>&lt;p0&gt;术语表&lt;/p0&gt; &lt;s1&gt;TBX 格式&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Glossaries&lt;/p0&gt; &lt;s1&gt;Trados MultiTerm&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120206T090035Z">
-        <seg>&lt;p0&gt;词汇表&lt;/p0&gt; &lt;s1&gt;Trados MultiTerm&lt;/s1&gt;</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021248Z">
+        <seg>&lt;p0&gt;术语表&lt;/p0&gt; &lt;s1&gt;Trados MultiTerm&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4473,8 +4473,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Project files&lt;/p0&gt; &lt;s1&gt;Glossary subfolder&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120205T124348Z">
-        <seg>&lt;p0&gt;项目文件&lt;/p0&gt; &lt;s1&gt;词汇表子目录&lt;/s1&gt;</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021248Z">
+        <seg>&lt;p0&gt;项目文件&lt;/p0&gt; &lt;s1&gt;术语表子目录&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4513,8 +4513,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Project files&lt;/p0&gt; &lt;s1&gt;User files&lt;/s1&gt; &lt;s2&gt;Glossaries&lt;/s2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120205T125642Z">
-        <seg>&lt;p0&gt;项目文件&lt;/p0&gt; &lt;s1&gt;用户文件&lt;/s1&gt; &lt;s2&gt;词汇表&lt;/s2&gt;</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021248Z">
+        <seg>&lt;p0&gt;项目文件&lt;/p0&gt; &lt;s1&gt;用户文件&lt;/s1&gt; &lt;s2&gt;术语表&lt;/s2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5569,8 +5569,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Windows and panes in OmegaT&lt;/p0&gt; &lt;s1&gt;Glossary pane&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120218T103926Z">
-        <seg>&lt;p0&gt;OmegaT 窗口和窗格&lt;/p0&gt; &lt;s1&gt;词汇表窗格&lt;/s1&gt;</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021248Z">
+        <seg>&lt;p0&gt;OmegaT 窗口和窗格&lt;/p0&gt; &lt;s1&gt;术语表窗格&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6433,8 +6433,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>Allows the user create an entry in the default glossary file.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T113937Z" creationid="Fu Rhong" creationdate="20131117T113937Z">
-        <seg>可让用户在缺省的词汇表文件中创建条目。</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021248Z" creationid="Fu Rhong" creationdate="20131117T113937Z">
+        <seg>可让用户在缺省的术语表文件中创建条目。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6465,8 +6465,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>Allows you to activate/deactivate &lt;e0&gt;TransTips &lt;/e0&gt;feature and set its option&lt;e1&gt; Exact Match.&lt;/e1&gt; With &lt;e2&gt;TransTips&lt;/e2&gt; activated a right click on a highlighted word in the source will open a pop up menu with the glossary entries for the word you clicked.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T133842Z" creationid="Fu Rhong" creationdate="20131117T133842Z">
-        <seg>可以让您激活/取消激活&lt;e0&gt;翻译提示&lt;/e0&gt;功能，并设置&lt;e1&gt;精确匹配&lt;/e1&gt;选项。&lt;e2&gt;翻译提示&lt;/e2&gt;激活了在原文中突出显示的单词上的右键菜单功能，这样在此单词上点击时将出现含有词汇表条目的弹出菜单。</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021248Z" creationid="Fu Rhong" creationdate="20131117T133842Z">
+        <seg>可以让您激活/取消激活&lt;e0&gt;翻译提示&lt;/e0&gt;功能，并设置&lt;e1&gt;精确匹配&lt;/e1&gt;选项。&lt;e2&gt;翻译提示&lt;/e2&gt;激活了在原文中突出显示的单词上的右键菜单功能，这样在此单词上点击时将出现含有术语表条目的弹出菜单。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6497,8 +6497,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>Also check that the target language code of your project against the available vocabularies in the setup window.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120217T121818Z">
-        <seg>在设置窗口中对照可用词汇表检查项目的目标语言代码。</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021248Z">
+        <seg>在设置窗口中对照可用术语表检查项目的目标语言代码。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8130,8 +8130,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Common glossary problems</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
-        <seg>常见词汇表问题</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021248Z">
+        <seg>常见术语表问题</seg>
       </tuv>
     </tu>
     <tu>
@@ -8954,8 +8954,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Data exported from Trados MultiTerm can be used as &lt;a0&gt;OmegaT&lt;/a0&gt; glossaries without further modification, provided they are given the file extension &lt;f1&gt;.tab&lt;/f1&gt; and the source and target term fields are the first two fields respectively.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120206T090248Z">
-        <seg>在 Trados MultiTerm 导出的数据可以不加修改地用作 &lt;a0&gt;OmegaT&lt;/a0&gt; 词汇表，只需以 &lt;f1&gt;.tab&lt;/f1&gt;为扩展名，并让对应的源词汇和目标术语分别为头两个字段。</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021248Z">
+        <seg>在 Trados MultiTerm 导出的数据可以不加修改地用作 &lt;a0&gt;OmegaT&lt;/a0&gt; 术语表，只需以 &lt;f1&gt;.tab&lt;/f1&gt;为扩展名，并让对应的源词汇和目标术语分别为头两个字段。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11774,16 +11774,16 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Glossaries are files created and updated manually for use in &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120223T160209Z">
-        <seg>词汇表是用于 &lt;a0&gt;OmegaT&lt;/a0&gt; 的文件，它由用户手工创建和更新。</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021248Z">
+        <seg>术语表是用于 &lt;a0&gt;OmegaT&lt;/a0&gt; 的文件，它由用户手工创建和更新。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Glossaries, Glossary pane</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131116T114313Z" creationid="Fu Rhong" creationdate="20131116T114313Z">
-        <seg>词汇表，词汇表窗格</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021248Z" creationid="Fu Rhong" creationdate="20131116T114313Z">
+        <seg>术语表，术语表窗格</seg>
       </tuv>
     </tu>
     <tu>
@@ -11838,8 +11838,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Glossary files are simple plain text files containing three-column, tab-delimited lists with the source and target terms in the first and second columns respectively.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120205T125653Z">
-        <seg>词汇表文件是简单的纯文本文件，包含了以制表符分隔的三列列表，其中第一和第二列分别对应源词汇和目标术语。</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021248Z">
+        <seg>术语表文件是简单的纯文本文件，包含了以制表符分隔的三列列表，其中第一和第二列分别对应源词汇和目标术语。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11862,8 +11862,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Glossary pane</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120205T124638Z">
-        <seg>词汇表窗格</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021248Z">
+        <seg>术语表窗格</seg>
       </tuv>
     </tu>
     <tu>
@@ -12249,8 +12249,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Highlighting it in the Glossary pane and then rightclicking insets at the cursor position in the target segment.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131116T115534Z" creationid="Fu Rhong" creationdate="20131116T115534Z">
-        <seg>在词汇表窗格中高亮该项，接着点击右键将其插入到当前目标片段的光标处。</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021248Z" creationid="Fu Rhong" creationdate="20131116T115534Z">
+        <seg>在术语表窗格中高亮该项，接着点击右键将其插入到当前目标片段的光标处。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12313,8 +12313,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>How to create glossaries</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
-        <seg>如何创建词汇表</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021248Z">
+        <seg>如何创建术语表</seg>
       </tuv>
     </tu>
     <tu>
@@ -12553,8 +12553,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>If an &lt;a0&gt;OmegaT&lt;/a0&gt; project contains one or more glossaries, any terms in the glossary which are also found in the current segment will be automatically displayed in the Glossary viewer.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120205T124332Z">
-        <seg>如果某个 &lt;a0&gt;OmegaT&lt;/a0&gt; 项目包含一个或多个词汇表文件，当前片段中出现的任何术语将自动显示在词汇表查看器中。</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021248Z">
+        <seg>如果某个 &lt;a0&gt;OmegaT&lt;/a0&gt; 项目包含一个或多个术语表文件，当前片段中出现的任何术语将自动显示在术语表查看器中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13253,8 +13253,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>If you have TransTips option activated (&lt;g0&gt;Options → TransTips&lt;/g0&gt;), you can right click on the highlighted word in the source segment to open a pop-up menu with suggested translation, as offered by your glossary.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131127T141422Z" creationid="Fu Rhong" creationdate="20131127T135624Z">
-        <seg>如果您激活&lt;g0&gt;选项→翻译提示&lt;/g0&gt;中的翻译提示，那么可在源片段中突出显示的单词上点击右键来打开包含由词汇表提供的可选译文的弹出菜单。</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021248Z" creationid="Fu Rhong" creationdate="20131127T135624Z">
+        <seg>如果您激活&lt;g0&gt;选项→翻译提示&lt;/g0&gt;中的翻译提示，那么可在源片段中突出显示的单词上点击右键来打开包含由术语表提供的可选译文的弹出菜单。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13269,8 +13269,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>If you have already translated a large body of text, and then realize the target language code of the project does not match the spell checker's language code (you specified pt_BR as the language, but there are no pt_BR vocabularies, for instance) you can simply copy the two corresponding files and rename them (e.g. from &lt;e0&gt;pt_PT.aff&lt;/e0&gt; and &lt;e1&gt;pt_PT.dic&lt;/e1&gt; to &lt;e2&gt;pt_BR.aff&lt;/e2&gt; and &lt;e3&gt;pt_BR.dic&lt;/e3&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131126T091450Z" creationid="Fu Rhong" creationdate="20131126T091450Z">
-        <seg>如果已经译了一大段文本，但是才意识到项目的目标语言代码与拼写检查器的语言代码不符（如将pt_BR设为目标语言，但没有pt_BR词汇表），您只需复制两份对应的文件并进行重命名（例如把&lt;e0&gt;pt_PT.aff&lt;/e0&gt;和&lt;e1&gt;pt_PT.dic&lt;/e1&gt;改名为&lt;e2&gt;pt_BR.aff&lt;/e2&gt;和&lt;e3&gt;pt_BR.dic&lt;/e3&gt;）。</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021248Z" creationid="Fu Rhong" creationdate="20131126T091450Z">
+        <seg>如果已经译了一大段文本，但是才意识到项目的目标语言代码与拼写检查器的语言代码不符（如将pt_BR设为目标语言，但没有pt_BR术语表），您只需复制两份对应的文件并进行重命名（例如把&lt;e0&gt;pt_PT.aff&lt;/e0&gt;和&lt;e1&gt;pt_PT.dic&lt;/e1&gt;改名为&lt;e2&gt;pt_BR.aff&lt;/e2&gt;和&lt;e3&gt;pt_BR.dic&lt;/e3&gt;）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14416,8 +14416,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>It can be used separately for all three panes (Editor, Fuzzy Matches and Glossary) by clicking on the pane and toggling the display mode.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131116T120940Z">
-        <seg>通过点击窗格并切换显示模式，该方法也可单独适用于所有三个窗格（编辑器、模糊匹配和词汇表）。</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021248Z">
+        <seg>通过点击窗格并切换显示模式，该方法也可单独适用于所有三个窗格（编辑器、模糊匹配和术语表）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14674,8 +14674,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>It will contain glossaries you will be using in the project.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131114T075558Z" creationid="Fu Rhong" creationdate="20131114T075558Z">
-        <seg>它将包含您在项目中使用的词汇表。</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021248Z" creationid="Fu Rhong" creationdate="20131114T075558Z">
+        <seg>它将包含您在项目中使用的术语表。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15418,8 +15418,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Loading glossaries</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130504T160223Z">
-        <seg>载入词汇表</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021248Z">
+        <seg>载入术语表</seg>
       </tuv>
     </tu>
     <tu>
@@ -16626,8 +16626,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>New terms can be added manually to the glossary file(s) during translation, for example in a text editor.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131116T114755Z" creationid="Fu Rhong" creationdate="20131116T114629Z">
-        <seg>在翻译时可以手动添加术语到词汇表中，比如在文本编辑器中。</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021248Z" creationid="Fu Rhong" creationdate="20131116T114629Z">
+        <seg>在翻译时可以手动添加术语到术语表中，比如在文本编辑器中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16731,8 +16731,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>No glossary file found in the "glossary" folder.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120206T090637Z">
-        <seg>"glossary" 目录中没有找到词汇表文件。</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021248Z">
+        <seg>"glossary" 目录中没有找到术语表文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16947,8 +16947,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Note that &lt;f0&gt;Remove&lt;/f0&gt; physically removes the selected vocabularies.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131126T091650Z" creationid="Fu Rhong" creationdate="20131126T091650Z">
-        <seg>注意&lt;f0&gt;删除&lt;/f0&gt;实际上只是删除了选择的词汇表。</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021248Z" creationid="Fu Rhong" creationdate="20131126T091650Z">
+        <seg>注意&lt;f0&gt;删除&lt;/f0&gt;实际上只是删除了选择的术语表。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17612,8 +17612,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>OmegaT is a free and open source multiplatform Computer Assisted Translation tool with fuzzy matching, translation memory, keyword search, glossaries, and translation leveraging into updated projects.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T153647Z">
-        <seg>OmegaT 是一种免费开源的多平台计算机辅助翻译工具软件，它将模糊匹配、译法记忆、关键词搜索、词汇表和译法杠杆等融合成了最新项目。</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021248Z">
+        <seg>OmegaT 是一种免费开源的多平台计算机辅助翻译工具软件，它将模糊匹配、译法记忆、关键词搜索、术语表和译法杠杆等融合成了最新项目。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19198,16 +19198,16 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Problem: In the glossary pane, some characters are not displayed properly</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120206T090937Z">
-        <seg>问题：在词汇表窗格中某些字符显示不正确。</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021248Z">
+        <seg>问题：在术语表窗格中某些字符显示不正确。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Problem: No glossary terms are displayed - possible causes:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120206T090622Z">
-        <seg>问题：未显示词汇表术语——可能的解决方法：</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021248Z">
+        <seg>问题：未显示术语表术语——可能的解决方法：</seg>
       </tuv>
     </tu>
     <tu>
@@ -20358,8 +20358,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Right-click in the glossary pane or press &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt; to add a new entry.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131116T121105Z" creationid="Fu Rhong" creationdate="20131116T120755Z">
-        <seg>在词汇表窗格点击右键或按下&lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt;来添加新条目。</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021248Z" creationid="Fu Rhong" creationdate="20131116T120755Z">
+        <seg>在术语表窗格点击右键或按下&lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt;来添加新条目。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20934,8 +20934,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>See &lt;l0&gt;chapter Glossaries&lt;/l0&gt; for more on this subject.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131114T132546Z" creationid="Fu Rhong" creationdate="20131114T075642Z">
-        <seg>请参阅&lt;l0&gt;词汇表章节&lt;/l0&gt;部分了解关于该主题的更多信息。</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021248Z" creationid="Fu Rhong" creationdate="20131114T075642Z">
+        <seg>请参阅&lt;l0&gt;术语表章节&lt;/l0&gt;部分了解关于该主题的更多信息。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21758,8 +21758,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>So it is probably faster to type the term correctly right away without bothering with the glossary and its shortcuts.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131116T120153Z" creationid="Fu Rhong" creationdate="20131116T120153Z">
-        <seg>因此直接输入术语而不通过词汇表及其快捷方式可能会更快。</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021248Z" creationid="Fu Rhong" creationdate="20131116T120153Z">
+        <seg>因此直接输入术语而不通过术语表及其快捷方式可能会更快。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22278,8 +22278,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Subfolder glossary</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131114T075453Z" creationid="Fu Rhong" creationdate="20131114T075453Z">
-        <seg>词汇表子文件夹</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021248Z" creationid="Fu Rhong" creationdate="20131114T075453Z">
+        <seg>术语表子文件夹</seg>
       </tuv>
     </tu>
     <tu>
@@ -22862,8 +22862,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Terms in the current segment which &lt;a3&gt;OmegaT&lt;/a3&gt; finds in the glossary file(s) are displayed in the Glossary pane:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120205T124634Z">
-        <seg>从词汇表中找到当前片段中的术语后，&lt;a3&gt;OmegaT&lt;/a3&gt; 将会在词汇表窗格将它们显示出来。</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021248Z">
+        <seg>从术语表中找到当前片段中的术语后，&lt;a3&gt;OmegaT&lt;/a3&gt; 将会在术语表窗格将它们显示出来。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23183,8 +23183,8 @@ current folder will be used instead.</seg>
       <tuv lang="EN">
         <seg>The Glossary pane allows you to access your own collection of expressions and specialist terminology which you have built up in your glossary files.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120219T033841Z">
-        <seg>词汇表窗格允许您使用个人收集的词汇和专业术语，这些词汇都存放在词汇表文件中。</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021248Z">
+        <seg>术语表窗格允许您使用个人收集的词汇和专业术语，这些词汇都存放在术语表文件中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23577,8 +23577,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The contents of glossary files are kept in memory and are loaded when the project is opened or reloaded.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120218T060451Z">
-        <seg>词汇表文件的内容会存放到内存中，在打开或重新载入项目时加载它们。</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021248Z">
+        <seg>术语表文件的内容会存放到内存中，在打开或重新载入项目时加载它们。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23593,8 +23593,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The contents of the glossary pane will be updated accordingly.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120206T090029Z">
-        <seg>因此词汇表窗格的内容将会被更新。</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021248Z">
+        <seg>因此术语表窗格的内容将会被更新。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24026,24 +24026,24 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The glossary file does not have the correct encoding.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120206T090833Z">
-        <seg>词汇表文件没有采用正确的编码。</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021248Z">
+        <seg>术语表文件没有采用正确的编码。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>The glossary file is empty.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120206T090647Z">
-        <seg>词汇表文件为空。</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021248Z">
+        <seg>术语表文件为空。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>The glossary function only finds exact matches with the glossary entry (e.g. does not find inflected forms etc.).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120205T124834Z">
-        <seg>词汇表功能只能找到与词汇表条目精确匹配的词汇（也就是说不会找到变化的词形）。</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021248Z">
+        <seg>术语表功能只能找到与术语表条目精确匹配的词汇（也就是说不会找到变化的词形）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24187,8 +24187,8 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       <tuv lang="EN">
         <seg>The location of the writable glossary file can be set in the &lt;g0&gt;Project &gt; Properties ... &lt;/g0&gt;dialog.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131116T121708Z" creationid="Fu Rhong" creationdate="20131116T121708Z">
-        <seg>可写词汇表的位置可在&lt;g0&gt;项目&gt;属性……&lt;/g0&gt;对话框中设定。</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021248Z" creationid="Fu Rhong" creationdate="20131116T121708Z">
+        <seg>可写术语表的位置可在&lt;g0&gt;项目&gt;属性……&lt;/g0&gt;对话框中设定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24939,8 +24939,8 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       <tuv lang="EN">
         <seg>The source segment in the example below was “&lt;e0&gt;Context menu command&lt;/e0&gt;”, as in the Fuzzy Matches example above, and the terms shown were found in the glossaries, available (Microsoft's Term collection and Slovenian Linux User group Glossary).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131127T131234Z" creationid="Fu Rhong" creationdate="20131127T131234Z">
-        <seg>下面例子中源片段为“&lt;e0&gt;Context menu command&lt;/e0&gt;”（就像上面例子中模糊匹配显示的一样），显示出在可用的词汇表（微软术语集和斯洛文尼亚语Linux用户组词汇表）中找到的术语。</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021248Z" creationid="Fu Rhong" creationdate="20131127T131234Z">
+        <seg>下面例子中源片段为“&lt;e0&gt;Context menu command&lt;/e0&gt;”（就像上面例子中模糊匹配显示的一样），显示出在可用的术语表（微软术语集和斯洛文尼亚语Linux用户组术语表）中找到的术语。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24971,8 +24971,8 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       <tuv lang="EN">
         <seg>The spell checker uses the target language code to determine the language to be used : if the target language is Brazilian Portuguese (PT_BR), the subfolder with vocabularies must contain the two vocabulary files, called &lt;e0&gt;pt_br.aff&lt;/e0&gt; and &lt;e1&gt;pt_br.dic&lt;/e1&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120217T121923Z">
-        <seg>拼写检查器根据目标语言代码来决定要使用的语言：如果目标语言是巴西葡萄牙语 (PT_BR)，存放词汇表的目录必须包括两份词汇表，名为 &lt;e0&gt;pt_br.aff&lt;/e0&gt; 和 &lt;e1&gt;pt_br.dic&lt;/e1&gt;。</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021248Z">
+        <seg>拼写检查器根据目标语言代码来决定要使用的语言：如果目标语言是巴西葡萄牙语 (PT_BR)，存放术语表的目录必须包括两份术语表，名为 &lt;e0&gt;pt_br.aff&lt;/e0&gt; 和 &lt;e1&gt;pt_br.dic&lt;/e1&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25204,8 +25204,8 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       <tuv lang="EN">
         <seg>The underlined item "pop-up menu" can be found in the glossary pane as "pojavni menu".</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131116T115401Z" creationid="Fu Rhong" creationdate="20131116T115401Z">
-        <seg>添加了下划线的项“pop-up menu”可以在词汇表窗格找到并提示“pojavni menu”。</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021248Z" creationid="Fu Rhong" creationdate="20131116T115401Z">
+        <seg>添加了下划线的项“pop-up menu”可以在术语表窗格找到并提示“pojavni menu”。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25397,8 +25397,8 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       <tuv lang="EN">
         <seg>There are no terms in the current segment which match any terms in the glossary.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120206T090850Z">
-        <seg>当前片段中没有任何术语与词汇表中的术语相匹配。</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021248Z">
+        <seg>当前片段中没有任何术语与术语表中的术语相匹配。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25437,8 +25437,8 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       <tuv lang="EN">
         <seg>There is no EXACT match between the glossary entry and the source text in your document - for instance plurals.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120206T090822Z">
-        <seg>词汇表词条和文档中的原文未完全匹配－－例如该词条是复数形式。</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021248Z">
+        <seg>术语表词条和文档中的原文未完全匹配－－例如该词条是复数形式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26702,8 +26702,8 @@ configuration folder cannot be reliably determined.</seg>
       <tuv lang="EN">
         <seg>To start using OmegaT, first create a project that will hold all your files, such as your source file, translation memories, glossaries, and eventually your translated file.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T005042Z" creationid="Fu Rhong" creationdate="20131117T005042Z">
-        <seg>开始使用OmegaT时首先要创建项目，用来保存您的所有文件，例如源文件、翻译记忆、词汇表及您要翻译的文件。</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021248Z" creationid="Fu Rhong" creationdate="20131117T005042Z">
+        <seg>开始使用OmegaT时首先要创建项目，用来保存您的所有文件，例如源文件、翻译记忆、术语表及您要翻译的文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26742,8 +26742,8 @@ configuration folder cannot be reliably determined.</seg>
       <tuv lang="EN">
         <seg>To use an existing glossary, simply place it in the&lt;i0/&gt; &lt;f1&gt;/glossary&lt;/f1&gt; folder after creating the project.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120223T155902Z">
-        <seg>要使用现有的词汇表，只需在创建项目后将它放到&lt;i0/&gt; &lt;f1&gt;/glossary&lt;/f1&gt; 目录下。</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021248Z">
+        <seg>要使用现有的术语表，只需在创建项目后将它放到&lt;i0/&gt; &lt;f1&gt;/glossary&lt;/f1&gt; 目录下。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27560,8 +27560,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>Updating a glossary file is thus rather simple: press &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt; and enter the new term, its translation and any comments you may have (ensuring you press tab between the fields) and save the file.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131116T121544Z" creationid="Fu Rhong" creationdate="20131116T121544Z">
-        <seg>因此更新词汇表变得非常简单：按下&lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt;并输入新术语、其翻译及注释（确保在字段间使用了TAB）并保存文件。</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021248Z" creationid="Fu Rhong" creationdate="20131116T121544Z">
+        <seg>因此更新术语表变得非常简单：按下&lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt;并输入新术语、其翻译及注释（确保在字段间使用了TAB）并保存文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27752,8 +27752,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>Used to modify the font used by &lt;a0&gt;OmegaT&lt;/a0&gt; to display source, translation, matches and glossary terms, (access via &lt;m1&gt; &lt;g2&gt;Options&lt;/g2&gt; &lt;g3&gt;Font...&lt;/g3&gt; &lt;/m1&gt;, close via &lt;k4&gt;Esc&lt;/k4&gt;)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131127T122507Z" creationid="Fu Rhong" creationdate="20131127T122507Z">
-        <seg>用来修改&lt;a0&gt;OmegaT&lt;/a0&gt;显示原文、译文、匹配和词汇表术语的字体（通过&lt;m1&gt; &lt;g2&gt;选项&lt;/g2&gt; &lt;g3&gt;字体……&lt;/g3&gt; &lt;/m1&gt;打开、&lt;k4&gt;Esc&lt;/k4&gt;）</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021248Z" creationid="Fu Rhong" creationdate="20131127T122507Z">
+        <seg>用来修改&lt;a0&gt;OmegaT&lt;/a0&gt;显示原文、译文、匹配和术语表术语的字体（通过&lt;m1&gt; &lt;g2&gt;选项&lt;/g2&gt; &lt;g3&gt;字体……&lt;/g3&gt; &lt;/m1&gt;打开、&lt;k4&gt;Esc&lt;/k4&gt;）</seg>
       </tuv>
     </tu>
     <tu>
@@ -29139,8 +29139,8 @@ searchable without subscription:</seg>
       <tuv lang="EN">
         <seg>You can add a new term to the glossary by pressing &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt;, or copy existing glossaries to the &lt;f1&gt;/glossary/&lt;/f1&gt; subfolder of your project folder, and OmegaT will automatically look up words in them.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T031523Z" creationid="Fu Rhong" creationdate="20131117T031523Z">
-        <seg>按下&lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt;可以添加新术语到词汇表，也可以复制现有的词汇表到项目文件夹的&lt;f1&gt;/glossary/&lt;/f1&gt;子文件夹，OmegaT会自动在其中搜索单词。</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021248Z" creationid="Fu Rhong" creationdate="20131117T031523Z">
+        <seg>按下&lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt;可以添加新术语到术语表，也可以复制现有的术语表到项目文件夹的&lt;f1&gt;/glossary/&lt;/f1&gt;子文件夹，OmegaT会自动在其中搜索单词。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29187,8 +29187,8 @@ searchable without subscription:</seg>
       <tuv lang="EN">
         <seg>You can also highlight your preferred alternative in the glossary pane and insert it into the target by right clicking on the selection.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120219T034744Z">
-        <seg>您可以让词汇表窗格中的首选译文突出显示，并通过右键点击选区来将它插入目标片段中。</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021248Z">
+        <seg>您可以让术语表窗格中的首选译文突出显示，并通过右键点击选区来将它插入目标片段中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33015,16 +33015,16 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>multi-word entry in the glossary</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120219T034146Z">
-        <seg>词汇表中的多词条目</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021248Z">
+        <seg>术语表中的多词条目</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>multiple words entries in glossaries - example</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120205T125052Z">
-        <seg>词汇表中的多单词条目——示例</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021248Z">
+        <seg>术语表中的多单词条目——示例</seg>
       </tuv>
     </tu>
     <tu>
