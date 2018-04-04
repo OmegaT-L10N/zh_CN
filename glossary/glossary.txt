@@ -7,3 +7,4 @@ shortcut	缩略词	在autotext功能中出现，可以输入缩略词，自动�
 Preferences	偏好设置
 Change	修改
 domain	领域	查询TaaS术语时可以选择特定的领域
+API Key	API Key	专业名词就不翻译了
