@@ -3230,6 +3230,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;html&gt;Add patterns using wildcards (Apache Ant style): &lt;code&gt;*&lt;/code&gt;, &lt;code&gt;?&lt;/code&gt;, &lt;code&gt;**&lt;/code&gt;&lt;br&gt;Example: &lt;code&gt;**/.svn/**&lt;/code&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T031247Z" creationid="xulihang" creationdate="20180404T031247Z">
+        <seg>&lt;html&gt;使用通配符添加模式 (Apache Ant style): &lt;code&gt;*&lt;/code&gt;, &lt;code&gt;?&lt;/code&gt;, &lt;code&gt;**&lt;/code&gt;&lt;br&gt;例： &lt;code&gt;**/.svn/**&lt;/code&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;html&gt;Per-project external commands are disabled and will not be executed.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T145742Z">
@@ -6167,6 +6175,38 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Active segment source</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T032119Z" creationid="xulihang" creationdate="20180404T031527Z">
+        <seg>活动片段的源部分</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Active segment source text</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T031941Z" creationid="xulihang" creationdate="20180404T031620Z">
+        <seg>活动片段的源文本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Active segment target</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T032102Z" creationid="xulihang" creationdate="20180404T031637Z">
+        <seg>活动片段的目标部分</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Active segment target text</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T032008Z" creationid="xulihang" creationdate="20180404T031701Z">
+        <seg>活动片段的目标文本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add Pattern</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T154315Z">
@@ -7265,6 +7305,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131126T104809Z" creationid="Fu Rhong" creationdate="20131126T104809Z">
         <seg>对项目翻译记忆的备份会定期进行（请参阅下一章），同时在打开或关闭项目时也会保存/更新&lt;f0&gt;project_save.tmx&lt;/f0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Background</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T031316Z" creationid="xulihang" creationdate="20180404T031316Z">
+        <seg>背景</seg>
       </tuv>
     </tu>
     <tu>
@@ -9060,6 +9108,22 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120202T113047Z">
         <seg>目前，&lt;a1&gt;OmegaT&lt;/a1&gt; 支持以下纯文本格式：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Custom Colours</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T031310Z" creationid="xulihang" creationdate="20180404T031310Z">
+        <seg>自定义颜色</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Custom Colours Selection</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T031305Z" creationid="xulihang" creationdate="20180404T031305Z">
+        <seg>选择自定义颜色</seg>
       </tuv>
     </tu>
     <tu>
@@ -17153,6 +17217,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Non-unique segments</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T033046Z" creationid="xulihang" creationdate="20180404T033046Z">
+        <seg>非唯一片段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Non-visible Instruction Te&amp;xt</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T153142Z">
@@ -21540,6 +21612,22 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Segment marker background</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T032259Z" creationid="xulihang" creationdate="20180404T031816Z">
+        <seg>片段标记背景</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Segment marker text</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T031750Z" creationid="xulihang" creationdate="20180404T031750Z">
+        <seg>片段标记文本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Segment number...</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
@@ -21616,6 +21704,22 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T143747Z">
         <seg>片段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Segments with notes</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T032158Z" creationid="xulihang" creationdate="20180404T032158Z">
+        <seg>有注释的片段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Segments with notes text</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T032208Z" creationid="xulihang" creationdate="20180404T032208Z">
+        <seg>有注释文本的片段</seg>
       </tuv>
     </tu>
     <tu>
@@ -22496,6 +22600,22 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131122T065523Z">
         <seg>源片段分割规则</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source segments</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T031846Z" creationid="xulihang" creationdate="20180404T031846Z">
+        <seg>源片段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source segments text</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T032128Z" creationid="xulihang" creationdate="20180404T031858Z">
+        <seg>源片段文本</seg>
       </tuv>
     </tu>
     <tu>
@@ -27516,10 +27636,26 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Translated segments</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T032323Z" creationid="xulihang" creationdate="20180404T032313Z">
+        <seg>已译片段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translated segments are displayed with the original text at the top and the translated text at the bottom, untranslated segments are displayed as the source only.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120215T130133Z">
         <seg>已译片段会以上面显示原文、下面显示译文的形式显示，而未译片段只显示原始文本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translated segments text</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T032336Z" creationid="xulihang" creationdate="20180404T032336Z">
+        <seg>已译片段文本</seg>
       </tuv>
     </tu>
     <tu>
@@ -28082,6 +28218,22 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131118T034421Z" creationid="Fu Rhong" creationdate="20131118T034232Z">
         <seg>在您还没有丰富的OmegaT使用经验时，最安全的办法是在翻译开始的时候决定好所有的设置——除非您意识到自己犯了一个严重的错误。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Untranslated segments</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T032316Z" creationid="xulihang" creationdate="20180404T032214Z">
+        <seg>未译片段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Untranslated segments text</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T032321Z" creationid="xulihang" creationdate="20180404T032239Z">
+        <seg>未译片段文本</seg>
       </tuv>
     </tu>
     <tu>
