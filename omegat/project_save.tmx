@@ -17761,6 +17761,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Nothing speaks against using Notepad++ on Windows, GEdit on Linux for instance or some spreadsheet program for this purpose: any application, that can handle UTF-8 (or UTF-16 LE) and that can show white space (so that you do not miss the required &lt;k1&gt;TAB&lt;/k1&gt; characters) can be used.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="17012" changedate="20180405T025711Z" creationid="17012" creationdate="20180405T025711Z">
+        <seg>在Windows平台上使用 Notepad++，在Linux平台上使用 GEdit， 或者用电子表格完成都是可以的：任何能处理 UTF-8 (或者UTF-16 LE) ，以及能能显示空格（你不会漏掉必要的 &lt;k1&gt;TAB&lt;/k1&gt; 字符）的应用都可以使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Nothing, but ends quoting started by \Q</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120214T034013Z">
