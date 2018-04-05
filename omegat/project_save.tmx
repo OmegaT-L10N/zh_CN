@@ -4279,6 +4279,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Machine Translation&lt;/p0&gt; &lt;s1&gt;Yandex Translate&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180405T145908Z" creationid="weiyi" creationdate="20180405T145908Z">
+        <seg>&lt;p0&gt;机器翻译&lt;/p0&gt; &lt;s1&gt;Yandex Translate&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Match Statistics&lt;/p0&gt; &lt;s1&gt;Menu Tools&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120219T125703Z">
@@ -14272,6 +14280,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T052953Z">
         <seg>为了使修改生效，OmegaT 需要关闭然后打开项目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In order to be able to use Yandex Translate in OmegaT, you need to &lt;u0&gt;obtain an API key from Yandex&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180405T150040Z" creationid="weiyi" creationdate="20180405T150040Z">
+        <seg>若需使用OmegaT中的Yandex Translate，您需 &lt;u0&gt;从Yandex获得API密钥&lt;/u0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
