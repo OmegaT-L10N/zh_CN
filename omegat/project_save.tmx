@@ -4223,6 +4223,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Machine Translation&lt;/p0&gt; &lt;s1&gt;MyMemory&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180405T080936Z" creationid="weiyi" creationdate="20180405T080936Z">
+        <seg>&lt;p0&gt;机器翻译&lt;/p0&gt; &lt;s1&gt;MyMemory&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Machine Translation&lt;/p0&gt; &lt;s1&gt;Troubleshooting&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120209T120338Z">
@@ -7685,6 +7693,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By default, MyMemory allows a maximum of 100 requests per day.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180405T081051Z" creationid="weiyi" creationdate="20180405T081025Z">
+        <seg>默然情况下，MyMemory每天最多允许发生100条请求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By default, left justification is used for Left-To-Right (LTR) languages and right justification for Right-To-Left (RTL) languages.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131031T074949Z">
@@ -7713,6 +7729,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120127T044744Z">
         <seg>删除一个标签组的同时，您将会从已译文件中删除相关的格式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By specifying an email address, it is possible to use 1000 requests per day instead of 100 ones.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180405T081223Z" creationid="weiyi" creationdate="20180405T081155Z">
+        <seg>电子邮箱经认证后，每天可发送1000条请求。</seg>
       </tuv>
     </tu>
     <tu>
