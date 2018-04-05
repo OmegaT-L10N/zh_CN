@@ -8286,6 +8286,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click on the My Account option at the top of the page.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180405T145051Z" creationid="weiyi" creationdate="20180405T145051Z">
+        <seg>点击页面上方“我的账户”选项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click on the icon button (to the right of the Name/Description/Comment fields)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120206T122149Z">
@@ -13755,6 +13763,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you do not already have an Azure Marketplace account you will need to register one first.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180405T145008Z" creationid="weiyi" creationdate="20180405T145008Z">
+        <seg>如果您还没有Azure Marketplace账户，您首先需先注册一个账户。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you do not wish &lt;a0&gt;OmegaT&lt;/a0&gt; to send your source segments to Google to get translated, untick the Google Translate menu entry in Options.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120209T071657Z">
@@ -16082,8 +16098,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Log into Microsoft Azure Marketplace: &lt;u0&gt;http://datamarket.azure.com/&lt;/u0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180405T144920Z" creationid="weiyi" creationdate="20180405T144920Z">
-        <seg>登陆微软Azure Marketplace: &lt;u0&gt;http://datamarket.azure.com/&lt;/u0&gt;</seg>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180405T144932Z" creationid="weiyi" creationdate="20180405T144920Z">
+        <seg>登陆微软Azure Marketplace： &lt;u0&gt;http://datamarket.azure.com/&lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17292,6 +17308,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T102712Z" creationid="Fu Rhong" creationdate="20131108T030510Z">
         <seg>恩敦加语</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Near the bottom you will see entries and values for:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180405T145229Z" creationid="weiyi" creationdate="20180405T145229Z">
+        <seg>在接近底部的位置您会看到以下条目及其对应值：</seg>
       </tuv>
     </tu>
     <tu>
