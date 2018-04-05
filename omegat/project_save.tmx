@@ -19732,6 +19732,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Priority glossary</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="17012" changedate="20180405T025821Z" creationid="17012" creationdate="20180405T025821Z">
+        <seg>优先术语</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Pro&amp;ject</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T150853Z">
@@ -25493,6 +25501,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120208T065324Z">
         <seg>生成的 TMX 保存在 &lt;l1&gt;omegat&lt;/l1&gt; 目录，名称为 &lt;f2&gt;align.tmx&lt;/f2&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The results from the priority glossary (by default, glossary/glossary.txt) appear in first places in the Glossary pane and in TransTips.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="17012" changedate="20180405T030100Z" creationid="17012" creationdate="20180405T030100Z">
+        <seg>优先术语表 (默认的glossary/glossary.txt) 结果会在术语窗口和翻译建议中中优先出现。</seg>
       </tuv>
     </tu>
     <tu>
