@@ -11842,6 +11842,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For pre-defined options, remove the # before a parameter to enable it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="17012" changedate="20180405T103704Z" creationid="17012" creationdate="20180405T103704Z">
+        <seg>通过移除 参数前的# 修改预定义选择。t.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For readability purposes, letters are written in uppercase here.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
@@ -18992,6 +19000,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T124036Z">
         <seg>选项菜单</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Options are changed by modifying &lt;e0&gt;Configuration.properties&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="17012" changedate="20180405T103449Z" creationid="17012" creationdate="20180405T103449Z">
+        <seg>通过修改 &lt;e0&gt;Configuration.properties&lt;/e0&gt;可以改变选择。.</seg>
       </tuv>
     </tu>
     <tu>
