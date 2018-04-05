@@ -10064,6 +10064,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Drag and drop</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="17012" changedate="20180405T104900Z" creationid="17012" creationdate="20180405T104900Z">
+        <seg>拖放</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Drag and drop &lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.app&lt;/e0&gt; onto the Dock.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120207T112315Z">
@@ -14156,6 +14164,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In most systems, it is possible to open a project by dropping an &lt;f0&gt;omegat.project&lt;/f0&gt; file onto the OmegaT icon on the desktop.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="17012" changedate="20180405T105003Z" creationid="17012" creationdate="20180405T105003Z">
+        <seg>在大部分系统中，可以通过拖动 &lt;f0&gt;omegat.project&lt;/f0&gt;文件到OmegaT 的桌面图标中打开项目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In most translation jobs, it is considered important for the formatting of the original text to be retained in the translation.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120202T114115Z">
@@ -15123,6 +15139,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131126T093729Z" creationid="Fu Rhong" creationdate="20131126T092225Z">
         <seg>可能出现这样的情况：在&lt;f0&gt;tm&lt;/f0&gt;子文件夹的翻译记忆中多个片段含有相同的源文本，但目标译文不同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It might also be possible to open an OmegaT project by double-clicking on an &lt;f1&gt;omegat.project&lt;/f1&gt; file.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="17012" changedate="20180405T105043Z" creationid="17012" creationdate="20180405T105043Z">
+        <seg>也可以通过双击&lt;f1&gt;omegat.project&lt;/f1&gt; 文件打开OmegaT。</seg>
       </tuv>
     </tu>
     <tu>
