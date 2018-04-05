@@ -5775,6 +5775,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;u0&gt;Microsoft Terminology Collection&lt;/u0&gt; &lt;i1/&gt; can be downloaded in nearly 100 languages and can serve as a cornerstone IT glossary.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="17012" changedate="20180405T024004Z" creationid="17012" creationdate="20180405T024004Z">
+        <seg>&lt;u0&gt;可以下载Microsoft Terminology Collection&lt;/u0&gt; &lt;i1/&gt;它有将近100种语言，可以作为基础的IT词汇表。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>==============================================================================</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130514T145242Z">
@@ -13639,6 +13647,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021248Z" creationid="Fu Rhong" creationdate="20131126T091450Z">
         <seg>如果已经译了一大段文本，但是才意识到项目的目标语言代码与拼写检查器的语言代码不符（如将pt_BR设为目标语言，但没有pt_BR术语表），您只需复制两份对应的文件并进行重命名（例如把&lt;e0&gt;pt_PT.aff&lt;/e0&gt;和&lt;e1&gt;pt_PT.dic&lt;/e1&gt;改名为&lt;e2&gt;pt_BR.aff&lt;/e2&gt;和&lt;e3&gt;pt_BR.dic&lt;/e3&gt;）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you have an existing terminology handling system it is quite possible it offers the export of terminology data via TBX format.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="17012" changedate="20180405T023831Z" creationid="17012" creationdate="20180405T023722Z">
+        <seg>如果你已经有术语处理系统，那它很可能提供通过 TBX格式到处术语数据。.</seg>
       </tuv>
     </tu>
     <tu>
