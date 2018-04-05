@@ -6159,6 +6159,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>API keys can be requested using &lt;u0&gt;API key request form&lt;/u0&gt;, and viewed on &lt;u1&gt;My Keys&lt;/u1&gt; page.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="17012" changedate="20180405T111821Z" creationid="17012" creationdate="20180405T111821Z">
+        <seg>API 密钥可以使用&lt;u0&gt;API 密钥请求表单获得 &lt;/u0&gt;并在 &lt;u1&gt;My Keys&lt;/u1&gt;页面查看。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ASCII text (.txt, etc.)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120202T113100Z">
@@ -30833,6 +30841,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130505T161931Z">
         <seg>项目不包含任何所支持格式的文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You’ll need this to be able to obtain and use Yandex Translate API key.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="17012" changedate="20180405T111706Z" creationid="17012" creationdate="20180405T111604Z">
+        <seg>你将需要账号获得并使用 Yandex 翻译的 API 密钥。</seg>
       </tuv>
     </tu>
     <tu>
