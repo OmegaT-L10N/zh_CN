@@ -27342,8 +27342,8 @@ configuration folder cannot be reliably determined.</seg>
       <tuv lang="EN">
         <seg>To change the amount of memory available, edit &lt;e0&gt;OmegaT.app/Contents/Info.plist&lt;/e0&gt; file and change the content of &lt;string&gt;-Xmx1024M&lt;/string&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="17012" changedate="20180405T103939Z" creationid="17012" creationdate="20180405T103902Z">
-        <seg>为了改变可用记忆，编辑 &lt;e0&gt;OmegaT.app/Contents/Info.plist&lt;/e0&gt; 文件，改变 &lt;string&gt;-Xmx1024M&lt;/string&gt;中的内容。</seg>
+      <tuv lang="ZH-CN" changeid="17012" changedate="20180405T104413Z" creationid="17012" creationdate="20180405T103902Z">
+        <seg>为了改变可用记忆量，编辑 &lt;e0&gt;OmegaT.app/Contents/Info.plist&lt;/e0&gt; 文件，改变 &lt;string&gt;-Xmx1024M&lt;/string&gt;中的内容。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27560,6 +27560,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120202T112429Z">
         <seg>要启动 OmegaT，或是从命令行调用该文件，或者通过文件管理器运行它（通常是使用鼠标双击）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To launch multiple instances of &lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.app&lt;/e0&gt;, double-click the file &lt;e2&gt;OmegaT.sh&lt;/e2&gt; located in &lt;e3&gt;&lt;a4&gt;OmegaT&lt;/a4&gt;.app/ Contents/MacOS/&lt;/e3&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="17012" changedate="20180405T104550Z" creationid="17012" creationdate="20180405T104550Z">
+        <seg>要启动&lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.app&lt;/e0&gt;的多种示例，双击&lt;e2&gt;OmegaT.sh&lt;/e2&gt;，它位于&lt;e3&gt;&lt;a4&gt;OmegaT&lt;/a4&gt;.app/ Contents/MacOS/&lt;/e3&gt;目录下。</seg>
       </tuv>
     </tu>
     <tu>
