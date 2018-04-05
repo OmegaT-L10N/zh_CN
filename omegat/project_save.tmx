@@ -27246,8 +27246,8 @@ configuration folder cannot be reliably determined.</seg>
       <tuv lang="EN">
         <seg>To access &lt;a0&gt;&lt;e1&gt;Configuration.properties&lt;/e1&gt;&lt;/a0&gt;, right-click on &lt;e2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt;.app&lt;/e2&gt; and select "Show Package Contents", then open the file in Contents/Resources by right-clicking on it and selecting your text editor of choice.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="17012" changedate="20180405T103027Z" creationid="17012" creationdate="20180405T103027Z">
-        <seg>设置 &lt;a0&gt;&lt;e1&gt;Configuration.properties&lt;/e1&gt;&lt;/a0&gt;右键单击 &lt;e2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt;.app&lt;/e2&gt;然后选择“显示组件” and select "Show Package Contents", then open the file in Contents/Resources by right-clicking on it and selecting your text editor of choice.</seg>
+      <tuv lang="ZH-CN" changeid="17012" changedate="20180405T103207Z" creationid="17012" creationdate="20180405T103027Z">
+        <seg>设置 &lt;a0&gt;&lt;e1&gt;Configuration.properties&lt;/e1&gt;&lt;/a0&gt;右键单击 &lt;e2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt;.app&lt;/e2&gt;，选择“显示组件内容，然后右键单击选择 Contents/Resources 中的文件，并选择文本编辑器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30177,6 +30177,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can also "cd" there directly from the command line and open &lt;a4&gt;&lt;e5&gt;Configuration.properties&lt;/e5&gt; in a command line editor like emacs or vi&lt;/a4&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="17012" changedate="20180405T103353Z" creationid="17012" creationdate="20180405T103353Z">
+        <seg>你也可以直接使用命令行 "cd"，在命令行编辑器中打开 &lt;a4&gt;&lt;e5&gt;Configuration.properties&lt;/e5&gt; 如 emacs 或者 vi。&lt;/a4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can also add source files from Internet pages, written in MediaWiki, by clicking on&lt;g4&gt; "Import from MediaWiki"&lt;/g4&gt; button and providing the corresponding URL.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131124T133124Z">
@@ -30389,8 +30397,8 @@ searchable without subscription:</seg>
       <tuv lang="EN">
         <seg>You can modify OmegaT's behaviour by editing the &lt;e0&gt;Properties&lt;/e0&gt; as well as the &lt;e1&gt;Configuration.properties&lt;/e1&gt; file in the package.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="17012" changedate="20180405T102711Z" creationid="17012" creationdate="20180405T102711Z">
-        <seg>你可以通过编辑 &lt;e0&gt;Properties&lt;/e0&gt;以及&lt;e1&gt;包中的Configuration.properties&lt;/e1&gt; 文件来修改OmegaT的行为。</seg>
+      <tuv lang="ZH-CN" changeid="17012" changedate="20180405T103038Z" creationid="17012" creationdate="20180405T102711Z">
+        <seg>你可以通过编辑 &lt;e0&gt;Properties&lt;/e0&gt;以及&lt;e1&gt;组件中的Configuration.properties&lt;/e1&gt; 文件来修改OmegaT的行为。</seg>
       </tuv>
     </tu>
     <tu>
