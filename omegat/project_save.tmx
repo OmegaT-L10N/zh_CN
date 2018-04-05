@@ -17192,6 +17192,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>MyMemory provides also &lt;e0&gt;Human translations&lt;/e0&gt; originating from professional translators, LSPs, customers and multilingual web content.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180405T143931Z" creationid="weiyi" creationdate="20180405T143931Z">
+        <seg>MyMemory也提供&lt;e0&gt;人工翻译&lt;/e0&gt; ，翻译记忆来自专业译员、语言服务供应商、客户以及多语种网站内容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>MyMemory your@email-address.com</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="weiyi" changedate="20180405T081447Z" creationid="weiyi" creationdate="20180405T081447Z">
@@ -33343,8 +33351,8 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>in the OmegaT.l4J.ini file (Windows only), change:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180405T081401Z" creationid="weiyi" creationdate="20180405T081401Z">
-        <seg>在OmegaT.l4J.ini文件(只限Windows操作系统)中将：</seg>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180405T143712Z" creationid="weiyi" creationdate="20180405T081401Z">
+        <seg>在OmegaT.l4J.ini文件（只限Windows操作系统）中将：</seg>
       </tuv>
     </tu>
     <tu>
