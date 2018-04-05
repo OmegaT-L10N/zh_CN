@@ -27676,6 +27676,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To enable MS Translator in OmegaT edit its launcher or see chapter &lt;l0&gt;Installing and Running&lt;/l0&gt; to learn how to start OmegaT from the command line.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180405T145856Z" creationid="weiyi" creationdate="20180405T145856Z">
+        <seg>许可OmegaT中的微软翻译编辑其启动器或了解如何通过命令行启动OmegaT，见 &lt;l0&gt;Installing and Running安装与运行&lt;/l0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To enable the spell checker, select &lt;g0&gt;Options &gt; Spell Checking&lt;/g0&gt; and tick the &lt;g1&gt;Automatically check the spelling of text&lt;/g1&gt; check box (see above).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131126T085120Z" creationid="Fu Rhong" creationdate="20131126T085120Z">
