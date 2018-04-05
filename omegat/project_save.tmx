@@ -8896,6 +8896,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Creates a local copy of a remote OmegaT project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180405T152135Z" creationid="weiyi" creationdate="20180405T152135Z">
+        <seg>创建远程OmegaT项目的本地拷贝。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Creates and opens a new project.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
@@ -10084,6 +10092,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130914T121847Z">
         <seg>下载团队项目(&amp;T)……</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Download Team Project...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180405T152033Z" creationid="weiyi" creationdate="20180405T152033Z">
+        <seg>下载团队项目（T）</seg>
       </tuv>
     </tu>
     <tu>
@@ -17375,6 +17391,14 @@ inside the configuration folder.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>New...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180405T152009Z" creationid="weiyi" creationdate="20180405T152009Z">
+        <seg>新建（N）</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>有点怪</note>
       <tuv lang="EN">
         <seg>Newly added terms will not be recognized once the changes in the text file have been saved.</seg>
@@ -19076,6 +19100,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open Recent Project</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180405T152237Z" creationid="weiyi" creationdate="20180405T152237Z">
+        <seg>打开最近的项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open XML Filter Options</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T153108Z">
@@ -19112,6 +19144,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131111T122112Z" creationid="Fu Rhong" creationdate="20131111T110840Z">
         <seg>在您的账户中打开&lt;e0&gt;Projects&lt;/e0&gt;视图。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180405T152148Z" creationid="weiyi" creationdate="20180405T152148Z">
+        <seg>打开（O）</seg>
       </tuv>
     </tu>
     <tu>
