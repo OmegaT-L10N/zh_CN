@@ -17192,6 +17192,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>MyMemory offers also the possibility to manage &lt;e0&gt;private TMs&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180405T144400Z" creationid="weiyi" creationdate="20180405T144400Z">
+        <seg>MyMemory 也提供 &lt;e0&gt;私人翻译记忆&lt;/e0&gt;管理功能。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>MyMemory provides also &lt;e0&gt;Human translations&lt;/e0&gt; originating from professional translators, LSPs, customers and multilingual web content.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="weiyi" changedate="20180405T143931Z" creationid="weiyi" creationdate="20180405T143931Z">
@@ -17917,6 +17925,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120209T130816Z">
         <seg>注意：在多数程序中可以找到的（复制/剪切/粘贴）条目没有出现在这个菜单中，但是您可以通过系统快捷键使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note: OmegaT does not interact dynamically with them (you must export/import TMX files manually).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180405T144530Z" creationid="weiyi" creationdate="20180405T144530Z">
+        <seg>提示： OmegaT不能动态与翻译记忆文件关联（您需要手动导入/导出TMX文件）。</seg>
       </tuv>
     </tu>
     <tu>
