@@ -26378,6 +26378,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Then you must put this TMX file in the /tm/ or /tm/auto/ folder of your OmegaT project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180405T144311Z" creationid="weiyi" creationdate="20180405T144311Z">
+        <seg>随后，您需要将TMX文件放入到您OmegaT项目相应的/tm/或/tm/auto/文件夹中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Then you need a translation in e.g. Chinese, but your translator does not understand Dutch; she, however, understands perfectly English.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131127T102428Z" creationid="Fu Rhong" creationdate="20131127T102428Z">
@@ -27600,6 +27608,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120130T073813Z">
         <seg>想参加 &lt;a3&gt;OmegaT&lt;/a3&gt; 开发的话，您可以通过网站或者向 &lt;u4&gt;omegat-development-request@lists.sourceforge.net&lt;/u4&gt; 发送一份标题为 "subscribe" 的邮件加入开发人员组。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To get these translations, you must upload your source file &lt;u1&gt;on their site&lt;/u1&gt; that generates a TMX file.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180405T144143Z" creationid="weiyi" creationdate="20180405T144143Z">
+        <seg>未获得以上来源的翻译记忆，您应将您的源文件上传至 &lt;u1&gt;他们的网站&lt;/u1&gt;，以获得网站生成的TMX文件。</seg>
       </tuv>
     </tu>
     <tu>
