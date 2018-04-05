@@ -1769,6 +1769,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>-Dmymemory.api.email=your@email-address.com</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180405T081603Z" creationid="weiyi" creationdate="20180405T081603Z">
+        <seg>-Dmymemory.api.email=你的邮箱名@邮箱地址.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120214T035128Z">
@@ -29428,6 +29436,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120211T063236Z">
         <seg>在控制台模式下，将不会载入任何图形化界面（因此仅在某控制台中运行），同时会自动按要求翻译指定的项目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When starting OmegaT from the command line, specify in the command:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180405T081541Z" creationid="weiyi" creationdate="20180405T081541Z">
+        <seg>通过命令行打开OmegaT，输入命令：</seg>
       </tuv>
     </tu>
     <tu>
