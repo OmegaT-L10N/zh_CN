@@ -27708,6 +27708,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To remind yourself of the project's initial settings, open the project properties dialog by pressing &lt;k0&gt;Ctrl+E&lt;/k0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="17012" changedate="20180405T112925Z" creationid="17012" creationdate="20180405T112925Z">
+        <seg>为了记住项目的初始设置，按下&lt;k0&gt;Ctrl+E&lt;/k0&gt;打开项目属性对话框。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To reuse it in &lt;a5&gt;OmegaT&lt;/a5&gt; rename it to &lt;e6&gt;project_save.tmx &lt;/e6&gt; and place it in the &lt;l7&gt;omegat&lt;/l7&gt;-folder of your project.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120218T071019Z">
