@@ -25978,6 +25978,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The window that opens when &lt;g2&gt;Ctrl+Shift+V&lt;/g2&gt; is pressed features a 3-column table with a link to the segment, the original segment and the target segment.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="17012" changedate="20180405T022614Z" creationid="17012" creationdate="20180405T022614Z">
+        <seg>按住 &lt;g2&gt;Ctrl+Shift+V&lt;/g2&gt;后，窗口将打开，并出现一个表格，三列表格分别为该片段的链接，原始片段以及目标片段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The word [Fuzzy] is displayed on the source segment.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131127T111106Z" creationid="Fu Rhong" creationdate="20131127T111106Z">
