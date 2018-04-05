@@ -3743,6 +3743,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;l0&gt;--disable-project-locking&lt;/l0&gt; allows, under Windows, to open the same project with several instances of OmegaT.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="17012" changedate="20180405T112317Z" creationid="17012" creationdate="20180405T112317Z">
+        <seg>&lt;l0&gt;--disable-project-locking&lt;/l0&gt;允许在Windows平台下打开有几个OmegaT例子的同一个项目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;l0&gt;--mode=console-translate &lt;/l0&gt; &lt;a1&gt;OmegaT&lt;/a1&gt; launches in console mode and translates the given project</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120211T085519Z">
@@ -7769,6 +7777,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120201T112737Z">
         <seg>缺省情况下，已译文件的编码与源文件的编码相同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By default, under Windows, &lt;l1&gt;omegat.project&lt;/l1&gt; is locked, and an error message is received when trying to open a project already opened in another instance of OmegaT.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="17012" changedate="20180405T112544Z" creationid="17012" creationdate="20180405T112544Z">
+        <seg>默认条件下， Windows平台下的 &lt;l1&gt;omegat.project&lt;/l1&gt;文件是锁定的，试图打开在另一个OmegaT例子中已经打开的项目会报错。</seg>
       </tuv>
     </tu>
     <tu>
