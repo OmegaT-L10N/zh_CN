@@ -29937,6 +29937,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>With that option, no locking occurs.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="17012" changedate="20180405T112630Z" creationid="17012" creationdate="20180405T112630Z">
+        <seg>在那种选项下，不会锁住。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>With this command you can move backward one segment at a time, to return later to the current segment using &lt;g0&gt;Forward in history... &lt;/g0&gt;command below.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120209T134203Z">
@@ -30445,6 +30453,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120213T143637Z">
         <seg>可以通过在&lt;e1&gt;选项&lt;/e1&gt;菜单中选择&lt;e0&gt;文件过滤器&lt;/e0&gt;菜单项来检查是不是这样。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can create a new project for each new job, and you can add new source files to a project at anytime.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="17012" changedate="20180405T112814Z" creationid="17012" creationdate="20180405T112814Z">
+        <seg>你可以为每一份新工作创建一个新项目，可以在任何时候增添新的源文档到项目中。</seg>
       </tuv>
     </tu>
     <tu>
