@@ -8350,6 +8350,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Clicking on one will save the current project, close it and open the other project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180405T152357Z" creationid="weiyi" creationdate="20180405T152357Z">
+        <seg>点击可以=保存当前项目、关闭它或打开其他项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Close</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
@@ -8804,6 +8812,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131107T131127Z" creationid="Fu Rhong" creationdate="20131107T131127Z">
         <seg>创建当前已译文档(&amp;D)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create Current Translated Document</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180405T152557Z" creationid="weiyi" creationdate="20180405T152557Z">
+        <seg>创建当前翻译文档</seg>
       </tuv>
     </tu>
     <tu>
@@ -10088,6 +10104,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Download MediaWiki Page...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180405T152418Z" creationid="weiyi" creationdate="20180405T152418Z">
+        <seg>下载MediaWiki页（W）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Download Team Project</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130914T121847Z">
@@ -10148,6 +10172,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120206T121151Z">
         <seg>下载正确的安装包</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Downloads units from MediaWiki pages, based on the URL entered.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180405T152531Z" creationid="weiyi" creationdate="20180405T152531Z">
+        <seg>根据输入的URL下载MediaWiki页面的单位。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12328,6 +12360,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130504T151055Z">
         <seg>开始执行 Git '{0}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Give access to the five last edited projects.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180405T152303Z" creationid="weiyi" creationdate="20180405T152303Z">
+        <seg>获取最后编辑的5个文档.</seg>
       </tuv>
     </tu>
     <tu>
