@@ -8928,6 +8928,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Creates the target document corresponding to the current document in translation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180405T152633Z" creationid="weiyi" creationdate="20180405T152633Z">
+        <seg>创建与当前翻译文档对应的目标文档</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Creates the target documents based on your translation of the documents' text.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120209T130309Z">
