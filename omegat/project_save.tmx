@@ -6956,8 +6956,8 @@ The TMX file will not be loaded.</seg>
       <tuv lang="EN">
         <seg>Appropriate Legal Notices; however, if the Program has interactive</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180404T163000Z" creationid="weiyi" creationdate="20180404T162838Z">
-        <seg>相应法律声明；然而，程序中有接口</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180405T033420Z" creationid="weiyi" creationdate="20180404T162838Z">
+        <seg>Appropriate Legal Notices; however, if the Program has interactive</seg>
       </tuv>
     </tu>
     <tu>
@@ -12086,8 +12086,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>GNU GENERAL PUBLIC LICENSE</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
-        <seg>-GNU 通用公共许可证</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180405T033444Z">
+        <seg>GNU GENERAL PUBLIC LICENSE</seg>
       </tuv>
     </tu>
     <tu>
@@ -31663,8 +31663,8 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>d) If the work has interactive user interfaces, each must display</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180404T162451Z" creationid="weiyi" creationdate="20180404T162154Z">
-        <seg>d) 若工程有交互式用户接口，必须显示全部</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180405T033408Z" creationid="weiyi" creationdate="20180404T162154Z">
+        <seg>d) If the work has interactive user interfaces, each must display</seg>
       </tuv>
     </tu>
     <tu>
@@ -33071,8 +33071,8 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>interfaces that do not display Appropriate Legal Notices, your</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180404T162916Z" creationid="weiyi" creationdate="20180404T162916Z">
-        <seg>不需要显示相应法律声明，那么</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180405T033423Z" creationid="weiyi" creationdate="20180404T162916Z">
+        <seg>interfaces that do not display Appropriate Legal Notices, your</seg>
       </tuv>
     </tu>
     <tu>
@@ -36064,8 +36064,8 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>work need not make them do so.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180404T163049Z" creationid="weiyi" creationdate="20180404T162945Z">
-        <seg>你的工程中无需显示它们。</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180405T033430Z" creationid="weiyi" creationdate="20180404T162945Z">
+        <seg>work need not make them do so.</seg>
       </tuv>
     </tu>
     <tu>
