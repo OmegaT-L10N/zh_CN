@@ -10,3 +10,4 @@ domain	领域	查询TaaS术语时可以选择特定的领域
 API Key	API Key	专业名词就不翻译了
 Active	活动的	active segment，就是当前所在片段
 unique	唯一	根据以下文档，可以知道unique segment是不存在重复的唯一片段。Segments which occur more than once are described in OmegaT as "non-unique segments".
+spreadsheet	电子表格
