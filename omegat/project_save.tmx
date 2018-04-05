@@ -4257,8 +4257,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Machine Translation&lt;/p0&gt; &lt;s1&gt;Microsoft Translator&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180405T144605Z" creationid="weiyi" creationdate="20180405T144605Z">
-        <seg>&lt;p0&gt;机器翻译&lt;/p0&gt; &lt;s1&gt;Microsoft Translator&lt;/s1&gt;</seg>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180405T144642Z" creationid="weiyi" creationdate="20180405T144605Z">
+        <seg>&lt;p0&gt;机器翻译&lt;/p0&gt; &lt;s1&gt;微软翻译&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14268,6 +14268,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In order to get credentials for MS Translator, follow these steps:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180405T144901Z" creationid="weiyi" creationdate="20180405T144901Z">
+        <seg>通过以下步骤获得微软翻译许可证：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In order to run, OmegaT requires the Java Runtime Environment (JRE) version</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130911T114914Z">
@@ -16072,6 +16080,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Log into Microsoft Azure Marketplace: &lt;u0&gt;http://datamarket.azure.com/&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180405T144920Z" creationid="weiyi" creationdate="20180405T144920Z">
+        <seg>登陆微软Azure Marketplace: &lt;u0&gt;http://datamarket.azure.com/&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Log:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130911T115757Z">
@@ -16786,8 +16802,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Microsoft Translator</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130509T155029Z">
-        <seg>Microsoft Translator</seg>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180405T144657Z">
+        <seg>微软翻译</seg>
       </tuv>
     </tu>
     <tu>
