@@ -4063,6 +4063,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Glossaries&lt;/p0&gt; &lt;s1&gt;Priorities&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="17012" changedate="20180405T025805Z" creationid="17012" creationdate="20180405T025730Z">
+        <seg>&lt;p0&gt;术语表&lt;/p0&gt; &lt;s1&gt;优先级&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Glossaries&lt;/p0&gt; &lt;s1&gt;Problems with glossaries&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021248Z">
