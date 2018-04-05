@@ -33333,6 +33333,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>in the Kaptain launcher (Linux only), enter the address in the corresponding field on the "Online Services" tab.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180405T143653Z" creationid="weiyi" creationdate="20180405T143653Z">
+        <seg>在Kaptain启动器中（仅限Linux操作系统）, 将邮箱地址输入到“Online Services” 标签的对应域中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>in the OmegaT.l4J.ini file (Windows only), change:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="weiyi" changedate="20180405T081401Z" creationid="weiyi" creationdate="20180405T081401Z">
