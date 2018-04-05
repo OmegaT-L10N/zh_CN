@@ -15624,6 +15624,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Launching this function – &lt;g0&gt;Ctrl+Shift+V&lt;i1/&gt;&lt;/g0&gt; - opens a window containing all segments in the file containing suspected broken or bad tags in the translation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="17012" changedate="20180405T022133Z" creationid="17012" creationdate="20180405T022133Z">
+        <seg>启动这一功能 – &lt;g0&gt;Ctrl+Shift+V&lt;i1/&gt;&lt;/g0&gt; -打开包含文件所有片段的窗口，这些片段中包括翻译中碎片标签或者坏的标签.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Learn to use OmegaT in 5 minutes!</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130514T145152Z">
