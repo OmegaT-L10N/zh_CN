@@ -7036,6 +7036,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As entries can mix words from priority and non priority glossaries, the words from the priority glossary are displayed in bold.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="17012" changedate="20180405T030345Z" creationid="17012" creationdate="20180405T030345Z">
+        <seg>优先术语表和非优先术语表中的术语可能混合，优先术语表中的词汇以粗体展现。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As far as categories are concerned, the de facto industry standard of classifying matches into the following groups is used: Repetitions, Exact match, 95%-100%, 85%-94%, 75%-84%, 50%-74% and No match.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131128T003806Z" creationid="Fu Rhong" creationdate="20131128T003806Z">
