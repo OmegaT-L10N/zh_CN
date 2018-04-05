@@ -14237,6 +14237,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In other platforms, you can modify &lt;f4&gt;Configuration.properties&lt;/f4&gt; file on the Mac, or &lt;f5&gt;OmegaT&lt;/f5&gt; launcher under Linux to do the same.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="17012" changedate="20180405T111245Z" creationid="17012" creationdate="20180405T111245Z">
+        <seg>在其它平台中，你可以修改Mac中的&lt;f4&gt;Configuration.properties&lt;/f4&gt;文件，也可以在Linux中的&lt;f5&gt;OmegaT&lt;/f5&gt;启动器中这样做。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In other words, when moving paired tags, ensure that both the opening and the closing tag are both either inside or outside other tag pairs, or the translated file may be corrupted and fail to open.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120205T115626Z">
@@ -17653,6 +17661,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120207T121920Z">
         <seg>请注意，如果您需要某个启动命令参数（见上文），就不得不使用正常安装。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note that in Windows you can change the &lt;f3&gt;OmegaT.l4J.ini&lt;/f3&gt; file to reflect your preferences.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="17012" changedate="20180405T105134Z" creationid="17012" creationdate="20180405T105134Z">
+        <seg>注意在Windows中你可以改变&lt;f3&gt;OmegaT.l4J.ini&lt;/f3&gt;文件来反应你的偏好。</seg>
       </tuv>
     </tu>
     <tu>
