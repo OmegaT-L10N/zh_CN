@@ -8586,8 +8586,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Correct the error if necessary (in the case above it is the missing &lt;i2&gt;&lt;/i2&gt; pair) and press &lt;g0&gt;Ctrl+Shift+V&lt;/g0&gt; to return to the tag validation window to correct other errors.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="17012" changedate="20180405T022736Z" creationid="17012" creationdate="20180405T022736Z">
-        <seg>如果有必要的话，更正错误（上例为&lt;i2&gt;&lt;/i2&gt; pair) and press &lt;g0&gt;Ctrl+Shift+V&lt;/g0&gt; to return to the tag validation window to correct other errors.</seg>
+      <tuv lang="ZH-CN" changeid="17012" changedate="20180405T022908Z" creationid="17012" creationdate="20180405T022736Z">
+        <seg>如果有必要的话，更正错误（上例为缺失对）&lt;i2&gt;&lt;/i2&gt; 按下 &lt;g0&gt;Ctrl+Shift+V&lt;/g0&gt; 返回标签验证窗口更正其它错误。.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24508,6 +24508,14 @@ instead.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120209T133157Z">
         <seg>导出的内容被复制到位于用户首选项文件文件夹（请参阅&lt;x2/&gt;）的 &lt;f1&gt;selection.txt&lt;/f1&gt; 文件中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The extension must be &lt;f0&gt;.txt&lt;/f0&gt; or &lt;f1&gt;.utf8&lt;/f1&gt; (if not, it will be added).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="17012" changedate="20180405T023024Z" creationid="17012" creationdate="20180405T023024Z">
+        <seg>扩展名必须为&lt;f0&gt;.txt&lt;/f0&gt; or &lt;f1&gt;.utf8&lt;/f1&gt; （如果不是的话，加上扩展名）.</seg>
       </tuv>
     </tu>
     <tu>
