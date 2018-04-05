@@ -13781,8 +13781,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>If you do not already have an Azure Marketplace account you will need to register one first.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180405T145008Z" creationid="weiyi" creationdate="20180405T145008Z">
-        <seg>如果您还没有Azure Marketplace账户，您首先需先注册一个账户。</seg>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180405T150119Z" creationid="weiyi" creationdate="20180405T145008Z">
+        <seg>如果您还没有Azure Marketplace账户，您首先需要注册一个账户。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18003,8 +18003,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Note: OmegaT does not interact dynamically with them (you must export/import TMX files manually).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180405T144530Z" creationid="weiyi" creationdate="20180405T144530Z">
-        <seg>提示： OmegaT不能动态与翻译记忆文件关联（您需要手动导入/导出TMX文件）。</seg>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180405T150057Z" creationid="weiyi" creationdate="20180405T144530Z">
+        <seg>提示： OmegaT不能动态与翻译记忆文件关联（您必须手动导入/导出TMX文件）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25521,6 +25521,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The obtained API key needs to be passed to OmegaT at startup through &lt;c0&gt;yandex.api.key&lt;/c0&gt; command-line parameter.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180405T150323Z" creationid="weiyi" creationdate="20180405T150323Z">
+        <seg>获得的API密钥需启动时通过 &lt;c0&gt;yandex.api.key&lt;/c0&gt; 命令行参数传入在OmegaT。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The omegat folder contains the &lt;f0&gt;project_save.tmx&lt;/f0&gt; and possibly a number of backup TMX files.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120217T122817Z">
@@ -26476,8 +26484,8 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       <tuv lang="EN">
         <seg>Then you must put this TMX file in the /tm/ or /tm/auto/ folder of your OmegaT project.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180405T144311Z" creationid="weiyi" creationdate="20180405T144311Z">
-        <seg>随后，您需要将TMX文件放入到您OmegaT项目相应的/tm/或/tm/auto/文件夹中。</seg>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180405T150046Z" creationid="weiyi" creationdate="20180405T144311Z">
+        <seg>随后，您须将TMX文件放入到您OmegaT项目相应的/tm/或/tm/auto/文件夹中。</seg>
       </tuv>
     </tu>
     <tu>
