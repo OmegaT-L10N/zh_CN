@@ -3735,10 +3735,26 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;l0&gt;--config-file=&lt;config-file&gt;&lt;/l0&gt; tells &lt;a1&gt;OmegaT&lt;/a1&gt; what configuration file to use.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="17012" changedate="20180405T111907Z" creationid="17012" creationdate="20180405T111907Z">
+        <seg>&lt;l0&gt;--config-file=&lt;config-file&gt;&lt;/l0&gt; 文件会告诉&lt;a1&gt;OmegaT&lt;/a1&gt; 使用什么配置文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;l0&gt;--mode=console-translate &lt;/l0&gt; &lt;a1&gt;OmegaT&lt;/a1&gt; launches in console mode and translates the given project</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120211T085519Z">
         <seg>&lt;l0&gt;--mode=console-translate &lt;/l0&gt; &lt;a1&gt;OmegaT&lt;/a1&gt; 以控制台模式运行并翻译指定的项目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;--no-team&lt;/l0&gt; addresses projects set up for team work.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="17012" changedate="20180405T112142Z" creationid="17012" creationdate="20180405T112142Z">
+        <seg>&lt;l0&gt;--no-team&lt;/l0&gt; 解决为团队工作设立的项目。.</seg>
       </tuv>
     </tu>
     <tu>
