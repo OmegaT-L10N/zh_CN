@@ -9312,6 +9312,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Customer ID (corresponds to &lt;c0&gt;microsoft.api.client_id&lt;/c0&gt; command-line parameter)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180405T145331Z" creationid="weiyi" creationdate="20180405T145331Z">
+        <seg>客户ID（对应&lt;c0&gt;microsoft.api.client_id&lt;/c0&gt;命令行参数）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Customize character &amp;table</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T023229Z" creationid="xulihang" creationdate="20180404T023229Z">
@@ -19992,6 +20000,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
         <seg>之前做过贡献的人还包括（姓名字母排序）：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Primary Account Key (corresponds to &lt;c0&gt;microsoft.api.client_secret&lt;/c0&gt; command-line parameter)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180405T145302Z" creationid="weiyi" creationdate="20180405T145302Z">
+        <seg>主账户密钥（对应&lt;c0&gt;microsoft.api.client_secret&lt;/c0&gt; 命令行参数）</seg>
       </tuv>
     </tu>
     <tu>
