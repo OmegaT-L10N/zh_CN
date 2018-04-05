@@ -13940,6 +13940,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In addition to the plain text format, TBX format &lt;i0/&gt; is also supported as a read-only glossary format.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="17012" changedate="20180405T023521Z" creationid="17012" creationdate="20180405T023521Z">
+        <seg>除了纯文本格式， &lt;i0/&gt; 也支持TBX格式的只读术语。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In all other cases no tag validation is done.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131118T033620Z" creationid="Fu Rhong" creationdate="20131118T025002Z">
@@ -17846,6 +17854,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120217T122300Z">
         <seg>当然，中断一小段时间并下载正确的拼写检查器版本的做法更加理智。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Of course, the encoding must be compatible with both the languages contained, so Unicode is recommended.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="17012" changedate="20180405T023402Z" creationid="17012" creationdate="20180405T023402Z">
+        <seg>当然，编码必须和术语语言兼容，因此建议使用Unicode码。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24472,6 +24488,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The encoding of glossaries is determined automatically.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="17012" changedate="20180405T023307Z" creationid="17012" creationdate="20180405T023215Z">
+        <seg>术语表的编码是自动决定的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The end of a line</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
@@ -24893,6 +24917,22 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131118T024110Z" creationid="Fu Rhong" creationdate="20131118T024110Z">
         <seg>位置并不重要，因为无论如何，启动时您都必须在命令行中明确指定它的位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The location of the &lt;f1&gt;.tbx&lt;/f1&gt; file must be within the &lt;f2&gt;/glossary&lt;/f2&gt; folder, but it can be in a deeper folder (e.g., &lt;f3&gt;glossary/sub/MyGlossary.tbx&lt;/f3&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="17012" changedate="20180405T023649Z" creationid="17012" creationdate="20180405T023649Z">
+        <seg>&lt;f1&gt;.tbx&lt;/f1&gt; 文件的地址必须在 &lt;f2&gt;/glossary&lt;/f2&gt;文件夹中，但也能存在其子文件夹下，如 &lt;f3&gt;glossary/sub/MyGlossary.tbx。&lt;/f3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The location of the file must be within the &lt;f2&gt;/glossary&lt;/f2&gt; folder, but it can be in a deeper folder (e.g., &lt;f3&gt;glossary/sub/glossary.txt&lt;/f3&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="17012" changedate="20180405T023138Z" creationid="17012" creationdate="20180405T023138Z">
+        <seg>文件必须保存在 &lt;f2&gt;/glossary&lt;/f2&gt;文件夹中，但它可以保存在/glossary的子文件夹中，如, &lt;f3&gt;glossary/sub/glossary.txt&lt;/f3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
