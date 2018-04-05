@@ -17737,6 +17737,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note: the &lt;f0&gt;.tbx&lt;/f0&gt; output of MultiTerm seems to not be reliable (November 2013), it is better to use the &lt;f1&gt;.tab&lt;/f1&gt; output of MultiTerm instead.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="17012" changedate="20180405T024328Z" creationid="17012" creationdate="20180405T024328Z">
+        <seg>注意：&lt;f0&gt;MultiTerm导出的.tbx格式&lt;/f0&gt;文件似乎不太可靠（2013年11月），建议使用MultiTerm的&lt;f1&gt;.tab&lt;/f1&gt;文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Notes</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T163759Z">
