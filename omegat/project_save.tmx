@@ -13271,6 +13271,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If checked, the background of all segments where the target segment has been auto-populated (from TMXs placed in /tm/auto for example) are displayed in colour.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T060734Z" creationid="weiyi" creationdate="20180406T060734Z">
+        <seg>如果选中该选项，所有（根据/tm/auto路径下的TMX文件中的例句）自动填充的片段背景将有颜色。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If checked, the entries are sorted alphabetically.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131031T120534Z" creationid="Administrator" creationdate="20131031T120534Z">
