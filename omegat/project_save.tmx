@@ -12074,6 +12074,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For technical details, see the &lt;u0&gt;Request For Enhancement&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T061456Z" creationid="weiyi" creationdate="20180406T061456Z">
+        <seg>更多技术细节，见&lt;u0&gt;增强需求&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For the application</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
@@ -19656,6 +19664,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120202T123337Z">
         <seg>还存在适合 OmegaT 处理的其他纯文本或格式化文本文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Other translations, identified specifically in the TMX, can be displayed using different colours.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T061313Z" creationid="weiyi" creationdate="20180406T061313Z">
+        <seg>其它在TMX中独有的翻译会以不同的颜色显示。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29714,8 +29730,8 @@ searchable without subscription:</seg>
       <tuv lang="EN">
         <seg>Usual translations inserted from the auto folder are displayed in orange.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T061129Z" creationid="weiyi" creationdate="20180406T061129Z">
-        <seg>来自“auto”文件夹中的通常翻译会以橙色显示。</seg>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T061148Z" creationid="weiyi" creationdate="20180406T061129Z">
+        <seg>来自“auto”文件夹中的常规翻译会以橙色显示。</seg>
       </tuv>
     </tu>
     <tu>
