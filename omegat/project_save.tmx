@@ -16146,6 +16146,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Keyword searches are not available in the search string.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="flycr" changedate="20180406T130402Z" creationid="flycr" creationdate="20180406T130311Z">
+        <seg>您目前输入的内容无法进行关键字搜索。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Keyword searches are similar to a search "with all of the words" in an Internet search engine such as Google (AND logic).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131119T130138Z">
@@ -30860,6 +30868,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131111T105537Z" creationid="Fu Rhong" creationdate="20131111T102143Z">
         <seg>使用外部服务时您必须注意到可能的机密泄漏，因为您是在不受自己直接控制的服务器上加载文档的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When using regular expressions, the replacement string supports references to groups defined in the search string.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="flycr" changedate="20180406T130553Z" creationid="flycr" creationdate="20180406T130553Z">
+        <seg>当您使用正则表达式时，您可以在正则表达式中定义组别并指定要替换内容的级别。</seg>
       </tuv>
     </tu>
     <tu>
