@@ -13442,6 +13442,22 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If some texts are selected within the fuzzy match, only this selection will be inserted at the cursor position.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T020759Z" creationid="weiyi" creationdate="20180406T020759Z">
+        <seg>如果某段文字被选为模糊匹配，那么被选择的部分会在光标处插入。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If some texts are selected within the fuzzy match, only this selection will replace the whole target segment.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T020559Z" creationid="weiyi" creationdate="20180406T020559Z">
+        <seg>如果某段文字被选为模糊匹配，那么只有被选中的部分会被整个目标片段替换。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If spell checking is activated, spelling mistakes and typos are recognized and can be corrected during translation.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yujun Yin" changedate="20131007T084958Z" creationid="Yujun Yin" creationdate="20131007T084958Z">
@@ -14770,6 +14786,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T165111Z">
         <seg>将匹配插入译文</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Insert Match or Selection</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T020618Z" creationid="weiyi" creationdate="20180406T020618Z">
+        <seg>插入匹配或选择</seg>
       </tuv>
     </tu>
     <tu>
