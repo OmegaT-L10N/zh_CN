@@ -18313,6 +18313,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note: colors are customizable through the &lt;g0&gt;Options / Custom colours...&lt;/g0&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T063051Z" creationid="weiyi" creationdate="20180406T063051Z">
+        <seg>提示：颜色可在 &lt;g0&gt;选项/个性化颜色&lt;/g0&gt; 中定制。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note: not all filters allow you to select an encoding.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T153943Z">
@@ -18323,8 +18331,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Note: on Windows it seems that this manual font fallback mechanism can interfere with standard font fallback, causing undesirable font substitution.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T062301Z" creationid="weiyi" creationdate="20180406T062301Z">
-        <seg>注意：Windows操作系统中手动选择备用字体可能会影响标准备用字体，导致不理想的字体替换。</seg>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T062949Z" creationid="weiyi" creationdate="20180406T062301Z">
+        <seg>提示：Windows操作系统中手动选择备用字体可能会影响标准备用字体，导致不理想的字体替换。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22808,6 +22816,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131031T075135Z">
         <seg>设置片段检验键为 &lt;g0&gt;Tab&lt;/g0&gt;来代替缺省的&lt;g1&gt;Enter&lt;/g1&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Setting it to &lt;e1&gt;All segments&lt;/e1&gt; shows this information for all segments and &lt;e2&gt;None&lt;/e2&gt; turns this option off.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T062922Z" creationid="weiyi" creationdate="20180406T062922Z">
+        <seg>将此选项设置为 &lt;e1&gt;所有片段&lt;/e1&gt; 显示所有片段信息，设置为&lt;e2&gt;无&lt;/e2&gt; 以关闭此选项。</seg>
       </tuv>
     </tu>
     <tu>
