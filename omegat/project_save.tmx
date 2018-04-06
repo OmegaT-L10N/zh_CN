@@ -7364,6 +7364,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Auto-completer is launched within the target segment via &lt;e0&gt;Ctrl+Space&lt;/e0&gt; shortcut.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T070816Z" creationid="weiyi" creationdate="20180406T070816Z">
+        <seg>目标段落的自动生成器可通过快捷键 &lt;e0&gt;Ctrl+Space&lt;/e0&gt; 启动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Auto-text configuration</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131031T120803Z" creationid="Administrator" creationdate="20131031T120803Z">
