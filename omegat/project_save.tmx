@@ -13239,6 +13239,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If checked, non-breakable spaces will be displayed with a grey background.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T025858Z" creationid="weiyi" creationdate="20180406T025828Z">
+        <seg>如果选中该选项，不可分割空白符以灰底显示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If checked, non-unique segments will be marked in pale grey.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T115006Z" creationid="Fu Rhong" creationdate="20131117T114726Z">
@@ -13291,6 +13299,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T115020Z">
         <seg>如果选中该选项，未译片段将会标记为紫色。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If checked, white spaces will be displayed with a small dot.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T025915Z" creationid="weiyi" creationdate="20180406T025915Z">
+        <seg>如果选中该选项，空白符以小点显示。</seg>
       </tuv>
     </tu>
     <tu>
