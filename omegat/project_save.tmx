@@ -14636,6 +14636,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In comments</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="flycr" changedate="20180406T123936Z" creationid="flycr" creationdate="20180406T123936Z">
+        <seg>在评论中查找</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In its most basic form, this command is:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
@@ -14672,6 +14680,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T150545Z">
         <seg>在注释中(&amp;t)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In notes</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="flycr" changedate="20180406T123921Z" creationid="flycr" creationdate="20180406T123921Z">
+        <seg>在注释中查找</seg>
       </tuv>
     </tu>
     <tu>
