@@ -13327,6 +13327,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If &lt;g0&gt;Use Stemming for Glossary Entries&lt;/g0&gt; option is ON, with an English source text, the glossary entry "element" will be found if the source text contains "elements".</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T074108Z" creationid="weiyi" creationdate="20180406T074108Z">
+        <seg>如果&lt;g0&gt;来自术语条目&lt;/g0&gt;选项开启，在英文原文中，术语条目 "element" 若在源文件中存在，便会被发现。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If &lt;g0&gt;Use Terms Appearing Separately in the Source Text&lt;/g0&gt; option is ON, the glossary entry "itema itemb" will be found in the source text "itema other word itemb".</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T073504Z" creationid="weiyi" creationdate="20180406T073504Z">
@@ -13799,6 +13807,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131031T075040Z">
         <seg>如果不存在用户系统的语言，&lt;a6&gt;OmegaT&lt;/a6&gt;缺省使用英语。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the option is OFF, the glossary entry above will not be found.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T073550Z" creationid="weiyi" creationdate="20180406T073550Z">
+        <seg>如果关闭此选项，上述术语条目将无法找到。</seg>
       </tuv>
     </tu>
     <tu>
