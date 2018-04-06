@@ -408,6 +408,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Do not unescape Unicode literals (\uXXXX)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="flycr" changedate="20180406T132416Z" creationid="flycr" creationdate="20180406T132416Z">
+        <seg>&amp;不要对Unicode文本进行反转义 (\uXXXX)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Download</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T025650Z" creationid="xulihang" creationdate="20180404T025650Z">
@@ -1711,6 +1719,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130514T151544Z">
         <seg>- 使用任何有效的 TMX 文件作为翻译参考。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>---- Localization Notes ----</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="flycr" changedate="20180406T132104Z" creationid="flycr" creationdate="20180406T132104Z">
+        <seg>---- 本地化注释 ----</seg>
       </tuv>
     </tu>
     <tu>
@@ -16042,6 +16058,22 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Java Properties XML</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="flycr" changedate="20180406T132510Z" creationid="flycr" creationdate="20180406T132510Z">
+        <seg>Java资源文件XML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Java Resource Bundles Filter Options</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="flycr" changedate="20180406T132306Z" creationid="flycr" creationdate="20180406T132306Z">
+        <seg>Java资源文件过滤器选项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Java Web Start ensures that the latest version of the application will be deployed, as well as the correct version of the Java Runtime Environment (JRE) used.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120223T155650Z">
@@ -16622,6 +16654,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T102334Z" creationid="Fu Rhong" creationdate="20131108T025923Z">
         <seg>林堡语</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Line length:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="flycr" changedate="20180406T132216Z" creationid="flycr" creationdate="20180406T132216Z">
+        <seg>每行长度:</seg>
       </tuv>
     </tu>
     <tu>
@@ -17410,6 +17450,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Maximum line length:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="flycr" changedate="20180406T132232Z" creationid="flycr" creationdate="20180406T132232Z">
+        <seg>最大每行长度:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Maximum number of finds has been reached ({0})</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T151038Z">
@@ -17902,6 +17950,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="flycr" changedate="20180406T131816Z" creationid="flycr" creationdate="20180406T131816Z">
         <seg>Mozilla文件类型定义文件过滤器选项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mozilla Lang</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="flycr" changedate="20180406T132045Z" creationid="flycr" creationdate="20180406T132045Z">
+        <seg>Mozilla 语言</seg>
       </tuv>
     </tu>
     <tu>
@@ -20026,6 +20082,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120211T031451Z">
         <seg>选项菜单</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Options to set the line length in target documents (0 = no limit)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="flycr" changedate="20180406T132206Z" creationid="flycr" creationdate="20180406T132206Z">
+        <seg>设置目标文件中的每行长度 (0 = 没有限制)</seg>
       </tuv>
     </tu>
     <tu>
@@ -22490,6 +22554,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130505T164720Z">
         <seg>正在保存项目……</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Schematron</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="flycr" changedate="20180406T132631Z" creationid="flycr" creationdate="20180406T132631Z">
+        <seg>Schematron标准</seg>
       </tuv>
     </tu>
     <tu>
@@ -25291,6 +25363,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Java Resource Bundles filter threw an exception:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="flycr" changedate="20180406T132444Z" creationid="flycr" creationdate="20180406T132444Z">
+        <seg>Java资源文件产生异常:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The KMenuEditor appears.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120206T121721Z">
@@ -25341,8 +25421,8 @@ current folder will be used instead.</seg>
       <tuv lang="EN">
         <seg>The Mozilla DTD filter threw an exception:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="flycr" changedate="20180406T131948Z" creationid="flycr" creationdate="20180406T131948Z">
-        <seg>Mozilla文件类型定义文件过滤器产生异常::</seg>
+      <tuv lang="ZH-CN" changeid="flycr" changedate="20180406T132025Z" creationid="flycr" creationdate="20180406T131948Z">
+        <seg>Mozilla DTD过滤器产生异常::</seg>
       </tuv>
     </tu>
     <tu>
