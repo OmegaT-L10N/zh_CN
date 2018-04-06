@@ -5951,6 +5951,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A default script called Switch Colour Themes provides a default "Dark".</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T065946Z" creationid="weiyi" creationdate="20180406T065946Z">
+        <seg>默认脚本成为“替换颜色主题”，“深黑”为默认选项。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A dialog opens, allowing you to enter the source term, target term and any comments you may have:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131116T121551Z" creationid="Fu Rhong" creationdate="20131116T121319Z">
@@ -6763,6 +6771,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120211T031722Z">
         <seg>允许您激活/取消激活程序提供的机器翻译工具。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Allows you to choose different colours for each part of the User Interface.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T065821Z" creationid="weiyi" creationdate="20180406T065821Z">
+        <seg>您可以为每个用户接口选择不同的颜色。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9388,6 +9404,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T031305Z" creationid="xulihang" creationdate="20180404T031305Z">
         <seg>选择自定义颜色</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Custom colours...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T065735Z" creationid="weiyi" creationdate="20180406T065735Z">
+        <seg>自定义颜色...</seg>
       </tuv>
     </tu>
     <tu>
@@ -15264,8 +15288,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>It also allows to define various options related to tag validation and to define custom tags.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T065429Z" creationid="weiyi" creationdate="20180406T065429Z">
-        <seg>同样可以设定多种选项与标签验证和定义个性化标签关联。</seg>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T065653Z" creationid="weiyi" creationdate="20180406T065429Z">
+        <seg>同样可以设定多种选项与标签验证和定义自定义标签关联。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20287,6 +20311,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130504T162404Z">
         <seg>Power Point 软件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pre-defined themes can be set through a script.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T065840Z" creationid="weiyi" creationdate="20180406T065840Z">
+        <seg>预定义主题可在整个脚本中使用。</seg>
       </tuv>
     </tu>
     <tu>
