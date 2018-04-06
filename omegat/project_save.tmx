@@ -7372,6 +7372,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Auto-completion</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T070834Z" creationid="weiyi" creationdate="20180406T070834Z">
+        <seg>自动完成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Auto-text configuration</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131031T120803Z" creationid="Administrator" creationdate="20131031T120803Z">
@@ -8346,6 +8354,30 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T164354Z">
         <seg>点击 '{0}' 菜单项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click on &lt;g0&gt;Auto-text...&lt;/g0&gt; to configure Auto-text options and to add or remove entries.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T071053Z" creationid="weiyi" creationdate="20180406T071053Z">
+        <seg>点击&lt;g0&gt;自动文本...&lt;/g0&gt; 配置自动文本选项并添加或移除条目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click on &lt;g0&gt;Character Table...&lt;/g0&gt; to set the Character table auto-completer options.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T071134Z" creationid="weiyi" creationdate="20180406T071134Z">
+        <seg>点击 &lt;g0&gt;字符表...&lt;/g0&gt; 设置字符表自动生成器选项。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click on &lt;g0&gt;Glossary...&lt;/g0&gt; to configure the Auto-completer Glossary View.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T070931Z" creationid="weiyi" creationdate="20180406T070931Z">
+        <seg>点击&lt;g0&gt;术语表...&lt;/g0&gt;设置自动生成器术语表视图</seg>
       </tuv>
     </tu>
     <tu>
