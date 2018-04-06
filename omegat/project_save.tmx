@@ -9480,6 +9480,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Define the translation as being empty.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T024554Z" creationid="weiyi" creationdate="20180406T024554Z">
+        <seg>将译文片段定义为空</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Delete*</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120203T124017Z">
@@ -9492,6 +9500,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T024732Z" creationid="xulihang" creationdate="20180404T024732Z">
         <seg>已删除的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Deletes the translation and set the segment as untranslated.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T024504Z" creationid="weiyi" creationdate="20180406T024504Z">
+        <seg>删除译文设定片段为未翻译</seg>
       </tuv>
     </tu>
     <tu>
@@ -14549,6 +14565,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the Editor, the translation is displayed as &lt;EMPTY&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T024704Z" creationid="weiyi" creationdate="20180406T024704Z">
+        <seg>在编辑器中，此译文片段显示为&lt;EMPTY&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the Slovenian version both words have been translated as nouns.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
@@ -14634,6 +14658,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131118T033720Z" creationid="Fu Rhong" creationdate="20131118T033720Z">
         <seg>在静默模式下，屏幕上将显示更少的日志信息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the target document, nothing will appear for this segment.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T024628Z" creationid="weiyi" creationdate="20180406T024628Z">
+        <seg>在目标文件中，此片段不会显示任何内容。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21096,6 +21128,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T081430Z">
         <seg>移除标签</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove Translation</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T024437Z" creationid="weiyi" creationdate="20180406T024437Z">
+        <seg>移除译文</seg>
       </tuv>
     </tu>
     <tu>
