@@ -27660,6 +27660,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This option displays &lt;u0&gt;bidirectional control characters&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T030238Z" creationid="weiyi" creationdate="20180406T030238Z">
+        <seg>此选项显示 &lt;u0&gt;双向控制字符&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This option is useful for some Chinese, Japanese or Korean character input systems.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120211T031537Z">
