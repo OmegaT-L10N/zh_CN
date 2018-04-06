@@ -10200,6 +10200,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Do you want to continue?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="flycr" changedate="20180406T124606Z" creationid="flycr" creationdate="20180406T124606Z">
+        <seg>是否继续？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>DocBook</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130911T123109Z">
@@ -18721,6 +18729,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Number of matching segments:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="flycr" changedate="20180406T124620Z" creationid="flycr" creationdate="20180406T124620Z">
+        <seg>匹配片段数量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Number of results:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T150916Z">
@@ -21004,6 +21020,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Project searches are by default performed on the source and target, reference TMs, glossaries, notes and comments of the project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="flycr" changedate="20180406T125006Z" creationid="flycr" creationdate="20180406T125006Z">
+        <seg>项目搜索默认将搜索源文和译文、引用的翻译记忆库、术语表、注释及项目中的评论。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Project will not be updated.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130504T151812Z">
@@ -22304,6 +22328,16 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130505T164720Z">
         <seg>正在保存项目……</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Scope:
+The scope of a search is by default the project and can be set to be any files located in a specified folder hierarchy.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="flycr" changedate="20180406T124840Z" creationid="flycr" creationdate="20180406T124840Z">
+        <seg>范围：
+搜索的默认范围是本项目文件，也可以设置为指定目录下的其他文件</seg>
       </tuv>
     </tu>
     <tu>
