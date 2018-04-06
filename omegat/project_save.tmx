@@ -16144,6 +16144,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Keyword searches match all the space-separated keywords regardless of their order.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="flycr" changedate="20180406T125250Z" creationid="flycr" creationdate="20180406T125250Z">
+        <seg>关键字搜索匹配所有以空格隔开的关键词，顺序不限。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Keyword searches regard the specified query string as a set of search keywords (separated by space) and return all segments which contain all of the query words, in any order.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T151028Z">
@@ -29370,6 +29378,16 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131111T110642Z" creationid="Fu Rhong" creationdate="20131111T110642Z">
         <seg>输入版本库的名称和说明。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Types:
+Exact searches match the whole search string.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="flycr" changedate="20180406T125157Z" creationid="flycr" creationdate="20180406T125157Z">
+        <seg>类型：
+精确搜索将完美匹配输入的字符串。</seg>
       </tuv>
     </tu>
     <tu>
