@@ -25200,6 +25200,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The dialog box allows also to set external Post-processing commands (that are executed after &lt;g0&gt;Create Translated Documents&lt;/g0&gt; command</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T063900Z" creationid="weiyi" creationdate="20180406T063900Z">
+        <seg>对话框可以设定外部后期处理命令（会在点击 &lt;g0&gt;创建已译文档&lt;/g0&gt; 命令后执行）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The dialog can be accessed via the &lt;i0/&gt;&lt;m1&gt; &lt;g2&gt;Options&lt;/g2&gt; &lt;g3&gt;Font...&lt;/g3&gt; &lt;/m1&gt; item in the Main menu.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120211T135047Z">
@@ -30244,6 +30252,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120131T132218Z">
         <seg>在片段之间移动时，您可能希望用现存的译文或源文本来填充正在编辑的区域。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When selected, LanguageTool checks the translations, and underline potential issues in blue.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T063617Z" creationid="weiyi" creationdate="20180406T063617Z">
+        <seg>选择该选项后，语言检查工具会对译文检查，并用蓝色显示出可能存在的问题。</seg>
       </tuv>
     </tu>
     <tu>
