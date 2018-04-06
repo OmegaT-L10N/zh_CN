@@ -13231,6 +13231,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If &lt;e0&gt;Show Relevant Suggestions Automatically&lt;/e0&gt; option is checked, Auto-completer is launched automatically by typing the first letter of a translated glossary entry, or by typing "&lt;" in case of tags.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T070647Z" creationid="weiyi" creationdate="20180406T070647Z">
+        <seg>如果&lt;e0&gt;自动显示相关建议&lt;/e0&gt;选项被选中，输入首字母、译文术语表中的条目或输入“&lt;"后自动生成器会自动启动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If &lt;l0&gt;abort &lt;/l0&gt;is selected, the tag validator will stop on the first invalid segment.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T003735Z" creationid="Fu Rhong" creationdate="20131117T003735Z">
