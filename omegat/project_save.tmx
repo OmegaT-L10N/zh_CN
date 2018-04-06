@@ -15262,6 +15262,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It also allows to define various options related to tag validation and to define custom tags.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T065429Z" creationid="weiyi" creationdate="20180406T065429Z">
+        <seg>同样可以设定多种选项与标签验证和定义个性化标签关联。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It also contains installation instructions.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120211T140922Z">
@@ -30380,6 +30388,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120202T132301Z">
         <seg>如需在自右向左和自左向右之间进行翻译工作，为从源文件中正确读取标签以及在目标中正确输入，有可能需要在自左向右和自右向左模式之间来回切换多次。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When translating software-related files: Allows you to configure the Tag Validator options to check also programming (%...) variables.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T065611Z" creationid="weiyi" creationdate="20180406T065611Z">
+        <seg>在翻译与软件关联的文件时：您可以通过标签验证器检验程序中的（%...）变量。</seg>
       </tuv>
     </tu>
     <tu>
