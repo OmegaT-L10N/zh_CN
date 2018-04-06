@@ -5399,6 +5399,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Tags&lt;/p0&gt; &lt;s1&gt;Inserting next missing tag&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T021211Z" creationid="weiyi" creationdate="20180406T021142Z">
+        <seg>&lt;p0&gt;标签&lt;/p0&gt; &lt;s1&gt;插入下一个丢失的标&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Tags&lt;/p0&gt; &lt;s1&gt;Naming&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120203T102718Z">
@@ -14882,6 +14890,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
         <seg>插入最佳模糊匹配</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Inserts only one tag (among the missing ones) at the cursor position.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T021337Z" creationid="weiyi" creationdate="20180406T021337Z">
+        <seg>在光标处仅插入（所有丢失标签中的）一个标签。</seg>
       </tuv>
     </tu>
     <tu>
