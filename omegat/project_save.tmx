@@ -24934,6 +24934,14 @@ Please try to correct the error and reload the project.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The colours are displayed as long as the "Save auto-populated status" (in Options/Editing behaviour..) option is checked.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T060938Z" creationid="weiyi" creationdate="20180406T060902Z">
+        <seg>只要“保存自动填充状态”（在选项/编辑操作中）选项，背景颜色将会一直存在。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The command to launch &lt;a3&gt;OmegaT&lt;/a3&gt; with assignment of 1024 MB (1 gigabyte) of memory is therefore:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120208T052127Z">
