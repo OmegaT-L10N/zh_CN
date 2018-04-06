@@ -1152,6 +1152,16 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>'*' matches zero or more characters ('run*' matches 'run', 'runs', and'running', etc.)
+'?' matches exactly one character ('run?' matches 'runs' and 'rung', but not 'run' or 'running').</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="flycr" changedate="20180406T130051Z" creationid="flycr" creationdate="20180406T130051Z">
+        <seg>字符"*"匹配零个或任意数量个字符（例如'run*'将会匹配'run'、'runs'、'running'以及很多）
+字符 '?' 匹配任何单个的字符（例如'run?' 将会匹配'runs' 和 'rung'，但是不匹配 'run' 或 'running'）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>'*' matches zero or more characters, from the current position in a given word to its end.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131119T125553Z">
@@ -31009,6 +31019,15 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120202T114757Z">
         <seg>WiX Localization (*.wxl)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Wildcards:
+Both exact and keyword searches support the wildcard characters * and ?.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="flycr" changedate="20180406T125744Z" creationid="flycr" creationdate="20180406T125533Z">
+        <seg>通配符：精确搜索和关键字搜索均支持通配符 * 和 ?。</seg>
       </tuv>
     </tu>
     <tu>
