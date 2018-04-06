@@ -15,3 +15,4 @@ Drag and drop	拖放
 Search and Replace	搜索与替换
 bidirectional control characters	双向控制字符
 Auto-Populated Segments	自动填充片段
+Options/Editing Behaviour	选项/编辑操作
