@@ -7438,6 +7438,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Auto-sync with Editor</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="flycr" changedate="20180406T130648Z" creationid="flycr" creationdate="20180406T130648Z">
+        <seg>自动与编辑器保持同步</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Auto-text configuration</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131031T120803Z" creationid="Administrator" creationdate="20131031T120803Z">
@@ -7555,6 +7563,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T030256Z">
         <seg>在历史中回退……</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Back to the initial segment on close</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="flycr" changedate="20180406T130744Z" creationid="flycr" creationdate="20180406T130744Z">
+        <seg>关闭时回到初始片段</seg>
       </tuv>
     </tu>
     <tu>
@@ -29898,6 +29914,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120208T112351Z">
         <seg>用法：&lt;l0&gt;java -jar &lt;a1&gt;OmegaT&lt;/a1&gt;.jar /path/to/project --mode=console-translate --tag-validation=abort&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use $n to refer to the nth group.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="flycr" changedate="20180406T130619Z" creationid="flycr" creationdate="20180406T130619Z">
+        <seg>使用 $n 指定第n组。</seg>
       </tuv>
     </tu>
     <tu>
