@@ -22812,6 +22812,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Setting the Display Modification option to &lt;e0&gt;Current segment&lt;/e0&gt; will display the time and the author of the last change in the current segment.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T062716Z" creationid="weiyi" creationdate="20180406T062716Z">
+        <seg>设定将显示修改选项应用于&lt;e0&gt;当前片段&lt;/e0&gt; 可显示当前片段上次修改者和修改时间信息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Settings dialogs</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131127T122227Z" creationid="Fu Rhong" creationdate="20131127T122227Z">
