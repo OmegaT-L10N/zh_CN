@@ -27804,6 +27804,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This is effective upon &lt;e1&gt;Edit &gt; Replace with Source&lt;/e1&gt;, &lt;e2&gt;Edit &gt; Insert Source&lt;/e2&gt;, and when entering a segment when &lt;e3&gt;Options &gt; Editing Behavior &gt; [Insert] The source text&lt;/e3&gt; is enabled.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T075155Z" creationid="weiyi" creationdate="20180406T075155Z">
+        <seg>此选项于&lt;e1&gt;编辑 &gt; 以原语替换&lt;/e1&gt;，&lt;e2&gt;编辑 &gt; 插入原语&lt;/e2&gt;和点开一个片段时启用（在&lt;e3&gt;选项 &gt; 编辑操作 &gt; [I插入] 源文本&lt;/e3&gt;开启时）。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This is especially the case when a large file containing many segments is open in the editor, and/or slow hardware is used.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120211T135332Z">
