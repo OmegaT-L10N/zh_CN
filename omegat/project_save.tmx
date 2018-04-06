@@ -13327,6 +13327,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If &lt;g0&gt;Use Terms Appearing Separately in the Source Text&lt;/g0&gt; option is ON, the glossary entry "itema itemb" will be found in the source text "itema other word itemb".</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T073504Z" creationid="weiyi" creationdate="20180406T073504Z">
+        <seg>如果 &lt;g0&gt;源文件使用术语单独显示&lt;/g0&gt;选项开启，术语条目 "itema itemb"会在源文件中以 "itema other word itemb"显示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If &lt;l0&gt;abort &lt;/l0&gt;is selected, the tag validator will stop on the first invalid segment.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T003735Z" creationid="Fu Rhong" creationdate="20131117T003735Z">
