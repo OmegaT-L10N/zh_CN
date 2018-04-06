@@ -6303,6 +6303,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Access Project Contents</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T072729Z" creationid="weiyi" creationdate="20180406T072729Z">
+        <seg>访问项目内容</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Acknowledgements</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120128T141931Z">
@@ -12572,6 +12580,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Gives access to the project folders.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T072753Z" creationid="weiyi" creationdate="20180406T072753Z">
+        <seg>获取访问项目文件许可</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Global</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T153306Z">
@@ -14480,6 +14496,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="17012" changedate="20180405T023521Z" creationid="17012" creationdate="20180405T023521Z">
         <seg>除了纯文本格式， &lt;i0/&gt; 也支持TBX格式的只读术语。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In addition, two menu entries allow opening directly the current source and target documents and the writable glossary.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T072932Z" creationid="weiyi" creationdate="20180406T072932Z">
+        <seg>另外，两个菜单条目可在可写术语表中直接打开现源文件与目标文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25476,6 +25500,14 @@ instead.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120130T070114Z">
         <seg>该文档的目的是希望它有用，但没有任何担保，甚至没有适销性或针对特定用途的隐含的担保。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The documents are opened by the application chosen by the operating system.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T073004Z" creationid="weiyi" creationdate="20180406T073004Z">
+        <seg>文档以操作系统选定的应用打开。</seg>
       </tuv>
     </tu>
     <tu>
