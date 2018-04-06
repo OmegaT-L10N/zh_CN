@@ -30536,6 +30536,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When multiple target terms are available, the first one (as shown in the Glossary pane) will be used.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T075322Z" creationid="weiyi" creationdate="20180406T075322Z">
+        <seg>当多目标术语可用时，（在术语表窗口中显示的）第一条术语会被使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When selected, LanguageTool checks the translations, and underline potential issues in blue.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T063617Z" creationid="weiyi" creationdate="20180406T063617Z">
