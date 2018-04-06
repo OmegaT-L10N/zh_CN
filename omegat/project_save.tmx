@@ -17376,6 +17376,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Moves to the segment that does correspond to the current selected match in the &lt;g0&gt;Fuzzy matches&lt;/g0&gt; pane.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T025658Z" creationid="weiyi" creationdate="20180406T025658Z">
+        <seg>将于当前片段匹配的译文移至&lt;g0&gt;模糊匹配&lt;/g0&gt;窗口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Moving around</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
@@ -23316,6 +23324,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source of Selected Match</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T025542Z" creationid="weiyi" creationdate="20180406T025542Z">
+        <seg>当前匹配原文</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Source segment could not be located for certain translation units.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T151556Z">
@@ -26229,6 +26245,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="ZH-CN" changeid="Yujun Yin" changedate="20131007T081529Z" creationid="Yujun Yin" creationdate="20131007T081421Z">
         <seg>OmegaT 文件和目录章节介绍了翻译项目中不同的子目录和文件，阐述了这些子目录和文件的作用，以及其他 OmegaT 相关的用户和应用文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The segment is opened when either its segment call-out or segment number is entered.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T025525Z" creationid="weiyi" creationdate="20180406T025525Z">
+        <seg>在调出片段或输入片段数后，片段打开</seg>
       </tuv>
     </tu>
     <tu>
