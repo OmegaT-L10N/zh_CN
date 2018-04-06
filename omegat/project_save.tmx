@@ -17336,6 +17336,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Moves to the next already translated segment, ignoring untranslated segments.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T025309Z" creationid="weiyi" creationdate="20180406T025309Z">
+        <seg>移至下一已译片段，忽略未译片段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Moves to the next segment that has no equivalent in the translation memory.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131031T083019Z">
@@ -17629,6 +17637,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131031T083013Z">
         <seg>后一片段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Next Translated Segment</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T025232Z" creationid="weiyi" creationdate="20180406T025232Z">
+        <seg>下一已译片段</seg>
       </tuv>
     </tu>
     <tu>
@@ -20958,8 +20974,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Register Identical Translation</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T024854Z" creationid="weiyi" creationdate="20180406T024812Z">
-        <seg>记录相同译文片段</seg>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T025150Z" creationid="weiyi" creationdate="20180406T024812Z">
+        <seg>记录同意译文片段</seg>
       </tuv>
     </tu>
     <tu>
