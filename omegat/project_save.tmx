@@ -3534,6 +3534,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;k0&gt;F1:&lt;/k0&gt; Opens this manual in the default browser.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T071402Z" creationid="weiyi" creationdate="20180406T071402Z">
+        <seg>&lt;k0&gt;F1：&lt;/k0&gt;在默认浏览器中打开此说明书。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;k0&gt;Shift&lt;/k0&gt; &lt;k1&gt;Ctrl+C&lt;/k1&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120211T062611Z">
