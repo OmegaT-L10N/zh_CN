@@ -8029,6 +8029,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Changes the case of the highlighted text in the target segment to the selected option (Lower case, Upper case, Title case or Sentence case).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T024240Z" creationid="weiyi" creationdate="20180406T024240Z">
+        <seg>改变目标片段中高亮文本的大小写改变为选择项（全部小写、全部大写、首字母大写或句首字母大写）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Changes to this command involve the addition of "arguments" to it.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120207T130216Z">
@@ -22412,6 +22420,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select Match</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T024343Z" creationid="weiyi" creationdate="20180406T024343Z">
+        <seg>选择匹配</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select Match #&amp;1</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130505T162337Z">
@@ -23656,6 +23672,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T153814Z">
         <seg>Swing-Layout 1.0.2 (LGPL 许可协议)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Switch case to</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T024100Z" creationid="weiyi" creationdate="20180406T024100Z">
+        <seg>转换大小写为</seg>
       </tuv>
     </tu>
     <tu>
@@ -29146,6 +29170,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120219T120546Z">
         <seg>使用 &lt;g0&gt;Ctrl+L&lt;i1/&gt;&lt;/g0&gt; 打开，使用 &lt;k2&gt;Esc&lt;/k2&gt; 关闭。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use Shift+F3 &lt;i0/&gt;to cycle through the four alternatives.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T024330Z" creationid="weiyi" creationdate="20180406T024330Z">
+        <seg>使用Shift + F3 &lt;i0/&gt;循环选择上述四种选项。</seg>
       </tuv>
     </tu>
     <tu>
