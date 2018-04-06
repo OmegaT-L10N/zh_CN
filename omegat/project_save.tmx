@@ -3238,6 +3238,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;g0&gt;Ctrl+Shift+V&lt;/g0&gt;: Checks for missing or displaced tags in formatted files.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T063223Z" creationid="weiyi" creationdate="20180406T063223Z">
+        <seg>&lt;g0&gt;Ctrl+Shift+V&lt;/g0&gt;：寻找格式化文件中丢失或错置的标签。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;html&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130509T153515Z">
@@ -21844,6 +21852,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Same as above, but only for the current document in translation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T063420Z" creationid="weiyi" creationdate="20180406T063420Z">
+        <seg>与上述内容相同，但仅应用于当前翻译的文档。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Samoan</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131108T070057Z" creationid="Fu Rhong" creationdate="20131108T070057Z">
@@ -29812,6 +29828,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
         <seg>检验标签</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Validate Tags for Current Document</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T063257Z" creationid="weiyi" creationdate="20180406T063257Z">
+        <seg>验证当前文件中的标签</seg>
       </tuv>
     </tu>
     <tu>
