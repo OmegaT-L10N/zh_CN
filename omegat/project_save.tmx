@@ -912,6 +912,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Reset Options</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="flycr" changedate="20180406T131005Z" creationid="flycr" creationdate="20180406T131005Z">
+        <seg>&amp;重置所有选项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Restore Main Window</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130505T162912Z">
@@ -956,6 +964,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T024943Z">
         <seg>在项目中搜索(&amp;S)……</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Search for Selection</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="flycr" changedate="20180406T130946Z" creationid="flycr" creationdate="20180406T130946Z">
+        <seg>&amp;在选中部分中搜索</seg>
       </tuv>
     </tu>
     <tu>
@@ -1311,6 +1327,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="ZH-CN" changeid="Puzzlist" changedate="20130922T042045Z" creationid="Puzzlist" creationdate="20130922T042045Z">
         <seg>* Windows 用户：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>+{0} more</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="flycr" changedate="20180406T130917Z" creationid="flycr" creationdate="20180406T130917Z">
+        <seg>+{0} 更多</seg>
       </tuv>
     </tu>
     <tu>
@@ -7583,6 +7607,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Backed up preferences to {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="flycr" changedate="20180406T131150Z" creationid="flycr" creationdate="20180406T131150Z">
+        <seg>将首选项回退至 {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Background</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T031316Z" creationid="xulihang" creationdate="20180404T031316Z">
@@ -10994,6 +11026,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error during regular expression replacement:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="flycr" changedate="20180406T130822Z" creationid="flycr" creationdate="20180406T130822Z">
+        <seg>使用正则表达式进行替换时产生错误:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error extracting MT result from MyMemory, response:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131031T094958Z" creationid="Administrator" creationdate="20131031T094907Z">
@@ -11334,6 +11374,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130509T153518Z">
         <seg>Exciting help page&lt;p&gt;Gossamer threads hold you back&lt;p&gt;404 not found</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Exclude orphan segments</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="flycr" changedate="20180406T130755Z" creationid="flycr" creationdate="20180406T130755Z">
+        <seg>排除孤立片段</seg>
       </tuv>
     </tu>
     <tu>
@@ -12924,6 +12972,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131107T150005Z" creationid="Fu Rhong" creationdate="20131107T145847Z">
         <seg>希腊语（现代）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Group {0} does not exist in search expression</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="flycr" changedate="20180406T130856Z" creationid="flycr" creationdate="20180406T130856Z">
+        <seg>第 {0} 组在搜索表达式中不存在</seg>
       </tuv>
     </tu>
     <tu>
@@ -18743,6 +18799,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T150617Z">
         <seg>目前</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Nr of matching segments: {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="flycr" changedate="20180406T130910Z" creationid="flycr" creationdate="20180406T130910Z">
+        <seg>匹配片段数量</seg>
       </tuv>
     </tu>
     <tu>
@@ -37747,6 +37811,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131109T023357Z" creationid="Fu Rhong" creationdate="20131109T023357Z">
         <seg>{</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0} +{1} more</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="flycr" changedate="20180406T130923Z" creationid="flycr" creationdate="20180406T130923Z">
+        <seg>{0} +{1} 更多</seg>
       </tuv>
     </tu>
     <tu>
