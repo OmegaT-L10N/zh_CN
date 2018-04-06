@@ -8648,6 +8648,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Contains options for displaying texts and modification information in different ways.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T064129Z" creationid="weiyi" creationdate="20180406T064129Z">
+        <seg>包含选项已设置两种显示文本和修改信息的方式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Contents</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131116T034813Z">
@@ -25564,6 +25572,14 @@ instead.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T115610Z">
         <seg>按键（快捷键）的全部语法的定义在来自 Oracle Java 1.6 文档（页面底部）：&lt;u0&gt;Java 1.6 快捷键&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The fuzzy matches can be also sorted in different ways (for displaying only; no influence on statistics).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T064236Z" creationid="weiyi" creationdate="20180406T064236Z">
+        <seg>模糊匹配可以按两种方式排序 （仅用于显示或不影响统计）。</seg>
       </tuv>
     </tu>
     <tu>
