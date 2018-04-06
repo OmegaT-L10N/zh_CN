@@ -19492,6 +19492,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Opens a dialog box where the location of scripts can be set, and where scripts can be written, run and associated with a shortcut (see &lt;l0&gt;Scripts window&lt;/l0&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T065107Z" creationid="weiyi" creationdate="20180406T065107Z">
+        <seg>打开对话框已设置脚本；脚本可以被改写、运行并和缩略词建立关联（见 &lt;l0&gt;脚本窗口&lt;/l0&gt;）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Opens a new &lt;l0&gt;Search and replace window&lt;/l0&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T023903Z" creationid="weiyi" creationdate="20180406T023903Z">
@@ -22064,6 +22072,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T165528Z">
         <seg>脚本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Scripting...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T064852Z" creationid="weiyi" creationdate="20180406T064852Z">
+        <seg>脚本...</seg>
       </tuv>
     </tu>
     <tu>
