@@ -5391,6 +5391,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Tags&lt;/p0&gt; &lt;s1&gt;Inserting missing source tags&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T021044Z" creationid="weiyi" creationdate="20180406T021044Z">
+        <seg>&lt;p0&gt;标签&lt;/p0&gt; &lt;s1&gt;插入丢失源标签&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Tags&lt;/p0&gt; &lt;s1&gt;Naming&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120203T102718Z">
@@ -14806,6 +14814,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Insert Missing Source Tags</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T020933Z" creationid="weiyi" creationdate="20180406T020933Z">
+        <seg>插入丢失源标签</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Insert Next Missing Tag</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130504T170319Z">
@@ -14890,6 +14906,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
         <seg>在光标位置插入源段落内容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Inserts the source tags (if they where missing) at the cursor position.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T021129Z" creationid="weiyi" creationdate="20180406T021129Z">
+        <seg>在光标处插入（丢失的）源标签。</seg>
       </tuv>
     </tu>
     <tu>
