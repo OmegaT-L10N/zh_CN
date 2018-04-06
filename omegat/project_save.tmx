@@ -8189,6 +8189,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check &lt;e0&gt;Untranslated Segments Only&lt;/e0&gt; option to deactivate Machine Translation tools on already translated segments.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T072131Z" creationid="weiyi" creationdate="20180406T072131Z">
+        <seg>选择&lt;e0&gt;仅未翻译片段&lt;/e0&gt;选项以为已翻译片段开启机器翻译工具。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check for possible Tag errors with &lt;k0&gt;Ctrl+T &lt;/k0&gt;and untranslated segments with &lt;k1&gt;Ctrl+U&lt;/k1&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131127T094951Z" creationid="Fu Rhong" creationdate="20131127T094951Z">
@@ -18449,6 +18457,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note: in that case, &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;M&lt;/k3&gt; &lt;/k1&gt; can still be used, to force a Machine Translation call on an already translated segment.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T072255Z" creationid="weiyi" creationdate="20180406T072255Z">
+        <seg>提示：在上述情况中，&lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;M&lt;/k3&gt; &lt;/k1&gt;仍可用以为已翻片段获取机器翻译。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note: not all filters allow you to select an encoding.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T153943Z">
@@ -27110,6 +27126,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="ZH-CN" changeid="weiyi" changedate="20180405T150046Z" creationid="weiyi" creationdate="20180405T144311Z">
         <seg>随后，您须将TMX文件放入到您OmegaT项目相应的/tm/或/tm/auto/文件夹中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Then you must use &lt;k7&gt; &lt;k8&gt;Ctrl&lt;/k8&gt; &lt;k9&gt;M&lt;/k9&gt; &lt;/k7&gt; a second time, to insert the suggestion.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T071948Z" creationid="weiyi" creationdate="20180406T071948Z">
+        <seg>随后，您必须再次使用 &lt;k7&gt; &lt;k8&gt;Ctrl&lt;/k8&gt; &lt;k9&gt;M&lt;/k9&gt; &lt;/k7&gt; 以插入建议。</seg>
       </tuv>
     </tu>
     <tu>
