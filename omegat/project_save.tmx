@@ -9888,6 +9888,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Displays the Match Statistics for each file of the project: the number of repetitions, exact matches, fuzzy matches and no-matches, for segments, words and in characters.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T064842Z" creationid="weiyi" creationdate="20180406T064842Z">
+        <seg>显示当前项目中每个文件的匹配统计对于片段、单词和字符的重复、精确匹配、模糊匹配和无匹配的数目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Displays the Match Statistics for the project: the number of repetitions, exact matches, fuzzy matches and no-matches, for segments, words and in characters.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120211T032421Z">
@@ -10186,8 +10194,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Download MediaWiki Page...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180405T152418Z" creationid="weiyi" creationdate="20180405T152418Z">
-        <seg>下载MediaWiki页（W）</seg>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T064706Z" creationid="weiyi" creationdate="20180405T152418Z">
+        <seg>下载MediaWiki页...</seg>
       </tuv>
     </tu>
     <tu>
@@ -10202,8 +10210,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Download Team Project...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180405T152033Z" creationid="weiyi" creationdate="20180405T152033Z">
-        <seg>下载团队项目（T）</seg>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T064636Z" creationid="weiyi" creationdate="20180405T152033Z">
+        <seg>下载团队项目...</seg>
       </tuv>
     </tu>
     <tu>
@@ -17666,8 +17674,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>New...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180405T152009Z" creationid="weiyi" creationdate="20180405T152009Z">
-        <seg>新建（N）</seg>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T064632Z" creationid="weiyi" creationdate="20180405T152009Z">
+        <seg>新建...</seg>
       </tuv>
     </tu>
     <tu>
@@ -19446,8 +19454,8 @@ your home folder.</seg>
       <tuv lang="EN">
         <seg>Open...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180405T152148Z" creationid="weiyi" creationdate="20180405T152148Z">
-        <seg>打开（O）</seg>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T064644Z" creationid="weiyi" creationdate="20180405T152148Z">
+        <seg>打开...</seg>
       </tuv>
     </tu>
     <tu>
