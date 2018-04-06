@@ -14054,16 +14054,24 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>If you select a text string (in any pane) before pressing &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt;, the text will be pasted by default in the &lt;g3&gt;Search for&lt;/g3&gt; field.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T022318Z" creationid="weiyi" creationdate="20180406T022223Z">
-        <seg>如果您 (位于任何窗格中)在按  &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt;前，选择了文本中的一串字符 ，选中文本将根据默认粘贴到 &lt;g3&gt;搜索&lt;/g3&gt; 域。</seg>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T023908Z" creationid="weiyi" creationdate="20180406T022223Z">
+        <seg>如果您 (位于任何窗格中)在按&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt;前，选择了文本中的一串字符 ，选中文本将根据默认粘贴到 &lt;g3&gt;搜索&lt;/g3&gt; 域。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you select a text string (in any pane) before pressing &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;K&lt;/k2&gt; &lt;/k0&gt;, the text will be pasted by default in the &lt;g3&gt;Search for&lt;/g3&gt; field.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T024014Z" creationid="weiyi" creationdate="20180406T024014Z">
+        <seg>如果您 (位于任何窗格中)在按&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;K&lt;/k2&gt; &lt;/k0&gt;前，选择了文本中的一串字符 ，选中文本将根据默认粘贴到 &lt;g3&gt;寻找&lt;/g3&gt; 字段。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>If you select a text string (in any pane) before pressing &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;G&lt;/k3&gt; &lt;/k0&gt;, the text will be pasted by default in the &lt;g4&gt;Source term&lt;/g4&gt; field.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T022336Z" creationid="weiyi" creationdate="20180406T022017Z">
-        <seg>如果您 (位于任何窗格中)在按 &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;G&lt;/k3&gt; &lt;/k0&gt;前，选择了文本中的一串字符 ，选中文本将根据默认粘贴到 &lt;g4&gt;源于术语&lt;/g4&gt; 域。</seg>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T023916Z" creationid="weiyi" creationdate="20180406T022017Z">
+        <seg>如果您 (位于任何窗格中)在按&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;G&lt;/k3&gt; &lt;/k0&gt;前，选择了文本中的一串字符 ，选中文本将根据默认粘贴到 &lt;g4&gt;源于术语&lt;/g4&gt; 域。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19316,6 +19324,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Opens a new &lt;l0&gt;Search and replace window&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T023903Z" creationid="weiyi" creationdate="20180406T023903Z">
+        <seg>打开新的 &lt;l0&gt;搜索与替换窗口&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Opens a new &lt;l0&gt;Search window&lt;/l0&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120209T133218Z">
@@ -20127,6 +20143,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180403T123542Z" creationid="xulihang" creationdate="20180403T123457Z">
         <seg>按下&lt;u&gt;{0}&lt;/u&gt;以返回到&lt;b&gt;{1}&lt;/b&gt;建议。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pressing &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;F&lt;/k3&gt; &lt;/k0&gt; displays the last already opened Search window (instead of opening a new one).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T023750Z" creationid="weiyi" creationdate="20180406T023750Z">
+        <seg>按 &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;F&lt;/k3&gt; &lt;/k0&gt;显示上次打开的（而不是新的）搜索窗。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21872,6 +21896,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
         <seg>在项目中搜索……</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search and Replace...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T023836Z" creationid="weiyi" creationdate="20180406T023836Z">
+        <seg>搜索与替换</seg>
       </tuv>
     </tu>
     <tu>
