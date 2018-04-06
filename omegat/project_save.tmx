@@ -8101,6 +8101,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Changed after:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="flycr" changedate="20180406T124016Z" creationid="flycr" creationdate="20180406T124016Z">
+        <seg>之后修改</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Changer</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T024831Z" creationid="xulihang" creationdate="20180404T024831Z">
@@ -12460,6 +12468,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Full/Half &amp;width char insensitive</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="flycr" changedate="20180406T124100Z" creationid="flycr" creationdate="20180406T124100Z">
+        <seg>全半角字符敏感</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Fuzzy Matches</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T162120Z">
@@ -13091,6 +13107,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T165114Z">
         <seg>隐藏 '{0}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hide Advanced &amp;Options</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="flycr" changedate="20180406T124001Z" creationid="flycr" creationdate="20180406T124001Z">
+        <seg>隐藏高级选项</seg>
       </tuv>
     </tu>
     <tu>
@@ -17220,6 +17244,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T151038Z">
         <seg>达到了最大查找数量（{0}）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Memor&amp;y</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="flycr" changedate="20180406T124250Z" creationid="flycr" creationdate="20180406T124250Z">
+        <seg>记忆</seg>
       </tuv>
     </tu>
     <tu>
@@ -22012,6 +22044,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>S&amp;pace matches nbsp</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="flycr" changedate="20180406T124114Z" creationid="flycr" creationdate="20180406T124114Z">
+        <seg>匹配空格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>S&amp;witch Case To</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T164605Z">
@@ -23248,6 +23288,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180403T143352Z" creationid="xulihang" creationdate="20180403T141935Z">
         <seg>首先显示目标术语(&amp;t)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show Advanced &amp;Options</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="flycr" changedate="20180406T123952Z" creationid="flycr" creationdate="20180406T123952Z">
+        <seg>显示高级选项</seg>
       </tuv>
     </tu>
     <tu>
