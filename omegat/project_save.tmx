@@ -8238,6 +8238,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check this option in case OmegaT does not display some glyphs properly (even if the fonts containing the relevant glyphs are installed on your machine).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T062036Z" creationid="weiyi" creationdate="20180406T062036Z">
+        <seg>选中此选项以防止OmegaT不能正确显示某些字体（即使相关字体已在您的计算机中安装）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Checking out the project...</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130504T151412Z">
@@ -18301,6 +18309,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T153943Z">
         <seg>注意：并非所有的过滤器允许选择某种编码。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note: on Windows it seems that this manual font fallback mechanism can interfere with standard font fallback, causing undesirable font substitution.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T062301Z" creationid="weiyi" creationdate="20180406T062301Z">
+        <seg>注意：Windows操作系统中手动选择备用字体可能会影响标准备用字体，导致不理想的字体替换。</seg>
       </tuv>
     </tu>
     <tu>
