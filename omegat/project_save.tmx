@@ -24816,6 +24816,16 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Text Replace:
+The scope of a text replacement is the target segments of the project, whether they already have contents or not.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="flycr" changedate="20180406T130223Z" creationid="flycr" creationdate="20180406T130223Z">
+        <seg>文本替换：
+文本替换的范围是项目中的目标片段，不论其目前是否有内容</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Text Search</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T150857Z">
