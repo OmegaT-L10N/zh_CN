@@ -12,3 +12,6 @@ Active	活动的	active segment，就是当前所在片段
 unique	唯一	根据以下文档，可以知道unique segment是不存在重复的唯一片段。Segments which occur more than once are described in OmegaT as "non-unique segments".
 spreadsheet	电子表格
 Drag and drop	拖放
+Search and Replace	搜索与替换
+bidirectional control characters	双向控制字符
+Auto-Populated Segments	自动填充片段
