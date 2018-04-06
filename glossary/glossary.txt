@@ -17,3 +17,4 @@ bidirectional control characters	双向控制字符
 Auto-Populated Segments	自动填充片段
 Options/Editing Behaviour	选项/编辑操作
 Request For Enhancement	增强需求
+Aggressive Font Fallback	突出后备字体
