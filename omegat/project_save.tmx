@@ -536,6 +536,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Finish</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180407T073112Z" creationid="lenovo" creationdate="20180407T073112Z">
+        <seg>完成(&amp;F)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Fix All</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T022855Z">
@@ -920,6 +928,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Remove Filter</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180407T073209Z" creationid="lenovo" creationdate="20180407T073209Z">
+        <seg>删除过滤器(&amp;R)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Remove untranslated strings in the target files</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="flycr" changedate="20180406T131859Z" creationid="flycr" creationdate="20180406T131859Z">
@@ -932,6 +948,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180407T072754Z" creationid="lenovo" creationdate="20180407T072754Z">
         <seg>替换(&amp;R)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Replace Next</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180407T073031Z" creationid="lenovo" creationdate="20180407T073031Z">
+        <seg>替换下一个(&amp;R)</seg>
       </tuv>
     </tu>
     <tu>
