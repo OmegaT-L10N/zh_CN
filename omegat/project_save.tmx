@@ -7991,6 +7991,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Bugs, feature requests and documentation issues are handled on Sourceforge by the following tracking systems.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T111910Z" creationid="cpeishan" creationdate="20180407T111910Z">
+        <seg>bug、功能请求和文档问题通过以下跟踪系统在Sourceforge上得到解决。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Building &lt;a0&gt;OmegaT&lt;/a0&gt; From Source</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120208T112421Z">
@@ -15744,6 +15752,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Issues/bugs tracking system</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T112327Z" creationid="cpeishan" creationdate="20180407T112327Z">
+        <seg>bug跟踪系统</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It also allows to define various options related to tag validation and to define custom tags.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T065653Z" creationid="weiyi" creationdate="20180406T065429Z">
@@ -17164,8 +17180,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Mailing lists</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T111459Z" creationid="cpeishan" creationdate="20180407T110219Z">
-        <seg>邮件清单</seg>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T111626Z" creationid="cpeishan" creationdate="20180407T110219Z">
+        <seg>邮件名单</seg>
       </tuv>
     </tu>
     <tu>
@@ -19246,8 +19262,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>OmegaT also has the following mailing lists and trackers, which are hosted on Sourceforge:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T111547Z" creationid="cpeishan" creationdate="20180407T110335Z">
-        <seg>OmegaT在Sourceforge上公布管理下面这些邮件清单和项目主页：</seg>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T111636Z" creationid="cpeishan" creationdate="20180407T110335Z">
+        <seg>OmegaT在Sourceforge上公布管理下面这些邮件名单和项目主页：</seg>
       </tuv>
     </tu>
     <tu>
@@ -20792,6 +20808,14 @@ to determine the source of the error and try again.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130505T164610Z">
         <seg>再次使用"创建译文文档"功能前请修正标签问题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please do not use these tracking systems before first raising the issue on the user group and/or mailing lists.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T112222Z" creationid="cpeishan" creationdate="20180407T112222Z">
+        <seg>首先咨询用户组和/或邮件名单解决这些问题，然后再使用这些跟踪系统。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29534,6 +29558,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T052824Z">
         <seg>翻译提示（&amp;n）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tracking system</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T111721Z" creationid="cpeishan" creationdate="20180407T111721Z">
+        <seg>跟踪系统</seg>
       </tuv>
     </tu>
     <tu>
