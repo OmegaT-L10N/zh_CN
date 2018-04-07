@@ -30970,6 +30970,22 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Website content authors</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T104607Z" creationid="cpeishan" creationdate="20180407T104607Z">
+        <seg>网站成员目录</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Website design</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T104626Z" creationid="cpeishan" creationdate="20180407T104626Z">
+        <seg>网站设计</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Webster's Revised Unabridged Dictionary (1913)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
@@ -32114,6 +32130,14 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130505T165022Z">
         <seg>可在文件: {0} 中找到更详细的统计信息</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can go to the &lt;a0&gt;home page&lt;/a0&gt; and hopefully find the information you need from there.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T104539Z" creationid="cpeishan" creationdate="20180407T104539Z">
+        <seg>前往 &lt;a0&gt;首页&lt;/a0&gt; 希望你能查找到有用信息</seg>
       </tuv>
     </tu>
     <tu>
