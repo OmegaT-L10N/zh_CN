@@ -7033,6 +7033,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An Instant Start Guide, which guides you through the main procedures and functions of OmegaT, is displayed in the OmegaT user interface by default.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T133531Z" creationid="cpeishan" creationdate="20180407T133458Z">
+        <seg>默认情况下,  OmegaT 用户界面上显示的 "即时启动向导"指导用户完成 OmegaT 的主要步骤和功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An attempt is made to match the capitalization of the source word.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T075807Z" creationid="weiyi" creationdate="20180406T075807Z">
@@ -32288,6 +32296,14 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131124T133124Z">
         <seg>通过点击&lt;g4&gt;“从 MediaWiki 导入”&lt;/g4&gt;按钮并输入相应的网址，您还可以添加互联网页中用MediaWiki编写的源文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also call up the user manual supplied with OmegaT without launching OmegaT itself.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T133726Z" creationid="cpeishan" creationdate="20180407T133726Z">
+        <seg>用户也能在OmegaT未启动时调用用户手册。</seg>
       </tuv>
     </tu>
     <tu>
