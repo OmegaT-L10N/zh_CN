@@ -928,6 +928,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Replace</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180407T072754Z" creationid="lenovo" creationdate="20180407T072754Z">
+        <seg>替换(&amp;R)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Reset Options</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="flycr" changedate="20180406T131005Z" creationid="flycr" creationdate="20180406T131005Z">
@@ -1028,6 +1036,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T055243Z">
         <seg>字体大小(&amp;S)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Skip</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180407T072951Z" creationid="lenovo" creationdate="20180407T072951Z">
+        <seg>忽略(&amp;S)</seg>
       </tuv>
     </tu>
     <tu>
@@ -21418,6 +21434,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T022629Z">
         <seg>删除过滤器(&amp;m)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Re&amp;place All</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180407T072840Z" creationid="lenovo" creationdate="20180407T072840Z">
+        <seg>全部替换(&amp;P)</seg>
       </tuv>
     </tu>
     <tu>
