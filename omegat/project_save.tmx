@@ -19316,6 +19316,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT has a very active, supportive and multilingual user group &lt;a0&gt;here&lt;/a0&gt;, which users are strongly encouraged to join.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T105909Z" creationid="cpeishan" creationdate="20180407T105909Z">
+        <seg> OmegaT拥有非常活跃，热情的多语言用户群体&lt;a0&gt;这里&lt;/a0&gt;, 强烈鼓励用户加入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT has chosen option 'Yes' automatically.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T023437Z">
