@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>"How to" documents on this site, containing information on certain procedures and features of OmegaT for advanced users which are not covered by the manual.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T135915Z" creationid="cpeishan" creationdate="20180407T135915Z">
+        <seg>本网站上的操作文档适用于高级用户，包含有关 OmegaT 的具体步骤和功能的信息, 这些内容用户手册上没有。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>"Tag groups" in this context are a single tag (such as &lt;i0&gt; and &lt;/i0&gt;).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120203T121053Z">
@@ -1414,6 +1422,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120214T033411Z">
         <seg>(?i)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(In Italian)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T151034Z" creationid="cpeishan" creationdate="20180407T151034Z">
+        <seg>(意大利语)</seg>
       </tuv>
     </tu>
     <tu>
@@ -6409,6 +6425,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A step-by-step guide on how to use the Text Extraction and the Text Merging utilities from Rainbow to pre- and post-process files to be translated using OmegaT.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T145730Z" creationid="cpeishan" creationdate="20180407T145730Z">
+        <seg>有关如何使用Rainbow的文本提取和文本合并功能预处理和后处理文件, 如何使用 OmegaT 进行翻译的分步指南。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A text file containing two lines:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120202T070734Z">
@@ -6737,6 +6761,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Adds recognition of inflected forms to OmegaT glossary and fuzzy match functions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T142943Z" creationid="cpeishan" creationdate="20180407T142943Z">
+        <seg>增加 OmegaT 词汇表和模糊匹配功能对变形词汇的识别。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Administration</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T112507Z" creationid="cpeishan" creationdate="20180407T112507Z">
@@ -6745,10 +6777,26 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Administrative and technical procedure for localizating OmegaT.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T144029Z" creationid="cpeishan" creationdate="20180407T144029Z">
+        <seg>OmegaT 本地化的管理和技术程序.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Advanced &amp;Options</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T150604Z">
         <seg>高级选项(&amp;O)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Advanced feature HowTos</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T142415Z" creationid="cpeishan" creationdate="20180407T142415Z">
+        <seg>操作的高级功能</seg>
       </tuv>
     </tu>
     <tu>
@@ -7232,6 +7280,14 @@ The TMX file will not be loaded.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131118T033652Z" creationid="Fu Rhong" creationdate="20131118T033652Z">
         <seg>控制台模式专用的一个附加命令行参数：&lt;l0&gt;--quiet&lt;/l0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An introductory video to OmegaT in English by John Moran.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T150215Z" creationid="cpeishan" creationdate="20180407T150215Z">
+        <seg>John Moran的OmegaT 简介的英语视频。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8039,6 +8095,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Books</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T150628Z" creationid="cpeishan" creationdate="20180407T150628Z">
+        <seg>书籍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Borrowing an example from Slovenian, here "good" in all possible grammatically correct forms:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120220T034440Z">
@@ -8163,6 +8227,46 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131107T144034Z" creationid="Fu Rhong" creationdate="20131107T142652Z">
         <seg>缅甸语</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By Marco Cevoli and Sergio Alasia.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T151158Z" creationid="cpeishan" creationdate="20180407T151120Z">
+        <seg>Marco Cevoli and Sergio Alasia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By Sheila Gomes (in Brasilian Portuguese).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T135358Z" creationid="cpeishan" creationdate="20180407T135358Z">
+        <seg>By Sheila Gomes (葡萄牙语).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By Susan Welsh (Open Document Format).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T134831Z" creationid="cpeishan" creationdate="20180407T134831Z">
+        <seg>By Susan Welsh (开放文档格式).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By Susan Welsh (PDF format).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T134936Z" creationid="cpeishan" creationdate="20180407T134936Z">
+        <seg>By Susan Welsh (PDF格式).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By Vladimir Zhdanov (in Russian).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T135142Z" creationid="cpeishan" creationdate="20180407T135142Z">
+        <seg>By Vladimir Zhdanov (俄语).</seg>
       </tuv>
     </tu>
     <tu>
@@ -9026,6 +9130,22 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Compatibility HowTos</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T140010Z" creationid="cpeishan" creationdate="20180407T135944Z">
+        <seg>操作的兼容性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Compiling OmegaT from source</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T143158Z" creationid="cpeishan" creationdate="20180407T143158Z">
+        <seg>从源代码编译OmegaT </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Compress whitespace in translated document</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T154650Z">
@@ -9502,6 +9622,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120211T061645Z">
         <seg>在项目的目标文件夹创建已译文档，同时在项目的根目录中创建翻译记忆文件（(level1，level2 和 omegat tmx 文件）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creating a new file filter</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T143336Z" creationid="cpeishan" creationdate="20180407T143336Z">
+        <seg>创建新的文件筛选器</seg>
       </tuv>
     </tu>
     <tu>
@@ -10094,6 +10222,62 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120203T122545Z">
         <seg>根据分割规则，标签对可能会被分成两部分并出现在两个连续的片段，而标签检验会检查到这两处的部分标签并提示这两个片段出现错误。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Describes OmegaT's compatibility with Déjà Vu.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T140446Z" creationid="cpeishan" creationdate="20180407T140446Z">
+        <seg>描述OmegaT与Déjà Vu的兼容性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Describes OmegaT's compatibility with Microsoft Office 2007 files, especially Word 2007.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T140316Z" creationid="cpeishan" creationdate="20180407T140316Z">
+        <seg>描述 OmegaT 与 Microsoft Office 2007 文件 (特别是 Word 2007) 的兼容性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Describes OmegaT's compatibility with selected other software products.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T140058Z" creationid="cpeishan" creationdate="20180407T140058Z">
+        <seg>描述 OmegaT 与所选其他软件产品的兼容性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Describes OmegaT's propagation and one-to-many matching features.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T142012Z" creationid="cpeishan" creationdate="20180407T142012Z">
+        <seg>描述 OmegaT 的传送和一对多的匹配功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Describes OmegaT's spellchecking feature.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T141627Z" creationid="cpeishan" creationdate="20180407T141627Z">
+        <seg>描述OmegaT拼写检查功能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Describes how to use OmegaT in conjunction with Iceni Infix in order to translate files in PDF format.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T141500Z" creationid="cpeishan" creationdate="20180407T141500Z">
+        <seg>描述如何使用 OmegaT 与 Iceni Infix结合翻译PDF 格式文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Describes how to use OmegaT in conjunction with the Trados bilingual RTF format ("uncleaned" files).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T140833Z" creationid="cpeishan" creationdate="20180407T140712Z">
+        <seg>描述如何将 OmegaT 与 Trados 双语 RTF 格式 文本( "未处理 " 文件) 联合使用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10918,6 +11102,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
         <seg>不丹语</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Déjà Vu compatibility</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T140342Z" creationid="cpeishan" creationdate="20180407T140342Z">
+        <seg>Déjà Vu 兼容性</seg>
       </tuv>
     </tu>
     <tu>
@@ -11794,6 +11986,22 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Explains how to compile OmegaT from the source code.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T143307Z" creationid="cpeishan" creationdate="20180407T143307Z">
+        <seg>解释如何从源代码编译OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Explains how to create a filter for a new file format to be translated by OmegaT.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T143849Z" creationid="cpeishan" creationdate="20180407T143849Z">
+        <seg>解释如何为OmegaT 翻译创建新的文件格式筛选器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Explanation:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120208T063845Z">
@@ -11910,6 +12118,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T143636Z">
         <seg>外部命令被中断。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>External documentation</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T144236Z" creationid="cpeishan" creationdate="20180407T144236Z">
+        <seg>外部文档</seg>
       </tuv>
     </tu>
     <tu>
@@ -12054,6 +12270,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T151549Z">
         <seg>分析第 {0} 行第 {1} 列时发生致命复错误：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Feature HowTos</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T141529Z" creationid="cpeishan" creationdate="20180407T141529Z">
+        <seg>操作文档功能</seg>
       </tuv>
     </tu>
     <tu>
@@ -12958,6 +13182,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>From the YouTube OmegaT series by Miguel Navarro (in Spanish).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T150445Z" creationid="cpeishan" creationdate="20180407T150445Z">
+        <seg>YouTube OmegaT 系列：Miguel Navarro (西班牙语)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Fula, Fulah, Pulaar, Pular</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T101142Z" creationid="Fu Rhong" creationdate="20131107T145712Z">
@@ -13408,6 +13640,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Guida completa a OmegaT: tecniche, trucchi e consigli per traduttori e project manager</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T150946Z" creationid="cpeishan" creationdate="20180407T150946Z">
+        <seg>OmegaT 完整指南: 翻译人员和项目经理的技术、技巧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Gujarati</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
@@ -13420,6 +13660,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T155649Z">
         <seg>HHC 文件过大！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>HOWTOs</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T135456Z" creationid="cpeishan" creationdate="20180407T135456Z">
+        <seg>操作文档</seg>
       </tuv>
     </tu>
     <tu>
@@ -13452,6 +13700,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T154354Z">
         <seg>HTML 和 XHTML 文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>HTML user manual online</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T134416Z" creationid="cpeishan" creationdate="20180407T134416Z">
+        <seg>在线用户手册是HTML语言写的</seg>
       </tuv>
     </tu>
     <tu>
@@ -13757,6 +14013,22 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120131T120631Z">
         <seg>如何下载和安装词典</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>How to translate Magento</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T144916Z" creationid="cpeishan" creationdate="20180407T144916Z">
+        <seg>如何翻译Magento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>How to translate Wordpress XLIFF files</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T145032Z" creationid="cpeishan" creationdate="20180407T145032Z">
+        <seg>如何翻译 Wordpress XLIFF 文件</seg>
       </tuv>
     </tu>
     <tu>
@@ -15712,6 +15984,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Information on procedures and features of OmegaT for advanced users which can be found on other sites.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T144357Z" creationid="cpeishan" creationdate="20180407T144357Z">
+        <seg>有关高级用户的 OmegaT 程序和功能的信息, 可在其他网站上找到。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Initialized {0}-{1} team project.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180407T071315Z" creationid="lenovo" creationdate="20180407T071315Z">
@@ -15980,6 +16260,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T105034Z" creationid="cpeishan" creationdate="20180407T105034Z">
         <seg>集成经理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Intended in particular for users who are new to Linux.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T144218Z" creationid="cpeishan" creationdate="20180407T144218Z">
+        <seg>专门针对 Linux 新手的用户。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17306,6 +17594,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Localizing OmegaT</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T143901Z" creationid="cpeishan" creationdate="20180407T143901Z">
+        <seg>OmegaT本地化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Location</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T150725Z">
@@ -17398,6 +17694,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T153813Z">
         <seg>Steve Roy 的 MRJ Adapter （LGPL 许可协议）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>MS Translator</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T142130Z" creationid="cpeishan" creationdate="20180407T142130Z">
+        <seg>微软翻译</seg>
       </tuv>
     </tu>
     <tu>
@@ -19676,6 +19980,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT compatibility</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T140029Z" creationid="cpeishan" creationdate="20180407T140029Z">
+        <seg>OmegaT 兼容性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT displays a list of all segments containing all of the words specified.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120215T125449Z">
@@ -19704,6 +20016,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120218T065854Z">
         <seg>OmegaT在加载翻译记忆文件（TMX 文件）时遵循非常严格的过程。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT for Beginners tutorial</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T134651Z" creationid="cpeishan" creationdate="20180407T134651Z">
+        <seg>OmegaT初学者教程</seg>
       </tuv>
     </tu>
     <tu>
@@ -19768,6 +20088,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131127T100917Z" creationid="Fu Rhong" creationdate="20131127T100917Z">
         <seg>OmegaT为SVN和Git提供了界面，它们是在开源许可下提供的版本控制系统的两种常用协作软件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT introduction tutorial</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T150101Z" creationid="cpeishan" creationdate="20180407T150101Z">
+        <seg>OmegaT简介教程</seg>
       </tuv>
     </tu>
     <tu>
@@ -19982,10 +20310,26 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT text export function</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T143019Z" creationid="cpeishan" creationdate="20180407T143019Z">
+        <seg>OmegaT 文本输出功能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT thus takes the TUV segments corresponding to the project's source and target language codes and uses them as the source and target segments respectively.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131127T091955Z" creationid="Fu Rhong" creationdate="20131127T091955Z">
         <seg>因此OmegaT抓取符合项目的源和目标语言代码的tuv片段，并把它们分别作为源和目标片段使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT tokenizer plugin</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T142440Z" creationid="cpeishan" creationdate="20180407T142440Z">
+        <seg>OmegaT 标记器插件</seg>
       </tuv>
     </tu>
     <tu>
@@ -20042,6 +20386,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T153639Z">
         <seg>OmegaT 版本{0}, 第{1}次更新</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT videos on the Qabiria YouTube channel.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T150034Z" creationid="cpeishan" creationdate="20180407T150034Z">
+        <seg>OmegaT 视频在 Qabiria YouTube 频道。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20718,6 +21070,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Other HowTos</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T143118Z" creationid="cpeishan" creationdate="20180407T143118Z">
+        <seg>其他操作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Other Icons - Browse, and navigate to the /images subfolder in the &lt;a0&gt;OmegaT&lt;/a0&gt; application folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120206T122213Z">
@@ -21158,6 +21518,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Playlist of OmegaT videos</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T145908Z" creationid="cpeishan" creationdate="20180407T145908Z">
+        <seg>OmegaT 视频播放列表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please close search window.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T151057Z">
@@ -21453,6 +21821,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Preview</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T142308Z" creationid="cpeishan" creationdate="20180407T142308Z">
+        <seg>预览</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Previous</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T025211Z" creationid="xulihang" creationdate="20180404T025211Z">
@@ -21554,6 +21930,38 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120131T120752Z">
         <seg>与词典相关的问题</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Procedure for configuring Microsoft Translator.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T142247Z" creationid="cpeishan" creationdate="20180407T142247Z">
+        <seg>配置微软翻译的步骤</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Procedure for using OmegaT to localize Magento.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T144953Z" creationid="cpeishan" creationdate="20180407T144953Z">
+        <seg>使用 OmegaT使Magento本地化 的步骤</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Procedure for using OmegaT to localize XLIFF files exported from Wordpress.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T145108Z" creationid="cpeishan" creationdate="20180407T145108Z">
+        <seg>使用 OmegaT使Wordpress XLIFF 文件本地化 的步骤</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Procedure for using OmegaT to localize the NetBeans IDE.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T144807Z" creationid="cpeishan" creationdate="20180407T144807Z">
+        <seg>使用 OmegaT使Netbeans集成开发环境本地化 的步骤。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21854,6 +22262,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Propagation and one-to-many matching</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T141907Z" creationid="cpeishan" creationdate="20180407T141907Z">
+        <seg>传送和一对多匹配</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Properties...</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131110T022051Z">
@@ -22074,6 +22490,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T150856Z">
         <seg>递归搜索（&amp;v)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Recursos do OmegaT: primeiros passos</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T135248Z" creationid="cpeishan" creationdate="20180407T135248Z">
+        <seg>OmegaT 资源: 第一步</seg>
       </tuv>
     </tu>
     <tu>
@@ -23976,6 +24400,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Self-paced online training course in English (for purchase)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T151236Z" creationid="cpeishan" creationdate="20180407T151236Z">
+        <seg>随到随看的英语在线培训课程 (购买)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sentence level segmentation</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131118T034948Z">
@@ -24084,6 +24516,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T062716Z" creationid="weiyi" creationdate="20180406T062716Z">
         <seg>设定将显示修改选项应用于&lt;e0&gt;当前片段&lt;/e0&gt; 可显示当前片段上次修改者和修改时间信息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Setting up a preview function for use with OmegaT.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T142342Z" creationid="cpeishan" creationdate="20180407T142342Z">
+        <seg>设置 OmegaT 的预览功能</seg>
       </tuv>
     </tu>
     <tu>
@@ -24884,6 +25324,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131124T133409Z" creationid="Fu Rhong" creationdate="20131124T133409Z">
         <seg>拼写检查器设置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spellchecking</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T141544Z" creationid="cpeishan" creationdate="20180407T141544Z">
+        <seg>拼写检查</seg>
       </tuv>
     </tu>
     <tu>
@@ -26035,6 +26483,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The HTML user manual for OmegaT standard version.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T134528Z" creationid="cpeishan" creationdate="20180407T134528Z">
+        <seg>OmegaT标准版的用户手册用HTML语言编写 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The JRE is already installed on Mac OS X before Mac OS X 10.7 (Lion).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Puzzlist" changedate="20130922T041730Z" creationid="Puzzlist" creationdate="20130922T041730Z">
@@ -26906,6 +27362,14 @@ instead.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131110T072946Z" creationid="Fu Rhong" creationdate="20131110T071421Z">
         <seg>这里对后面的文本中使用的术语作个简短的说明：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The following tutorials are available online/for download:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T134630Z" creationid="cpeishan" creationdate="20180407T134630Z">
+        <seg>下列教程可供在线查阅或下载</seg>
       </tuv>
     </tu>
     <tu>
@@ -28248,6 +28712,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The user manual for OmegaT in PDF format ({{ site.data.versions.standard.name }}).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T134159Z" creationid="cpeishan" creationdate="20180407T134159Z">
+        <seg>OmegaT用户手册是PDF格式({{ site.data.versions.standard.name }}).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The user manual is an HTML document with links to different chapters.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
@@ -28566,6 +29038,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T151557Z">
         <seg>已经忽略这些单元。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These utilities enable OmegaT to be used to translate file formats for which XLIFF conversion filters are available.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T145834Z" creationid="cpeishan" creationdate="20180407T145834Z">
+        <seg>这些实用程序使 OmegaT 可用于翻译 XLIFF 转换筛选器可用的文件格式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30034,6 +30514,22 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Training</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T151140Z" creationid="cpeishan" creationdate="20180407T151140Z">
+        <seg>培训</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Training videos</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T145846Z" creationid="cpeishan" creationdate="20180407T145846Z">
+        <seg>培训视频</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Trans&amp;lated or untranslated</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="flycr" changedate="20180406T124434Z" creationid="flycr" creationdate="20180406T124434Z">
@@ -30204,10 +30700,26 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Translating NetBeans IDE</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T144600Z" creationid="cpeishan" creationdate="20180407T144600Z">
+        <seg>转换java(NetBeans软件)开发环境</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translating Project</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T170403Z">
         <seg>翻译项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translating with Rainbow and OmegaT</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T145345Z" creationid="cpeishan" creationdate="20180407T145345Z">
+        <seg>利用Rainbow和OmegaT翻译</seg>
       </tuv>
     </tu>
     <tu>
@@ -30380,6 +30892,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tutorials</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T134601Z" creationid="cpeishan" creationdate="20180407T134601Z">
+        <seg>教程</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Twi</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131108T101700Z" creationid="Fu Rhong" creationdate="20131108T101700Z">
@@ -30546,6 +31066,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yujun Yin" changedate="20131007T074117Z" creationid="Yujun Yin" creationdate="20131007T074102Z">
         <seg>文本中未发生变化的句子会进行自动翻译，而更新后的句子则会提供最相似的原有句段的译文以供参考。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Uncleaned RTF</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T140727Z" creationid="cpeishan" creationdate="20180407T140635Z">
+        <seg>未处理的RTF文本</seg>
       </tuv>
     </tu>
     <tu>
@@ -31306,6 +31834,22 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using OmegaT in conjunction with Google Translate.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T142116Z" creationid="cpeishan" creationdate="20180407T142116Z">
+        <seg>OmegaT 与谷歌翻译结合.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using OmegaT on Linux</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T144150Z" creationid="cpeishan" creationdate="20180407T144150Z">
+        <seg>Linux版OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using TMX with alternative language pairs</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131127T101215Z" creationid="Fu Rhong" creationdate="20131127T101215Z">
@@ -31342,6 +31886,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120217T120732Z">
         <seg>使用拼写词典</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using the OmegaT text export function (scripting interface).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T143103Z" creationid="cpeishan" creationdate="20180407T143103Z">
+        <seg>使用OmegaT 文本输出功能 (脚本界面).</seg>
       </tuv>
     </tu>
     <tu>
@@ -31526,6 +32078,30 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131110T073756Z" creationid="Fu Rhong" creationdate="20131110T073756Z">
         <seg>Windows系统中最常用的客户端分别为&lt;u1&gt;TortoiseSVN&lt;/u1&gt;和&lt;u2&gt;TortoiseGit&lt;/u2&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Video 1</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T150233Z" creationid="cpeishan" creationdate="20180407T150233Z">
+        <seg>视频1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Video 2</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T150522Z" creationid="cpeishan" creationdate="20180407T150522Z">
+        <seg>视频2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Video 3</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T150544Z" creationid="cpeishan" creationdate="20180407T150544Z">
+        <seg>视频3</seg>
       </tuv>
     </tu>
     <tu>
@@ -32240,6 +32816,14 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120211T033746Z">
         <seg>选中&lt;e3&gt;翻译提示/精确匹配&lt;/e3&gt;时只检查完整的单词，否则也会匹配部分单词。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With links to more detailed HOWTOs.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T140217Z" creationid="cpeishan" creationdate="20180407T140217Z">
+        <seg>更详细的操作点击 链接。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34404,6 +34988,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120202T070629Z">
         <seg>doc-license.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>docx compatibility</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T140234Z" creationid="cpeishan" creationdate="20180407T140234Z">
+        <seg>docx 兼容性</seg>
       </tuv>
     </tu>
     <tu>
@@ -38909,6 +39501,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131109T023406Z" creationid="Fu Rhong" creationdate="20131109T023406Z">
         <seg>}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>В помощь переводчику: 10 советов по OmegaT</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T135101Z" creationid="cpeishan" creationdate="20180407T135101Z">
+        <seg>帮助译者:OmegaT10条提示</seg>
       </tuv>
     </tu>
     <tu>
