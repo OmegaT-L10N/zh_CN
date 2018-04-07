@@ -30946,6 +30946,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>We could not find the page you are looking for.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T104230Z" creationid="cpeishan" creationdate="20180407T104230Z">
+        <seg>未查到此网页</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>We therefore recommend that you download and install either the Oracle Java Runtime Environment (JRE) or the OmegaT package bundled with JRE (the .tar.bz2) bundle marked "Linux").</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Puzzlist" changedate="20130922T041532Z" creationid="Puzzlist" creationdate="20130922T041532Z">
