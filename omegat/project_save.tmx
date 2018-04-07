@@ -9650,6 +9650,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Current memory usage by the VM: {0}MB; of which free memory: {1}MB; maximum available: {2}MB</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180407T132807Z" creationid="lenovo" creationdate="20180407T132807Z">
+        <seg>其中可用内存</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Current memory usage by the VM: {0}MB; of which free memory: {1}MB; maximum available: {2}MB;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130505T161910Z">
