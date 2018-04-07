@@ -528,6 +528,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Enable history completion</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180407T145428Z" creationid="lenovo" creationdate="20180407T145428Z">
+        <seg>启用历史完成(&amp;E)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Endnotes</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T153147Z">
@@ -884,6 +892,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T031112Z">
         <seg>选项(&amp;O)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Preferences...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180407T145645Z" creationid="lenovo" creationdate="20180407T145645Z">
+        <seg>偏好(&amp;P)</seg>
       </tuv>
     </tu>
     <tu>
@@ -7654,6 +7670,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Auto-Completion</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180407T145251Z" creationid="lenovo" creationdate="20180407T145251Z">
+        <seg>自动完成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Auto-completer is launched within the target segment via &lt;e0&gt;Ctrl+Space&lt;/e0&gt; shortcut.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T070816Z" creationid="weiyi" creationdate="20180406T070816Z">
@@ -11122,6 +11146,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enable history &amp;prediction</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180407T145455Z" creationid="lenovo" creationdate="20180407T145455Z">
+        <seg>启用历史预测(&amp;p)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enable them in &lt;b&gt;Options &gt; Saving and Output...&lt;/b&gt;.&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T145845Z">
@@ -13625,10 +13657,34 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>History</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180407T145507Z" creationid="lenovo" creationdate="20180407T145507Z">
+        <seg>历史</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>History Completion</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180407T145350Z" creationid="lenovo" creationdate="20180407T145329Z">
+        <seg>历史完成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>History Completions</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180403T123625Z" creationid="xulihang" creationdate="20180403T123625Z">
         <seg>历史完成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>History Prediction</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180407T145358Z" creationid="lenovo" creationdate="20180407T145358Z">
+        <seg>历史预测</seg>
       </tuv>
     </tu>
     <tu>
