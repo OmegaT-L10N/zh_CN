@@ -9890,6 +9890,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Developers</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T105303Z" creationid="cpeishan" creationdate="20180407T105303Z">
+        <seg>开发者们</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dictionaries</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120131T120615Z">
@@ -10374,6 +10382,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T164309Z">
         <seg>停靠</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Documentation manager</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T105114Z" creationid="cpeishan" creationdate="20180407T105114Z">
+        <seg>文档经理</seg>
       </tuv>
     </tu>
     <tu>
@@ -15624,6 +15640,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Integration manager</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T105034Z" creationid="cpeishan" creationdate="20180407T105034Z">
+        <seg>集成经理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Intention</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131121T122420Z">
@@ -16674,6 +16698,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Lead developer</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T105005Z" creationid="cpeishan" creationdate="20180407T105005Z">
+        <seg>开发人员主管</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Learn to use OmegaT in 5 minutes!</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130514T145152Z">
@@ -16894,6 +16926,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130504T151752Z">
         <seg>本地译文未与远程仓库同步。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Localization manager, user group owner</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T105217Z" creationid="cpeishan" creationdate="20180407T105217Z">
+        <seg>本地化经理，用户群主管</seg>
       </tuv>
     </tu>
     <tu>
@@ -21274,6 +21314,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120211T061340Z">
         <seg>项目管理快捷键</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project manager</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T104943Z" creationid="cpeishan" creationdate="20180407T104943Z">
+        <seg>项目经理</seg>
       </tuv>
     </tu>
     <tu>
@@ -31030,6 +31078,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T104626Z" creationid="cpeishan" creationdate="20180407T104626Z">
         <seg>网站设计</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Website manager</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T105057Z" creationid="cpeishan" creationdate="20180407T105057Z">
+        <seg>网站经理</seg>
       </tuv>
     </tu>
     <tu>
