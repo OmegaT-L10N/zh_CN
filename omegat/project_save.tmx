@@ -232,6 +232,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Align Files...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180407T142058Z" creationid="lenovo" creationdate="20180407T142058Z">
+        <seg>对齐文件(&amp;A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Allow blank translations in the target files</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T152127Z">
@@ -468,6 +476,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130505T162650Z">
         <seg>编辑方式(&amp;E)……</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Editor...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180407T142137Z" creationid="lenovo" creationdate="20180407T142137Z">
+        <seg>编辑器(&amp;E)</seg>
       </tuv>
     </tu>
     <tu>
@@ -10234,6 +10250,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Display context description for TBX &amp;glossaries</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180407T142318Z" creationid="lenovo" creationdate="20180407T142318Z">
+        <seg>显示TBX的上下文描述及术语表(&amp;g)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Display for &amp;All Segments</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T164815Z">
@@ -17708,8 +17732,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Match Statistics per &amp;File</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131123T103433Z" creationid="Fu Rhong" creationdate="20131123T103003Z">
-        <seg>每文件匹配统计(&amp;F)</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180407T142028Z" creationid="Fu Rhong" creationdate="20131123T103003Z">
+        <seg>每个文件匹配统计(&amp;F)</seg>
       </tuv>
     </tu>
     <tu>
