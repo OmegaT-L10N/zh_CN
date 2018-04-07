@@ -9002,6 +9002,22 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Committing source files</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180407T145745Z" creationid="lenovo" creationdate="20180407T145734Z">
+        <seg>正在提交原文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Committing target files</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180407T145818Z" creationid="lenovo" creationdate="20180407T145818Z">
+        <seg>正在提交目标文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Common glossary problems</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021248Z">
@@ -11962,6 +11978,22 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Failed to commit source files!</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180407T145710Z" creationid="lenovo" creationdate="20180407T145710Z">
+        <seg>提交原文件失败!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Failed to commit target files!</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180407T145721Z" creationid="lenovo" creationdate="20180407T145721Z">
+        <seg>提交目标文件失败!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Failed to compile project files!</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T053337Z">
@@ -11990,6 +12022,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T053043Z">
         <seg>打开项目的译法记忆 {0} 失败！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Failed to update project properties</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180407T145848Z" creationid="lenovo" creationdate="20180407T145848Z">
+        <seg>项目属性更新失败</seg>
       </tuv>
     </tu>
     <tu>
@@ -24632,6 +24672,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source files committed</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180407T145805Z" creationid="lenovo" creationdate="20180407T145805Z">
+        <seg>原文件已提交</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Source files folder entered does not exist!</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T150136Z">
@@ -25492,6 +25540,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
         <seg>目标文件名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Target files committed</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180407T145827Z" creationid="lenovo" creationdate="20180407T145827Z">
+        <seg>目标文件已提交</seg>
       </tuv>
     </tu>
     <tu>
