@@ -19502,6 +19502,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT is supplied with a comprehensive user manual.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T113010Z" creationid="cpeishan" creationdate="20180407T113010Z">
+        <seg>OmegaT 提供了一份全面详细的用户手册。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT is the original work of Keith Godfrey.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T153749Z">
@@ -20830,8 +20838,16 @@ to determine the source of the error and try again.</seg>
       <tuv lang="EN">
         <seg>Please contact the &lt;a0&gt;OmegaT project manager&lt;/a0&gt; regarding any point not covered above.&lt;br1/&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T112638Z" creationid="cpeishan" creationdate="20180407T112638Z">
-        <seg>请联系&lt;a0&gt;OmegaT 项目经理&lt;/a0&gt; 上述未提及的任何问题&lt;br1/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T112820Z" creationid="cpeishan" creationdate="20180407T112638Z">
+        <seg>请联系&lt;a0&gt;OmegaT 项目经理&lt;/a0&gt; 关于上述未提及的任何问题&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please contact the &lt;a2&gt;webmaster&lt;/a2&gt; for any point regarding specifically the website.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T112807Z" creationid="cpeishan" creationdate="20180407T112807Z">
+        <seg>请联系&lt;a2&gt;网站管理员&lt;/a2&gt; 关于网站有任何问题</seg>
       </tuv>
     </tu>
     <tu>
@@ -29058,6 +29074,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To call up the manual from within OmegaT, simply select Help &gt; Users manual, or press F1.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T114038Z" creationid="cpeishan" creationdate="20180407T114038Z">
+        <seg>选择 "帮助 &gt; 用户手册", 或按 F1，调用OmegaT用户手册。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To change the amount of memory available, edit &lt;e0&gt;OmegaT.app/Contents/Info.plist&lt;/e0&gt; file and change the content of &lt;string&gt;-Xmx1024M&lt;/string&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="17012" changedate="20180405T104413Z" creationid="17012" creationdate="20180405T103902Z">
@@ -30709,6 +30733,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130514T144312Z">
         <seg>OmegaT 所使用的用户界面语言</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>User manuals</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T112846Z" creationid="cpeishan" creationdate="20180407T112846Z">
+        <seg>用户手册</seg>
       </tuv>
     </tu>
     <tu>
