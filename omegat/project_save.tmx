@@ -15312,6 +15312,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Initialized {0}-{1} team project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180407T071315Z" creationid="lenovo" creationdate="20180407T071315Z">
+        <seg>初始化 {0}-{1} 团队项目.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Initializing</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T170349Z">
