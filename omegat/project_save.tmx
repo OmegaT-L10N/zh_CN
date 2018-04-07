@@ -17164,8 +17164,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>Mailing lists</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T110342Z" creationid="cpeishan" creationdate="20180407T110219Z">
-        <seg>邮寄列表</seg>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T111459Z" creationid="cpeishan" creationdate="20180407T110219Z">
+        <seg>邮件清单</seg>
       </tuv>
     </tu>
     <tu>
@@ -19246,8 +19246,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>OmegaT also has the following mailing lists and trackers, which are hosted on Sourceforge:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T110712Z" creationid="cpeishan" creationdate="20180407T110335Z">
-        <seg>OmegaT在Sourceforge上公布管理下面这些邮寄列表和项目主页：</seg>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T111547Z" creationid="cpeishan" creationdate="20180407T110335Z">
+        <seg>OmegaT在Sourceforge上公布管理下面这些邮件清单和项目主页：</seg>
       </tuv>
     </tu>
     <tu>
@@ -28668,8 +28668,8 @@ configuration folder cannot be reliably determined.</seg>
       <tuv lang="EN">
         <seg>This mailing list is for localizers of OmegaT.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T111436Z" creationid="cpeishan" creationdate="20180407T111436Z">
-        <seg> OmegaT的本地化人员.</seg>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T111616Z" creationid="cpeishan" creationdate="20180407T111436Z">
+        <seg> OmegaT的本地化人员名单.</seg>
       </tuv>
     </tu>
     <tu>
