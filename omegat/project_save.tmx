@@ -672,6 +672,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Insert Match or Selection</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180407T135845Z" creationid="lenovo" creationdate="20180407T135546Z">
+        <seg>插入匹配项或选择项(&amp;I)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Install new dictionary...</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T164441Z">
@@ -9226,6 +9234,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Create &amp;Glossary Entry...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180407T135945Z" creationid="lenovo" creationdate="20180407T135945Z">
+        <seg>创建术语表条目(&amp;G)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Create &amp;Translated Documents</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130505T162142Z">
@@ -15624,6 +15640,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Insert Unicode Control Character</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180407T140039Z" creationid="lenovo" creationdate="20180407T140039Z">
+        <seg>插入 Unicode 控制符</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Insert match</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
@@ -16878,6 +16902,22 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
         <seg>保持片段为空</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Left-to-Right Embedding (LRE U+202A)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180407T140238Z" creationid="lenovo" creationdate="20180407T140238Z">
+        <seg>自左向右嵌入 (LRE U+202A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Left-to-Right Mark (LRM U+200E)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180407T140144Z" creationid="lenovo" creationdate="20180407T140129Z">
+        <seg>自左向右标记 (LRM U+200E)</seg>
       </tuv>
     </tu>
     <tu>
@@ -21758,6 +21798,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>R&amp;eplace with Match or Selection</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180407T135833Z" creationid="lenovo" creationdate="20180407T135833Z">
+        <seg>用匹配项或选择项替代(&amp;e)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>RTL-LTR switch</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120130T053452Z">
@@ -22618,6 +22666,22 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120217T121436Z">
         <seg>右键单击突出显示的词汇（上面图示中的 "Artund"）打开下拉菜单，其中列出了更正建议（Art und）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Right-to-Left Embedding (RLE U+202B)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180407T140253Z" creationid="lenovo" creationdate="20180407T140253Z">
+        <seg>自右向左嵌入 (RLE U+202B)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Right-to-Left Mark (RLM U+200F)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180407T140157Z" creationid="lenovo" creationdate="20180407T140157Z">
+        <seg>自右向左标记(RLM U+200F)</seg>
       </tuv>
     </tu>
     <tu>
