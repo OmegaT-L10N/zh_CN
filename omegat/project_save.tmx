@@ -28666,6 +28666,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This mailing list is for localizers of OmegaT.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T111436Z" creationid="cpeishan" creationdate="20180407T111436Z">
+        <seg> OmegaT的本地化人员.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This manual, however, would not be possible without the help and support from a number of people.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120205T085436Z">
