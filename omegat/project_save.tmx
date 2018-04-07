@@ -1136,6 +1136,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Show relevant suggestions automatically</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180407T145123Z" creationid="lenovo" creationdate="20180407T145123Z">
+        <seg>自动显示相关建议(&amp;S)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Size</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T055243Z">
