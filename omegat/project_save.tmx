@@ -208,6 +208,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Access Project Contents</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180407T133615Z" creationid="lenovo" creationdate="20180407T133615Z">
+        <seg>访问项目内容(&amp;A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Add</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T022729Z">
@@ -376,6 +384,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Current Source Document</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180407T134137Z" creationid="lenovo" creationdate="20180407T134137Z">
+        <seg>当前原文档(&amp;C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Cycle</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T164608Z">
@@ -388,6 +404,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T153903Z">
         <seg>缺省(&amp;D)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Dictionaries</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180407T133843Z" creationid="lenovo" creationdate="20180407T133843Z">
+        <seg>词典(&amp;D)</seg>
       </tuv>
     </tu>
     <tu>
@@ -976,6 +1000,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Root</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180407T133818Z" creationid="lenovo" creationdate="20180407T133818Z">
+        <seg>根文件(&amp;R)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Run</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T165610Z">
@@ -1096,6 +1128,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Source Files</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180407T133958Z" creationid="lenovo" creationdate="20180407T133958Z">
+        <seg>提交原文件(&amp;S)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Source Files Language:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130504T170649Z">
@@ -1132,6 +1172,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T025445Z" creationid="xulihang" creationdate="20180404T025445Z">
         <seg>TaaS术语查询(&amp;T)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Target Files</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180407T134059Z" creationid="lenovo" creationdate="20180407T134059Z">
+        <seg>目标文件(&amp;T)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1220,6 +1268,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T164608Z">
         <seg>查看（&amp;V)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Writeable Glossary</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180407T134248Z" creationid="lenovo" creationdate="20180407T134248Z">
+        <seg>可写术语表(&amp;W)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8135,6 +8191,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>C&amp;urrent Target Document</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180407T134212Z" creationid="lenovo" creationdate="20180407T134212Z">
+        <seg>当前目标文档(&amp;u)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Camtasia for Windows</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130911T115644Z">
@@ -8828,8 +8892,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Commit Source Files</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180407T133224Z" creationid="lenovo" creationdate="20180407T133224Z">
-        <seg>提交源文件</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180407T134038Z" creationid="lenovo" creationdate="20180407T133224Z">
+        <seg>提交原文件</seg>
       </tuv>
     </tu>
     <tu>
@@ -9198,6 +9262,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T020739Z">
         <seg>创建术语表条目(&amp;G)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create MED Project...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180407T133518Z" creationid="lenovo" creationdate="20180407T133518Z">
+        <seg>创建MED项目 </seg>
       </tuv>
     </tu>
     <tu>
