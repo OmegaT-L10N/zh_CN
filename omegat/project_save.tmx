@@ -10962,6 +10962,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>English version translators</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T104645Z" creationid="cpeishan" creationdate="20180407T104645Z">
+        <seg>英语版本译者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>English: the same check as above, but concerning consonants ("a", not "an")</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120215T115505Z">
@@ -16074,6 +16082,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Its purpose is to develop, distribute and support the use of OmegaT, an open-source translation memory software application.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T104754Z" creationid="cpeishan" creationdate="20180407T104754Z">
+        <seg>其目的是开发，分发和支持使用OmegaT，一个开源翻译记忆软件应用程序。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Its value is either &lt;l3&gt;equal&lt;/l3&gt; (default value, for source=target) or &lt;l4&gt;empty&lt;/l4&gt; (target segment is empty).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131031T075256Z">
@@ -20162,6 +20178,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131116T130229Z" creationid="Fu Rhong" creationdate="20131116T130229Z">
         <seg>Oracle在&lt;u0&gt;http://www.oracle.com/technetwork/java/archive-139210.html&lt;/u0&gt;提供了用于Solaris SPARC/x86（Java 1.6）和Linux x64、Solaris x64、Windows x64（Java 1.6）的JRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Original author of the OmegaT application</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T104931Z" creationid="cpeishan" creationdate="20180407T104931Z">
+        <seg>OmegaT应用原创作作者</seg>
       </tuv>
     </tu>
     <tu>
@@ -25515,6 +25539,22 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The OmegaT project</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T104706Z" creationid="cpeishan" creationdate="20180407T104706Z">
+        <seg>OmegaT 项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The OmegaT project is maintained by an informal, international group of volunteers.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T104734Z" creationid="cpeishan" creationdate="20180407T104734Z">
+        <seg>OmegaT项目由一个非正式的国际志愿者组织维护。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The PO filter threw an exception:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T152256Z">
@@ -26883,6 +26923,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T114626Z" creationid="Fu Rhong" creationdate="20131117T114543Z">
         <seg>打开含笔记的前一个片段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The principal members of the project are:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T104814Z" creationid="cpeishan" creationdate="20180407T104814Z">
+        <seg>该项目的主要成员是：</seg>
       </tuv>
     </tu>
     <tu>
