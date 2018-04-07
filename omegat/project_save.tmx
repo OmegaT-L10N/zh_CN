@@ -17162,6 +17162,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mailing lists</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T110342Z" creationid="cpeishan" creationdate="20180407T110219Z">
+        <seg>邮寄列表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Main Menu</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
@@ -19164,6 +19172,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmTdev</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T110841Z" creationid="cpeishan" creationdate="20180407T110841Z">
+        <seg>OmegaT开发</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120202T070725Z">
@@ -19224,6 +19240,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120211T135921Z">
         <seg>OmegaT 在每次打开或重新载入项目时，也将翻译记忆备份到同一子目录下的 project_save.tmx.YEARMMDDHHNN.bak 文件中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT also has the following mailing lists and trackers, which are hosted on Sourceforge:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T110712Z" creationid="cpeishan" creationdate="20180407T110335Z">
+        <seg>OmegaT在Sourceforge上公布管理下面这些邮寄列表和项目主页：</seg>
       </tuv>
     </tu>
     <tu>
@@ -19318,8 +19342,8 @@ inside the configuration folder.</seg>
       <tuv lang="EN">
         <seg>OmegaT has a very active, supportive and multilingual user group &lt;a0&gt;here&lt;/a0&gt;, which users are strongly encouraged to join.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T105909Z" creationid="cpeishan" creationdate="20180407T105909Z">
-        <seg> OmegaT拥有非常活跃，热情的多语言用户群体&lt;a0&gt;这里&lt;/a0&gt;, 强烈鼓励用户加入</seg>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T110005Z" creationid="cpeishan" creationdate="20180407T105909Z">
+        <seg> OmegaT拥有非常活跃，热情的多语言用户组&lt;a0&gt;这里&lt;/a0&gt;, 强烈鼓励用户加入</seg>
       </tuv>
     </tu>
     <tu>
@@ -25603,6 +25627,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The OmegaT developers' list.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T110915Z" creationid="cpeishan" creationdate="20180407T110915Z">
+        <seg>OmegaT项目开发人员名单：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The OmegaT project</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T104706Z" creationid="cpeishan" creationdate="20180407T104706Z">
@@ -27720,6 +27752,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The user group also serves as the main point of contact between users and the project team.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T110053Z" creationid="cpeishan" creationdate="20180407T105951Z">
+        <seg>用户组还是用户和项目团队之间的主要联系人。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The user interface</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
@@ -28614,6 +28654,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
         <seg>该许可证包含了文档。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This list is for more technical discussion of features and development, and is intended for OmegaT developers and other interested parties.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T111056Z" creationid="cpeishan" creationdate="20180407T111056Z">
+        <seg>此名单用于对功能和开发进行更技术性的讨论, 并面向 OmegaT 开发人员和其他感兴趣的各方。</seg>
       </tuv>
     </tu>
     <tu>
