@@ -992,6 +992,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Save As...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180407T073317Z" creationid="lenovo" creationdate="20180407T073317Z">
+        <seg>另存为(&amp;S)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Save...</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131031T120825Z" creationid="Administrator" creationdate="20131031T120825Z">
@@ -22362,6 +22370,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120206T093750Z">
         <seg>运行 &lt;a0&gt;OmegaT&lt;i1/&gt;&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Running on Java {0} ({1}-bit)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180407T073416Z" creationid="lenovo" creationdate="20180407T073416Z">
+        <seg>在Java上运行中 {0} ({1}-bit)</seg>
       </tuv>
     </tu>
     <tu>
