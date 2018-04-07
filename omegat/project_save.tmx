@@ -6617,6 +6617,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Administration</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T112507Z" creationid="cpeishan" creationdate="20180407T112507Z">
+        <seg>管理部门</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Advanced &amp;Options</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T150604Z">
@@ -10402,6 +10410,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Documentation tracking system</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T112420Z" creationid="cpeishan" creationdate="20180407T112420Z">
+        <seg>文档跟踪系统</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Documents and Settings\&lt;User Name&gt;\Application Data\&lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120202T060153Z">
@@ -11774,6 +11790,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T151549Z">
         <seg>分析第 {0} 行第 {1} 列时发生致命复错误：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Feature requests tracking system</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T112354Z" creationid="cpeishan" creationdate="20180407T112354Z">
+        <seg>功能请求跟踪系统</seg>
       </tuv>
     </tu>
     <tu>
@@ -20800,6 +20824,14 @@ to determine the source of the error and try again.</seg>
         <seg>请分析日志
 ({1})
 找出错误源头所在，并再试一次。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please contact the &lt;a0&gt;OmegaT project manager&lt;/a0&gt; regarding any point not covered above.&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T112638Z" creationid="cpeishan" creationdate="20180407T112638Z">
+        <seg>请联系&lt;a0&gt;OmegaT 项目经理&lt;/a0&gt; 上述未提及的任何问题&lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
