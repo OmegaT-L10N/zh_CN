@@ -656,6 +656,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Ignore hits with very different case (e.g. FOO vs foo)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180407T143103Z" creationid="lenovo" creationdate="20180407T143103Z">
+        <seg>在很不同的情况下忽视匹配(&amp;I) (e.g. FOO vs foo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;In translation</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="flycr" changedate="20180406T124424Z" creationid="flycr" creationdate="20180406T124424Z">
