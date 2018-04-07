@@ -8471,6 +8471,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check &amp;Issues...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180407T141925Z" creationid="lenovo" creationdate="20180407T141925Z">
+        <seg>检查及问题(&amp;I)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check &amp;all printf-variables (e.g., %s, %-s)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T161031Z">
@@ -8483,6 +8491,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T072131Z" creationid="weiyi" creationdate="20180406T072131Z">
         <seg>选择&lt;e0&gt;仅未翻译片段&lt;/e0&gt;选项以为已翻译片段开启机器翻译工具。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check Issues for &amp;Current Document</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180407T142012Z" creationid="lenovo" creationdate="20180407T142012Z">
+        <seg>检查当前文档问题(&amp;C)</seg>
       </tuv>
     </tu>
     <tu>
@@ -18539,6 +18555,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Next Uni&amp;que Segment</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180407T141859Z" creationid="lenovo" creationdate="20180407T141859Z">
+        <seg>下一个独特片段(&amp;q)t</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Next Untranslated Segment</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131031T082927Z">
@@ -24508,6 +24532,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T151535Z">
         <seg>原文语种：{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source of Selected &amp;Match</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180407T141819Z" creationid="lenovo" creationdate="20180407T141819Z">
+        <seg>当前匹配原文(&amp;M)</seg>
       </tuv>
     </tu>
     <tu>
