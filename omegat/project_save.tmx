@@ -1128,6 +1128,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Show Relevant Suggestions Automatically</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180407T143512Z" creationid="lenovo" creationdate="20180407T143512Z">
+        <seg>自动显示相关建议(&amp;S)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Size</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T055243Z">
@@ -10070,6 +10078,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T105303Z" creationid="cpeishan" creationdate="20180407T105303Z">
         <seg>开发者们</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Dictionar&amp;y</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180407T143259Z" creationid="lenovo" creationdate="20180407T143145Z">
+        <seg>词典(&amp;y</seg>
       </tuv>
     </tu>
     <tu>
@@ -30768,6 +30784,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use &amp;Fuzzy Matching for Dictionary Entries</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180407T143412Z" creationid="lenovo" creationdate="20180407T143249Z">
+        <seg>模糊匹配词条(&amp;F)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use &amp;TAB to Advance</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T031114Z">
@@ -30780,6 +30804,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T160322Z">
         <seg>对独立标签(如 &lt;i/&gt;)使用 &amp;XML </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use &amp;fuzzy matching for dictionary entries</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180407T143405Z" creationid="lenovo" creationdate="20180407T143405Z">
+        <seg>模糊匹配词条(&amp;f)</seg>
       </tuv>
     </tu>
     <tu>
