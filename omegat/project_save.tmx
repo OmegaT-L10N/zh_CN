@@ -32642,6 +32642,16 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using Java Web Start for installing OmegaT (all platforms)
+===========================================================</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T021234Z" creationid="xulihang" creationdate="20180408T021234Z">
+        <seg>使用Java Web Start安装OmegaT（适合任何平台）
+===========================================================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using OmegaT in conjunction with Google Translate.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T142116Z" creationid="cpeishan" creationdate="20180407T142116Z">
