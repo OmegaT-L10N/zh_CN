@@ -17706,6 +17706,16 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Licensing information
+=====================</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T020119Z" creationid="xulihang" creationdate="20180408T020053Z">
+        <seg>许可信息
+=====================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Limburgish, Limburgan, Limburger</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T102334Z" creationid="Fu Rhong" creationdate="20131108T025923Z">
@@ -20448,6 +20458,16 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130514T145236Z">
         <seg>OmegaT 是一种计算机辅助翻译（CAT）工具。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT is a free and open source multiplatform Computer Assisted Translation
+tool with fuzzy matching, translation memory, keyword search, glossaries, and
+translation leveraging into updated projects.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T020046Z" creationid="xulihang" creationdate="20180408T020046Z">
+        <seg>OmegaT 是一种免费开源的跨平台计算机辅助翻译工具软件，包含模糊匹配、翻译记忆、关键词搜索、术语表和协作翻译等功能</seg>
       </tuv>
     </tu>
     <tu>
@@ -32972,8 +32992,8 @@ searchable without subscription:</seg>
       <tuv lang="EN">
         <seg>What is OmegaT?</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130514T145259Z">
-        <seg>OmegaT 为何物？</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T015933Z">
+        <seg>什么是OmegaT？</seg>
       </tuv>
     </tu>
     <tu>
