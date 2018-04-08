@@ -394,8 +394,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Close</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T022404Z">
-        <seg>关闭(&amp;C)</seg>
+      <tuv lang="ZH-CN" changeid="flycr" changedate="20180408T094924Z">
+        <seg>关闭</seg>
       </tuv>
     </tu>
     <tu>
@@ -1058,8 +1058,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Reset Options</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="flycr" changedate="20180406T131005Z" creationid="flycr" creationdate="20180406T131005Z">
-        <seg>&amp;重置所有选项</seg>
+      <tuv lang="ZH-CN" changeid="flycr" changedate="20180408T094931Z" creationid="flycr" creationdate="20180406T131005Z">
+        <seg>重置所有选项</seg>
       </tuv>
     </tu>
     <tu>
@@ -1130,8 +1130,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Search for Selection</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="flycr" changedate="20180406T130946Z" creationid="flycr" creationdate="20180406T130946Z">
-        <seg>&amp;在选中部分中搜索</seg>
+      <tuv lang="ZH-CN" changeid="flycr" changedate="20180408T094926Z" creationid="flycr" creationdate="20180406T130946Z">
+        <seg>在选中部分中搜索</seg>
       </tuv>
     </tu>
     <tu>
@@ -9292,8 +9292,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Confused by false start of comment tag!</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T151356Z">
-        <seg>错误的注释标签导致混乱！</seg>
+      <tuv lang="ZH-CN" changeid="flycr" changedate="20180408T095052Z">
+        <seg>错误开始的注释标签导致混乱！</seg>
       </tuv>
     </tu>
     <tu>
@@ -14379,8 +14379,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>IOException encountered:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T151351Z">
-        <seg>发生输入输出意外：</seg>
+      <tuv lang="ZH-CN" changeid="flycr" changedate="20180408T094959Z">
+        <seg>发生输入输出错误：</seg>
       </tuv>
     </tu>
     <tu>
@@ -33442,8 +33442,8 @@ trouble of selecting, obtaining and installing it.</seg>
       <tuv lang="EN">
         <seg>When using regular expressions, the replacement string supports references to groups defined in the search string.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="flycr" changedate="20180406T130553Z" creationid="flycr" creationdate="20180406T130553Z">
-        <seg>当您使用正则表达式时，您可以在正则表达式中定义组别并指定要替换内容的级别。</seg>
+      <tuv lang="ZH-CN" changeid="flycr" changedate="20180408T094841Z" creationid="flycr" creationdate="20180406T130553Z">
+        <seg>当您使用正则表达式时，您可以在正则表达式中定义组别并指定要替换内容的组别。</seg>
       </tuv>
     </tu>
     <tu>
