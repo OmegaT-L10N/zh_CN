@@ -6561,6 +6561,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Aaron Madlon-Kay (integration manager)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T110229Z" creationid="xulihang" creationdate="20180408T110229Z">
+        <seg>Aaron Madlon-Kay (集成管理员)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Abkhaz</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131107T142957Z">
@@ -9378,6 +9386,24 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Contributions to the code are documented in /docs/contributors.txt.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T110150Z" creationid="xulihang" creationdate="20180408T110150Z">
+        <seg>为代码做出贡献的名单在这里：/docs/contributors.txt。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Contributors
+============</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T110058Z" creationid="xulihang" creationdate="20180408T110058Z">
+        <seg>贡献者
+============</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cop&amp;y Files to Source Folder...</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
@@ -10550,6 +10576,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131127T120251Z" creationid="Fu Rhong" creationdate="20131127T120251Z">
         <seg>词典窗格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Didier Briel is the OmegaT project manager.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T110121Z" creationid="xulihang" creationdate="20180408T110121Z">
+        <seg>Didier Briel是OmegaT项目的经理。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14522,6 +14556,15 @@ script provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If Java is installed at system level and is in the command path, the full path
+need not be entered.)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T110052Z" creationid="xulihang" creationdate="20180408T110052Z">
+        <seg>如果系统上安装了Java且处于命令行路径中，则无需输入它的完整路径。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If a "command not found" or similar message is returned, it is likely that Java is not installed on your system</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131116T124210Z">
@@ -17758,6 +17801,16 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Launching OmegaT from the command line (all systems)
+====================================================</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T110025Z" creationid="xulihang" creationdate="20180408T110025Z">
+        <seg>从命令行启动OmegaT（支持所有系统）
+====================================================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Launching OmegaT in console mode</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120211T064607Z">
@@ -18468,6 +18521,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120220T123651Z">
         <seg>Marc Prior</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Marc Prior (webmaster)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T110245Z" creationid="xulihang" creationdate="20180408T110245Z">
+        <seg>Marc Prior (网站管理员)</seg>
       </tuv>
     </tu>
     <tu>
@@ -27691,6 +27752,14 @@ Please try to correct the error and reload the project.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The command to launch OmegaT is:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T110037Z" creationid="xulihang" creationdate="20180408T110037Z">
+        <seg>启动OmegaT的命令是：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The computer, running OmegaT, has Russian as the default language, and thus shows the characters in the Cyrillic alphabet and not in Kanji.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131031T075155Z">
@@ -33098,6 +33167,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Vincent Bidaux (documentation manager)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T110217Z" creationid="xulihang" creationdate="20180408T110205Z">
+        <seg>Vincent Bidaux (文档管理员)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Visio</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130911T115704Z">
@@ -34553,6 +34630,14 @@ the installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120211T033608Z">
         <seg>接着可以点击喜欢的翻译来将其插入目标片段的当前位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can then launch the Kaptain launch script with:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T110001Z" creationid="xulihang" creationdate="20180408T110001Z">
+        <seg>然后您可以这样运行Kaptain启动脚本：</seg>
       </tuv>
     </tu>
     <tu>
