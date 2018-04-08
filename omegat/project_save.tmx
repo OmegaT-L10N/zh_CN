@@ -15309,6 +15309,15 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you have already Java installed on your system, one way to install OmegaT
+is to use Java Web Start.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T021254Z" creationid="xulihang" creationdate="20180408T021254Z">
+        <seg>如果已经装了 Java，安装 OmegaT 的途径之一是使用 Java Web Start。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you have already Java, one way to install the current version of OmegaT is to use Java Web Start.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Puzzlist" changedate="20130922T041305Z" creationid="Puzzlist" creationdate="20130922T041305Z">
@@ -17030,6 +17039,15 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131112T104831Z" creationid="Fu Rhong" creationdate="20131111T130316Z">
         <seg>它会首先提交当前内容到服务器版本库，接着更新版本库的本地副本（即.svn子文件夹的内容），这样它就是版本库的最新版本了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It will install the correct environment for your computer and the application
+itself on the first run.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T021314Z" creationid="xulihang" creationdate="20180408T021314Z">
+        <seg>它将在第一次运行时给您的计算机安装正确的环境和应用程序本身。</seg>
       </tuv>
     </tu>
     <tu>
