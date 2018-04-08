@@ -20652,6 +20652,15 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT requires the Java Runtime Environment (JRE) version 1.8 or higher to be
+installed on your system.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T020715Z" creationid="xulihang" creationdate="20180408T020715Z">
+        <seg>OmegaT需要您的系统安装了Java运行环境（JRE）1.8或者更高的版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT stores your translations and proposes possible translations from similar segments in registered in the translation memory files.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yujun Yin" changedate="20131007T080047Z" creationid="Yujun Yin" creationdate="20131007T075949Z">
@@ -22215,6 +22224,16 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
         <seg>先决条件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Prerequisites for installing OmegaT
+===================================</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T020637Z" creationid="xulihang" creationdate="20180408T020637Z">
+        <seg>安装OmegaT的要求
+===================================</seg>
       </tuv>
     </tu>
     <tu>
