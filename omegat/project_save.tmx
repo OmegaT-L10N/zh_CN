@@ -23080,8 +23080,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Register Identical Translation</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T015414Z" creationid="weiyi" creationdate="20180406T024812Z">
-        <seg>记录同一译文片段</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T015446Z" creationid="weiyi" creationdate="20180406T024812Z">
+        <seg>使用原文进行翻译</seg>
       </tuv>
     </tu>
     <tu>
