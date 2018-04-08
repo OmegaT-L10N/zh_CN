@@ -234,7 +234,7 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Add</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T022729Z">
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T015028Z">
         <seg>新增(&amp;A)</seg>
       </tuv>
     </tu>
@@ -9090,6 +9090,22 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Command:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T015123Z" creationid="xulihang" creationdate="20180408T015123Z">
+        <seg>命令：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Commands</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T015018Z" creationid="xulihang" creationdate="20180408T015018Z">
+        <seg>命令</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Comme&amp;nts</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T153206Z">
@@ -10282,6 +10298,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Delimiter:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T015137Z" creationid="xulihang" creationdate="20180408T015137Z">
+        <seg>分隔符：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dependable segmentation rules are already available for many languages, so it is likely that you will not need to get involved with writing your own segmentation rules.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120215T135933Z">
@@ -11290,6 +11314,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ed&amp;it</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T015049Z" creationid="xulihang" creationdate="20180408T015049Z">
+        <seg>编辑(&amp;i)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Edit</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
@@ -11298,10 +11330,26 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Edit External Search Command</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T015107Z" creationid="xulihang" creationdate="20180408T015107Z">
+        <seg>编辑外部搜索命令</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Edit External Search Item</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T014431Z" creationid="xulihang" creationdate="20180408T014431Z">
         <seg>编辑外部搜索项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit External Search URL</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T015059Z" creationid="xulihang" creationdate="20180408T015059Z">
+        <seg>编辑外部搜索URL</seg>
       </tuv>
     </tu>
     <tu>
@@ -11550,6 +11598,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T055258Z">
         <seg>编码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Encoding:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T015132Z" creationid="xulihang" creationdate="20180408T015132Z">
+        <seg>编码：</seg>
       </tuv>
     </tu>
     <tu>
@@ -23174,6 +23230,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remo&amp;ve</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T015040Z" creationid="xulihang" creationdate="20180408T015040Z">
+        <seg>删除(&amp;v)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remote File/Folder</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="christy" changedate="20180407T162852Z" creationid="christy" creationdate="20180407T162852Z">
@@ -23934,6 +23998,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sample Output</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T015243Z" creationid="xulihang" creationdate="20180408T015243Z">
+        <seg>示例输出：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sample Text</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T055247Z">
@@ -24156,6 +24228,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T165723Z">
         <seg>脚本目录：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Se&amp;t</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T015007Z" creationid="xulihang" creationdate="20180408T015007Z">
+        <seg>设置(&amp;t)</seg>
       </tuv>
     </tu>
     <tu>
@@ -25028,6 +25108,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131031T120847Z" creationid="Administrator" creationdate="20131031T120847Z">
         <seg>缩略词</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Shortcut:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T014959Z" creationid="xulihang" creationdate="20180408T014959Z">
+        <seg>快捷键：</seg>
       </tuv>
     </tu>
     <tu>
@@ -26488,6 +26576,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Target:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T015127Z" creationid="xulihang" creationdate="20180408T015127Z">
+        <seg>目标：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tatar</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131108T101559Z" creationid="Fu Rhong" creationdate="20131108T101559Z">
@@ -26588,6 +26684,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131031T120657Z" creationid="Administrator" creationdate="20131031T120657Z">
         <seg>含多个目标的术语</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Test</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T015246Z" creationid="xulihang" creationdate="20180408T015246Z">
+        <seg>测试</seg>
       </tuv>
     </tu>
     <tu>
@@ -27108,6 +27212,14 @@ Please try to correct the error and reload the project.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The URL must include "{target}", which will be replaced with the search text.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T015221Z" creationid="xulihang" creationdate="20180408T015213Z">
+        <seg>URL必须包含 "{目标}"，它将会在搜索文本中被替换。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The URL shown under Project Services will be used by SVN to connect clients to the SVN server you have just established.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131124T133001Z" creationid="Fu Rhong" creationdate="20131111T110855Z">
@@ -27328,6 +27440,14 @@ Please try to correct the error and reload the project.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T060938Z" creationid="weiyi" creationdate="20180406T060902Z">
         <seg>只要“保存自动填充状态”（在选项/编辑操作中）选项，背景颜色将会一直存在。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The command must include "{target}", which will be replaced with the search text.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T015237Z" creationid="xulihang" creationdate="20180408T015237Z">
+        <seg>命令必须包含 "{目标}"，它将会在搜索文本中被替换。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31458,6 +31578,22 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T164523Z">
         <seg>在线字典的 URL：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>URL:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T015115Z" creationid="xulihang" creationdate="20180408T015115Z">
+        <seg>URL：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>URLs</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T015011Z" creationid="xulihang" creationdate="20180408T015011Z">
+        <seg>URLs</seg>
       </tuv>
     </tu>
     <tu>
