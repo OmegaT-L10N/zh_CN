@@ -8735,6 +8735,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check LanguageTools rules</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T114141Z" creationid="xulihang" creationdate="20180408T114141Z">
+        <seg>检查语言工具规则</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check Rules</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T112924Z" creationid="xulihang" creationdate="20180408T112924Z">
@@ -8743,10 +8751,90 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check for doubled blanks</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T114156Z" creationid="xulihang" creationdate="20180408T114156Z">
+        <seg>检查双空白</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check for doubled words</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T114202Z" creationid="xulihang" creationdate="20180408T114202Z">
+        <seg>检查双字</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check for equal source &amp; target</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T114248Z" creationid="xulihang" creationdate="20180408T114248Z">
+        <seg>检查相同的原文和译文</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check for inconsistent numbers</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T114327Z" creationid="xulihang" creationdate="20180408T114327Z">
+        <seg>检查不一致的数字</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check for leading whitespace</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T114133Z" creationid="xulihang" creationdate="20180408T114133Z">
+        <seg>检查左边的空行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check for longer target</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T114218Z" creationid="xulihang" creationdate="20180408T114218Z">
+        <seg>检查更长的译文</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check for possible Tag errors with &lt;k0&gt;Ctrl+T &lt;/k0&gt;and untranslated segments with &lt;k1&gt;Ctrl+U&lt;/k1&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131127T094951Z" creationid="Fu Rhong" creationdate="20131127T094951Z">
         <seg>使用&lt;k0&gt;Ctrl+T &lt;/k0&gt;检查标签错误，并用&lt;k1&gt;Ctrl+U&lt;/k1&gt;检查未译片段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check for segments with spelling errors</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T114338Z" creationid="xulihang" creationdate="20180408T114338Z">
+        <seg>检查有拼写错误的片段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check for shorter target</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T114210Z" creationid="xulihang" creationdate="20180408T114210Z">
+        <seg>检查更短的译文</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check for trailing whitespace</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T114150Z" creationid="xulihang" creationdate="20180408T114150Z">
+        <seg>检查右边的空行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check for untranslated segments</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T114301Z" creationid="xulihang" creationdate="20180408T114301Z">
+        <seg>检查未译片段</seg>
       </tuv>
     </tu>
     <tu>
@@ -8783,6 +8871,30 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check number of tags</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T114308Z" creationid="xulihang" creationdate="20180408T114308Z">
+        <seg>检查数字标签</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check punctuation at segment end</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T114230Z" creationid="xulihang" creationdate="20180408T114230Z">
+        <seg>检查片段末的标点</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check sequence of tags</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T114320Z" creationid="xulihang" creationdate="20180408T114320Z">
+        <seg>检查标签顺序</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check simple &amp;java MessageFormat patterns (e.g. {0})</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T161509Z">
@@ -8795,6 +8907,22 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131116T080814Z" creationid="Fu Rhong" creationdate="20131116T080814Z">
         <seg>检查简单的java MessageFormat模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check spaces around tags</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T114315Z" creationid="xulihang" creationdate="20180408T114315Z">
+        <seg>检查空行标签</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check start case</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T114236Z" creationid="xulihang" creationdate="20180408T114236Z">
+        <seg>检查首字母大小写</seg>
       </tuv>
     </tu>
     <tu>
@@ -8852,6 +8980,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T062036Z" creationid="weiyi" creationdate="20180406T062036Z">
         <seg>选中此选项以防止OmegaT不能正确显示某些字体（即使相关字体已在您的计算机中安装）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check whole project</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T114125Z" creationid="xulihang" creationdate="20180408T114125Z">
+        <seg>检查整个项目</seg>
       </tuv>
     </tu>
     <tu>
@@ -10622,8 +10758,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Different punctuation</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T113837Z" creationid="xulihang" creationdate="20180408T113129Z">
-        <seg>不同的标点。。</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T114104Z" creationid="xulihang" creationdate="20180408T113129Z">
+        <seg>不同的标点。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23354,6 +23490,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Refresh</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T114342Z" creationid="xulihang" creationdate="20180408T114342Z">
+        <seg>刷新</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Refreshing script directory "{0}"</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T165822Z">
@@ -26272,6 +26416,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T141544Z" creationid="cpeishan" creationdate="20180407T141544Z">
         <seg>拼写检查</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spelling errors(s)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T114119Z" creationid="xulihang" creationdate="20180408T114119Z">
+        <seg>拼写错误(s)</seg>
       </tuv>
     </tu>
     <tu>
