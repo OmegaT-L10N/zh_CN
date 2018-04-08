@@ -12492,8 +12492,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Fatal error on line {0}, column {1} while parsing:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T151549Z">
-        <seg>分析第 {0} 行第 {1} 列时发生致命复错误：</seg>
+      <tuv lang="ZH-CN" changeid="flycr" changedate="20180408T095548Z">
+        <seg>处理第 {0} 行第 {1} 列时发生致命错误：</seg>
       </tuv>
     </tu>
     <tu>
@@ -22134,10 +22134,10 @@ a description of how this error was produced.</seg>
 ({1})
 to determine the source of the error and try again.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T151547Z">
+      <tuv lang="ZH-CN" changeid="flycr" changedate="20180408T095502Z">
         <seg>请分析日志
 ({1})
-找出错误源头所在，并再试一次。</seg>
+以确定异常产生的原因，并再试一次。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23092,8 +23092,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Recoverable error on line {0}, column {1} while parsing:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T151548Z">
-        <seg>分析第 {0} 行第 {1} 列发生可恢复错误：</seg>
+      <tuv lang="ZH-CN" changeid="flycr" changedate="20180408T095534Z">
+        <seg>处理第 {0} 行第 {1} 列发生可恢复错误：</seg>
       </tuv>
     </tu>
     <tu>
@@ -24790,8 +24790,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Segment encountered outside translation unit variant.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T151555Z">
-        <seg>在译法单元变量之外发现了片段。</seg>
+      <tuv lang="ZH-CN" changeid="flycr" changedate="20180408T095707Z">
+        <seg>在翻译单元变量之外发现了片段。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25886,8 +25886,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Source segment could not be located for certain translation units.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T151556Z">
-        <seg>警告：某些翻译单元无法找到源片段。</seg>
+      <tuv lang="ZH-CN" changeid="flycr" changedate="20180408T095722Z">
+        <seg>某些翻译单元无法找到源片段。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27386,8 +27386,8 @@ current folder will be used instead.</seg>
         <seg>The TMX file will not be loaded
 Please try to correct the error and reload the project.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T151550Z">
-        <seg>将不会导入TMX文件。请尝试修正错误并重新载入项目。</seg>
+      <tuv lang="ZH-CN" changeid="flycr" changedate="20180408T095618Z">
+        <seg>此TMX文件将不会被导入。请尝试修正错误并重新载入项目。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31648,8 +31648,8 @@ install.sh.</seg>
       <tuv lang="EN">
         <seg>Translation unit variant encountered outside translation unit.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T151552Z">
-        <seg>在译法单元之外发现了译法单元变量。</seg>
+      <tuv lang="ZH-CN" changeid="flycr" changedate="20180408T095644Z">
+        <seg>在翻译单元之外发现了翻译单元变量。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33105,8 +33105,8 @@ searchable without subscription:</seg>
       <tuv lang="EN">
         <seg>Warning on line {0}, column {1} while parsing:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T151547Z">
-        <seg>分析第 {0} 行第 {1} 列发生警告：</seg>
+      <tuv lang="ZH-CN" changeid="flycr" changedate="20180408T095520Z">
+        <seg>处理第 {0} 行第 {1} 列发生警告：</seg>
       </tuv>
     </tu>
     <tu>
