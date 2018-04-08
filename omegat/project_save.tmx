@@ -15237,6 +15237,15 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you can see the file OmegaT but not OmegaT.exe in your File Manager
+(Windows Explorer), change the settings so that file extensions are displayed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T021437Z" creationid="xulihang" creationdate="20180408T021437Z">
+        <seg>如果您能在文件管理器（Windows资源管理器）中看到OmegaT但没有OmegaT.exe文件，请修改此设置以显示文件扩展名。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you can't run &lt;a0&gt;OmegaT&lt;/a0&gt; normally (no graphical environment available): copy the settings files from some other &lt;a1&gt;OmegaT&lt;/a1&gt; installation on another machine to a specific folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131116T143833Z" creationid="Fu Rhong" creationdate="20131116T143833Z">
@@ -15563,6 +15572,16 @@ is to use Java Web Start.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T023913Z" creationid="Fu Rhong" creationdate="20131117T010709Z">
         <seg>如果源文件是格式化文件，如Microsoft Word、LibreOffice Writer或HTML，OmegaT会把待译文本周围的格式转换为标签。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If, during installation, you have created a shortcut on the desktop, double-
+click on that shortcut.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T021350Z" creationid="xulihang" creationdate="20180408T021350Z">
+        <seg>* Windows用户：
+若在安装时您选择创建了桌面快捷方式，那么双击它。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17672,6 +17691,16 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T020826Z" creationid="xulihang" creationdate="20180408T020826Z">
         <seg>启动安装程序。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Launching OmegaT (Mac)
+======================</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T021455Z" creationid="xulihang" creationdate="20180408T021455Z">
+        <seg>在Mac上启动OmegaT
+=======================</seg>
       </tuv>
     </tu>
     <tu>
@@ -28245,6 +28274,16 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The install program can create shortcuts for you in the start menu, on the
+desktop and in the quick launch area.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T021355Z" creationid="xulihang" creationdate="20180408T021355Z">
+        <seg>* Windows用户：
+安装程序可以在开始菜单、桌面和快速启动栏创建快捷方式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The items are not separated with a TAB character.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120206T090719Z">
@@ -34175,6 +34214,16 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120217T121530Z">
         <seg>此外，您也可以要求拼写检查器忽略所有该词的出现，或者把它添加到字典。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also manually drag the file
+OmegaT.exe to the start menu, the desktop or the quick launch area to link it
+from there.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T021402Z" creationid="xulihang" creationdate="20180408T021402Z">
+        <seg>您也可以手动将 OmegaT.exe 文件拖动到开始菜单、桌面或快速启动栏，以将其链接到该处。</seg>
       </tuv>
     </tu>
     <tu>
