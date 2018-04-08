@@ -466,8 +466,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Do not unescape Unicode literals (\uXXXX)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="flycr" changedate="20180406T132416Z" creationid="flycr" creationdate="20180406T132416Z">
-        <seg>&amp;不要对Unicode文本进行反转义 (\uXXXX)</seg>
+      <tuv lang="ZH-CN" changeid="flycr" changedate="20180408T100259Z" creationid="flycr" creationdate="20180406T132416Z">
+        <seg>不要对Unicode文本进行反转义，如: \uXXXX</seg>
       </tuv>
     </tu>
     <tu>
@@ -514,8 +514,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Empty lines</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T152343Z">
-        <seg>空行(&amp;E)</seg>
+      <tuv lang="ZH-CN" changeid="flycr" changedate="20180408T100200Z">
+        <seg>空行</seg>
       </tuv>
     </tu>
     <tu>
@@ -778,8 +778,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Line breaks</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T152342Z">
-        <seg>行终止(&amp;L)</seg>
+      <tuv lang="ZH-CN" changeid="flycr" changedate="20180408T100157Z">
+        <seg>行终止符</seg>
       </tuv>
     </tu>
     <tu>
@@ -858,8 +858,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Never</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T152346Z">
-        <seg>从不(&amp;N)</seg>
+      <tuv lang="ZH-CN" changeid="flycr" changedate="20180408T100203Z">
+        <seg>从不</seg>
       </tuv>
     </tu>
     <tu>
@@ -1034,8 +1034,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Remove untranslated strings in the target files</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="flycr" changedate="20180406T131859Z" creationid="flycr" creationdate="20180406T131859Z">
-        <seg>&amp;删除目标文件中的未翻译字符串</seg>
+      <tuv lang="ZH-CN" changeid="flycr" changedate="20180408T100053Z" creationid="flycr" creationdate="20180406T131859Z">
+        <seg>删除目标文件中的未翻译字符串</seg>
       </tuv>
     </tu>
     <tu>
@@ -11612,8 +11612,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Encountered illegal \u sequence</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T152505Z">
-        <seg>遇到的非法 \u 序列</seg>
+      <tuv lang="ZH-CN" changeid="flycr" changedate="20180408T100233Z">
+        <seg>遇到非法 \u 序列</seg>
       </tuv>
     </tu>
     <tu>
@@ -17169,8 +17169,8 @@ itself on the first run.</seg>
       <tuv lang="EN">
         <seg>Java Resource Bundles Filter Options</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="flycr" changedate="20180406T132306Z" creationid="flycr" creationdate="20180406T132306Z">
-        <seg>Java资源文件过滤器选项</seg>
+      <tuv lang="ZH-CN" changeid="flycr" changedate="20180408T100238Z" creationid="flycr" creationdate="20180406T132306Z">
+        <seg>Java资源包过滤器选项</seg>
       </tuv>
     </tu>
     <tu>
@@ -17201,8 +17201,8 @@ itself on the first run.</seg>
       <tuv lang="EN">
         <seg>Java(TM) Resource Bundles</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T152502Z">
-        <seg>Java(TM) 资源文件</seg>
+      <tuv lang="ZH-CN" changeid="flycr" changedate="20180408T100219Z">
+        <seg>Java(TM) 资源包</seg>
       </tuv>
     </tu>
     <tu>
@@ -19208,8 +19208,8 @@ appropriate location such as the Applications folder.</seg>
       <tuv lang="EN">
         <seg>Mozilla DTD Filter Options</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="flycr" changedate="20180406T131816Z" creationid="flycr" creationdate="20180406T131816Z">
-        <seg>Mozilla文件类型定义文件过滤器选项</seg>
+      <tuv lang="ZH-CN" changeid="flycr" changedate="20180408T100046Z" creationid="flycr" creationdate="20180406T131816Z">
+        <seg>Mozilla DTD过滤器选项</seg>
       </tuv>
     </tu>
     <tu>
@@ -24108,8 +24108,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>SVG Image and Adobe Illustrator Export</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="flycr" changedate="20180408T094503Z" creationid="flycr" creationdate="20180406T132728Z">
-        <seg>SVG图片及Adobe Illustrator文件导出</seg>
+      <tuv lang="ZH-CN" changeid="flycr" changedate="20180408T100348Z" creationid="flycr" creationdate="20180406T132728Z">
+        <seg>SVG图像及Adobe Illustrator文件导出</seg>
       </tuv>
     </tu>
     <tu>
@@ -26894,8 +26894,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Text Filter Options</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T152336Z">
-        <seg>文件过滤器选项</seg>
+      <tuv lang="ZH-CN" changeid="flycr" changedate="20180408T100140Z">
+        <seg>文本过滤器选项</seg>
       </tuv>
     </tu>
     <tu>
@@ -27257,8 +27257,8 @@ current folder will be used instead.</seg>
       <tuv lang="EN">
         <seg>The Java Resource Bundles filter threw an exception:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="flycr" changedate="20180406T132444Z" creationid="flycr" creationdate="20180406T132444Z">
-        <seg>Java资源文件产生异常:</seg>
+      <tuv lang="ZH-CN" changeid="flycr" changedate="20180408T100305Z" creationid="flycr" creationdate="20180406T132444Z">
+        <seg>Java资源包产生异常:</seg>
       </tuv>
     </tu>
     <tu>
@@ -27313,8 +27313,8 @@ current folder will be used instead.</seg>
       <tuv lang="EN">
         <seg>The Mozilla DTD filter threw an exception:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="flycr" changedate="20180406T132025Z" creationid="flycr" creationdate="20180406T131948Z">
-        <seg>Mozilla DTD过滤器产生异常::</seg>
+      <tuv lang="ZH-CN" changeid="flycr" changedate="20180408T100102Z" creationid="flycr" creationdate="20180406T131948Z">
+        <seg>Mozilla DTD过滤器抛出异常::</seg>
       </tuv>
     </tu>
     <tu>
