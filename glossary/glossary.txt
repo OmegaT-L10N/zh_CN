@@ -22,3 +22,4 @@ Note	提示
 Create Translated Documents	创建已译文档
 pre-configured	预配置
 auto-completer	自动生成器
+Repository Mapping	仓库映射
