@@ -578,8 +578,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Exact search</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T150434Z">
-        <seg>精确搜索(&amp;E)</seg>
+      <tuv lang="ZH-CN" changeid="flycr" changedate="20180408T094545Z">
+        <seg>精确搜索</seg>
       </tuv>
     </tu>
     <tu>
@@ -594,8 +594,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Files</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T150742Z">
-        <seg>文件(&amp;F)</seg>
+      <tuv lang="ZH-CN" changeid="flycr" changedate="20180408T094729Z">
+        <seg>文件</seg>
       </tuv>
     </tu>
     <tu>
@@ -650,8 +650,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Glossaries</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="flycr" changedate="20180406T124340Z" creationid="flycr" creationdate="20180406T124340Z">
-        <seg>&amp;术语表</seg>
+      <tuv lang="ZH-CN" changeid="flycr" changedate="20180408T094648Z" creationid="flycr" creationdate="20180406T124340Z">
+        <seg>术语表</seg>
       </tuv>
     </tu>
     <tu>
@@ -698,8 +698,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;In translation</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="flycr" changedate="20180406T124424Z" creationid="flycr" creationdate="20180406T124424Z">
-        <seg>&amp;正在翻译中</seg>
+      <tuv lang="ZH-CN" changeid="flycr" changedate="20180408T094711Z" creationid="flycr" creationdate="20180406T124424Z">
+        <seg>在译文中</seg>
       </tuv>
     </tu>
     <tu>
@@ -746,8 +746,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Keyword search</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T150433Z">
-        <seg>关键词搜索(&amp;K)</seg>
+      <tuv lang="ZH-CN" changeid="flycr" changedate="20180408T094542Z">
+        <seg>关键词搜索</seg>
       </tuv>
     </tu>
     <tu>
@@ -1002,8 +1002,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Regular expressions</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T150437Z">
-        <seg>正则表达式(&amp;R)</seg>
+      <tuv lang="ZH-CN" changeid="flycr" changedate="20180408T094548Z">
+        <seg>正则表达式</seg>
       </tuv>
     </tu>
     <tu>
@@ -1314,8 +1314,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Translated</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="flycr" changedate="20180406T124350Z" creationid="flycr" creationdate="20180406T124350Z">
-        <seg>&amp;已译</seg>
+      <tuv lang="ZH-CN" changeid="flycr" changedate="20180408T094649Z" creationid="flycr" creationdate="20180406T124350Z">
+        <seg>已译</seg>
       </tuv>
     </tu>
     <tu>
@@ -7728,8 +7728,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Aut&amp;hor:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T150606Z">
-        <seg>作者（&amp;h）:</seg>
+      <tuv lang="ZH-CN" changeid="flycr" changedate="20180408T094601Z">
+        <seg>作者:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8377,8 +8377,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>C&amp;ase sensitive</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T150643Z">
-        <seg>区分大小写(&amp;a)</seg>
+      <tuv lang="ZH-CN" changeid="flycr" changedate="20180408T094638Z">
+        <seg>区分大小写</seg>
       </tuv>
     </tu>
     <tu>
@@ -8569,8 +8569,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Changed &amp;before:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T150632Z">
-        <seg>之前修改（&amp;b）:</seg>
+      <tuv lang="ZH-CN" changeid="flycr" changedate="20180408T094634Z">
+        <seg>之前修改:</seg>
       </tuv>
     </tu>
     <tu>
@@ -15949,8 +15949,8 @@ click on that shortcut.</seg>
       <tuv lang="EN">
         <seg>In so&amp;urce</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T150551Z">
-        <seg>在原文中(&amp;u)</seg>
+      <tuv lang="ZH-CN" changeid="flycr" changedate="20180408T094657Z">
+        <seg>在原文中</seg>
       </tuv>
     </tu>
     <tu>
@@ -22500,8 +22500,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Pro&amp;ject</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T150853Z">
-        <seg>项目(&amp;j)</seg>
+      <tuv lang="ZH-CN" changeid="flycr" changedate="20180408T094732Z">
+        <seg>项目</seg>
       </tuv>
     </tu>
     <tu>
@@ -23100,8 +23100,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Recursi&amp;ve search</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T150856Z">
-        <seg>递归搜索（&amp;v)</seg>
+      <tuv lang="ZH-CN" changeid="flycr" changedate="20180408T094735Z">
+        <seg>递归搜索</seg>
       </tuv>
     </tu>
     <tu>
@@ -24950,8 +24950,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Select Fol&amp;der</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T150729Z">
-        <seg>选择文件夹（&amp;d）</seg>
+      <tuv lang="ZH-CN" changeid="flycr" changedate="20180408T094724Z">
+        <seg>选择文件夹</seg>
       </tuv>
     </tu>
     <tu>
@@ -31778,8 +31778,8 @@ Exact searches match the whole search string.</seg>
       <tuv lang="EN">
         <seg>U&amp;ntranslated</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="flycr" changedate="20180406T124406Z" creationid="flycr" creationdate="20180406T124406Z">
-        <seg>&amp;未译</seg>
+      <tuv lang="ZH-CN" changeid="flycr" changedate="20180408T094652Z" creationid="flycr" creationdate="20180406T124406Z">
+        <seg>未译</seg>
       </tuv>
     </tu>
     <tu>
