@@ -12332,6 +12332,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Example - Search and Replace</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T114953Z" creationid="xulihang" creationdate="20180408T114953Z">
+        <seg>示例 - 搜索与替换</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Example:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
@@ -19253,6 +19261,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Modified Segments:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T115035Z" creationid="xulihang" creationdate="20180408T115021Z">
+        <seg>修改过的片段：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Modifying tag group order may result in the nesting of a tag group within another tag group.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120205T115421Z">
@@ -23882,6 +23898,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove tags in the current target</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T114904Z" creationid="xulihang" creationdate="20180408T114904Z">
+        <seg>删除当前译文中的标签</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove text target</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T033944Z" creationid="xulihang" creationdate="20180404T033944Z">
@@ -23958,6 +23982,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T144456Z">
         <seg>重复：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Replace</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T115009Z" creationid="xulihang" creationdate="20180408T115009Z">
+        <seg>替换</seg>
       </tuv>
     </tu>
     <tu>
@@ -24796,6 +24828,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Search</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T115006Z" creationid="xulihang" creationdate="20180408T115006Z">
+        <seg>搜索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Search Project</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
@@ -24808,6 +24848,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
         <seg>在项目中搜索...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search and Replace</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T115013Z" creationid="xulihang" creationdate="20180408T115013Z">
+        <seg>搜索与替换</seg>
       </tuv>
     </tu>
     <tu>
@@ -25804,6 +25852,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Simple search and replace script</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T115004Z" creationid="xulihang" creationdate="20180408T115004Z">
+        <seg>简单的搜索与替换脚本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Simplify the original text</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120205T121219Z">
@@ -26528,6 +26584,22 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120205T130134Z">
         <seg>字符串需要括在引号 " 里面，这样可以在字符串中使用逗号：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Strip Tags</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T114927Z" creationid="xulihang" creationdate="20180408T114852Z">
+        <seg>剥除标签</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Strip tags in current segment</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T114923Z" creationid="xulihang" creationdate="20180408T114923Z">
+        <seg>剥除当前片段中的标签</seg>
       </tuv>
     </tu>
     <tu>
