@@ -24108,8 +24108,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>SVG Image and Adobe Illustrator Export</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="flycr" changedate="20180406T132728Z" creationid="flycr" creationdate="20180406T132728Z">
-        <seg>SVG图片及Adobe Illustrator文件导入</seg>
+      <tuv lang="ZH-CN" changeid="flycr" changedate="20180408T094503Z" creationid="flycr" creationdate="20180406T132728Z">
+        <seg>SVG图片及Adobe Illustrator文件导出</seg>
       </tuv>
     </tu>
     <tu>
