@@ -13897,6 +13897,14 @@ script provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Global spell checking</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T115138Z" creationid="xulihang" creationdate="20180408T115138Z">
+        <seg>全局拼写检查</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Glossaries</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T150711Z">
@@ -14624,6 +14632,14 @@ script provided (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120207T120636Z">
         <seg>IBM 在 &lt;u0&gt;http://www.ibm.com/developerworks/java/jdk/linux/download.htm&lt;/u0&gt; 提供了用于 Linux PowerPC 的 JRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>IGNORED:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T115151Z" creationid="xulihang" creationdate="20180408T115151Z">
+        <seg>忽略：</seg>
       </tuv>
     </tu>
     <tu>
@@ -15886,10 +15902,26 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ignore</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T115218Z" creationid="xulihang" creationdate="20180408T115218Z">
+        <seg>忽略</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ignore All</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T164404Z">
         <seg>全部忽略</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ignore glossary case</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T115237Z" creationid="xulihang" creationdate="20180408T115237Z">
+        <seg>忽略术语大小写</seg>
       </tuv>
     </tu>
     <tu>
@@ -17803,6 +17835,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LEARNED:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T115156Z" creationid="xulihang" creationdate="20180408T115156Z">
+        <seg>学习到：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LaTeX</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130911T115452Z">
@@ -18055,6 +18095,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T105005Z" creationid="cpeishan" creationdate="20180407T105005Z">
         <seg>开发人员主管</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Learn</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T115220Z" creationid="xulihang" creationdate="20180408T115220Z">
+        <seg>学习</seg>
       </tuv>
     </tu>
     <tu>
@@ -23834,6 +23882,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove OmegaT tags which have &lt;br&gt;lower case letter before and after it</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T115548Z" creationid="xulihang" creationdate="20180408T115548Z">
+        <seg>去除被小写字母保卫的标签。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove Script</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T165949Z">
@@ -23874,6 +23930,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove defined fragments</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T115648Z" creationid="xulihang" creationdate="20180408T115648Z">
+        <seg>删除定义的片段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove leading and trailing tags</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T154233Z">
@@ -23886,6 +23950,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T154305Z">
         <seg>在未分段的项目中删除首尾的空白字符。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove mnemonics</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T115621Z" creationid="xulihang" creationdate="20180408T115621Z">
+        <seg>删除mnemonics</seg>
       </tuv>
     </tu>
     <tu>
@@ -24038,6 +24110,22 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131110T022412Z">
         <seg>用源文本替换</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Replace custom tags with space</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T115457Z" creationid="xulihang" creationdate="20180408T115457Z">
+        <seg>使用空行替换自定义标签</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Replace escaped sequences with space</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T115503Z" creationid="xulihang" creationdate="20180408T115441Z">
+        <seg>使用空行替换转义字符</seg>
       </tuv>
     </tu>
     <tu>
@@ -25948,6 +26036,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Skip segments where source=target</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T115703Z" creationid="xulihang" creationdate="20180408T115703Z">
+        <seg>跳过原文译文相同的片段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Skip text matching regular expression:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T154414Z">
@@ -26464,6 +26560,30 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
         <seg>拼写检查...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spellcheck</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T115126Z" creationid="xulihang" creationdate="20180408T115126Z">
+        <seg>拼写检查</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spellcheck - errors found:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T115213Z" creationid="xulihang" creationdate="20180408T115213Z">
+        <seg>拼写检查 - 发现错误：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spellchecker</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T115143Z" creationid="xulihang" creationdate="20180408T115143Z">
+        <seg>拼写检查器</seg>
       </tuv>
     </tu>
     <tu>
@@ -32919,6 +33039,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T165422Z">
         <seg>用作缺省译文</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use glossary</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T115230Z" creationid="xulihang" creationdate="20180408T115230Z">
+        <seg>使用术语表</seg>
       </tuv>
     </tu>
     <tu>
