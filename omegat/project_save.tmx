@@ -6425,6 +6425,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A simple set of QA checks for current OmegaT project</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T112916Z" creationid="xulihang" creationdate="20180408T112916Z">
+        <seg>一套简单的QA检查</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A source sentence might look like:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T024129Z" creationid="Fu Rhong" creationdate="20131117T024129Z">
@@ -8727,6 +8735,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check Rules</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T112924Z" creationid="xulihang" creationdate="20180408T112924Z">
+        <seg>检查规则</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check for possible Tag errors with &lt;k0&gt;Ctrl+T &lt;/k0&gt;and untranslated segments with &lt;k1&gt;Ctrl+U&lt;/k1&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131127T094951Z" creationid="Fu Rhong" creationdate="20131127T094951Z">
@@ -10604,6 +10620,22 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Different punctuation</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T113837Z" creationid="xulihang" creationdate="20180408T113129Z">
+        <seg>不同的标点。。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Different start case</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T113143Z" creationid="xulihang" creationdate="20180408T113143Z">
+        <seg>不同的首字大写。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dis&amp;play all results</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T150724Z">
@@ -11080,6 +11112,22 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120207T112411Z">
         <seg>双击 &lt;e0&gt; &lt;a1&gt;OmegaT&lt;/a1&gt;.app&lt;/e0&gt; 或点击它在 Dock 中的位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Doubled blanks</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T113059Z" creationid="xulihang" creationdate="20180408T113059Z">
+        <seg>双空白</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Doubled words</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T113105Z" creationid="xulihang" creationdate="20180408T113105Z">
+        <seg>双字</seg>
       </tuv>
     </tu>
     <tu>
@@ -11812,6 +11860,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Equal source &amp; target</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T113157Z" creationid="xulihang" creationdate="20180408T113157Z">
+        <seg>原文和译文相同</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T022858Z">
@@ -12000,6 +12056,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T165128Z">
         <seg>错误：{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Errors found:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T112948Z" creationid="xulihang" creationdate="20180408T112948Z">
+        <seg>发现错误：</seg>
       </tuv>
     </tu>
     <tu>
@@ -16304,6 +16368,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Inconsistent numbers</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T113347Z" creationid="xulihang" creationdate="20180408T113347Z">
+        <seg>不一致的数字</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Indicate that this match is fuzzy (currently only for translations from PO files with the #fuzzy mark)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131127T130811Z" creationid="Fu Rhong" creationdate="20131127T130811Z">
@@ -17671,6 +17743,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130509T154246Z">
         <seg>LanguageTool.jar (LGPL License)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTools Rules</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T113004Z" creationid="xulihang" creationdate="20180408T113004Z">
+        <seg>语言工具规则</seg>
       </tuv>
     </tu>
     <tu>
@@ -22399,6 +22479,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please try again after you open a project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T112940Z" creationid="xulihang" creationdate="20180408T112940Z">
+        <seg>请在打开一个项目后重试。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please type or paste the URL of the mediawiki page</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T024759Z">
@@ -23046,6 +23134,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T105443Z" creationid="Fu Rhong" creationdate="20131108T030754Z">
         <seg>巴利语</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>QA - Check Rules</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T112857Z" creationid="xulihang" creationdate="20180408T112857Z">
+        <seg>QA - 检查规则</seg>
       </tuv>
     </tu>
     <tu>
@@ -24106,6 +24202,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Rule</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T112956Z" creationid="xulihang" creationdate="20180408T112956Z">
+        <seg>规则</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Rule priority</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120217T072037Z">
@@ -24888,6 +24992,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131116T033202Z" creationid="Fu Rhong" creationdate="20131116T033202Z">
         <seg>从这个角度看，它们是纯文本&lt;e1&gt;加上&lt;/e1&gt;翻译记忆。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Segment</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T112953Z" creationid="xulihang" creationdate="20180408T112953Z">
+        <seg>片段</seg>
       </tuv>
     </tu>
     <tu>
@@ -26732,6 +26844,30 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tags - number</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T113237Z" creationid="xulihang" creationdate="20180408T113237Z">
+        <seg>标签 - 数字</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tags - order</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T113255Z" creationid="xulihang" creationdate="20180408T113255Z">
+        <seg>标签 - 顺序</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tags - spaces</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T113247Z" creationid="xulihang" creationdate="20180408T113247Z">
+        <seg>标签 - 空行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tags are always either singles or paired.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120203T121348Z">
@@ -26848,6 +26984,22 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130504T150238Z">
         <seg>译文目录 {0} 不存在。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Target longer</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T113219Z" creationid="xulihang" creationdate="20180408T113123Z">
+        <seg>译文更长</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Target shorter</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T113215Z" creationid="xulihang" creationdate="20180408T113115Z">
+        <seg>译文更短</seg>
       </tuv>
     </tu>
     <tu>
@@ -32307,6 +32459,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Untranslated segment</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T113227Z" creationid="xulihang" creationdate="20180408T113227Z">
+        <seg>未翻译片段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Untranslated segments</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T032316Z" creationid="xulihang" creationdate="20180404T032214Z">
@@ -33735,6 +33895,22 @@ trouble of selecting, obtaining and installing it.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130504T152811Z">
         <seg>空白字符</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Whitespace - leading</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T113036Z" creationid="xulihang" creationdate="20180408T113022Z">
+        <seg>左边的空行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Whitespace - trailing</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T113032Z" creationid="xulihang" creationdate="20180408T113032Z">
+        <seg>右边的空行</seg>
       </tuv>
     </tu>
     <tu>
