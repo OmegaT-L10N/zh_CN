@@ -20496,6 +20496,16 @@ translation leveraging into updated projects.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT is available under the terms of the GNU General Public License as
+published by the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T020351Z" creationid="xulihang" creationdate="20180408T020351Z">
+        <seg>该程序是免费软件，遵循 FSF 的 GNU General Public License v3或者更高版本，你可以对它进行编辑或者重新发布。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT is instructed to use a mandatory encoding for certain file formats (Java properties etc)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120201T113102Z">
@@ -20694,6 +20704,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T142440Z" creationid="cpeishan" creationdate="20180407T142440Z">
         <seg>OmegaT 标记器插件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT uses a number of librairies.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T020428Z" creationid="xulihang" creationdate="20180408T020428Z">
+        <seg>OmegaT使用了许多类库。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28163,6 +28181,15 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The license of each library is mentionned
+in /lib/licenses/Licenses.txt.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T020526Z" creationid="xulihang" creationdate="20180408T020526Z">
+        <seg>每个类库的许可证书在以下文本中都有提到：/lib/licenses/Licenses.txt。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The line with the matching percentage also includes the name of the translation memory &lt;i1/&gt; containing the match.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131127T123920Z">
@@ -34126,6 +34153,16 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130505T165022Z">
         <seg>可在文件: {0} 中找到更详细的统计信息</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can find the text of the license in
+/docs/OmegaT-license.txt.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T020416Z" creationid="xulihang" creationdate="20180408T020416Z">
+        <seg>你可以在此找到证书的文本：
+/docs/OmegaT-license.txt.</seg>
       </tuv>
     </tu>
     <tu>
