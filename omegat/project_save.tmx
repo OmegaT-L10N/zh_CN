@@ -258,8 +258,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Allow blank translations in the target files</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T152127Z">
-        <seg>在目标文件中允许空译文(&amp;A)</seg>
+      <tuv lang="ZH-CN" changeid="flycr" changedate="20180408T095957Z">
+        <seg>在目标文件中允许空译文</seg>
       </tuv>
     </tu>
     <tu>
@@ -1210,8 +1210,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Skip PO header</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T152154Z">
-        <seg>跳过(&amp;S) PO 文件头部</seg>
+      <tuv lang="ZH-CN" changeid="flycr" changedate="20180408T100010Z">
+        <seg>跳过 PO 文件头部</seg>
       </tuv>
     </tu>
     <tu>
@@ -7091,8 +7091,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>Allow translating &amp;blank source segments</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="flycr" changedate="20180406T131531Z" creationid="flycr" creationdate="20180406T131531Z">
-        <seg>允许翻译 &amp;空白源片段</seg>
+      <tuv lang="ZH-CN" changeid="flycr" changedate="20180408T100005Z" creationid="flycr" creationdate="20180406T131531Z">
+        <seg>允许翻译空白源片段</seg>
       </tuv>
     </tu>
     <tu>
@@ -11572,8 +11572,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Enabled</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T151837Z">
-        <seg>激活</seg>
+      <tuv lang="ZH-CN" changeid="flycr" changedate="20180408T095931Z">
+        <seg>已启用</seg>
       </tuv>
     </tu>
     <tu>
@@ -27345,8 +27345,8 @@ current folder will be used instead.</seg>
       <tuv lang="EN">
         <seg>The PO filter threw an exception:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T152256Z">
-        <seg>PO 过滤器抛出错误：</seg>
+      <tuv lang="ZH-CN" changeid="flycr" changedate="20180408T100025Z">
+        <seg>PO 过滤器抛出异常：</seg>
       </tuv>
     </tu>
     <tu>
@@ -31898,8 +31898,8 @@ Exact searches match the whole search string.</seg>
       <tuv lang="EN">
         <seg>Unable to save filters configuration file</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T151829Z">
-        <seg>无法解析过滤器配置文件</seg>
+      <tuv lang="ZH-CN" changeid="flycr" changedate="20180408T095916Z">
+        <seg>无法保存过滤器配置文件</seg>
       </tuv>
     </tu>
     <tu>
@@ -32245,8 +32245,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>Upgrading...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T151600Z">
-        <seg>更新……</seg>
+      <tuv lang="ZH-CN" changeid="flycr" changedate="20180408T095755Z">
+        <seg>更在更新中……</seg>
       </tuv>
     </tu>
     <tu>
