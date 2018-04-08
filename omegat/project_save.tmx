@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.1.4" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -76,6 +76,14 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131116T032719Z" creationid="Fu Rhong" creationdate="20131116T032719Z">
         <seg>#!/bin/bash java
 java -jar OmegaT.jar $*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>#Files</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="christy" changedate="20180407T161303Z" creationid="christy" creationdate="20180407T161303Z">
+        <seg>#文件</seg>
       </tuv>
     </tu>
     <tu>
@@ -284,6 +292,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130505T162904Z">
         <seg>退出前总是进行确认(&amp;A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Apply this font to tabular data (project files, statistics, etc.)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="christy" changedate="20180407T155938Z" creationid="christy" creationdate="20180407T155938Z">
+        <seg>&amp;将该字体应用到列表数据 (项目文件, 统计数字等.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -6641,6 +6657,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="christy" changedate="20180407T162621Z" creationid="christy" creationdate="20180407T162621Z">
+        <seg>添加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add Pattern</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T154315Z">
@@ -8367,6 +8391,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>C&amp;opy All Data to Clipboard</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="christy" changedate="20180407T161330Z" creationid="christy" creationdate="20180407T161330Z">
+        <seg>复制所有数据至剪贴板</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>C&amp;urrent Target Document</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180407T134212Z" creationid="lenovo" creationdate="20180407T134212Z">
@@ -8808,6 +8840,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose MED project</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="christy" changedate="20180407T162441Z" creationid="christy" creationdate="20180407T162441Z">
+        <seg>选择 MED 项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choose&lt;g0&gt; SVN.&lt;/g0&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131111T110741Z" creationid="Fu Rhong" creationdate="20131111T110741Z">
@@ -8956,6 +8996,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="weiyi" changedate="20180405T152357Z" creationid="weiyi" creationdate="20180405T152357Z">
         <seg>点击可以=保存当前项目、关闭它或打开其他项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Clo&amp;se</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="christy" changedate="20180407T160150Z" creationid="christy" creationdate="20180407T160150Z">
+        <seg>关闭</seg>
       </tuv>
     </tu>
     <tu>
@@ -10010,6 +10058,22 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Cursor lock off</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="christy" changedate="20180407T154937Z" creationid="christy" creationdate="20180407T154937Z">
+        <seg>鼠标解锁</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cursor lock on</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="christy" changedate="20180407T154911Z" creationid="christy" creationdate="20180407T154911Z">
+        <seg>鼠标锁定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Custom Colours</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T031310Z" creationid="xulihang" creationdate="20180404T031310Z">
@@ -11002,6 +11066,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Downloading project...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="christy" changedate="20180407T160703Z" creationid="christy" creationdate="20180407T160703Z">
+        <seg>下载项目中...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Downloading the package</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120206T091103Z">
@@ -11054,6 +11126,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130504T152713Z">
         <seg>复制</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Duplicate segments: {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="christy" changedate="20180407T154554Z" creationid="christy" creationdate="20180407T154554Z">
+        <seg>复制片段: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -11118,6 +11198,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T144506Z">
         <seg>激活句子级别的分段（E&amp;）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>E&amp;xclusions...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="christy" changedate="20180407T161738Z" creationid="christy" creationdate="20180407T161738Z">
+        <seg>排除...</seg>
       </tuv>
     </tu>
     <tu>
@@ -11346,6 +11434,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Empty repository URL in the mapping</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="christy" changedate="20180407T163347Z" creationid="christy" creationdate="20180407T163347Z">
+        <seg>映射中的空仓库地址</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enable &amp;TransTips</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Puzzlist" changedate="20130922T035943Z">
@@ -11366,6 +11462,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T145845Z">
         <seg>在 &lt;b&gt;选项 &gt; 保存和输出……&lt;/b&gt; 中可激活该功能。&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enable them in &lt;b&gt;Preferences &gt; Saving and Output...&lt;/b&gt;.&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="christy" changedate="20180407T161453Z" creationid="christy" creationdate="20180407T161453Z">
+        <seg>在 &lt;b&gt;偏好设置 &gt; 保存并输出...&lt;/b&gt;激活该功能。&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11946,6 +12050,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Exclude Pattern</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="christy" changedate="20180407T162909Z" creationid="christy" creationdate="20180407T162909Z">
+        <seg>排除模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Exclude orphan segments</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="flycr" changedate="20180406T130755Z" creationid="flycr" creationdate="20180406T130755Z">
@@ -12070,6 +12182,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T145611Z">
         <seg>外部后置处理命令：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>External Search...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="christy" changedate="20180407T162033Z" creationid="christy" creationdate="20180407T162033Z">
+        <seg>外部搜索...</seg>
       </tuv>
     </tu>
     <tu>
@@ -12467,6 +12587,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>File: unique translated % (unique left) / project: unique translated % (unique left), total number of segments</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="christy" changedate="20180407T155303Z" creationid="christy" creationdate="20180407T155303Z">
+        <seg>文件: 唯一片段已译 % (剩余) / 项目: 唯一片段已译 % (剩余), total number of segments</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Filename</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T055255Z">
@@ -12527,6 +12655,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120201T040850Z">
         <seg>过滤器选项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Filter:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="christy" changedate="20180407T160142Z" creationid="christy" creationdate="20180407T160142Z">
+        <seg>过滤器:</seg>
       </tuv>
     </tu>
     <tu>
@@ -12623,6 +12759,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T150413Z">
         <seg>目录已经存在而且不是空的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Folder {0} was automatically created for team mode project</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="christy" changedate="20180407T161045Z" creationid="christy" creationdate="20180407T160953Z">
+        <seg> 在团队项目中{0} 文件夹会自动创建</seg>
       </tuv>
     </tu>
     <tu>
@@ -15920,6 +16064,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Include Pattern</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="christy" changedate="20180407T162956Z" creationid="christy" creationdate="20180407T162956Z">
+        <seg>包含模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Include the first non-&amp;unique segment when marking non-unique segments</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T160551Z">
@@ -16340,6 +16492,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T152302Z">
         <seg>无效文件格式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Invalid repository type: {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="christy" changedate="20180407T163025Z" creationid="christy" creationdate="20180407T163025Z">
+        <seg>无效仓库类型: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -16894,6 +17054,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120202T065052Z">
         <seg>不是一定要加入这个讨论组，但加入后可为您提供一些额外的服务，例如可访问某些文件和参与投票以及参加 OmegaT 相关的讨论。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Jumping to last edited segment...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="christy" changedate="20180407T155440Z" creationid="christy" creationdate="20180407T155440Z">
+        <seg>跳转到最后编辑片段...</seg>
       </tuv>
     </tu>
     <tu>
@@ -17570,6 +17738,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Local File/Folder</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="christy" changedate="20180407T162823Z" creationid="christy" creationdate="20180407T162823Z">
+        <seg>本地文件/文件夹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Local Folder:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130504T151401Z">
@@ -17982,6 +18158,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131108T030157Z" creationid="Fu Rhong" creationdate="20131108T030157Z">
         <seg>马恩岛语</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mapping of Local Folders to Remote Folders in Repositories</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="christy" changedate="20180407T162759Z" creationid="christy" creationdate="20180407T162759Z">
+        <seg>本地文件夹到仓库远程文件夹的映射</seg>
       </tuv>
     </tu>
     <tu>
@@ -18546,6 +18730,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>More</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="christy" changedate="20180407T154620Z" creationid="christy" creationdate="20180407T154620Z">
+        <seg>更多</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>More can be found in the &lt;u0&gt;Painless Bug Tracking&lt;/u0&gt; article by Joel Spolsky.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120130T072857Z">
@@ -18606,6 +18798,30 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130509T153530Z">
         <seg>Mourning and sorrow&lt;p&gt;404 not with us now&lt;p&gt;Lost to paradise</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move &amp;Down</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="christy" changedate="20180407T160110Z" creationid="christy" creationdate="20180407T160110Z">
+        <seg>下移</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move &amp;First</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="christy" changedate="20180407T160038Z" creationid="christy" creationdate="20180407T160038Z">
+        <seg>移动 &amp; 首个片段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move &amp;Last</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="christy" changedate="20180407T160133Z" creationid="christy" creationdate="20180407T160133Z">
+        <seg>移到最后一个片段</seg>
       </tuv>
     </tu>
     <tu>
@@ -20806,6 +21022,38 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open Source File</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="christy" changedate="20180407T160200Z" creationid="christy" creationdate="20180407T160200Z">
+        <seg>打开源文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open Source File Location</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="christy" changedate="20180407T160235Z" creationid="christy" creationdate="20180407T160235Z">
+        <seg>打开源文件位置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open Target File</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="christy" changedate="20180407T160300Z" creationid="christy" creationdate="20180407T160300Z">
+        <seg>打开目标文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open Target File Location</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="christy" changedate="20180407T160324Z" creationid="christy" creationdate="20180407T160324Z">
+        <seg>打开目标文件位置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open XML Filter Options</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T153108Z">
@@ -20842,6 +21090,38 @@ your home folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131111T122112Z" creationid="Fu Rhong" creationdate="20131111T110840Z">
         <seg>在您的账户中打开&lt;e0&gt;Projects&lt;/e0&gt;视图。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open {0} Source Files</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="christy" changedate="20180407T160217Z" creationid="christy" creationdate="20180407T160217Z">
+        <seg>打开 {0}源文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open {0} Source Files' Locations</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="christy" changedate="20180407T160252Z" creationid="christy" creationdate="20180407T160252Z">
+        <seg>打开{0} 源文件位置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open {0} Target Files</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="christy" changedate="20180407T160312Z" creationid="christy" creationdate="20180407T160312Z">
+        <seg>打开 {0} 目标文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open {0} Target Files' Locations</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="christy" changedate="20180407T160342Z" creationid="christy" creationdate="20180407T160342Z">
+        <seg>打开 {0}目标文件位置</seg>
       </tuv>
     </tu>
     <tu>
@@ -21677,6 +21957,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please select the language of your source files and the target language you would like to translate to.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="christy" changedate="20180407T162411Z" creationid="christy" creationdate="20180407T162245Z">
+        <seg>选择源文件语种并为设置目标语种</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please select what text you would like to be inserted into the segment that is not translated yet, when you move to it.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T155813Z">
@@ -22002,6 +22290,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T055252Z">
         <seg>项目文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project Files ({0} of {1})</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="christy" changedate="20180407T155952Z" creationid="christy" creationdate="20180407T155952Z">
+        <seg>项目文件({0} {1})</seg>
       </tuv>
     </tu>
     <tu>
@@ -22806,6 +23102,30 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remote File/Folder</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="christy" changedate="20180407T162852Z" creationid="christy" creationdate="20180407T162852Z">
+        <seg>远程文件/文件夹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remote Repositories</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="christy" changedate="20180407T162638Z" creationid="christy" creationdate="20180407T162638Z">
+        <seg>远程仓库</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="christy" changedate="20180407T162629Z" creationid="christy" creationdate="20180407T162629Z">
+        <seg>移除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove HTML comments in translated document</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T154706Z">
@@ -23102,6 +23422,30 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Repository</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="christy" changedate="20180407T162808Z" creationid="christy" creationdate="20180407T162808Z">
+        <seg>仓库</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Repository Mapping</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="christy" changedate="20180407T162613Z" creationid="christy" creationdate="20180407T162613Z">
+        <seg>仓库映射</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Repository Mapping...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="christy" changedate="20180407T162013Z" creationid="christy" creationdate="20180407T162013Z">
+        <seg>仓库映射...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Repository Type:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130504T151342Z">
@@ -23114,6 +23458,22 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130504T151351Z">
         <seg>仓库地址 URL:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Repository {0} is already present</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="christy" changedate="20180407T163042Z" creationid="christy" creationdate="20180407T163042Z">
+        <seg>仓库{0} 已存在</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Repository {0} unknown</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="christy" changedate="20180407T163059Z" creationid="christy" creationdate="20180407T163059Z">
+        <seg>未知 {0}仓库</seg>
       </tuv>
     </tu>
     <tu>
@@ -24144,6 +24504,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Segment {0,number,#}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="christy" changedate="20180407T154612Z" creationid="christy" creationdate="20180407T154612Z">
+        <seg>片段 {0,序号,#}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Segmentation</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120211T055523Z">
@@ -24780,6 +25148,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T112306Z" creationid="Fu Rhong" creationdate="20131108T100954Z">
         <seg>锡兰语</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Size</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="christy" changedate="20180407T155453Z" creationid="christy" creationdate="20180407T155453Z">
+        <seg>字体大小</seg>
       </tuv>
     </tu>
     <tu>
@@ -30634,6 +31010,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Translated document created</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="christy" changedate="20180407T161255Z" creationid="christy" creationdate="20180407T161255Z">
+        <seg>译文文档已创建</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translated documents created</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130505T170658Z">
@@ -30908,6 +31292,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Type</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="christy" changedate="20180407T162650Z" creationid="christy" creationdate="20180407T162650Z">
+        <seg>类型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Type &lt;e2&gt;kmenuedit+enter&lt;/e2&gt; to run the command.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120206T121708Z">
@@ -30994,6 +31386,22 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T060403Z">
         <seg>无法创建新的TMX文件！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unable to convert project!</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="christy" changedate="20180407T162529Z" creationid="christy" creationdate="20180407T162529Z">
+        <seg>无法转换项目!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unable to download team project!</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="christy" changedate="20180407T162602Z" creationid="christy" creationdate="20180407T162602Z">
+        <seg>无法下载项目文件!</seg>
       </tuv>
     </tu>
     <tu>
@@ -31210,6 +31618,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120203T120555Z">
         <seg>唯一的编号允许我们将彼此相对应的标签组织在一起，不同的标签允许有相同的快捷字符，但实际上并不一样。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unique segments</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="christy" changedate="20180407T160002Z" creationid="christy" creationdate="20180407T160002Z">
+        <seg>唯一片段</seg>
       </tuv>
     </tu>
     <tu>
@@ -33751,6 +34167,14 @@ them.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You should specify their new location or recreate them.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="christy" changedate="20180407T162253Z" creationid="christy" creationdate="20180407T162149Z">
+        <seg>为文件夹指定新位置或重新创建</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You specify the TMX file to be created with</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120208T064704Z">
@@ -33836,6 +34260,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131116T131838Z" creationid="Fu Rhong" creationdate="20131116T131838Z">
         <seg>您需要把它注册到&lt;u0&gt;Windows Azure Marketplace&lt;/u0&gt;并使用Translator服务。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ZIP files</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="christy" changedate="20180407T162452Z" creationid="christy" creationdate="20180407T162452Z">
+        <seg>压缩文件</seg>
       </tuv>
     </tu>
     <tu>
@@ -39445,6 +39877,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131109T023357Z" creationid="Fu Rhong" creationdate="20131109T023357Z">
         <seg>{</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0} ({1} left) / {2} ({3} left), {4}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="christy" changedate="20180407T155344Z" creationid="christy" creationdate="20180407T154959Z">
+        <seg>{0} ({1} 剩余) / {2} ({3} 剩余), {4}</seg>
       </tuv>
     </tu>
     <tu>
