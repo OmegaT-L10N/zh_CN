@@ -7293,9 +7293,9 @@ The current setting is {0}MB;</seg>
 {0}
 The TMX file will not be loaded.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T151545Z">
-        <seg>分析TMX文件时发生例外：{0}
-将不会载入 TMX 文件。</seg>
+      <tuv lang="ZH-CN" changeid="flycr" changedate="20180408T095437Z">
+        <seg>分析TMX文件时发生异常：{0}
+此TMX 文件不会被载入。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11620,8 +11620,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>End of stream encountered without finding close block!</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T151430Z">
-        <seg>在找到关闭块之前遇到了流结束！</seg>
+      <tuv lang="ZH-CN" changeid="flycr" changedate="20180408T095216Z">
+        <seg>文件流在未进行到关闭代码块时意外结束！</seg>
       </tuv>
     </tu>
     <tu>
@@ -12132,8 +12132,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Exception while parsing:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T151543Z">
-        <seg>分析时遇到例外：{0}</seg>
+      <tuv lang="ZH-CN" changeid="flycr" changedate="20180408T095418Z">
+        <seg>结构化处理时遇到异常：{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -21906,8 +21906,8 @@ installed on your system.</seg>
       <tuv lang="EN">
         <seg>Parse error encountered reading preferences file!</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T151437Z">
-        <seg>读取参数文件时解析错误！</seg>
+      <tuv lang="ZH-CN" changeid="flycr" changedate="20180408T095308Z">
+        <seg>读取首选项文件时解析错误！</seg>
       </tuv>
     </tu>
     <tu>
@@ -22345,8 +22345,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Preferences system save operation failed!</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T151436Z">
-        <seg>参数系统保存操作失败！</seg>
+      <tuv lang="ZH-CN" changeid="flycr" changedate="20180408T095314Z">
+        <seg>首选项系统保存失败！</seg>
       </tuv>
     </tu>
     <tu>
@@ -32165,8 +32165,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>Unsupported project file version ({0})!</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T151440Z">
-        <seg>不支持的文件版本({0})!</seg>
+      <tuv lang="ZH-CN" changeid="flycr" changedate="20180408T095339Z">
+        <seg>不支持的项目文件版本({0})!</seg>
       </tuv>
     </tu>
     <tu>
