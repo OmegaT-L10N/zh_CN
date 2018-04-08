@@ -30376,6 +30376,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There are no local working copies in {0}.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T121547Z" creationid="xulihang" creationdate="20180408T121547Z">
+        <seg>在{0}中没有本地工作拷贝。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There are no terms in the current segment which match any terms in the glossary.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021248Z">
@@ -41168,6 +41176,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>{0} is not a local working copy, skipping.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T121550Z" creationid="xulihang" creationdate="20180408T121502Z">
+        <seg>{0}不是一个本地工作拷贝，跳过</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>{0} loaded.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T165714Z">
@@ -41188,6 +41204,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T024756Z" creationid="xulihang" creationdate="20180404T024756Z">
         <seg>{0}/{1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0}:	cleanup done!!</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T121432Z" creationid="xulihang" creationdate="20180408T121432Z">
+        <seg>{0}:	清理完成!!</seg>
       </tuv>
     </tu>
     <tu>
