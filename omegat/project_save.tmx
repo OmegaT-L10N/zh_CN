@@ -20041,8 +20041,8 @@ appropriate location such as the Applications folder.</seg>
       <tuv lang="EN">
         <seg>Note: DocBook files are recognized not only by file extension, but they also must have a DOCTYPE declaration: &lt;!DOCTYPE book PUBLIC \"-//OASIS//DTD DocBook XML... for DocBook 4, or a Namespace: xmlns="http://docbook.org/ns/docbook" for DocBook 5</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T152739Z">
-        <seg>注意：DocBook 文件不仅仅根据文件扩展名判断，同时也根据 DOCTYPE 声明： &lt;!DOCTYPE book PUBLIC \"-//OASIS//DTD DocBook XML…… （对于 DocBook 4），或者是 Namespace: xmlns="http://docbook.org/ns/docbook" （对于 DocBook 5）</seg>
+      <tuv lang="ZH-CN" changeid="flycr" changedate="20180408T100523Z">
+        <seg>注意：DocBook 文件不仅仅根据文件扩展名判断。这些文件必须同时包括 DOCTYPE 声明： &lt;!DOCTYPE book PUBLIC \"-//OASIS//DTD DocBook XML…… （对于 DocBook 4），或者是 Namespace: xmlns="http://docbook.org/ns/docbook" （对于 DocBook 5）</seg>
       </tuv>
     </tu>
     <tu>
