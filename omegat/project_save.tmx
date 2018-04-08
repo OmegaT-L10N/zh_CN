@@ -16472,6 +16472,46 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Installing OmegaT (Linux)
+=========================</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T020959Z" creationid="xulihang" creationdate="20180408T020959Z">
+        <seg>在Linux上安装OmegaT
+=========================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Installing OmegaT (Mac)
+=======================</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T020835Z" creationid="xulihang" creationdate="20180408T020835Z">
+        <seg>在Mac上安装
+=======================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Installing OmegaT (Solaris, FreeBSD, ...)
+=========================================</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T021149Z" creationid="xulihang" creationdate="20180408T021149Z">
+        <seg>在Solaris, FreeBSD等系统安装
+=========================================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Installing OmegaT (Windows)
+===========================</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T020817Z" creationid="xulihang" creationdate="20180408T020817Z">
+        <seg>在Windows上安装
+===========================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Installing and running &lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120206T091048Z">
@@ -17606,6 +17646,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
         <seg>启动命令参数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Launch the installation program.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T020826Z" creationid="xulihang" creationdate="20180408T020826Z">
+        <seg>启动安装程序。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18976,6 +19024,15 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T155809Z">
         <seg>上移(&amp;p)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move the folder to an
+appropriate location such as the Applications folder.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T020949Z" creationid="xulihang" creationdate="20180408T020949Z">
+        <seg>将该文件夹移动到合适的地方，比如应用程序文件夹。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20556,6 +20613,15 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT is then ready
+to be launched.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T021047Z" creationid="xulihang" creationdate="20180408T021047Z">
+        <seg>你有可以运行OmegaT了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT leaves the editing field blank.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131112T115844Z">
@@ -21937,6 +22003,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120203T124011Z">
         <seg>PgUp:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Place the archive in any suitable folder and unpack it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T021035Z" creationid="xulihang" creationdate="20180408T021035Z">
+        <seg>将压缩包放在任何合适的文件夹解压</seg>
       </tuv>
     </tu>
     <tu>
@@ -31036,6 +31110,17 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To use this script, open a
+terminal window (console), change folder to the folder containing OmegaT.jar
+and the linux-install.sh script, and execute the script with ./linux-
+install.sh.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T021136Z" creationid="xulihang" creationdate="20180408T021136Z">
+        <seg>要使用此脚本，请打开终端窗口（控制台），进入包含OmegaT.jar和linux-install.sh的目录并执行./linux-install.sh。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tokenizers (or stemmers) improve the quality of matches by recognizing inflected words in source and translation memory data.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120220T032707Z">
@@ -31956,6 +32041,15 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T004251Z" creationid="Fu Rhong" creationdate="20131117T004251Z">
         <seg>解压&lt;e1&gt;OmegaT_3.n.n_Source.zip&lt;/e1&gt;文件并进入OmegaT_3.n.n_Source文件夹或SVN检出代码的&lt;e2&gt;./omegat/&lt;/e2&gt;文件夹。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unpack the OmegaT .zip archive to obtain a folder that contains a
+documentation file and the OmegaT application.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T020921Z" creationid="xulihang" creationdate="20180408T020921Z">
+        <seg>解压OmegaT.zip文件，获得一个包含OmegaT程序及其文档文件的文件夹。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34223,6 +34317,15 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120131T132407Z">
         <seg>可以将源文本自动插入编辑区域中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can however obtain a neater and more user-friendly installation by using
+the installation script (linux-install.sh).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T021117Z" creationid="xulihang" creationdate="20180408T021117Z">
+        <seg>不过您可以使用安装脚本（linux-install.sh）进行更整洁和友好的安装。</seg>
       </tuv>
     </tu>
     <tu>
