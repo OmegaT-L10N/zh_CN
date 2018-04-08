@@ -18373,6 +18373,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Local working copies cleaned up: {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T121742Z" creationid="xulihang" creationdate="20180408T121628Z">
+        <seg>本地工作副本已清理完成{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Localization manager, user group owner</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T105217Z" creationid="cpeishan" creationdate="20180407T105217Z">
@@ -26244,6 +26252,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sorry</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T121713Z" creationid="xulihang" creationdate="20180408T121713Z">
+        <seg>抱歉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sort &amp;alphabetically</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T022609Z" creationid="xulihang" creationdate="20180404T022609Z">
@@ -29662,6 +29678,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The script will quit now.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T121611Z" creationid="xulihang" creationdate="20180408T121611Z">
+        <seg>这个脚本将会退出。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The search string - [a-zA-Z]+[öäüqwß] - in the example above for instance looks for words in the target segment, containing questionable characters from German keyboard.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131120T090437Z" creationid="Fu Rhong" creationdate="20131120T090437Z">
@@ -30378,8 +30402,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>There are no local working copies in {0}.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T121547Z" creationid="xulihang" creationdate="20180408T121547Z">
-        <seg>在{0}中没有本地工作拷贝。</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T121738Z" creationid="xulihang" creationdate="20180408T121547Z">
+        <seg>在{0}中没有本地工作副本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31229,6 +31253,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130911T115839Z">
         <seg>本项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This script is intended to run in OmegaT 3.6 and newer.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T121708Z" creationid="xulihang" creationdate="20180408T121708Z">
+        <seg>这个脚本需要OmegaT 3.6或更新的版本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34832,6 +34864,14 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="flycr" changedate="20180406T124559Z" creationid="flycr" creationdate="20180406T124559Z">
         <seg>您即将修改 {0} 片段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You are running OmegaT version {0}.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T121645Z" creationid="xulihang" creationdate="20180408T121645Z">
+        <seg>你在运行OmegaT版本{0}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41178,8 +41218,8 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>{0} is not a local working copy, skipping.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T121550Z" creationid="xulihang" creationdate="20180408T121502Z">
-        <seg>{0}不是一个本地工作拷贝，跳过</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T121734Z" creationid="xulihang" creationdate="20180408T121502Z">
+        <seg>{0}不是一个本地工作副本，跳过</seg>
       </tuv>
     </tu>
     <tu>
