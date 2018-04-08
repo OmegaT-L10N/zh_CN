@@ -218,8 +218,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;About...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T052856Z">
-        <seg>关于(&amp;A)……</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
+        <seg>关于(&amp;A)...</seg>
       </tuv>
     </tu>
     <tu>
@@ -242,8 +242,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Add...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T022723Z">
-        <seg>新增(&amp;A)……</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
+        <seg>新增(&amp;A)...</seg>
       </tuv>
     </tu>
     <tu>
@@ -322,8 +322,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Automatically check the spelling of text</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T164419Z">
-        <seg>自动检查文件拼写（&amp;A）</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105534Z">
+        <seg>自动检查文件拼写(&amp;A)</seg>
       </tuv>
     </tu>
     <tu>
@@ -338,8 +338,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Back in History</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T031055Z">
-        <seg>在编辑历史中回退(&amp;B)……</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
+        <seg>在编辑历史中回退(&amp;B)...</seg>
       </tuv>
     </tu>
     <tu>
@@ -402,8 +402,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Comments</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T152850Z">
-        <seg>评论（&amp;n)</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105424Z">
+        <seg>评论(&amp;n)</seg>
       </tuv>
     </tu>
     <tu>
@@ -426,8 +426,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Cycle</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T164608Z">
-        <seg>循环（&amp;C）</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105537Z">
+        <seg>循环(&amp;C)</seg>
       </tuv>
     </tu>
     <tu>
@@ -458,8 +458,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Do not check printf-variables</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T161029Z">
-        <seg>不检查 printf 变量（&amp;D）</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105524Z">
+        <seg>不检查 printf 变量(&amp;D)</seg>
       </tuv>
     </tu>
     <tu>
@@ -490,8 +490,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Edit...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T022724Z">
-        <seg>编辑……(&amp;E)</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
+        <seg>编辑...(&amp;E)</seg>
       </tuv>
     </tu>
     <tu>
@@ -562,8 +562,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Endnotes</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T153147Z">
-        <seg>尾注（&amp;E）</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105508Z">
+        <seg>尾注(&amp;E)</seg>
       </tuv>
     </tu>
     <tu>
@@ -634,16 +634,16 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Footnotes</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T153145Z">
-        <seg>脚注（&amp;F）</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105508Z">
+        <seg>脚注(&amp;F)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&amp;Forward in History</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T031044Z">
-        <seg>在编辑历史中前进(&amp;F)……</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
+        <seg>在编辑历史中前进(&amp;F)...</seg>
       </tuv>
     </tu>
     <tu>
@@ -738,8 +738,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Install new dictionary...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T164441Z">
-        <seg>安装新字典(&amp;I)……</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
+        <seg>安装新字典(&amp;I)...</seg>
       </tuv>
     </tu>
     <tu>
@@ -754,8 +754,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Last Changes...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T052920Z">
-        <seg>最近更新(&amp;L)……</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
+        <seg>最近更新(&amp;L)...</seg>
       </tuv>
     </tu>
     <tu>
@@ -794,16 +794,16 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Lower Case</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T164605Z">
-        <seg>小写（&amp;L）</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105536Z">
+        <seg>小写(&amp;L)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&amp;Make the file filter settings project specific</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T154044Z">
-        <seg>使文件过滤器只对特定项目有效（&amp;M)</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105424Z">
+        <seg>使文件过滤器只对特定项目有效(&amp;M)</seg>
       </tuv>
     </tu>
     <tu>
@@ -834,8 +834,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Modification Info</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T164610Z">
-        <seg>修改信息（&amp;M）</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105538Z">
+        <seg>修改信息(&amp;M)</seg>
       </tuv>
     </tu>
     <tu>
@@ -866,8 +866,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;New...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T023442Z">
-        <seg>新建(&amp;N)……</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
+        <seg>新建(&amp;N)...</seg>
       </tuv>
     </tu>
     <tu>
@@ -898,16 +898,16 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Open Script...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T165548Z">
-        <seg>打开脚本(&amp;O)……</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
+        <seg>打开脚本(&amp;O)...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&amp;Open...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T024613Z">
-        <seg>打开(&amp;O)……</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
+        <seg>打开(&amp;O)...</seg>
       </tuv>
     </tu>
     <tu>
@@ -938,8 +938,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Presentation notes</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T152850Z">
-        <seg>演示注释（&amp;P)</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105424Z">
+        <seg>演示注释(&amp;P)</seg>
       </tuv>
     </tu>
     <tu>
@@ -970,8 +970,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Properties...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T024926Z">
-        <seg>属性(&amp;P)……</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
+        <seg>属性(&amp;P)...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1122,8 +1122,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Search Project...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T024943Z">
-        <seg>在项目中搜索(&amp;S)……</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
+        <seg>在项目中搜索(&amp;S)...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1138,16 +1138,16 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Segment Number...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T031034Z">
-        <seg>片段序号(&amp;S)……</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
+        <seg>片段序号(&amp;S)...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&amp;Segmentation...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130505T162750Z">
-        <seg>片段分隔(&amp;S)……</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
+        <seg>片段分隔(&amp;S)...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1258,8 +1258,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Statistics</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130505T162529Z">
-        <seg>统计数据（&amp;S）</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105443Z">
+        <seg>统计数据(&amp;S)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1298,8 +1298,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Title Case</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T164607Z">
-        <seg>首字大写（&amp;T）</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105537Z">
+        <seg>首字大写(&amp;T)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1338,16 +1338,16 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Upper Case</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T164606Z">
-        <seg>大写（&amp;U）</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105536Z">
+        <seg>大写(&amp;U)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&amp;User's Manual...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T052846Z">
-        <seg>用户手册(&amp;U)……</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
+        <seg>用户手册(&amp;U)...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1362,8 +1362,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;View</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T164608Z">
-        <seg>查看（&amp;V)</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105424Z">
+        <seg>查看(&amp;V)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2085,24 +2085,24 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>... matches the following</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120214T033410Z">
-        <seg>……匹配下列内容：</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
+        <seg>...匹配下列内容：</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>...but the same characters are displayed properly in the Editing pane: the extension and the file encoding do not match.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120206T091036Z">
-        <seg>……但在编辑窗格中能正确显示这些字符：扩展名与文件编码方式不匹配。</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
+        <seg>...但在编辑窗格中能正确显示这些字符：扩展名与文件编码方式不匹配。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>...matches the following</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120214T033838Z">
-        <seg>……匹配下列内容</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
+        <seg>...匹配下列内容</seg>
       </tuv>
     </tu>
     <tu>
@@ -2945,8 +2945,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Do not translate the content attribute of meta-tags ... :&lt;/e0&gt; The following meta-tags will not be translated.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131113T122901Z" creationid="Fu Rhong" creationdate="20131113T122547Z">
-        <seg>&lt;e0&gt;不翻译元标签……的内容属性：&lt;/e0&gt;下列元标签将不进行翻译。</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z" creationid="Fu Rhong" creationdate="20131113T122547Z">
+        <seg>&lt;e0&gt;不翻译元标签...的内容属性：&lt;/e0&gt;下列元标签将不进行翻译。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4635,8 +4635,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Menu Help&lt;/p0&gt; &lt;s1&gt;User Manual...&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120219T150151Z">
-        <seg>&lt;p0&gt;帮助菜单&lt;/p0&gt; &lt;s1&gt;用户手册……&lt;/s1&gt;</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
+        <seg>&lt;p0&gt;帮助菜单&lt;/p0&gt; &lt;s1&gt;用户手册...&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4691,8 +4691,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Menu Options&lt;/p0&gt; &lt;s1&gt;Font...&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120202T133345Z">
-        <seg>&lt;p0&gt;菜单选项&lt;/p0&gt; &lt;s1&gt;字体……&lt;/s1&gt;</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
+        <seg>&lt;p0&gt;菜单选项&lt;/p0&gt; &lt;s1&gt;字体...&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4707,8 +4707,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Menu Project&lt;/p0&gt; &lt;s1&gt;New...&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120208T115104Z">
-        <seg>&lt;p0&gt;项目菜单&lt;/p0&gt; &lt;s1&gt;新建……&lt;/s1&gt;</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
+        <seg>&lt;p0&gt;项目菜单&lt;/p0&gt; &lt;s1&gt;新建...&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4771,8 +4771,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Menu&lt;/p0&gt; &lt;s1&gt;Options&lt;/s1&gt; &lt;t2&gt;Editing behavior...&lt;/t2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131112T115508Z" creationid="Fu Rhong" creationdate="20131112T115508Z">
-        <seg>&lt;p0&gt;菜单&lt;/p0&gt; &lt;s1&gt;选项&lt;/s1&gt; &lt;t2&gt;编辑行为……&lt;/t2&gt;</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z" creationid="Fu Rhong" creationdate="20131112T115508Z">
+        <seg>&lt;p0&gt;菜单&lt;/p0&gt; &lt;s1&gt;选项&lt;/s1&gt; &lt;t2&gt;编辑行为...&lt;/t2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5923,8 +5923,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Translation memories&lt;/p0&gt; &lt;s1&gt;Sharing&lt;/s1&gt; &lt;s2&gt;Project,Download Team Project...&lt;/s2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131127T095428Z" creationid="Fu Rhong" creationdate="20131127T095428Z">
-        <seg>&lt;p0&gt;翻译记忆&lt;/p0&gt; &lt;s1&gt;分享&lt;/s1&gt; &lt;s2&gt;项目，下载团队项目……&lt;/s2&gt;</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z" creationid="Fu Rhong" creationdate="20131127T095428Z">
+        <seg>&lt;p0&gt;翻译记忆&lt;/p0&gt; &lt;s1&gt;分享&lt;/s1&gt; &lt;s2&gt;项目，下载团队项目...&lt;/s2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6595,8 +6595,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>About...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
-        <seg>关于……</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
+        <seg>关于...</seg>
       </tuv>
     </tu>
     <tu>
@@ -7905,8 +7905,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Back in history...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T030256Z">
-        <seg>在历史中回退……</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
+        <seg>在历史中回退...</seg>
       </tuv>
     </tu>
     <tu>
@@ -8385,8 +8385,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>C&amp;harts</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T153339Z">
-        <seg>图表（C&amp;）</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105511Z">
+        <seg>图表（C&amp;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8689,8 +8689,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Check &amp;all printf-variables (e.g., %s, %-s)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T161031Z">
-        <seg>检查所有的 printf 变量（例如 %s, %-s）（&amp;a）</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105533Z">
+        <seg>检查所有的 printf 变量（例如 %s, %-s）(&amp;a)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8826,8 +8826,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Checking out the project...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130504T151412Z">
-        <seg>正在检出项目……</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
+        <seg>正在检出项目...</seg>
       </tuv>
     </tu>
     <tu>
@@ -8930,8 +8930,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Click on &lt;g1&gt;Copy Files to Source Folder...&lt;/g1&gt; to select your source files.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T005712Z" creationid="Fu Rhong" creationdate="20131117T005712Z">
-        <seg>点击&lt;g1&gt;导入源文件……&lt;/g1&gt;按钮选择源文件。</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z" creationid="Fu Rhong" creationdate="20131117T005712Z">
+        <seg>点击&lt;g1&gt;导入源文件...&lt;/g1&gt;按钮选择源文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8962,8 +8962,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Click on the icon button, then hit &lt;e0&gt;Browse...&lt;/e0&gt; and navigate to the /images subfolder in the &lt;a1&gt;OmegaT&lt;/a1&gt; application folder.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120207T095833Z">
-        <seg>点击图标按钮，然后点击&lt;e0&gt;【浏览】&lt;/e0&gt;（Browse）……然后导航至 &lt;a1&gt;OmegaT&lt;/a1&gt; 应用程序文件夹的 /images 子文件夹。</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
+        <seg>点击图标按钮，然后点击&lt;e0&gt;【浏览】&lt;/e0&gt;（Browse）...然后导航至 &lt;a1&gt;OmegaT&lt;/a1&gt; 应用程序文件夹的 /images 子文件夹。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9058,8 +9058,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Co&amp;mments</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T153143Z">
-        <seg>评论（&amp;m）</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105507Z">
+        <seg>评论(&amp;m)</seg>
       </tuv>
     </tu>
     <tu>
@@ -9372,8 +9372,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Cop&amp;y Files to Source Folder...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130504T170151Z">
-        <seg>复制文件到原文文件目录(&amp;y)……</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
+        <seg>复制文件到原文文件目录(&amp;y)...</seg>
       </tuv>
     </tu>
     <tu>
@@ -9412,8 +9412,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Copy Files to Source Folder...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130504T170157Z">
-        <seg>复制文件到原文文件目录……</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
+        <seg>复制文件到原文文件目录...</seg>
       </tuv>
     </tu>
     <tu>
@@ -10196,8 +10196,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>D&amp;iagrams</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T153359Z">
-        <seg>报表（&amp;i）</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105511Z">
+        <seg>报表(&amp;i)</seg>
       </tuv>
     </tu>
     <tu>
@@ -10588,8 +10588,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Display &amp;None</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T164612Z">
-        <seg>不显示（&amp;N）</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105539Z">
+        <seg>不显示(&amp;N)</seg>
       </tuv>
     </tu>
     <tu>
@@ -11044,8 +11044,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Download &amp;Team Project...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T024610Z">
-        <seg>下载团队项目(&amp;T)……</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
+        <seg>下载团队项目(&amp;T)...</seg>
       </tuv>
     </tu>
     <tu>
@@ -11060,16 +11060,16 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Download Media&amp;Wiki Page...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T024742Z">
-        <seg>下载 Media&amp;Wiki 页面……</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
+        <seg>下载 Media&amp;Wiki 页面...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Download MediaWiki Page</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T024751Z">
-        <seg>下载 MediaWiki 页面……</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
+        <seg>下载 MediaWiki 页面...</seg>
       </tuv>
     </tu>
     <tu>
@@ -11084,8 +11084,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Download Team Project</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130914T121847Z">
-        <seg>下载团队项目(&amp;T)……</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
+        <seg>下载团队项目(&amp;T)...</seg>
       </tuv>
     </tu>
     <tu>
@@ -11164,8 +11164,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Dra&amp;wings</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T153411Z">
-        <seg>图（&amp;w）</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105512Z">
+        <seg>图(&amp;w)</seg>
       </tuv>
     </tu>
     <tu>
@@ -11260,8 +11260,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>E&amp;nable Sentence-level Segmenting</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T144506Z">
-        <seg>激活句子级别的分段（E&amp;）</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105454Z">
+        <seg>激活句子级别的分段（E&amp;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -11444,8 +11444,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Editing Behavior...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120211T055802Z">
-        <seg>编辑行为……</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
+        <seg>编辑行为...</seg>
       </tuv>
     </tu>
     <tu>
@@ -12188,8 +12188,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Executing external command...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T143320Z">
-        <seg>执行外部命令……</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
+        <seg>执行外部命令...</seg>
       </tuv>
     </tu>
     <tu>
@@ -12324,8 +12324,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>External TMXs...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T124225Z">
-        <seg>外部 TMX ……</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
+        <seg>外部 TMX ...</seg>
       </tuv>
     </tu>
     <tu>
@@ -12549,8 +12549,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>File &amp;Filters...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T024931Z">
-        <seg>文件过滤器(&amp;F)……</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
+        <seg>文件过滤器(&amp;F)...</seg>
       </tuv>
     </tu>
     <tu>
@@ -12581,8 +12581,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>File Filters...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120211T055303Z">
-        <seg>文件过滤器……</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
+        <seg>文件过滤器...</seg>
       </tuv>
     </tu>
     <tu>
@@ -12933,16 +12933,16 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Font...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
-        <seg>字体……</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
+        <seg>字体...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Foote&amp;rs</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T153148Z">
-        <seg>页脚（&amp;r）</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105509Z">
+        <seg>页脚(&amp;r)</seg>
       </tuv>
     </tu>
     <tu>
@@ -13392,8 +13392,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Forward in history...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T030143Z">
-        <seg>在历史中前进……</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
+        <seg>在历史中前进...</seg>
       </tuv>
     </tu>
     <tu>
@@ -14011,8 +14011,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>He&amp;aders</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T153147Z">
-        <seg>页眉（&amp;a）</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105509Z">
+        <seg>页眉(&amp;a)</seg>
       </tuv>
     </tu>
     <tu>
@@ -14830,8 +14830,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>If sentence segmentation has been selected, you can setup the rules by selecting &lt;m5&gt; &lt;g6&gt;&lt;i7/&gt;Options&lt;/g6&gt; &lt;g8&gt;Segmentation...&lt;/g8&gt; &lt;/m5&gt;from the main menu.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120215T135624Z">
-        <seg>如果选用了句子分割，可通过从主菜单选择&lt;m5&gt; &lt;g6&gt;&lt;i7/&gt;选项&lt;/g6&gt; &lt;g8&gt;片段分割……&lt;/g8&gt; &lt;/m5&gt;以设置规则。</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
+        <seg>如果选用了句子分割，可通过从主菜单选择&lt;m5&gt; &lt;g6&gt;&lt;i7/&gt;选项&lt;/g6&gt; &lt;g8&gt;片段分割...&lt;/g8&gt; &lt;/m5&gt;以设置规则。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15007,24 +15007,24 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>If the source segment in one of the ancillary TMs is identical to the text being translated, OmegaT acts as defined in the &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Editing Behavior...&lt;/g2&gt; &lt;/m0&gt; dialog window.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131126T092216Z" creationid="Fu Rhong" creationdate="20131126T092216Z">
-        <seg>如果某个辅助TM中的某个源片段与待译的文本完全相同，OmegaT会安装在&lt;m0&gt; &lt;g1&gt;选项&lt;/g1&gt; &lt;g2&gt;编辑行为……&lt;/g2&gt; &lt;/m0&gt;对话框中的设置进行操作。</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z" creationid="Fu Rhong" creationdate="20131126T092216Z">
+        <seg>如果某个辅助TM中的某个源片段与待译的文本完全相同，OmegaT会安装在&lt;m0&gt; &lt;g1&gt;选项&lt;/g1&gt; &lt;g2&gt;编辑行为...&lt;/g2&gt; &lt;/m0&gt;对话框中的设置进行操作。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>If the spell checker is not working, then make sure first that the check box &lt;g0&gt;"Automatically check the spelling of text"&lt;/g0&gt; in the spell checker dialog (&lt;g1&gt;Options &gt; Spell checking...)&lt;/g1&gt; is checked.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131126T085230Z" creationid="Fu Rhong" creationdate="20131126T085230Z">
-        <seg>如果拼写检查器没有运行，首先确保选中了拼写检查器对话框（&lt;g1&gt;选项&gt;拼写检查……&lt;/g1&gt;）中&lt;g0&gt;“自动检查文本拼写”&lt;/g0&gt;的复选框。</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z" creationid="Fu Rhong" creationdate="20131126T085230Z">
+        <seg>如果拼写检查器没有运行，首先确保选中了拼写检查器对话框（&lt;g1&gt;选项&gt;拼写检查...&lt;/g1&gt;）中&lt;g0&gt;“自动检查文本拼写”&lt;/g0&gt;的复选框。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>If the text is encoded in 8 bits, however, one can be faced with the following awkward situation: instead of displaying the text, for Japanese characters...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120212T034454Z">
-        <seg>然而，如果文本使用 8 位编码，那么可能会遇到这样困惑的情况：不是显示日文的文本……</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
+        <seg>然而，如果文本使用 8 位编码，那么可能会遇到这样困惑的情况：不是显示日文的文本...</seg>
       </tuv>
     </tu>
     <tu>
@@ -15111,8 +15111,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>If this is not the case, open the main dialog by selecting&lt;e0&gt; Options → File Filters...&lt;/e0&gt; from the main menu.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120201T040000Z">
-        <seg>如果不满意，可以从主菜单&lt;e0&gt;选项→文件过滤器……&lt;/e0&gt;打开主对话框。</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
+        <seg>如果不满意，可以从主菜单&lt;e0&gt;选项→文件过滤器...&lt;/e0&gt;打开主对话框。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15652,8 +15652,8 @@ click on that shortcut.</seg>
       <tuv lang="EN">
         <seg>In &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Editing Behavior...&lt;/g2&gt; &lt;/m0&gt; &lt;a3&gt;OmegaT&lt;/a3&gt; offers you the following alternatives:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120131T132325Z">
-        <seg>在&lt;m0&gt; &lt;g1&gt;选项&lt;/g1&gt; &lt;g2&gt;编辑行为……&lt;/g2&gt; &lt;/m0&gt;菜单中，&lt;a3&gt;OmegaT&lt;/a3&gt; 为您提供了以下选项：</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
+        <seg>在&lt;m0&gt; &lt;g1&gt;选项&lt;/g1&gt; &lt;g2&gt;编辑行为...&lt;/g2&gt; &lt;/m0&gt;菜单中，&lt;a3&gt;OmegaT&lt;/a3&gt; 为您提供了以下选项：</seg>
       </tuv>
     </tu>
     <tu>
@@ -15917,8 +15917,8 @@ click on that shortcut.</seg>
       <tuv lang="EN">
         <seg>In order to select the type of segmentation, select &lt;m1&gt; &lt;g2&gt;&lt;i3/&gt;Project&lt;/g2&gt; &lt;g4&gt;Properties...&lt;/g4&gt; &lt;/m1&gt; from the main menu and tick or untick the check box provided.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120215T130538Z">
-        <seg>要选择分割类型，请从主菜单选择&lt;m1&gt; &lt;g2&gt;&lt;i3/&gt;项目&lt;/g2&gt; &lt;g4&gt;属性……&lt;/g4&gt; &lt;/m1&gt;，然后选用选中或取消选中相应的复选框。</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
+        <seg>要选择分割类型，请从主菜单选择&lt;m1&gt; &lt;g2&gt;&lt;i3/&gt;项目&lt;/g2&gt; &lt;g4&gt;属性...&lt;/g4&gt; &lt;/m1&gt;，然后选用选中或取消选中相应的复选框。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15997,8 +15997,8 @@ click on that shortcut.</seg>
       <tuv lang="EN">
         <seg>In the &lt;g0&gt;Project&lt;/g0&gt; menu, select &lt;m1&gt;&lt;g2&gt;New...&lt;/g2&gt;&lt;/m1&gt; and type a name for your project.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T005310Z" creationid="Fu Rhong" creationdate="20131117T005310Z">
-        <seg>在&lt;g0&gt;项目&lt;/g0&gt;菜单中选择&lt;m1&gt;&lt;g2&gt;新建……&lt;/g2&gt;&lt;/m1&gt;并输入项目名称。</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z" creationid="Fu Rhong" creationdate="20131117T005310Z">
+        <seg>在&lt;g0&gt;项目&lt;/g0&gt;菜单中选择&lt;m1&gt;&lt;g2&gt;新建...&lt;/g2&gt;&lt;/m1&gt;并输入项目名称。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17513,8 +17513,8 @@ itself on the first run.</seg>
       <tuv lang="EN">
         <seg>L&amp;og...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130911T115123Z">
-        <seg>日志(&amp;o)……</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
+        <seg>日志(&amp;o)...</seg>
       </tuv>
     </tu>
     <tu>
@@ -17943,8 +17943,8 @@ itself on the first run.</seg>
       <tuv lang="EN">
         <seg>Loading TMX files...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130505T170618Z">
-        <seg>正在载入 TMX 文件……</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
+        <seg>正在载入 TMX 文件...</seg>
       </tuv>
     </tu>
     <tu>
@@ -17967,8 +17967,8 @@ itself on the first run.</seg>
       <tuv lang="EN">
         <seg>Loading project...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130504T160220Z">
-        <seg>载入项目中……</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
+        <seg>载入项目中...</seg>
       </tuv>
     </tu>
     <tu>
@@ -19104,16 +19104,16 @@ appropriate location such as the Applications folder.</seg>
       <tuv lang="EN">
         <seg>Moves one segment back in history</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T030302Z">
-        <seg>在历史中回退……</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
+        <seg>在历史中回退...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Moves one segment forward in history</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T030204Z">
-        <seg>在历史中前进……</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
+        <seg>在历史中前进...</seg>
       </tuv>
     </tu>
     <tu>
@@ -20049,8 +20049,8 @@ appropriate location such as the Applications folder.</seg>
       <tuv lang="EN">
         <seg>Note: DocBook files are recognized not only by file extension, but they also must have a DOCTYPE declaration: &lt;!DOCTYPE book PUBLIC \"-//OASIS//DTD DocBook XML... for DocBook 4, or a Namespace: xmlns="http://docbook.org/ns/docbook" for DocBook 5</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="flycr" changedate="20180408T100523Z">
-        <seg>注意：DocBook 文件不仅仅根据文件扩展名判断。这些文件必须同时包括 DOCTYPE 声明： &lt;!DOCTYPE book PUBLIC \"-//OASIS//DTD DocBook XML…… （对于 DocBook 4），或者是 Namespace: xmlns="http://docbook.org/ns/docbook" （对于 DocBook 5）</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
+        <seg>注意：DocBook 文件不仅仅根据文件扩展名判断。这些文件必须同时包括 DOCTYPE 声明： &lt;!DOCTYPE book PUBLIC \"-//OASIS//DTD DocBook XML... （对于 DocBook 4），或者是 Namespace: xmlns="http://docbook.org/ns/docbook" （对于 DocBook 5）</seg>
       </tuv>
     </tu>
     <tu>
@@ -20258,8 +20258,8 @@ appropriate location such as the Applications folder.</seg>
       <tuv lang="EN">
         <seg>O&amp;ptions...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T154209Z">
-        <seg>选项（O&amp;）……</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
+        <seg>选项（O&amp;)...</seg>
       </tuv>
     </tu>
     <tu>
@@ -22604,8 +22604,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Project &amp;Files...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T024933Z">
-        <seg>项目文件(&amp;F)……</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
+        <seg>项目文件(&amp;F)...</seg>
       </tuv>
     </tu>
     <tu>
@@ -22636,8 +22636,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Project Files...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
-        <seg>项目文件……</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
+        <seg>项目文件...</seg>
       </tuv>
     </tu>
     <tu>
@@ -22892,8 +22892,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Properties...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131110T022051Z">
-        <seg>属性……</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
+        <seg>属性...</seg>
       </tuv>
     </tu>
     <tu>
@@ -22924,8 +22924,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Proxy login...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131110T030314Z">
-        <seg>登录代理……</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
+        <seg>登录代理...</seg>
       </tuv>
     </tu>
     <tu>
@@ -23860,8 +23860,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Restore De&amp;faults</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Puzzlist" changedate="20130922T035453Z">
-        <seg>还原默认设置(&amp;f）</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105441Z">
+        <seg>还原默认设置(&amp;f)</seg>
       </tuv>
     </tu>
     <tu>
@@ -24092,8 +24092,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>S&amp;witch Case To</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T164605Z">
-        <seg>切换大小写状态为（&amp;S）……</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
+        <seg>切换大小写状态为(&amp;S)...</seg>
       </tuv>
     </tu>
     <tu>
@@ -24316,16 +24316,16 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Saving and Output...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131110T030305Z" creationid="Fu Rhong" creationdate="20131110T030251Z">
-        <seg>保存和输出……</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z" creationid="Fu Rhong" creationdate="20131110T030251Z">
+        <seg>保存和输出...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Saving project...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130505T164720Z">
-        <seg>正在保存项目……</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
+        <seg>正在保存项目...</seg>
       </tuv>
     </tu>
     <tu>
@@ -24390,8 +24390,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Scriptin&amp;g...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130504T155330Z">
-        <seg>脚本(&amp;g)……</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
+        <seg>脚本(&amp;g)...</seg>
       </tuv>
     </tu>
     <tu>
@@ -24438,16 +24438,16 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Search Project</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
-        <seg>在项目中搜索……</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
+        <seg>在项目中搜索...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Search Project...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
-        <seg>在项目中搜索……</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
+        <seg>在项目中搜索...</seg>
       </tuv>
     </tu>
     <tu>
@@ -24502,8 +24502,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Search project</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
-        <seg>在项目中搜索……</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
+        <seg>在项目中搜索...</seg>
       </tuv>
     </tu>
     <tu>
@@ -24830,8 +24830,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Segment number...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
-        <seg>片段序号……</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
+        <seg>片段序号...</seg>
       </tuv>
     </tu>
     <tu>
@@ -24902,8 +24902,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Segmentation...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120211T055459Z">
-        <seg>分割规则……</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
+        <seg>分割规则...</seg>
       </tuv>
     </tu>
     <tu>
@@ -25534,8 +25534,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Sli&amp;de Masters</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T153245Z">
-        <seg>幻灯模板（&amp;d）</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105510Z">
+        <seg>幻灯模板(&amp;d)</seg>
       </tuv>
     </tu>
     <tu>
@@ -25942,7 +25942,7 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Source/translation lengths (characters)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T055157Z">
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105451Z">
         <seg>原文/译文长度（字符个数）</seg>
       </tuv>
     </tu>
@@ -26038,8 +26038,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Spell checking...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
-        <seg>拼写检查……</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
+        <seg>拼写检查...</seg>
       </tuv>
     </tu>
     <tu>
@@ -26830,16 +26830,16 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Team synchronization...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130504T151823Z">
-        <seg>团队同步……</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
+        <seg>团队同步...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Team...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120211T060028Z">
-        <seg>团队……</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
+        <seg>团队...</seg>
       </tuv>
     </tu>
     <tu>
@@ -27161,8 +27161,8 @@ current folder will be used instead.</seg>
       <tuv lang="EN">
         <seg>The &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;E&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g5&gt;Project&lt;/g5&gt; &lt;g6&gt;Properties...&lt;/g6&gt; &lt;/m0&gt; dialog is used to define and modify the project folders and languages.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120213T145954Z">
-        <seg>&lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;E&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g5&gt;项目&lt;/g5&gt; &lt;g6&gt;属性……&lt;/g6&gt; &lt;/m0&gt;对话框可用来修改项目文件夹和语种。</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
+        <seg>&lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;E&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g5&gt;项目&lt;/g5&gt; &lt;g6&gt;属性...&lt;/g6&gt; &lt;/m0&gt;对话框可用来修改项目文件夹和语种。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27610,8 +27610,8 @@ Please try to correct the error and reload the project.</seg>
       <tuv lang="EN">
         <seg>The character x, except the following...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120214T033456Z">
-        <seg>字符 x，除了以下内容……</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
+        <seg>字符 x，除了以下内容...</seg>
       </tuv>
     </tu>
     <tu>
@@ -27828,8 +27828,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The dialog can be accessed via the &lt;i0/&gt;&lt;m1&gt; &lt;g2&gt;Options&lt;/g2&gt; &lt;g3&gt;Font...&lt;/g3&gt; &lt;/m1&gt; item in the Main menu.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120211T135047Z">
-        <seg>通过主菜单中的&lt;i0/&gt;&lt;m1&gt; &lt;g2&gt;选项&lt;/g2&gt; &lt;g3&gt;字体……&lt;/g3&gt; &lt;/m1&gt;菜单项可以调出该对话框。</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
+        <seg>通过主菜单中的&lt;i0/&gt;&lt;m1&gt; &lt;g2&gt;选项&lt;/g2&gt; &lt;g3&gt;字体...&lt;/g3&gt; &lt;/m1&gt;菜单项可以调出该对话框。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27844,8 +27844,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The dialog in &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Editing Behavior...&lt;/g2&gt; &lt;/m0&gt; enables the user to select, how the current segment in the editing field is to be initialized and handled:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120131T132000Z">
-        <seg>在&lt;m0&gt; &lt;g1&gt;选项&lt;/g1&gt; &lt;g2&gt;编辑行为……&lt;/g2&gt; &lt;/m0&gt;打开的对话框中，用户可以选择如何初始化和处理编辑区域的当前片段：</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
+        <seg>在&lt;m0&gt; &lt;g1&gt;选项&lt;/g1&gt; &lt;g2&gt;编辑行为...&lt;/g2&gt; &lt;/m0&gt;打开的对话框中，用户可以选择如何初始化和处理编辑区域的当前片段：</seg>
       </tuv>
     </tu>
     <tu>
@@ -28252,8 +28252,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The help browser (which displays this manual) can be opened by pressing &lt;k0&gt;&lt;i1/&gt;F1&lt;/k0&gt; or navigating to &lt;g2&gt;&lt;i3/&gt;Help → User Manual...&lt;/g2&gt; in the main menu.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120219T150258Z">
-        <seg>帮助浏览器（显示本手册）可通过按 &lt;k0&gt;&lt;i1/&gt;F1&lt;/k0&gt; 或调用主菜单中的&lt;g2&gt;&lt;i3/&gt;帮助→用户手册……&lt;/g2&gt;条目来打开。</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
+        <seg>帮助浏览器（显示本手册）可通过按 &lt;k0&gt;&lt;i1/&gt;F1&lt;/k0&gt; 或调用主菜单中的&lt;g2&gt;&lt;i3/&gt;帮助→用户手册...&lt;/g2&gt;条目来打开。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28416,8 +28416,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>The location of the writable glossary file can be set in the &lt;g0&gt;Project &gt; Properties ... &lt;/g0&gt;dialog.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021248Z" creationid="Fu Rhong" creationdate="20131116T121708Z">
-        <seg>可写术语表的位置可在&lt;g0&gt;项目&gt;属性……&lt;/g0&gt;对话框中设定。</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z" creationid="Fu Rhong" creationdate="20131116T121708Z">
+        <seg>可写术语表的位置可在&lt;g0&gt;项目&gt;属性...&lt;/g0&gt;对话框中设定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29000,8 +29000,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>The script "{0}" is running...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T165647Z">
-        <seg>正在运行脚本 "{0}" ……</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
+        <seg>正在运行脚本 "{0}" ...</seg>
       </tuv>
     </tu>
     <tu>
@@ -29336,8 +29336,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>The target filename pattern uses a special syntax, so if you wish to edit this field, you must click &lt;e0&gt;Edit...&lt;/e0&gt;and use the &lt;i1/&gt;Edit Pattern Dialog.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120201T122017Z">
-        <seg>目标文件名模式使用特殊的语法规则，因此如果希望编辑这些字段的话，您必须点击&lt;e0&gt;编辑……&lt;/e0&gt;以使用&lt;i1/&gt;编辑模式对话框。</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
+        <seg>目标文件名模式使用特殊的语法规则，因此如果希望编辑这些字段的话，您必须点击&lt;e0&gt;编辑...&lt;/e0&gt;以使用&lt;i1/&gt;编辑模式对话框。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30715,8 +30715,8 @@ configuration folder cannot be reliably determined.</seg>
       <tuv lang="EN">
         <seg>To activate any of the Machine Translation services, go to &lt;g0&gt;Options &gt; Machine Translate ...&lt;/g0&gt; and activate the service desired.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120208T142417Z">
-        <seg>要激活某种机器翻译服务，请前往&lt;g0&gt;选项&gt;机器翻译……&lt;/g0&gt;，然后激活需要的服务。</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
+        <seg>要激活某种机器翻译服务，请前往&lt;g0&gt;选项&gt;机器翻译...&lt;/g0&gt;，然后激活需要的服务。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30779,8 +30779,8 @@ configuration folder cannot be reliably determined.</seg>
       <tuv lang="EN">
         <seg>To change the location of folders after a project has been created, open &lt;g0&gt;Project &gt; Properties...&lt;/g0&gt; in the menu or with &lt;g1&gt;Ctrl+E&lt;/g1&gt; and make the necessary changes.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120201T123850Z">
-        <seg>项目创建之后要改变目录的位置，请打开菜单中的&lt;g0&gt;项目&gt;属性……&lt;/g0&gt;或使用 &lt;g1&gt;Ctrl+E&lt;/g1&gt; 进行必要的修改。</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
+        <seg>项目创建之后要改变目录的位置，请打开菜单中的&lt;g0&gt;项目&gt;属性...&lt;/g0&gt;或使用 &lt;g1&gt;Ctrl+E&lt;/g1&gt; 进行必要的修改。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31027,8 +31027,8 @@ configuration folder cannot be reliably determined.</seg>
       <tuv lang="EN">
         <seg>To make this possible, go to &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Editing Behavior...&lt;/g2&gt; &lt;/m0&gt; and check the box &lt;e3&gt;Allow translation to be equal to source&lt;/e3&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120131T133256Z">
-        <seg>为了做到这一点，前往&lt;m0&gt; &lt;g1&gt;选项&lt;/g1&gt; &lt;g2&gt;编辑行为……&lt;/g2&gt; &lt;/m0&gt; 并选上多选框 &lt;e3&gt;允许译文和原文相同&lt;/e3&gt;.</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
+        <seg>为了做到这一点，前往&lt;m0&gt; &lt;g1&gt;选项&lt;/g1&gt; &lt;g2&gt;编辑行为...&lt;/g2&gt; &lt;/m0&gt; 并选上多选框 &lt;e3&gt;允许译文和原文相同&lt;/e3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31099,8 +31099,8 @@ configuration folder cannot be reliably determined.</seg>
       <tuv lang="EN">
         <seg>To see which file formats can be handled by OmegaT, see the menu &lt;g0&gt;Options &gt; File Filters ... &lt;/g0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131113T113228Z" creationid="Fu Rhong" creationdate="20131113T113043Z">
-        <seg>要查看OmegaT能处理哪些文件格式，请打开&lt;g0&gt;选项&gt;文件过滤器……&lt;/g0&gt;菜单</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z" creationid="Fu Rhong" creationdate="20131113T113043Z">
+        <seg>要查看OmegaT能处理哪些文件格式，请打开&lt;g0&gt;选项&gt;文件过滤器...&lt;/g0&gt;菜单</seg>
       </tuv>
     </tu>
     <tu>
@@ -32253,8 +32253,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>Upgrading...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="flycr" changedate="20180408T095755Z">
-        <seg>更在更新中……</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
+        <seg>更在更新中...</seg>
       </tuv>
     </tu>
     <tu>
@@ -32485,16 +32485,16 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>Used to adjust the handling of supported file formats (access via &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;File Filters...&lt;/g2&gt; &lt;/m0&gt;, close via &lt;k3&gt;Esc&lt;/k3&gt;)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120218T103012Z">
-        <seg>用来调整所支持格式的处理方式（通过&lt;m0&gt; &lt;g1&gt;选项&lt;/g1&gt; &lt;g2&gt;文件过滤器……&lt;/g2&gt; &lt;/m0&gt;打开，通过 &lt;k3&gt;Esc&lt;/k3&gt; 关闭）</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
+        <seg>用来调整所支持格式的处理方式（通过&lt;m0&gt; &lt;g1&gt;选项&lt;/g1&gt; &lt;g2&gt;文件过滤器...&lt;/g2&gt; &lt;/m0&gt;打开，通过 &lt;k3&gt;Esc&lt;/k3&gt; 关闭）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Used to change how &lt;a0&gt;OmegaT&lt;/a0&gt; behaves when you iterate between the segments (access via &lt;m1&gt; &lt;g2&gt;Options&lt;/g2&gt; &lt;g3&gt;Behavior...&lt;/g3&gt; &lt;/m1&gt;, close via &lt;k4&gt;Esc&lt;/k4&gt;)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120218T103242Z">
-        <seg>用来改变在片段间往返移动时 &lt;a0&gt;OmegaT&lt;/a0&gt; 的行为（通过&lt;m1&gt; &lt;g2&gt;选项&lt;/g2&gt; &lt;g3&gt;编辑行为……&lt;/g3&gt; &lt;/m1&gt;关闭，通过 &lt;k4&gt;Esc&lt;/k4&gt; 关闭）</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
+        <seg>用来改变在片段间往返移动时 &lt;a0&gt;OmegaT&lt;/a0&gt; 的行为（通过&lt;m1&gt; &lt;g2&gt;选项&lt;/g2&gt; &lt;g3&gt;编辑行为...&lt;/g3&gt; &lt;/m1&gt;关闭，通过 &lt;k4&gt;Esc&lt;/k4&gt; 关闭）</seg>
       </tuv>
     </tu>
     <tu>
@@ -32509,16 +32509,16 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>Used to modify the font used by &lt;a0&gt;OmegaT&lt;/a0&gt; to display source, translation, matches and glossary terms, (access via &lt;m1&gt; &lt;g2&gt;Options&lt;/g2&gt; &lt;g3&gt;Font...&lt;/g3&gt; &lt;/m1&gt;, close via &lt;k4&gt;Esc&lt;/k4&gt;)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021248Z" creationid="Fu Rhong" creationdate="20131127T122507Z">
-        <seg>用来修改&lt;a0&gt;OmegaT&lt;/a0&gt;显示原文、译文、匹配和术语表术语的字体（通过&lt;m1&gt; &lt;g2&gt;选项&lt;/g2&gt; &lt;g3&gt;字体……&lt;/g3&gt; &lt;/m1&gt;打开、&lt;k4&gt;Esc&lt;/k4&gt;）</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z" creationid="Fu Rhong" creationdate="20131127T122507Z">
+        <seg>用来修改&lt;a0&gt;OmegaT&lt;/a0&gt;显示原文、译文、匹配和术语表术语的字体（通过&lt;m1&gt; &lt;g2&gt;选项&lt;/g2&gt; &lt;g3&gt;字体...&lt;/g3&gt; &lt;/m1&gt;打开、&lt;k4&gt;Esc&lt;/k4&gt;）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Used to modify the project folders and languages (access via &lt;g0&gt;Ctrl+E &lt;/g0&gt;shortcut or &lt;m1&gt; &lt;g2&gt;Project&lt;/g2&gt; &lt;g3&gt;properties...&lt;/g3&gt; &lt;/m1&gt;, close via &lt;k4&gt;Esc)&lt;/k4&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131127T122348Z" creationid="Fu Rhong" creationdate="20131127T122348Z">
-        <seg>用来修改项目文件夹和语言（通过&lt;g0&gt;Ctrl+E &lt;/g0&gt;快捷键或&lt;m1&gt; &lt;g2&gt;项目&lt;/g2&gt; &lt;g3&gt;属性……&lt;/g3&gt; &lt;/m1&gt;打开、&lt;k4&gt;Esc&lt;/k4&gt;关闭）</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z" creationid="Fu Rhong" creationdate="20131127T122348Z">
+        <seg>用来修改项目文件夹和语言（通过&lt;g0&gt;Ctrl+E &lt;/g0&gt;快捷键或&lt;m1&gt; &lt;g2&gt;项目&lt;/g2&gt; &lt;g3&gt;属性...&lt;/g3&gt; &lt;/m1&gt;打开、&lt;k4&gt;Esc&lt;/k4&gt;关闭）</seg>
       </tuv>
     </tu>
     <tu>
@@ -32534,8 +32534,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>User Manual...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
-        <seg>用户手册……</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
+        <seg>用户手册...</seg>
       </tuv>
     </tu>
     <tu>
@@ -33057,8 +33057,8 @@ searchable without subscription:</seg>
       <tuv lang="EN">
         <seg>View...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120211T060118Z">
-        <seg>查看……</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
+        <seg>查看...</seg>
       </tuv>
     </tu>
     <tu>
@@ -33466,8 +33466,8 @@ trouble of selecting, obtaining and installing it.</seg>
       <tuv lang="EN">
         <seg>When you are ready to view the final product, you can export the translated files, open them in the appropriate application and view the translation in the final format...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yujun Yin" changedate="20131007T080223Z" creationid="Yujun Yin" creationdate="20131007T080223Z">
-        <seg>如果您需要查看最终翻译成果，您可以导出已译文件，在相应的应用程序中打开，查看导出为最终格式的译文……</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z" creationid="Yujun Yin" creationdate="20131007T080223Z">
+        <seg>如果您需要查看最终翻译成果，您可以导出已译文件，在相应的应用程序中打开，查看导出为最终格式的译文...</seg>
       </tuv>
     </tu>
     <tu>
@@ -33523,8 +33523,8 @@ trouble of selecting, obtaining and installing it.</seg>
       <tuv lang="EN">
         <seg>When you load a segmented TTX file, segments with source = target will be included, if "Allow translation to be equal to source" in Options → Editing Behavior... has been checked.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131127T111438Z" creationid="Fu Rhong" creationdate="20131127T111438Z">
-        <seg>当您加载片段化的TTX文件时，如果选中了选项→编辑行为……中的“允许译文和原文相同”选项时将会包含源文本与目标文本相同的片段。</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z" creationid="Fu Rhong" creationdate="20131127T111438Z">
+        <seg>当您加载片段化的TTX文件时，如果选中了选项→编辑行为...中的“允许译文和原文相同”选项时将会包含源文本与目标文本相同的片段。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33740,16 +33740,16 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       <tuv lang="EN">
         <seg>With this command you can move backward one segment at a time, to return later to the current segment using &lt;g0&gt;Forward in history... &lt;/g0&gt;command below.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120209T134203Z">
-        <seg>通过该命令一次可以返回一个片段，在稍后可使用下面的&lt;g0&gt;在编辑历史中前进……&lt;/g0&gt;命令返回当前片段。</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
+        <seg>通过该命令一次可以返回一个片段，在稍后可使用下面的&lt;g0&gt;在编辑历史中前进...&lt;/g0&gt;命令返回当前片段。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>With this command you can step forward to the segment, you have previously left by the &lt;g1&gt;Back in history&lt;/g1&gt;...command.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120209T134308Z">
-        <seg>使用该命令可以前进到某片段，即您使用&lt;g1&gt;在编辑历史中回退……&lt;/g1&gt;命令之前所处片段。</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
+        <seg>使用该命令可以前进到某片段，即您使用&lt;g1&gt;在编辑历史中回退...&lt;/g1&gt;命令之前所处片段。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34188,8 +34188,8 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       <tuv lang="EN">
         <seg>You can also enable project-specific file filters, which will only be used on the current project, by selecting the &lt;e1&gt;File Filters...&lt;/e1&gt; option in Project Properties.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120201T040224Z">
-        <seg>通过选择项目属性中的&lt;e1&gt;文件过滤器……&lt;/e1&gt;属性，您还可以启用仅用于当前项目的项目专用文件过滤器.</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
+        <seg>通过选择项目属性中的&lt;e1&gt;文件过滤器...&lt;/e1&gt;属性，您还可以启用仅用于当前项目的项目专用文件过滤器.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34359,8 +34359,8 @@ from there.</seg>
       <tuv lang="EN">
         <seg>You can enable project specific filters via the &lt;e0&gt;Project → Properties...&lt;/e0&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131113T113348Z" creationid="Fu Rhong" creationdate="20131113T113348Z">
-        <seg>通过&lt;e0&gt;项目→属性……&lt;/e0&gt;您还可以启用项目专用过滤器。</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z" creationid="Fu Rhong" creationdate="20131113T113348Z">
+        <seg>通过&lt;e0&gt;项目→属性...&lt;/e0&gt;您还可以启用项目专用过滤器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36213,8 +36213,8 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>etc...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120131T120125Z">
-        <seg>……等等</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
+        <seg>...等等</seg>
       </tuv>
     </tu>
     <tu>
@@ -37133,16 +37133,16 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>if existing, it contains project-specific file filters, if requested in &lt;g0&gt;Project &gt; Properties ... &lt;/g0&gt;See &lt;l1&gt;Chapter Project properties&lt;/l1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131114T133852Z" creationid="Fu Rhong" creationdate="20131114T133813Z">
-        <seg>若存在，则它包含&lt;g0&gt;项目&gt;属性……&lt;/g0&gt;需要的项目专用文件过滤器。请参阅&lt;l1&gt;项目属性章节&lt;/l1&gt;</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z" creationid="Fu Rhong" creationdate="20131114T133813Z">
+        <seg>若存在，则它包含&lt;g0&gt;项目&gt;属性...&lt;/g0&gt;需要的项目专用文件过滤器。请参阅&lt;l1&gt;项目属性章节&lt;/l1&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>if existing, it contains project-specific segmentation rules, if requested in &lt;g0&gt;Project &gt; Properties ... &lt;/g0&gt;See &lt;l1&gt;Chapter Project properties&lt;/l1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131114T133903Z" creationid="Fu Rhong" creationdate="20131114T133706Z">
-        <seg>若存在，则它包含&lt;g0&gt;项目&gt;属性……&lt;/g0&gt;需要的项目专用分割规则。请参阅&lt;l1&gt;项目属性章节&lt;/l1&gt;</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z" creationid="Fu Rhong" creationdate="20131114T133706Z">
+        <seg>若存在，则它包含&lt;g0&gt;项目&gt;属性...&lt;/g0&gt;需要的项目专用分割规则。请参阅&lt;l1&gt;项目属性章节&lt;/l1&gt;</seg>
       </tuv>
     </tu>
     <tu>
