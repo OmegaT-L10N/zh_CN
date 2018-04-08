@@ -32972,6 +32972,15 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>We recommend using OmegaT packages that include the JRE, to save you the
+trouble of selecting, obtaining and installing it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T020804Z" creationid="xulihang" creationdate="20180408T020804Z">
+        <seg>我们推荐使用自带JRE的OmegaT安装包，免去您安装JRE的麻烦。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>We therefore recommend that you download and install either the Oracle Java Runtime Environment (JRE) or the OmegaT package bundled with JRE (the .tar.bz2) bundle marked "Linux").</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Puzzlist" changedate="20130922T041532Z" creationid="Puzzlist" creationdate="20130922T041532Z">
