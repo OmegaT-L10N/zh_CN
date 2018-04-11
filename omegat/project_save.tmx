@@ -7395,8 +7395,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>An error occurred when trying to detect the project file.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T124057Z" creationid="Administrator" creationdate="20180411T124057Z">
-        <seg>删除该项目文件夹时发生错误。</seg>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T124343Z" creationid="Administrator" creationdate="20180411T124057Z">
+        <seg>检测该项目文件夹时发生错误。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10776,6 +10776,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T024050Z" creationid="xulihang" creationdate="20180404T024050Z">
         <seg>细节不可用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Detecting...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T124253Z" creationid="Administrator" creationdate="20180411T124253Z">
+        <seg>检测…</seg>
       </tuv>
     </tu>
     <tu>
@@ -28070,8 +28078,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Testing...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T113951Z" creationid="Administrator" creationdate="20180411T113951Z">
-        <seg>测试中......</seg>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T124418Z" creationid="Administrator" creationdate="20180411T113951Z">
+        <seg>测试中…</seg>
       </tuv>
     </tu>
     <tu>
