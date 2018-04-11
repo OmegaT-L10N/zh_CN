@@ -31633,6 +31633,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This translation is described as the "default translation".</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T121137Z" creationid="Zoe" creationdate="20180411T121137Z">
+        <seg>这种译文被称为“默认翻译”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This translation is the work of [insert your name], copyright© [insert year].</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Puzzlist" changedate="20130918T033613Z">
@@ -32101,6 +32109,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120219T124601Z">
         <seg>在主窗口中使用&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt;可打开一个新的搜索窗口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To produce a translation that is different from the "default translation", right-click with the mouse within the segment and select "Create Alternative Translation".</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T121526Z" creationid="Zoe" creationdate="20180411T121526Z">
+        <seg>要产生不同于“默认译文”的翻译，在片段中右击鼠标，选择“创建替代翻译”。</seg>
       </tuv>
     </tu>
     <tu>
