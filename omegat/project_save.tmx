@@ -280,6 +280,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Also allow per-project external commands</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T123121Z" creationid="Administrator" creationdate="20180411T123121Z">
+        <seg>同时可以针对每个项目指定外部命令(&amp;A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Always</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T154408Z">
