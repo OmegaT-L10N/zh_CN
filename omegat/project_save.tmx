@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.1.4" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12004,6 +12004,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>End rebase</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T123445Z" creationid="Administrator" creationdate="20180411T123445Z">
+        <seg>结束变基</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>End*</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120203T124013Z">
@@ -12264,6 +12272,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T151728Z">
         <seg>读取二级 TMX 文件的第 {0} 行第 {1} 时发生错误</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error retrieve {0} as remote project file</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T123137Z" creationid="Administrator" creationdate="20180411T123137Z">
+        <seg>远程项目文件检索错误 {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -23027,6 +23043,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T065840Z" creationid="weiyi" creationdate="20180406T065840Z">
         <seg>预定义主题可在整个脚本中使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Predefined credentials was not passed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T123243Z" creationid="Administrator" creationdate="20180411T123243Z">
+        <seg>预定义凭证未通过</seg>
       </tuv>
     </tu>
     <tu>
