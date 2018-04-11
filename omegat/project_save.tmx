@@ -6530,8 +6530,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>A list of repository URLs is provided below.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T140238Z" creationid="Zoe" creationdate="20180411T140238Z">
-        <seg>下方提供了仓库URL列表。</seg>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T140516Z" creationid="Zoe" creationdate="20180411T140238Z">
+        <seg>下面给出了仓库URL清单。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33851,6 +33851,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T015011Z" creationid="xulihang" creationdate="20180408T015011Z">
         <seg>URLs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>URLs of repositories of spelling dictionaries:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T140644Z" creationid="Zoe" creationdate="20180411T140644Z">
+        <seg>拼写字典仓库的 URL：</seg>
       </tuv>
     </tu>
     <tu>
