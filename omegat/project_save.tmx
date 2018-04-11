@@ -37996,8 +37996,8 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>done ({0} ms elapsed)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T120044Z" creationid="Administrator" creationdate="20180411T115114Z">
-        <seg>完成({0} </seg>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T133937Z" creationid="Administrator" creationdate="20180411T115114Z">
+        <seg>完成，花费了{0}时间 完成，花费了{0}</seg>
       </tuv>
     </tu>
     <tu>
