@@ -6528,6 +6528,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A list of repository URLs is provided below.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T140238Z" creationid="Zoe" creationdate="20180411T140238Z">
+        <seg>下方提供了仓库URL列表。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A new version of the master TM is then created, either to be put in team members' &lt;e3&gt;tm/auto&lt;/e3&gt;subfolders or to replace their &lt;f4&gt;project_save.tmx&lt;/f4&gt; files.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131126T105946Z" creationid="Fu Rhong" creationdate="20131126T105946Z">
