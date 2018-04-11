@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.1.4" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -868,6 +868,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="flycr" changedate="20180408T100203Z">
         <seg>从不</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;New Script</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T120853Z" creationid="Administrator" creationdate="20180411T120853Z">
+        <seg>新建脚本(N)</seg>
       </tuv>
     </tu>
     <tu>
@@ -22104,6 +22112,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Opening team project</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T121213Z" creationid="Administrator" creationdate="20180411T121213Z">
+        <seg>打开团队项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Opening the user manual in this way also enables you to follow external links, as the built-in help browser does not accept external Internet links.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120219T150450Z">
@@ -23858,6 +23874,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Refreshing script folder "{0}"</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T120721Z" creationid="Administrator" creationdate="20180411T120721Z">
+        <seg>更新脚本目录 "{0}"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Regex - Boundary matchers</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120214T035236Z">
@@ -24546,6 +24570,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Repository Credentials</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T122649Z" creationid="Administrator" creationdate="20180411T122649Z">
+        <seg>存储库凭证</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Repository Mapping</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="christy" changedate="20180407T162613Z" creationid="christy" creationdate="20180407T162613Z">
@@ -25106,6 +25138,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Saving and Output</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T121142Z" creationid="Administrator" creationdate="20180411T121142Z">
+        <seg>保存和输出......</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Saving and Output Options</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130504T152443Z">
@@ -25184,6 +25224,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T165601Z">
         <seg>脚本语言(&amp;L)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Script Result</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T120556Z" creationid="Administrator" creationdate="20180411T120556Z">
+        <seg>脚本结果</seg>
       </tuv>
     </tu>
     <tu>
@@ -25868,6 +25916,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select a Script File</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T120457Z" creationid="Administrator" creationdate="20180411T120457Z">
+        <seg>选择脚本文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select it and confirm with OK.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
@@ -26016,6 +26072,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T114109Z" creationid="Administrator" creationdate="20180411T114109Z">
         <seg>服务器未识别“翻译”方法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Set Scripts Folder...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T120953Z" creationid="Administrator" creationdate="20180411T120953Z">
+        <seg>设置脚本目录.....</seg>
       </tuv>
     </tu>
     <tu>
@@ -27272,6 +27336,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T024100Z" creationid="weiyi" creationdate="20180406T024100Z">
         <seg>转换大小写为</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Synchronisation of repositories</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T122548Z" creationid="Administrator" creationdate="20180411T122548Z">
+        <seg>同步存储库</seg>
       </tuv>
     </tu>
     <tu>
@@ -37531,6 +37603,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
         <seg>精确搜索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>extensions:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T120814Z" creationid="Administrator" creationdate="20180411T120814Z">
+        <seg>扩展：</seg>
       </tuv>
     </tu>
     <tu>
