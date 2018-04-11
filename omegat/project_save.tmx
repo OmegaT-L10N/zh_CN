@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.1.4" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -74,6 +74,28 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131121T122749Z" creationid="Fu Rhong" creationdate="20131121T122749Z">
         <seg>“\s”表示任意空白字符（空格、Tab、新行符等）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg># OmegaT.exe runtime configuration
+# To use a parameter, remove the '#' before the '-'
+# Memory
+-Xmx1024M
+# Language
+-Duser.language=FR
+# Country
+-Duser.country=CA</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T134800Z" creationid="Administrator" creationdate="20180411T134800Z">
+        <seg># OmegaT.exe runtime configuration
+# To use a parameter, remove the '#' before the '-'
+# Memory
+-Xmx1024M
+# Language
+-Duser.language=FR
+# Country
+-Duser.country=CA </seg>
       </tuv>
     </tu>
     <tu>
@@ -2136,6 +2158,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="ZH-CN" changeid="weiyi" changedate="20180405T081603Z" creationid="weiyi" creationdate="20180405T081603Z">
         <seg>-Dmymemory.api.email=你的邮箱名@邮箱地址.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-Dsun.java2d.noddraw=false</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T134810Z" creationid="Administrator" creationdate="20180411T134810Z">
+        <seg>-Dsun.java2d.noddraw=false </seg>
       </tuv>
     </tu>
     <tu>
@@ -39150,6 +39180,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T130533Z" creationid="Administrator" creationdate="20180411T130533Z">
         <seg>https://omegat.org/howtos/iceni_infix.html </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://omegat.sourceforge.io/webstart/&lt;a0&gt;OmegaT&lt;/a0&gt;.jnlp</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T134829Z" creationid="Administrator" creationdate="20180411T134829Z">
+        <seg>https://omegat.sourceforge.io/webstart/&lt;a0&gt;OmegaT&lt;/a0&gt;.jnlp </seg>
       </tuv>
     </tu>
     <tu>
