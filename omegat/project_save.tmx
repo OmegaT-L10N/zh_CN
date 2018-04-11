@@ -8288,8 +8288,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Bad nesting</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130504T152736Z">
-        <seg>错误的嵌套</seg>
+      <tuv lang="ZH-CN" changeid="Funster" changedate="20180411T145035Z">
+        <seg>错误嵌套</seg>
       </tuv>
     </tu>
     <tu>
@@ -13163,8 +13163,8 @@ project_save.tmx未真正上传，SVN切换到不稳定状态。</seg>
       <tuv lang="EN">
         <seg>Extraneous</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130509T153450Z">
-        <seg>外来</seg>
+      <tuv lang="ZH-CN" changeid="Funster" changedate="20180411T145000Z">
+        <seg>外部的</seg>
       </tuv>
     </tu>
     <tu>
