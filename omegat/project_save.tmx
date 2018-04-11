@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.1.4" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2472,8 +2472,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;User Home&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120202T060602Z">
-        <seg>&lt;User Home&gt;</seg>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T123041Z">
+        <seg>&lt;用户之家&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13481,8 +13481,8 @@ script provided (omegat.kaptn).</seg>
       <tuv lang="EN">
         <seg>For example, by default, XHTML filters are used for processing files with the .xhtml extension.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120223T154109Z">
-        <seg>比如说在缺省情况下 XHTML 过滤器将会用来处理扩展名为 .xhtml 的文件。 </seg>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T122605Z">
+        <seg>比如说在默认情况下 XHTML 过滤器将会用来处理扩展名为 .xhtml 的文件。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -24284,8 +24284,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Remove leading and trailing whitespace in non-segmented projects: by default, OmegaT removes leading and trailing whitespace.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T113711Z" creationid="Administrator" creationdate="20180411T113711Z">
-        <seg>在未分段的项目中删除首尾的空白字符：通过缺省，OmegaT删除首尾空白字符。</seg>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T122617Z" creationid="Administrator" creationdate="20180411T113711Z">
+        <seg>在未分段的项目中删除首尾的空白字符：默认情况，OmegaT删除首尾空白字符。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31401,6 +31401,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This is an ordinary html file that, when opened in your Internet browser, directs you to the OmegaT user group hosted on Yahoo!</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T123202Z" creationid="Administrator" creationdate="20180411T123202Z">
+        <seg>这是个普通的html文件，当在你的Internet浏览器中打开时，其会将你链接至在雅虎上托管的OmegaT用户组。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This is effective upon &lt;e1&gt;Edit &gt; Replace with Source&lt;/e1&gt;, &lt;e2&gt;Edit &gt; Insert Source&lt;/e2&gt;, and when entering a segment when &lt;e3&gt;Options &gt; Editing Behavior &gt; [Insert] The source text&lt;/e3&gt; is enabled.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T075155Z" creationid="weiyi" creationdate="20180406T075155Z">
@@ -35420,6 +35428,14 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can access that folder directly with the &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Access Configuration Folder&lt;/g2&gt; &lt;/m0&gt; menu entry.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T123011Z" creationid="Administrator" creationdate="20180411T123011Z">
+        <seg>你可以通过&lt;m0&gt; &lt;g1&gt;选项&lt;/g1&gt; &lt;g2&gt;访问配置文件夹&lt;/g2&gt; &lt;/m0&gt;菜单条目，直接进入文件夹。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can add &lt;a0&gt;OmegaT&lt;/a0&gt; to your menus as follows:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120206T121614Z">
@@ -35547,6 +35563,14 @@ from there.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131127T235539Z" creationid="Fu Rhong" creationdate="20131127T142749Z">
         <seg>您可通过&lt;g0&gt;前往→后一笔记&lt;/g0&gt;和&lt;g1&gt;前往→前一笔记&lt;/g1&gt;以浏览笔记。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can change or add filename patterns for files to be handled by each file filter.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T122711Z" creationid="Administrator" creationdate="20180411T122711Z">
+        <seg>您可以更改或添加文件名模式，以便通过每个文件过滤器处理文件。</seg>
       </tuv>
     </tu>
     <tu>
