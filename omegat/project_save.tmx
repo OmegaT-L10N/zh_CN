@@ -882,8 +882,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;New Script</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T120853Z" creationid="Administrator" creationdate="20180411T120853Z">
-        <seg>新建脚本(N)</seg>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T124552Z" creationid="Administrator" creationdate="20180411T120853Z">
+        <seg>新建脚本(&amp;N)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1106,8 +1106,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Run</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T165610Z">
-        <seg>&amp;运行</seg>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T124511Z">
+        <seg>运行(&amp;R)</seg>
       </tuv>
     </tu>
     <tu>
@@ -25260,8 +25260,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Saving and Output</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T121142Z" creationid="Administrator" creationdate="20180411T121142Z">
-        <seg>保存和输出......</seg>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T124658Z" creationid="Administrator" creationdate="20180411T121142Z">
+        <seg>保存和输出</seg>
       </tuv>
     </tu>
     <tu>
@@ -26206,8 +26206,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Set Scripts Folder...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T120953Z" creationid="Administrator" creationdate="20180411T120953Z">
-        <seg>设置脚本目录.....</seg>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T124521Z" creationid="Administrator" creationdate="20180411T120953Z">
+        <seg>设置脚本目录…</seg>
       </tuv>
     </tu>
     <tu>
@@ -30224,8 +30224,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>The script "{0}" is running...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
-        <seg>正在运行脚本 "{0}" ...</seg>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T124431Z">
+        <seg>正在运行脚本 "{0}"…</seg>
       </tuv>
     </tu>
     <tu>
@@ -31515,8 +31515,8 @@ configuration folder cannot be reliably determined.</seg>
       <tuv lang="EN">
         <seg>This is a Git repository.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T124003Z" creationid="Administrator" creationdate="20180411T124003Z">
-        <seg>Git版本库。</seg>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T124724Z" creationid="Administrator" creationdate="20180411T124003Z">
+        <seg>Git资源库。</seg>
       </tuv>
     </tu>
     <tu>
