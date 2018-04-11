@@ -8986,8 +8986,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Check this option to be warned about differences between source and target segments tags each time you leave a segment.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T110006Z" creationid="Administrator" creationdate="20180411T110006Z">
-        <seg>检查这个选项，注意源来源.</seg>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T110457Z" creationid="Administrator" creationdate="20180411T110006Z">
+        <seg>每次离开片段的时候，选择这个选项来注意源标签和目标标签的差别.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32682,8 +32682,8 @@ Exact searches match the whole search string.</seg>
       <tuv lang="EN">
         <seg>Uncheck this option to prevent any damage on the tags (i.e., partial deletion) during editing.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T104524Z" creationid="Administrator" creationdate="20180411T104524Z">
-        <seg>取消选中此选项，以防在编辑时对标签有所损坏（比如，部分删除）</seg>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T110352Z" creationid="Administrator" creationdate="20180411T104524Z">
+        <seg>取消选中此选项，以防在编辑时对标签有所损坏（比如，部分删除）。</seg>
       </tuv>
     </tu>
     <tu>
