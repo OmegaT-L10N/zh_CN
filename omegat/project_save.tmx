@@ -7226,6 +7226,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Allow to save password as plain text</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T130259Z" creationid="Administrator" creationdate="20180411T130259Z">
+        <seg>允许保存密码为纯文本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Allow translated tags to be in a different order</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T161852Z">
@@ -9761,6 +9769,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T110058Z" creationid="xulihang" creationdate="20180408T110058Z">
         <seg>贡献者
 ============</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Convert Old Team Project</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T130642Z" creationid="Administrator" creationdate="20180411T130642Z">
+        <seg>转换旧的团队项目</seg>
       </tuv>
     </tu>
     <tu>
@@ -17674,6 +17690,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It needs to be converted to a new team project, but this cannot be done in console mode.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T130858Z" creationid="Administrator" creationdate="20180411T130858Z">
+        <seg>它需要转换为新的团队项目，但无法在控制台模式下完成。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It should be noted that when &lt;a0&gt;OmegaT&lt;/a0&gt; is in RTL mode, both source and target are displayed in RTL mode.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120223T160146Z">
@@ -21313,6 +21337,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT has detected a 3.6-style team project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T130559Z" creationid="Administrator" creationdate="20180411T130559Z">
+        <seg>OmegaT已检测出3.6风格的团队项目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT highlights</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130911T123204Z">
@@ -23270,8 +23302,16 @@ language you would like to translate to.</seg>
         <seg>Press 'Cancel' to leave the project unmodified and load it as a local
 project without team functionality.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T130041Z" creationid="Administrator" creationdate="20180411T130041Z">
-        <seg>按'取消'可以不修改项目并将其作为本地项目加载，无需团队功能。</seg>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T130209Z" creationid="Administrator" creationdate="20180411T130041Z">
+        <seg>按‘取消'可以不修改项目并将其作为本地项目加载，无需团队功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Press 'OK' to convert the project into a 4.x-style team project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T130414Z" creationid="Administrator" creationdate="20180411T130414Z">
+        <seg>按‘确定’将项目转换为4.x风格的团队项目。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30209,6 +30249,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The project will be loaded as a local project without team functionality.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T130742Z" creationid="Administrator" creationdate="20180411T130742Z">
+        <seg>该项目将作为没有团队功能的本地项目加载。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The purpose of the console (i.e. command line) mode is to permit the use &lt;a0&gt;of OmegaT&lt;/a0&gt; as translation tool in a scripting environment.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120211T063142Z">
@@ -30613,6 +30661,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
         <seg>源文本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The specified project is an OmegaT 3.6-style team project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T131009Z" creationid="Administrator" creationdate="20180411T131009Z">
+        <seg>指定的项目是OmegaT 3.6风格的团队项目。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31376,6 +31432,16 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120201T044524Z">
         <seg>它们将以单独片段的形式出现。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This
+will delete your local data and re-download the project contents from
+the server.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T130139Z" creationid="Administrator" creationdate="20180411T130139Z">
+        <seg>这将删除您的本地数据并从服务器重新下载项目内容。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32328,6 +32394,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120130T073254Z">
         <seg>为 &lt;a0&gt;OmegaT&lt;/a0&gt; 做贡献：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To convert it into a new team project, open it in the OmegaT GUI.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T130719Z" creationid="Administrator" creationdate="20180411T130719Z">
+        <seg>将其转换为新的团队项目，请在OmegaT GUI中打开。</seg>
       </tuv>
     </tu>
     <tu>
