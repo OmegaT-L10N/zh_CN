@@ -7129,6 +7129,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All other instances of the same segment that were previously the "default translation" will now be brought into line with this translation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T122955Z" creationid="Zoe" creationdate="20180411T122955Z">
+        <seg>使用之前“默认翻译”的相同片段的其他所有实例，现在都与当下译文保持一直。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All segmentation rule sets for a matching language pattern are active and are applied in the given order of priority, so rules for specific language should be higher than default ones.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120217T072116Z">
@@ -15855,6 +15863,14 @@ is to use Java Web Start.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021248Z" creationid="Fu Rhong" creationdate="20131126T091450Z">
         <seg>如果已经译了一大段文本，但是才意识到项目的目标语言代码与拼写检查器的语言代码不符（如将pt_BR设为目标语言，但没有pt_BR术语表），您只需复制两份对应的文件并进行重命名（例如把&lt;e0&gt;pt_PT.aff&lt;/e0&gt;和&lt;e1&gt;pt_PT.dic&lt;/e1&gt;改名为&lt;e2&gt;pt_BR.aff&lt;/e2&gt;和&lt;e3&gt;pt_BR.dic&lt;/e3&gt;）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you have already translated an instance of a non-unique segment and wish to make a different instance of the non-unique segment the default translation without changing the translation of the instance you have already translated, you must first set the status of the segment you have already translated to "alternative translation" using "Create Alternative Translation".</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T123841Z" creationid="Zoe" creationdate="20180411T123841Z">
+        <seg>如果你已经翻译过一例非独特片段，并且希望为这非独特片段制作一种不同的默认翻译，同时还不想改变已经翻译过的实例的译文，你必须先用“创建替代翻译”将已翻译片段设定为“替代翻译”状态，</seg>
       </tuv>
     </tu>
     <tu>
@@ -31969,6 +31985,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This will make the current translation the default translation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T122440Z" creationid="Zoe" creationdate="20180411T122440Z">
+        <seg>这将使当下译文成为“默认翻译”。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This, however, should generally be avoided once you have started translating the project.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120219T124136Z">
@@ -32405,6 +32429,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="17012" changedate="20180405T112925Z" creationid="17012" creationdate="20180405T112925Z">
         <seg>为了记住项目的初始设置，按下&lt;k0&gt;Ctrl+E&lt;/k0&gt;打开项目属性对话框。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To remove the "alternative translation" status of a single segment and bring it back into line with the "default translation", simply delete the content of the segment.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T124142Z" creationid="Zoe" creationdate="20180411T124142Z">
+        <seg>要撤销一个片段的“替代翻译”状态，并使其与“默认翻译”保持一致，仅需删除掉这一片段的内容即可。</seg>
       </tuv>
     </tu>
     <tu>
