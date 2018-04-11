@@ -18832,6 +18832,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LibreOffice and more recent versions of OpenOffice.org now use the "extensions" format for these dictionaries, in which the files are supplied in a a zip archive with the extension .oxt.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T142142Z" creationid="Zoe" creationdate="20180411T142142Z">
+        <seg>LibreOffice和最近版本的OpenOffice.org现在以“插件”形式使用拼写字典， 这些文件在一个拓展名为.oxt的压缩文件包中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>License will therefore apply, along with any applicable section 7</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131101T131204Z" creationid="Fu Rhong" creationdate="20131101T131204Z">
