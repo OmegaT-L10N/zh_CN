@@ -2775,6 +2775,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;b0&gt;Remove Translation&lt;/b0&gt;: deletes the content of the segment, causing (when Enter is pressed) the default translation to be inserted.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T130952Z" creationid="Zoe" creationdate="20180411T130842Z">
+        <seg>&lt;b0&gt;撤销翻译&lt;/b0&gt;删掉片段内容，（当按下Enter键后）会插入默认翻译。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;b0&gt;This formatting&lt;/b0&gt; has been &lt;b0&gt;duplicated here&lt;/b0&gt;.&lt;segment 0001&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120205T115126Z">
@@ -8818,8 +8826,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Changes to this segment have no effect upon other segments, nor do changes to the "default translation" affect it.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T130649Z" creationid="Zoe" creationdate="20180411T130649Z">
-        <seg>前片段的改动或“默认翻译”的改变，对其他片段均无影响，</seg>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T130659Z" creationid="Zoe" creationdate="20180411T130649Z">
+        <seg>当前片段的改动或“默认翻译”的改变，对其他片段均无影响，</seg>
       </tuv>
     </tu>
     <tu>
