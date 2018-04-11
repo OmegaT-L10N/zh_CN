@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.1.4" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5617,6 +5617,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Source files&lt;/p0&gt; &lt;s1&gt;PDF files&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T123425Z" creationid="Administrator" creationdate="20180411T123425Z">
+        <seg>&lt;p0&gt;源文件&lt;/p0&gt; &lt;s1&gt;PDF文档&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Source files&lt;/p0&gt; &lt;s1&gt;PO as bilingual files&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131116T033047Z" creationid="Fu Rhong" creationdate="20131116T033047Z">
@@ -5861,6 +5869,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120202T123221Z">
         <seg>&lt;p0&gt;目标文件&lt;/p0&gt; &lt;s1&gt;其他文件格式&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;p0&gt;Target files&lt;/p0&gt; &lt;s1&gt;PDF text files&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T123405Z" creationid="Administrator" creationdate="20180411T123405Z">
+        <seg>&lt;p0&gt;目标文件&lt;/p0&gt; &lt;s1&gt;s&lt;/s1&gt;PDF文档 </seg>
       </tuv>
     </tu>
     <tu>
@@ -14331,6 +14347,14 @@ script provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Groups.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T123224Z" creationid="Administrator" creationdate="20180411T123224Z">
+        <seg>讨论组。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Guaraní</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T101349Z" creationid="Fu Rhong" creationdate="20131107T150038Z">
@@ -17743,6 +17767,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131116T130601Z" creationid="Fu Rhong" creationdate="20131116T130601Z">
         <seg>通过Java Web Start技术（Java 1.6及以上版本的一部分），只需一次点击就可通过网络部署独立的Java应用软件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Java property XML (*.xml)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T123256Z" creationid="Administrator" creationdate="20180411T123256Z">
+        <seg>Java property XML (*.xml) </seg>
       </tuv>
     </tu>
     <tu>
@@ -23746,6 +23778,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>RELAX NG schema for XML (*.rng)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T123334Z" creationid="Administrator" creationdate="20180411T123334Z">
+        <seg>RELAX NG schema for XML (*.rng) </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>RTL-LTR switch</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120130T053452Z">
@@ -25206,6 +25246,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="flycr" changedate="20180406T132631Z" creationid="flycr" creationdate="20180406T132631Z">
         <seg>Schematron标准</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Schematron (*.sch)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T123304Z" creationid="Administrator" creationdate="20180411T123304Z">
+        <seg>Schematron (*.sch) </seg>
       </tuv>
     </tu>
     <tu>
