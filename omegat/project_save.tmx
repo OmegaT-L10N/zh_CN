@@ -13391,6 +13391,14 @@ script provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For cases where two or more identical segments require different translations, OmegaT offers "one-to-many matching".</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T120737Z" creationid="Zoe" creationdate="20180411T120737Z">
+        <seg>对于两处或更多相同片段需要不同译文的情况，OmegaT提供“一对多匹配”功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For confidentiality reasons, you may want to not send all the segments to the Machine Translation tool.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T071656Z" creationid="weiyi" creationdate="20180406T071656Z">
@@ -16266,6 +16274,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
         <seg>然而在许多情况下，必须在自右向左文本中嵌入自左向右文本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In most cases, the translator will wish to translate identical segments within a project in the same way.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T120548Z" creationid="Zoe" creationdate="20180411T120548Z">
+        <seg>大多数情况下，译员希望将一个项目里的相同片段以同一形式翻译。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21804,6 +21820,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120206T090902Z">
         <seg>上述一个或多个问题已经被修正，但项目还没有被重新载入。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>One-to-many matching</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T120431Z" creationid="Zoe" creationdate="20180411T120431Z">
+        <seg>一对多匹配</seg>
       </tuv>
     </tu>
     <tu>
