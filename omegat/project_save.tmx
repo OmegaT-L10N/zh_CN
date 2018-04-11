@@ -4651,8 +4651,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Menu Options&lt;/p0&gt; &lt;s1&gt;Editing behaviour&lt;/s1&gt; &lt;t2&gt;Empty translation&lt;/t2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131112T115551Z" creationid="Fu Rhong" creationdate="20131112T115551Z">
-        <seg>&lt;p0&gt;菜单选项&lt;/p0&gt; &lt;s1&gt;编辑行为&lt;/s1&gt; &lt;t2&gt;Empty translation&lt;/t2&gt;</seg>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T084008Z" creationid="Fu Rhong" creationdate="20131112T115551Z">
+        <seg>&lt;p0&gt;菜单选项&lt;/p0&gt; &lt;s1&gt;编辑行为&lt;/s1&gt; &lt;t2&gt;译文为空&lt;/t2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -35181,8 +35181,8 @@ from there.</seg>
       <tuv lang="EN">
         <seg>You can have the source text inserted automatically into the editing field.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120131T132407Z">
-        <seg>可以将源文本自动插入编辑区域中。</seg>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T083904Z">
+        <seg>您可以将源文本自动插入编辑区域</seg>
       </tuv>
     </tu>
     <tu>
