@@ -9278,6 +9278,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check that spelling checking is enabled in the spelling checking dialog.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T143841Z" creationid="Zoe" creationdate="20180411T143841Z">
+        <seg>检查拼写检查对话框中，该项功能已开启。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check that your dict files are in the correct folder (or in a subfolder below it).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131112T115246Z" creationid="Fu Rhong" creationdate="20131112T115246Z">
@@ -33777,6 +33785,14 @@ install.sh.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T170235Z">
         <seg>译者注释：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Troubleshooting checklist</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T143622Z" creationid="Zoe" creationdate="20180411T143622Z">
+        <seg>疑难问题备忘录</seg>
       </tuv>
     </tu>
     <tu>
