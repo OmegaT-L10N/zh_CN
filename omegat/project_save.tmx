@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>"Non-unique segment" covers both default and alternative translations.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T132350Z" creationid="Zoe" creationdate="20180411T132350Z">
+        <seg>“非独特片段”包含默认和替代翻译</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>"Tag groups" in this context are a single tag (such as &lt;i0&gt; and &lt;/i0&gt;).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120203T121053Z">
@@ -8560,6 +8568,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By default, the Go To Next Untranslated Segment command (Ctrl+U) skips to the next untranslated segment, skipping propagated translations in the process.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T132928Z" creationid="Zoe" creationdate="20180411T132928Z">
+        <seg>默认地，前往下一条未翻译片段指令（Ctrl+U）跳转到下一条未翻译的片段，过程中跳过已传输的翻译。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By default, the translated file encoding is the same as the source file encoding.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120201T112737Z">
@@ -9737,6 +9753,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120215T122731Z">
         <seg>因此，尽管 OmegaT 能充分处理 &lt;f1&gt; tmx&lt;/f1&gt; 文件，但它不会在进行文件搜索时把它们纳入搜索范围。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Consequently, segments that are marked (with the grey font) as being non-unique are marked as non-unique irrespective of whether alternative translations have been created or not.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T132653Z" creationid="Zoe" creationdate="20180411T132653Z">
+        <seg>因此，（用灰色字体）标记为非独特的片段，无论替代翻译是否被创建均被标记为非独特片段。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15160,6 +15184,14 @@ need not be entered.)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T110052Z" creationid="xulihang" creationdate="20180408T110052Z">
         <seg>如果系统上安装了Java且处于命令行路径中，则无需输入它的完整路径。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If Options &gt; Editing Behaviour &gt; "Go To Next Untranslated Segment stops when there is at least one alternative translation" is selected however and at least one alternative translation of a non-unique segment has been created, this function treats all instances of that segment (whether default or alternative translations) as untranslated, i.e. does not skip them.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T133134Z" creationid="Zoe" creationdate="20180411T133134Z">
+        <seg>如果选项&gt;编辑行为&gt;“前往下一未翻译片段”被选中，</seg>
       </tuv>
     </tu>
     <tu>
