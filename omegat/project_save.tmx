@@ -11350,8 +11350,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Download the file - it should be a &lt;f0&gt;tarball&lt;/f0&gt; archive (extension &lt;e1&gt;tar.bz&lt;/e1&gt; or &lt;e2&gt;tar.bz2&lt;/e2&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120131T115603Z">
-        <seg>下载文件——可能是一份 &lt;f0&gt;tarball&lt;/f0&gt; 存档（扩展名为 &lt;e1&gt;tar.bz&lt;/e1&gt; 或 &lt;e2&gt;tar.bz2&lt;/e2&gt;）。</seg>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T081754Z">
+        <seg>下载文件——其须为&lt;f0&gt;原始码&lt;/f0&gt; 存档（扩展名为 &lt;e1&gt;tar.bz&lt;/e1&gt; 或 &lt;e2&gt;tar.bz2&lt;/e2&gt;</seg>
       </tuv>
     </tu>
     <tu>
