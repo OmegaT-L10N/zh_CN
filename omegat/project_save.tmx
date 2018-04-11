@@ -35136,6 +35136,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using the text export function</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T150758Z" creationid="Zoe" creationdate="20180411T150758Z">
+        <seg>使用文本导出功能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using this option the translator can specify, whether the target files are to have the encoding declaration included.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131113T121056Z" creationid="Fu Rhong" creationdate="20131113T121056Z">
