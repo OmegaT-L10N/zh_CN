@@ -19269,6 +19269,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Microsoft Translator Subscription Key not available.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T112013Z" creationid="Administrator" creationdate="20180411T112013Z">
+        <seg>微软翻译订阅键值不可用。Microsoft Translator Subscription Key not available.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Microsoft Translator's Client ID or Client Secret not available.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T165309Z">
@@ -34952,6 +34960,14 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="17012" changedate="20180405T111422Z" creationid="17012" creationdate="20180405T111422Z">
         <seg>Yandex 翻译</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Yandex Translate - No API Key Specified</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T112142Z" creationid="Administrator" creationdate="20180411T112142Z">
+        <seg>Yandex 翻译Yandex Translate - No API Key Specified</seg>
       </tuv>
     </tu>
     <tu>
