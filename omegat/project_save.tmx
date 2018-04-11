@@ -35563,6 +35563,14 @@ from there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can have as many "alternative translations" as you like of identical segments, but there can only be one default translation (or none at all).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T122046Z" creationid="Zoe" creationdate="20180411T122046Z">
+        <seg>你可以为相同片段设置多种“替代翻译”，但只能有一种默认翻译（或完全没有）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can have entries with the target column missing, i.e. just containing the source term and the comment.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131116T120259Z" creationid="Fu Rhong" creationdate="20131116T120259Z">
