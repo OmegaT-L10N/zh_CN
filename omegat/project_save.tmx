@@ -11748,6 +11748,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Email:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T105520Z" creationid="Administrator" creationdate="20180411T105520Z">
+        <seg>邮箱：:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Emptiness of soul&lt;p&gt;Forever aching blackness&lt;p&gt;Your help page not found</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130509T153529Z">
