@@ -10201,6 +10201,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Creating an "alternative translation" therefore relies upon identical segments having different preceding or following segments.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T131754Z" creationid="Zoe" creationdate="20180411T131754Z">
+        <seg>相同片段通过创建“替代翻译”而得到不同的前/后片段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Creating translated RTL documents</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
@@ -35402,6 +35410,14 @@ trouble of selecting, obtaining and installing it.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120202T114406Z">
         <seg>如果有可能应该考虑在文档中使用统一的字体、字体大小、颜色等，以此简化翻译工作和减少可能的标签错误。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Where two segments also have identical preceding and following segments (for example when an entire page appears twice in the text), they cannot be translated differently from each other in OmegaT, i.e. it is not possible to make one of them an "alternative translation".</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T132133Z" creationid="Zoe" creationdate="20180411T132133Z">
+        <seg>有些情况，两个片段也会拥有相同的前后片段，（例如，当一整页内容在一篇文章中出现两次），在OmegaT中这两页无法被译成不同的版本。例如，无法将其中一页设置成“替换译文”。</seg>
       </tuv>
     </tu>
     <tu>
