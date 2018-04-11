@@ -25004,6 +25004,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Search for the required language combination - for instance on the &lt;u0&gt;&lt;i1/&gt;dictionary links given by the OmegaT Wiki&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T081420Z" creationid="Administrator" creationdate="20180411T081420Z">
+        <seg>搜索所需的语言组合-例如在 &lt;u0&gt;&lt;i1/&gt;由OmegaT Wiki所给的词典链接&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Search for:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T150431Z">
@@ -31675,8 +31683,8 @@ configuration folder cannot be reliably determined.</seg>
       <tuv lang="EN">
         <seg>To install the necessary files for the StarDict format, proceed as follows:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131112T114557Z" creationid="Fu Rhong" creationdate="20131112T114557Z">
-        <seg>要为StarDict格式安装必须的文件，进行如下操作：</seg>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T081111Z" creationid="Fu Rhong" creationdate="20131112T114557Z">
+        <seg>要为StarDict格式安装需要的文件，进行如下操作：</seg>
       </tuv>
     </tu>
     <tu>
