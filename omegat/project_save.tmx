@@ -23198,6 +23198,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please enter the name of this set:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T134147Z" creationid="Administrator" creationdate="20180411T134147Z">
+        <seg>请输入此集合的名称：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please enter username/password</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130504T151319Z">
@@ -37612,8 +37620,8 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>canceled ({0} ms elapsed)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T120117Z" creationid="Administrator" creationdate="20180411T120117Z">
-        <seg>取消</seg>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T134020Z" creationid="Administrator" creationdate="20180411T120117Z">
+        <seg>取消，花费了{0}时间</seg>
       </tuv>
     </tu>
     <tu>
@@ -37996,8 +38004,8 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>done ({0} ms elapsed)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T133937Z" creationid="Administrator" creationdate="20180411T115114Z">
-        <seg>完成，花费了{0}时间 完成，花费了{0}</seg>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T134012Z" creationid="Administrator" creationdate="20180411T115114Z">
+        <seg>完成，花费了{0}时间</seg>
       </tuv>
     </tu>
     <tu>
