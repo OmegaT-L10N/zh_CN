@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.1.4" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2951,6 +2951,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Compress whitespace in translated document&lt;/e0&gt;: multiple continuous whitespaces will be converted into one single whitespace in translated document.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T122256Z" creationid="Administrator" creationdate="20180411T122256Z">
+        <seg>&lt;e0&gt;在翻译的文档中压缩空格：多个连续的空格将被转换成翻译文档中的一个空格。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Delete: &lt;/e0&gt;nothing</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120130T053637Z">
@@ -3235,6 +3243,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yujun Yin" changedate="20131007T081315Z" creationid="Yujun Yin" creationdate="20131007T081227Z">
         <seg>&lt;e0&gt;项目属性&lt;/e0&gt;、&lt;e1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt; 文件和目录：&lt;/e1&gt; 在 OmegaT 中，项目是指 OmegaT 作为一款 CAT 工具能够处理的工作单位。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Remove HTML comments in translated document&lt;/e0&gt;: all commented parts (between &lt;!-- and --&gt;) won't be copied in the translated document.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T122508Z" creationid="Administrator" creationdate="20180411T122508Z">
+        <seg>&lt;e0&gt;删除翻译文档中HTML注释&lt;/e0&gt;:：所有注释部分（在&lt;!-- 和 --&gt;之间) 不会在翻译文档中复制。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16062,6 +16078,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ignore file context when identifying segments with alternate translations: by default, OmegaT uses the source file name as part of the identification of an alternate translation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T121819Z" creationid="Administrator" creationdate="20180411T121819Z">
+        <seg>当识别片段带有替代翻译时，忽略文件上下文：在默认情况下，OmegaT使用源文件名称作为替代翻译的识别的一部分。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ignore glossary case</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T115237Z" creationid="xulihang" creationdate="20180408T115237Z">
@@ -16306,6 +16330,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T150545Z">
         <seg>在注释中(&amp;t)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In non-segmented projects, it is possible to keep it by unchecking this option.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T113856Z" creationid="Administrator" creationdate="20180411T113728Z">
+        <seg>在未分段项目中，可以不选此选项来保持此状态。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21898,8 +21930,8 @@ installed on your system.</seg>
       <tuv lang="EN">
         <seg>Open Document Format (ODF) files</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131113T123428Z" creationid="Fu Rhong" creationdate="20131113T123428Z">
-        <seg>Open Document格式（ODF）文件</seg>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T122130Z" creationid="Fu Rhong" creationdate="20131113T123428Z">
+        <seg>开放文件格式（ODF）文件</seg>
       </tuv>
     </tu>
     <tu>
@@ -23013,6 +23045,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T154310Z">
         <seg>给所有标签预留空格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Preserve spaces for all tags: check this option if the source documents contain significant spaces (for layout matters) that must not be ignored.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T121221Z" creationid="Administrator" creationdate="20180411T121221Z">
+        <seg>保留所有标签的空白：如果源文件包含重要的空白（为了留白）必须保留，选中此选项。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34259,8 +34299,8 @@ searchable without subscription:</seg>
       <tuv lang="EN">
         <seg>Warning: in Microsoft Open XML formats (docx, xlsx, etc.), if all tags are displayed, DO NOT write text before the first tag (it is a technical tag that must always begin the segment).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T113532Z" creationid="Administrator" creationdate="20180411T113328Z">
-        <seg>注意：在Microsoft Open XML格式(docx、xlsx等)中，如果所有标签都显示出来，那么在第一个标签之前不要写文本(它是一个必须始终开始记录片段的技术标签)。</seg>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T113754Z" creationid="Administrator" creationdate="20180411T113328Z">
+        <seg>注意：在Microsoft Open XML格式(docx、xlsx等)中，如果所有标签都显示出来，那么在第一个标签之前不要写文本(它是必须始终开始片段的技术标签)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38395,6 +38435,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120203T124925Z">
         <seg>如果激活了句子分割规则，则文本将会按照现有规则作进一步的分割。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>if the option is checked, the source file name will not be used, and alternative translations will take effect in any file as long as the other context (previous/next segments, or some sort of ID depending on the file format) matches.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T122032Z" creationid="Administrator" creationdate="20180411T122032Z">
+        <seg>如果选中了该选项，则不会使用源文件名称，而只要其他上下文(前/下一片段，或某种依赖于文件格式的ID）匹配，替代翻译将在任何文件中生效。</seg>
       </tuv>
     </tu>
     <tu>
