@@ -15425,6 +15425,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If we want to avoid any mis-translations in case of segments with several possible target contents, checking this check box will cause &lt;e0&gt;Go To Next Untranslated Segment&lt;/e0&gt; to stop on the next such segment, irrespective of whether it has already been translated or not.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T085008Z" creationid="Administrator" creationdate="20180411T085008Z">
+        <seg>如果我们希望在有多个可能的目标语文本的情况下避免错译，选中此复选框 &lt;e0&gt;前进到下一个未译片段&lt;/e0&gt;将在下一个片段停止，其是否被翻译对此无影响。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you add a prefix (for instance [fuzzy]), you can trace those translations later to see they are correct.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120203T124646Z">
