@@ -32089,6 +32089,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To make an alternative translation the default translation, right-click with the mouse and select "Use as Default Translation".</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T122304Z" creationid="Zoe" creationdate="20180411T122304Z">
+        <seg>若要将一种替代翻译设置成默认翻译，鼠标右击译文，选择“用做默认翻译”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To make this possible, go to &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Editing Behavior...&lt;/g2&gt; &lt;/m0&gt; and check the box &lt;e3&gt;Allow translation to be equal to source&lt;/e3&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
