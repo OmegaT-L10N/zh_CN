@@ -754,8 +754,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Language Checker</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T114247Z" creationid="Administrator" creationdate="20180411T114247Z">
-        <seg>&amp;语言检查r</seg>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T115553Z" creationid="Administrator" creationdate="20180411T114247Z">
+        <seg>语言检查(&amp;L)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1274,8 +1274,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Store for this session only</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T114203Z" creationid="Administrator" creationdate="20180411T114203Z">
-        <seg>&amp;仅存储此会话</seg>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T115619Z" creationid="Administrator" creationdate="20180411T114203Z">
+        <seg>仅存储此会话(&amp;S)</seg>
       </tuv>
     </tu>
     <tu>
@@ -12262,8 +12262,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Error while reading MT results</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T084248Z" creationid="Administrator" creationdate="20180411T084248Z">
-        <seg>读取MT结果错误。</seg>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T115647Z" creationid="Administrator" creationdate="20180411T084248Z">
+        <seg>读取MT结果错误</seg>
       </tuv>
     </tu>
     <tu>
