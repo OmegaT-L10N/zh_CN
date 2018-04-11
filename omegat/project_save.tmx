@@ -25437,6 +25437,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Save Current Set...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T132228Z" creationid="Administrator" creationdate="20180411T132207Z">
+        <seg>保存当前设置…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Save Script</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T165827Z">
@@ -34030,8 +34038,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>Upload disabled because repository in read-only mode</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130504T151043Z">
-        <seg>由于仓库处于只读模式，上传被取消。</seg>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T132002Z">
+        <seg>由于仓库处于只读模式，上传被取消</seg>
       </tuv>
     </tu>
     <tu>
