@@ -31,3 +31,4 @@ tarball	tarball	一种压缩文件格式，直接用英文就可以了
 DeepL	DeepL	专有名词
 uncheck	取消勾选	一般搭配box，取消勾选某中选框
 repository	仓库
+Editing Behaviour	编辑行为
