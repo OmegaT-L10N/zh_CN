@@ -33248,6 +33248,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To use spelling dictionaries in this format, rename the file extension from .oxt to .zip and using a zip archive application (such as WinZip) to extract the .dic and .aff files.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T142505Z" creationid="Zoe" creationdate="20180411T142505Z">
+        <seg>要使用这个格式的拼写字典，需要将文件拓展名由.oxt重命名为.zip，然后用解压软件（如WinZip）提取.dic和.aff文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To use the selected match in your translation, use &lt;g5&gt;Ctrl+R&lt;/g5&gt;&lt;i6/&gt; to replace the target field with the match or use &lt;g7&gt;Ctrl+I &lt;i8/&gt;&lt;/g7&gt; to insert it at the cursor position.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120218T125155Z">
