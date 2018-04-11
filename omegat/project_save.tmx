@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.1.4" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12935,8 +12935,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>File filters are pieces of code capable of:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
-        <seg>文件过滤器是一堆代码，它能够：</seg>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T112102Z">
+        <seg>文件过滤器是一堆具有以下功能的代码：</seg>
       </tuv>
     </tu>
     <tu>
@@ -19519,8 +19519,8 @@ itself on the first run.</seg>
       <tuv lang="EN">
         <seg>Most users will find the default file filter options sufficient.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120201T035847Z">
-        <seg>多数用户应该会对缺省的文件过滤器选项感到满意。</seg>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T112127Z">
+        <seg>多数用户应该会对缺省文件过滤器的选项感到满意。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20978,8 +20978,8 @@ appropriate location such as the Applications folder.</seg>
       <tuv lang="EN">
         <seg>OmegaT features highly customizable filters, enabling you to configure numerous aspects.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120201T035528Z">
-        <seg>OmegaT 的特色之一是可高度自定义过滤器，它让您可以配置众多的过滤器。</seg>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T111959Z">
+        <seg>OmegaT 的特色之一是可高度自定义过滤器，您可以配置众多的过滤器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24890,6 +24890,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Save auto-populated status</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T111815Z" creationid="Administrator" creationdate="20180411T111815Z">
+        <seg>保持自动填充状态</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Save then the file and relaunch &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131110T021402Z" creationid="Fu Rhong" creationdate="20131110T021402Z">
@@ -28606,6 +28614,14 @@ instead.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131109T025638Z">
         <seg>在Mac系统中缺省的OmegaT快捷键同样可从Sourceforge获取，其中把所有的“ctrl”都被替换为“meta”：&lt;u0&gt;Mac 系统上缺省的OmegaT快捷键&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The dialog allows to enable or disable the following options:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T112738Z" creationid="Administrator" creationdate="20180411T112738Z">
+        <seg>此对话允许或不允许以下选项：</seg>
       </tuv>
     </tu>
     <tu>
@@ -35086,8 +35102,8 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       <tuv lang="EN">
         <seg>You can also enable project-specific file filters, which will only be used on the current project, by selecting the &lt;e1&gt;File Filters...&lt;/e1&gt; option in Project Properties.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
-        <seg>通过选择项目属性中的&lt;e1&gt;文件过滤器...&lt;/e1&gt;属性，您还可以启用仅用于当前项目的项目专用文件过滤器.</seg>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T112156Z">
+        <seg>通过选择项目属性中的&lt;e1&gt;文件过滤器...&lt;/e1&gt;属性，您还可以启用仅用于当前项目的项目专用文件过滤器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35266,8 +35282,8 @@ from there.</seg>
       <tuv lang="EN">
         <seg>You can enable project specific filters via the &lt;e0&gt;Project → Properties...&lt;/e0&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z" creationid="Fu Rhong" creationdate="20131113T113348Z">
-        <seg>通过&lt;e0&gt;项目→属性...&lt;/e0&gt;您还可以启用项目专用过滤器。</seg>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T112639Z" creationid="Fu Rhong" creationdate="20131113T113348Z">
+        <seg>通过&lt;e0&gt;项目→属性...&lt;/e0&gt;您可以启用项目专用过滤器。</seg>
       </tuv>
     </tu>
     <tu>
