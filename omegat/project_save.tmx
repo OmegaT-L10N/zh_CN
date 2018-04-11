@@ -9286,6 +9286,22 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check that the .dic and .aff files for your language are present in the spelling dictionary folder, and that their names correspond to the target language code.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T144408Z" creationid="Zoe" creationdate="20180411T144408Z">
+        <seg>检查当前拼写字典文件夹中的.dic和.aff文件的语言类型，以及文件名是否与目标语言代码一致。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check that you have write permissions for the spelling dictionary folder you have selected.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T144138Z" creationid="Zoe" creationdate="20180411T144138Z">
+        <seg>检查你是否拥有已选择的拼写字典文件的写入权限。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check that your dict files are in the correct folder (or in a subfolder below it).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131112T115246Z" creationid="Fu Rhong" creationdate="20131112T115246Z">
@@ -15703,8 +15719,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>If the automatic installation process does not work: check that your Internet connection is working; if so, try a different repository URL.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T143954Z" creationid="Zoe" creationdate="20180411T143954Z">
-        <seg>如果自动安装流程无法正常进行：检查网络链接是否正常；如果正常，试一下其他仓库URL</seg>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T144020Z" creationid="Zoe" creationdate="20180411T143954Z">
+        <seg>如果自动安装流程无法正常进行：检查网络连接是否正常；如果正常，试一下其他仓库URL。</seg>
       </tuv>
     </tu>
     <tu>
