@@ -13810,6 +13810,14 @@ script provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For some file types, OmegaT differentiates between identical segments by referring to their preceding and following segments.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T131606Z" creationid="Zoe" creationdate="20180411T131606Z">
+        <seg>对于一些文件类型，OmegaT通过参考他们的前后片段来区别相同片段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For subsequent use, all is needed is opening the project like any other &lt;a0&gt;OmegaT&lt;/a0&gt; project.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131112T110758Z" creationid="Fu Rhong" creationdate="20131112T110758Z">
@@ -23239,6 +23247,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130911T115448Z">
         <seg>成功从类 '{0}' 中导入插件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Points to note</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T131446Z" creationid="Zoe" creationdate="20180411T131446Z">
+        <seg>指向说明</seg>
       </tuv>
     </tu>
     <tu>
