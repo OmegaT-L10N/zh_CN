@@ -10087,6 +10087,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Copyright Marc Prior 2009-2011</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T144527Z" creationid="Zoe" creationdate="20180411T144527Z">
+        <seg>版权归属于Marc Prior 2009-2011</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Copyright Marc Prior 2014</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T134448Z" creationid="Zoe" creationdate="20180411T134448Z">
@@ -27125,6 +27133,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Since version 2.0.1, OmegaT has had a text export function.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T144705Z" creationid="Zoe" creationdate="20180411T144705Z">
+        <seg>自2.0.1版本开始，OmegaT加入了文本输出功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sindhi</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T112247Z" creationid="Fu Rhong" creationdate="20131108T065927Z">
@@ -33815,8 +33831,8 @@ install.sh.</seg>
       <tuv lang="EN">
         <seg>Troubleshooting checklist</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T143622Z" creationid="Zoe" creationdate="20180411T143622Z">
-        <seg>疑难问题备忘录</seg>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T144454Z" creationid="Zoe" creationdate="20180411T143622Z">
+        <seg>解决问题备忘录</seg>
       </tuv>
     </tu>
     <tu>
