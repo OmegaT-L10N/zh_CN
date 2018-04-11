@@ -4211,8 +4211,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Dictionaries&lt;/p0&gt; &lt;s1&gt;Britannica&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131112T114831Z" creationid="Fu Rhong" creationdate="20131112T114831Z">
-        <seg>&lt;p0&gt;词典&lt;/p0&gt; &lt;s1&gt;Britannica&lt;/s1&gt;</seg>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T082358Z" creationid="Fu Rhong" creationdate="20131112T114831Z">
+        <seg>&lt;p0&gt;词典&lt;/p0&gt; &lt;s1&gt;不列颠&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4227,8 +4227,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Dictionaries&lt;/p0&gt; &lt;s1&gt;Longman&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131112T114819Z" creationid="Fu Rhong" creationdate="20131112T114819Z">
-        <seg>&lt;p0&gt;词典&lt;/p0&gt; &lt;s1&gt;朗曼&lt;/s1&gt;</seg>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T082323Z" creationid="Fu Rhong" creationdate="20131112T114819Z">
+        <seg>&lt;p0&gt;词典&lt;/p0&gt; &lt;s1&gt;朗文&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4259,8 +4259,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Dictionaries&lt;/p0&gt; &lt;s1&gt;Webster&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131112T114714Z" creationid="Fu Rhong" creationdate="20131112T114714Z">
-        <seg>&lt;p0&gt;词典&lt;/p0&gt; &lt;s1&gt;Webster&lt;/s1&gt;</seg>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T082259Z" creationid="Fu Rhong" creationdate="20131112T114714Z">
+        <seg>&lt;p0&gt;词典&lt;/p0&gt; &lt;s1&gt;韦氏词典&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -28756,8 +28756,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The following example shows Merriam Webster 10th dictionary "in action":</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120131T120341Z">
-        <seg>下面的例子显示了  Merrian Webster 10th dictionary 的“实际应用”：</seg>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T082500Z">
+        <seg>下面的例子显示了韦氏词典第十版的“实际应用</seg>
       </tuv>
     </tu>
     <tu>
@@ -33940,8 +33940,8 @@ trouble of selecting, obtaining and installing it.</seg>
       <tuv lang="EN">
         <seg>Webster's Revised Unabridged Dictionary (1913)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
-        <seg>韦氏修订同义词词典（1913）</seg>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T082217Z">
+        <seg>韦氏修订版同义词词典（1913）</seg>
       </tuv>
     </tu>
     <tu>
