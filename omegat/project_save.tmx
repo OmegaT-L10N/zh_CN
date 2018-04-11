@@ -9855,6 +9855,16 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Copy &lt;project&gt;/omegat/project_save.tmx file into a safe location
+2.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T131655Z" creationid="Administrator" creationdate="20180411T131655Z">
+        <seg>将&lt;project&gt; /omegat/project_save.tmx文件复制到安全位置
+2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Copy Files to Source Folder...</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
@@ -11699,6 +11709,16 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="ZH-CN" changeid="christy" changedate="20180407T154554Z" creationid="christy" creationdate="20180407T154554Z">
         <seg>复制片段: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>During SVN error({0}),
+project_save.tmx was not really uploaded and SVN switched to unstable status.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T131914Z" creationid="Administrator" creationdate="20180411T131914Z">
+        <seg>在SVN错误（{0}）期间，
+project_save.tmx未真正上传，SVN切换到不稳定状态。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32436,6 +32456,16 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To be sure that no translation will be lost, you need to:
+1.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T131812Z" creationid="Administrator" creationdate="20180411T131812Z">
+        <seg>为确保没有翻译丢失，您需要：
+1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To call up the manual from within OmegaT, simply select Help &gt; Users manual, or press F1.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T114038Z" creationid="cpeishan" creationdate="20180407T114038Z">
@@ -33866,6 +33896,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130504T152823Z">
         <seg>未指定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unsupported SVN error</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T131945Z" creationid="Administrator" creationdate="20180411T131945Z">
+        <seg>不支持SVN错误</seg>
       </tuv>
     </tu>
     <tu>
