@@ -24,8 +24,8 @@
       <tuv lang="EN">
         <seg>"Non-unique segment" covers both default and alternative translations.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T132350Z" creationid="Zoe" creationdate="20180411T132350Z">
-        <seg>“非独特片段”包含默认和替代翻译</seg>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T134354Z" creationid="Zoe" creationdate="20180411T132350Z">
+        <seg>“非独特片段”包含默认和可选翻译</seg>
       </tuv>
     </tu>
     <tu>
@@ -2775,8 +2775,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;b0&gt;Create Alternative Translation&lt;/b0&gt;: makes the segment unique.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T130456Z" creationid="Zoe" creationdate="20180411T130456Z">
-        <seg>&lt;b0&gt;创建替代译文&lt;/b0&gt;：让片段变得独特。</seg>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T134235Z" creationid="Zoe" creationdate="20180411T130456Z">
+        <seg>&lt;b0&gt;创建可选译文&lt;/b0&gt;：让片段变得独特。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8640,8 +8640,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>By default, the Go To Next Untranslated Segment command (Ctrl+U) skips to the next untranslated segment, skipping propagated translations in the process.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T132928Z" creationid="Zoe" creationdate="20180411T132928Z">
-        <seg>默认地，前往下一条未翻译片段指令（Ctrl+U）跳转到下一条未翻译的片段，过程中跳过已传输的翻译。</seg>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T133139Z" creationid="Zoe" creationdate="20180411T132928Z">
+        <seg>默认地，前往下一未翻译片段指令（Ctrl+U）跳转到下一条未翻译的片段，过程中跳过已传输的翻译。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9829,8 +9829,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Consequently, segments that are marked (with the grey font) as being non-unique are marked as non-unique irrespective of whether alternative translations have been created or not.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T132653Z" creationid="Zoe" creationdate="20180411T132653Z">
-        <seg>因此，（用灰色字体）标记为非独特的片段，无论替代翻译是否被创建均被标记为非独特片段。</seg>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T134400Z" creationid="Zoe" creationdate="20180411T132653Z">
+        <seg>因此，（用灰色字体）标记为非独特的片段，无论可选翻译是否被创建均被标记为非独特片段。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10027,6 +10027,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
         <seg>版权所有</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copyright Marc Prior 2014</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T134448Z" creationid="Zoe" creationdate="20180411T134448Z">
+        <seg>版权归属于Marc Prior 2014</seg>
       </tuv>
     </tu>
     <tu>
@@ -10305,8 +10313,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Creating an "alternative translation" therefore relies upon identical segments having different preceding or following segments.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T131754Z" creationid="Zoe" creationdate="20180411T131754Z">
-        <seg>相同片段通过创建“替代翻译”而得到不同的前/后片段。</seg>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T134312Z" creationid="Zoe" creationdate="20180411T131754Z">
+        <seg>相同片段通过创建“可选翻译”而得到不同的前/后片段。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11043,6 +11051,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T164422Z">
         <seg>字典安装工具</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Dictionaries are available for a large number of languages.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T135109Z" creationid="Zoe" creationdate="20180411T135101Z">
+        <seg>词典拥有大量语种资源。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15268,8 +15284,8 @@ need not be entered.)</seg>
       <tuv lang="EN">
         <seg>If Options &gt; Editing Behaviour &gt; "Go To Next Untranslated Segment stops when there is at least one alternative translation" is selected however and at least one alternative translation of a non-unique segment has been created, this function treats all instances of that segment (whether default or alternative translations) as untranslated, i.e. does not skip them.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T133134Z" creationid="Zoe" creationdate="20180411T133134Z">
-        <seg>如果选项&gt;编辑行为&gt;“前往下一未翻译片段”被选中，</seg>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T133948Z" creationid="Zoe" creationdate="20180411T133134Z">
+        <seg>如果选项&gt;编辑行为&gt;“当至少有一种可选翻译时前往下一未翻译片段”被选中，并且一个非独特片段至少创建了一种可选翻译，该功能将该片段的所有实例（不管是默认翻译还是可选翻译）视为未翻译，即不会跳过这些片段。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16146,8 +16162,8 @@ is to use Java Web Start.</seg>
       <tuv lang="EN">
         <seg>If you have already translated an instance of a non-unique segment and wish to make a different instance of the non-unique segment the default translation without changing the translation of the instance you have already translated, you must first set the status of the segment you have already translated to "alternative translation" using "Create Alternative Translation".</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T123841Z" creationid="Zoe" creationdate="20180411T123841Z">
-        <seg>如果你已经翻译过一例非独特片段，并且希望为这非独特片段制作一种不同的默认翻译，同时还不想改变已经翻译过的实例的译文，你必须先用“创建替代翻译”将已翻译片段设定为“替代翻译”状态，</seg>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T134157Z" creationid="Zoe" creationdate="20180411T123841Z">
+        <seg>如果你已经翻译过一例非独特片段，并且希望为这非独特片段制作一种不同的默认翻译，同时还不想改变已经翻译过的实例的译文，你必须先用“创建可选翻译”将已翻译片段设定为“可选翻译”状态，</seg>
       </tuv>
     </tu>
     <tu>
@@ -17029,6 +17045,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In this dialog, select or create a dictionary file folder on your hard drive.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T135540Z" creationid="Zoe" creationdate="20180411T135540Z">
+        <seg>在此对话框中，先在你的硬盘中选择或创建一个字典文件夹。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In this mode OmegaT will create a TMX for the whole project, based on the source files only.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120208T064635Z">
@@ -17457,6 +17481,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T164543Z">
         <seg>安装失败</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Installing new spelling from within OmegaT</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T135140Z" creationid="Zoe" creationdate="20180411T135140Z">
+        <seg>在OmegaT中安装新的拼写检查工具</seg>
       </tuv>
     </tu>
     <tu>
@@ -20411,6 +20443,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>New spelling dictionaries can be installed from within OmegaT in the Options &gt; Spell Checking dialog.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T135421Z" creationid="Zoe" creationdate="20180411T135421Z">
+        <seg>可以通过选项&gt;拼写检查对话框，在OmegaT中安装新的拼写检查工具。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>New terms can be added manually to the glossary file(s) during translation, for example in a text editor.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021248Z" creationid="Fu Rhong" creationdate="20131116T114629Z">
@@ -21553,6 +21593,14 @@ appropriate location such as the Applications folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T110005Z" creationid="cpeishan" creationdate="20180407T105909Z">
         <seg> OmegaT拥有非常活跃，热情的多语言用户组&lt;a0&gt;这里&lt;/a0&gt;, 强烈鼓励用户加入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT has an inline spelling checker.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T134748Z" creationid="Zoe" creationdate="20180411T134718Z">
+        <seg>OmegaT拥有内联拼写检查工具</seg>
       </tuv>
     </tu>
     <tu>
@@ -31958,6 +32006,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This feature makes use of the spelling dictionaries used in LibreOffice and OpenOffice.org.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T135029Z" creationid="Zoe" creationdate="20180411T135029Z">
+        <seg>这项功能利用LibreOffice和OpenOffice.org内使用的拼写词典。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This feature, however, is not implemented in OmegaT.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120209T071836Z">
@@ -32016,16 +32072,16 @@ the server.</seg>
       <tuv lang="EN">
         <seg>This has the effect of deleting the "alternative translation" status at the same time; the translation of the segment will therefore revert to that of the default translation.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T124654Z" creationid="Zoe" creationdate="20180411T124654Z">
-        <seg>该操作同时还有删除“替代翻译”状态的效果；因此该片段的译文又变回了默认翻译。</seg>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T134210Z" creationid="Zoe" creationdate="20180411T124654Z">
+        <seg>该操作同时还有删除“可选翻译”状态的效果；因此该片段的译文又变回了默认翻译。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>This has the effect of making all instances of non-unique segments alternative translations (see "One-to-many matching" below).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T120415Z" creationid="Zoe" creationdate="20180411T120324Z">
-        <seg>该操作可以为所有非独特片段实例制作替代翻译（见下方“一对多匹配”）。</seg>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T134020Z" creationid="Zoe" creationdate="20180411T120324Z">
+        <seg>该操作可以为所有非独特片段实例制作可选翻译（见下方“一对多匹配”）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32202,6 +32258,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
         <seg>这是缺省的情况。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is the folder in which the spelling dictionary files will be placed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T135655Z" creationid="Zoe" creationdate="20180411T135655Z">
+        <seg>将在这个文件夹中存放拼写字典。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32954,8 +33018,8 @@ the server.</seg>
       <tuv lang="EN">
         <seg>To make an alternative translation the default translation, right-click with the mouse and select "Use as Default Translation".</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T122304Z" creationid="Zoe" creationdate="20180411T122304Z">
-        <seg>若要将一种替代翻译设置成默认翻译，鼠标右击译文，选择“用做默认翻译”。</seg>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T134116Z" creationid="Zoe" creationdate="20180411T122304Z">
+        <seg>若要将一种可选翻译设置成默认翻译，鼠标右击译文，选择“用做默认翻译”。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32994,8 +33058,8 @@ the server.</seg>
       <tuv lang="EN">
         <seg>To produce a translation that is different from the "default translation", right-click with the mouse within the segment and select "Create Alternative Translation".</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T121526Z" creationid="Zoe" creationdate="20180411T121526Z">
-        <seg>要产生不同于“默认译文”的翻译，在片段中右击鼠标，选择“创建替代翻译”。</seg>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T134048Z" creationid="Zoe" creationdate="20180411T121526Z">
+        <seg>要产生不同于“默认译文”的翻译，在片段中右击鼠标，选择“创建可选翻译”。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33010,8 +33074,8 @@ the server.</seg>
       <tuv lang="EN">
         <seg>To remove the "alternative translation" status of a single segment and bring it back into line with the "default translation", simply delete the content of the segment.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T124142Z" creationid="Zoe" creationdate="20180411T124142Z">
-        <seg>要撤销一个片段的“替代翻译”状态，并使其与“默认翻译”保持一致，仅需删除掉这一片段的内容即可。</seg>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T134204Z" creationid="Zoe" creationdate="20180411T124142Z">
+        <seg>要撤销一个片段的“可选翻译”状态，并使其与“默认翻译”保持一致，仅需删除掉这一片段的内容即可。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35646,8 +35710,8 @@ trouble of selecting, obtaining and installing it.</seg>
       <tuv lang="EN">
         <seg>Where two segments also have identical preceding and following segments (for example when an entire page appears twice in the text), they cannot be translated differently from each other in OmegaT, i.e. it is not possible to make one of them an "alternative translation".</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T132133Z" creationid="Zoe" creationdate="20180411T132133Z">
-        <seg>有些情况，两个片段也会拥有相同的前后片段，（例如，当一整页内容在一篇文章中出现两次），在OmegaT中这两页无法被译成不同的版本。例如，无法将其中一页设置成“替换译文”。</seg>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T134346Z" creationid="Zoe" creationdate="20180411T132133Z">
+        <seg>有些情况，两个片段也会拥有相同的前后片段，（例如，当一整页内容在一篇文章中出现两次），在OmegaT中这两页无法被译成不同的版本，即无法为其中一页设置“可选译文”。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36518,8 +36582,8 @@ from there.</seg>
       <tuv lang="EN">
         <seg>You can have as many "alternative translations" as you like of identical segments, but there can only be one default translation (or none at all).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T122046Z" creationid="Zoe" creationdate="20180411T122046Z">
-        <seg>你可以为相同片段设置多种“替代翻译”，但只能有一种默认翻译（或完全没有）。</seg>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T134110Z" creationid="Zoe" creationdate="20180411T122046Z">
+        <seg>你可以为相同片段设置多种“可选翻译”，但只能有一种默认翻译（或完全没有）。</seg>
       </tuv>
     </tu>
     <tu>
