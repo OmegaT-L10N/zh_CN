@@ -1466,6 +1466,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(If Options &gt; View &gt; "Include the first non-unique segment when marking non-unique segments" is selected, all non-unique segments including the first are marked in this way.)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T115234Z" creationid="Zoe" creationdate="20180411T114134Z">
+        <seg>（如果选项&gt;浏览&gt;“标记非独特片段时包含第一个非独特片段”被选中，所有非独特片段包括第一个非独特片段将均按此方式标记）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(In Italian)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T151034Z" creationid="cpeishan" creationdate="20180407T151034Z">
@@ -31185,6 +31193,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This has the effect of making all instances of non-unique segments alternative translations (see "One-to-many matching" below).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T120415Z" creationid="Zoe" creationdate="20180411T120324Z">
+        <seg>该操作可以为所有非独特片段实例制作替代翻译（见下方“一对多匹配”）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This includes preferences set from within OmegaT, any changes you have made to your&lt;f1&gt; OmegaT.l4J.ini&lt;/f1&gt; file, and also your launch script (.bat file), if you are using one.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120206T115825Z">
@@ -35428,6 +35444,14 @@ from there.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131127T142003Z" creationid="Fu Rhong" creationdate="20131127T142003Z">
         <seg>您可以通过&lt;g1&gt;编辑→用作默认译文&lt;/g1&gt;指定某个可选译文（例如其中可能性最大的译文）为默认译文。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can disable the auto-propagation function with Project &gt; Properties &gt; uncheck the "Auto-propagation of Translations" box.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T115719Z" creationid="Zoe" creationdate="20180411T115719Z">
+        <seg>你可以通过项目&gt;属性&gt;取消勾选“翻译自动传输”选框，停用自动传输功能。</seg>
       </tuv>
     </tu>
     <tu>
