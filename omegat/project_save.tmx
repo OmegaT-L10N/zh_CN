@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.1.4" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5652,8 +5652,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Source files&lt;/p0&gt; &lt;s1&gt;PDF files&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T123425Z" creationid="Administrator" creationdate="20180411T123425Z">
-        <seg>&lt;p0&gt;源文件&lt;/p0&gt; &lt;s1&gt;PDF文档&lt;/s1&gt;</seg>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T124918Z" creationid="Administrator" creationdate="20180411T123425Z">
+        <seg>&lt;p0&gt;源文件&lt;/p0&gt; &lt;s1&gt;PDF文件&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5908,8 +5908,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Target files&lt;/p0&gt; &lt;s1&gt;PDF text files&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T123405Z" creationid="Administrator" creationdate="20180411T123405Z">
-        <seg>&lt;p0&gt;目标文件&lt;/p0&gt; &lt;s1&gt;s&lt;/s1&gt;PDF文档 </seg>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T123509Z" creationid="Administrator" creationdate="20180411T123405Z">
+        <seg>&lt;p0&gt;目标文件&lt;/p0&gt; &lt;s1&gt;s&lt;/s1&gt;PDF文件 </seg>
       </tuv>
     </tu>
     <tu>
@@ -15997,6 +15997,14 @@ is to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you need to reproduce text formatting (as well as other things such as drawings) in your translation, there are three ways to try:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T130329Z" creationid="Administrator" creationdate="20180411T130329Z">
+        <seg>如果您需要在翻译中复制文本格式（以及其他东西，如绘图），有三种方法可以尝试：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you need to see tags in OmegaT but do not need to retain most of the formatting in the translated document you are free not to include tags in the translation.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120205T121510Z">
@@ -22573,6 +22581,22 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T152309Z">
         <seg>PDF 输入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>PDF files</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T123457Z" creationid="Administrator" creationdate="20180411T123431Z">
+        <seg>PDF文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>PDF files are a special case.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T123450Z" creationid="Administrator" creationdate="20180411T123450Z">
+        <seg>PDF文件是一个特殊的例子。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31300,6 +31324,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>They contain text formatting information, but such information cannot be reused by &lt;a0&gt;OmegaT&lt;/a0&gt; in order to create target files.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T125040Z" creationid="Administrator" creationdate="20180411T125040Z">
+        <seg>其包含文本格式化信息，但这些信息不能被&lt;a0&gt;OmegaT&lt;/a0&gt;重新使用来创建目标文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>They contain the one and the same translation memory contents in different forms, to be used in future projects.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131114T075239Z" creationid="Fu Rhong" creationdate="20131114T075239Z">
@@ -32112,6 +32144,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120219T124136Z">
         <seg>然而，一旦启动项目的翻译工作，就应该避免发生这样的事情。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Thus, PDF files are handled as plain text files, and output files are plain text files.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T125119Z" creationid="Administrator" creationdate="20180411T125119Z">
+        <seg>因此，PDF文件被当作纯文本文件处理，输出文件是纯文本文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33858,6 +33898,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180407T142758Z" creationid="lenovo" creationdate="20180407T142758Z">
         <seg>使用词根术语词条(&amp;s)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use &lt;a0&gt;OmegaT’s&lt;/a0&gt; default filter (PDF input), translate, create a target file (it will be a plain text file), add relevant formatting and items manually.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T130530Z" creationid="Administrator" creationdate="20180411T130530Z">
+        <seg>使用 &lt;a0&gt;OmegaT的&lt;/a0&gt; 默认过滤器 （PDF输入），翻译， 创建目标文件（将会是纯文本文件，手动添加相关的格式和项目</seg>
       </tuv>
     </tu>
     <tu>
