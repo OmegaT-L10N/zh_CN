@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.1.4" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8335,6 +8335,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By default the editor displays 2,000 of initial segments, and progressively loads more as you scroll up or down.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T111316Z" creationid="Administrator" creationdate="20180411T111316Z">
+        <seg>默认情况下，编辑器会显示2000个初始段，当你向上滚动或向下滚动时，会逐渐加载更多。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By default, 512 MB are assigned, so there is no advantage in assigning less than this figure.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131116T131435Z" creationid="Fu Rhong" creationdate="20131116T131435Z">
@@ -8996,6 +9004,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T110457Z" creationid="Administrator" creationdate="20180411T110006Z">
         <seg>每次离开片段的时候，选择这个选项来注意源标签和目标标签的差别.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check this option to record in the &lt;f0&gt;project_save.tmx&lt;/f0&gt; file the information that a segment has been auto-populated, so it can be displayed with a specific color in the Editor (if the "Mark Auto-Populated Segments" option, in the View menu, is checked).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T111207Z" creationid="Administrator" creationdate="20180411T111207Z">
+        <seg>选择此选项来记录在 &lt;f0&gt;project_save.tmx&lt;/f0&gt;文件中自动填充片段的信息，故而其可在编辑器中用特定的颜色列出（如果在视图菜单中已选中“标记自动填充片段”选项）</seg>
       </tuv>
     </tu>
     <tu>
@@ -15658,6 +15674,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you have a powerful machine, and/or if you don't like how the scrollbar behaves during progressive loading, you can increase this number.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T111422Z" creationid="Administrator" creationdate="20180411T111422Z">
+        <seg>如果您有一个强大的设备，并且/或者如果您不喜欢滚动条逐步加载的行为，您可以通过增加数字来实现。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you have already Java installed on your system, one way to install OmegaT
 is to use Java Web Start.</seg>
       </tuv>
@@ -16676,6 +16700,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131114T075623Z" creationid="Fu Rhong" creationdate="20131114T075351Z">
         <seg>该文件夹初始为空的，它将包含您添加到项目的词典文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Initially load this many segments</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T111545Z" creationid="Administrator" creationdate="20180411T111239Z">
+        <seg>初始加载多片段</seg>
       </tuv>
     </tu>
     <tu>
