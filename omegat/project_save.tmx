@@ -8487,6 +8487,22 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Cancel</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T114508Z" creationid="Administrator" creationdate="20180411T114508Z">
+        <seg>取消</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cancel only works on scripts that explicitly check for cancellation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T114746Z" creationid="Administrator" creationdate="20180411T114746Z">
+        <seg>Cancel仅适用于显式检查取消的脚本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cancelled creating new team project</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130504T151856Z">
