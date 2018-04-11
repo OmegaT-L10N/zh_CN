@@ -624,6 +624,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Find...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T133515Z" creationid="Administrator" creationdate="20180411T133515Z">
+        <seg>查找(&amp;F)…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Finish</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180407T073112Z" creationid="lenovo" creationdate="20180407T073112Z">
@@ -1090,8 +1098,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Replace...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T133051Z" creationid="Administrator" creationdate="20180411T133051Z">
-        <seg>替换(&amp;R)...</seg>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T133237Z" creationid="Administrator" creationdate="20180411T133051Z">
+        <seg>替换(&amp;R)…</seg>
       </tuv>
     </tu>
     <tu>
@@ -6774,6 +6782,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T072729Z" creationid="weiyi" creationdate="20180406T072729Z">
         <seg>访问项目内容</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Access Scripts Folder</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T133655Z" creationid="Administrator" creationdate="20180411T133655Z">
+        <seg>访问脚本文件夹</seg>
       </tuv>
     </tu>
     <tu>
