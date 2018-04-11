@@ -2751,6 +2751,22 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;b0&gt;Mark Non-Unique Segments&lt;/b0&gt;: identical segments are marked in grey (changes the display, but not the behaviour).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T130259Z" creationid="Zoe" creationdate="20180411T130259Z">
+        <seg>&lt;b0&gt;标记非独特片段&lt;/b0&gt;：相同片段都用灰色标记（改变显示，而非行为）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;b0&gt;None&lt;/b0&gt; (default behaviour): all identical segments are automatically translated the same way.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T130122Z" creationid="Zoe" creationdate="20180411T130029Z">
+        <seg>&lt;b0&gt;无&lt;/b0&gt; （默认行为）：所有相同片段都自动以同样形式翻译</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;b0&gt;This formatting&lt;/b0&gt; has been &lt;b0&gt;duplicated here&lt;/b0&gt;.&lt;segment 0001&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120205T115126Z">
@@ -27471,6 +27487,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Summary of propagation and one-to-many matching commands</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T125610Z" creationid="Zoe" creationdate="20180411T125610Z">
+        <seg>传输摘要与一对多匹配指令</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sundanese</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T112354Z" creationid="Fu Rhong" creationdate="20131108T101144Z">
@@ -28944,6 +28968,14 @@ instead.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120214T033404Z">
         <seg>构造</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The content of a segment can be deleted completely either by means of the keyboard shortcuts Ctrl+A &gt; Ctrl+X &gt; Enter, by right-clicking with the mouse and the Remove Translation menu item, or simply by using the delete key (repeatedly).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T125519Z" creationid="Zoe" creationdate="20180411T125519Z">
+        <seg>可以通过使用键盘快捷键Ctrl+A &gt; Ctrl+X &gt; Enter，或鼠标右击片段，选择移除翻译菜单选项，再或重复使用删除键，均可实现完全删除一条片段的内容</seg>
       </tuv>
     </tu>
     <tu>
@@ -31544,6 +31576,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120205T115335Z">
         <seg>此格式已经被删除。&lt;片段 0001&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This has the effect of deleting the "alternative translation" status at the same time; the translation of the segment will therefore revert to that of the default translation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T124654Z" creationid="Zoe" creationdate="20180411T124654Z">
+        <seg>该操作同时还有删除“替代翻译”状态的效果；因此该片段的译文又变回了默认翻译。</seg>
       </tuv>
     </tu>
     <tu>
