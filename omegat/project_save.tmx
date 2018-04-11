@@ -1778,6 +1778,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- Highlighted text in the target text, when the relevant shortcut is pressed</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T145825Z" creationid="Zoe" creationdate="20180411T145825Z">
+        <seg>- 按下相关快捷键时，目标文本中的高亮文本Highlighted text in the target text, when the relevant shortcut is pressed</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- INI (key=value) files (*.ini)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130514T151824Z">
@@ -1886,6 +1894,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T145627Z" creationid="Zoe" creationdate="20180411T145627Z">
         <seg>- 片段打开时，片段源文本内容&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- The content of the segment target text, when the segment is opened&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T145709Z" creationid="Zoe" creationdate="20180411T145709Z">
+        <seg>- 片段打开时，片段目标文本内容&lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
