@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.1.4" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10454,8 +10454,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>DeepL Api key not available.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T111539Z" creationid="Administrator" creationdate="20180411T111539Z">
-        <seg>DeepL Api 键值可不用。</seg>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T112808Z" creationid="Administrator" creationdate="20180411T111539Z">
+        <seg>DeepL Api 密钥可不用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14133,8 +14133,8 @@ script provided (omegat.kaptn).</seg>
       <tuv lang="EN">
         <seg>Google Api key not available.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T165206Z">
-        <seg>Google Api 键值可不用。</seg>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T112828Z">
+        <seg>Google Api 密钥可不用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19279,8 +19279,8 @@ itself on the first run.</seg>
       <tuv lang="EN">
         <seg>Microsoft Translator Subscription Key not available.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T112347Z" creationid="Administrator" creationdate="20180411T112013Z">
-        <seg>微软翻译订阅键值不可用。</seg>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T112753Z" creationid="Administrator" creationdate="20180411T112013Z">
+        <seg>微软翻译订阅密钥不可用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19489,6 +19489,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120201T111948Z">
         <seg>更确切地说，OmegaT 尝试着用每个过滤器的源文件名模式对文件名进行匹配。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moses Server URL:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T113919Z" creationid="Administrator" creationdate="20180411T113919Z">
+        <seg>Moses 服务器网址：</seg>
       </tuv>
     </tu>
     <tu>
@@ -20764,6 +20772,14 @@ appropriate location such as the Applications folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131116T034854Z" creationid="Fu Rhong" creationdate="20131116T034854Z">
         <seg>ODF - OASIS Open Document Format (*.ods, *.ots, *.odt, *.ott, *.odp, *.otp)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OK</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T114005Z" creationid="Administrator" creationdate="20180411T114005Z">
+        <seg>确定</seg>
       </tuv>
     </tu>
     <tu>
@@ -25852,6 +25868,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Server does not understand the "translate" method</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T114109Z" creationid="Administrator" creationdate="20180411T114109Z">
+        <seg>服务器未识别“翻译”方法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Set a segment after "。" (Japanese period)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131121T122935Z">
@@ -26982,8 +27006,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Subscription Key:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T111839Z" creationid="Administrator" creationdate="20180411T111839Z">
-        <seg>订阅键值：</seg>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T112802Z" creationid="Administrator" creationdate="20180411T111839Z">
+        <seg>订阅密钥：</seg>
       </tuv>
     </tu>
     <tu>
@@ -27700,6 +27724,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Testing...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T113951Z" creationid="Administrator" creationdate="20180411T113951Z">
+        <seg>测试中......</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Text</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130911T115601Z">
@@ -28123,6 +28155,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120219T145934Z">
         <seg>该匹配统计是 tab 分割的，您可用 &lt;g0&gt;Ctrl+A &lt;i1/&gt;&lt;/g0&gt;&lt;g2&gt;, Ctrl+C &lt;i3/&gt;&lt;/g2&gt;, &lt;g4&gt;Ctrl+V &lt;i5/&gt;&lt;/g4&gt; 来复制/粘贴它们，例如到工作表或费用统计程序中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Moses server URL is not set</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T113857Z" creationid="Administrator" creationdate="20180411T113857Z">
+        <seg>未设置Moses 服务器网址</seg>
       </tuv>
     </tu>
     <tu>
@@ -30086,6 +30126,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The specified translation direction is not supported</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T113615Z" creationid="Administrator" creationdate="20180411T113615Z">
+        <seg>不支持指定的翻译方向</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The spell checker uses the target language code to determine the language to be used : if the target language is Brazilian Portuguese (PT_BR), the subfolder with vocabularies must contain the two vocabulary files, called &lt;e0&gt;pt_br.aff&lt;/e0&gt; and &lt;e1&gt;pt_br.dic&lt;/e1&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021248Z">
@@ -30206,6 +30254,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The text could not be translated</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T113523Z" creationid="Administrator" creationdate="20180411T113523Z">
+        <seg>文本无法翻译</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The text export function exports data from within the current &lt;a0&gt;OmegaT&lt;/a0&gt; project to plain text files.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131113T012307Z">
@@ -30226,6 +30282,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120211T062652Z">
         <seg>该文本被导出到纯文本文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The text size exceeds the maximum</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T113428Z" creationid="Administrator" creationdate="20180411T113428Z">
+        <seg>文本大小超过最大值</seg>
       </tuv>
     </tu>
     <tu>
@@ -30813,6 +30877,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120201T044524Z">
         <seg>它们将以单独片段的形式出现。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This API key has been blocked</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T112959Z" creationid="Administrator" creationdate="20180411T112959Z">
+        <seg>此API密钥已被阻止</seg>
       </tuv>
     </tu>
     <tu>
@@ -35022,8 +35094,8 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       <tuv lang="EN">
         <seg>Yandex Translate - No API Key Specified</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T112312Z" creationid="Administrator" creationdate="20180411T112142Z">
-        <seg>Yandex 翻译——无指定API 键值</seg>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T112738Z" creationid="Administrator" creationdate="20180411T112142Z">
+        <seg>Yandex 翻译——无指定API 密钥</seg>
       </tuv>
     </tu>
     <tu>
@@ -35544,6 +35616,22 @@ the installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131116T082633Z" creationid="Fu Rhong" creationdate="20131116T082633Z">
         <seg>您可以在项目属性对话框中设定其位置和名称。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You have reached the daily limit for requests</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T113345Z" creationid="Administrator" creationdate="20180411T113044Z">
+        <seg>您已达到每日申请限值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You have reached the daily limit for the volume of translated text</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T113317Z" creationid="Administrator" creationdate="20180411T113234Z">
+        <seg>您已达到每日翻译文本限值</seg>
       </tuv>
     </tu>
     <tu>
