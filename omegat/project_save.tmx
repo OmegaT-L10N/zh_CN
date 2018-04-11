@@ -9441,6 +9441,16 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Close the current OmegaT instance
+3.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T131624Z" creationid="Administrator" creationdate="20180411T131624Z">
+        <seg>关闭当前OmegaT实例
+3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Close the project</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120218T060243Z">
@@ -24597,6 +24607,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove the project folder manually.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T131534Z" creationid="Administrator" creationdate="20180411T131534Z">
+        <seg>手动删除项目文件夹。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove translation</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T165521Z">
@@ -27341,6 +27359,16 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130911T115507Z">
         <seg>标准</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Start OmegaT again, download the team project, close OmegaT
+5.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T131359Z" creationid="Administrator" creationdate="20180411T131359Z">
+        <seg>再次启动OmegaT，下载团队项目，关闭OmegaT
+5.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34804,6 +34832,16 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T112843Z" creationid="Fu Rhong" creationdate="20131108T101833Z">
         <seg>沃拉卜克语</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WARNING: all unsaved data will be lost
+4.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T131453Z" creationid="Administrator" creationdate="20180411T131453Z">
+        <seg>警告：所有未保存数据将丢失
+4.</seg>
       </tuv>
     </tu>
     <tu>
