@@ -16289,6 +16289,14 @@ is to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you only have a Bolivian Spanish dictionary available, with the file names es_BO.dic and es_BO.aff, you can rename these files es_MX.dic and es_MX.aff, and the spelling dictionary will work.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T143138Z" creationid="Zoe" creationdate="20180411T143138Z">
+        <seg>如果你只有玻利维亚西班牙语词典，文件名为es_BO.dic和es_BO.aff。你可以将这些文件改名为es_MX.dic和es_MX.aff，拼写检查词典也可以正常工作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you only have a standard Spanish dictionary available, with file names es_es.dic and es_es.aff for instance, you can copy these files to es_MX.dic and es_MX.aff, and the spelling dictionary will work.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131126T084826Z" creationid="Fu Rhong" creationdate="20131126T084826Z">
