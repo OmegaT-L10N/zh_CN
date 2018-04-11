@@ -1528,6 +1528,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(Do not confuse this folder with the "dictionary" folder in OmegaT projects.) Then select the URL (website address) of an online repository from which to download the dictionary or dictionaries, and paste this URL into the "URL of online dictionaries" field.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T140137Z" creationid="Zoe" creationdate="20180411T135807Z">
+        <seg>（请不要将这个文件夹与OmegaT项目中的“字典”文件夹混淆）然后选中下载字典的在线仓库的URL（网址），将这个URL粘帖到“在线字典URL”区域。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(If Options &gt; View &gt; "Include the first non-unique segment when marking non-unique segments" is selected, all non-unique segments including the first are marked in this way.)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T115234Z" creationid="Zoe" creationdate="20180411T114134Z">
@@ -32264,8 +32272,8 @@ the server.</seg>
       <tuv lang="EN">
         <seg>This is the folder in which the spelling dictionary files will be placed.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T135655Z" creationid="Zoe" creationdate="20180411T135655Z">
-        <seg>将在这个文件夹中存放拼写字典。</seg>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T135828Z" creationid="Zoe" creationdate="20180411T135655Z">
+        <seg>这个文件夹将用于存放拼写字典。</seg>
       </tuv>
     </tu>
     <tu>
