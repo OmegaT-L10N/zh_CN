@@ -22934,6 +22934,15 @@ to determine the source of the error and try again.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please contact your project administrator to find out if any
+additional steps need to be taken.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T125755Z" creationid="Administrator" creationdate="20180411T125755Z">
+        <seg>请联系您的项目管理员，了解是否需要采取其他措施。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please correct the tag issues before using again Create Translated Documents.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130505T164610Z">
@@ -24708,8 +24717,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Repository Credentials</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T124809Z" creationid="Administrator" creationdate="20180411T122649Z">
-        <seg>资源库凭证</seg>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T125458Z" creationid="Administrator" creationdate="20180411T122649Z">
+        <seg>仓库凭证</seg>
       </tuv>
     </tu>
     <tu>
@@ -27494,8 +27503,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Synchronisation of repositories</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T124832Z" creationid="Administrator" creationdate="20180411T122548Z">
-        <seg>同步资源库</seg>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T125442Z" creationid="Administrator" creationdate="20180411T122548Z">
+        <seg>同步仓库</seg>
       </tuv>
     </tu>
     <tu>
@@ -31547,16 +31556,16 @@ configuration folder cannot be reliably determined.</seg>
       <tuv lang="EN">
         <seg>This is a Git repository.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T124724Z" creationid="Administrator" creationdate="20180411T124003Z">
-        <seg>Git资源库。</seg>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T125515Z" creationid="Administrator" creationdate="20180411T124003Z">
+        <seg>Git仓库。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>This is a Subversion repository.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T124755Z" creationid="Administrator" creationdate="20180411T123905Z">
-        <seg>Subversion资源库。</seg>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T125555Z" creationid="Administrator" creationdate="20180411T123905Z">
+        <seg>Subversion仓库。</seg>
       </tuv>
     </tu>
     <tu>
