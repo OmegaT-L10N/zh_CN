@@ -1561,6 +1561,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(It will, of course, check for Bolivian rather than Mexican Spanish!)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T143458Z" creationid="Zoe" creationdate="20180411T143458Z">
+        <seg>（当然，有时也会检查是否是玻利维亚西班牙语而非墨西哥西班牙语！）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(The Java executable file is the file java on Linux and java.exe on Windows.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120127T052553Z">
