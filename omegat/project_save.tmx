@@ -24692,8 +24692,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Repository Credentials</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T122649Z" creationid="Administrator" creationdate="20180411T122649Z">
-        <seg>存储库凭证</seg>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T124809Z" creationid="Administrator" creationdate="20180411T122649Z">
+        <seg>资源库凭证</seg>
       </tuv>
     </tu>
     <tu>
@@ -27478,8 +27478,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Synchronisation of repositories</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T122548Z" creationid="Administrator" creationdate="20180411T122548Z">
-        <seg>同步存储库</seg>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T124832Z" creationid="Administrator" creationdate="20180411T122548Z">
+        <seg>同步资源库</seg>
       </tuv>
     </tu>
     <tu>
@@ -28014,8 +28014,24 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Team synchronization...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
-        <seg>团队同步...</seg>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T124953Z">
+        <seg>团队同步…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Team synchronization: Saving translation in {0} s</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T125003Z" creationid="Administrator" creationdate="20180411T125003Z">
+        <seg>团队同步：在{0}中保存翻译</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Team synchronization: Waiting for you to finish this segment...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T125043Z" creationid="Administrator" creationdate="20180411T125043Z">
+        <seg>团队同步：等待您完成此段…</seg>
       </tuv>
     </tu>
     <tu>
@@ -31523,8 +31539,8 @@ configuration folder cannot be reliably determined.</seg>
       <tuv lang="EN">
         <seg>This is a Subversion repository.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T123931Z" creationid="Administrator" creationdate="20180411T123905Z">
-        <seg>Subversion版本库。</seg>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T124755Z" creationid="Administrator" creationdate="20180411T123905Z">
+        <seg>Subversion资源库。</seg>
       </tuv>
     </tu>
     <tu>
