@@ -30482,8 +30482,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>There should be three files, with extensions &lt;e1&gt;dz, idx &lt;/e1&gt;and &lt;e2&gt;ifo&lt;/e2&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120131T115836Z">
-        <seg>应该包括三份文件，扩展名分别为：&lt;e1&gt;dz, idx &lt;/e1&gt;和 &lt;e2&gt;ifo&lt;/e2&gt;。</seg>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T082156Z">
+        <seg>其应该包括三份文件，扩展名分别为：&lt;e1&gt;dz, idx &lt;/e1&gt;和 &lt;e2&gt;ifo&lt;/e2&gt;。</seg>
       </tuv>
     </tu>
     <tu>
