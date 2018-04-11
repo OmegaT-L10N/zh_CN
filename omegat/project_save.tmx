@@ -7313,6 +7313,22 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An error occurred</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T120128Z" creationid="Administrator" creationdate="20180411T120128Z">
+        <seg>出现错误</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An error occurred when loading the script: {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T120217Z" creationid="Administrator" creationdate="20180411T120217Z">
+        <seg>载入脚本时出错：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An error occurred while trying to create a new folder</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T150430Z">
@@ -25756,6 +25772,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select Scripts Folder</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T120357Z" creationid="Administrator" creationdate="20180411T120357Z">
+        <seg>选择脚本目录：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select TaaS Terminology &amp;Lookup Domain...</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T025902Z" creationid="xulihang" creationdate="20180404T025418Z">
@@ -36679,6 +36703,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>canceled ({0} ms elapsed)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T120117Z" creationid="Administrator" creationdate="20180411T120117Z">
+        <seg>取消</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>cat</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131107T142654Z" creationid="Fu Rhong" creationdate="20131107T142654Z">
@@ -37057,8 +37089,8 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>done ({0} ms elapsed)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T115114Z" creationid="Administrator" creationdate="20180411T115114Z">
-        <seg>完成({0} ms  )</seg>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T120044Z" creationid="Administrator" creationdate="20180411T115114Z">
+        <seg>完成({0} </seg>
       </tuv>
     </tu>
     <tu>
