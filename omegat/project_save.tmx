@@ -1780,8 +1780,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>- Highlighted text in the target text, when the relevant shortcut is pressed</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T145825Z" creationid="Zoe" creationdate="20180411T145825Z">
-        <seg>- 按下相关快捷键时，目标文本中的高亮文本Highlighted text in the target text, when the relevant shortcut is pressed</seg>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T145834Z" creationid="Zoe" creationdate="20180411T145825Z">
+        <seg>- 按下相关快捷键时，目标文本中的高亮文本</seg>
       </tuv>
     </tu>
     <tu>
@@ -23969,6 +23969,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Programmers and scripters can use the files containing this text in order to add further functions to OmegaT.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T145957Z" creationid="Zoe" creationdate="20180411T145957Z">
+        <seg>程序员和工作人员可以使用包含这些文本的文件，旨在为OmegaT加入更多功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Project</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
@@ -31976,6 +31984,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131119T125427Z" creationid="Fu Rhong" creationdate="20131119T125427Z">
         <seg>它们的含义Word用户很熟悉：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>They need no knowledge of Java; most if not all programming languages could be used instead, and useful functions achieved even with only relatively limited programming skill.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T150554Z" creationid="Zoe" creationdate="20180411T150554Z">
+        <seg>他们不需要懂Java；大多数时候，不是所有编程语言都会用到，并且有些实用的功能甚至仅仅用到了相当有限的编程技能就得以实现。</seg>
       </tuv>
     </tu>
     <tu>
