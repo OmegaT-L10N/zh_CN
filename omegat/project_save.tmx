@@ -1547,6 +1547,15 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(You will still able to use OmegaT
+3.6 to edit this project as a team project.)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T125930Z" creationid="Administrator" creationdate="20180411T125930Z">
+        <seg>（您仍然可以使用OmegaT3.6编辑该项目作为团队项目。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(\b\w+\b)\s\1\b</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120215T114745Z">
@@ -23202,6 +23211,15 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Press 'Cancel' to leave the project unmodified and load it as a local
+project without team functionality.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T130041Z" creationid="Administrator" creationdate="20180411T130041Z">
+        <seg>按'取消'可以不修改项目并将其作为本地项目加载，无需团队功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Press &lt;e0&gt; &lt;k1&gt;Alt+F2&lt;/k1&gt; &lt;/e0&gt; to show KRunner.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120206T121638Z">
@@ -30107,6 +30125,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="17012" changedate="20180405T025030Z" creationid="17012" creationdate="20180405T025030Z">
         <seg>你可以在项目设置时输入术语表文件的名字来创建可写入术语表（见本章开端）。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The project was converted successfully.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T125832Z" creationid="Administrator" creationdate="20180411T125832Z">
+        <seg>该项目已成功转换。</seg>
       </tuv>
     </tu>
     <tu>
