@@ -6547,8 +6547,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>API Key:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T110134Z" creationid="Administrator" creationdate="20180411T110134Z">
-        <seg>API 键值：</seg>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T112705Z" creationid="Administrator" creationdate="20180411T110134Z">
+        <seg>API 密钥：</seg>
       </tuv>
     </tu>
     <tu>
@@ -17072,6 +17072,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Invalid API key</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T112730Z" creationid="Administrator" creationdate="20180411T112455Z">
+        <seg>API 密钥无效</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Invalid HTML file</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T154352Z">
@@ -19271,8 +19279,8 @@ itself on the first run.</seg>
       <tuv lang="EN">
         <seg>Microsoft Translator Subscription Key not available.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T112013Z" creationid="Administrator" creationdate="20180411T112013Z">
-        <seg>微软翻译订阅键值不可用。Microsoft Translator Subscription Key not available.</seg>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T112347Z" creationid="Administrator" creationdate="20180411T112013Z">
+        <seg>微软翻译订阅键值不可用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34966,8 +34974,8 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       <tuv lang="EN">
         <seg>Yandex Translate - No API Key Specified</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T112142Z" creationid="Administrator" creationdate="20180411T112142Z">
-        <seg>Yandex 翻译Yandex Translate - No API Key Specified</seg>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T112312Z" creationid="Administrator" creationdate="20180411T112142Z">
+        <seg>Yandex 翻译——无指定API 键值</seg>
       </tuv>
     </tu>
     <tu>
