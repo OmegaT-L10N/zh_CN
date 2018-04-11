@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.1.4" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3284,6 +3284,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131116T121828Z" creationid="Fu Rhong" creationdate="20131116T121828Z">
         <seg>&lt;e0&gt;注：&lt;/e0&gt;还有其他创建含TAB分隔条目的简单文件的方法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Note:&lt;/e0&gt; the above information applies only to PDF files with a text layer.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T134649Z" creationid="Administrator" creationdate="20180411T134649Z">
+        <seg>&lt;e0&gt;注：以上信息仅适用于带有文字图层的PDF文件。&lt;/e0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16049,6 +16057,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you have a PDF file made of scanned pages (sometimes such files are referred to as ‘dead’ PDFs), you need to use an OCR (optical character recognition) program to recognize the text and convert it to a format that can be handled by OmegaT.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T134738Z" creationid="Administrator" creationdate="20180411T134738Z">
+        <seg>如果您有一个由扫描页面组成的PDF文件（有时这些文件被称为“死”PDF文件），您需要使用OCR（光学字符识别）程序来识别文本并将其转换为可由OmegaT处理的格式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you have a powerful machine, and/or if you don't like how the scrollbar behaves during progressive loading, you can increase this number.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T111422Z" creationid="Administrator" creationdate="20180411T111422Z">
@@ -16393,6 +16409,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T115237Z" creationid="xulihang" creationdate="20180408T115237Z">
         <seg>忽略术语大小写</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Import the source file to &lt;u0&gt;LibreOffice Draw&lt;/u0&gt;, save it as an ODG file, translate, export to PDF as needed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T134540Z" creationid="Administrator" creationdate="20180411T134540Z">
+        <seg>将源文件导入&lt;u0&gt;LibreOffice Draw&lt;/u0&gt;，将其保存为ODG文件，并在需要时将其导出为PDF。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25959,6 +25983,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See &lt;u0&gt;Howto - Translating PDF files with Iceni Infix and OmegaT&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T134406Z" creationid="Administrator" creationdate="20180411T134406Z">
+        <seg>查阅&lt;u0&gt;如何——用Iceni Infix和OmegaT翻译PDF文件&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See &lt;u0&gt;Oracle documentation&lt;/u0&gt; for examples of the "SimpleDateFormat" patterns</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131113T124846Z" creationid="Fu Rhong" creationdate="20131113T124846Z">
@@ -34332,6 +34364,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use the Iceni Infix filter.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T130712Z" creationid="Administrator" creationdate="20180411T130712Z">
+        <seg>使用Iceni Infix过滤器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use the installation language in OmegaT</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130514T144507Z">
@@ -39082,6 +39122,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>https://omegat.org/howtos/iceni_infix.html</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T130533Z" creationid="Administrator" creationdate="20180411T130533Z">
+        <seg>https://omegat.org/howtos/iceni_infix.html </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>https://sourceforge.net/p/omegat/bugs/</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131031T121602Z" creationid="Administrator" creationdate="20131031T121602Z">
@@ -39110,6 +39158,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131111T105748Z" creationid="Fu Rhong" creationdate="20131111T105748Z">
         <seg>https://sourceforge.net/projects/macsvn/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://www.libreoffice.org/discover/draw/</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T134412Z" creationid="Administrator" creationdate="20180411T134412Z">
+        <seg>https://www.libreoffice.org/discover/draw/ </seg>
       </tuv>
     </tu>
     <tu>
