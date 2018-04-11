@@ -13830,8 +13830,8 @@ script provided (omegat.kaptn).</seg>
       <tuv lang="EN">
         <seg>For example, if you have selected ES-MX (Mexican Spanish) as the target language, the dictionary files must be named es_MX.dic and es_MX.aff.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131126T013212Z" creationid="Fu Rhong" creationdate="20131126T013212Z">
-        <seg>例如，如果您选择ES-MX（墨西哥式西班牙语）为目标语言，则词典文件必须命名为es_MX.dic和es_MX.aff。</seg>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T142810Z" creationid="Fu Rhong" creationdate="20131126T013212Z">
+        <seg>例如，如果你选择ES-MX（墨西哥式西班牙语）为目标语言，则词典文件必须命名为es_MX.dic和es_MX.aff。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18834,8 +18834,8 @@ itself on the first run.</seg>
       <tuv lang="EN">
         <seg>LibreOffice and more recent versions of OpenOffice.org now use the "extensions" format for these dictionaries, in which the files are supplied in a a zip archive with the extension .oxt.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T142142Z" creationid="Zoe" creationdate="20180411T142142Z">
-        <seg>LibreOffice和最近版本的OpenOffice.org现在以“插件”形式使用拼写字典， 这些文件在一个拓展名为.oxt的压缩文件包中。</seg>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T142530Z" creationid="Zoe" creationdate="20180411T142142Z">
+        <seg>LibreOffice和最近版本的OpenOffice.org现在以“插件”形式使用拼写字典， 字典文件在一个拓展名为.oxt的压缩文件包中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30405,6 +30405,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131126T013022Z" creationid="Fu Rhong" creationdate="20131126T012833Z">
         <seg>文件的名称必须与项目属性对话框（&lt;g0&gt;项目&gt;属性&lt;/g0&gt;）中定义的目标语言的代码一致。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The names of the files must correspond to the language code of your target language as defined in the project properties dialog (Project &gt; Properties).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T142704Z" creationid="Zoe" creationdate="20180411T142704Z">
+        <seg>文件的名称必须与项目属性对话框（项目&gt;属性）中定义的目标语言代码一致。</seg>
       </tuv>
     </tu>
     <tu>
