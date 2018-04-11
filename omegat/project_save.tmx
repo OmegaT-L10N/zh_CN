@@ -24098,6 +24098,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove leading and trailing whitespace in non-segmented projects: by default, OmegaT removes leading and trailing whitespace.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T113711Z" creationid="Administrator" creationdate="20180411T113711Z">
+        <seg>在未分段的项目中删除首尾的空白字符：通过缺省，OmegaT删除首尾空白字符。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove mnemonics</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T115621Z" creationid="xulihang" creationdate="20180408T115621Z">
@@ -34035,8 +34043,8 @@ searchable without subscription:</seg>
       <tuv lang="EN">
         <seg>Warning: in Microsoft Open XML formats (docx, xlsx, etc.), if all tags are displayed, DO NOT write text before the first tag (it is a technical tag that must always begin the segment).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T113328Z" creationid="Administrator" creationdate="20180411T113328Z">
-        <seg>: in Microsoft Open XML formats (docx, xlsx, etc.), if all tags are displayed, DO NOT write text before the first tag (it is a technical tag that must always begin the segment).</seg>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T113532Z" creationid="Administrator" creationdate="20180411T113328Z">
+        <seg>注意：在Microsoft Open XML格式(docx、xlsx等)中，如果所有标签都显示出来，那么在第一个标签之前不要写文本(它是一个必须始终开始记录片段的技术标签)。</seg>
       </tuv>
     </tu>
     <tu>
