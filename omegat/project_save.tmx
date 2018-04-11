@@ -1080,6 +1080,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Replace...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T133051Z" creationid="Administrator" creationdate="20180411T133051Z">
+        <seg>替换(&amp;R)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Reset Options</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="flycr" changedate="20180408T094931Z" creationid="flycr" creationdate="20180406T131005Z">
@@ -14492,8 +14500,8 @@ script provided (omegat.kaptn).</seg>
       <tuv lang="EN">
         <seg>Goto &amp;Line...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T133012Z" creationid="Administrator" creationdate="20180411T133012Z">
-        <seg>前往&amp;行</seg>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T133033Z" creationid="Administrator" creationdate="20180411T133012Z">
+        <seg>前往&amp;行…</seg>
       </tuv>
     </tu>
     <tu>
