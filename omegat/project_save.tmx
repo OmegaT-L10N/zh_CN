@@ -21373,6 +21373,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Obtain the .dic and .aff files of the dictionary you wish to use, and place these files in this folder.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T141222Z" creationid="Zoe" creationdate="20180411T141222Z">
+        <seg>获取想要使用的字典的.dic和.aff文件，把这些文件放入此文件夹。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Occitan</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T102916Z" creationid="Fu Rhong" creationdate="20131108T030707Z">
