@@ -24082,6 +24082,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove leading and trailing tags: uncheck this option to display all the tags including the leading and trailing ones.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T113207Z" creationid="Administrator" creationdate="20180411T113207Z">
+        <seg>删除首尾的标签：不选此选项来展示所有的标签包含首尾的标签。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove leading and trailing whitespace in non-segmented projects</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T154305Z">
@@ -30945,6 +30953,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This dialog lists available file filters, where the filters used by the current project are displayed in bold.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T113001Z" creationid="Administrator" creationdate="20180411T113001Z">
+        <seg>此对话列出了可利用文件过滤器，当前项目的文件过滤器加粗显示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This document is the official user's guide to OmegaT, the free Computer Aided Translation tool.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120211T140913Z">
@@ -34013,6 +34029,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T162057Z">
         <seg>警告：改变标签顺序可能会破坏译文文档！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Warning: in Microsoft Open XML formats (docx, xlsx, etc.), if all tags are displayed, DO NOT write text before the first tag (it is a technical tag that must always begin the segment).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T113328Z" creationid="Administrator" creationdate="20180411T113328Z">
+        <seg>: in Microsoft Open XML formats (docx, xlsx, etc.), if all tags are displayed, DO NOT write text before the first tag (it is a technical tag that must always begin the segment).</seg>
       </tuv>
     </tu>
     <tu>
