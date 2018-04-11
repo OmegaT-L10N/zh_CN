@@ -7514,6 +7514,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An error occurred while trying to run console process: {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T134307Z" creationid="Administrator" creationdate="20180411T134307Z">
+        <seg>尝试运行控制台进程时发生错误：{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An exact search looks for a phrase, i.e. if several words are entered, they are found only if they occur in exactly that sequence.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120215T123538Z">
@@ -27939,8 +27947,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Tab</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130509T153346Z">
-        <seg>Tab</seg>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T134341Z">
+        <seg>标签</seg>
       </tuv>
     </tu>
     <tu>
