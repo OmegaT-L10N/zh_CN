@@ -29,3 +29,4 @@ Shortcut	快捷键
 Non-breaking space	不换行空格	简称NBSP
 tarball	tarball	一种压缩文件格式，直接用英文就可以了
 DeepL	DeepL	专有名词
+uncheck	取消勾选	一般搭配box，取消勾选某中选框
