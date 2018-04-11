@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.1.4" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8980,6 +8980,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T062036Z" creationid="weiyi" creationdate="20180406T062036Z">
         <seg>选中此选项以防止OmegaT不能正确显示某些字体（即使相关字体已在您的计算机中安装）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check this option to be warned about differences between source and target segments tags each time you leave a segment.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T110006Z" creationid="Administrator" creationdate="20180411T110006Z">
+        <seg>检查这个选项，注意源来源.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24050,6 +24058,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Removing an entire tag remains possible in that case, by using Ctrl+Backspace/Delete or by selecting it completely (Ctrl+Shift+Left/Right) then deleting it (Delete or Ctrl+X).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T105612Z" creationid="Administrator" creationdate="20180411T105612Z">
+        <seg>在这种情况下删除一个完整的标签仍是可以的，通过使用Ctrl + Backspace / Delete或完全选择（Ctrl + Shift +左/右）然后删除它（Delete或Ctrl + X）.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Rename the current &lt;f0&gt;project_save.tmx&lt;/f0&gt; file ( e.g. to &lt;f1&gt;project_save.tmx.temporary&lt;/f1&gt;)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120218T060355Z">
@@ -32660,6 +32676,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yujun Yin" changedate="20131007T074117Z" creationid="Yujun Yin" creationdate="20131007T074102Z">
         <seg>文本中未发生变化的句子会进行自动翻译，而更新后的句子则会提供最相似的原有句段的译文以供参考。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Uncheck this option to prevent any damage on the tags (i.e., partial deletion) during editing.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T104524Z" creationid="Administrator" creationdate="20180411T104524Z">
+        <seg>取消选中此选项，以防在编辑时对标签有所损坏（比如，部分删除）</seg>
       </tuv>
     </tu>
     <tu>
