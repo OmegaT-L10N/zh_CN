@@ -7385,6 +7385,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An error occurred when trying to detect the project file.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T124057Z" creationid="Administrator" creationdate="20180411T124057Z">
+        <seg>删除该项目文件夹时发生错误。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An error occurred while trying to create a new folder</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T150430Z">
@@ -23482,6 +23490,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Project file should be on http protocol.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T124214Z" creationid="Administrator" creationdate="20180411T124214Z">
+        <seg>项目文件应遵循http协议。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Project files</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
@@ -31473,10 +31489,26 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This is a Git repository.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T124003Z" creationid="Administrator" creationdate="20180411T124003Z">
+        <seg>Git版本库。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is a Subversion repository.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T123931Z" creationid="Administrator" creationdate="20180411T123905Z">
+        <seg>Subversion版本库。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This is a valid project file.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T123813Z" creationid="Administrator" creationdate="20180411T123813Z">
-        <seg>有效项目文件</seg>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T123935Z" creationid="Administrator" creationdate="20180411T123813Z">
+        <seg>有效项目文件。</seg>
       </tuv>
     </tu>
     <tu>
