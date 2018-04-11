@@ -7236,8 +7236,16 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>Allow to save password as plain text</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T130259Z" creationid="Administrator" creationdate="20180411T130259Z">
-        <seg>允许保存密码为纯文本</seg>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T131202Z" creationid="Administrator" creationdate="20180411T130259Z">
+        <seg>允许以纯文本格式保存密码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Allow to save password locally as plain text</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T131146Z" creationid="Administrator" creationdate="20180411T131146Z">
+        <seg>允许以纯文本格式保存本地密码</seg>
       </tuv>
     </tu>
     <tu>
@@ -24685,6 +24693,16 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Replace &lt;project&gt;/omegat/project_save.tmx in the newly downloaded project with the file saved in a safe location
+6.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T131334Z" creationid="Administrator" creationdate="20180411T131334Z">
+        <seg>将新下载的项目中的&lt;project&gt; /omegat/project_save.tmx替换为保存在安全位置的文件
+6.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Replace Translation with Match</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T165112Z">
@@ -27315,6 +27333,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130911T115507Z">
         <seg>标准</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Start OmegaT and continue to translate</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T131223Z" creationid="Administrator" creationdate="20180411T131223Z">
+        <seg>启动OmegaT并继续翻译</seg>
       </tuv>
     </tu>
     <tu>
