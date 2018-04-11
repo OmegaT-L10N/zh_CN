@@ -2807,6 +2807,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;b0&gt;Use as Default Translation&lt;/b0&gt;: causes the active segment to be made the default translation and therefore all previous "default translation" segments to be brought into line with it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T131230Z" creationid="Zoe" creationdate="20180411T131230Z">
+        <seg>&lt;b0&gt;用作默认翻译&lt;/b0&gt;：活跃片段被用做默认翻译，因此所有采用之前“默认翻译”的片段都与当前默认翻译保持一直。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;b2&gt;&lt;Enter&gt;&lt;/b2&gt;&lt;segment 2132&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120203T121915Z">
