@@ -16280,8 +16280,8 @@ click on that shortcut.</seg>
       <tuv lang="EN">
         <seg>In most cases, the translator will wish to translate identical segments within a project in the same way.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T120548Z" creationid="Zoe" creationdate="20180411T120548Z">
-        <seg>大多数情况下，译员希望将一个项目里的相同片段以同一形式翻译。</seg>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T121026Z" creationid="Zoe" creationdate="20180411T120548Z">
+        <seg>大多数情况下，译员希望将一个项目里的相同片段以同样方式翻译。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21596,6 +21596,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130514T145338Z">
         <seg>OmegaT 的主要特性包括：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT's one-to-many matching function first assumes that identical segments are to be translated in the same way.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T120957Z" creationid="Zoe" creationdate="20180411T120957Z">
+        <seg>OmegaT的一对多匹配功能首先默认相同片段应以同样方式翻译。</seg>
       </tuv>
     </tu>
     <tu>
