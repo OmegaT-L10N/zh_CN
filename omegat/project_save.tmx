@@ -2360,8 +2360,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;/e1&gt; Empty translations are now allowed.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131112T120222Z" creationid="Fu Rhong" creationdate="20131112T120026Z">
-        <seg>&lt;/e1&gt;现在允许使用空译文。</seg>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T084149Z" creationid="Fu Rhong" creationdate="20131112T120026Z">
+        <seg>&lt;/e1&gt;现在允许使用译文为空。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21089,8 +21089,8 @@ to be launched.</seg>
       <tuv lang="EN">
         <seg>OmegaT leaves the editing field blank.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131112T115844Z">
-        <seg>OmegaT把编辑字段留空。</seg>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T084126Z">
+        <seg>OmegaT把编辑字段留空</seg>
       </tuv>
     </tu>
     <tu>
@@ -30579,8 +30579,8 @@ configuration folder cannot be reliably determined.</seg>
       <tuv lang="EN">
         <seg>They are displayed as &lt;EMPTY&gt; in the Editor.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131112T120313Z" creationid="Fu Rhong" creationdate="20131112T120133Z">
-        <seg>它们在编辑器中显示为&lt;EMPTY&gt;。</seg>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T084041Z" creationid="Fu Rhong" creationdate="20131112T120133Z">
+        <seg>它们在编辑器中显示为&lt;空&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -31515,8 +31515,8 @@ configuration folder cannot be reliably determined.</seg>
       <tuv lang="EN">
         <seg>To create one, right-click in a segment, and select "&lt;e2&gt;Set empty translation&lt;/e2&gt;".</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131112T120432Z" creationid="Fu Rhong" creationdate="20131112T120432Z">
-        <seg>要使用空译文，在片段中点击右键并选择“&lt;e2&gt;设置空译文&lt;/e2&gt;”。</seg>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T084312Z" creationid="Fu Rhong" creationdate="20131112T120432Z">
+        <seg>要使用空译文，在片段中点击右键并选择“&lt;e2&gt;设置译文为空&lt;/e2&gt;”。</seg>
       </tuv>
     </tu>
     <tu>
