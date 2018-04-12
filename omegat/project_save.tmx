@@ -13849,6 +13849,14 @@ project_save.tmx未真正上传，SVN切换到不稳定状态。</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Except one: check &lt;e0&gt;Untranslated&lt;/e0&gt; in order to operate Search and replace also on segments that have not been translated yet.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="10353" changedate="20180412T104640Z" creationid="10353" creationdate="20180412T104640Z">
+        <seg>只有一点不同：确认&lt;e0&gt;未翻译&lt;/e0&gt; in order to operate Search and replace also on segments that have not been translated yet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Exception occurred:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T153854Z">
@@ -15338,6 +15346,14 @@ script provided (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131127T123049Z" creationid="Fu Rhong" creationdate="20131127T123049Z">
         <seg>模糊匹配窗格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fuzzy matching</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="10353" changedate="20180412T112809Z" creationid="10353" creationdate="20180412T112809Z">
+        <seg>(*^▽^*)--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------Fuzzy matching</seg>
       </tuv>
     </tu>
     <tu>
