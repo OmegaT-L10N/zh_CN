@@ -7104,6 +7104,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add terms to a glossary whilst translating in OmegaT</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T075742Z" creationid="chloechao" creationdate="20180412T075742Z">
+        <seg>使用OmegaT进行翻译时在术语表内添加术语。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add the &lt;e0&gt;Before&lt;/e0&gt; and&lt;e1&gt; After&lt;/e1&gt; patterns.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120217T112657Z">
