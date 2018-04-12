@@ -1746,6 +1746,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>,</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T114021Z" creationid="Administrator" creationdate="20180412T114021Z">
+        <seg>,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>, &lt;e0&gt;alt&lt;/e0&gt;, &lt;e1&gt;altGraph&lt;/e1&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T115437Z">
@@ -3017,6 +3025,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120203T121509Z">
         <seg>&lt;br1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;br&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T114532Z" creationid="Administrator" creationdate="20180412T114532Z">
+        <seg>&lt;br&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -19037,6 +19053,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Issues ({0} of {1})</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T114009Z" creationid="Administrator" creationdate="20180412T114009Z">
+        <seg>问题{0} of {1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Issues ({0})</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T081929Z" creationid="Administrator" creationdate="20180412T081929Z">
@@ -23741,6 +23765,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT stores your translations and proposes possible translations from similar segments registered in the translation memory files.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T114831Z" creationid="Administrator" creationdate="20180412T114831Z">
+        <seg>OmegaT存储你的翻译，并利用翻译记忆库对类似的片段提供可能的翻译推荐。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT supports imported tmx versions 1.1-1.4b (both level 1 and level 2).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120218T065554Z">
@@ -25473,6 +25505,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T131446Z" creationid="Zoe" creationdate="20180411T131446Z">
         <seg>指向说明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Poisson</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T113959Z" creationid="Administrator" creationdate="20180412T113959Z">
+        <seg>泊松</seg>
       </tuv>
     </tu>
     <tu>
@@ -30049,6 +30089,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120202T114458Z">
         <seg>可在文件过滤器设置特定的动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Specify a mnemonic with "&amp;": "F&amp;oobar" to use O</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T114648Z" creationid="Administrator" creationdate="20180412T114648Z">
+        <seg>用 "&amp;"指代记忆库: O来指代"F&amp;oobar"</seg>
       </tuv>
     </tu>
     <tu>
@@ -40328,6 +40376,22 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>[{0}] “{1}” in source; expected one of {2} in target</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T114444Z" creationid="Administrator" creationdate="20180412T114218Z">
+        <seg>[{0}] “{1}”出现在源语言中; 期望在目标语中出现 {2} 中的一个</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>[{0}] “{1}” in source; expected “{2}” in target</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T114503Z" creationid="Administrator" creationdate="20180412T114112Z">
+        <seg>[{0}] “{1}” 出现在源语言中; 期望在目标语中出现 “{2}” </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>\</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120214T033838Z">
@@ -46297,6 +46361,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>{0} ({1})</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T114014Z" creationid="Administrator" creationdate="20180412T114014Z">
+        <seg>{0} ({1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>{0} +{1} more</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="flycr" changedate="20180406T130923Z" creationid="flycr" creationdate="20180406T130923Z">
@@ -46337,6 +46409,22 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>{0} x{1}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T114032Z" creationid="Administrator" creationdate="20180412T114032Z">
+        <seg>{0} x{1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0}.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T114519Z" creationid="Administrator" creationdate="20180412T114519Z">
+        <seg>{0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>{0}/{1}</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T024756Z" creationid="xulihang" creationdate="20180404T024756Z">
@@ -46361,6 +46449,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>{1}: &lt;b&gt;{2}&lt;/b&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T114525Z" creationid="Administrator" creationdate="20180412T114525Z">
+        <seg>{1}: &lt;b&gt;{2}&lt;/b&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>}</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131109T023406Z" creationid="Fu Rhong" creationdate="20131109T023406Z">
@@ -46373,6 +46469,22 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T135101Z" creationid="cpeishan" creationdate="20180407T135101Z">
         <seg>帮助译者:OmegaT10条提示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>“{0}”</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T114507Z" creationid="Administrator" creationdate="20180412T114507Z">
+        <seg>“{0}”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>“{0}” ({1})</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T114513Z" creationid="Administrator" creationdate="20180412T114513Z">
+        <seg>“{0}” ({1})</seg>
       </tuv>
     </tu>
     <tu>
