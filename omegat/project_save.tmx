@@ -17975,8 +17975,8 @@ click on that shortcut.</seg>
       <tuv lang="EN">
         <seg>Is duplicate</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T015919Z" creationid="Administrator" creationdate="20180412T015919Z">
-        <seg>复制</seg>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T020255Z" creationid="Administrator" creationdate="20180412T015919Z">
+        <seg>是否复制</seg>
       </tuv>
     </tu>
     <tu>
