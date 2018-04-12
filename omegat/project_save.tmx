@@ -6520,6 +6520,22 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;s0&gt;&lt;a1&gt;{{site.data.versions.latest.name}}&lt;/a1&gt;&lt;/s0&gt; Latest Version</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T100054Z" creationid="18261" creationdate="20180412T100054Z">
+        <seg>&lt;s0&gt;&lt;a1&gt;{{site.data.versions.latest.name}}&lt;/a1&gt;&lt;/s0&gt; 最新版</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s0&gt;&lt;a1&gt;{{site.data.versions.standard.name}}&lt;/a1&gt;&lt;/s0&gt; Standard Version</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T095952Z" creationid="18261" creationdate="20180412T095952Z">
+        <seg>&lt;s0&gt;&lt;a1&gt;{{site.data.versions.standard.name}}&lt;/a1&gt;&lt;/s0&gt; 标准版</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; is available in many different versions in order to suit a range of user requirements.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="18261" changedate="20180412T085137Z" creationid="18261" creationdate="20180412T085025Z">
@@ -6898,8 +6914,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>A vast range of functions, an uncluttered interface, and, most importantly, constant, regular open-source development!</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T095659Z" creationid="18261" creationdate="20180412T095659Z">
-        <seg>多样的功能，简洁的界面，最重要的是持续的开源开发！</seg>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T100106Z" creationid="18261" creationdate="20180412T095659Z">
+        <seg>多样的功能，简洁的界面，最重要的是持续的开源研发！</seg>
       </tuv>
     </tu>
     <tu>
@@ -23132,6 +23148,14 @@ to be launched.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT isn't just a product; it's an exciting project, and you can be part of it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T100549Z" creationid="18261" creationdate="20180412T100549Z">
+        <seg>OmegaT不仅是一款产品；更是一个你可以参与其中的，令人激动的项目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT leaves the editing field blank.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T084126Z">
@@ -26959,6 +26983,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120203T124009Z">
         <seg>Right:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Robert Corner, Institut Laue-Langevin, France</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T100251Z" creationid="18261" creationdate="20180412T100251Z">
+        <seg>Robert Corner，Laue-Langevin研究所，法国</seg>
       </tuv>
     </tu>
     <tu>
@@ -31126,6 +31158,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T104706Z" creationid="cpeishan" creationdate="20180407T104706Z">
         <seg>OmegaT 项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The OmegaT project and you</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T100336Z" creationid="18261" creationdate="20180412T100336Z">
+        <seg>你和OmegaT项目</seg>
       </tuv>
     </tu>
     <tu>
