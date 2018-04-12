@@ -9094,6 +9094,22 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Changed by</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T015500Z" creationid="Administrator" creationdate="20180412T015500Z">
+        <seg>由...修改</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Changed on</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T015549Z" creationid="Administrator" creationdate="20180412T015549Z">
+        <seg>修改在...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Changer</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T024831Z" creationid="xulihang" creationdate="20180404T024831Z">
@@ -10459,6 +10475,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T030414Z" creationid="xulihang" creationdate="20180404T030414Z">
         <seg>创建你自己的key并在下方输入。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Created by</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T015726Z" creationid="Administrator" creationdate="20180412T015726Z">
+        <seg>由…创建</seg>
       </tuv>
     </tu>
     <tu>
