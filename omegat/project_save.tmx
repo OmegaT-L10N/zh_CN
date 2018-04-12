@@ -23765,14 +23765,6 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>OmegaT stores your translations and proposes possible translations from similar segments registered in the translation memory files.</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T114831Z" creationid="Administrator" creationdate="20180412T114831Z">
-        <seg>OmegaT存储你的翻译，并利用翻译记忆库对类似的片段提供可能的翻译推荐。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>OmegaT supports imported tmx versions 1.1-1.4b (both level 1 and level 2).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120218T065554Z">
