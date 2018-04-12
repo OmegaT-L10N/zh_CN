@@ -10331,6 +10331,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Consists of a model student's manual with instructions to trainers for adaptation, and sample resources.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T090316Z" creationid="chloechao" creationdate="20180412T090316Z">
+        <seg>包含指导手册和样本资源</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Contains Java files, necessary to the operation of &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131116T032544Z">
@@ -15953,6 +15961,14 @@ script provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Icons</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T090449Z" creationid="chloechao" creationdate="20180412T090449Z">
+        <seg>图标</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Icons and logo graphics</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131116T032533Z" creationid="Fu Rhong" creationdate="20131116T032533Z">
@@ -19930,10 +19946,26 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Localization TMX repository</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T090436Z" creationid="chloechao" creationdate="20180412T090436Z">
+        <seg>本地化TMX仓库</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Localization manager, user group owner</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T105217Z" creationid="cpeishan" creationdate="20180407T105217Z">
         <seg>本地化经理，用户群主管</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Localization resources</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T090409Z" creationid="chloechao" creationdate="20180412T090409Z">
+        <seg>本地化资源</seg>
       </tuv>
     </tu>
     <tu>
@@ -20830,6 +20862,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120211T085629Z">
         <seg>杂项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Miscellaneous resources</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T085429Z" creationid="chloechao" creationdate="20180412T085429Z">
+        <seg>各项资源</seg>
       </tuv>
     </tu>
     <tu>
@@ -22985,6 +23025,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T142440Z" creationid="cpeishan" creationdate="20180407T142440Z">
         <seg>OmegaT 标记器插件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT training course.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T085452Z" creationid="chloechao" creationdate="20180412T085452Z">
+        <seg>OmegaT培训课程。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26822,6 +26870,14 @@ project without team functionality.</seg>
         <seg>Sample Text</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T055247Z">
+        <seg>示例文本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sample texts</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T090342Z" creationid="chloechao" creationdate="20180412T090342Z">
         <seg>示例文本</seg>
       </tuv>
     </tu>
@@ -35079,6 +35135,14 @@ install.sh.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T151140Z" creationid="cpeishan" creationdate="20180407T151140Z">
         <seg>培训</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Training course</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T085434Z" creationid="chloechao" creationdate="20180412T085434Z">
+        <seg>培训课程</seg>
       </tuv>
     </tu>
     <tu>
