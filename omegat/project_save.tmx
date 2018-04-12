@@ -6600,6 +6600,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A detailed tutorial is available.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T095703Z" creationid="chloechao" creationdate="20180412T095703Z">
+        <seg>提供详细教程</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A dialog opens, allowing you to enter the source term, target term and any comments you may have:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131116T121551Z" creationid="Fu Rhong" creationdate="20131116T121319Z">
@@ -15074,6 +15082,14 @@ script provided (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180405T033444Z">
         <seg>GNU GENERAL PUBLIC LICENSE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>GUI alignment tool for producing translation memory files from legacy texts and their translations.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T095613Z" creationid="chloechao" creationdate="20180412T095613Z">
+        <seg>GUI对齐工具，可对齐传统文本及其译文生成翻译记忆。</seg>
       </tuv>
     </tu>
     <tu>
