@@ -7891,6 +7891,14 @@ The TMX file will not be loaded.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An intelligent command-line alignment tool for producing translation memory files from legacy texts and their translations.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T093932Z" creationid="chloechao" creationdate="20180412T093932Z">
+        <seg>智能化命令行对齐工具，可对齐传统文本及其译文生成翻译记忆。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An introductory video to OmegaT in English by John Moran.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T150215Z" creationid="cpeishan" creationdate="20180407T150215Z">
@@ -19396,6 +19404,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T115156Z" creationid="xulihang" creationdate="20180408T115156Z">
         <seg>学习到：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LF Aligner</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T091527Z" creationid="chloechao" creationdate="20180412T091527Z">
+        <seg>LF Aligner校准工具</seg>
       </tuv>
     </tu>
     <tu>
