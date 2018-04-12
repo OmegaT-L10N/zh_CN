@@ -42657,6 +42657,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>selection.txt - contains the text highlighted by the user, when Ctrl-Shift-C is pressed or Edit &gt; Export Selection is selected</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180412T043118Z" creationid="Zoe" creationdate="20180412T043118Z">
+        <seg>selection.txt - 包含用户在按下Ctrl-Shift-C 或选择编辑 &gt;导出选中部分时高亮过的文本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>sentenceCaseMenuItem</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T131857Z" creationid="lenovo" creationdate="20180411T131857Z">
@@ -42797,6 +42805,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131109T023404Z" creationid="Fu Rhong" creationdate="20131109T023404Z">
         <seg>source = currSegment.getSrcText();</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>source.txt - contains the source text of the segment&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180412T042658Z" creationid="Zoe" creationdate="20180412T042658Z">
+        <seg>source.txt - 包含片段的源文本&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -42973,6 +42989,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131109T023405Z" creationid="Fu Rhong" creationdate="20131109T023405Z">
         <seg>target = project.getTranslationInfo(currSegment).translation;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>target.txt - contains the target text of the segment&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180412T042746Z" creationid="Zoe" creationdate="20180412T042746Z">
+        <seg>target.txt - 包含片段的目标文本&lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
