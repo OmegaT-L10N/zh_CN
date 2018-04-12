@@ -35206,6 +35206,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This hands-off approach is described by the current OmegaT project co-ordinator as "delegated anarchy".</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T124839Z" creationid="18261" creationdate="20180412T124839Z">
+        <seg>目前的OmegaT项目协调员将这种不干涉的方法描述为“授权无政府状态”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This has the effect of deleting the "alternative translation" status at the same time; the translation of the segment will therefore revert to that of the default translation.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T134210Z" creationid="Zoe" creationdate="20180411T124654Z">
@@ -39128,6 +39136,14 @@ trouble of selecting, obtaining and installing it.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120202T114406Z">
         <seg>如果有可能应该考虑在文档中使用统一的字体、字体大小、颜色等，以此简化翻译工作和减少可能的标签错误。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Where routine tasks are concerned, volunteers working on the OmegaT project are generally given as much freedom as possible in determining the form of their contribution.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T124701Z" creationid="18261" creationdate="20180412T124701Z">
+        <seg>在日常任务方面，从事OmegaT项目的志愿者通常会有尽可能多的自由来确定其贡献形式。.</seg>
       </tuv>
     </tu>
     <tu>
