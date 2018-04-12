@@ -23469,6 +23469,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Online repositories of spelling dictionaries for use within OmegaT.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T091022Z" creationid="chloechao" creationdate="20180412T091022Z">
+        <seg>可在在OmegaT中使用的拼写字典在线仓库。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Only a limited number of file formats specify a mandatory encoding.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
@@ -29149,6 +29157,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Spelling dictionaries</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T090935Z" creationid="chloechao" creationdate="20180412T090935Z">
+        <seg>拼写词典</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Spelling errors(s)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T114119Z" creationid="xulihang" creationdate="20180408T114119Z">
@@ -31469,6 +31485,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The files of this site, in a convenient package for those wishing to localize it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T091211Z" creationid="chloechao" creationdate="20180412T091211Z">
+        <seg>为希望对本网站进行本地化的对象提供便捷的打包。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The first example below has 3 tag groups (a pair, a single, and then another pair), the second example has one group only (a pair).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120203T121247Z">
@@ -33540,6 +33564,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Third-party software</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T090911Z" creationid="chloechao" creationdate="20180412T090911Z">
+        <seg>第三方软件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This
 will delete your local data and re-download the project contents from
 the server.</seg>
@@ -34314,6 +34346,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131128T001217Z" creationid="Fu Rhong" creationdate="20131128T001217Z">
         <seg>这样就为译者提供了待译片段的相关信息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This web site</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T091117Z" creationid="chloechao" creationdate="20180412T090856Z">
+        <seg>本网站</seg>
       </tuv>
     </tu>
     <tu>
