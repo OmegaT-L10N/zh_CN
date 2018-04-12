@@ -33313,6 +33313,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The open-source philosophy</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T120148Z" creationid="18261" creationdate="20180412T120148Z">
+        <seg>开源的哲学</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The option allows OmegaT to override the specification in the PO file header and use the default for the selected target language.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131113T120357Z" creationid="Fu Rhong" creationdate="20131113T114459Z">
@@ -38116,6 +38124,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T061148Z" creationid="weiyi" creationdate="20180406T061129Z">
         <seg>来自“auto”文件夹中的常规翻译会以橙色显示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Utilities</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T120030Z" creationid="18261" creationdate="20180412T120030Z">
+        <seg>实用工具</seg>
       </tuv>
     </tu>
     <tu>
