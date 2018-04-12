@@ -7584,6 +7584,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Algorithm:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T113413Z" creationid="Administrator" creationdate="20180412T113413Z">
+        <seg>计算程序</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Align</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T063729Z" creationid="Administrator" creationdate="20180412T063729Z">
@@ -9322,6 +9330,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T114508Z" creationid="Administrator" creationdate="20180411T114508Z">
         <seg>取消</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cancel Pinpoint Align</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T113258Z" creationid="Administrator" creationdate="20180412T113258Z">
+        <seg>取消精确对齐</seg>
       </tuv>
     </tu>
     <tu>
@@ -13293,6 +13309,14 @@ project_save.tmx未真正上传，SVN切换到不稳定状态。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="flycr" changedate="20180408T100233Z">
         <seg>遇到非法 \u 序列</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>End Pinpoint Align</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T113111Z" creationid="Administrator" creationdate="20180412T113111Z">
+        <seg>结束精确对齐</seg>
       </tuv>
     </tu>
     <tu>
@@ -25552,6 +25576,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Press the keyboard shortcut you wish to assign, then click OK.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T112917Z" creationid="Administrator" creationdate="20180412T112917Z">
+        <seg>粘贴你剪切板上的内容，然后点击OK。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Pressing &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;F&lt;/k3&gt; &lt;/k0&gt; displays the last already opened Search window (instead of opening a new one).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T023750Z" creationid="weiyi" creationdate="20180406T023750Z">
@@ -30107,6 +30139,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T131223Z" creationid="Administrator" creationdate="20180411T131223Z">
         <seg>启动OmegaT并继续翻译</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Start Pinpoint Align</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T113056Z" creationid="Administrator" creationdate="20180412T113056Z">
+        <seg>开始精确对齐</seg>
       </tuv>
     </tu>
     <tu>
@@ -36047,6 +36087,14 @@ install.sh.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T021136Z" creationid="xulihang" creationdate="20180408T021136Z">
         <seg>要使用此脚本，请打开终端窗口（控制台），进入包含OmegaT.jar和linux-install.sh的目录并执行./linux-install.sh。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Toggle Selected</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T113036Z" creationid="Administrator" creationdate="20180412T113036Z">
+        <seg>切换已选择的</seg>
       </tuv>
     </tu>
     <tu>
