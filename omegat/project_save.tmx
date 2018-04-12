@@ -12055,6 +12055,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Descriptions of the individual scripts</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180412T145428Z" creationid="Zoe" creationdate="20180412T145428Z">
+        <seg>单个脚本描述</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Detail View</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T024752Z" creationid="xulihang" creationdate="20180404T024752Z">
@@ -20428,6 +20436,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T020826Z" creationid="xulihang" creationdate="20180408T020826Z">
         <seg>启动安装程序。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Launch the script with "wish" followed by the script file name, e.g.:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180412T145311Z" creationid="Zoe" creationdate="20180412T145311Z">
+        <seg>用“wish”加脚本文件名运行脚本，例如：</seg>
       </tuv>
     </tu>
     <tu>
