@@ -20386,6 +20386,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>MediaWiki (Wikipedia)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T081014Z" creationid="18261" creationdate="20180412T081014Z">
+        <seg>维基百科 (Wikipedia)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Memor&amp;y</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="flycr" changedate="20180406T124250Z" creationid="flycr" creationdate="20180406T124250Z">
@@ -23133,6 +23141,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open Document Format (LibreOffice, OpenOffice.org)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T080631Z" creationid="18261" creationdate="20180412T080631Z">
+        <seg>开源文档格式 (LibreOffice, OpenOffice.org)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open Document Format (ODF) files</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T122130Z" creationid="Fu Rhong" creationdate="20131113T123428Z">
@@ -23993,6 +24009,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120217T114100Z">
         <seg>把要使用的词典文件放到此文件夹。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Plain text</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T081142Z" creationid="18261" creationdate="20180412T081142Z">
+        <seg>纯文本</seg>
       </tuv>
     </tu>
     <tu>
@@ -37457,6 +37481,14 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T155653Z">
         <seg>XHTML 过滤器选项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>XHTML and HTML</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T080549Z" creationid="18261" creationdate="20180412T080549Z">
+        <seg>XHTML和HTML</seg>
       </tuv>
     </tu>
     <tu>
