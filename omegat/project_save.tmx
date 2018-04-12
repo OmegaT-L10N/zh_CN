@@ -8479,8 +8479,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>As its name suggests, this script automatically strips the tags out of an OmegaT (target) segment.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180412T152057Z" creationid="Zoe" creationdate="20180412T152057Z">
-        <seg>正如其名字所示，这个脚本会将OmegaT（目标）片段中的标签自动去除。</seg>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180412T152121Z" creationid="Zoe" creationdate="20180412T152057Z">
+        <seg>正如其文件名所示，此脚本会将OmegaT（目标）片段中的标签自动去除。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35794,6 +35794,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120208T064537Z">
         <seg>这可用于在含有 TMX 文件的服务器上运行 OmegaT 来自动翻译项目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is useful when &lt;i0&gt;checking&lt;/i0&gt; tag-heavy segments on the screen, since it is easy to overlook missing or double spaces, for example.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180412T152454Z" creationid="Zoe" creationdate="20180412T152454Z">
+        <seg>这对于在屏幕上&lt;i0&gt;核查&lt;/i0&gt;有许多标签的片段是非常有用的，因为人眼很容易忽略掉缺失或者是双空格的情况，例如。</seg>
       </tuv>
     </tu>
     <tu>
