@@ -1882,6 +1882,30 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- It is easy to learn&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="10353" changedate="20180412T120755Z" creationid="10353" creationdate="20180412T120755Z">
+        <seg>- 易于学习&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- It is free&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="10353" changedate="20180412T121003Z" creationid="10353" creationdate="20180412T121003Z">
+        <seg>-免费&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- It is widely used, so help can be found on the Internet&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="10353" changedate="20180412T121032Z" creationid="10353" creationdate="20180412T121032Z">
+        <seg>-应用广泛，可在网上找到帮助&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- Java resource bundles (*.properties)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130514T151758Z">
@@ -1966,6 +1990,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130514T151914Z">
         <seg>- 标签文本文件格式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- The Tk component makes it easy to produce graphical user interfaces&lt;br3/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="10353" changedate="20180412T121137Z" creationid="10353" creationdate="20180412T121137Z">
+        <seg>-Tk部分的应用便于产出图形用户界界面&lt;br3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
