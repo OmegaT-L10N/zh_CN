@@ -806,6 +806,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Jump To Segment</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T081846Z" creationid="Administrator" creationdate="20180412T081846Z">
+        <seg>&amp;跳转到片段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Keyword search</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="flycr" changedate="20180408T094542Z">
@@ -1078,6 +1086,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Refresh</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T081905Z" creationid="Administrator" creationdate="20180412T081905Z">
+        <seg>&amp;刷新</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Regular expressions</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="flycr" changedate="20180408T094548Z">
@@ -1250,6 +1266,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T153026Z">
         <seg>工作表(&amp;S)名称</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Show All</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T081858Z" creationid="Administrator" creationdate="20180412T081858Z">
+        <seg>&amp;显示所有</seg>
       </tuv>
     </tu>
     <tu>
@@ -3787,6 +3811,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130509T153515Z">
         <seg>&lt;html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;html&gt;&lt;center&gt;Loading...&lt;br&gt;&lt;br&gt;Tip: Enable/disable checks at any time from the Options menu.&lt;/center&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T082049Z" creationid="Administrator" creationdate="20180412T082049Z">
+        <seg>&lt;html&gt;&lt;center&gt;加载中...&lt;br&gt;&lt;br&gt;Tip: 在选项菜单中打开、关闭检查&lt;/center&gt;&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9266,6 +9298,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131118T035436Z" creationid="Fu Rhong" creationdate="20131118T035436Z">
         <seg>改变该标志不会对已经译好翻译记忆进行修改。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Character</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T081822Z" creationid="Administrator" creationdate="20180412T081822Z">
+        <seg>字体</seg>
       </tuv>
     </tu>
     <tu>
@@ -18281,6 +18321,38 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T020255Z" creationid="Administrator" creationdate="20180412T015919Z">
         <seg>是否复制</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Issues</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T081919Z" creationid="Administrator" creationdate="20180412T081919Z">
+        <seg>问题</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Issues ({0})</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T081929Z" creationid="Administrator" creationdate="20180412T081929Z">
+        <seg>问题{0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Issues for {0} ({1} of {2})</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T081955Z" creationid="Administrator" creationdate="20180412T081955Z">
+        <seg>问题{0} ({1} of {2})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Issues for {0} ({1})</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T081942Z" creationid="Administrator" creationdate="20180412T081942Z">
+        <seg>问题 {0} ({1})</seg>
       </tuv>
     </tu>
     <tu>
