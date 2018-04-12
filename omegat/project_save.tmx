@@ -10291,6 +10291,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Confirm:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T095510Z" creationid="Administrator" creationdate="20180412T095510Z">
+        <seg>确认：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Conflict resolution</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T024326Z" creationid="xulihang" creationdate="20180404T024326Z">
@@ -13133,6 +13141,14 @@ project_save.tmx未真正上传，SVN切换到不稳定状态。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T053516Z">
         <seg>输入片段编号:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enter your master password.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T095408Z" creationid="Administrator" creationdate="20180412T095408Z">
+        <seg>键入主密码。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24660,6 +24676,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please enter your password again for confirmation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T095603Z" creationid="Administrator" creationdate="20180412T095603Z">
+        <seg>请再次输入你的密码。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please make sure that a build.xml file is present in that folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120208T112623Z">
@@ -32313,6 +32337,22 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The password cannot be empty.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T095524Z" creationid="Administrator" creationdate="20180412T095524Z">
+        <seg>密码不能为空。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The password you entered did not match.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T095457Z" creationid="Administrator" creationdate="20180412T095457Z">
+        <seg>您输入的密码不匹配。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The penalty applies to all three match percentages: matches 75, 80, 90 will in this case be lowered to 45, 50, 60.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131128T001411Z" creationid="Fu Rhong" creationdate="20131126T104542Z">
@@ -39091,6 +39131,14 @@ them.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120131T132126Z">
         <seg>随着对当前片段的编辑，您从文件的一个片段翻译到另一个片段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You will be prompted to enter this password every time you launch OmegaT.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T095358Z" creationid="Administrator" creationdate="20180412T095358Z">
+        <seg>每次登陆OmegaT系统会提醒你键入密码。</seg>
       </tuv>
     </tu>
     <tu>
