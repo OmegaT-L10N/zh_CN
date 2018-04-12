@@ -8894,6 +8894,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Below is a list of areas for which further volunteers would be more than welcome!</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T102332Z" creationid="18261" creationdate="20180412T102332Z">
+        <seg>下面列表的工作，欢迎更多志愿者的加入！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bengali</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
@@ -12467,6 +12475,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T164309Z">
         <seg>停靠</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Documentation authoring</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T102407Z" creationid="18261" creationdate="20180412T102407Z">
+        <seg>文档写作</seg>
       </tuv>
     </tu>
     <tu>
