@@ -27925,6 +27925,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Simultaneous use of multiple translation memories</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T074615Z" creationid="18261" creationdate="20180412T074615Z">
+        <seg> 多翻译记忆同步使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Since tags are included in the text itself, it is possible to use segmentation rules to create segments with fewer tags.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120205T121826Z">
