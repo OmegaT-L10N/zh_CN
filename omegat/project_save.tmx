@@ -10951,6 +10951,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Copy the script into the OmegaT "script" folder, i.e. the folder containing source.txt etc. (The scripts can in principle be placed anywhere, but must then be edited with addition of the path to the script files.)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180412T144756Z" creationid="Zoe" creationdate="20180412T144756Z">
+        <seg>复制脚本文件到OmegaT的“script”文件夹，即包含source.txt等文件的文件夹。（脚本文件原则上可以放在任意处，但随后编辑时必须要加上脚本文件的路径。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Copy the translation memories, containing the translations of the documents above, into &lt;f0&gt;tm/auto&lt;/f0&gt; subfolder of the new project.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131127T094844Z" creationid="Fu Rhong" creationdate="20131127T094844Z">
@@ -36356,6 +36364,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120202T112429Z">
         <seg>要启动 OmegaT，或是从命令行调用该文件，或者通过文件管理器运行它（通常是使用鼠标双击）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To launch a script:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180412T144511Z" creationid="Zoe" creationdate="20180412T144511Z">
+        <seg>运行脚本：</seg>
       </tuv>
     </tu>
     <tu>
