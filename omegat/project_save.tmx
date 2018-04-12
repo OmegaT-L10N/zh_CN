@@ -9120,8 +9120,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>But I can't program at all, I hear you say.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T114315Z" creationid="18261" creationdate="20180412T114315Z">
-        <seg>我听见你所说的事情</seg>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T114435Z" creationid="18261" creationdate="20180412T114315Z">
+        <seg>我知道你所说的，但是我不会编程。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38479,6 +38479,14 @@ trouble of selecting, obtaining and installing it.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T082217Z">
         <seg>韦氏修订版同义词词典（1913）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Well, have you considered learning?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T114615Z" creationid="18261" creationdate="20180412T114615Z">
+        <seg>那么，你想过学习吗？</seg>
       </tuv>
     </tu>
     <tu>
