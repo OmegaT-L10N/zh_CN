@@ -7352,6 +7352,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Align Files</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T021343Z" creationid="Administrator" creationdate="20180412T021343Z">
+        <seg>对齐文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Align project against {0}</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130509T155536Z">
@@ -17965,6 +17973,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Is alternative</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T021047Z" creationid="Administrator" creationdate="20180412T021047Z">
+        <seg>是多重翻译</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Is default translation</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T025115Z" creationid="xulihang" creationdate="20180404T025115Z">
@@ -20006,6 +20022,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120218T072236Z">
         <seg>匹配统计窗口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Match type</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T021152Z" creationid="Administrator" creationdate="20180412T021152Z">
+        <seg>匹配类型</seg>
       </tuv>
     </tu>
     <tu>
