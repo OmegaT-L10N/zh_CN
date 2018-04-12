@@ -1641,6 +1641,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(Note to Ubuntu users: the font implementation of the default tcl/tk installation in Ubuntu at the present time (version 9.10) is appalling, but can be rectified.)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180412T142253Z" creationid="Zoe" creationdate="20180412T142253Z">
+        <seg>（Ubuntu系统用户注意：当前版本的Ubuntu系统（9.10）中的tcl/tk默认安装中的字体略不美观，但这是可以调正的。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(The Java executable file is the file java on Linux and java.exe on Windows.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120127T052553Z">
