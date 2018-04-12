@@ -33,3 +33,4 @@ uncheck	取消勾选	一般搭配box，取消勾选某中选框
 repository	仓库
 Editing Behaviour	编辑行为
 Stripper	脱壳	计算机软件里一段专门负责保护软件不被非法修改或反编译的程序。
+GUI	GUI	用户图形界面，翻译时的缩略词保留不译。
