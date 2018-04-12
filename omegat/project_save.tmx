@@ -19962,6 +19962,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mark Accepted</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T062538Z" creationid="Administrator" creationdate="20180412T062538Z">
+        <seg>接受标记</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mark Auto-Populated Segments</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T030338Z" creationid="weiyi" creationdate="20180406T030338Z">
@@ -19974,6 +19982,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131110T025613Z" creationid="Fu Rhong" creationdate="20131110T025613Z">
         <seg>标记双向控制字符</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark Needs Review</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T062642Z" creationid="Administrator" creationdate="20180412T062642Z">
+        <seg>需检查的标记</seg>
       </tuv>
     </tu>
     <tu>
@@ -20602,10 +20618,26 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Move Down</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T062513Z" creationid="Administrator" creationdate="20180412T062513Z">
+        <seg>下移</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Move U&amp;p</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T155809Z">
         <seg>上移(&amp;p)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Move Up</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T062458Z" creationid="Administrator" creationdate="20180412T062458Z">
+        <seg>上移</seg>
       </tuv>
     </tu>
     <tu>
@@ -25787,6 +25819,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Reset</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T062443Z" creationid="Administrator" creationdate="20180412T062443Z">
+        <seg>重置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Resource name</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T015840Z" creationid="Administrator" creationdate="20180412T015840Z">
@@ -26223,6 +26263,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T165827Z">
         <seg>保存脚本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Save TMX...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T062431Z" creationid="Administrator" creationdate="20180412T062431Z">
+        <seg>保存为TMX...</seg>
       </tuv>
     </tu>
     <tu>
@@ -28293,6 +28341,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Split</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T062524Z" creationid="Administrator" creationdate="20180412T062524Z">
+        <seg>拆分</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Standard</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130911T115507Z">
@@ -28587,6 +28643,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T112354Z" creationid="Fu Rhong" creationdate="20131108T101144Z">
         <seg>巽他语</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Supported Files</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T062350Z" creationid="Administrator" creationdate="20180412T062350Z">
+        <seg>支持文件类型</seg>
       </tuv>
     </tu>
     <tu>
