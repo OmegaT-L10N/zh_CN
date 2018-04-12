@@ -10845,6 +10845,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Convenient alternative functions or solutions may also exist.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T131340Z" creationid="18261" creationdate="20180412T131340Z">
+        <seg>方便的替代功能或解决方案也可能存在。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Convert Old Team Project</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T130642Z" creationid="Administrator" creationdate="20180411T130642Z">
@@ -12011,6 +12019,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T024752Z" creationid="xulihang" creationdate="20180404T024752Z">
         <seg>详细列表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Detailed technical discussion of changes is best conducted directly with OmegaT's developers.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T131709Z" creationid="18261" creationdate="20180412T131709Z">
+        <seg>最好直接与OmegaT的开发人员讨论有关更改的详细技术。</seg>
       </tuv>
     </tu>
     <tu>
