@@ -15028,6 +15028,14 @@ script provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For beginners, several online tutorials are available, such as:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="10353" changedate="20180412T121929Z" creationid="10353" creationdate="20180412T121929Z">
+        <seg>对于初学者来说，网上有许多可用的教程，如：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For best results, please install the appropriate dictionaries via Preferences &gt; Spell Checking.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T023456Z" creationid="xulihang" creationdate="20180404T023456Z">
@@ -17522,6 +17530,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T122111Z" creationid="Fu Rhong" creationdate="20131109T025820Z">
         <seg>如果您用Mac且想设置&lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Command&lt;/k2&gt; &lt;k3&gt;S&lt;/k3&gt; &lt;/k0&gt;为&lt;m4&gt; &lt;g5&gt;工具&lt;/g5&gt; &lt;g6&gt;统计&lt;/g6&gt; &lt;/m4&gt;的快捷方式，请在&lt;f7&gt;项目编译菜单项.properties&lt;/f7&gt;中添加此行：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you are serious about learning tcl/tk, "Practical Programming in Tcl and Tk" by Brent Welch, ISBN: 0-13-038560-3 is strongly recommended.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="10353" changedate="20180412T122343Z" creationid="10353" creationdate="20180412T122343Z">
+        <seg>如果你是非常认真地想要学习tcl/tk，强烈推荐Brent Welch编写的《Practical Programming in Tcl and Tk》 ， ISBN: 0-13-038560-3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34585,6 +34601,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The tokenizer plug-in was integrated into OmegaT in version 3.0.0.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="10353" changedate="20180412T131811Z" creationid="10353" creationdate="20180412T131811Z">
+        <seg>标记器插件已集成到3.0.0版的OmegaT中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The top match is 100%, because all words match.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131127T124225Z" creationid="Fu Rhong" creationdate="20131127T123636Z">
@@ -35674,6 +35698,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120201T112831Z">
         <seg>以下是其工作原理：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is likely to be a little too technical for complete newcomers to programming, but after working through one of the online tutorials, they should find it useful.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="10353" changedate="20180412T122944Z" creationid="10353" creationdate="20180412T122944Z">
+        <seg>这对变成新手来说技术性可能过强，但是在学习完其中的一个在线教程后，他们会发现这是很有用的。.</seg>
       </tuv>
     </tu>
     <tu>
