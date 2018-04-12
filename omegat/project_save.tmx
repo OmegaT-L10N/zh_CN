@@ -30102,8 +30102,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The content of the files is overwritten either when a new segment is opened (source.txt and target.txt) or when a new selection is exported (selection.txt).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131113T015905Z">
-        <seg>打开新片段（source.txt 和 target.txt）或导出新的选中部分（selection.txt）时，会覆盖原来的内容。</seg>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180412T043308Z">
+        <seg>打开新片段（source.txt 和 target.txt）或导出新的选中部分（selection.txt）时，会覆盖该文件的原有内容。</seg>
       </tuv>
     </tu>
     <tu>
