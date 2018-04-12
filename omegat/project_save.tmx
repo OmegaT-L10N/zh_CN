@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>"Bligner" aligner utility</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T024445Z" creationid="chloechao" creationdate="20180412T024445Z">
+        <seg>对齐工具Bligner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>"Google Translate returned HTTP response code: 403 ...": check that the 38-characters key, entered in the pinfo.list file, is correct.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120209T120812Z">
@@ -10123,6 +10131,22 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Contributed by Didier Briel.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T024537Z" creationid="chloechao" creationdate="20180412T024537Z">
+        <seg>由Didier Briel贡献。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Contributed by Dmitri Gabinski.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T024435Z" creationid="chloechao" creationdate="20180412T024435Z">
+        <seg>由Dmitri Gabinski贡献。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Contributing to &lt;a0&gt;OmegaT&lt;/a0&gt; project</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120130T073234Z">
@@ -18492,6 +18516,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131116T130601Z" creationid="Fu Rhong" creationdate="20131116T130601Z">
         <seg>通过Java Web Start技术（Java 1.6及以上版本的一部分），只需一次点击就可通过网络部署独立的Java应用软件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Java command-line script for merging two or more TMX files.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T024847Z" creationid="chloechao" creationdate="20180412T024847Z">
+        <seg>合并两个或多个TMX文件的Java命令行脚本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28631,6 +28663,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>TMXMerger</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T024617Z" creationid="chloechao" creationdate="20180412T024617Z">
+        <seg>TMX合并</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>TMs</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T150710Z">
@@ -36689,6 +36729,14 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T024348Z" creationid="chloechao" creationdate="20180412T024348Z">
         <seg>用Python语言编写。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Written in Python/Perl.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T024510Z" creationid="chloechao" creationdate="20180412T024510Z">
+        <seg>用Python/Perl语言编写。</seg>
       </tuv>
     </tu>
     <tu>
