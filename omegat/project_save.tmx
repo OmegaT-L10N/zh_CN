@@ -6464,6 +6464,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; is available in many different versions in order to suit a range of user requirements.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T085025Z" creationid="18261" creationdate="20180412T085025Z">
+        <seg>为满足多样用户需求&lt;s0&gt;OmegaT&lt;/s0&gt;提供多种版本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;shortcut&gt; must be of the following form: 0 or more &lt;c0&gt;&lt;modifier&gt;&lt;/c0&gt; followed by 0 or 1 &lt;c1&gt;&lt;event&gt;&lt;/c1&gt; followed by 1 &lt;c2&gt;&lt;key&gt;&lt;/c2&gt;, where:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131109T025530Z" creationid="Fu Rhong" creationdate="20131109T025530Z">
@@ -12299,6 +12307,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T113105Z" creationid="xulihang" creationdate="20180408T113105Z">
         <seg>双字</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Download</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T084442Z" creationid="18261" creationdate="20180412T084442Z">
+        <seg>下载</seg>
       </tuv>
     </tu>
     <tu>
