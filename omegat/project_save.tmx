@@ -2967,8 +2967,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;c0&gt;projectOpenMenuItem=shift ctrl O&lt;/c0&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131109T025808Z" creationid="Fu Rhong" creationdate="20131109T025808Z">
-        <seg>&lt;c0&gt;projectOpenMenuItem=shift ctrl O&lt;/c0&gt;.</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T123156Z" creationid="Fu Rhong" creationdate="20131109T025808Z">
+        <seg>&lt;c0&gt;打开程序菜单项=shift ctrl O&lt;/c0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3033,6 +3033,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120208T052028Z">
         <seg>&lt;e0&gt;-XmxZZM &lt;/e0&gt;&lt;i1/&gt;该命令给 &lt;a2&gt;OmegaT&lt;/a2&gt; 分配更多内存。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt; &lt;/e0&gt; is Copyright © 2000-2016 Keith Godfrey, Lev Abashkin, Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik, Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Tony Graham, Phillip Hall, Jean-Christophe Helary, Chihiro Hio, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, Manfred Martin, Adiel Mittmann, Hiroshi Miura, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Ilia Vinogradov, Martin Wunderlich and Michael Zakharov.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T084450Z" creationid="lenovo" creationdate="20180411T084450Z">
+        <seg>&lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt; &lt;/e0&gt; 版权所有 © 2000-2016 Keith Godfrey, Lev Abashkin, Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik, Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Tony Graham, Phillip Hall, Jean-Christophe Helary, Chihiro Hio, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, Manfred Martin, Adiel Mittmann, Hiroshi Miura, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Ilia Vinogradov, Martin Wunderlich and Michael Zakharov.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6872,10 +6880,82 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Access Configuration Folder</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T140323Z" creationid="lenovo" creationdate="20180411T140323Z">
+        <seg>访问配置文件夹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Access Project Contents</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T072729Z" creationid="weiyi" creationdate="20180406T072729Z">
         <seg>访问项目内容</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Access Project Contents/Current Source Document</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T125441Z" creationid="lenovo" creationdate="20180411T125441Z">
+        <seg>访问项目内容/当前源文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Access Project Contents/Current Target Document</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T130530Z" creationid="lenovo" creationdate="20180411T130530Z">
+        <seg>访问项目内容/当前目标文档</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Access Project Contents/Dictionaries</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T124138Z" creationid="lenovo" creationdate="20180411T124138Z">
+        <seg>访问项目内容/词典</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Access Project Contents/Glossaries</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T124310Z" creationid="lenovo" creationdate="20180411T124310Z">
+        <seg>访问项目文件/词汇表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Access Project Contents/Root</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T124049Z" creationid="lenovo" creationdate="20180411T124049Z">
+        <seg>访问项目内容/根</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Access Project Contents/Source Files</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T124417Z" creationid="lenovo" creationdate="20180411T124417Z">
+        <seg>访问呢项目内容/源文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Access Project Contents/Target Files</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T124453Z" creationid="lenovo" creationdate="20180411T124453Z">
+        <seg>访问项目内容/目标文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Access Project Contents/Writeable Glossary</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T130657Z" creationid="lenovo" creationdate="20180411T130657Z">
+        <seg>访问项目内容/可写词汇表</seg>
       </tuv>
     </tu>
     <tu>
@@ -8133,6 +8213,38 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Auto-completion/Auto-text...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180412T004139Z" creationid="lenovo" creationdate="20180412T004139Z">
+        <seg>自动填写/自动文本...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Auto-completion/Character Table...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180412T004051Z" creationid="lenovo" creationdate="20180412T004051Z">
+        <seg>自动填充/字符表...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Auto-completion/Glossary...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180412T004225Z" creationid="lenovo" creationdate="20180412T004225Z">
+        <seg>自动填充/术语表...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Auto-completion/Show Relevant Suggestions Automatically</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180412T004339Z" creationid="lenovo" creationdate="20180412T004339Z">
+        <seg>自动填充/自动显示相关建议</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Auto-sync with Editor</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="flycr" changedate="20180406T130648Z" creationid="flycr" creationdate="20180406T130648Z">
@@ -8690,6 +8802,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131031T074949Z">
         <seg>缺省情况下，LTR 语言使用左对齐而 RTL 语言使用右对齐。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By default, scripts are stored in the "scripts" folder located in OmegaT installation folder (the folder that contains the OmegaT.jar).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T120655Z" creationid="lenovo" creationdate="20180411T120655Z">
+        <seg>默认情况下，脚本存储在位于OmegaT安装文件夹（包含OmegaT.jar的文件夹）中的“scripts”文件夹里。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9575,6 +9695,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Clicking &lt;g0&gt;Tools &gt; &lt;/g0&gt;&lt;g1&gt;Scripting&lt;/g1&gt; opens the Scripting window:&lt;s2&gt; &lt;s3&gt;Scripting window&lt;/s3&gt; &lt;m4&gt; &lt;i5&gt; &lt;i6/&gt; &lt;/i5&gt; &lt;/m4&gt; &lt;/s2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T084727Z" creationid="lenovo" creationdate="20180411T084727Z">
+        <seg>点击 &lt;g0&gt;工具 &gt; &lt;/g0&gt;&lt;g1&gt;脚本&lt;/g1&gt; o打开脚本窗口:&lt;s2&gt; &lt;s3&gt;脚本窗口&lt;/s3&gt; &lt;m4&gt; &lt;i5&gt; &lt;i6/&gt; &lt;/i5&gt; &lt;/m4&gt; &lt;/s2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Clicking on &lt;g0&gt;Install new dictionary&lt;/g0&gt; button will open the Dictionary installer window, where you can select the dictionaries you want to install.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131126T012828Z" creationid="Fu Rhong" creationdate="20131126T012828Z">
@@ -10239,6 +10367,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Create Current Translated Documents</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T121832Z" creationid="lenovo" creationdate="20180411T121815Z">
+        <seg>创建已译文档档</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Create Glossary Entry</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T020739Z">
@@ -10795,6 +10931,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T031305Z" creationid="xulihang" creationdate="20180404T031305Z">
         <seg>选择自定义颜色</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Custom Colours...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180412T003923Z" creationid="lenovo" creationdate="20180412T003923Z">
+        <seg>自定义颜色...</seg>
       </tuv>
     </tu>
     <tu>
@@ -14589,6 +14733,22 @@ script provided (omegat.kaptn).</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Glossary/Display Context Description for TBX Glossaries</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T135759Z" creationid="lenovo" creationdate="20180411T135759Z">
+        <seg>词汇表/TBX词汇表的显示上下文描述</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Glossary/Use Stemming for Glossary Entries</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T140051Z" creationid="lenovo" creationdate="20180411T140051Z">
+        <seg>词汇表/使用词干词汇表词条</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>待斟酌</note>
       <tuv lang="EN">
         <seg>Go To Next Untranslated Segment stops where there is at least one alternative translation</seg>
@@ -16088,8 +16248,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>If you are on a Mac and you want to add a &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Command&lt;/k2&gt; &lt;k3&gt;S&lt;/k3&gt; &lt;/k0&gt; shortcut to &lt;m4&gt; &lt;g5&gt;Tools&lt;/g5&gt; &lt;g6&gt;Statistics&lt;/g6&gt; &lt;/m4&gt;, add the following line to your &lt;f7&gt;MainMenuShortcuts.properties&lt;/f7&gt;:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131110T021408Z" creationid="Fu Rhong" creationdate="20131109T025820Z">
-        <seg>如果您用Mac且想设置&lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Command&lt;/k2&gt; &lt;k3&gt;S&lt;/k3&gt; &lt;/k0&gt;为&lt;m4&gt; &lt;g5&gt;工具&lt;/g5&gt; &lt;g6&gt;统计&lt;/g6&gt; &lt;/m4&gt;的快捷方式，请在&lt;f7&gt;MainMenuShortcuts.properties&lt;/f7&gt;中添加此行：</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T122111Z" creationid="Fu Rhong" creationdate="20131109T025820Z">
+        <seg>如果您用Mac且想设置&lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Command&lt;/k2&gt; &lt;k3&gt;S&lt;/k3&gt; &lt;/k0&gt;为&lt;m4&gt; &lt;g5&gt;工具&lt;/g5&gt; &lt;g6&gt;统计&lt;/g6&gt; &lt;/m4&gt;的快捷方式，请在&lt;f7&gt;项目编译菜单项.properties&lt;/f7&gt;中添加此行：</seg>
       </tuv>
     </tu>
     <tu>
@@ -16459,8 +16619,8 @@ is to use Java Web Start.</seg>
       <tuv lang="EN">
         <seg>If you want to use &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; to open a project, modify your &lt;f4&gt;MainMenuShortcuts.properties&lt;/f4&gt; as follows:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131109T025805Z" creationid="Fu Rhong" creationdate="20131109T025605Z">
-        <seg>如果想用&lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt;来打开项目，请把&lt;f4&gt;MainMenuShortcuts.properties&lt;/f4&gt;修改成这样：</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T123448Z" creationid="Fu Rhong" creationdate="20131109T025605Z">
+        <seg>如果想用&lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt;来打开项目，请把&lt;f4&gt;项目编译菜单项.properties&lt;/f4&gt;修改成这样：</seg>
       </tuv>
     </tu>
     <tu>
@@ -18720,6 +18880,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Last Changes...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T140139Z" creationid="lenovo" creationdate="20180411T140139Z">
+        <seg>上次更新...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Last but not least: my thanks to all the contributors to&lt;u0&gt; OmegaT documentation tracker&lt;/u0&gt; for all the inconsistencies found in the previous versions of the documentation.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131102T030524Z" creationid="Fu Rhong" creationdate="20131102T030524Z">
@@ -19166,6 +19334,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="weiyi" changedate="20180405T144932Z" creationid="weiyi" creationdate="20180405T144920Z">
         <seg>登陆微软Azure Marketplace： &lt;u0&gt;http://datamarket.azure.com/&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Log...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T140206Z" creationid="lenovo" creationdate="20180411T140206Z">
+        <seg>登陆...</seg>
       </tuv>
     </tu>
     <tu>
@@ -20684,6 +20860,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Next Unique Segment</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T133228Z" creationid="lenovo" creationdate="20180411T133228Z">
+        <seg>下一个独立段落</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Next Untranslated Segment</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131031T082927Z">
@@ -21613,6 +21797,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT allows to run scripts written in different scripting languages.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T084630Z" creationid="lenovo" creationdate="20180411T084630Z">
+        <seg>OmegaT 允许运行使用不同脚本语言发布的脚本.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT allows you to do this by marking the characters/words that have a special formatting with easy-to-handle tags.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120202T114236Z">
@@ -22383,8 +22575,8 @@ installed on your system.</seg>
       <tuv lang="EN">
         <seg>Once the &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; file is modified, &lt;a1&gt;OmegaT&lt;/a1&gt; must be relaunched to take the new shortcuts into account.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T114759Z">
-        <seg>修改 &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; 文件后，必须重新运行 &lt;a1&gt;OmegaT&lt;/a1&gt; 才能让新的快捷键生效。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T122028Z">
+        <seg>修改 &lt;f0&gt;项目编译菜单项.properties&lt;/f0&gt; 文件后，必须重新运行 &lt;a1&gt;OmegaT&lt;/a1&gt; 才能让新的快捷键生效。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24289,6 +24481,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Proxy Login...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T140448Z" creationid="lenovo" creationdate="20180411T140448Z">
+        <seg>代理登陆...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Proxy User and Password</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T160717Z">
@@ -26005,10 +26205,26 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Scripting languages</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T120931Z" creationid="lenovo" creationdate="20180411T120931Z">
+        <seg>脚本语言</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Scripting...</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T064852Z" creationid="weiyi" creationdate="20180406T064852Z">
         <seg>脚本...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Scripts</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T084511Z" creationid="lenovo" creationdate="20180411T084511Z">
+        <seg>脚本</seg>
       </tuv>
     </tu>
     <tu>
@@ -26657,6 +26873,54 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130505T162354Z">
         <seg>选择第五个匹配项(&amp;5)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Match #1</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T132155Z" creationid="lenovo" creationdate="20180411T132155Z">
+        <seg>选择匹配 #1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Match #2</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T132220Z" creationid="lenovo" creationdate="20180411T132220Z">
+        <seg>选择匹配 #2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Match #3</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T132246Z" creationid="lenovo" creationdate="20180411T132246Z">
+        <seg>选择匹配 #3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Match #4</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T132319Z" creationid="lenovo" creationdate="20180411T132319Z">
+        <seg>选择匹配 #4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Next Match</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T132116Z" creationid="lenovo" creationdate="20180411T132116Z">
+        <seg>选择下一菜单项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Previous Match</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T132038Z" creationid="lenovo" creationdate="20180411T132038Z">
+        <seg>选择上一个匹配</seg>
       </tuv>
     </tu>
     <tu>
@@ -27321,6 +27585,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131108T101116Z" creationid="Fu Rhong" creationdate="20131108T101116Z">
         <seg>索马利语</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Some additional scripts can be found here: &lt;u0&gt;OmegaT Scripts&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T120907Z" creationid="lenovo" creationdate="20180411T120907Z">
+        <seg>一些附带脚本可以写这里找到： &lt;u0&gt;OmegaT Scripts&lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -28155,6 +28427,46 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T153814Z">
         <seg>Swing-Layout 1.0.2 (LGPL 许可协议)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Switch Case To/Cycle</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T131919Z" creationid="lenovo" creationdate="20180411T131919Z">
+        <seg>切换到/循环</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Switch Case To/Lower Case</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T131941Z" creationid="lenovo" creationdate="20180411T131624Z">
+        <seg>切换到/小写</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Switch Case To/Sentence Case</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T131834Z" creationid="lenovo" creationdate="20180411T131834Z">
+        <seg>切换到/句子格式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Switch Case To/Title Case</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T131923Z" creationid="lenovo" creationdate="20180411T131736Z">
+        <seg>将切换到/标题案例</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Switch Case To/Upper Case</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T131959Z" creationid="lenovo" creationdate="20180411T131704Z">
+        <seg>切换/大写</seg>
       </tuv>
     </tu>
     <tu>
@@ -29282,6 +29594,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Scripting window allows you to load an existing script into the text area and run it against the current opened project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T085003Z" creationid="lenovo" creationdate="20180411T085003Z">
+        <seg>您可以在脚本窗口的文本区加载一个已存在的脚本并且再次运行当前打开的程序.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Spanish translation is better than the Slovenian.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
@@ -29405,8 +29725,8 @@ Please try to correct the error and reload the project.</seg>
       <tuv lang="EN">
         <seg>The author of the Chapter &lt;e1&gt;Learn to use OmegaT in 5 minutes!&lt;/e1&gt; is Samuel Murray, Copyright ©2005-2012.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131108T120117Z" creationid="Fu Rhong" creationdate="20131108T115957Z">
-        <seg>&lt;e1&gt;五分钟内学会OmegaT！&lt;/e1&gt;章的作者是Samuel Murray，版权所有©2005-2012。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T084354Z" creationid="Fu Rhong" creationdate="20131108T115957Z">
+        <seg>&lt;e1&gt;五分钟内学会OmegaT！&lt;/e1&gt;本章的作者是Samuel Murray，版权所有©2005-2012。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29825,6 +30145,14 @@ instead.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131108T113554Z" creationid="Fu Rhong" creationdate="20131108T113554Z">
         <seg>本文档与包含用户手册及readme.txt文档的 &lt;a0&gt;OmegaT&lt;/a0&gt;同时发布。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The documentation is Copyright ©2013 Vito Smolej, ©2014-2016 Vincent Bidaux.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T084314Z" creationid="lenovo" creationdate="20180411T084314Z">
+        <seg>本文档版权所有©2013 Vito Smolej, ©2014-2016 Vincent Bidaux。.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31139,8 +31467,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>The shortcut definition file must be named &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; and must contain at most one shortcut definition per line.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T114629Z">
-        <seg>快捷键定义文件名称必须为 &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt;，同时每行最多包含一个快捷键的定义。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T122006Z">
+        <seg>快捷键定义文件名称必须为 &lt;f0&gt;主菜单截图..properties&lt;/f0&gt;，同时每行最多包含一个快捷键的定义。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34578,6 +34906,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T084643Z" creationid="lenovo" creationdate="20180411T084643Z">
+        <seg>用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use $n to refer to the nth group.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="flycr" changedate="20180406T130619Z" creationid="flycr" creationdate="20180406T130619Z">
@@ -34654,6 +34990,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
         <seg>使用 Tab 前进</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use Terms Appearing Separately in the Source Text</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T135957Z" creationid="lenovo" creationdate="20180411T135957Z">
+        <seg>使用在源文本中单独出现的术语</seg>
       </tuv>
     </tu>
     <tu>
@@ -36557,6 +36901,14 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can add new scripts there, so they will appear in the list of available scripts in the Scripting window.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T120758Z" creationid="lenovo" creationdate="20180411T120758Z">
+        <seg>您可以在这里添加新的脚本，这些脚本会出现在脚本窗口里的可用脚本列表里。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can add the files to it later.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131114T134000Z" creationid="Fu Rhong" creationdate="20131114T134000Z">
@@ -38298,8 +38650,8 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>cycleSwitchCaseMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T120846Z">
-        <seg>cycleSwitchCaseMenuItem</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T132023Z">
+        <seg>循环切换菜单项</seg>
       </tuv>
     </tu>
     <tu>
@@ -38474,128 +38826,160 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>editCreateGlossaryEntryMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T120700Z">
-        <seg>editCreateGlossaryEntryMenuItem</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T131344Z">
+        <seg>编辑创建术语表条目菜单项</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>editCreateGlossaryEntryMenuItem=ctrl shift G</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T120018Z">
-        <seg>editCreateGlossaryEntryMenuItem=ctrl shift G</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T122228Z">
+        <seg>编辑创建单词条目菜单项=ctrl shift G</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>editExportSelectionMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T120658Z">
-        <seg>editExportSelectionMenuItem</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T131308Z">
+        <seg>编辑导出部分菜单项</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>editFindInProjectMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T120702Z">
-        <seg>editFindInProjectMenuItem</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T131443Z">
+        <seg>编辑在项目中查找菜单项</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>editInsertSourceMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T120655Z">
-        <seg>editInsertSourceMenuItem</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T131100Z">
+        <seg>编辑插入源文件菜单项</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>editInsertTranslationMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T120649Z">
-        <seg>editInsertTranslationMenuItem</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T130843Z">
+        <seg>编辑插入翻译菜单项m</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>editMultipleAlternate</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T120813Z">
-        <seg>editMultipleAlternate</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T132600Z">
+        <seg>编辑多项备用</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>editMultipleDefault</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T120812Z">
-        <seg>editMultipleDefault</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T132513Z">
+        <seg>编辑多项默认值</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>editOverwriteMachineTranslationMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T120651Z">
-        <seg>editOverwriteMachineTranslationMenuItem</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T131009Z">
+        <seg>编辑覆盖机器翻译菜单项</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>editOverwriteSourceMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T120652Z">
-        <seg>editOverwriteSourceMenuItem</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T131041Z">
+        <seg>编辑覆盖源菜单项</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>editOverwriteTranslationMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T120647Z">
-        <seg>editOverwriteTranslationMenuItem</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T130950Z">
+        <seg>编辑覆盖翻译菜单项</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>editRedoMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T120645Z">
-        <seg>editRedoMenuItem</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T130820Z">
+        <seg>编辑重做菜单项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>editRegisterEmptyMenuItem</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T132802Z" creationid="lenovo" creationdate="20180411T132802Z">
+        <seg>编辑寄存器空菜单项m</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>editRegisterIdenticalMenuItem</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T132835Z" creationid="lenovo" creationdate="20180411T132835Z">
+        <seg>编辑寄存器相同菜单项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>editRegisterUntranslatedMenuItem</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T132737Z" creationid="lenovo" creationdate="20180411T132737Z">
+        <seg>编辑寄存器未翻译的菜单项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>editReplaceInProjectMenuItem</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T131605Z" creationid="lenovo" creationdate="20180411T131605Z">
+        <seg>编辑在项目中替换菜单项</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>editSelectFuzzy1MenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T120732Z">
-        <seg>editSelectFuzzy1MenuItem</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T132402Z">
+        <seg>编辑选择模糊1菜单项</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>editSelectFuzzy2MenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T120751Z">
-        <seg>editSelectFuzzy2MenuItem</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T132355Z">
+        <seg>编辑选择模糊2菜单项</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>editSelectFuzzy3MenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T120756Z">
-        <seg>editSelectFuzzy3MenuItem</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T132351Z">
+        <seg>编辑选择模糊3菜单项</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>editSelectFuzzy4MenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T120803Z">
-        <seg>editSelectFuzzy4MenuItem</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T132344Z">
+        <seg>编辑选择模糊4菜单项</seg>
       </tuv>
     </tu>
     <tu>
@@ -38608,18 +38992,42 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>editSelectFuzzyNextMenuItem</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T132139Z" creationid="lenovo" creationdate="20180411T132139Z">
+        <seg>编辑选择模糊下一项菜单</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>editSelectFuzzyPrevMenuItem</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T132102Z" creationid="lenovo" creationdate="20180411T132102Z">
+        <seg>编辑选择模糊上一菜单项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>editTagNextMissedMenuItem</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T131249Z" creationid="lenovo" creationdate="20180411T131249Z">
+        <seg>编辑标签下忽略下一个菜单项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>editTagPainterMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T120656Z">
-        <seg>editTagPainterMenuItem</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T131201Z">
+        <seg>编辑标签菜画笔单项</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>editUndoMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131110T021807Z" creationid="Fu Rhong" creationdate="20131110T021807Z">
-        <seg>editUndoMenuItem</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T130912Z" creationid="Fu Rhong" creationdate="20131110T021807Z">
+        <seg>编辑未完成菜单项</seg>
       </tuv>
     </tu>
     <tu>
@@ -38840,6 +39248,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>findInProjectReuseLastWindow</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T131542Z" creationid="lenovo" creationdate="20180411T131542Z">
+        <seg>在项目中查找重用上一个窗口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>first join the &lt;u0&gt;user group&lt;/u0&gt; (via web or by sending an email to &lt;u1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt;-subscribe@yahoogroups.com&lt;/u1&gt;).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120130T073740Z">
@@ -39010,64 +39426,88 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>gotoHistoryBackMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T123919Z">
-        <seg>gotoHistoryBackMenuItem</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T133403Z">
+        <seg>转到历史之后菜单项</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>gotoHistoryForwardMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T123916Z">
-        <seg>gotoHistoryForwardMenuItem</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T133339Z">
+        <seg>转到前历史菜单项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>gotoMatchSourceSegment</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T133300Z" creationid="lenovo" creationdate="20180411T133300Z">
+        <seg>转到匹配源段落</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>gotoNextNoteMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T120936Z">
-        <seg>gotoNextNoteMenuItem</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T133144Z">
+        <seg>转到下一个注释菜单项</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>gotoNextSegmentMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T120908Z">
-        <seg>gotoNextSegmentMenuItem</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T133016Z">
+        <seg>转到下一个段落菜单项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>gotoNextTranslatedMenuItem</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T132940Z" creationid="lenovo" creationdate="20180411T132940Z">
+        <seg>转到下一个翻译菜单项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>gotoNextUniqueMenuItem</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T133245Z" creationid="lenovo" creationdate="20180411T133245Z">
+        <seg>转到下一个独立段落</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>gotoNextUntranslatedMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T120857Z">
-        <seg>gotoNextUntranslatedMenuItem</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T132855Z">
+        <seg>转到下一个未翻译的菜单项</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>gotoPreviousNoteMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T123914Z">
-        <seg>gotoPreviousNoteMenuItem</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T133147Z">
+        <seg>转到下一个注释菜单项</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>gotoPreviousSegmentMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T120917Z">
-        <seg>gotoPreviousSegmentMenuItem</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T133035Z">
+        <seg>转到前一个段落菜单项</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>gotoSegmentMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T120919Z">
-        <seg>gotoSegmentMenuItem</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T133211Z">
+        <seg>转到段落菜单项</seg>
       </tuv>
     </tu>
     <tu>
@@ -39162,16 +39602,32 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>helpAboutMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T124239Z">
-        <seg>helpAboutMenuItem</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T140522Z">
+        <seg>帮助关于菜单项</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>helpContentsMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T124237Z">
-        <seg>helpContentsMenuItem</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T140234Z">
+        <seg>帮助内容菜单项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>helpLastChangesMenuItem</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T140159Z" creationid="lenovo" creationdate="20180411T140159Z">
+        <seg>帮助上次更新菜单项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>helpLogMenuItem</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T140217Z" creationid="lenovo" creationdate="20180411T140217Z">
+        <seg>帮助登陆菜单项</seg>
       </tuv>
     </tu>
     <tu>
@@ -40450,8 +40906,8 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>lowerCaseMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T120829Z">
-        <seg>lowerCaseMenuItem</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T131650Z">
+        <seg>小写菜单项</seg>
       </tuv>
     </tu>
     <tu>
@@ -41128,122 +41584,194 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>optionsAccessConfigDirMenuItem</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T140302Z" creationid="lenovo" creationdate="20180411T140302Z">
+        <seg>选项访问配置Dir菜单项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>optionsAlwaysConfirmQuitCheckBoxMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T124038Z">
-        <seg>optionsAlwaysConfirmQuitCheckBoxMenuItem</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T135548Z">
+        <seg>选项始终确认退出复选框菜单项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>optionsAutoCompleteAutoTextMenuItem</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180412T004122Z" creationid="lenovo" creationdate="20180412T004122Z">
+        <seg>选项自动填充自动文本菜单项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>optionsAutoCompleteCharTableMenuItem</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180412T004000Z" creationid="lenovo" creationdate="20180412T004000Z">
+        <seg>选项自动填充表格菜单项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>optionsAutoCompleteGlossaryMenuItem</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180412T004207Z" creationid="lenovo" creationdate="20180412T004207Z">
+        <seg>选项自动填充术语表菜单项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>optionsAutoCompleteShowAutomaticallyItem</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180412T004303Z" creationid="lenovo" creationdate="20180412T004303Z">
+        <seg>选项自动填充自动显示项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>optionsColorsSelectionMenuItem</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180412T003753Z" creationid="lenovo" creationdate="20180412T003753Z">
+        <seg>选项颜色部分菜单项</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>optionsExtTMXMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T124226Z">
-        <seg>optionsExtTMXMenuItem</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T140557Z">
+        <seg>选项登出菜单项</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>optionsFontSelectionMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T124154Z">
-        <seg>optionsFontSelectionMenuItem</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180412T003710Z">
+        <seg>选项字体选择菜单项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>optionsGlossaryExactMatchCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T140030Z" creationid="lenovo" creationdate="20180411T140030Z">
+        <seg>选项词汇表完全匹配复选框菜单项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>optionsGlossaryStemmingCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T140125Z" creationid="lenovo" creationdate="20180411T140125Z">
+        <seg>现象词汇表词干复选框菜单项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>optionsGlossaryTBXDisplayContextCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T135824Z" creationid="lenovo" creationdate="20180411T135824Z">
+        <seg>选项词汇表TBX显示上下文复选框菜单项</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>optionsRestoreGUIMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T124230Z">
-        <seg>optionsRestoreGUIMenuItem</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T140347Z">
+        <seg>选项恢复GUI菜单项</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>optionsSaveOptionsMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131110T030306Z" creationid="Fu Rhong" creationdate="20131110T030306Z">
-        <seg>optionsSaveOptionsMenuItem</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T140509Z" creationid="Fu Rhong" creationdate="20131110T030306Z">
+        <seg>选项保存选项菜单项</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>optionsSentsegMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T124156Z">
-        <seg>optionsSentsegMenuItem</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180412T003648Z">
+        <seg>选项</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>optionsSetupFileFiltersMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T124155Z">
-        <seg>optionsSetupFileFiltersMenuItem</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180412T003735Z">
+        <seg>悬念启动文件夹菜单项</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>optionsSpellCheckMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T124157Z">
-        <seg>optionsSpellCheckMenuItem</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T140744Z">
+        <seg>选项拼写检查菜单项</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>optionsTabAdvanceCheckBoxMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T124037Z">
-        <seg>optionsTabAdvanceCheckBoxMenuItem</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T135310Z">
+        <seg>选项卡高级复选框菜单项</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>optionsTagValidationMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T124201Z">
-        <seg>optionsTagValidationMenuItem</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T140652Z">
+        <seg>选项标签验证菜单项</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>optionsTeamMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T124204Z">
-        <seg>optionsTeamMenuItem</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T140618Z">
+        <seg>选项团队菜单项</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>optionsTransTipsEnableMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T124137Z">
-        <seg>optionsTransTipsEnableMenuItem</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180412T004520Z">
+        <seg>选项转换提示启用菜单项</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>optionsViewOptionsMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T124228Z">
-        <seg>optionsViewOptionsMenuItem</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T140536Z">
+        <seg>选项查看选项菜单项</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>optionsViewOptionsMenuLoginItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T124229Z">
-        <seg>optionsViewOptionsMenuLoginItem</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T140429Z">
+        <seg>选项查看选项菜单登录项目</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>optionsWorkflowMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T124159Z">
-        <seg>optionsWorkflowMenuItem</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T140726Z">
+        <seg>选项工作流程菜单项</seg>
       </tuv>
     </tu>
     <tu>
@@ -41384,98 +41912,178 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>projectAccessCurrentSourceDocumentMenuItem</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T130501Z" creationid="lenovo" creationdate="20180411T130501Z">
+        <seg>项目访问当前源文件菜单项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>projectAccessCurrentTargetDocumentMenuItem</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T130627Z" creationid="lenovo" creationdate="20180411T130627Z">
+        <seg>项目访问当前目标文档菜单项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>projectAccessDictionaryMenuItem</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T124203Z" creationid="lenovo" creationdate="20180411T124203Z">
+        <seg>项目访问词典菜单项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>projectAccessGlossaryMenuItem</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T124337Z" creationid="lenovo" creationdate="20180411T124337Z">
+        <seg>项目访问词汇表菜单项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>projectAccessRootMenuItem</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T124116Z" creationid="lenovo" creationdate="20180411T124116Z">
+        <seg>项目访问根菜单项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>projectAccessSourceMenuItem</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T124434Z" creationid="lenovo" creationdate="20180411T124434Z">
+        <seg>项目访问原菜单项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>projectAccessTargetMenuItem</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T124511Z" creationid="lenovo" creationdate="20180411T124511Z">
+        <seg>项目访问目标菜单项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>projectAccessWriteableGlossaryMenuItem</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T130726Z" creationid="lenovo" creationdate="20180411T130726Z">
+        <seg>项目访问科协词汇表菜单项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>projectCloseMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T120611Z">
-        <seg>projectCloseMenuItem</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T123838Z">
+        <seg>项目关闭菜单项</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>projectCompileMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T120614Z">
-        <seg>projectCompileMenuItem</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T121728Z">
+        <seg>项目编译菜单项</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>projectEditMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T120639Z">
-        <seg>projectEditMenuItem</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T124002Z">
+        <seg>项目编译菜单项</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>projectExitMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T120642Z">
-        <seg>projectExitMenuItem</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T130748Z">
+        <seg>项目退出菜单项</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>projectImportMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T120607Z">
-        <seg>projectImportMenuItem</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T123726Z">
+        <seg>项目输入菜单项</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>projectNewMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T120603Z">
-        <seg>projectNewMenuItem</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T123314Z">
+        <seg>新项目菜单项m</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>projectOpenMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T120605Z">
-        <seg>projectOpenMenuItem</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T121942Z">
+        <seg>项目编译菜单项</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>projectOpenMenuItem=ctrl O</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T120011Z">
-        <seg>projectOpenMenuItem=ctrl O</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T122141Z">
+        <seg>项目打开菜单项=ctrl O</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>projectOpenRecentMenuItem</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T123652Z" creationid="lenovo" creationdate="20180411T123652Z">
+        <seg>项目编译菜单项m</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>projectReloadMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T120609Z">
-        <seg>projectReloadMenuItem</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T123823Z">
+        <seg>项目重载菜单项</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>projectSaveMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T120612Z">
-        <seg>projectSaveMenuItem</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T123900Z">
+        <seg>项目保存菜单项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>projectSingleCompileMenuItem</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T123948Z" creationid="lenovo" creationdate="20180411T123948Z">
+        <seg>项目单一编译菜单项</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>projectTeamNewMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131110T021737Z" creationid="Fu Rhong" creationdate="20131110T021737Z">
-        <seg>projectTeamNewMenuItem</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T123620Z" creationid="Fu Rhong" creationdate="20131110T021737Z">
+        <seg>项目团队新菜单项</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>projectWikiImportMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T120608Z">
-        <seg>projectWikiImportMenuItem</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T123755Z">
+        <seg>项目wiki输入菜单项m</seg>
       </tuv>
     </tu>
     <tu>
@@ -41821,6 +42429,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120127T074744Z">
         <seg>选择最有可能包含所需数据的翻译记忆备份</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>sentenceCaseMenuItem</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T131857Z" creationid="lenovo" creationdate="20180411T131857Z">
+        <seg>句子菜单项</seg>
       </tuv>
     </tu>
     <tu>
@@ -42283,8 +42899,8 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>titleCaseMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T120841Z">
-        <seg>titleCaseMenuItem</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T131804Z">
+        <seg>标题菜单项</seg>
       </tuv>
     </tu>
     <tu>
@@ -42387,32 +43003,48 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>toolsShowStatisticsMatchesMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T124032Z">
-        <seg>toolsShowStatisticsMatchesMenuItem</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T135155Z">
+        <seg>工具显示统计匹配菜单项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>toolsShowStatisticsMatchesPerFileMenuItem</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T135233Z" creationid="lenovo" creationdate="20180411T135233Z">
+        <seg>工具显示统计每个文件匹配菜单项</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>toolsShowStatisticsStandardMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T124031Z">
-        <seg>toolsShowStatisticsStandardMenuItem</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T135127Z">
+        <seg>工具显示统计标准菜单项</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>toolsShowStatisticsStandardMenuItem=shift meta S</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131110T021339Z" creationid="Fu Rhong" creationdate="20131110T021339Z">
-        <seg>toolsShowStatisticsStandardMenuItem=shift meta S</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T122851Z" creationid="Fu Rhong" creationdate="20131110T021339Z">
+        <seg>工具显示统计标准菜单项=shift meta S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>toolsSingleValidateTagsMenuItem</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T135045Z" creationid="lenovo" creationdate="20180411T135045Z">
+        <seg>工具单一验证标签菜单项</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>toolsValidateTagsMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T124028Z">
-        <seg>toolsValidateTagsMenuItem</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T135030Z">
+        <seg>工具验证标签菜单项</seg>
       </tuv>
     </tu>
     <tu>
@@ -42587,8 +43219,8 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>upperCaseMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T120833Z">
-        <seg>upperCaseMenuItem</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T131720Z">
+        <seg>大写菜单项</seg>
       </tuv>
     </tu>
     <tu>
@@ -42683,96 +43315,104 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>viewDisplayModificationInfoAllRadioButtonMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T124014Z">
-        <seg>viewDisplayModificationInfoAllRadioButtonMenuItem</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T135011Z">
+        <seg>视图显示修改信息所有单选按钮菜单项</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>viewDisplayModificationInfoNoneRadioButtonMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T123955Z">
-        <seg>viewDisplayModificationInfoNoneRadioButtonMenuItem</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T134853Z">
+        <seg>视图显示修改信息无单选按钮菜单项</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>viewDisplayModificationInfoSelectedRadioButtonMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T124006Z">
-        <seg>viewDisplayModificationInfoSelectedRadioButtonMenuItem</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T134949Z">
+        <seg>视图显示修改信息选定的单选按钮菜单项</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>viewDisplaySegmentSourceCheckBoxMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T123928Z">
-        <seg>viewDisplaySegmentSourceCheckBoxMenuItem</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T133616Z">
+        <seg>查看显示段来源复选框菜单项</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>viewFileListMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T120640Z">
-        <seg>viewFileListMenuItem</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T124026Z">
+        <seg>查看文件列表菜单项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>viewMarkAutoPopulatedCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T134710Z" creationid="lenovo" creationdate="20180411T134710Z">
+        <seg>查看标记自动填充复选框菜单项</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>viewMarkBidiCheckBoxMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131110T025637Z" creationid="Fu Rhong" creationdate="20131110T025637Z">
-        <seg>viewMarkBidiCheckBoxMenuItem</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T134627Z" creationid="Fu Rhong" creationdate="20131110T025637Z">
+        <seg>查看标记Bidi复选框菜单项</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>viewMarkNBSPCheckBoxMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131110T025345Z" creationid="Fu Rhong" creationdate="20131110T025345Z">
-        <seg>viewMarkNBSPCheckBoxMenuItem</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T134456Z" creationid="Fu Rhong" creationdate="20131110T025345Z">
+        <seg>查看标记NBSP复选框菜单项</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>viewMarkNonUniqueSegmentsCheckBoxMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T123929Z">
-        <seg>viewMarkNonUniqueSegmentsCheckBoxMenuItem</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T133649Z">
+        <seg>查看标记非独特片段复选框菜单项</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>viewMarkNotedSegmentsCheckBoxMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131110T024033Z" creationid="Fu Rhong" creationdate="20131110T024033Z">
-        <seg>viewMarkNotedSegmentsCheckBoxMenuItem</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T134428Z" creationid="Fu Rhong" creationdate="20131110T024033Z">
+        <seg>查看标记注释段落复选框菜单项</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>viewMarkTranslatedSegmentsCheckBoxMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T123926Z">
-        <seg>viewMarkTranslatedSegmentsCheckBoxMenuItem</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T133508Z">
+        <seg>查看标记翻译段落复选框菜单项</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>viewMarkUntranslatedSegmentsCheckBoxMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T123927Z">
-        <seg>viewMarkUntranslatedSegmentsCheckBoxMenuItem</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T133533Z">
+        <seg>查看标记未翻译段落复选框菜单项</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>viewMarkWhitespaceCheckBoxMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131110T025405Z" creationid="Fu Rhong" creationdate="20131110T025405Z">
-        <seg>viewMarkWhitespaceCheckBoxMenuItem</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T134556Z" creationid="Fu Rhong" creationdate="20131110T025405Z">
+        <seg>查看标记空白复选框菜单项</seg>
       </tuv>
     </tu>
     <tu>
