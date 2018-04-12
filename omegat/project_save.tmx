@@ -7803,6 +7803,14 @@ The TMX file will not be loaded.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An item of the name "{0}" already exists at this location.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T071518Z" creationid="Administrator" creationdate="20180412T071518Z">
+        <seg>名为"{0}" 已经存在。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An uppercase letter (simple &lt;u0&gt; category&lt;/u0&gt;)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120214T034912Z">
@@ -11995,6 +12003,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="ZH-CN" changeid="flycr" changedate="20180406T124606Z" creationid="flycr" creationdate="20180406T124606Z">
         <seg>是否继续？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Do you want to overwrite it?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T081033Z" creationid="Administrator" creationdate="20180412T081033Z">
+        <seg>你想要重写它吗？</seg>
       </tuv>
     </tu>
     <tu>
@@ -26479,6 +26495,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
         <seg>保存</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Save Alignment Results</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T071421Z" creationid="Administrator" creationdate="20180412T071421Z">
+        <seg>保存对齐结果</seg>
       </tuv>
     </tu>
     <tu>
