@@ -9663,6 +9663,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Clear Mark</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T062653Z" creationid="Administrator" creationdate="20180412T062653Z">
+        <seg>清除标记</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;e0&gt;Defaults&lt;/e0&gt; to reset the file filters to the default settings.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120201T040714Z">
@@ -18720,6 +18728,22 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Keep All</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T062945Z" creationid="Administrator" creationdate="20180412T062945Z">
+        <seg>全部保留</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Keep None</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T063234Z" creationid="Administrator" creationdate="20180412T063234Z">
+        <seg>全部不保留</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Keep in mind that a pair group must have both its opening and its closing tag deleted to ensure that all traces of the formatting are properly erased, otherwise the translated file may become corrupted.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120205T115256Z">
@@ -24925,6 +24949,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
         <seg>从某些特定文件格式中读取文档。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Realign Pending</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T062859Z" creationid="Administrator" creationdate="20180412T062859Z">
+        <seg>即将重新对齐</seg>
       </tuv>
     </tu>
     <tu>
