@@ -8477,6 +8477,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As such, it does nothing not already done by the OmegaT Editor pane; its purpose is to illustrate how the text can be extracted from a script file and made available for further scripts.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180412T145930Z" creationid="Zoe" creationdate="20180412T145930Z">
+        <seg>其本身仅仅是做到了OmegaT编辑器窗格可以做到的功能；该脚本旨在展示如何将文本从脚本文件中提取出来，并用为更多脚本所用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As the existing content will not be touched, damage to an existing file would be limited.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131116T114255Z" creationid="Fu Rhong" creationdate="20131116T114255Z">
@@ -35882,6 +35890,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130911T115839Z">
         <seg>本项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This script displays the source text in a separate window.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180412T145515Z" creationid="Zoe" creationdate="20180412T145515Z">
+        <seg>这个脚本在独立窗口中展示源文本。</seg>
       </tuv>
     </tu>
     <tu>
