@@ -22453,6 +22453,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ODFAuthors and LibreOffice's Italian translators are proud to use such a good tool for their hard work within the LibreOffice Community.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T094922Z" creationid="18261" creationdate="20180412T094922Z">
+        <seg>ODF的作者和LibreOffice 的意大利语译者对于可以使用这样一款好用的工具来处理LibreOffice社区的繁重工作，感到很满足。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OK</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T114005Z" creationid="Administrator" creationdate="20180411T114005Z">
@@ -36988,6 +36996,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T170410Z">
         <seg>验证标签</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Valter Mura - Translator EN &gt; IT</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T095001Z" creationid="18261" creationdate="20180412T095001Z">
+        <seg>Valter Mura -英文译者  &gt; IT</seg>
       </tuv>
     </tu>
     <tu>
