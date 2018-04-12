@@ -23524,6 +23524,14 @@ to be launched.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT is written in Java.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T112850Z" creationid="18261" creationdate="20180412T112850Z">
+        <seg>OmegaT采用Java编程语言。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT isn't just a product; it's an exciting project, and you can be part of it.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="18261" changedate="20180412T100549Z" creationid="18261" creationdate="20180412T100549Z">
@@ -25725,6 +25733,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T145957Z" creationid="Zoe" creationdate="20180411T145957Z">
         <seg>程序员和工作人员可以使用包含这些文本的文件，旨在为OmegaT加入更多功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Programming (Java)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T112706Z" creationid="18261" creationdate="20180412T112706Z">
+        <seg>编程(Java)</seg>
       </tuv>
     </tu>
     <tu>
