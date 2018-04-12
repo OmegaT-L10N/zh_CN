@@ -6848,6 +6848,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A vast range of functions, an uncluttered interface, and, most importantly, constant, regular open-source development!</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T095659Z" creationid="18261" creationdate="20180412T095659Z">
+        <seg>多样的功能，简洁的界面，最重要的是持续的开源开发！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A whitespace character: [ \t\n\x0B\f\r]</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120214T035201Z">
@@ -11833,8 +11841,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Diego Merino - Translator EN &gt; ES</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T094358Z" creationid="18261" creationdate="20180412T094358Z">
-        <seg>Diego Merino - 英文翻译 &gt; ES</seg>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T095015Z" creationid="18261" creationdate="20180412T094358Z">
+        <seg>Diego Merino - 英文译者 &gt; ES</seg>
       </tuv>
     </tu>
     <tu>
@@ -15981,6 +15989,14 @@ script provided (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130505T162250Z">
         <seg>插入原文(&amp;n)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>I've been using OmegaT as a professional translator for over 10 years, benefiting in the early days from its ease of use and extremely helpful forum.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T095325Z" creationid="18261" creationdate="20180412T095325Z">
+        <seg>我已经使用OmegaT超过10年，因为它的易用性和论坛受益匪浅。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22673,6 +22689,14 @@ appropriate location such as the Applications folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T150341Z">
         <seg>OmegaT 项目文件夹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT Screenshot</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T095852Z" creationid="18261" creationdate="20180412T095852Z">
+        <seg>OmegaT 截屏</seg>
       </tuv>
     </tu>
     <tu>
@@ -32379,8 +32403,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>The perfect companion for those of us who don't need complexity but efficiency; glossaries, auto-complete and automatic translation makes my work in literary translation so much more efficient</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T094136Z" creationid="18261" creationdate="20180412T094136Z">
-        <seg>满足高效需求的最佳选择；术语库，自动填写，自动翻译让你的翻译更加便捷。</seg>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T095820Z" creationid="18261" creationdate="20180412T094136Z">
+        <seg>提高效率的最佳选择；术语库，自动填写，自动翻译让我的翻译更加高效。</seg>
       </tuv>
     </tu>
     <tu>
