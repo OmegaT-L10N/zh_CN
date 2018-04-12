@@ -32845,6 +32845,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The files are unformatted plain-text files.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180412T140422Z" creationid="Zoe" creationdate="20180412T140422Z">
+        <seg>导出的文件是没有格式的纯文本文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The files of this site, in a convenient package for those wishing to localize it.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T091441Z" creationid="chloechao" creationdate="20180412T091211Z">
