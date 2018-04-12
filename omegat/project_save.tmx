@@ -19312,6 +19312,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It's a real eye-opener!</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T102838Z" creationid="18261" creationdate="20180412T102838Z">
+        <seg>这真的会让人大开眼界！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Italian</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T155722Z">
@@ -20398,6 +20406,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T121742Z" creationid="xulihang" creationdate="20180408T121628Z">
         <seg>本地工作副本已清理完成{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Localization</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T102857Z" creationid="18261" creationdate="20180412T102857Z">
+        <seg>本地化</seg>
       </tuv>
     </tu>
     <tu>
@@ -31141,6 +31157,14 @@ The scope of a text replacement is the target segments of the project, whether t
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120205T084857Z">
         <seg>感谢各位！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Thanks to the work of translators in the past, OmegaT's user interface and/or Help texts have been translated into several languages.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T103035Z" creationid="18261" creationdate="20180412T103035Z">
+        <seg> 感谢以前译者的工作，OmegaT的用户界面和帮助文档 已经被翻译成多种语言。</seg>
       </tuv>
     </tu>
     <tu>
