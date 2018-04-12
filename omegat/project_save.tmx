@@ -18533,6 +18533,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In turn, they are free, and indeed encouraged (but not obliged in any way) to contribute back to the project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T123930Z" creationid="18261" creationdate="20180412T123930Z">
+        <seg>转而，用户可以自由，并且被鼓励（并不是义务）为这一项目做贡献。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In view of the flexibility, you may consider defining more exception rules for your source language in order to provide more meaningful and coherent segments.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120217T070326Z">
@@ -31994,6 +32002,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The OmegaT project philosophy</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T122929Z" creationid="18261" creationdate="20180412T122929Z">
+        <seg>OmegaT 项目哲学</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The OmegaT project would benefit from greater support from volunteers in almost all areas.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="18261" changedate="20180412T101811Z" creationid="18261" creationdate="20180412T101811Z">
@@ -33789,6 +33805,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
         <seg>新增模式和编辑特定模式使用的是相同的对话框。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The same spirit can be found within the OmegaT project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T123036Z" creationid="18261" creationdate="20180412T123036Z">
+        <seg>在OmegaT项目中可以发现相同的精神。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38082,6 +38106,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T161005Z">
         <seg>用户名：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Users are free to download and use the program.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T123109Z" creationid="18261" creationdate="20180412T123109Z">
+        <seg>用户可以自由地下载和使用项目。</seg>
       </tuv>
     </tu>
     <tu>
