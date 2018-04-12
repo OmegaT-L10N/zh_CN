@@ -382,6 +382,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Automatically fetch translations</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T100227Z" creationid="Administrator" creationdate="20180412T100227Z">
+        <seg>&amp;自动匹配翻译</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Back</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T022651Z">
@@ -1162,6 +1170,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T133237Z" creationid="Administrator" creationdate="20180411T133051Z">
         <seg>替换(&amp;R)…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Reset Master Password</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T100607Z" creationid="Administrator" creationdate="20180412T100607Z">
+        <seg>&amp;重置主密码</seg>
       </tuv>
     </tu>
     <tu>
@@ -6992,6 +7008,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ASCII Only</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T100917Z" creationid="Administrator" creationdate="20180412T100917Z">
+        <seg>只有ASCII</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ASCII text (.txt, etc.)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120202T113100Z">
@@ -7624,6 +7648,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All preferences protected by the master password will be reset.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T100818Z" creationid="Administrator" creationdate="20180412T100818Z">
+        <seg>受主密码保护的所有偏好设置都将被重置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All segmentation rule sets for a matching language pattern are active and are applied in the given order of priority, so rules for specific language should be higher than default ones.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120217T072116Z">
@@ -8147,6 +8179,14 @@ The TMX file will not be loaded.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Appearance</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T100426Z" creationid="Administrator" creationdate="20180412T100426Z">
+        <seg>外观</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Application files</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
@@ -8215,6 +8255,14 @@ The TMX file will not be loaded.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T155811Z">
         <seg>你确认要删除第 {0} 个分段规则集合吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Are you sure you want to reset the master password?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T100733Z" creationid="Administrator" creationdate="20180412T100733Z">
+        <seg>你确定要重置主密码吗？</seg>
       </tuv>
     </tu>
     <tu>
@@ -8898,6 +8946,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
         <seg>波斯尼亚语</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Both</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T101002Z" creationid="Administrator" creationdate="20180412T101002Z">
+        <seg>两者皆</seg>
       </tuv>
     </tu>
     <tu>
@@ -13529,6 +13585,14 @@ project_save.tmx未真正上传，SVN切换到不稳定状态。</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Escape</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T100835Z" creationid="Administrator" creationdate="20180412T100835Z">
+        <seg>跳过</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Escaped binary char contains malformed data ({0})!</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T151433Z">
@@ -15198,6 +15262,14 @@ script provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>General</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T100343Z" creationid="Administrator" creationdate="20180412T100343Z">
+        <seg>通用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Generate the translated file</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T024557Z" creationid="Fu Rhong" creationdate="20131117T024557Z">
@@ -15460,6 +15532,14 @@ script provided (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120209T124857Z">
         <seg>前往</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Go to Preferences &gt; External Search to enable.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T101109Z" creationid="Administrator" creationdate="20180412T101109Z">
+        <seg>前往 设置 &gt; 外部搜索 来开启。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19128,6 +19208,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Item name is empty or missing</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T101206Z" creationid="Administrator" creationdate="20180412T101206Z">
+        <seg>项目名称为空或缺失</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Items</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T014051Z" creationid="xulihang" creationdate="20180408T014051Z">
@@ -20818,6 +20906,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Master Password:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T100555Z" creationid="Administrator" creationdate="20180412T100555Z">
+        <seg>主密码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Match Statistics</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T144454Z">
@@ -21980,6 +22076,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Non-ASCII Only</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T100930Z" creationid="Administrator" creationdate="20180412T100930Z">
+        <seg>只有非ASCII</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Non-breakable space</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130504T152651Z">
@@ -22024,6 +22128,14 @@ appropriate location such as the Applications folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131118T124858Z" creationid="Fu Rhong" creationdate="20131118T124858Z">
         <seg>不可见的格式信息（即在OmegaT编辑器中不显示为标签的那些）会保留在目标文档中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>None</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T100853Z" creationid="Administrator" creationdate="20180412T100853Z">
+        <seg>无</seg>
       </tuv>
     </tu>
     <tu>
@@ -22080,6 +22192,14 @@ appropriate location such as the Applications folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
         <seg>挪威尼诺斯克语</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Not Set</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T100658Z" creationid="Administrator" creationdate="20180412T100658Z">
+        <seg>不设置</seg>
       </tuv>
     </tu>
     <tu>
@@ -22913,6 +23033,14 @@ appropriate location such as the Applications folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120215T125449Z">
         <seg>OmegaT 会显示所有词汇都出现了的片段清单。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT encrypts sensitive passwords and API keys with a master password.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T100547Z" creationid="Administrator" creationdate="20180412T100547Z">
+        <seg>OmegaT用主密码将密码和API密钥加密。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25457,6 +25585,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Project commands are disabled for security reasons.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T101033Z" creationid="Administrator" creationdate="20180412T101033Z">
+        <seg>因为安全原因项目命令不能执行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Project compiling end</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T164402Z">
@@ -25669,6 +25805,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
         <seg>属性...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Provider</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T100332Z" creationid="Administrator" creationdate="20180412T100332Z">
+        <seg>供应商</seg>
       </tuv>
     </tu>
     <tu>
@@ -26843,6 +26987,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Reset Master Password</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T100711Z" creationid="Administrator" creationdate="20180412T100711Z">
+        <seg>重置主密码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Resource name</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T015840Z" creationid="Administrator" creationdate="20180412T015840Z">
@@ -27781,6 +27933,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Secure Store</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T100441Z" creationid="Administrator" creationdate="20180412T100441Z">
+        <seg>安全商店</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120209T125930Z">
@@ -28505,6 +28665,22 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T114109Z" creationid="Administrator" creationdate="20180411T114109Z">
         <seg>服务器未识别“翻译”方法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Set</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T100644Z" creationid="Administrator" creationdate="20180412T100644Z">
+        <seg>设置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Set &amp; Stored</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T100623Z" creationid="Administrator" creationdate="20180412T100623Z">
+        <seg>重置 &amp; 保存</seg>
       </tuv>
     </tu>
     <tu>
@@ -36630,6 +36806,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T032316Z" creationid="xulihang" creationdate="20180404T032214Z">
         <seg>未译片段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Untranslated segments &amp;only</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T100317Z" creationid="Administrator" creationdate="20180412T100317Z">
+        <seg>只&amp;未翻译片段</seg>
       </tuv>
     </tu>
     <tu>
