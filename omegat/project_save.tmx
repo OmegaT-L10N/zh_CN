@@ -7088,6 +7088,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add numbers to all segments, making them all "unique"</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T075503Z" creationid="chloechao" creationdate="20180412T075503Z">
+        <seg>为所有片段编号，赋予片段独一无二的属性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add or rewrite encoding declaration in HTML and XHTML files:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T154358Z">
@@ -25533,6 +25541,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T024437Z" creationid="weiyi" creationdate="20180406T024437Z">
         <seg>移除译文</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove all text except tags, or all tags except text</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T075104Z" creationid="chloechao" creationdate="20180412T075104Z">
+        <seg>移除标签外所有内容或移除文字外所有标签。</seg>
       </tuv>
     </tu>
     <tu>
