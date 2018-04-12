@@ -9096,16 +9096,16 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Changed by</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T015500Z" creationid="Administrator" creationdate="20180412T015500Z">
-        <seg>由...修改</seg>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T015755Z" creationid="Administrator" creationdate="20180412T015500Z">
+        <seg>由…修改</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Changed on</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T015549Z" creationid="Administrator" creationdate="20180412T015549Z">
-        <seg>修改在...</seg>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T015742Z" creationid="Administrator" creationdate="20180412T015549Z">
+        <seg>修改在…</seg>
       </tuv>
     </tu>
     <tu>
@@ -10491,6 +10491,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T151447Z">
         <seg>由: {0}创建</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Created on</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T015817Z" creationid="Administrator" creationdate="20180412T015817Z">
+        <seg>创建在…</seg>
       </tuv>
     </tu>
     <tu>
@@ -15032,6 +15040,14 @@ script provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Has note</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T015935Z" creationid="Administrator" creationdate="20180412T015935Z">
+        <seg>有笔记</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Hausa</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131107T150118Z" creationid="Fu Rhong" creationdate="20131107T150118Z">
@@ -17953,6 +17969,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T025115Z" creationid="xulihang" creationdate="20180404T025115Z">
         <seg>是默认翻译</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Is duplicate</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T015919Z" creationid="Administrator" creationdate="20180412T015919Z">
+        <seg>复制</seg>
       </tuv>
     </tu>
     <tu>
@@ -25631,6 +25655,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120202T114739Z">
         <seg>ResX 文件 (*.resx)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Resource name</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T015840Z" creationid="Administrator" creationdate="20180412T015840Z">
+        <seg>资源名称</seg>
       </tuv>
     </tu>
     <tu>
