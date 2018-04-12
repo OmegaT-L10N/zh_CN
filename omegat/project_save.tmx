@@ -18536,6 +18536,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Java command-line script for removing "superfluous" translation units from a TMX file: deletes all TUs without target segment or in which the target segment is identical to the source segment.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T025553Z" creationid="chloechao" creationdate="20180412T025553Z">
+        <seg>移除TMX文件中"多余"翻译单元的Java命令行：删除所有无目标片段或目标片段与源文件片段相同的翻译单元。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Java property XML (*.xml)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T123256Z" creationid="Administrator" creationdate="20180411T123256Z">
