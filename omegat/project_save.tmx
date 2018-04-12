@@ -25921,6 +25921,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Programming in tcl/tk</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="10353" changedate="20180412T120637Z" creationid="10353" creationdate="20180412T120637Z">
+        <seg>在tcl/tk中编程</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Programming is certainly the most important function, and without programming, there is no program.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="18261" changedate="20180412T102043Z" creationid="18261" creationdate="20180412T102043Z">
@@ -31235,6 +31243,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131108T101559Z" creationid="Fu Rhong" creationdate="20131108T101559Z">
         <seg>鞑靼语</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tcl/tk has a number of advantages as a scripting language:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="10353" changedate="20180412T120735Z" creationid="10353" creationdate="20180412T120735Z">
+        <seg>Tcl/tk作为一种脚本语言，具有很多优势：</seg>
       </tuv>
     </tu>
     <tu>
@@ -37299,6 +37315,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T151815Z">
         <seg>在'{0}'中遇到未知插件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unlike te-notags, it is possible for the translator to work in this window, then copy and paste the content in full to the OmegaT editor pane.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="10353" changedate="20180412T113723Z" creationid="10353" creationdate="20180412T113723Z">
+        <seg>啦啦啦开始 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【【Unlike te-notags, it is possible for the translator to work in this window, then copy and paste the content in full to the OmegaT editor pane.</seg>
       </tuv>
     </tu>
     <tu>
