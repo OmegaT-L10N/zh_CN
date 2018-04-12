@@ -18283,6 +18283,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In order to make the workings of the script code clearer, each script essentially performs only one function.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180412T142707Z" creationid="Zoe" creationdate="20180412T142707Z">
+        <seg>为了使脚本代码清晰可读，每个脚本基本上只实现一项功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In order to run, OmegaT requires the Java Runtime Environment (JRE) version</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130911T114914Z">
