@@ -16949,6 +16949,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If multiple functions were to be used at the same time in practice, it would be more efficient to combine them in a single script file.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180412T143711Z" creationid="Zoe" creationdate="20180412T143711Z">
+        <seg>如果现实情况同时要使用多种功能，将这些脚本合并成一个单独文件会更有效率。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If necessary, edit the file names of the dictionary or change your project's language settings.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120217T120958Z">
