@@ -8461,6 +8461,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As for te-basic-source, but for the target text.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180412T150343Z" creationid="Zoe" creationdate="20180412T150343Z">
+        <seg>该脚本是针对te-basic-target，而不是针对目标文本的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As opposed to user-generated translation memories (as in the case of &lt;a0&gt;OmegaT&lt;/a0&gt;) Machine translation (MT) tools use rule-based linguistic tools to create a translation of the source segment without the need for a translation memory.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120208T141917Z">
@@ -9042,6 +9050,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T141609Z" creationid="Zoe" creationdate="20180411T141609Z">
         <seg>除了从上述仓库中可获取字典，LibreOffice和OpenOffice的部分安装也可获取到拼写字典。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Besides displaying the source text, this script provides an entry box into which the user can type a string (e.g. a word).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180412T150616Z" creationid="Zoe" creationdate="20180412T150616Z">
+        <seg>除了展示源文本，这个脚本提供了一个输入框，用户可以键入字符串（例如，一个单词）。</seg>
       </tuv>
     </tu>
     <tu>
