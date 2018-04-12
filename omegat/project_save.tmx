@@ -8107,6 +8107,14 @@ The TMX file will not be loaded.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An important aspect of this freedom is that users may also modify the program's code.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T121713Z" creationid="18261" creationdate="20180412T121713Z">
+        <seg>自由的一个重要方面是用户可以修改程序的代码。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An intelligent command-line alignment tool for producing translation memory files from legacy texts and their translations.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T093932Z" creationid="chloechao" creationdate="20180412T093932Z">
@@ -22628,6 +22636,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Not only may it be used free of charge, users are also free to make copies of it and distribute them.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T121305Z" creationid="18261" creationdate="20180412T121305Z">
+        <seg>用户不仅可以免费使用，还可以免费复制和分发。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Not present</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T024739Z" creationid="xulihang" creationdate="20180404T024739Z">
@@ -23619,6 +23635,14 @@ translation leveraging into updated projects.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120218T123724Z">
         <seg>OmegaT 会保存等同于原文的译文。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT is an open-source application and project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T120340Z" creationid="18261" creationdate="20180412T120340Z">
+        <seg>OmegaT是一款开源的应用和项目。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35478,6 +35502,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This means that the source code of the OmegaT program is freely available, and that OmegaT's license gives its users considerable freedom in its use.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T121059Z" creationid="18261" creationdate="20180412T121059Z">
+        <seg>这意味着OmegaT的源代码可以免费获得，OmegaT的许可证给予用户相当的使用自由。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This method has a particular benefit of being suitable for finding causes of problems: if an error occurs during use of the program, an error message is output in the terminal window which may contain useful information on the cause of the error.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131116T131210Z">
@@ -36252,6 +36284,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120131T114557Z">
         <seg>要为 OmegaT 项目提供资金支持</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To the open-source movement, the freedom that users have to change the program to suit their own needs is more important than the fact that they do not have to pay for it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T122203Z" creationid="18261" creationdate="20180412T122203Z">
+        <seg>对于开源运动来说，用户可以根据需求改变程序比免费更重要。</seg>
       </tuv>
     </tu>
     <tu>
