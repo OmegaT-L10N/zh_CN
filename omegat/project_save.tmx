@@ -23149,6 +23149,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Options &gt; Editing behaviour</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180412T041934Z" creationid="Zoe" creationdate="20180412T041934Z">
+        <seg>选项菜单&gt;编辑行为</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Options Menu</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T124036Z">
@@ -32126,6 +32134,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120130T070905Z">
         <seg>&lt;u0&gt; &lt;a1&gt;OmegaT&lt;/a1&gt; 网站&lt;/u0&gt;包含了众多 &lt;a2&gt;OmegaT&lt;/a2&gt; 的资源链接。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Then tick the "Export the segment to text files" box.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180412T042128Z" creationid="Zoe" creationdate="20180412T042128Z">
+        <seg>然后，点击“将片段导出到文本文件”选框。</seg>
       </tuv>
     </tu>
     <tu>
