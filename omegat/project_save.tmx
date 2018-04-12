@@ -11769,8 +11769,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Do you really want to quit?</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T055156Z">
-        <seg>你真的想退出吗？</seg>
+      <tuv lang="ZH-CN" changeid="christy" changedate="20180412T011228Z">
+        <seg>确定退出？</seg>
       </tuv>
     </tu>
     <tu>
@@ -13644,8 +13644,8 @@ project_save.tmx未真正上传，SVN切换到不稳定状态。</seg>
       <tuv lang="EN">
         <seg>File: translated / number of segments (project: unique translated / unique, total number of segments)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T033741Z">
-        <seg>文件：已译/片段数量(项目：唯一已译/唯一，片段总量)</seg>
+      <tuv lang="ZH-CN" changeid="christy" changedate="20180412T011331Z">
+        <seg>文件：已译/片段数量(项目：唯一已译/唯一片段总量)</seg>
       </tuv>
     </tu>
     <tu>
