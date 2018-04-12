@@ -14964,6 +14964,14 @@ script provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, anyone is free to make changes to OmegaT's program code and to submit these changes to the development team.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T125054Z" creationid="18261" creationdate="20180412T125054Z">
+        <seg>例如，任何人都可以自由地更改OmegaT的程序代码，并将这些更改提交给开发团队。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, by default &lt;l0&gt;.txt&lt;/l0&gt; files will be loaded using the default encoding of your operating system.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120201T112717Z">
@@ -18296,6 +18304,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="flycr" changedate="20180408T094657Z">
         <seg>在原文中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In some areas, some degree of co-ordination is required.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T125002Z" creationid="18261" creationdate="20180412T125002Z">
+        <seg>在一些领域，需要一定程度的协调。</seg>
       </tuv>
     </tu>
     <tu>
