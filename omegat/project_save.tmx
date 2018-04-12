@@ -7696,6 +7696,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An error occurred when loading the source files.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T061148Z" creationid="Administrator" creationdate="20180412T061148Z">
+        <seg>载入源文件时出现错误。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An error occurred when trying to detect the project file.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T124343Z" creationid="Administrator" creationdate="20180411T124057Z">
@@ -30431,8 +30439,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The file "{0}" is not supported.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T060702Z" creationid="Administrator" creationdate="20180412T060527Z">
-        <seg>文件 "{0}"不支持 .</seg>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T061055Z" creationid="Administrator" creationdate="20180412T060527Z">
+        <seg>文件 "{0}"不支持 。  </seg>
       </tuv>
     </tu>
     <tu>
@@ -31747,8 +31755,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>The specified files are not supported.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T060814Z" creationid="Administrator" creationdate="20180412T060814Z">
-        <seg>特殊文件类型不支持.</seg>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T061107Z" creationid="Administrator" creationdate="20180412T060814Z">
+        <seg>特殊文件类型不支持。</seg>
       </tuv>
     </tu>
     <tu>
