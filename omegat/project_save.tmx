@@ -22301,6 +22301,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ONline DIctionary LOokup TOol.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T083020Z" creationid="chloechao" creationdate="20180412T083020Z">
+        <seg>在线字典查找工具。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Obtain the .dic and .aff files of the dictionary you wish to use, and place these files in this folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T141222Z" creationid="Zoe" creationdate="20180411T141222Z">
@@ -24777,6 +24785,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Priorview</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T083424Z" creationid="chloechao" creationdate="20180412T083424Z">
+        <seg>Priorview功能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Pro&amp;ject</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="flycr" changedate="20180408T094732Z">
@@ -26303,6 +26319,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130514T151525Z">
         <seg>在 SourceForge 网站的下列网址可以（用英语）提出改进建议：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Requires Linux, w3m and tcl/tk (both generally supplied with Linux).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T083129Z" creationid="chloechao" creationdate="20180412T083129Z">
+        <seg>需要安装Linux，w3m和tcl/tk （以上两者通常由Linux提供）</seg>
       </tuv>
     </tu>
     <tu>
@@ -33464,8 +33488,8 @@ the server.</seg>
       <tuv lang="EN">
         <seg>This collection of scripts may be useful to scripters with a knowledge of tcl/tk.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T072931Z" creationid="chloechao" creationdate="20180412T072931Z">
-        <seg>该系列脚本对有tcl/tk技术知识背景的脚本编写者有所裨益。</seg>
+      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T082943Z" creationid="chloechao" creationdate="20180412T072931Z">
+        <seg>该系列脚本对熟悉tcl/tk的脚本编写者有所裨益。</seg>
       </tuv>
     </tu>
     <tu>
