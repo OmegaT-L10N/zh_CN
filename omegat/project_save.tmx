@@ -30445,6 +30445,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The files appear in the /script subfolder in the OmegaT user files folder (for the location of the OmegaT user files folder on your operating system, see the User Manual (F1 from within OmegaT) &gt; Files and directories &gt; User files):</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180412T042622Z" creationid="Zoe" creationdate="20180412T042622Z">
+        <seg>导出的文件会保存到OmegaT用户文件中的/script子文件夹中（OmegaT用户文件夹在你的操作系统中的存储位置，参见使用手册（在OmegaT软件中使用F1键）&gt;文件和目录&gt;用户文件）：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The files appear in the /script subfolder in the OmegaT user files folder, and include:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131113T015807Z">
