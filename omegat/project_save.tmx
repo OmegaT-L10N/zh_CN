@@ -8477,6 +8477,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As its name suggests, this script automatically strips the tags out of an OmegaT (target) segment.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180412T152057Z" creationid="Zoe" creationdate="20180412T152057Z">
+        <seg>正如其名字所示，这个脚本会将OmegaT（目标）片段中的标签自动去除。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As opposed to user-generated translation memories (as in the case of &lt;a0&gt;OmegaT&lt;/a0&gt;) Machine translation (MT) tools use rule-based linguistic tools to create a translation of the source segment without the need for a translation memory.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120208T141917Z">
@@ -18625,6 +18633,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yujun Yin" changedate="20131007T084602Z" creationid="Yujun Yin" creationdate="20131007T084602Z">
         <seg>为了完成上述搜索，需要用到正则表达式 ^s^s+ ，然后软件会列出所有相关的片段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In this case, a "reminder" in each relevant segment may be helpful.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180412T151858Z" creationid="Zoe" creationdate="20180412T151858Z">
+        <seg>这种情况下，在每个相关片段设置“备忘录”可能有所帮助。</seg>
       </tuv>
     </tu>
     <tu>
