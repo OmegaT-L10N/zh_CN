@@ -2685,6 +2685,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;Documentation&lt;/a0&gt; is very important.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T102458Z" creationid="18261" creationdate="20180412T102458Z">
+        <seg>&lt;a0&gt;文档&lt;/a0&gt; 非常重要。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; Files and Folders</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131113T130021Z" creationid="Fu Rhong" creationdate="20131113T130021Z">
@@ -15879,6 +15887,14 @@ script provided (omegat.kaptn).</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Have you considered writing some user documentation yourself?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T102728Z" creationid="18261" creationdate="20180412T102728Z">
+        <seg>你有想过自己攥写用户文档吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>这里的or可能应为of</note>
       <tuv lang="EN">
         <seg>Having no languages defined elicits this kind or a response.</seg>
@@ -20806,6 +20822,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131108T030157Z" creationid="Fu Rhong" creationdate="20131108T030157Z">
         <seg>马恩岛语</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Many of you reading this will be translators who have translated a lot of user documentation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T102632Z" creationid="18261" creationdate="20180412T102632Z">
+        <seg>正在阅读的各位，有许多都是翻译过许多用户文档的译者。</seg>
       </tuv>
     </tu>
     <tu>
