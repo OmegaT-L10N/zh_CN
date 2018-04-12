@@ -18139,6 +18139,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In addition, if supported by the hardware and operating system (this is not always the case), a beep will sound.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180412T151017Z" creationid="Zoe" creationdate="20180412T151017Z">
+        <seg>此外，如果硬件以及操作系统支持（通常不会出现这种情况），会发出哔哔的提示音。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In addition, the package &lt;a0&gt;te-scripts.zip&lt;/a0&gt; contains some very simple tcl/tk scripts which are intended to illustrate use of the function.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T145138Z" creationid="Zoe" creationdate="20180411T145138Z">
@@ -34686,6 +34694,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131116T114503Z" creationid="Fu Rhong" creationdate="20131116T114332Z">
         <seg>词条可以有附加的注释。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The warning takes the form of the text in the script window being highlighted in yellow.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180412T150839Z" creationid="Zoe" creationdate="20180412T150839Z">
+        <seg>警告采用脚本窗口中文本的形式，采用黄色高亮。</seg>
       </tuv>
     </tu>
     <tu>
