@@ -11943,6 +11943,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Depending upon how your system is configured, it may be possible to launch the scripts simply by clicking on them with the mouse.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180412T144928Z" creationid="Zoe" creationdate="20180412T144928Z">
+        <seg>运行脚本可能只需要用鼠标点击文件，这取决于你的系统设定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Depending upon the preferred editing behavior, the editing field for the untranslated segment may be empty, contain the source text, or contain the translation of the string most similar to the one to be translated.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120218T123421Z">
