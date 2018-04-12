@@ -18293,6 +18293,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Interface to Google Translate</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T084405Z" creationid="18261" creationdate="20180412T084405Z">
+        <seg>Google 翻译接口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Interlingua</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131107T150339Z" creationid="Fu Rhong" creationdate="20131107T150339Z">
