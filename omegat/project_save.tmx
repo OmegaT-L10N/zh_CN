@@ -11847,6 +11847,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Distance</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T070358Z" creationid="Administrator" creationdate="20180412T070358Z">
+        <seg>距离</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Distribution and modifications</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
@@ -18796,6 +18804,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T101824Z" creationid="Fu Rhong" creationdate="20131108T025650Z">
         <seg>哈萨克语</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Keep</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T071354Z" creationid="Administrator" creationdate="20180412T071354Z">
+        <seg>保留</seg>
       </tuv>
     </tu>
     <tu>
