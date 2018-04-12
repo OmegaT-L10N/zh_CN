@@ -31423,6 +31423,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tcl/tk must be installed, if it is not already.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180412T140626Z" creationid="Zoe" creationdate="20180412T140626Z">
+        <seg>必须安装Tcl/tk工具控制语言。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tcl/tk utility providing a formatted layout preview of translated files.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T085137Z" creationid="chloechao" creationdate="20180412T085137Z">
@@ -38388,6 +38396,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120211T063754Z">
         <seg>使用控制台模式就可以在它的构建过程中生成本地化界面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using the sample scripts</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180412T140436Z" creationid="Zoe" creationdate="20180412T140436Z">
+        <seg>使用样本脚本</seg>
       </tuv>
     </tu>
     <tu>
