@@ -3807,6 +3807,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;html&gt;Place the caret at the location where you want to split the text.&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T081423Z" creationid="Administrator" creationdate="20180412T081423Z">
+        <seg>&lt;html&gt;将插入符号定位在你想要拆分的位置。&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;html&gt;Repository URL:&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T125420Z" creationid="Administrator" creationdate="20180411T125420Z">
@@ -7736,6 +7744,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An error occurred when saving the TMX.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T081102Z" creationid="Administrator" creationdate="20180412T081102Z">
+        <seg>保存TMX时出错。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An error occurred when trying to detect the project file.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T124343Z" creationid="Administrator" creationdate="20180411T124057Z">
@@ -10251,6 +10267,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Continue?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T081222Z" creationid="Administrator" creationdate="20180412T081222Z">
+        <seg>继续？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Contributed by Didier Briel.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T024537Z" creationid="chloechao" creationdate="20180412T024537Z">
@@ -12513,6 +12537,14 @@ project_save.tmx未真正上传，SVN切换到不稳定状态。</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Edit Highlight Pattern</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T081249Z" creationid="Administrator" creationdate="20180412T081249Z">
+        <seg>编辑高亮模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Edit Menu</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131110T022106Z">
@@ -12533,6 +12565,14 @@ project_save.tmx未真正上传，SVN切换到不稳定状态。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T144508Z">
         <seg>编辑项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit Text</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T081232Z" creationid="Administrator" creationdate="20180412T081232Z">
+        <seg>编辑文本</seg>
       </tuv>
     </tu>
     <tu>
@@ -28685,6 +28725,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Split Text</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T081309Z" creationid="Administrator" creationdate="20180412T081309Z">
+        <seg>拆分文本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Standard</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130911T115507Z">
@@ -33802,6 +33850,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120206T121348Z">
         <seg>该操作将会在工作目录中创建一个 omegat/ 目录，在该目录中可以找到运行 &lt;a0&gt;OmegaT&lt;/a0&gt; 所需的所有文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This will discard all changes you have made so far.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T081215Z" creationid="Administrator" creationdate="20180412T081215Z">
+        <seg>您做的所有修改将被抹除</seg>
       </tuv>
     </tu>
     <tu>
