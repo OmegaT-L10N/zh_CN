@@ -11799,6 +11799,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Diego Merino - Translator EN &gt; ES</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T094358Z" creationid="18261" creationdate="20180412T094358Z">
+        <seg>Diego Merino - 英文翻译 &gt; ES</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Diff (GPL)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130509T154242Z">
@@ -32209,6 +32217,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The perfect companion for those of us who don't need complexity but efficiency; glossaries, auto-complete and automatic translation makes my work in literary translation so much more efficient</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T094136Z" creationid="18261" creationdate="20180412T094136Z">
+        <seg>满足高效需求的最佳选择；术语库，自动填写，自动翻译让你的翻译更加便捷。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The permissions you give to this version (which may appear as "unrestricted access to the computer") are identical to the permissions you give to the local version, i.e., they allow access to the hard drive of the computer.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120207T121530Z">
@@ -36633,6 +36649,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T112846Z" creationid="cpeishan" creationdate="20180407T112846Z">
         <seg>用户手册</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>User portrait</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T093619Z" creationid="18261" creationdate="20180412T093619Z">
+        <seg>用户画像</seg>
       </tuv>
     </tu>
     <tu>
