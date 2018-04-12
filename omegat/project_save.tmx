@@ -31415,6 +31415,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tcl/tk can be obtained from a number of sources; tcl.activestate.com is one popular source.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180412T141001Z" creationid="Zoe" creationdate="20180412T141001Z">
+        <seg>可以从许多地方获取Tcl/tk；tcl.activestate.com是最受欢迎的下载处。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tcl/tk has a number of advantages as a scripting language:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="10353" changedate="20180412T120735Z" creationid="10353" creationdate="20180412T120735Z">
