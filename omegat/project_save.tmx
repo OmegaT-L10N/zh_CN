@@ -23773,6 +23773,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Pattern...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T070003Z" creationid="Administrator" creationdate="20180412T070003Z">
+        <seg>模式...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Pay attention to the capitalization - in OS other than Windows, the program will not start, if you enter &lt;e0&gt;omegat&lt;/e0&gt; instead of &lt;e1&gt;OmegaT &lt;/e1&gt;!</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131116T131008Z" creationid="Fu Rhong" creationdate="20131116T131008Z">
