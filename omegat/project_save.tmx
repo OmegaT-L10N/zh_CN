@@ -3855,6 +3855,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;html&gt;Term: &lt;b&gt;{0}&lt;/b&gt;&lt;br&gt;Glossaries:&lt;br&gt;{1}&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T082815Z" creationid="Administrator" creationdate="20180412T082815Z">
+        <seg>&lt;html&gt;术语：&lt;b&gt;{0}&lt;/b&gt;&lt;br&gt;术语表：&lt;br&gt;{1}&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;i2/&gt;The options for the program start-up in this case will be read from the &lt;e3&gt;&lt;a4&gt;OmegaT&lt;/a4&gt;.l4J.ini &lt;/e3&gt;file, which resides in the same folder as the exe file and which you can edit to reflect your setup.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120206T094113Z">
@@ -12311,6 +12319,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Don't ask before checking issues</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T095044Z" creationid="Administrator" creationdate="20180412T095044Z">
+        <seg>先进行问题检查再询问</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Done</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T024300Z" creationid="xulihang" creationdate="20180404T024300Z">
@@ -16302,6 +16318,14 @@ need not be entered.)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120202T070627Z">
         <seg>如果有任何疑问，请直接向项目成员请教，可通过 Source Forge 页面给他们发送邮件或向用户讨论组发送一份公开邮件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If issue checking is slow, try disabling some of the optional checks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T094927Z" creationid="Administrator" creationdate="20180412T094927Z">
+        <seg>如果问题检查进行缓慢，可尝试取消一些可选的检查。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20630,6 +20654,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T031211Z" creationid="xulihang" creationdate="20180404T031211Z">
         <seg>掩码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Master Password</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T095124Z" creationid="Administrator" creationdate="20180412T095124Z">
+        <seg>主密码</seg>
       </tuv>
     </tu>
     <tu>
@@ -27893,6 +27925,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select Issue Types</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T082851Z" creationid="Administrator" creationdate="20180412T082851Z">
+        <seg>选择问题类型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select Mat&amp;ch</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130505T162328Z">
@@ -28017,6 +28057,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T120457Z" creationid="Administrator" creationdate="20180411T120457Z">
         <seg>选择脚本文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select issue types to check.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T082904Z" creationid="Administrator" creationdate="20180412T082904Z">
+        <seg>选择问题类型进行检查。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28185,6 +28233,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T124521Z" creationid="Administrator" creationdate="20180411T120953Z">
         <seg>设置脚本目录…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Set a master password to protect your private data.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T095255Z" creationid="Administrator" creationdate="20180412T095255Z">
+        <seg>设置主密码保护你的隐私数据</seg>
       </tuv>
     </tu>
     <tu>
@@ -30315,6 +30371,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T160310Z">
         <seg>模板标量：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Terminology</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T082640Z" creationid="Administrator" creationdate="20180412T082640Z">
+        <seg>术语</seg>
       </tuv>
     </tu>
     <tu>
