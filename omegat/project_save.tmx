@@ -7944,6 +7944,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Alternatively:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180412T144945Z" creationid="Zoe" creationdate="20180412T144945Z">
+        <seg>其他方案：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Alternatives include a Linux .tar package, a Windows installer – with or without a Java Runtime Environment –, a Mac OS X installer, and a source code package for developers.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131116T032200Z" creationid="Fu Rhong" creationdate="20131116T032200Z">
@@ -9546,6 +9554,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T025052Z" creationid="xulihang" creationdate="20180404T024822Z">
         <seg>修改日期</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Change folder (directory) to the script folder, e.g. (on Windows XP systems):</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180412T145209Z" creationid="Zoe" creationdate="20180412T145209Z">
+        <seg>将文件夹目录转向脚本文件夹，例如，（Windows XP系统）：</seg>
       </tuv>
     </tu>
     <tu>
@@ -24625,6 +24641,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T153108Z">
         <seg>Open XML 过滤器选项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open a command-line window (DOS prompt, terminal, console)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180412T145105Z" creationid="Zoe" creationdate="20180412T145105Z">
+        <seg>打开命令行窗口（DOS prompt, terminal, console）</seg>
       </tuv>
     </tu>
     <tu>
