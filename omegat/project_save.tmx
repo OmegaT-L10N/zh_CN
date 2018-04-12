@@ -10147,6 +10147,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Contributed by Henry Pijffers.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T024938Z" creationid="chloechao" creationdate="20180412T024938Z">
+        <seg>由Henry Pijffers贡献。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Contributing to &lt;a0&gt;OmegaT&lt;/a0&gt; project</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120130T073234Z">
@@ -28659,6 +28667,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131127T092117Z" creationid="Fu Rhong" creationdate="20131127T092117Z">
         <seg>TMX文件通常包含有多种候选语言的翻译单元。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TMXCleaner</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T025026Z" creationid="chloechao" creationdate="20180412T025026Z">
+        <seg>TMX清除工具</seg>
       </tuv>
     </tu>
     <tu>
