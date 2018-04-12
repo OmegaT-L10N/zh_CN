@@ -3190,6 +3190,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Close:&lt;/e0&gt; close the window without any change.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="10353" changedate="20180412T100335Z" creationid="10353" creationdate="20180412T100335Z">
+        <seg>&lt;e0&gt;关闭：&lt;/e0&gt;关闭窗口，不做任何改变。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Compress whitespace in translated document&lt;/e0&gt;: multiple continuous whitespaces will be converted into one single whitespace in translated document.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T122256Z" creationid="Administrator" creationdate="20180411T122256Z">
@@ -9931,6 +9939,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120201T040714Z">
         <seg>点击&lt;e0&gt;缺省【Defaults】&lt;/e0&gt;可将文件过滤器恢复为缺省设置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click &lt;e2&gt;Replace Next&lt;/e2&gt; or &lt;e3&gt;Skip&lt;/e3&gt;, then end the replacement session with &lt;e4&gt;Finish&lt;/e4&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="10353" changedate="20180412T100259Z" creationid="10353" creationdate="20180412T100232Z">
+        <seg>点击 &lt;e2&gt;替换下一个&lt;/e2&gt; 或 &lt;e3&gt;跳过&lt;/e3&gt;，然后点击&lt;e4&gt;结束&lt;/e4&gt;终止替换操作.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27625,6 +27641,22 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131119T130045Z" creationid="Fu Rhong" creationdate="20131119T130045Z">
         <seg>搜索方式和选项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search options</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="10353" changedate="20180412T100346Z" creationid="10353" creationdate="20180412T100346Z">
+        <seg>查找选项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search options are similar to the ones displayed in &lt;l0&gt;Search window&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="10353" changedate="20180412T100443Z" creationid="10353" creationdate="20180412T100443Z">
+        <seg>查找选项与&lt;l0&gt;查找窗口&lt;/l0&gt;相似。</seg>
       </tuv>
     </tu>
     <tu>
