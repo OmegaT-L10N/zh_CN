@@ -24405,6 +24405,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Only if they are considered beneficial for OmegaT's users, however, will the development team include them in OmegaT.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T125157Z" creationid="18261" creationdate="20180412T125157Z">
+        <seg>但是，只有当他们被认为对OmegaT的用户有利时，开发团队才会将他们纳入OmegaT。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Only integers and simple floats (using the period as a decimal character, e.g. 5.4, but not 5,4 or 54E-01) are considered.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131113T011935Z" creationid="Fu Rhong" creationdate="20131113T011730Z">
@@ -35154,6 +35162,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120218T065622Z">
         <seg>这样就可以在 OmegaT 中使用其他工具创建的翻译记忆。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This ensures that the users' interests are protected, and has also resulted in OmegaT being awarded the &lt;a0&gt;Softpedia "100% FREE" guarantee&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T125810Z" creationid="18261" creationdate="20180412T125810Z">
+        <seg>这确保了用户的利益受到保护，并且使OmegaT受到&lt;a0&gt; Softpedia“100％免费”的保证&lt;/a0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
