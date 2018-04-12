@@ -15416,6 +15416,14 @@ script provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Has been tested on Linux.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T082646Z" creationid="chloechao" creationdate="20180412T082646Z">
+        <seg>该功能已于Linux系统中测试。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Has note</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T015935Z" creationid="Administrator" creationdate="20180412T015935Z">
@@ -23261,6 +23269,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ondiloto</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T082659Z" creationid="chloechao" creationdate="20180412T082659Z">
+        <seg>Ondiloto工具</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>One can enter a regular expression for unwanted contents in the target.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131116T081751Z" creationid="Fu Rhong" creationdate="20131116T081619Z">
@@ -26279,6 +26295,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130514T151525Z">
         <seg>在 SourceForge 网站的下列网址可以（用英语）提出改进建议：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Requires tcl/tk, Abiword and pdftotext.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T082606Z" creationid="chloechao" creationdate="20180412T082606Z">
+        <seg>需要安装tcl/tk，Abiword与pdftotext。</seg>
       </tuv>
     </tu>
     <tu>
