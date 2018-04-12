@@ -9118,6 +9118,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>But I can't program at all, I hear you say.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T114315Z" creationid="18261" creationdate="20180412T114315Z">
+        <seg>我听见你所说的事情</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>But programming isn't the only job needing to be done.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="18261" changedate="20180412T102142Z" creationid="18261" creationdate="20180412T102142Z">
@@ -30435,6 +30443,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120207T121631Z">
         <seg>如果处于在线状态，之后再点击 &lt;e2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt;.jnlp&lt;/e2&gt; 将会检查是否有升级，如果有的话将安装升级包并运行  &lt;a4&gt;OmegaT&lt;/a4&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Such auxiliary code has already been written in Javascript, Groovy and Tcl/Tk, for instance.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T114002Z" creationid="18261" creationdate="20180412T114002Z">
+        <seg>其他辅助性代码有用Javascript, Groovy 和 Tcl/Tk等语言编写。</seg>
       </tuv>
     </tu>
     <tu>
