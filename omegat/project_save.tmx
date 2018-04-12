@@ -15321,6 +15321,14 @@ script provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Highlight</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T063632Z" creationid="Administrator" creationdate="20180412T063632Z">
+        <seg>高亮</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Highlighting it in the Glossary pane and then rightclicking insets at the cursor position in the target segment.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021248Z" creationid="Fu Rhong" creationdate="20131116T115534Z">
@@ -18738,8 +18746,8 @@ itself on the first run.</seg>
       <tuv lang="EN">
         <seg>Keep None</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T063234Z" creationid="Administrator" creationdate="20180412T063234Z">
-        <seg>全部不保留</seg>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T063556Z" creationid="Administrator" creationdate="20180412T063234Z">
+        <seg>不保留</seg>
       </tuv>
     </tu>
     <tu>
