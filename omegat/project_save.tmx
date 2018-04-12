@@ -10707,6 +10707,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Continuing Professional Development is the current buzzword!</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T115828Z" creationid="18261" creationdate="20180412T115828Z">
+        <seg>持续专业开发是现在的热词。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Contributed by Didier Briel.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T024537Z" creationid="chloechao" creationdate="20180412T024537Z">
@@ -17250,6 +17258,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131114T133104Z" creationid="Fu Rhong" creationdate="20131114T133104Z">
         <seg>如果您已经收集了希望拼写检查器忽略/接受的单词，只需复制相应的两个文件到当前项目的&lt;f0&gt;omegat&lt;/f0&gt;子目录。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you are already reasonably familiar with computers in general and choose a straightforward scripting language like Javascript or Tcl/Tk, you could teach yourself enough to be able to write simple but useful scripts within just a couple of weeks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T115547Z" creationid="18261" creationdate="20180412T115547Z">
+        <seg>如果你已经了解了电脑，选择一种简单的脚本语言例如 Javascript 或者Tcl/Tk，通过可以自学，可以在几周内写出简单又有用的脚本。</seg>
       </tuv>
     </tu>
     <tu>
