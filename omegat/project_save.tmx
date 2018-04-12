@@ -28053,6 +28053,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Selection of alternative icons for use with OmegaT.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T091318Z" creationid="chloechao" creationdate="20180412T091318Z">
+        <seg>可在OmegaT中使用的图标选项。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Self-paced online training course in English (for purchase)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T151236Z" creationid="cpeishan" creationdate="20180407T151236Z">
@@ -29675,6 +29683,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131127T092117Z" creationid="Fu Rhong" creationdate="20131127T092117Z">
         <seg>TMX文件通常包含有多种候选语言的翻译单元。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TMX files of localizations of the OmegaT documentation and of this site, for use by localizers.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T091418Z" creationid="chloechao" creationdate="20180412T091418Z">
+        <seg>为期望对OmegaT文档及网站进行本地化的爱好者提供的TMX文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31487,8 +31503,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The files of this site, in a convenient package for those wishing to localize it.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T091211Z" creationid="chloechao" creationdate="20180412T091211Z">
-        <seg>为希望对本网站进行本地化的对象提供便捷的打包。</seg>
+      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T091441Z" creationid="chloechao" creationdate="20180412T091211Z">
+        <seg>为希望对本网站进行本地化的爱好者提供便捷的打包。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33572,6 +33588,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Third-party software for use with OmegaT</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T091236Z" creationid="chloechao" creationdate="20180412T091236Z">
+        <seg>可在OmegaT中使用的第三方软件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This
 will delete your local data and re-download the project contents from
 the server.</seg>
@@ -34352,8 +34376,8 @@ the server.</seg>
       <tuv lang="EN">
         <seg>This web site</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T091117Z" creationid="chloechao" creationdate="20180412T090856Z">
-        <seg>本网站</seg>
+      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T091428Z" creationid="chloechao" creationdate="20180412T090856Z">
+        <seg>OmegaT网站</seg>
       </tuv>
     </tu>
     <tu>
