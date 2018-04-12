@@ -12583,6 +12583,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Donations</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T112116Z" creationid="18261" creationdate="20180412T112116Z">
+        <seg>捐赠</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Done</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T024300Z" creationid="xulihang" creationdate="20180404T024300Z">
@@ -17388,6 +17396,14 @@ is to use Java Web Start.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="17012" changedate="20180405T023831Z" creationid="17012" creationdate="20180405T023722Z">
         <seg>如果你已经有术语处理系统，那它很可能提供通过 TBX格式到处术语数据。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you have found OmegaT useful and would like to express your gratitude by making a &lt;a0&gt;donation&lt;/a0&gt; on our Paypal account.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T112621Z" creationid="18261" creationdate="20180412T112621Z">
+        <seg>如果你觉得OmegaT很有用，并且想要表达感谢，可以 &lt;a0&gt;捐赠&lt;/a0&gt;在我们的paypal账号。</seg>
       </tuv>
     </tu>
     <tu>
