@@ -26745,6 +26745,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Rather than find all the cases of "abc" and correcting them before proceeding (which is possible, but has drawbacks), she could simply decide to correct them in course of the next draft.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180412T151726Z" creationid="Zoe" creationdate="20180412T151726Z">
+        <seg>比起找出所有的“abc”案例并加以改正，之后再继续工作（这样可能，但会有障碍），译员可以选择在译下一稿时再修正该错误。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Re&amp;move Filter</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T022629Z">
