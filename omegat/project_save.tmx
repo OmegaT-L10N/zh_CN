@@ -10203,6 +10203,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Continue</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T070014Z" creationid="Administrator" creationdate="20180412T070014Z">
+        <seg>继续</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Contributed by Didier Briel.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T024537Z" creationid="chloechao" creationdate="20180412T024537Z">
@@ -28563,6 +28571,22 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
         <seg>状态栏</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Step 1: Adjust alignment parameters</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T070106Z" creationid="Administrator" creationdate="20180412T070106Z">
+        <seg>第一步：调整对齐参数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Step 2: Make manual corrections</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T070130Z" creationid="Administrator" creationdate="20180412T070130Z">
+        <seg>第二步：手动校正</seg>
       </tuv>
     </tu>
     <tu>
