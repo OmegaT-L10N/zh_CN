@@ -6552,6 +6552,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A comprehensive suite of utilities for preparing files for translation in a CAT tool.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T095041Z" creationid="chloechao" creationdate="20180412T095041Z">
+        <seg>实用工具套件，可进行CAT工具翻译前的文档准备。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A copy of the changed filters configuration will be stored with the project.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131118T115658Z" creationid="Fu Rhong" creationdate="20131118T115658Z">
@@ -22529,6 +22537,14 @@ appropriate location such as the Applications folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T104926Z" creationid="Fu Rhong" creationdate="20131108T030708Z">
         <seg>欧吉布瓦语</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Okapi Framework</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T094839Z" creationid="chloechao" creationdate="20180412T094839Z">
+        <seg>Okapi框架</seg>
       </tuv>
     </tu>
     <tu>
