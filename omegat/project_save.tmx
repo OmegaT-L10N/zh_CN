@@ -14700,6 +14700,14 @@ script provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For testing and demonstrating OmegaT.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T090833Z" creationid="chloechao" creationdate="20180412T090833Z">
+        <seg>测试与演示OmegaT。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For that reason, it is OFF by default.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T062338Z" creationid="weiyi" creationdate="20180406T062338Z">
@@ -20884,8 +20892,8 @@ itself on the first run.</seg>
       <tuv lang="EN">
         <seg>Miscellaneous resources</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T085429Z" creationid="chloechao" creationdate="20180412T085429Z">
-        <seg>各项资源</seg>
+      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T090659Z" creationid="chloechao" creationdate="20180412T085429Z">
+        <seg>各类资源</seg>
       </tuv>
     </tu>
     <tu>
