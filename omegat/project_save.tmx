@@ -34552,6 +34552,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To find the version most suitable for you, follow the link below to the Download Selector.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T085120Z" creationid="18261" creationdate="20180412T085120Z">
+        <seg>, follow the link below to the Download Selector.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To get involved in the &lt;a3&gt;OmegaT&lt;/a3&gt; development effort you can join the developer group, via the web or by sending an email to &lt;u4&gt;omegat-development-request@lists.sourceforge.net&lt;/u4&gt; with "subscribe" as the subject line.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120130T073813Z">
