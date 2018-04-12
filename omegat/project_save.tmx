@@ -2028,8 +2028,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>- comparative, nominative, masculine, feminine, neutral, resp. Plural form of the adjective</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120220T034451Z">
-        <seg>- comparative, nominative, masculine, feminine, neutral, resp. Plural form of the adjective</seg>
+      <tuv lang="ZH-CN" changeid="gavin7" changedate="20180412T023017Z">
+        <seg>- comparative, nominative, masculine, feminine, neutral, resp. 形容词的复数形式</seg>
       </tuv>
     </tu>
     <tu>
@@ -17819,6 +17819,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In case no tokenizer exists for the current languages, OmegaT uses Hunspell instead (in that case, make sure that relevant Hunspell dictionaries are installed).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="gavin7" changedate="20180412T023507Z" creationid="gavin7" creationdate="20180412T023507Z">
+        <seg>如果当前语言没有标记器，OmegaT会使用Hunspell（在这种情况下，确保安装了相关的Hunspell字典）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In case of OmegaT complete project folders - in other words the translation memories involved as well as source folders, project settings etc - are managed by the selected RCS.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131127T101044Z" creationid="Fu Rhong" creationdate="20131127T101044Z">
@@ -19133,6 +19141,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is possible to select another tokenizer (Language Tokenizer) or a different version of the tokenizer (Tokenizer Behavior) from the Project Properties window.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="gavin7" changedate="20180412T023318Z" creationid="gavin7" creationdate="20180412T023318Z">
+        <seg>可以从项目属性窗口中选择另一个分词器（语言分词器）或分词器（分词器行为）的不同版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is possible to use Apertium to build machine translation systems for a variety of language pairs; to that end, Apertium uses simple XML-based standard formats to encode the linguistic data needed (either by hand or by converting existing data), which are compiled using the provided tools into the high-speed formats used by the engine.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120209T120245Z">
@@ -19964,6 +19980,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131122T070331Z">
         <seg>语言－ISO 639 代码列表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Languages selection</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="gavin7" changedate="20180412T022243Z" creationid="gavin7" creationdate="20180412T022243Z">
+        <seg>语言选择</seg>
       </tuv>
     </tu>
     <tu>
@@ -23135,8 +23159,8 @@ appropriate location such as the Applications folder.</seg>
       <tuv lang="EN">
         <seg>OmegaT automatically selects a tokenizer for the source and the target language according to the language settings of the project.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131112T111739Z" creationid="Fu Rhong" creationdate="20131112T111739Z">
-        <seg>OmegaT会根据项目语言设置中的源语言和目标语言自动选择相应的解析器。</seg>
+      <tuv lang="ZH-CN" changeid="gavin7" changedate="20180412T023150Z" creationid="Fu Rhong" creationdate="20131112T111739Z">
+        <seg>OmegaT会根据项目语言设置中的源语言和目标语言自动选择相应的分词器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23711,8 +23735,8 @@ installed on your system.</seg>
       <tuv lang="EN">
         <seg>OmegaT will not launch if tokenizers are found in the /plugin folder.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131112T112019Z" creationid="Fu Rhong" creationdate="20131112T112019Z">
-        <seg>如果在/plugin文件夹找到解析器则OmegaT将不会运行。</seg>
+      <tuv lang="ZH-CN" changeid="gavin7" changedate="20180412T023533Z" creationid="Fu Rhong" creationdate="20131112T112019Z">
+        <seg>如果在/plugin文件夹找到分词器则OmegaT将不会运行它。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26675,8 +26699,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Remove all the tokenizers from the /plugin folder before starting OmegaT.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131112T112126Z" creationid="Fu Rhong" creationdate="20131112T112126Z">
-        <seg>在启动OmegaT前请删除/plugin文件夹中的所有解析器。</seg>
+      <tuv lang="ZH-CN" changeid="gavin7" changedate="20180412T023557Z" creationid="Fu Rhong" creationdate="20131112T112126Z">
+        <seg>在启动OmegaT前请删除/plugin文件夹中的所有分词器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34848,8 +34872,8 @@ the server.</seg>
       <tuv lang="EN">
         <seg>This is especially useful in case of languages that use pre- and postfix forms for the stem words.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131112T111557Z" creationid="Fu Rhong" creationdate="20131112T111557Z">
-        <seg>这对通过词根加上前缀和后缀形式组成单词的语言特别有用。</seg>
+      <tuv lang="ZH-CN" changeid="gavin7" changedate="20180412T022929Z" creationid="Fu Rhong" creationdate="20131112T111557Z">
+        <seg>这对处理使用了词根加上前缀和后缀形式组成的单词的语言来说特别有用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35907,10 +35931,26 @@ install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tokenizers</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="gavin7" changedate="20180412T022516Z" creationid="gavin7" creationdate="20180412T022105Z">
+        <seg>分词器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tokenizers (or stemmers) improve the quality of matches by recognizing inflected words in source and translation memory data.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120220T032707Z">
-        <seg>分解器（或 stemmer，词干分析器）提高了识别源和翻译记忆数据中的词形变化的匹配质量。</seg>
+      <tuv lang="ZH-CN" changeid="gavin7" changedate="20180412T022706Z">
+        <seg>分词器（或 stemmer，词干分析器）通过识别源语言和翻译记忆数据中的词形变化来提高翻译匹配质量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tokenizers are included in OmegaT and active by default.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="gavin7" changedate="20180412T023133Z" creationid="gavin7" creationdate="20180412T023133Z">
+        <seg>OmegaT里包含了分词器并且默认为开启状态。</seg>
       </tuv>
     </tu>
     <tu>
