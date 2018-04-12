@@ -35861,6 +35861,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>User glossaries with recognition of inflected forms</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T080141Z" creationid="18261" creationdate="20180412T080141Z">
+        <seg>屈折形态用户术语识别</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>User group</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T105553Z" creationid="cpeishan" creationdate="20180407T105553Z">
@@ -37201,6 +37209,14 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T143749Z">
         <seg>词汇</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Work with more than 30 file formats</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T080207Z" creationid="18261" creationdate="20180412T080207Z">
+        <seg>处理超过30种文件格式</seg>
       </tuv>
     </tu>
     <tu>
