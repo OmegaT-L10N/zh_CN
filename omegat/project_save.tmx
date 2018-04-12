@@ -15054,8 +15054,8 @@ script provided (omegat.kaptn).</seg>
       <tuv lang="EN">
         <seg>For example, there is nothing to stop a user writing their own user manual or a demonstration video for OmegaT, and if the project considers it remotely useful, it is likely to be made available to OmegaT's community of users.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T124058Z" creationid="18261" creationdate="20180412T124058Z">
-        <seg>例如，没有什么可以阻止用户为OmegaT编写自己的用户手册或演示视频，如果该项目认为它远程有用，它很可能会提供给OmegaT的用户社区。</seg>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T124431Z" creationid="18261" creationdate="20180412T124058Z">
+        <seg>例如，没有什么可以阻止用户为OmegaT编写自己的用户手册或演示视频，如果项目认为它有长远的用途，它很可能会被提供给OmegaT的用户社区。</seg>
       </tuv>
     </tu>
     <tu>
