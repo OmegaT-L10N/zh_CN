@@ -20474,6 +20474,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Localizing OmegaT into other languages is also an ongoing task, since new features and functions are being added all the time.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T103828Z" creationid="18261" creationdate="20180412T103828Z">
+        <seg>本地化OmegaT是一项正在进行的任务，因为随时都在添加新的特性和功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Location</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T150725Z">
@@ -28317,6 +28325,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See the &lt;a0&gt;Localizing OmegaT HowTo&lt;/a0&gt; for details of what is involved in localizing/translating OmegaT.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T104018Z" creationid="18261" creationdate="20180412T104018Z">
+        <seg>查看 &lt;a0&gt;本地化 OmegaT 方法&lt;/a0&gt;获取本地化/翻译 OmegaT的细节。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See the GNU General Public License for more detail.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120130T070503Z">
@@ -31205,6 +31221,14 @@ The scope of a text replacement is the target segments of the project, whether t
       </tuv>
       <tuv lang="ZH-CN" changeid="18261" changedate="20180412T100737Z" creationid="18261" creationdate="20180412T100737Z">
         <seg>这意味着，像你一样的用户，可以免费下载，几乎无限制地使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>That means there are only a few thousand left!</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T103244Z" creationid="18261" creationdate="20180412T103244Z">
+        <seg>这意味着只剩下几千种了!</seg>
       </tuv>
     </tu>
     <tu>
