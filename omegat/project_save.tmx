@@ -8710,6 +8710,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Browse...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T021421Z" creationid="Administrator" creationdate="20180412T021421Z">
+        <seg>浏览...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bug reports</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
@@ -30421,6 +30429,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The file "{0}" is not supported.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T060702Z" creationid="Administrator" creationdate="20180412T060527Z">
+        <seg>文件 "{0}"不支持 .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The file &lt;f0&gt;project_save.tmx&lt;/f0&gt; contains all the segments that have been translated since you started the project.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120218T061511Z">
@@ -31725,6 +31741,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
         <seg>源文本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The specified files are not supported.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T060814Z" creationid="Administrator" creationdate="20180412T060814Z">
+        <seg>特殊文件类型不支持.</seg>
       </tuv>
     </tu>
     <tu>
