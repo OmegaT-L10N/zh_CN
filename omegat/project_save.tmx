@@ -12391,6 +12391,22 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Download Overview</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T090535Z" creationid="18261" creationdate="20180412T090535Z">
+        <seg>下载概览</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Download Selector</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T090357Z" creationid="18261" creationdate="20180412T090357Z">
+        <seg>下载选择</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Download Team Project</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T125252Z">
