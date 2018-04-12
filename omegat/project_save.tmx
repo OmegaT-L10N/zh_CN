@@ -9494,6 +9494,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check spelling (various procedures)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T074939Z" creationid="chloechao" creationdate="20180412T074939Z">
+        <seg>拼写检查（多进程）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check start case</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T114236Z" creationid="xulihang" creationdate="20180408T114236Z">
@@ -10231,6 +10239,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T024938Z" creationid="chloechao" creationdate="20180412T024938Z">
         <seg>由Henry Pijffers贡献。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Contributed by Marc Prior.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T074650Z" creationid="chloechao" creationdate="20180412T074650Z">
+        <seg>由Marc Prior贡献。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25963,6 +25979,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Requires tcl/tk.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T074432Z" creationid="chloechao" creationdate="20180412T074432Z">
+        <seg>需要tcl/tk。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ResX</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130911T115606Z">
@@ -26599,16 +26623,16 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Script for extracting text for translation from plain-text files (e.g. computer source code) for translation in OmegaT.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T074134Z" creationid="chloechao" creationdate="20180412T074134Z">
-        <seg>从Script for extracting text for translation from plain-text files (e.g. computer source code) for translation in OmegaT.</seg>
+      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T074623Z" creationid="chloechao" creationdate="20180412T074134Z">
+        <seg>该脚本从纯文本文件（如计算机源码）中抽取待翻译文本以便使用OmegaT进行翻译。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Script versions of Toxic.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T073511Z" creationid="chloechao" creationdate="20180412T073511Z">
-        <seg>Toxic工具脚本。</seg>
+      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T074751Z" creationid="chloechao" creationdate="20180412T073511Z">
+        <seg>脚本版本Toxic工具。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28987,6 +29011,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131116T120432Z" creationid="Fu Rhong" creationdate="20131116T120432Z">
         <seg>TBX（Term Base eXchange）是用于交换结构化术语数据的基于 XML 的开放标准，已经被LISA和ISO批准为国际标准。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TKount</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T074713Z" creationid="chloechao" creationdate="20180412T074713Z">
+        <seg>TKount工具</seg>
       </tuv>
     </tu>
     <tu>
