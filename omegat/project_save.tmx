@@ -20242,6 +20242,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Match propagation</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T074318Z" creationid="18261" creationdate="20180412T072944Z">
+        <seg>扩展匹配</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Match statistics</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120219T125706Z">
@@ -27857,6 +27865,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120219T125654Z">
         <seg>开始翻译前对源文本格式的简化很大程度上有助于减少标签的数目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Simultaneous processing of multiple-file projects</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T074448Z" creationid="18261" creationdate="20180412T074448Z">
+        <seg>多文件项目同步处理</seg>
       </tuv>
     </tu>
     <tu>
