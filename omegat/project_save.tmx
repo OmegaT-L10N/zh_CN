@@ -33066,6 +33066,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Then click on &lt;e0&gt;Search&lt;/e0&gt; button to display all the corresponding occurrences.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="10353" changedate="20180412T085957Z" creationid="10353" creationdate="20180412T085957Z">
+        <seg>然后点击 &lt;e0&gt;查找&lt;/e0&gt; 按钮以显示所有相关内容.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Then tick the "Export the segment to text files" box.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Zoe" changedate="20180412T042128Z" creationid="Zoe" creationdate="20180412T042128Z">
