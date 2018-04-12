@@ -23089,6 +23089,14 @@ published by the Free Software Foundation, either version 3 of the License, or
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT is free software.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T100611Z" creationid="18261" creationdate="20180412T100611Z">
+        <seg>OmegaT是一款免费软件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT is instructed to use a mandatory encoding for certain file formats (Java properties etc)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120201T113102Z">
@@ -23101,6 +23109,14 @@ published by the Free Software Foundation, either version 3 of the License, or
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120205T121924Z">
         <seg>OmegaT 目前还无法自动检测格式错误，因此如果犯了错误或者改变格式以更好适应您使用的目标语言时，它不会对您作任何提示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT is open-source software.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T100902Z" creationid="18261" creationdate="20180412T100902Z">
+        <seg>OmegaT 是一款开源软件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30789,6 +30805,14 @@ The scope of a text replacement is the target segments of the project, whether t
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120205T084857Z">
         <seg>感谢各位！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>That means that users like you are free to download and use it with very little in the way of restrictions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T100737Z" creationid="18261" creationdate="20180412T100737Z">
+        <seg>这意味着，像你一样的用户，可以免费下载，几乎无限制地使用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38729,6 +38753,14 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131112T120837Z" creationid="Fu Rhong" creationdate="20131112T120837Z">
         <seg>通过清楚目标片段并按下&lt;g4&gt;回车&lt;/g4&gt;您可以实现相同的想过。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You are also free to copy it and pass it on to other people.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T100842Z" creationid="18261" creationdate="20180412T100842Z">
+        <seg>你可以免费复制，拷贝给他人。</seg>
       </tuv>
     </tu>
     <tu>
