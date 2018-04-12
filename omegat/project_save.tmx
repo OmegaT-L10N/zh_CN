@@ -23949,6 +23949,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Platform-independent; require tcl/tk.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T074001Z" creationid="chloechao" creationdate="20180412T074001Z">
+        <seg>平台独立；需要tcl/tk。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Playlist of OmegaT videos</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T145908Z" creationid="cpeishan" creationdate="20180407T145908Z">
@@ -26577,6 +26585,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T120556Z" creationid="Administrator" creationdate="20180411T120556Z">
         <seg>脚本结果</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Script versions of Toxic.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T073511Z" creationid="chloechao" creationdate="20180412T073511Z">
+        <seg>Toxic工具脚本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34375,6 +34391,14 @@ install.sh.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T073121Z" creationid="chloechao" creationdate="20180412T073121Z">
         <seg>适用于Windows系统的Toxic工具</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Toxic scripts</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T073355Z" creationid="chloechao" creationdate="20180412T073355Z">
+        <seg>Toxic工具脚本</seg>
       </tuv>
     </tu>
     <tu>
