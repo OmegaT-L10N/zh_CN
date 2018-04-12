@@ -18253,6 +18253,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Integral spelling checker</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T084009Z" creationid="18261" creationdate="20180412T084009Z">
+        <seg>整体拼写检查</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Integration manager</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T105034Z" creationid="cpeishan" creationdate="20180407T105034Z">
@@ -29339,6 +29347,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T112354Z" creationid="Fu Rhong" creationdate="20131108T101144Z">
         <seg>巽他语</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Support for right-to-left languages</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T083749Z" creationid="18261" creationdate="20180412T083749Z">
+        <seg>支持从右到左的语言</seg>
       </tuv>
     </tu>
     <tu>
