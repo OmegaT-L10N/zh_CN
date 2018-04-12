@@ -15246,6 +15246,14 @@ script provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Forward-Backward</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T113921Z" creationid="Administrator" creationdate="20180412T113921Z">
+        <seg>向前-向后</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Found in:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130911T115833Z">
@@ -16357,6 +16365,14 @@ script provided (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120207T120636Z">
         <seg>IBM 在 &lt;u0&gt;http://www.ibm.com/developerworks/java/jdk/linux/download.htm&lt;/u0&gt; 提供了用于 Linux PowerPC 的 JRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>ID</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T113844Z" creationid="Administrator" creationdate="20180412T113844Z">
+        <seg>ID</seg>
       </tuv>
     </tu>
     <tu>
@@ -22428,6 +22444,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Normal</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T113947Z" creationid="Administrator" creationdate="20180412T113947Z">
+        <seg>正常</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Normally tags are ignored when considering the similarity between different texts for matching purposes.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120203T102534Z">
@@ -27535,6 +27559,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T105608Z" creationid="Fu Rhong" creationdate="20131108T030901Z">
         <seg>罗曼斯语</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Row</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T113642Z" creationid="Administrator" creationdate="20180412T113642Z">
+        <seg>行</seg>
       </tuv>
     </tu>
     <tu>
@@ -38276,6 +38308,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131116T035027Z" creationid="Fu Rhong" creationdate="20131116T035027Z">
         <seg>Visio (*.vxd)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Viterbi</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T113908Z" creationid="Administrator" creationdate="20180412T113908Z">
+        <seg>维特比算法</seg>
       </tuv>
     </tu>
     <tu>
