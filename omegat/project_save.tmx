@@ -12985,6 +12985,14 @@ project_save.tmx未真正上传，SVN切换到不稳定状态。</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enables a number of file formats to be translated which cannot be handled natively in OmegaT.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T095358Z" creationid="chloechao" creationdate="20180412T095358Z">
+        <seg>可对一定格式文件进行转换，进而使用OmegaT进行翻译。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enables case-insensitive matching (by default, the pattern is case-sensitive).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
