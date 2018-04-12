@@ -10187,6 +10187,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Compatible with other translation memory applications (TMX, TTX, TXML, XLIFF, SDLXLIFF)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T084238Z" creationid="18261" creationdate="20180412T084238Z">
+        <seg>与其他翻译记忆软件兼容(TMX, TTX, TXML, XLIFF, SDLXLIFF)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Compiling OmegaT from source</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T143158Z" creationid="cpeishan" creationdate="20180407T143158Z">
