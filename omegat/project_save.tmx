@@ -32580,6 +32580,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The content of the script window is editable and can be copied and pasted back into the OmegaT Editor pane.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180412T150112Z" creationid="Zoe" creationdate="20180412T150112Z">
+        <seg>脚本窗口中的内容是可编辑的，也可以复制粘贴回OmegaT编辑器窗格。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The content of the segment source text (&lt;f0&gt;source.txt&lt;/f0&gt;).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120131T133817Z">
