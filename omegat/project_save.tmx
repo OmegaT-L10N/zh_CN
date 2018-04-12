@@ -5634,8 +5634,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Customization&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T114230Z">
-        <seg>&lt;p0&gt;快捷键&lt;/p0&gt; &lt;s1&gt;自定义&lt;/s1&gt;</seg>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T011737Z">
+        <seg>自定义快捷键&gt;&lt;p0&gt;快捷键&lt;/p0&gt; &lt;s1&gt;自定义&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -27271,8 +27271,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Shortcuts customization</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T114236Z">
-        <seg>自定义快捷键</seg>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T011259Z">
+        <seg>自定义快捷键&gt;</seg>
       </tuv>
     </tu>
     <tu>
