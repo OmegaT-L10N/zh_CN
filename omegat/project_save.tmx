@@ -39115,6 +39115,14 @@ trouble of selecting, obtaining and installing it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When an OmegaT segment containing this string is opened, the script outputs a warning.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180412T150743Z" creationid="Zoe" creationdate="20180412T150743Z">
+        <seg>当包含这个字符串的OmegaT片段开启，这个脚本会输出一个警告。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When another window is on the foreground, click on the main window to bring it to the foreground or press &lt;k0&gt;Esc&lt;/k0&gt; to close the other window.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120211T060930Z">
