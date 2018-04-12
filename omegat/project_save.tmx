@@ -11535,6 +11535,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Descriptions of and links to Samuel Murray's scripts/procedures.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T082323Z" creationid="chloechao" creationdate="20180412T082323Z">
+        <seg>由Samuel Murray编写脚本/程序的描述与链接。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Detail View</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T024752Z" creationid="xulihang" creationdate="20180404T024752Z">
@@ -20890,6 +20898,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Most of these scripts require MS Windows, although some procedures may also work on other platforms.&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T082202Z" creationid="chloechao" creationdate="20180412T082202Z">
+        <seg>以下大多数脚本在微软Windows系统中运行，部分程序可运行在其他平台上。&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Most users will find the default file filter options sufficient.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T112127Z">
@@ -26921,6 +26937,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T165723Z">
         <seg>脚本目录：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Scripts/procedures are available to enable you to do the following:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T081908Z" creationid="chloechao" creationdate="20180412T081908Z">
+        <seg>可使用脚本/程序实现以下功能：</seg>
       </tuv>
     </tu>
     <tu>
