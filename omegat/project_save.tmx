@@ -10267,6 +10267,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Continue anyway?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T081625Z" creationid="Administrator" creationdate="20180412T081625Z">
+        <seg>仍然继续？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Continue?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T081222Z" creationid="Administrator" creationdate="20180412T081222Z">
@@ -26611,6 +26619,22 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Save changes to filter settings?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T081544Z" creationid="Administrator" creationdate="20180412T081544Z">
+        <seg>将修改保存到过滤器设置中？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Save changes to segmentation rules?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T081513Z" creationid="Administrator" creationdate="20180412T081513Z">
+        <seg>将修改保存到切分规则中？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Save then the file and relaunch &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131110T021402Z" creationid="Fu Rhong" creationdate="20131110T021402Z">
@@ -28209,6 +28233,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T120907Z" creationid="lenovo" creationdate="20180411T120907Z">
         <seg>一些附带脚本可以写这里找到： &lt;u0&gt;OmegaT Scripts&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Some alignments still need review.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T081611Z" creationid="Administrator" creationdate="20180412T081611Z">
+        <seg>部分对齐仍需校对。</seg>
       </tuv>
     </tu>
     <tu>
