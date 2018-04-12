@@ -25093,6 +25093,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Pinpoint Align: Select corresponding cell</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T113622Z" creationid="Administrator" creationdate="20180412T113622Z">
+        <seg>精确对齐：选择对应的模块</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Place the archive in any suitable folder and unpack it.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T021035Z" creationid="xulihang" creationdate="20180408T021035Z">
@@ -46285,6 +46293,22 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T024808Z" creationid="xulihang" creationdate="20180404T024808Z">
         <seg>← 返回</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>▲</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T113502Z" creationid="Administrator" creationdate="20180412T113502Z">
+        <seg>▲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>▼</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T113443Z" creationid="Administrator" creationdate="20180412T113427Z">
+        <seg>▼</seg>
       </tuv>
     </tu>
     <tu>
