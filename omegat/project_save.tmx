@@ -24565,6 +24565,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Powerful tools</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T081336Z" creationid="18261" creationdate="20180412T081336Z">
+        <seg> 强大的工具</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Pre-defined themes can be set through a script.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T065840Z" creationid="weiyi" creationdate="20180406T065840Z">
@@ -35627,6 +35635,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T151354Z">
         <seg>意外字符 {0} ({1})!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unicode (UTF-8) support: can be used with non-Latin alphabets</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T082919Z" creationid="18261" creationdate="20180412T082919Z">
+        <seg>支持Unicode (UTF-8)：可使用非拉丁字母</seg>
       </tuv>
     </tu>
     <tu>
