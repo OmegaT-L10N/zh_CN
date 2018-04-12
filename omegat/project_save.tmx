@@ -1898,6 +1898,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- It is string-oriented, making it particularly suitable for applications involving text</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="10353" changedate="20180412T121814Z" creationid="10353" creationdate="20180412T121814Z">
+        <seg>- 它是面向字符串的，使其特别适用于涉及文本的应用程序</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- It is widely used, so help can be found on the Internet&lt;br2/&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="10353" changedate="20180412T121032Z" creationid="10353" creationdate="20180412T121032Z">
