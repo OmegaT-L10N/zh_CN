@@ -14357,6 +14357,14 @@ script provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For the text export function to be used, you must first enable it within OmegaT itself:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180412T041720Z" creationid="Zoe" creationdate="20180412T041720Z">
+        <seg>若要使用文本导出功能，务必先启用OmegaT内的该项功能：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For this purpose download the following file and then execute it:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130514T154811Z">
