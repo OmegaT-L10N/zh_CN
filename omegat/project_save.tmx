@@ -26629,8 +26629,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Requires tcl/tk.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T074432Z" creationid="chloechao" creationdate="20180412T074432Z">
-        <seg>需要tcl/tk。</seg>
+      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T095847Z" creationid="chloechao" creationdate="20180412T074432Z">
+        <seg>需要安装tcl/tk。</seg>
       </tuv>
     </tu>
     <tu>
