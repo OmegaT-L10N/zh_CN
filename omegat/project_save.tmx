@@ -16017,6 +16017,14 @@ script provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Heapwise</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T115939Z" creationid="Administrator" creationdate="20180412T115939Z">
+        <seg>Heapwise</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Hebrew (modern)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131107T150143Z" creationid="Fu Rhong" creationdate="20131107T150143Z">
@@ -25005,6 +25013,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Parsewise</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T115948Z" creationid="Administrator" creationdate="20180412T115948Z">
+        <seg>Parsewise</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Pashto, Pushto</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T105518Z" creationid="Fu Rhong" creationdate="20131108T030805Z">
@@ -27949,16 +27965,16 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Save changes to filter settings?</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T081544Z" creationid="Administrator" creationdate="20180412T081544Z">
-        <seg>将修改保存到过滤器设置中？</seg>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T115638Z" creationid="Administrator" creationdate="20180412T081544Z">
+        <seg>是否将修改保存到过滤器设置中？</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Save changes to segmentation rules?</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T081513Z" creationid="Administrator" creationdate="20180412T081513Z">
-        <seg>将修改保存到切分规则中？</seg>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T115622Z" creationid="Administrator" creationdate="20180412T081513Z">
+        <seg>是否将修改保存到切分规则中？</seg>
       </tuv>
     </tu>
     <tu>
@@ -35592,8 +35608,8 @@ the server.</seg>
       <tuv lang="EN">
         <seg>This will discard all changes you have made so far.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T081215Z" creationid="Administrator" creationdate="20180412T081215Z">
-        <seg>您做的所有修改将被抹除</seg>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T115615Z" creationid="Administrator" creationdate="20180412T081215Z">
+        <seg>您做的所有修改将被抹除。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36937,8 +36953,8 @@ Exact searches match the whole search string.</seg>
       <tuv lang="EN">
         <seg>URL is missing encoding</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T101522Z" creationid="Administrator" creationdate="20180412T101522Z">
-        <seg>URL 缺少编码</seg>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T120135Z" creationid="Administrator" creationdate="20180412T101522Z">
+        <seg>URL 未编码</seg>
       </tuv>
     </tu>
     <tu>
