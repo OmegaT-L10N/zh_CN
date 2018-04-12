@@ -7120,6 +7120,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add To Dictionary: “{0}”</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T082346Z" creationid="Administrator" creationdate="20180412T082346Z">
+        <seg>添加到词典：{0}”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add characters to the custom table by double-clicking, or by highlighting and pressing the Insert key.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131031T121001Z" creationid="Administrator" creationdate="20131031T121001Z">
@@ -7452,6 +7460,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130509T155536Z">
         <seg>将项目与 {0} 对齐</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T082125Z" creationid="Administrator" creationdate="20180412T082125Z">
+        <seg>全部</seg>
       </tuv>
     </tu>
     <tu>
@@ -8015,6 +8031,14 @@ The TMX file will not be loaded.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120201T123206Z">
         <seg>应用程序文件：它们包含在您下载的安装包中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Apply &amp;Fix</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T082446Z" creationid="Administrator" creationdate="20180412T082446Z">
+        <seg>应用 &amp;修改</seg>
       </tuv>
     </tu>
     <tu>
@@ -9699,6 +9723,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T114125Z" creationid="xulihang" creationdate="20180408T114125Z">
         <seg>检查整个项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T082133Z" creationid="Administrator" creationdate="20180412T082133Z">
+        <seg>检查{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -11743,6 +11775,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Disable rule “{0}”</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T082614Z" creationid="Administrator" creationdate="20180412T082614Z">
+        <seg>规则失效{0}”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Displa&amp;y source terms</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180403T125054Z" creationid="xulihang" creationdate="20180403T125054Z">
@@ -12187,6 +12227,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T025918Z" creationid="xulihang" creationdate="20180404T025633Z">
         <seg>领域</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Don't Ask What to Check First</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T082216Z" creationid="Administrator" creationdate="20180412T082216Z">
+        <seg>不要询问先检查哪个</seg>
       </tuv>
     </tu>
     <tu>
@@ -17131,6 +17179,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ignore: “{0}”</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T082357Z" creationid="Administrator" creationdate="20180412T082357Z">
+        <seg>忽略：{0}”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Import the source file to &lt;u0&gt;LibreOffice Draw&lt;/u0&gt;, save it as an ODG file, translate, export to PDF as needed.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T134540Z" creationid="Administrator" creationdate="20180411T134540Z">
@@ -19288,6 +19344,22 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LanguageTool</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T082511Z" creationid="Administrator" creationdate="20180412T082511Z">
+        <seg>语言工具</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool Issues</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T082502Z" creationid="Administrator" creationdate="20180412T082502Z">
+        <seg>语言工具问题</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LanguageTool plugin</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131108T102426Z" creationid="Fu Rhong" creationdate="20131108T102350Z">
@@ -21432,6 +21504,14 @@ appropriate location such as the Applications folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T005628Z" creationid="Fu Rhong" creationdate="20131117T005628Z">
         <seg>接着，&lt;g0&gt;项目文件&lt;/g0&gt;对话框出现。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No Issues Found</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T082108Z" creationid="Administrator" creationdate="20180412T082108Z">
+        <seg>未发现问题</seg>
       </tuv>
     </tu>
     <tu>
@@ -28845,6 +28925,22 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Spelling</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T082329Z" creationid="Administrator" creationdate="20180412T082329Z">
+        <seg>拼写</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spelling Issues</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T082316Z" creationid="Administrator" creationdate="20180412T082316Z">
+        <seg>拼写问题</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Spelling errors(s)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T114119Z" creationid="xulihang" creationdate="20180408T114119Z">
@@ -29431,6 +29527,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tag Issues</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T082410Z" creationid="Administrator" creationdate="20180412T082410Z">
+        <seg>标签</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tag Processing...</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T064624Z" creationid="weiyi" creationdate="20180406T064624Z">
@@ -29899,6 +30003,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T160310Z">
         <seg>模板标量：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Terminology Issues</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T082629Z" creationid="Administrator" creationdate="20180412T082629Z">
+        <seg>术语问题</seg>
       </tuv>
     </tu>
     <tu>
