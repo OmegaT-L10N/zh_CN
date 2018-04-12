@@ -17302,6 +17302,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you can program in another language, you can write code to support the core application.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T113733Z" creationid="18261" creationdate="20180412T113733Z">
+        <seg>如果你会其他编程语言，可以编写代码支持核心应用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you can see the file OmegaT but not OmegaT.exe in your File Manager
 (Windows Explorer), change the settings so that file extensions are displayed.</seg>
       </tuv>
@@ -17669,6 +17677,14 @@ is to use Java Web Start.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131112T114408Z">
         <seg>如果您想支持OmegaT的后续开发，我们很感激这种行为，请点击此链接前往&lt;u0&gt;OmegaT PayPal账户&lt;/u0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you're a programmer and you happen to know Java, please check the documentation in the &lt;a0&gt;source code&lt;/a0&gt; under /docs_devel for information on how to get started.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T113614Z" creationid="18261" creationdate="20180412T113614Z">
+        <seg>如果你是一位程序员并且碰巧会用Java，请在docs_devel下查看 &lt;a0&gt;源代码&lt;/a0&gt;获取更多信息，以便开始研发。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -25797,6 +25813,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="18261" changedate="20180412T112706Z" creationid="18261" creationdate="20180412T112706Z">
         <seg>编程(Java)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Programming (not Java)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T113626Z" creationid="18261" creationdate="20180412T113626Z">
+        <seg>编程 (not Java)</seg>
       </tuv>
     </tu>
     <tu>
