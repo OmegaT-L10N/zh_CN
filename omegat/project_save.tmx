@@ -19208,6 +19208,22 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Item has neither URLs nor commands.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T101251Z" creationid="Administrator" creationdate="20180412T101243Z">
+        <seg>项目既没有URL也没有命令。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Item is missing scope</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T101343Z" creationid="Administrator" creationdate="20180412T101343Z">
+        <seg>项目缺失范围</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Item name is empty or missing</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T101206Z" creationid="Administrator" creationdate="20180412T101206Z">
@@ -21759,6 +21775,14 @@ appropriate location such as the Applications folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T014614Z" creationid="xulihang" creationdate="20180408T014614Z">
         <seg>名称：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Name: {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T101305Z" creationid="Administrator" creationdate="20180412T101305Z">
+        <seg>名称： {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -36363,6 +36387,38 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T014434Z" creationid="xulihang" creationdate="20180408T014434Z">
         <seg>URL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>URL does not contain "{0}"</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T101446Z" creationid="Administrator" creationdate="20180412T101446Z">
+        <seg>URL不包括 "{0}"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>URL is missing URL string</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T101428Z" creationid="Administrator" creationdate="20180412T101428Z">
+        <seg>URL缺失</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>URL is missing encoding</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T101522Z" creationid="Administrator" creationdate="20180412T101522Z">
+        <seg>URL 缺少编码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>URL is missing target</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T101500Z" creationid="Administrator" creationdate="20180412T101500Z">
+        <seg>URL缺少目标</seg>
       </tuv>
     </tu>
     <tu>
