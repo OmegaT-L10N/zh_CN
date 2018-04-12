@@ -8421,6 +8421,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As elsewhere in the OmegaT project, the work of programming OmegaT is done by volunteers, and in keeping with the project philosophy, the developments and improvements they make to OmegaT are ultimately at their discretion.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T130151Z" creationid="18261" creationdate="20180412T130151Z">
+        <seg>与OmegaT项目的其他工作一样，OmegaT编程的工作由志愿者完成，并且与项目理念保持一致，他们对OmegaT的发展和改进最终由他们自行决定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As entries can mix words from priority and non priority glossaries, the words from the priority glossary are displayed in bold.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="17012" changedate="20180405T030345Z" creationid="17012" creationdate="20180405T030345Z">
@@ -12027,6 +12035,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T105303Z" creationid="cpeishan" creationdate="20180407T105303Z">
         <seg>开发者们</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Development of OmegaT</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T125830Z" creationid="18261" creationdate="20180412T125830Z">
+        <seg>OmegaT开发</seg>
       </tuv>
     </tu>
     <tu>
