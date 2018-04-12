@@ -20914,6 +20914,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mac OSX users should install tcl/tk from their system media and Linux users should find it in their distribution's repository, if it is not already installed by default.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180412T141644Z" creationid="Zoe" creationdate="20180412T141644Z">
+        <seg>Mac OSX系统用户应该从系统媒体中安装tcl/tk，Linux系统用户若发现系统没有默认安装tcl/tk，应去发布仓库里查找。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mac users should instead use &lt;k4&gt; &lt;k5&gt;Cmd&lt;/k5&gt; &lt;k6&gt;key&lt;/k6&gt; &lt;/k4&gt; instead.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T025236Z">
