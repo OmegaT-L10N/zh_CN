@@ -14658,6 +14658,14 @@ script provided (omegat.kaptn).</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>For advocates of open-source software, this freedom is even more important than the exemption from having to pay anything.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T101540Z" creationid="18261" creationdate="20180412T101540Z">
+        <seg>支持开源软件，这份自由比免于付费更重要。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>需斟酌</note>
       <tuv lang="EN">
         <seg>For all files:</seg>
@@ -31009,6 +31017,14 @@ The scope of a text replacement is the target segments of the project, whether t
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>That means that if you feel so inclined, you may modify OmegaT to suit your own requirements.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T101136Z" creationid="18261" creationdate="20180412T101136Z">
+        <seg>这意味着如果你想，就可以修改OmegaT满足自己的需求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>That means that users like you are free to download and use it with very little in the way of restrictions.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="18261" changedate="20180412T100737Z" creationid="18261" creationdate="20180412T100737Z">
@@ -31398,6 +31414,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T104734Z" creationid="cpeishan" creationdate="20180407T104734Z">
         <seg>OmegaT项目由一个非正式的国际志愿者组织维护。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The OmegaT project would benefit from greater support from volunteers in almost all areas.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T101811Z" creationid="18261" creationdate="20180412T101811Z">
+        <seg>OmegaT 项目得益于来自世界各地志愿者的大力支持。</seg>
       </tuv>
     </tu>
     <tu>
