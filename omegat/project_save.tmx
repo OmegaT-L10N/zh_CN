@@ -26589,6 +26589,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Script for extracting text for translation from plain-text files (e.g. computer source code) for translation in OmegaT.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T074134Z" creationid="chloechao" creationdate="20180412T074134Z">
+        <seg>从Script for extracting text for translation from plain-text files (e.g. computer source code) for translation in OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Script versions of Toxic.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T073511Z" creationid="chloechao" creationdate="20180412T073511Z">
@@ -28675,6 +28683,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T114923Z" creationid="xulihang" creationdate="20180408T114923Z">
         <seg>剥除当前片段中的标签</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Stripper</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T074011Z" creationid="chloechao" creationdate="20180412T074011Z">
+        <seg>脱壳</seg>
       </tuv>
     </tu>
     <tu>
