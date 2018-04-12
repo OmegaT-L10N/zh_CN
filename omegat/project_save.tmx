@@ -35998,6 +35998,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This script displays the target segment in a particular font (hard-coded in the script, but can be edited) rather than the default font.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180412T152653Z" creationid="Zoe" creationdate="20180412T152653Z">
+        <seg>这个脚本用一种特殊的字体展示目标片段（写死在脚本中，但可以编辑）而非采用默认字体。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This script is intended to run in OmegaT 3.6 and newer.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T121708Z" creationid="xulihang" creationdate="20180408T121708Z">
