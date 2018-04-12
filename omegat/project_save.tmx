@@ -2018,6 +2018,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- There are many good books and other resources available for it (at least in English)&lt;br4/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="10353" changedate="20180412T121505Z" creationid="10353" creationdate="20180412T121505Z">
+        <seg>-有很多优质可用的书籍和其它资源（至少有很多英文资源）&lt;br4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- Typo3 LocManager (*.xml)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130514T152023Z">
