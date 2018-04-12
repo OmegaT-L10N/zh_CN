@@ -7864,6 +7864,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Although many users are aware of this, their reaction is often "But I can't program!".</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T101956Z" creationid="18261" creationdate="20180412T101956Z">
+        <seg>许多用户意识到了这一点，但他们的反应经常是“可我并不会编程！”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Always Confirm Quit</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
@@ -9074,6 +9082,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131107T144034Z" creationid="Fu Rhong" creationdate="20131107T142652Z">
         <seg>缅甸语</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>But programming isn't the only job needing to be done.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T102142Z" creationid="18261" creationdate="20180412T102142Z">
+        <seg>但是编程并不是唯一的工作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25573,6 +25589,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T145957Z" creationid="Zoe" creationdate="20180411T145957Z">
         <seg>程序员和工作人员可以使用包含这些文本的文件，旨在为OmegaT加入更多功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Programming is certainly the most important function, and without programming, there is no program.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T102043Z" creationid="18261" creationdate="20180412T102043Z">
+        <seg>编程确实是最重要的，没有编程就不会有这款程序。</seg>
       </tuv>
     </tu>
     <tu>
