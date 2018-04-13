@@ -9246,6 +9246,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Browser plugin</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180413T022742Z" creationid="18261" creationdate="20180413T022742Z">
+        <seg>浏览器插件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bug reports</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
@@ -14545,6 +14553,14 @@ project_save.tmx未真正上传，SVN切换到不稳定状态。</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Fast access to websites.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180413T022756Z" creationid="18261" creationdate="20180413T022756Z">
+        <seg>快速浏览网站</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Fatal error encountered - saving project file with '.recover' backup extension.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T060354Z">
@@ -19249,6 +19265,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="18261" changedate="20180412T084009Z" creationid="18261" creationdate="20180412T084009Z">
         <seg>整体拼写检查</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Integrates the Apertium machine translation functionality into OmegaT.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180413T022730Z" creationid="18261" creationdate="20180413T022730Z">
+        <seg>在OmegaT中集成了Apertium机器翻译的功能。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39311,6 +39335,14 @@ trouble of selecting, obtaining and installing it.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T105057Z" creationid="cpeishan" creationdate="20180407T105057Z">
         <seg>网站经理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Website support can be scripted in Groovy.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180413T023144Z" creationid="18261" creationdate="20180413T023144Z">
+        <seg>网站维护可以用Groovy编写。</seg>
       </tuv>
     </tu>
     <tu>
