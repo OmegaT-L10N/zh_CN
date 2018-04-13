@@ -18163,6 +18163,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Important: in order to use the plug-ins, you may need to install a more recent version of OmegaT.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180413T023607Z" creationid="18261" creationdate="20180413T023347Z">
+        <seg>注意：为了使用插件，您可能需要安装最新版本的OmegaT。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Importing Wiki Page Failed</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180407T133048Z" creationid="lenovo" creationdate="20180407T133048Z">
