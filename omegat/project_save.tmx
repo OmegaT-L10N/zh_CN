@@ -21938,6 +21938,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Microsoft Word, Excel, Power</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180413T023824Z" creationid="18261" creationdate="20180413T023824Z">
+        <seg>Microsoft Word, Excel, Power格式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mine</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T023852Z" creationid="xulihang" creationdate="20180404T023852Z">
