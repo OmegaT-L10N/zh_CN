@@ -17319,8 +17319,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>If the documents are not available, the entry is greyed out.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T073044Z" creationid="weiyi" creationdate="20180406T073044Z">
-        <seg>如果文件不可用，条目会变灰。</seg>
+      <tuv lang="ZH-CN" changeid="Andrew" changedate="20180413T124204Z" creationid="weiyi" creationdate="20180406T073044Z">
+        <seg>如果文件不可用，该菜单条目为灰。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17850,8 +17850,8 @@ is to use Java Web Start.</seg>
       <tuv lang="EN">
         <seg>If you haven't yet saved the project, this manually confirms whether you really wish to quit.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120209T130528Z">
-        <seg>如果您未手动保存项目，系统将会让您确认是否真要要退出。</seg>
+      <tuv lang="ZH-CN" changeid="Andrew" changedate="20180413T125311Z">
+        <seg>如果您未手动保存项目，系统将会让您确认是否退出。</seg>
       </tuv>
     </tu>
     <tu>
