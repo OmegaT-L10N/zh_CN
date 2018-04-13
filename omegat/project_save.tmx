@@ -24325,6 +24325,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT's developers, who are all volunteers, may be more willing to implement an RFE if the development work is funded by the requester.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180413T012715Z" creationid="18261" creationdate="20180413T012715Z">
+        <seg>OmegaT的开发人员都是志愿者，如果请求者提供资金，他们可能更愿意实施RFE。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT's main features are:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130514T145338Z">
