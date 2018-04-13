@@ -2871,8 +2871,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; remembers the segments executed.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120209T134226Z">
-        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; 会记住执行过的片段。</seg>
+      <tuv lang="ZH-CN" changeid="Andrew" changedate="20180413T141650Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; 会记住执行时所在的片段。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39976,8 +39976,8 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       <tuv lang="EN">
         <seg>With this command you can step forward to the segment, you have previously left by the &lt;g1&gt;Back in history&lt;/g1&gt;...command.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
-        <seg>使用该命令可以前进到某片段，即您使用&lt;g1&gt;在编辑历史中回退...&lt;/g1&gt;命令之前所处片段。</seg>
+      <tuv lang="ZH-CN" changeid="Andrew" changedate="20180413T141805Z">
+        <seg>使用该命令可以前进到使用&lt;g1&gt;在编辑历史中回退...&lt;/g1&gt;命令之前所处片段。</seg>
       </tuv>
     </tu>
     <tu>
