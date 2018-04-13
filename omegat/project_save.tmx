@@ -26713,6 +26713,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Provides recognition of inflected forms in fuzzy matches and glossary hits.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180413T022125Z" creationid="18261" creationdate="20180413T022125Z">
+        <seg>识别模糊匹配和术语采样中的屈折词形。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Proxy Login...</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T140448Z" creationid="lenovo" creationdate="20180411T140448Z">
