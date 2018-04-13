@@ -35486,6 +35486,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This enables the numerous suggestions to be managed more easily.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180413T010602Z" creationid="18261" creationdate="20180413T010602Z">
+        <seg>这使得众多建议更易于管理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This enables the translation memories produced by other tools to be read by OmegaT.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120218T065622Z">
