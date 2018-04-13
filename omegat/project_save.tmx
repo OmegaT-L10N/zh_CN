@@ -8533,6 +8533,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As with free developments, however, the principle still applies that any changes to OmegaT must be beneficial to the application and its users.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180413T015148Z" creationid="18261" creationdate="20180413T015148Z">
+        <seg>然而，与自由开发一样，该原则仍然适用，即对OmegaT的任何更改都必须有利于应用程序及其用户。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As you translate your files, &lt;a0&gt;OmegaT&lt;/a0&gt; stores your work continually in &lt;f1&gt;project_save.tmx&lt;/f1&gt; in the project's /&lt;f2&gt;omegat&lt;/f2&gt; subfolder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131126T110056Z" creationid="Fu Rhong" creationdate="20131126T110056Z">
@@ -19682,6 +19690,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T155811Z">
         <seg>它被用于标记你的翻译。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It may also be possible for developments commissioned from external developers to be implemented within OmegaT.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180413T013141Z" creationid="18261" creationdate="20180413T013141Z">
+        <seg>在OmegaT内实施外部开发者委托的开发也是可能的。</seg>
       </tuv>
     </tu>
     <tu>
