@@ -35600,8 +35600,8 @@ the server.</seg>
       <tuv lang="EN">
         <seg>This command does not work once the modified segment has been validated.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120209T131033Z">
-        <seg>一旦所修改的片段生效，该操作将会失效。</seg>
+      <tuv lang="ZH-CN" changeid="Andrew" changedate="20180413T125627Z">
+        <seg>如所修改的片段已经确认，则该操作无效。</seg>
       </tuv>
     </tu>
     <tu>
