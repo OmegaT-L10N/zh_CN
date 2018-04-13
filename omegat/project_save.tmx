@@ -15824,8 +15824,8 @@ script provided (omegat.kaptn).</seg>
       <tuv lang="EN">
         <seg>Gives access to the project folders.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T072753Z" creationid="weiyi" creationdate="20180406T072753Z">
-        <seg>获取访问项目文件许可</seg>
+      <tuv lang="ZH-CN" changeid="Andrew" changedate="20180413T123739Z" creationid="weiyi" creationdate="20180406T072753Z">
+        <seg>访问项目文件夹。</seg>
       </tuv>
     </tu>
     <tu>
