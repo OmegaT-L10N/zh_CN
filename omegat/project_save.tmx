@@ -32783,8 +32783,8 @@ Please try to correct the error and reload the project.</seg>
       <tuv lang="EN">
         <seg>The colours are displayed as long as the "Save auto-populated status" (in Options/Editing behaviour..) option is checked.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T060938Z" creationid="weiyi" creationdate="20180406T060902Z">
-        <seg>只要“保存自动填充状态”（在选项/编辑操作中）选项，背景颜色将会一直存在。</seg>
+      <tuv lang="ZH-CN" changeid="Andrew" changedate="20180413T152621Z" creationid="weiyi" creationdate="20180406T060902Z">
+        <seg>只要（在选项/编辑操作中）“保存自动填充状态”选项，背景颜色将会一直显示。</seg>
       </tuv>
     </tu>
     <tu>
