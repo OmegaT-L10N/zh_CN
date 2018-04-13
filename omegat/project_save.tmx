@@ -10409,8 +10409,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Clicking on one will save the current project, close it and open the other project.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180405T152357Z" creationid="weiyi" creationdate="20180405T152357Z">
-        <seg>点击可以=保存当前项目、关闭它或打开其他项目</seg>
+      <tuv lang="ZH-CN" changeid="Andrew" changedate="20180413T064214Z" creationid="weiyi" creationdate="20180405T152357Z">
+        <seg>点击可以保存当前项目、关闭它或打开其他项目</seg>
       </tuv>
     </tu>
     <tu>
