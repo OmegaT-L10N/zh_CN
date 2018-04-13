@@ -17021,8 +17021,8 @@ need not be entered.)</seg>
       <tuv lang="EN">
         <seg>If checked, white spaces will be displayed with a small dot.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T025915Z" creationid="weiyi" creationdate="20180406T025915Z">
-        <seg>如果选中该选项，空白符以小点显示。</seg>
+      <tuv lang="ZH-CN" changeid="Andrew" changedate="20180413T144920Z" creationid="weiyi" creationdate="20180406T025915Z">
+        <seg>如果选中该选项，空格将以小点显示。</seg>
       </tuv>
     </tu>
     <tu>
