@@ -15389,6 +15389,14 @@ script provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For this purpose, a dedicated &lt;a0&gt;developers' mailing list&lt;/a0&gt; exists.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180413T005914Z" creationid="18261" creationdate="20180413T005914Z">
+        <seg>因为这一目的，有专用 &lt;a0&gt;开发者邮箱列表&lt;/a0&gt; 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For this reason, the two commands described above are contained in a file (a "script", also called a ".bat file" on Windows systems).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120207T130103Z">
