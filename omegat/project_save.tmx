@@ -21597,8 +21597,8 @@ itself on the first run.</seg>
       <tuv lang="EN">
         <seg>Mark Non-breakable Spaces</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131110T024117Z" creationid="Fu Rhong" creationdate="20131110T024117Z">
-        <seg>标记非中断空白</seg>
+      <tuv lang="ZH-CN" changeid="Andrew" changedate="20180413T142149Z" creationid="Fu Rhong" creationdate="20131110T024117Z">
+        <seg>标记不可分割空格</seg>
       </tuv>
     </tu>
     <tu>
