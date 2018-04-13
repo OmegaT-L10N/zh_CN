@@ -24591,8 +24591,8 @@ installed on your system.</seg>
       <tuv lang="EN">
         <seg>One reason for this is that the desired function may already have been implemented, or that there may be reasons why it cannot be implemented.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T131246Z" creationid="18261" creationdate="20180412T131246Z">
-        <seg>其中一个原因是，所需的功能可能已经实现，或者可能存在无法执行的原因。</seg>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180413T012231Z" creationid="18261" creationdate="20180412T131246Z">
+        <seg>其中一个原因是，所需的功能可能已经实现，或者可能存在无法实现的原因。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35528,8 +35528,8 @@ the server.</seg>
       <tuv lang="EN">
         <seg>This ensures that the users' interests are protected, and has also resulted in OmegaT being awarded the &lt;a0&gt;Softpedia "100% FREE" guarantee&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T125810Z" creationid="18261" creationdate="20180412T125810Z">
-        <seg>这确保了用户的利益受到保护，并且使OmegaT受到&lt;a0&gt; Softpedia“100％免费”的保证&lt;/a0&gt;。</seg>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180413T012154Z" creationid="18261" creationdate="20180412T125810Z">
+        <seg>这确保了用户的利益受到保护，并且使OmegaT有&lt;a0&gt; Softpedia“100％免费”的保证&lt;/a0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39608,6 +39608,14 @@ trouble of selecting, obtaining and installing it.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T134346Z" creationid="Zoe" creationdate="20180411T132133Z">
         <seg>有些情况，两个片段也会拥有相同的前后片段，（例如，当一整页内容在一篇文章中出现两次），在OmegaT中这两页无法被译成不同的版本，即无法为其中一页设置“可选译文”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Whether or not it is adopted depends firstly upon whether the development team considers it beneficial to OmegaT, and secondly, upon whether one of the developers is willing to do the work of implementing it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180413T012500Z" creationid="18261" creationdate="20180413T012500Z">
+        <seg>它是否被采用，首先取决于开发团队是否认为这是对OmegaT有利的，其次是开发人员是否愿意实现它。</seg>
       </tuv>
     </tu>
     <tu>
