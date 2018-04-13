@@ -33167,8 +33167,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The exported contents are copied to the file &lt;f1&gt;selection.txt&lt;/f1&gt; located in the User's preference files folder (see &lt;x2/&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120209T133157Z">
-        <seg>导出的内容被复制到位于用户首选项文件文件夹（请参阅&lt;x2/&gt;）的 &lt;f1&gt;selection.txt&lt;/f1&gt; 文件中。</seg>
+      <tuv lang="ZH-CN" changeid="Andrew" changedate="20180413T130912Z">
+        <seg>导出的内容被复制到位于用户偏好设置文件的文件夹（请参阅&lt;x2/&gt;）的 &lt;f1&gt;selection.txt&lt;/f1&gt; 文件中。</seg>
       </tuv>
     </tu>
     <tu>
