@@ -10271,6 +10271,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Clic on &lt;g0&gt;Exclusions...&lt;/g0&gt; to define the files or folders that will be ignored by &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180413T153651Z" creationid="lenovo" creationdate="20180413T153651Z">
+        <seg>点击&lt;g0&gt;Exclusions...&lt;/g0&gt; to define the files  &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;e0&gt;Defaults&lt;/e0&gt; to reset the file filters to the default settings.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120201T040714Z">
@@ -43910,6 +43918,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120203T121531Z">
         <seg>是单个标签，对周围的文本不产生任何影响。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>is not displayed in the Editor pane,</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180413T153733Z" creationid="lenovo" creationdate="20180413T153733Z">
+        <seg>is not display</seg>
       </tuv>
     </tu>
     <tu>
