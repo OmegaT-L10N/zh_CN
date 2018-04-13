@@ -18285,8 +18285,8 @@ click on that shortcut.</seg>
       <tuv lang="EN">
         <seg>In addition, two menu entries allow opening directly the current source and target documents and the writable glossary.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T072932Z" creationid="weiyi" creationdate="20180406T072932Z">
-        <seg>另外，两个菜单条目可在可写术语表中直接打开现源文件与目标文件。</seg>
+      <tuv lang="ZH-CN" changeid="Andrew" changedate="20180413T123937Z" creationid="weiyi" creationdate="20180406T072932Z">
+        <seg>另外，两个菜单条目可直接打开源文档、目标文档以及可写术语表。</seg>
       </tuv>
     </tu>
     <tu>
