@@ -27315,8 +27315,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Reloads the project to take external changes in source files, legacy translation memories, glossaries and project settings into account.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Andrew" changedate="20180413T070856Z">
-        <seg>重新载入项目以载入源文件、翻译记忆、术语表内容和项目设置的外部修改。</seg>
+      <tuv lang="ZH-CN" changeid="Andrew" changedate="20180413T073203Z">
+        <seg>重新载入项目以载入源文件、翻译记忆、术语表内容和项目设置的外部修改。 </seg>
       </tuv>
     </tu>
     <tu>
