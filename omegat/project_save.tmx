@@ -22370,11 +22370,12 @@ appropriate location such as the Applications folder.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>这个原文估计翻错了？前面似乎也遇到一次</note>
       <tuv lang="EN">
         <seg>Moves to the segment that does correspond to the current selected match in the &lt;g0&gt;Fuzzy matches&lt;/g0&gt; pane.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T025658Z" creationid="weiyi" creationdate="20180406T025658Z">
-        <seg>将于当前片段匹配的译文移至&lt;g0&gt;模糊匹配&lt;/g0&gt;窗口。</seg>
+      <tuv lang="ZH-CN" changeid="Andrew" changedate="20180413T141335Z" creationid="weiyi" creationdate="20180406T025658Z">
+        <seg>移动至当前&lt;g0&gt;模糊匹配&lt;/g0&gt;窗口选中文本所对应的片段。</seg>
       </tuv>
     </tu>
     <tu>
