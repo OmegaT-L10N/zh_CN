@@ -20408,6 +20408,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LanguageTool plug-in</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180413T015829Z" creationid="18261" creationdate="20180413T015829Z">
+        <seg>语言工具插件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LanguageTool plugin</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131108T102426Z" creationid="Fu Rhong" creationdate="20131108T102350Z">
