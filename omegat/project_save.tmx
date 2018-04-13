@@ -16949,8 +16949,8 @@ need not be entered.)</seg>
       <tuv lang="EN">
         <seg>If checked, non-breakable spaces will be displayed with a grey background.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T025858Z" creationid="weiyi" creationdate="20180406T025828Z">
-        <seg>如果选中该选项，不可分割空白符以灰底显示。</seg>
+      <tuv lang="ZH-CN" changeid="Andrew" changedate="20180413T142205Z" creationid="weiyi" creationdate="20180406T025828Z">
+        <seg>如果选中该选项，不可分割空格以灰底显示。</seg>
       </tuv>
     </tu>
     <tu>
