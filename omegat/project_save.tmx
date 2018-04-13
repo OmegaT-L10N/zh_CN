@@ -33905,6 +33905,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The procedure is termed an &lt;a0&gt;"RFE" (Request for Feature Enhancement) and is managed here&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180413T011048Z" creationid="18261" creationdate="20180413T011048Z">
+        <seg>这一程序被称为 &lt;a0&gt;"RFE" （增强特性请求）&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The procedure presented here relies on the free SVN server (limited to 2 users) offered by &lt;u0&gt;ProjectLocker&lt;/u0&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131111T110353Z" creationid="Fu Rhong" creationdate="20131111T110353Z">
