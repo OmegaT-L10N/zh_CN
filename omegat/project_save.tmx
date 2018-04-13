@@ -16553,6 +16553,14 @@ script provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, submission of an RFE does not mean that the desired feature or improvement will automatically be implemented.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180413T011633Z" creationid="18261" creationdate="20180413T011633Z">
+        <seg>然而，提交RFE并不意味着所需的功能或改进将自动实现。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, the command-line alternative allows the user to control and modify the program's behavior.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120207T122056Z">
@@ -33915,8 +33923,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>The procedure is termed an &lt;a0&gt;"RFE" (Request for Feature Enhancement) and is managed here&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="18261" changedate="20180413T011048Z" creationid="18261" creationdate="20180413T011048Z">
-        <seg>这一程序被称为 &lt;a0&gt;"RFE" （增强特性请求）&lt;/a0&gt;.</seg>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180413T011935Z" creationid="18261" creationdate="20180413T011048Z">
+        <seg>这一程序被称为 &lt;a0&gt;"RFE" （增强需求）&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
