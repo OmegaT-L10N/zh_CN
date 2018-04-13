@@ -26202,8 +26202,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Pressing &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;F&lt;/k3&gt; &lt;/k0&gt; displays the last already opened Search window (instead of opening a new one).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T023750Z" creationid="weiyi" creationdate="20180406T023750Z">
-        <seg>按 &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;F&lt;/k3&gt; &lt;/k0&gt;显示上次打开的（而不是新的）搜索窗。</seg>
+      <tuv lang="ZH-CN" changeid="Andrew" changedate="20180413T135935Z" creationid="weiyi" creationdate="20180406T023750Z">
+        <seg>按 &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;F&lt;/k3&gt; &lt;/k0&gt;显示上次打开的（而不是新打开）搜索窗。</seg>
       </tuv>
     </tu>
     <tu>
