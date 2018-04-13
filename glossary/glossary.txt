@@ -39,3 +39,4 @@ Editor pane	编辑窗格
 pane	窗格
 history	【编辑】历史？	吐槽：不然要拍一集历史转折中的OmegaT?
 Non-breakable Spaces	不可分割空格？	翻译不统一
+Whitespace	空格	这玩意到底跟space什么区别，，，
