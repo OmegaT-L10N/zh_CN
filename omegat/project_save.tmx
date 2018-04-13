@@ -17223,8 +17223,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>If part of the target segment has been selected, this function overwrites the selected portion.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120209T131239Z">
-        <seg>如果已选中了目标片段的某个部分，则此功能会覆盖那部分。</seg>
+      <tuv lang="ZH-CN" changeid="Andrew" changedate="20180413T130040Z">
+        <seg>如果已选中了目标片段的某个部分，则此功能会覆盖此部分。</seg>
       </tuv>
     </tu>
     <tu>
