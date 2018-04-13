@@ -6696,6 +6696,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A &lt;a0&gt;HowTo describing the tokenizers plug-in&lt;/a0&gt; is also available.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180413T015714Z" creationid="18261" creationdate="20180413T015714Z">
+        <seg> &lt;a0&gt;分词器插件介绍&lt;/a0&gt; </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A batch file, used to launch &lt;a0&gt;OmegaT&lt;/a0&gt; from the Windows command line.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120202T071013Z">
@@ -25133,6 +25141,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Other OmegaT resources</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180413T015359Z" creationid="18261" creationdate="20180413T015359Z">
+        <seg>其他OmegaT资源 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Other Options:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T153551Z">
@@ -36911,6 +36927,14 @@ install.sh.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="gavin7" changedate="20180412T023133Z" creationid="gavin7" creationdate="20180412T023133Z">
         <seg>OmegaT里包含了分词器并且默认为开启状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tokenizers plug-in</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180413T015410Z" creationid="18261" creationdate="20180413T015410Z">
+        <seg>分词器插件</seg>
       </tuv>
     </tu>
     <tu>
