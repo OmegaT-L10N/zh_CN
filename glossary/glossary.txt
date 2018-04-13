@@ -1,4 +1,4 @@
-segment	片段
+﻿segment	片段
 History Completion	历史完成
 History Prediction	历史预测
 term	术语	原来的版本翻译为词语，译为术语更加合适
@@ -37,3 +37,4 @@ GUI	GUI	用户图形界面，翻译时的缩略词保留不译。
 regular expression	正则表达式
 Editor pane	编辑窗格
 pane	窗格
+history	【编辑】历史？	吐槽：不然要拍一集历史转折中的OmegaT?
