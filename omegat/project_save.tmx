@@ -21565,8 +21565,8 @@ itself on the first run.</seg>
       <tuv lang="EN">
         <seg>Mark Bidirectional Algorithm Control Characters</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131110T025613Z" creationid="Fu Rhong" creationdate="20131110T025613Z">
-        <seg>标记双向控制字符</seg>
+      <tuv lang="ZH-CN" changeid="Andrew" changedate="20180413T145024Z" creationid="Fu Rhong" creationdate="20131110T025613Z">
+        <seg>标记双向算法控制字符</seg>
       </tuv>
     </tu>
     <tu>
