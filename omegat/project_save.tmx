@@ -23775,8 +23775,8 @@ appropriate location such as the Applications folder.</seg>
       <tuv lang="EN">
         <seg>OmegaT automatically saves translations every 10 minutes as well as when you close the project or quit OmegaT.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120209T130254Z">
-        <seg>OmegaT 每十分钟保存一次翻译，且在关闭项目或退出前自动保存。</seg>
+      <tuv lang="ZH-CN" changeid="Andrew" changedate="20180413T073819Z">
+        <seg>OmegaT 每十分钟保存一次翻译，且在关闭项目或退出程序前自动保存。</seg>
       </tuv>
     </tu>
     <tu>
