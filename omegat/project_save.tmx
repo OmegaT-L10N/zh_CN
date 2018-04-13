@@ -24437,6 +24437,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Once a user has formulated a proposed change or enhancement to OmegaT, a defined procedure exists for its submission to the development team for consideration.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="18261" changedate="20180413T010507Z" creationid="18261" creationdate="20180413T010507Z">
+        <seg>一旦用户提出了对OmegaT的更改或增强建议，就会有一个明确的程序提交给开发团队考虑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Once computed, the data also available in &lt;f6&gt;omegat/project_stats_match.txt.&lt;/f6&gt; Note that the file is time-stamped, as the calculation (contrary to the standard statistics) is not instantaneous and can thus quickly become obsolete.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120219T150130Z">
