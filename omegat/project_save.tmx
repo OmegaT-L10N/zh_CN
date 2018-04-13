@@ -8896,8 +8896,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Back in history...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
-        <seg>在历史中回退...</seg>
+      <tuv lang="ZH-CN" changeid="Andrew" changedate="20180413T141824Z">
+        <seg>在编辑历史中回退...</seg>
       </tuv>
     </tu>
     <tu>
@@ -15549,6 +15549,7 @@ script provided (omegat.kaptn).</seg>
       </tuv>
     </tu>
     <tu>
+      <note>好奇有没有更好的翻法……</note>
       <tuv lang="EN">
         <seg>Forward in history...</seg>
       </tuv>
