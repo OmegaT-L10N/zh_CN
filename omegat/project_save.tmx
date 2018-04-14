@@ -6874,8 +6874,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>A default script called Switch Colour Themes provides a default "Dark".</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T065946Z" creationid="weiyi" creationdate="20180406T065946Z">
-        <seg>默认脚本成为“替换颜色主题”，“深黑”为默认选项。</seg>
+      <tuv lang="ZH-CN" changeid="Andrew" changedate="20180414T155316Z" creationid="weiyi" creationdate="20180406T065946Z">
+        <seg>默认脚本为“替换颜色主题”，“深黑”为默认选项。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26604,8 +26604,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Pre-defined themes can be set through a script.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T065840Z" creationid="weiyi" creationdate="20180406T065840Z">
-        <seg>预定义主题可在整个脚本中使用。</seg>
+      <tuv lang="ZH-CN" changeid="Andrew" changedate="20180414T155236Z" creationid="weiyi" creationdate="20180406T065840Z">
+        <seg>预定义主题可用脚本设置。</seg>
       </tuv>
     </tu>
     <tu>
