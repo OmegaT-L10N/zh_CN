@@ -6656,6 +6656,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;s0&gt;Webstart version of OmegaT&lt;/s0&gt;: the tokenizer is not compatible with the Webstart version of OmegaT.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="10353" changedate="20180414T084802Z" creationid="10353" creationdate="20180414T084802Z">
+        <seg>&lt;s0&gt; Webstart版本的OmegaT&lt;/s0&gt;: 分词器与Webstart版本的OmegaT不兼容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;shortcut&gt; must be of the following form: 0 or more &lt;c0&gt;&lt;modifier&gt;&lt;/c0&gt; followed by 0 or 1 &lt;c1&gt;&lt;event&gt;&lt;/c1&gt; followed by 1 &lt;c2&gt;&lt;key&gt;&lt;/c2&gt;, where:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131109T025530Z" creationid="Fu Rhong" creationdate="20131109T025530Z">
@@ -18095,6 +18103,14 @@ is to use Java Web Start.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120218T070053Z">
         <seg>如果您想在 OmegaT 中使用这样的文件作为参考翻译，您必须对它们进行修补，否则 OmegaT 会加载失败并报告错误。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you wish to use the tokenizer, install the standard version of OmegaT (latest beta version) for your system.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="10353" changedate="20180414T084852Z" creationid="10353" creationdate="20180414T084852Z">
+        <seg>如果你希望使用分词器，请为你的系统安装标准版本的OmegaT（最新测试版）。</seg>
       </tuv>
     </tu>
     <tu>
