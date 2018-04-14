@@ -34727,8 +34727,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>The program will see confirmation before closing down.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120211T031638Z">
-        <seg>程序在关闭前必须得到确认。</seg>
+      <tuv lang="ZH-CN" changeid="Andrew" changedate="20180414T131636Z">
+        <seg>程序在关闭前即需要确认。</seg>
       </tuv>
     </tu>
     <tu>
