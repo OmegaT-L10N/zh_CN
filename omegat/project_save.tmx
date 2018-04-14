@@ -29100,8 +29100,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Saves the current work to the internal translation memory (file project_save.tmx located in the project's &lt;f0&gt;omegat&lt;/f0&gt; folder).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120211T061507Z">
-        <seg>将当前的工作保存到位于项目的 &lt;f0&gt;omegat&lt;/f0&gt; 目录下的 project_save.tmx 文件中。</seg>
+      <tuv lang="ZH-CN" changeid="Kaname Madokami☆!" changedate="20180414T162013Z">
+        <seg>将当前的工作保存到内部翻译记忆（project_save.tmx 文件位于项目的 &lt;f0&gt;omegat&lt;/f0&gt; 目录下）。</seg>
       </tuv>
     </tu>
     <tu>
