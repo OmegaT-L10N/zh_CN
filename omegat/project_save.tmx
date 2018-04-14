@@ -12753,8 +12753,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Displays a dialog to conduct searches in the project</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131118T024038Z" creationid="Fu Rhong" creationdate="20131118T024038Z">
-        <seg>显示一个对话框引导在项目中的搜索</seg>
+      <tuv lang="ZH-CN" changeid="Kaname Madokami☆!" changedate="20180414T162643Z" creationid="Fu Rhong" creationdate="20131118T024038Z">
+        <seg>显示一个对话框以在项目中搜索</seg>
       </tuv>
     </tu>
     <tu>
@@ -19564,16 +19564,16 @@ click on that shortcut.</seg>
       <tuv lang="EN">
         <seg>Inserts the source tags into the target segment at the cursor position</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120211T062153Z">
-        <seg>在目标片段的当前位置插入源标签</seg>
+      <tuv lang="ZH-CN" changeid="Kaname Madokami☆!" changedate="20180414T162544Z">
+        <seg>在目标片段的光标位置插入源标签</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Inserts the source text contents into the target segment at the cursor position</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120211T062133Z">
-        <seg>在目标片段的当前位置插入源文本内容</seg>
+      <tuv lang="ZH-CN" changeid="Kaname Madokami☆!" changedate="20180414T162527Z">
+        <seg>在目标片段的光标位置插入源文本内容</seg>
       </tuv>
     </tu>
     <tu>
