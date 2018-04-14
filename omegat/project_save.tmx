@@ -23865,8 +23865,8 @@ appropriate location such as the Applications folder.</seg>
       <tuv lang="EN">
         <seg>Note: in that case, &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;M&lt;/k3&gt; &lt;/k1&gt; can still be used, to force a Machine Translation call on an already translated segment.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T072255Z" creationid="weiyi" creationdate="20180406T072255Z">
-        <seg>提示：在上述情况中，&lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;M&lt;/k3&gt; &lt;/k1&gt;仍可用以为已翻片段获取机器翻译。</seg>
+      <tuv lang="ZH-CN" changeid="Andrew" changedate="20180414T132220Z" creationid="weiyi" creationdate="20180406T072255Z">
+        <seg>提示：在上述情况中，&lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;M&lt;/k3&gt; &lt;/k1&gt;仍可用来为已翻片段获取机器翻译。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32821,11 +32821,12 @@ current folder will be used instead.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>ON和OFF是不是加上粗体比较high</note>
       <tuv lang="EN">
         <seg>The &lt;g0&gt;Display Context Description for TBX Glossaries&lt;/g0&gt; option allows to show or hide contextual information with the terms (that come from TBX glossaries located in &lt;f1&gt;glossary&lt;/f1&gt; folder) in the Glossary pane.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T072631Z" creationid="weiyi" creationdate="20180406T072631Z">
-        <seg>&lt;g0&gt;展示TBX术语表文本描述&lt;/g0&gt; 选项可在术语表窗口展示或隐藏术语文本信息（来自位于TBX术语表中的&lt;f1&gt;glossary&lt;/f1&gt; 文件夹）。</seg>
+      <tuv lang="ZH-CN" changeid="Andrew" changedate="20180414T132702Z" creationid="weiyi" creationdate="20180406T072631Z">
+        <seg>&lt;g0&gt;展示TBX术语表文本描述&lt;/g0&gt; 选项可在术语表窗口展示或隐藏术语文本信息（来自TBX术语表中的&lt;f1&gt;glossary&lt;/f1&gt; 文件夹）。</seg>
       </tuv>
     </tu>
     <tu>
