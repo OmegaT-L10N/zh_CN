@@ -25539,8 +25539,8 @@ installed on your system.</seg>
       <tuv lang="EN">
         <seg>Opens a dialog box where the location of scripts can be set, and where scripts can be written, run and associated with a shortcut (see &lt;l0&gt;Scripts window&lt;/l0&gt;)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T065107Z" creationid="weiyi" creationdate="20180406T065107Z">
-        <seg>打开对话框已设置脚本；脚本可以被改写、运行并和缩略词建立关联（见 &lt;l0&gt;脚本窗口&lt;/l0&gt;）</seg>
+      <tuv lang="ZH-CN" changeid="Andrew" changedate="20180414T131448Z" creationid="weiyi" creationdate="20180406T065107Z">
+        <seg>打开对话框以设置脚本；脚本可以被改写、运行并和缩略词建立关联（见 &lt;l0&gt;脚本窗口&lt;/l0&gt;）</seg>
       </tuv>
     </tu>
     <tu>
