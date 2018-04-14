@@ -8058,8 +8058,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>Allows you to choose different colours for each part of the User Interface.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T065821Z" creationid="weiyi" creationdate="20180406T065821Z">
-        <seg>您可以为每个用户接口选择不同的颜色。</seg>
+      <tuv lang="ZH-CN" changeid="Andrew" changedate="20180414T155158Z" creationid="weiyi" creationdate="20180406T065821Z">
+        <seg>您可以为每个用户界面选择不同的颜色。</seg>
       </tuv>
     </tu>
     <tu>
