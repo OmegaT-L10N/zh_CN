@@ -1657,6 +1657,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(Software that does this is called "machine translation", and you will have to look elsewhere for it.)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="10353" changedate="20180414T110842Z" creationid="10353" creationdate="20180414T110842Z">
+        <seg>（可以替你进行翻译的软件是“机器翻译”，你要到别处寻找。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(The Java executable file is the file java on Linux and java.exe on Windows.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120127T052553Z">
@@ -6700,6 +6708,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="10353" changedate="20180414T085024Z" creationid="10353" creationdate="20180414T084920Z">
         <seg>&lt;s0&gt;OmegaT 2.1.0 及之前版本&lt;/s0&gt;：当前的分词器不适配这些版本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; is a free translation memory application written in Java.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="10353" changedate="20180414T110515Z" creationid="10353" creationdate="20180414T110515Z">
+        <seg>&lt;s0&gt;OmegaT&lt;/s0&gt;是一个使用Java编写的免费翻译记忆库应用程序。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19983,6 +19999,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It does not translate for you!</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="10353" changedate="20180414T110654Z" creationid="10353" creationdate="20180414T110641Z">
+        <seg>它不会替你进行翻译！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It has been translated into a number of languages.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120202T070724Z">
@@ -20003,6 +20027,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131109T022443Z" creationid="Fu Rhong" creationdate="20131109T022443Z">
         <seg>它是多范型语言，支持面向对象、命令和函数式编程风格。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is a tool intended for professional translators.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="10353" changedate="20180414T110535Z" creationid="10353" creationdate="20180414T110535Z">
+        <seg>它是为专业翻译人员准备的工具。</seg>
       </tuv>
     </tu>
     <tu>
