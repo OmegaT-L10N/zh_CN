@@ -2957,6 +2957,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a1&gt;Download it from www.opera.com&lt;/a1&gt; (or for Linux users: through your distribution's repository).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180414T104510Z" creationid="lenovo" creationdate="20180414T104510Z">
+        <seg>下载.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a1&gt;OmegaT&lt;/a1&gt; can detect and upgrade such tmx files on the fly to increase fuzzy matching quality and leverage your existing translation better, saving you the work of doing this manually.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131127T112740Z" creationid="Fu Rhong" creationdate="20131127T112740Z">
@@ -9358,6 +9366,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Browser</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180414T083937Z" creationid="lenovo" creationdate="20180414T083937Z">
+        <seg>浏览器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Browser plugin</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="18261" changedate="20180413T022742Z" creationid="18261" creationdate="20180413T022742Z">
@@ -14305,6 +14321,14 @@ project_save.tmx未真正上传，SVN切换到不稳定状态。</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Examples of browsers with an automatic refresh function:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180414T084239Z" creationid="lenovo" creationdate="20180414T084239Z">
+        <seg>具有自动刷新功能的浏览器示例：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Excel</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130504T162400Z">
@@ -15066,6 +15090,14 @@ project_save.tmx未真正上传，SVN切换到不稳定状态。</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Firefox:&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180414T084551Z" creationid="lenovo" creationdate="20180414T084551Z">
+        <seg>火狐：&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>First, they need to use &lt;g1&gt;Project &gt; Download Team Project&lt;/g1&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131112T110419Z" creationid="Fu Rhong" creationdate="20131112T110357Z">
@@ -15658,6 +15690,14 @@ script provided (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="18261" changedate="20180413T005914Z" creationid="18261" creationdate="20180413T005914Z">
         <seg>因为这一目的，有专用 &lt;a0&gt;开发者邮箱列表&lt;/a0&gt; 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For this reason, many CAT tools provide a preview function that shows the layout and formatting without the translator having to create the final document and open it in a separate application (usually a word processor).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180414T084428Z" creationid="lenovo" creationdate="20180414T084428Z">
+        <seg>For this reason, many CAT tools provide a preview function that shows the layout and formatting without the translator having to create the final document and open it in a separate application (usually a word processor</seg>
       </tuv>
     </tu>
     <tu>
@@ -17003,6 +17043,14 @@ script provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ideally, a viewer should do two things:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180414T083734Z" creationid="lenovo" creationdate="20180414T083734Z">
+        <seg>理想情况下，显示器主要有两个作用：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ido</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131108T025248Z" creationid="Fu Rhong" creationdate="20131108T025248Z">
@@ -17828,6 +17876,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yujun Yin" changedate="20131007T074530Z" creationid="Yujun Yin" creationdate="20131007T074431Z">
         <seg>如果您手头有事先创建好的译法记忆文件，比如说是翻译公司或客户提供给您的译法记忆，OmegaT 也可以使用这些文件作为翻译参考。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you are translating .html files, a convenient solution is to use a browser with an automatic refresh function to provide a ready-made preview function.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180414T084536Z" creationid="lenovo" creationdate="20180414T084203Z">
+        <seg>如果你正在翻译一个.html文件，一个便捷的方法就是用一个具有自动刷新功能的浏览器来实现现成的预览功能。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20060,6 +20116,22 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120223T160146Z">
         <seg>应当注意，当 &lt;a0&gt;OmegaT&lt;/a0&gt; 处于自右向左模式，源和目标都以自右向左模式显示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It should be updated continually.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180414T083827Z" creationid="lenovo" creationdate="20180414T083827Z">
+        <seg>它会不断更新。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It should display the text with something approaching the final layout and formatting.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180414T083838Z" creationid="lenovo" creationdate="20180414T083811Z">
+        <seg>它会展示和最终布局与格式相近的文本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24107,8 +24179,8 @@ appropriate location such as the Applications folder.</seg>
       <tuv lang="EN">
         <seg>OmegaT does not have an integral preview function, but it is possible to provide much the same functionality using additional software.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180414T083054Z" creationid="lenovo" creationdate="20180414T083054Z">
-        <seg>OmegaT 不提供整体预览功能，.</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180414T083408Z" creationid="lenovo" creationdate="20180414T083054Z">
+        <seg>OmegaT 不提供整体预览功能，但是可以使用附加软件实现类似功能。.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25361,6 +25433,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Opera is available for all platforms; it is also very fast and requires low hardware resources.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180414T104447Z" creationid="lenovo" creationdate="20180414T104447Z">
+        <seg>Opera适用于所有平台；它不但快速而且对硬件资源的要求很低。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Optionally, you can let &lt;a0&gt;OmegaT&lt;/a0&gt; have an additional tmx file (&lt;a1&gt;OmegaT&lt;/a1&gt;-style) anywhere you specify, containing all translatable segments of the project.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120223T154531Z">
@@ -26569,6 +26649,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="weiyi" changedate="20180405T145302Z" creationid="weiyi" creationdate="20180405T145302Z">
         <seg>主账户密钥（对应&lt;c0&gt;microsoft.api.client_secret&lt;/c0&gt; 命令行参数）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Principles</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180414T083624Z" creationid="lenovo" creationdate="20180414T083559Z">
+        <seg>原则</seg>
       </tuv>
     </tu>
     <tu>
@@ -35818,6 +35906,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This HowTo describes the general principles for setting up a preview function.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180414T083553Z" creationid="lenovo" creationdate="20180414T083553Z">
+        <seg>该指南介绍了设置预览功能的一般原则。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This JRE will not interfere with other Java implementations that may already be installed on your system.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131116T122338Z">
@@ -36798,6 +36894,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
         <seg>要激活某种机器翻译服务，请前往&lt;g0&gt;选项&gt;机器翻译...&lt;/g0&gt;，然后激活需要的服务。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To add an automatic refresh function to Firefox, &lt;a2&gt;install the "ReloadEvery" add-on&lt;/a2&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180414T102752Z" creationid="lenovo" creationdate="20180414T102752Z">
+        <seg>在Firefox中安装ReloadEvery组件添加自动刷新功能。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40301,6 +40405,14 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="10353" changedate="20180414T100900Z" creationid="10353" creationdate="20180414T100900Z">
         <seg>（特别是）Windows用户： &lt;s0&gt;不要&lt;/s0&gt; 直接点击此文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Windows users who are not already using Firefox can &lt;a1&gt;download it from www.mozilla.org&lt;/a1&gt;; most Linux users will already have it installed, or can install it via their distributions' repositories.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180414T084957Z" creationid="lenovo" creationdate="20180414T084957Z">
+        <seg>Windows用户可以从www.mozilla.org下载火狐浏览器；多数Linux用户已安装火狐，或者通过发布版本库来安装。</seg>
       </tuv>
     </tu>
     <tu>
