@@ -19463,6 +19463,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Instead, launch a text editor (such as Notepad or Wordpad), then open the launch script file with File &gt; Open.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="10353" changedate="20180414T100948Z" creationid="10353" creationdate="20180414T100948Z">
+        <seg>相反，启动文本编辑器（例如记事本或写字板），然后使用“文件&gt;打开”打开启动脚本文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Integral spelling checker</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="18261" changedate="20180412T084009Z" creationid="18261" creationdate="20180412T084009Z">
@@ -25149,6 +25157,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131111T122112Z" creationid="Fu Rhong" creationdate="20131111T110840Z">
         <seg>在您的账户中打开&lt;e0&gt;Projects&lt;/e0&gt;视图。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open your launch script file in a text editor.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="10353" changedate="20180414T100808Z" creationid="10353" creationdate="20180414T100808Z">
+        <seg>在文本编辑器中打开启动脚本文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40201,6 +40217,14 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Windows users (in particular): do &lt;s0&gt;not&lt;/s0&gt; simply click on this file.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="10353" changedate="20180414T100900Z" creationid="10353" creationdate="20180414T100900Z">
+        <seg>（特别是）Windows用户： &lt;s0&gt;不要&lt;/s0&gt; 直接点击此文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>With &lt;e3&gt;TransTips/Exact Match &lt;/e3&gt; checked, only complete words will be checked, otherwise parts of words will be matched as well.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120211T033746Z">
@@ -41205,6 +41229,14 @@ the installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T113317Z" creationid="Administrator" creationdate="20180411T113234Z">
         <seg>您已达到每日翻译文本限值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may also be able to right-click with the mouse on the file, then select a text editor in which to open it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="10353" changedate="20180414T101838Z" creationid="10353" creationdate="20180414T101838Z">
+        <seg>你也可以在文件上单击鼠标右键，然后选择一个文本编辑器打开它。</seg>
       </tuv>
     </tu>
     <tu>
