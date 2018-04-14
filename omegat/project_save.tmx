@@ -32777,8 +32777,8 @@ current folder will be used instead.</seg>
       <tuv lang="EN">
         <seg>The &lt;e0&gt;Replace Glossary Hits when Inserting Source Text&lt;/e0&gt; option allows to replace automatically glossary hits with the target term when source text is inserted.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T074443Z" creationid="weiyi" creationdate="20180406T074443Z">
-        <seg>&lt;e0&gt;在插入原文时替换匹配词汇表中的术语&lt;/e0&gt; 选项，在插入原文时自动替换术语表中匹配的术语。</seg>
+      <tuv lang="ZH-CN" changeid="Andrew" changedate="20180414T134611Z" creationid="weiyi" creationdate="20180406T074443Z">
+        <seg>&lt;e0&gt;插入原文时替换匹配术语表中的术语&lt;/e0&gt; 选项可插入原文时，程序自动替换匹配表中的术语。</seg>
       </tuv>
     </tu>
     <tu>
