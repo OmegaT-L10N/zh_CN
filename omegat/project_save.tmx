@@ -6648,6 +6648,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;s0&gt;OmegaT version 2.1.0 and older&lt;/s0&gt;: the current tokenizer is not compatible with these versions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="10353" changedate="20180414T085024Z" creationid="10353" creationdate="20180414T084920Z">
+        <seg>&lt;s0&gt;OmegaT 2.1.0 及之前版本&lt;/s0&gt;：当前的分词器不适配这些版本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; is available in many different versions in order to suit a range of user requirements.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="18261" changedate="20180412T085137Z" creationid="18261" creationdate="20180412T085025Z">
@@ -6658,8 +6666,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;s0&gt;Webstart version of OmegaT&lt;/s0&gt;: the tokenizer is not compatible with the Webstart version of OmegaT.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="10353" changedate="20180414T084802Z" creationid="10353" creationdate="20180414T084802Z">
-        <seg>&lt;s0&gt; Webstart版本的OmegaT&lt;/s0&gt;: 分词器与Webstart版本的OmegaT不兼容。</seg>
+      <tuv lang="ZH-CN" changeid="10353" changedate="20180414T085019Z" creationid="10353" creationdate="20180414T084802Z">
+        <seg>&lt;s0&gt; Webstart版本的OmegaT&lt;/s0&gt;:：分词器与Webstart版本的OmegaT不兼容。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18109,8 +18117,8 @@ is to use Java Web Start.</seg>
       <tuv lang="EN">
         <seg>If you wish to use the tokenizer, install the standard version of OmegaT (latest beta version) for your system.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="10353" changedate="20180414T084852Z" creationid="10353" creationdate="20180414T084852Z">
-        <seg>如果你希望使用分词器，请为你的系统安装标准版本的OmegaT（最新测试版）。</seg>
+      <tuv lang="ZH-CN" changeid="10353" changedate="20180414T084944Z" creationid="10353" creationdate="20180414T084852Z">
+        <seg>如果你希望使用分词器，请为你的系统安装标准版本的OmegaT（最新测试版）。 </seg>
       </tuv>
     </tu>
     <tu>
