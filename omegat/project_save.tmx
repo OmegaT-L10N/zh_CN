@@ -23856,6 +23856,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT does not have an integral preview function, but it is possible to provide much the same functionality using additional software.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180414T083054Z" creationid="lenovo" creationdate="20180414T083054Z">
+        <seg>OmegaT 不提供整体预览功能，.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT encrypts sensitive passwords and API keys with a master password.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T100547Z" creationid="Administrator" creationdate="20180412T100547Z">
