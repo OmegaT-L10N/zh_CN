@@ -40321,6 +40321,7 @@ trouble of selecting, obtaining and installing it.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>这是说也可以同时编程么……</note>
       <tuv lang="EN">
         <seg>When translating software-related files: Allows you to configure the Tag Validator options to check also programming (%...) variables.</seg>
       </tuv>
