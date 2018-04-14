@@ -26316,6 +26316,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please check the &lt;u0&gt;ISO 639 Code Tables&lt;/u0&gt; for further and up-to-date information about language codes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180414T183556Z" creationid="puleiying" creationdate="20180414T183556Z">
+        <seg>请参阅 &lt;u0&gt;ISO 639 代码列表&lt;/u0&gt;了解最新的语言代码。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please close search window.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T151057Z">
