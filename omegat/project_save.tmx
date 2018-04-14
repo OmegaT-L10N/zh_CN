@@ -11191,6 +11191,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Copy the files that you have unzipped from the tokenizer package directly into this sub-folder.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="10353" changedate="20180414T100733Z" creationid="10353" creationdate="20180414T100733Z">
+        <seg>把你从分词器压缩包中解压缩的文件直接复制到此子文件夹中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Copy the script into the OmegaT "script" folder, i.e. the folder containing source.txt etc. (The scripts can in principle be placed anywhere, but must then be edited with addition of the path to the script files.)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Zoe" changedate="20180412T144756Z" creationid="Zoe" creationdate="20180412T144756Z">
@@ -18867,6 +18875,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131116T122949Z" creationid="Fu Rhong" creationdate="20131116T122756Z">
         <seg>在接着的窗口中您可以选择在OmegaT使用的语言。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the main OmegaT program folder (i.e. the folder containing the file OmegaT.jar), create a sub-folder called "plugins", if a sub-folder with this name does not already exist.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="10353" changedate="20180414T100613Z" creationid="10353" creationdate="20180414T100613Z">
+        <seg>在OmegaT主程序文件夹（即包含文件OmegaT.jar的文件夹）中，如果尚未存在名为“plugins”的子文件夹，则创建一个名为“plugins”的子文件夹。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38442,6 +38458,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131115T002006Z" creationid="Fu Rhong" creationdate="20131115T002006Z">
         <seg>因此未译片段将仍为源语言。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unzip the files from the tokenizer zip package.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="10353" changedate="20180414T100419Z" creationid="10353" creationdate="20180414T100419Z">
+        <seg>从分词器压缩包中解压文件</seg>
       </tuv>
     </tu>
     <tu>
