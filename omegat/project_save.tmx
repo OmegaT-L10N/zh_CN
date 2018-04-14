@@ -10040,8 +10040,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Check &lt;e0&gt;Untranslated Segments Only&lt;/e0&gt; option to deactivate Machine Translation tools on already translated segments.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T072131Z" creationid="weiyi" creationdate="20180406T072131Z">
-        <seg>选择&lt;e0&gt;仅未翻译片段&lt;/e0&gt;选项以为已翻译片段开启机器翻译工具。</seg>
+      <tuv lang="ZH-CN" changeid="Andrew" changedate="20180414T132155Z" creationid="weiyi" creationdate="20180406T072131Z">
+        <seg>选择&lt;e0&gt;仅未翻译片段&lt;/e0&gt;选项为已翻译片段关闭机器翻译工具。</seg>
       </tuv>
     </tu>
     <tu>
