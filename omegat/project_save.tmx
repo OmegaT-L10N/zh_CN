@@ -2973,6 +2973,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a1&gt;Download Chrome from www.google.com/chrome&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180414T105800Z" creationid="lenovo" creationdate="20180414T105800Z">
+        <seg>在&lt;a1&gt;www.google.com/chrome&lt;/a1&gt;下载Chrome.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a1&gt;Download it from www.opera.com&lt;/a1&gt; (or for Linux users: through your distribution's repository).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180414T104510Z" creationid="lenovo" creationdate="20180414T104510Z">
@@ -7752,6 +7760,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After selecting and installing a suitable browser (and/or the required add-on), open your translated file in the /target folder of your project:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180414T111843Z" creationid="lenovo" creationdate="20180414T111843Z">
+        <seg>选择并且安装合适的浏览器（和/或所需的附加组件）后，在项目的/ target文件夹中打开已翻译的文件：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>After the initial installation you can, of course, also use &lt;e5&gt;&lt;a6&gt;OmegaT&lt;/a6&gt;.jnlp&lt;/e5&gt; also when you are offline.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120207T121659Z">
@@ -10443,6 +10459,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131111T110741Z" creationid="Fu Rhong" creationdate="20131111T110741Z">
         <seg>选择&lt;g0&gt; SVN。&lt;/g0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Chrome is also available for all platforms.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180414T105733Z" creationid="lenovo" creationdate="20180414T105733Z">
+        <seg>Chrome也同样适用于所有平台。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37052,8 +37076,8 @@ the server.</seg>
       <tuv lang="EN">
         <seg>To add an automatic refresh function to Firefox, &lt;a2&gt;install the "ReloadEvery" add-on&lt;/a2&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180414T102752Z" creationid="lenovo" creationdate="20180414T102752Z">
-        <seg>在Firefox中安装ReloadEvery组件添加自动刷新功能。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180414T105653Z" creationid="lenovo" creationdate="20180414T102752Z">
+        <seg>在Firefox中&lt;a2&gt;安装ReloadEvery组件&lt;/a2&gt;添加自动刷新功能。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37062,6 +37086,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131115T001356Z" creationid="Fu Rhong" creationdate="20131115T001149Z">
         <seg>要添加内容到其中，请选择&lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;D&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt;&lt;g5&gt;项目&lt;/g5&gt; &lt;g6&gt;创建已译文档&lt;/g6&gt; &lt;/m0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To add the auto refresh function to Chrome, &lt;a2&gt;download and install the Auto Refresh Plus extension&lt;/a2&gt; from the Web Store.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180414T110205Z" creationid="lenovo" creationdate="20180414T110205Z">
+        <seg>在Chrome中添加自动刷新功能，请到应用商店&lt;a2&gt;下载并安装自动刷新扩展功能&lt;/a2&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41654,6 +41686,14 @@ Finder window to be able to launch it from any location.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131121T121356Z" creationid="Fu Rhong" creationdate="20131121T121356Z">
         <seg>可以同时打开多个搜索窗口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may prefer &lt;i0&gt;not&lt;/i0&gt; to use your usual browser for the preview function so as to keep it free for Internet browsing rather than having constantly to switch tabs, so you can regard installing an additional browser for the preview function as an advantage.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180414T111432Z" creationid="lenovo" creationdate="20180414T111432Z">
+        <seg>你可能 &lt;i0&gt;不&lt;/i0&gt;喜欢使用常用的浏览器进行预览， 而是将其完全用来上网浏览而不是频繁切换标签，所以你可以将安装多余的浏览器作为预览功能看成是一种便利。</seg>
       </tuv>
     </tu>
     <tu>
