@@ -23405,11 +23405,12 @@ appropriate location such as the Applications folder.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Note翻译成提示？？都得改。还有缺省这个</note>
       <tuv lang="EN">
         <seg>Note: on Windows it seems that this manual font fallback mechanism can interfere with standard font fallback, causing undesirable font substitution.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T062949Z" creationid="weiyi" creationdate="20180406T062301Z">
-        <seg>提示：Windows操作系统中手动选择备用字体可能会影响标准备用字体，导致不理想的字体替换。</seg>
+      <tuv lang="ZH-CN" changeid="Andrew" changedate="20180414T041310Z" creationid="weiyi" creationdate="20180406T062301Z">
+        <seg>注意：Windows操作系统中手动突出后备字体可能会影响标准后备字体，导致不理想的字体替换。</seg>
       </tuv>
     </tu>
     <tu>
