@@ -37628,6 +37628,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To update the display, you must still save and create your target document in OmegaT with Ctrl+s, Ctrl+d.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180414T113250Z" creationid="lenovo" creationdate="20180414T113250Z">
+        <seg>若更新显示的内容，你必须使用Ctrl+s, Ctrl+d在OmegaT中保存并创建目标文档。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To update the local files, right-click on the checkout folder and select &lt;g1&gt;SVN Update&lt;/g1&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131112T105703Z" creationid="Fu Rhong" creationdate="20131112T105703Z">
@@ -41774,6 +41782,14 @@ Finder window to be able to launch it from any location.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T165119Z">
         <seg>需要将 JDK 1.6 更新到最近版本，或者从 OmegaT /lib 目录中删除 jaxb-*.jar 文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You now have a preview function.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180414T113004Z" creationid="lenovo" creationdate="20180414T113004Z">
+        <seg>你现在实现了预览功能。</seg>
       </tuv>
     </tu>
     <tu>
