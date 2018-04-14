@@ -17165,8 +17165,8 @@ script provided (omegat.kaptn).</seg>
       <tuv lang="EN">
         <seg>If &lt;e0&gt;Show Relevant Suggestions Automatically&lt;/e0&gt; option is checked, Auto-completer is launched automatically by typing the first letter of a translated glossary entry, or by typing "&lt;" in case of tags.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T070647Z" creationid="weiyi" creationdate="20180406T070647Z">
-        <seg>如果&lt;e0&gt;自动显示相关建议&lt;/e0&gt;选项被选中，输入首字母、译文术语表中的条目或输入“&lt;"后自动生成器会自动启动。</seg>
+      <tuv lang="ZH-CN" changeid="Andrew" changedate="20180414T154726Z" creationid="weiyi" creationdate="20180406T070647Z">
+        <seg>如果&lt;e0&gt;自动显示相关建议&lt;/e0&gt;选项被选中，输入已翻译术语表中条目的首字母或输入标签的“&lt;"后自动生成器会启动。</seg>
       </tuv>
     </tu>
     <tu>
