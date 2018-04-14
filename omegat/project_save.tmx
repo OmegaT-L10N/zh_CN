@@ -9070,6 +9070,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Before using the tokenizer with OmegaT, you must first ensure that your version of OmegaT is suitable and prepared for use with it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="10353" changedate="20180414T084533Z" creationid="10353" creationdate="20180414T084533Z">
+        <seg>在使用OmegaT的分词器之前，你必须首先确保你的OmegaT版本适配分词器，并已经做好了准备。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Being the language behind popular software such as Firefox it is a familiar and preferred programming tool in the open-source domain.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131109T022847Z" creationid="Fu Rhong" creationdate="20131109T022847Z">
@@ -15256,6 +15264,15 @@ script provided (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131109T025552Z" creationid="Fu Rhong" creationdate="20131109T025552Z">
         <seg>例如，缺省的OmegaT快捷键</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, it will recognize inflected words in texts and display the corresponding glossary entry, even if the glossary entry contains only the uninflected form of a word.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="10353" changedate="20180414T084336Z" creationid="10353" creationdate="20180414T084336Z">
+        <seg>例如，即使词汇表条目仅包含单词的原型，它也会识别文本中的变形词并显示相应的词汇表条目。
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -26164,6 +26181,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T111433Z" creationid="Administrator" creationdate="20180411T111433Z">
         <seg>高级版</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Preparation</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="10353" changedate="20180414T084348Z" creationid="10353" creationdate="20180414T084348Z">
+        <seg>准备</seg>
       </tuv>
     </tu>
     <tu>
