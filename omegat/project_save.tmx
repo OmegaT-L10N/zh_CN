@@ -9640,8 +9640,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>By unchecking &lt;e0&gt;Automatically Fetch Translations&lt;/e0&gt; option, machine translations will be fetched only upon invoking &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;M&lt;/k3&gt; &lt;/k1&gt; (&lt;k4&gt; &lt;k5&gt;Cmd&lt;/k5&gt; &lt;k6&gt;M&lt;/k6&gt; &lt;/k4&gt; on OS X) on the current segment.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T071917Z" creationid="weiyi" creationdate="20180406T071917Z">
-        <seg>通过关闭&lt;e0&gt;自动获取翻译&lt;/e0&gt;选项，会在需要启用获取机器翻译时&lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;M&lt;/k3&gt; &lt;/k1&gt; （&lt;k4&gt; &lt;k5&gt;Cmd&lt;/k5&gt; &lt;k6&gt;M&lt;/k6&gt; &lt;/k4&gt;在OS操作系统中）获取当前片段的机器翻译。</seg>
+      <tuv lang="ZH-CN" changeid="Andrew" changedate="20180414T132013Z" creationid="weiyi" creationdate="20180406T071917Z">
+        <seg>关闭&lt;e0&gt;自动获取翻译&lt;/e0&gt;选项，程序只会在按下&lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;M&lt;/k3&gt; &lt;/k1&gt; （在OS X操作系统中为&lt;k4&gt; &lt;k5&gt;Cmd&lt;/k5&gt; &lt;k6&gt;M&lt;/k6&gt; &lt;/k4&gt;）后获取当前片段的机器翻译。</seg>
       </tuv>
     </tu>
     <tu>
