@@ -17707,8 +17707,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>If the option is OFF, the glossary entry above will not be found.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T073550Z" creationid="weiyi" creationdate="20180406T073550Z">
-        <seg>如果关闭此选项，上述术语条目将无法找到。</seg>
+      <tuv lang="ZH-CN" changeid="Andrew" changedate="20180414T133552Z" creationid="weiyi" creationdate="20180406T073550Z">
+        <seg>如果关闭此选项，上述术语条目将不会显示。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31462,8 +31462,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Statistics</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T144448Z">
-        <seg>状态</seg>
+      <tuv lang="ZH-CN" changeid="Andrew" changedate="20180414T133635Z">
+        <seg>统计</seg>
       </tuv>
     </tu>
     <tu>
