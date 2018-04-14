@@ -13997,8 +13997,8 @@ project_save.tmx未真正上传，SVN切换到不稳定状态。</seg>
       <tuv lang="EN">
         <seg>Enter your user name and your password, if you use a proxy to access your projects.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120211T060405Z">
-        <seg>如果使用代理访问您的项目，请输入用户名和密码。</seg>
+      <tuv lang="ZH-CN" changeid="Kaname Madokami☆!" changedate="20180414T160619Z">
+        <seg>如果使用代理服务器访问您的项目，请输入用户名和密码。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27378,8 +27378,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Proxy login...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
-        <seg>登录代理...</seg>
+      <tuv lang="ZH-CN" changeid="Kaname Madokami☆!" changedate="20180414T160610Z">
+        <seg>代理服务器登录...</seg>
       </tuv>
     </tu>
     <tu>
@@ -33607,8 +33607,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The dialog box allows also to set external Post-processing commands (that are executed after &lt;g0&gt;Create Translated Documents&lt;/g0&gt; command</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T063900Z" creationid="weiyi" creationdate="20180406T063900Z">
-        <seg>对话框可以设定外部后期处理命令（会在点击 &lt;g0&gt;创建已译文档&lt;/g0&gt; 命令后执行）。</seg>
+      <tuv lang="ZH-CN" changeid="Kaname Madokami☆!" changedate="20180414T160558Z" creationid="weiyi" creationdate="20180406T063900Z">
+        <seg>对话框也可以设定外部后期处理命令（会在点击 &lt;g0&gt;创建已译文档&lt;/g0&gt; 命令后执行）。</seg>
       </tuv>
     </tu>
     <tu>
