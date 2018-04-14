@@ -10137,8 +10137,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Check this option in case OmegaT does not display some glyphs properly (even if the fonts containing the relevant glyphs are installed on your machine).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T062036Z" creationid="weiyi" creationdate="20180406T062036Z">
-        <seg>选中此选项以防止OmegaT不能正确显示某些字体（即使相关字体已在您的计算机中安装）。</seg>
+      <tuv lang="ZH-CN" changeid="Andrew" changedate="20180414T040726Z" creationid="weiyi" creationdate="20180406T062036Z">
+        <seg>选中此选项以防止OmegaT不能正确显示某些字形（即使相关字体已在您的计算机中安装）。</seg>
       </tuv>
     </tu>
     <tu>
