@@ -32988,8 +32988,8 @@ current folder will be used instead.</seg>
       <tuv lang="EN">
         <seg>The Match Display Template area also allows changing how fuzzy matches are displayed, through the use of pre-configured variables.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T064506Z" creationid="weiyi" creationdate="20180406T064506Z">
-        <seg>在匹配显示模板区域中可通过使用预设置变量修改模糊匹配如何显示。</seg>
+      <tuv lang="ZH-CN" changeid="Kaname Madokami☆!" changedate="20180414T160351Z" creationid="weiyi" creationdate="20180406T064506Z">
+        <seg>也可在匹配显示模板区域中可使用预设置变量修改模糊匹配如何显示。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34055,8 +34055,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The fuzzy matches can be also sorted in different ways (for displaying only; no influence on statistics).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T064236Z" creationid="weiyi" creationdate="20180406T064236Z">
-        <seg>模糊匹配可以按两种方式排序 （仅用于显示或不影响统计）。</seg>
+      <tuv lang="ZH-CN" changeid="Kaname Madokami☆!" changedate="20180414T160228Z" creationid="weiyi" creationdate="20180406T064236Z">
+        <seg>模糊匹配可以按两种方式排序 （仅用于显示；不影响统计）。</seg>
       </tuv>
     </tu>
     <tu>
