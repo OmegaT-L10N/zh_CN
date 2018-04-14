@@ -8509,6 +8509,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As for te-gloss-highlight, but substitutes the source terms in the glossary with the target terms.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="10353" changedate="20180414T083333Z" creationid="10353" creationdate="20180414T083237Z">
+        <seg>与 te-gloss-highlight类似，但会用目标术语替换词汇表中的源术语。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As its name suggests, this script automatically strips the tags out of an OmegaT (target) segment.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Zoe" changedate="20180412T152121Z" creationid="Zoe" creationdate="20180412T152057Z">
@@ -33492,6 +33500,14 @@ instead.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021248Z">
         <seg>术语表文件为空。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The glossary file must consist of two columns only, have the name GLOSS.utf8, and be present in the /script folder.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="10353" changedate="20180414T083157Z" creationid="10353" creationdate="20180414T083157Z">
+        <seg>词汇表文件必须仅包含两列，名称为GLOSS.utf8，并且存于/ script文件夹中。</seg>
       </tuv>
     </tu>
     <tu>
