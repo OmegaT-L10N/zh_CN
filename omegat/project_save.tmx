@@ -15453,6 +15453,14 @@ script provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, to use the English tokenizer (when translating from English), your launch command might now be:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="10353" changedate="20180414T103001Z" creationid="10353" creationdate="20180414T103001Z">
+        <seg>例如，要使用英语分词器（从英语翻译成别的语言时），你的启动命令现在可能是：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, when you have a Czech text file (very probably written in the &lt;e2&gt;ISO-8859-2&lt;/e2&gt; code) you just need to change the extension&lt;l3&gt; .txt&lt;/l3&gt; to &lt;l4&gt;.txt2 &lt;/l4&gt;and &lt;a5&gt;OmegaT&lt;/a5&gt; will interpret its contents correctly.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120213T143817Z">
@@ -18369,6 +18377,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="18261" changedate="20180413T023607Z" creationid="18261" creationdate="20180413T023347Z">
         <seg>注意：为了使用插件，您可能需要安装最新版本的OmegaT。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Important: this whole command must appear on one line (even if it appears to be on two lines in the display in which you are reading this).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="10353" changedate="20180414T103222Z" creationid="10353" creationdate="20180414T103222Z">
+        <seg>注意：这整个命令必须是一行（即使它在你正在阅读的显示器上可能显示为两行）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25389,6 +25405,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="flycr" changedate="20180406T132206Z" creationid="flycr" creationdate="20180406T132206Z">
         <seg>设置目标文件中的每行长度 (0 = 没有限制)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Or if you are translating from Turkish, it might now be:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="10353" changedate="20180414T103044Z" creationid="10353" creationdate="20180414T103044Z">
+        <seg>或者，当你要从土耳其语翻译成别的语言时，你的启动命令现在可能是：</seg>
       </tuv>
     </tu>
     <tu>
