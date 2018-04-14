@@ -41867,6 +41867,14 @@ them.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Your browser won't automatically scroll as you work through the text; you have to do that yourself.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180414T113836Z" creationid="lenovo" creationdate="20180414T113836Z">
+        <seg>浏览文本时，浏览器不会自动滚动; 你必须自己滑动浏览器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Your current project uses sentence segmentation, but TMX file was created using paragraph segmentation.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T151601Z">
