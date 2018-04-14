@@ -36273,6 +36273,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This script reads the content of a glossary file and highlights any terms found in it in the current (source) segment.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="10353" changedate="20180414T083032Z" creationid="10353" creationdate="20180414T083032Z">
+        <seg>该脚本会读取术语表文件的内容，并高亮显示当前（源）片段中找到的所有术语。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This segment can be now translated as desired without other instances of it automatically being made identical to it.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T121820Z" creationid="Zoe" creationdate="20180411T121820Z">
