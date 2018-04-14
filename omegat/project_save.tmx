@@ -8194,8 +8194,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>An attempt is made to match the capitalization of the source word.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T075807Z" creationid="weiyi" creationdate="20180406T075807Z">
-        <seg>大写的原语词也会被尝试匹配。</seg>
+      <tuv lang="ZH-CN" changeid="Andrew" changedate="20180414T135656Z" creationid="weiyi" creationdate="20180406T075807Z">
+        <seg>大写的原词语也会尝试匹配。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32737,8 +32737,8 @@ current folder will be used instead.</seg>
       <tuv lang="EN">
         <seg>The 3 other options are described in the specific page concerning &lt;l0&gt;TaaS&lt;/l0&gt; (Terminology as a Service).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T080026Z" creationid="weiyi" creationdate="20180406T080026Z">
-        <seg>其它三种选项在关于&lt;l0&gt;TaaS&lt;/l0&gt; （术语即服务）的特定页面中显示。</seg>
+      <tuv lang="ZH-CN" changeid="Andrew" changedate="20180414T135747Z" creationid="weiyi" creationdate="20180406T080026Z">
+        <seg>其它三种选项在关于&lt;l0&gt;TaaS&lt;/l0&gt; （术语即服务）的页面中介绍。</seg>
       </tuv>
     </tu>
     <tu>
