@@ -18307,6 +18307,14 @@ is to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you wish to use different tokenizers because you translate from more than one language, create a separate OmegaT launch script file for each tokenizer you wish to use.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="10353" changedate="20180414T104635Z" creationid="10353" creationdate="20180414T104635Z">
+        <seg>如果你要从多种源语言进行翻译，因此你希望使用不同的分词器，请为你希望使用的每个分词器创建单独的OmegaT启动脚本文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you wish to use such files as reference translations in OmegaT, they must be repaired, or OmegaT will report an error and fail to load them.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120218T070053Z">
