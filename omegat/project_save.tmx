@@ -37286,8 +37286,8 @@ the server.</seg>
       <tuv lang="EN">
         <seg>To test, check whether glossary entries are displayed even when the current OmegaT segment contains a term in an inflected form from that in the glossary.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="10353" changedate="20180414T103530Z" creationid="10353" creationdate="20180414T103530Z">
-        <seg>若要验证这一点，请检查是否显示词汇表条目，即使当前OmegaT段包含术语表中词汇变化的词汇。</seg>
+      <tuv lang="ZH-CN" changeid="10353" changedate="20180414T104456Z" creationid="10353" creationdate="20180414T103530Z">
+        <seg>若要验证这一点，请检查在当前OmegaT片段中包含术语表中词汇的变形的情况下，词汇表术语是否仍能显示。</seg>
       </tuv>
     </tu>
     <tu>
