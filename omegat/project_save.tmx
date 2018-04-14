@@ -23952,6 +23952,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Now enable automatic refreshing.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180414T112152Z" creationid="lenovo" creationdate="20180414T112152Z">
+        <seg>现在启用自动刷新。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Nr of matching segments: {0}</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="flycr" changedate="20180406T130910Z" creationid="flycr" creationdate="20180406T130910Z">
@@ -39480,6 +39488,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T144150Z" creationid="cpeishan" creationdate="20180407T144150Z">
         <seg>Linux版OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using Opera: with Opera &gt; Page &gt; Open</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180414T112039Z" creationid="lenovo" creationdate="20180414T112039Z">
+        <seg>使用Opera：Opera&gt;页面&gt;打开</seg>
       </tuv>
     </tu>
     <tu>
