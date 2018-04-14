@@ -7680,6 +7680,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After preparing for installation (see above), install the tokenizer as follows:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="10353" changedate="20180414T100215Z" creationid="10353" creationdate="20180414T100215Z">
+        <seg>做好安装准备工作之后（见上文），按照如下步骤安装分词器：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>After segmenting the source file into structural units, &lt;a0&gt;OmegaT&lt;/a0&gt; will segment these blocks further into sentences.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120215T141214Z">
@@ -13139,6 +13147,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="ZH-CN" changeid="Puzzlist" changedate="20130922T042020Z" creationid="Puzzlist" creationdate="20130922T042020Z">
         <seg>在此情况下应该从下列地址下载：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Download the &lt;a0&gt;tokenizer zip package (for OmegaT version 2.1.1 and later)&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="10353" changedate="20180414T100353Z" creationid="10353" creationdate="20180414T100353Z">
+        <seg>下载 &lt;a0&gt;分词器压缩包 (OmegaT 2.1.1 及之后版本适用）&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19411,6 +19427,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120217T113608Z">
         <seg>安装拼写词典</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Installing the tokenizer</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="10353" changedate="20180414T100107Z" creationid="10353" creationdate="20180414T100107Z">
+        <seg>安装分词器</seg>
       </tuv>
     </tu>
     <tu>
