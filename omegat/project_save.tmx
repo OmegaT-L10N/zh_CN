@@ -14401,6 +14401,14 @@ project_save.tmx未真正上传，SVN切换到不稳定状态。</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Execute this file, and OmegaT should now launch with the tokenizer function.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="10353" changedate="20180414T103342Z" creationid="10353" creationdate="20180414T103342Z">
+        <seg>执行这个文件，现在再打开OmegaT ，应该就能使用分词功能了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Executing external command...</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
@@ -37272,6 +37280,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120131T114557Z">
         <seg>要为 OmegaT 项目提供资金支持</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To test, check whether glossary entries are displayed even when the current OmegaT segment contains a term in an inflected form from that in the glossary.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="10353" changedate="20180414T103530Z" creationid="10353" creationdate="20180414T103530Z">
+        <seg>若要验证这一点，请检查是否显示词汇表条目，即使当前OmegaT段包含术语表中词汇变化的词汇。</seg>
       </tuv>
     </tu>
     <tu>
