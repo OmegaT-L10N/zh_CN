@@ -33303,6 +33303,14 @@ Please try to correct the error and reload the project.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The change will then become visible after a delay of at most the interval you selected (plus the time taken by OmegaT to save and produce the target files).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180414T113608Z" creationid="lenovo" creationdate="20180414T113608Z">
+        <seg>最多延迟你所选择的时间间隔（加上OmegaT保存并生成目标文件所用的时间）后，更改可见。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The character with hexadecimal value 0xhh</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120214T033811Z">
