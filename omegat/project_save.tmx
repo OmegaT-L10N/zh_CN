@@ -28364,8 +28364,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Replaces the current target segment contents with the selected match (the first match is selected by default)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120211T062044Z">
-        <seg>使用选中的匹配替换当前目标段内容（缺省情况下选中第一个匹配）</seg>
+      <tuv lang="ZH-CN" changeid="Kaname Madokami☆!" changedate="20180414T162340Z">
+        <seg>使用选中的匹配替换当前目标片段内容（缺省情况下选中第一个匹配）</seg>
       </tuv>
     </tu>
     <tu>
