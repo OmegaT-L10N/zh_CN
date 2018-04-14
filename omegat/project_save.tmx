@@ -38633,8 +38633,8 @@ Exact searches match the whole search string.</seg>
       <tuv lang="EN">
         <seg>Undoes the last editing actions in the current target segment</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131031T082730Z">
-        <seg>取消当前目标片段中的前一个编辑操作</seg>
+      <tuv lang="ZH-CN" changeid="Kaname Madokami☆!" changedate="20180414T162126Z">
+        <seg>取消当前目标片段中的上一个编辑操作</seg>
       </tuv>
     </tu>
     <tu>
