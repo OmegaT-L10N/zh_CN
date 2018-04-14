@@ -10553,8 +10553,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Click on &lt;g0&gt;Glossary...&lt;/g0&gt; to configure the Auto-completer Glossary View.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T070931Z" creationid="weiyi" creationdate="20180406T070931Z">
-        <seg>点击&lt;g0&gt;术语表...&lt;/g0&gt;设置自动生成器术语表视图</seg>
+      <tuv lang="ZH-CN" changeid="Andrew" changedate="20180414T153917Z" creationid="weiyi" creationdate="20180406T070931Z">
+        <seg>点击&lt;g0&gt;术语表...&lt;/g0&gt;设置自动完成器术语表视图。</seg>
       </tuv>
     </tu>
     <tu>
