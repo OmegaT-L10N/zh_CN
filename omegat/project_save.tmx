@@ -17174,8 +17174,8 @@ script provided (omegat.kaptn).</seg>
       <tuv lang="EN">
         <seg>If &lt;g0&gt;Use Stemming for Glossary Entries&lt;/g0&gt; option is ON, with an English source text, the glossary entry "element" will be found if the source text contains "elements".</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T075437Z" creationid="weiyi" creationdate="20180406T074108Z">
-        <seg>如果&lt;g0&gt;使用词干提取自术语条目&lt;/g0&gt;选项开启，在英文原文中，术语条目 "element" 若在源文件中存在，便会被发现。</seg>
+      <tuv lang="ZH-CN" changeid="Andrew" changedate="20180414T134156Z" creationid="weiyi" creationdate="20180406T074108Z">
+        <seg>如果&lt;g0&gt;使用词干提取自术语条目&lt;/g0&gt;选项开启，英文原文中若存在 "elements"，术语条目 "element" 将会显示。</seg>
       </tuv>
     </tu>
     <tu>
