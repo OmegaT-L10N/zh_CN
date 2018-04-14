@@ -12825,8 +12825,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Displays the Match Statistics for each file of the project: the number of repetitions, exact matches, fuzzy matches and no-matches, for segments, words and in characters.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T064842Z" creationid="weiyi" creationdate="20180406T064842Z">
-        <seg>显示当前项目中每个文件的匹配统计对于片段、单词和字符的重复、精确匹配、模糊匹配和无匹配的数目。</seg>
+      <tuv lang="ZH-CN" changeid="Andrew" changedate="20180414T131305Z" creationid="weiyi" creationdate="20180406T064842Z">
+        <seg>显示当前项目中每个文件的匹配统计：片段、单词和字符的重复、精确匹配、模糊匹配和无匹配的数目。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29563,8 +29563,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>See &lt;l1&gt;Tag Validation&lt;/l1&gt; and &lt;x2/&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120211T025539Z">
-        <seg>请参阅&lt;l1&gt;检验标签&lt;/l1&gt;和&lt;x2/&gt;。</seg>
+      <tuv lang="ZH-CN" changeid="Andrew" changedate="20180414T130755Z">
+        <seg>请参阅&lt;l1&gt;标签验证&lt;/l1&gt;和&lt;x2/&gt;。</seg>
       </tuv>
     </tu>
     <tu>
