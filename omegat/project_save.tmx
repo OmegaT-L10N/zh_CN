@@ -14613,8 +14613,8 @@ project_save.tmx未真正上传，SVN切换到不稳定状态。</seg>
       <tuv lang="EN">
         <seg>Exports the current selection or the current source, if no text has been selected.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120211T062635Z">
-        <seg>输出当前选中内容，如果未选中的话输出当前源片段。</seg>
+      <tuv lang="ZH-CN" changeid="Kaname Madokami☆!" changedate="20180414T163037Z">
+        <seg>输出当前选中内容，如果未选中文本则输出当前原文。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25614,8 +25614,8 @@ installed on your system.</seg>
       <tuv lang="EN">
         <seg>Opens the Tag validation window.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120211T062609Z">
-        <seg>打开标签验证窗口</seg>
+      <tuv lang="ZH-CN" changeid="Kaname Madokami☆!" changedate="20180414T163008Z">
+        <seg>打开标签验证窗口。</seg>
       </tuv>
     </tu>
     <tu>
