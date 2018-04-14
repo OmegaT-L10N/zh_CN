@@ -21697,8 +21697,8 @@ itself on the first run.</seg>
       <tuv lang="EN">
         <seg>Mac users should instead use the &lt;g2&gt;cmd+key.&lt;/g2&gt; On Apple keyboards the &lt;g3&gt;cmd&lt;/g3&gt; key either has a command label or an Apple icon on it.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120211T061300Z">
-        <seg>Mac 应该转为使用 &lt;g2&gt;cmd+key。&lt;/g2&gt;&lt;g3&gt;Cmd&lt;/g3&gt; 键就是在苹果键盘上印有 "command" 或“苹果”符号的那个键。</seg>
+      <tuv lang="ZH-CN" changeid="Kaname Madokami☆!" changedate="20180414T161820Z">
+        <seg>Mac 用户则使用 &lt;g2&gt;cmd+key。&lt;/g2&gt;&lt;g3&gt;Cmd&lt;/g3&gt; 键就是在苹果键盘上印有 "command" 或“苹果”符号的那个键。</seg>
       </tuv>
     </tu>
     <tu>
