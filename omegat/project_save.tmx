@@ -10351,6 +10351,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose a tokenizer from the following list, according to your &lt;s0&gt;source&lt;/s0&gt; language:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="10353" changedate="20180414T102303Z" creationid="10353" creationdate="20180414T102303Z">
+        <seg>根据你的 &lt;s0&gt;源&lt;/s0&gt; 语言，从以下列表中选择一个分词器：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choose&lt;g0&gt; SVN.&lt;/g0&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131111T110741Z" creationid="Fu Rhong" creationdate="20131111T110741Z">
@@ -12211,6 +12219,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120203T122545Z">
         <seg>根据分割规则，标签对可能会被分成两部分并出现在两个连续的片段，而标签检验会检查到这两处的部分标签并提示这两个片段出现错误。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Depending upon your system configuration, the launch command may be slightly different.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="10353" changedate="20180414T102108Z" creationid="10353" creationdate="20180414T102108Z">
+        <seg>根据您的系统配置，启动命令可能会稍有不同。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32911,6 +32927,14 @@ Please try to correct the error and reload the project.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The basic form of this command is:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="10353" changedate="20180414T102034Z" creationid="10353" creationdate="20180414T102034Z">
+        <seg>该命令的基本形式为：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The basic rule is that the sequence of tags must be preserved in the same order.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120203T122651Z">
@@ -33824,6 +33848,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131126T093659Z" creationid="Fu Rhong" creationdate="20131126T093659Z">
         <seg>因此含相同源文本的最后一个片段将获得采用（注：当然预先避免这种情况发生会更有意义）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The launch file script contains the OmegaT launch command.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="10353" changedate="20180414T102002Z" creationid="10353" creationdate="20180414T102002Z">
+        <seg>启动文件脚本包含OmegaT启动命令。</seg>
       </tuv>
     </tu>
     <tu>
