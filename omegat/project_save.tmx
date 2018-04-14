@@ -8895,8 +8895,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Auto-completer is launched within the target segment via &lt;e0&gt;Ctrl+Space&lt;/e0&gt; shortcut.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T070816Z" creationid="weiyi" creationdate="20180406T070816Z">
-        <seg>目标段落的自动生成器可通过快捷键 &lt;e0&gt;Ctrl+Space&lt;/e0&gt; 启动。</seg>
+      <tuv lang="ZH-CN" changeid="Andrew" changedate="20180414T153946Z" creationid="weiyi" creationdate="20180406T070816Z">
+        <seg>目标片段可通过快捷键 &lt;e0&gt;Ctrl+Space&lt;/e0&gt; 启动自动生成器。</seg>
       </tuv>
     </tu>
     <tu>
