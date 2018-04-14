@@ -17849,6 +17849,14 @@ is to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you have been using the tokenizer plug-in with an earlier version of OmegaT and have upgraded to version 3.0.0 or later of OmegaT, delete the tokenizer plug-in files from your plug-in folder.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="10353" changedate="20180414T083927Z" creationid="10353" creationdate="20180414T083927Z">
+        <seg>如果你曾经使用OmegaT的早期版本的分词器插件，并现在已升级到OmegaT的3.0.0版或更高版本，请从插件文件夹中删除分词器插件文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you have found OmegaT useful and would like to express your gratitude by making a &lt;a0&gt;donation&lt;/a0&gt; on our Paypal account.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="18261" changedate="20180412T112621Z" creationid="18261" creationdate="20180412T112621Z">
@@ -33376,6 +33384,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The following information is therefore applicable only if you are using a version of OmegaT earlier than 3.0.0.&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="10353" changedate="20180414T083616Z" creationid="10353" creationdate="20180414T083616Z">
+        <seg>以下信息仅当你使用早于3.0.0的OmegaT版本时才适用。&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The following list includes expressions you may find useful when searching through the translation memory:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120215T114704Z">
@@ -34846,8 +34862,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>The tokenizer plug-in was integrated into OmegaT in version 3.0.0.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="10353" changedate="20180412T131811Z" creationid="10353" creationdate="20180412T131811Z">
-        <seg>标记器插件已集成到3.0.0版的OmegaT中。</seg>
+      <tuv lang="ZH-CN" changeid="10353" changedate="20180414T083734Z" creationid="10353" creationdate="20180412T131811Z">
+        <seg>分词器插件已集成到3.0.0版的OmegaT中。</seg>
       </tuv>
     </tu>
     <tu>
