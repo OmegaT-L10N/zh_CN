@@ -22862,6 +22862,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Name the launch script files appropriately, for example "OmegaT-EN.bat" for the launch script file containing the command with the English tokenizer and "OmegaT-TR.bat" for the launch script file containing the command with the Turkish tokenizer.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="10353" changedate="20180414T105046Z" creationid="10353" creationdate="20180414T105046Z">
+        <seg>为启动脚本文件进行合适的命名，例如，把包含英语分词器命令的启动脚本文件命名为“OmegaT-EN.bat”,把包含土耳其语分词器命令的启动脚本文件命名为“OmegaT-TR.bat”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Name:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T014614Z" creationid="xulihang" creationdate="20180408T014614Z">
