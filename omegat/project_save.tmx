@@ -1673,6 +1673,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(The tokenizer can be used with versions 2.0.x and 2.1.0, but this requires both a different version of the tokenizer, and a different installation procedure.) Users are advised to upgrade to the latest beta version of OmegaT.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="10353" changedate="20180414T094405Z" creationid="10353" creationdate="20180414T094405Z">
+        <seg>（分词器可以与版本2.0.x和2.1.0一起使用，但这需要不同版本的分词器以及不同的安装过程。）建议用户升级到OmegaT的最新测试版。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(X)HTML (*.html, *.xhtml,*.xht)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120202T114545Z">
@@ -6668,6 +6676,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="10353" changedate="20180414T085019Z" creationid="10353" creationdate="20180414T084802Z">
         <seg>&lt;s0&gt; Webstart版本的OmegaT&lt;/s0&gt;:：分词器与Webstart版本的OmegaT不兼容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s0&gt;Windows versions of OmegaT&lt;/s0&gt;: in order for OmegaT (any version) to be used with the tokenizer, it must be launched from a launch script file.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="10353" changedate="20180414T094607Z" creationid="10353" creationdate="20180414T094607Z">
+        <seg>&lt;s0&gt;Windows版本的 OmegaT&lt;/s0&gt;：为了使OmegaT（任何版本）可以与分词器一起使用，它必须从启动脚本文件启动。</seg>
       </tuv>
     </tu>
     <tu>
