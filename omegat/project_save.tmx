@@ -19540,8 +19540,8 @@ click on that shortcut.</seg>
       <tuv lang="EN">
         <seg>Inserts the selected match at the cursor position in the current target segment (the first match is inserted by default)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120211T062032Z">
-        <seg>向当前的片段的光标位置插入选中的匹配（缺省情况下插入第一个匹配）</seg>
+      <tuv lang="ZH-CN" changeid="Kaname Madokami☆!" changedate="20180414T162403Z">
+        <seg>向当前片段的光标位置插入选中的匹配（缺省情况下插入第一个匹配）</seg>
       </tuv>
     </tu>
     <tu>
@@ -28348,8 +28348,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Replace with source</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131110T022434Z">
-        <seg>用源文本替换</seg>
+      <tuv lang="ZH-CN" changeid="Kaname Madokami☆!" changedate="20180414T162422Z">
+        <seg>用原文本替换</seg>
       </tuv>
     </tu>
     <tu>
