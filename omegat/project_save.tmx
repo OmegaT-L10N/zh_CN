@@ -12806,6 +12806,7 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
     </tu>
     <tu>
+      <note>主语改成用户到底对不对呢……</note>
       <tuv lang="EN">
         <seg>Displays the &lt;l0&gt;Spell checker setup&lt;/l0&gt; window to install, configure and activate the spell checker.</seg>
       </tuv>
@@ -13988,8 +13989,8 @@ project_save.tmx未真正上传，SVN切换到不稳定状态。</seg>
       <tuv lang="EN">
         <seg>Enter your name here and it will be attached to all segments translated by you.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120211T060103Z">
-        <seg>在这里输入您的名字，它将被附加到您翻译的所有片段中。</seg>
+      <tuv lang="ZH-CN" changeid="Kaname Madokami☆!" changedate="20180414T155941Z">
+        <seg>在这里输入您的名字，它将附加到您翻译的所有片段中。</seg>
       </tuv>
     </tu>
     <tu>
