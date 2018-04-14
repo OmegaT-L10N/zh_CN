@@ -12848,6 +12848,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Displays the current log file.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Kaname Madokami☆!" changedate="20180414T161239Z" creationid="Kaname Madokami☆!" creationdate="20180414T161239Z">
+        <seg>显示当前日志文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Displays the dictionary entries found in the dictionary files located in the /dictionary/ folder if they are present in the source segment.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T163636Z">
@@ -35421,6 +35429,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
         <seg>第三列用来保存附加信息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The title of the dialog reflects the file actually used (which depends on how many instances of OmegaT are running concurrently).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Kaname Madokami☆!" changedate="20180414T161446Z" creationid="Kaname Madokami☆!" creationdate="20180414T161446Z">
+        <seg>对话框的标题显示真正使用的文件（取决于OmegaT同时开启多个实例）</seg>
       </tuv>
     </tu>
     <tu>
