@@ -7664,6 +7664,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After creating a launch script as described above, you can configure your system so that OmegaT is launched more conveniently, for example by creating a shortcut.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="10353" changedate="20180414T105703Z" creationid="10353" creationdate="20180414T105703Z">
+        <seg>在如上所述创建启动脚本之后，您可以配置你的系统以便更方便地启动OmegaT，例如创建快捷方式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>After deletion:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
@@ -15565,6 +15573,14 @@ script provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For instance, if you are translating from Chinese to Dutch, try:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="10353" changedate="20180414T105402Z" creationid="10353" creationdate="20180414T105402Z">
+        <seg>例如，如果你要从汉语翻译成荷兰语，尝试：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For instance, plain text files.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
@@ -18858,6 +18874,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="18261" changedate="20180412T125002Z" creationid="18261" creationdate="20180412T125002Z">
         <seg>在一些领域，需要一定程度的协调。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In some cases, you may find that the source-language tokenizer interferes with the target-language spelling checker.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="10353" changedate="20180414T105151Z" creationid="10353" creationdate="20180414T105151Z">
+        <seg>在某些情况下，你可能会发现源语言标记器会干扰目标语言拼写检查器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28495,6 +28519,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Right-click on the launch script (OmegaT.bat), then keeping the right mouse button depressed, drag the script to a convenient location, such as your desktop.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="10353" changedate="20180414T105816Z" creationid="10353" creationdate="20180414T105816Z">
+        <seg>右键单击启动脚本（OmegaT.bat），然后按住鼠标右键，将脚本拖到方便的位置，例如桌面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Right-click on the panel - &lt;e0&gt;Add New Launcher.&lt;/e0&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120207T065940Z">
@@ -37028,6 +37060,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To create a shortcut in Windows:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="10353" changedate="20180414T105727Z" creationid="10353" creationdate="20180414T105727Z">
+        <seg>在Windows中创建快捷方式：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To create one, right-click in a segment, and select "&lt;e2&gt;Set empty translation&lt;/e2&gt;".</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T084312Z" creationid="Fu Rhong" creationdate="20131112T120432Z">
@@ -41177,6 +41217,14 @@ from there.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131118T034511Z" creationid="Fu Rhong" creationdate="20131118T034511Z">
         <seg>您可以手动输入语种或者通过下拉菜单选择。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can eliminate this problem by specifying a tokenizer for the target language as well (where available), with the argument --ITokenizerTarget=.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="10353" changedate="20180414T105258Z" creationid="10353" creationdate="20180414T105258Z">
+        <seg>你可以通过也为目标语言指定一个分词器（如果可用），并使用参数--ITokenizerTarget =来消除此问题。</seg>
       </tuv>
     </tu>
     <tu>
