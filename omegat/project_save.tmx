@@ -7672,6 +7672,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After creating and testing the shortcut, you can add it to the Start menu by dragging it there.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="10353" changedate="20180414T110107Z" creationid="10353" creationdate="20180414T110107Z">
+        <seg>在创建并测试快捷方式之后，你可以将其拖动到“开始”菜单，这样就可以将其添加到“开始”菜单中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>After deletion:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
@@ -8068,6 +8076,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="18261" changedate="20180412T090332Z" creationid="18261" creationdate="20180412T090332Z">
         <seg>或者，如果你已经知道想要下载的版本，点击按钮，概览OmegaT的不同可用版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Alternatively, right-click on the launch script.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="10353" changedate="20180414T105937Z" creationid="10353" creationdate="20180414T105937Z">
+        <seg>或者，右键单击启动脚本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10347,6 +10363,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131107T142712Z" creationid="Fu Rhong" creationdate="20131107T142712Z">
         <seg>中文</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Choose "Create Shortcuts Here".</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="10353" changedate="20180414T105911Z" creationid="10353" creationdate="20180414T105911Z">
+        <seg>选择“在此创建快捷方式”。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30009,6 +30033,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select: "Send to", then select "Desktop (create shortcut)".</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="10353" changedate="20180414T105958Z" creationid="10353" creationdate="20180414T105958Z">
+        <seg>选择：“发送到”，然后选择“桌面（创建快捷方式）”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select&lt;g0&gt; TortoiseSVN &gt; Checkout.&lt;/g0&gt; The following dialog appears:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131111T114537Z" creationid="Fu Rhong" creationdate="20131111T114537Z">
@@ -40236,6 +40268,14 @@ trouble of selecting, obtaining and installing it.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120218T124926Z">
         <seg>当您进入下一片段，第一个模糊匹配（拥有最高匹配百分比的那个）自动被选中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you release the right click, a dialog opens with a number of options.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="10353" changedate="20180414T105855Z" creationid="10353" creationdate="20180414T105855Z">
+        <seg>当你释放右键时，会打开一个对话框，其中包含多个选项。</seg>
       </tuv>
     </tu>
     <tu>
