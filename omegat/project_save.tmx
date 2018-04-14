@@ -8042,8 +8042,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>Allows you to activate/deactivate &lt;e0&gt;TransTips &lt;/e0&gt;feature and set its option&lt;e1&gt; Exact Match.&lt;/e1&gt; With &lt;e2&gt;TransTips&lt;/e2&gt; activated a right click on a highlighted word in the source will open a pop up menu with the glossary entries for the word you clicked.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Andrew" changedate="20180414T145316Z" creationid="Fu Rhong" creationdate="20131117T133842Z">
-        <seg>可以让您激活/取消激活&lt;e0&gt;翻译提示&lt;/e0&gt;功能，并设置&lt;e1&gt;精确匹配&lt;/e1&gt;选项。激活&lt;e2&gt;翻译提示&lt;/e2&gt;，原文中突出显示的单词上的右键菜单功能，这样在此单词上点击时将出现含有术语表条目的弹出菜单。</seg>
+      <tuv lang="ZH-CN" changeid="Andrew" changedate="20180414T153514Z" creationid="Fu Rhong" creationdate="20131117T133842Z">
+        <seg>可以让您激活/取消激活&lt;e0&gt;翻译提示&lt;/e0&gt;功能，并设置&lt;e1&gt;精确匹配&lt;/e1&gt;选项。激活&lt;e2&gt;翻译提示&lt;/e2&gt;后，在原文中突出显示的单词上右击，可显示含有术语表条目的弹出菜单。</seg>
       </tuv>
     </tu>
     <tu>
