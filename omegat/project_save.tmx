@@ -7488,6 +7488,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add the argument --ITokenizer= followed by the full name of this tokenizer (by copying the entire line, inserting a space) to the end of the launch command in your OmegaT launch script file.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="10353" changedate="20180414T102901Z" creationid="10353" creationdate="20180414T102901Z">
+        <seg>在你的OmegaT启动脚本文件中将参数-- ITokenizer =后面加该分词器的全名（复制整行，并插入一个空格）添加到启动命令的末尾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Added {0} glossary entries from {1}</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="flycr" changedate="20180406T131310Z" creationid="flycr" creationdate="20180406T131310Z">
