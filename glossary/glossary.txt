@@ -45,3 +45,4 @@ tokenizer	分词器
 fuzzy	模糊
 launch script file	启动脚本文件
 shortcut	快捷键，快捷方式
+will be found	将会显示
