@@ -43,3 +43,4 @@ Whitespace	空格	这玩意到底跟space什么区别，，，
 highlighting functions	高亮显示功能
 tokenizer	分词器
 fuzzy	模糊
+launch script file	启动脚本文件
