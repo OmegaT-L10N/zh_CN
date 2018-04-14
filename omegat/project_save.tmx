@@ -17170,6 +17170,7 @@ script provided (omegat.kaptn).</seg>
       </tuv>
     </tu>
     <tu>
+      <note>Use Stemming for Glossary Entries 这玩意怎么翻。。。</note>
       <tuv lang="EN">
         <seg>If &lt;g0&gt;Use Stemming for Glossary Entries&lt;/g0&gt; option is ON, with an English source text, the glossary entry "element" will be found if the source text contains "elements".</seg>
       </tuv>
