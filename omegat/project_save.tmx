@@ -19964,8 +19964,8 @@ click on that shortcut.</seg>
       <tuv lang="EN">
         <seg>It can also be used when panes do not appear as expected following an OmegaT upgrade.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120218T103952Z">
-        <seg>它还可用于在更新 OmegaT 后不正确显示窗格时。</seg>
+      <tuv lang="ZH-CN" changeid="Kaname Madokami☆!" changedate="20180414T160759Z">
+        <seg>它还可用于更新 OmegaT 后窗格显示异常的情况。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39188,8 +39188,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>Use this feature when you have undocked, moved, or hidden one or more components and you are unable to restore the desired arrangement.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120211T060515Z">
-        <seg>在对一个或多个组件进行了分离、移动、隐藏操作之后，无法对它们进行还原时可以使用这个功能。</seg>
+      <tuv lang="ZH-CN" changeid="Kaname Madokami☆!" changedate="20180414T160716Z">
+        <seg>在对一个或多个组件进行了分离、移动或隐藏操作后无法还原时可以使用这个功能。</seg>
       </tuv>
     </tu>
     <tu>
