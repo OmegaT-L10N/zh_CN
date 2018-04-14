@@ -1970,6 +1970,22 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- On Linux, on the command line&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="10353" changedate="20180414T095951Z" creationid="10353" creationdate="20180414T095951Z">
+        <seg>-在Linux系统上，使用命令行&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- On Windows, by clicking on the launch script file</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="10353" changedate="20180414T100057Z" creationid="10353" creationdate="20180414T100057Z">
+        <seg>- 在Windows系统上，点击启动脚本文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- OpenOffice.org / OpenDocument (*.odt, *.ott, *.ods, *.ots, *.odp, *.otp)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130514T151916Z">
@@ -10146,6 +10162,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120209T120835Z">
         <seg>请检查是否激活&lt;u0&gt;翻译 API 服务&lt;/u0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check that OmegaT is launched when you execute the launch script file:&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="10353" changedate="20180414T095923Z" creationid="10353" creationdate="20180414T095923Z">
+        <seg>在执行启动脚本文件时检查是否启动了OmegaT&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
