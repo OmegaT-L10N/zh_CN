@@ -4337,8 +4337,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;k0&gt;F1:&lt;/k0&gt; Opens this manual in the default browser.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T071402Z" creationid="weiyi" creationdate="20180406T071402Z">
-        <seg>&lt;k0&gt;F1：&lt;/k0&gt;在默认浏览器中打开此说明书。</seg>
+      <tuv lang="ZH-CN" changeid="Kaname Madokami☆!" changedate="20180414T160807Z" creationid="weiyi" creationdate="20180406T071402Z">
+        <seg>&lt;k0&gt;F1：&lt;/k0&gt;在默认浏览器中打开此用户手册。</seg>
       </tuv>
     </tu>
     <tu>
