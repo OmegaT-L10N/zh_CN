@@ -17182,8 +17182,8 @@ script provided (omegat.kaptn).</seg>
       <tuv lang="EN">
         <seg>If &lt;g0&gt;Use Terms Appearing Separately in the Source Text&lt;/g0&gt; option is ON, the glossary entry "itema itemb" will be found in the source text "itema other word itemb".</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Andrew" changedate="20180414T133500Z" creationid="weiyi" creationdate="20180406T073504Z">
-        <seg>如果 &lt;g0&gt;源文件使用术语单独显示&lt;/g0&gt;选项开启，术语条目 "itema itemb" 会在源文件 "itema other word itemb" 中显示。</seg>
+      <tuv lang="ZH-CN" changeid="Andrew" changedate="20180414T134004Z" creationid="weiyi" creationdate="20180406T073504Z">
+        <seg>如果 &lt;g0&gt;源文件中使用分开出现的术语&lt;/g0&gt;选项开启，术语条目 "itema itemb" 会在源文件 "itema other word itemb" 中显示。</seg>
       </tuv>
     </tu>
     <tu>
