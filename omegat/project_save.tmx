@@ -19831,6 +19831,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It provides better fuzzy and glossary matches in OmegaT, by computing the roots ("stemming") of the source words.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="10353" changedate="20180414T084214Z" creationid="10353" creationdate="20180414T084214Z">
+        <seg>它通过计算源词的词根（“词干”）来为OmegaT提供更好的模糊匹配和术语表匹配。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It should be noted that when &lt;a0&gt;OmegaT&lt;/a0&gt; is in RTL mode, both source and target are displayed in RTL mode.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120223T160146Z">
@@ -32529,6 +32537,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="18261" changedate="20180412T101811Z" creationid="18261" creationdate="20180412T101811Z">
         <seg>OmegaT 项目得益于来自世界各地志愿者的大力支持。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The OmegaT tokenizer is a plugin for OmegaT.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="10353" changedate="20180414T083954Z" creationid="10353" creationdate="20180414T083954Z">
+        <seg>OmegaT tokenizer是OmegaT的一个插件。</seg>
       </tuv>
     </tu>
     <tu>
