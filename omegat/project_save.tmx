@@ -25056,8 +25056,8 @@ translation leveraging into updated projects.</seg>
       <tuv lang="EN">
         <seg>OmegaT is among the CAT tools for which this process can be used.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="think" changedate="20180415T234126Z" creationid="think" creationdate="20180415T140101Z">
-        <seg>在众多CAT工具中，这一过程能在OmegaT中得到应用。</seg>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180415T235333Z" creationid="think" creationdate="20180415T140101Z">
+        <seg>与众多CAT工具相比，OmegaT的一个特色就是具有上述文本转换的功能。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33307,8 +33307,8 @@ current folder will be used instead.</seg>
       <tuv lang="EN">
         <seg>The "Professional" version of Infix has a further function of interest to translators: XML text export.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="think" changedate="20180415T233237Z" creationid="think" creationdate="20180415T135151Z">
-        <seg>对译者而言，“专业”版本的Infix有一个更深入的功能：XML文本输出。</seg>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180415T234548Z" creationid="think" creationdate="20180415T135151Z">
+        <seg>对译者而言，“Professional”版本的Infix有一个更深入的功能：XML文本输出。</seg>
       </tuv>
     </tu>
     <tu>
