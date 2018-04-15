@@ -16314,6 +16314,14 @@ script provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Glossary Matches</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="apple" changedate="20180415T081020Z" creationid="apple" creationdate="20180415T081020Z">
+        <seg>术语表匹配</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Glossary auto-completer options</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T020941Z" creationid="xulihang" creationdate="20180403T141855Z">
