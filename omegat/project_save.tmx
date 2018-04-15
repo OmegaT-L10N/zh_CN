@@ -7872,6 +7872,22 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Aligner "Accepted" Group</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="apple" changedate="20180415T085853Z" creationid="apple" creationdate="20180415T085853Z">
+        <seg>Aligner "接收" 群组</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Aligner "Needs Review" Group</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="apple" changedate="20180415T085936Z" creationid="apple" creationdate="20180415T085936Z">
+        <seg>Aligner "需要检查"群组</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T082125Z" creationid="Administrator" creationdate="20180412T082125Z">
@@ -24103,6 +24119,14 @@ appropriate location such as the Applications folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120214T034026Z">
         <seg>什么都不匹配，但对以下字符进行引用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Notification (flash)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="apple" changedate="20180415T085730Z" creationid="apple" creationdate="20180415T085730Z">
+        <seg>通知 (闪光)</seg>
       </tuv>
     </tu>
     <tu>
