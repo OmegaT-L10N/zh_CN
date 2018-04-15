@@ -21163,6 +21163,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Launching OmegaT from a launch script</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180415T051443Z" creationid="lenovo" creationdate="20180415T051443Z">
+        <seg>从启动脚本运行OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Launching OmegaT from the command line (all systems)
 ====================================================</seg>
       </tuv>
