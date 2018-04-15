@@ -22335,6 +22335,22 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Matches Inserted Active</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="apple" changedate="20180415T084851Z" creationid="apple" creationdate="20180415T084743Z">
+        <seg>活动的已插入匹配</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Matches Inserted Inactive</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="apple" changedate="20180415T084913Z" creationid="apple" creationdate="20180415T084913Z">
+        <seg>不活动的已插入匹配</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Matches Unchanged</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="apple" changedate="20180415T084728Z" creationid="apple" creationdate="20180415T084728Z">
