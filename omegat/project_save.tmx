@@ -25180,6 +25180,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Once this has been copied or linked to your execution path (done automatically if you use the installation script provided), you can launch OmegaT by hitting &lt;i0&gt;Alt+F2&lt;/i0&gt;, then typing in &lt;i1&gt;omegat&lt;/i1&gt; and conforming with ENTER.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180415T052156Z" creationid="lenovo" creationdate="20180415T052156Z">
+        <seg>一旦该脚本被复制或链接到执行路径（如果你使用提供的安装脚本则会自动完成），可以通过点击&lt;i0&gt; Alt + F2 &lt;/ i0&gt;然后键入&lt;i1&gt; omegat &lt;/ i1&gt;来启动OmegaT &gt;，之后敲击ENTER来确认。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Once you have activated the service, a suggestion for the translation will appear in the Machine Translate pane every time a new source segment is opened.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120209T071309Z">
