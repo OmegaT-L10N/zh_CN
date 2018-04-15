@@ -11283,6 +11283,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Contact the relevant co-ordinator for the translation work:&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180415T144522Z" creationid="lenovo" creationdate="20180415T144522Z">
+        <seg>联系翻译工作的相关协调员：&lt;br0/&gt;/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Contains Java files, necessary to the operation of &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131116T032544Z">
@@ -16068,6 +16076,14 @@ script provided (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Zoe" changedate="20180412T041720Z" creationid="Zoe" creationdate="20180412T041720Z">
         <seg>若要使用文本导出功能，务必先启用OmegaT内的该项功能：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For the user interface, user manual, Instant Start guide and/or the readme file, please contact the &lt;a1&gt;OmegaT Localization Co-ordinator&lt;/a1&gt;.&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180415T144656Z" creationid="lenovo" creationdate="20180415T144656Z">
+        <seg>如需翻译用户界面、用户手册、快速入门指南和readme文件，请联系&lt;a1&gt; OmegaT本地化协调员&lt;/a1&gt;&lt;br2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -27412,6 +27428,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120131T120752Z">
         <seg>与词典相关的问题</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Procedure</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180415T144452Z" creationid="lenovo" creationdate="20180415T144452Z">
+        <seg>步骤</seg>
       </tuv>
     </tu>
     <tu>
