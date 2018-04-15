@@ -16010,6 +16010,14 @@ script provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>From auto memory</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="apple" changedate="20180415T080947Z" creationid="apple" creationdate="20180415T080947Z">
+        <seg>来自自动翻译记忆</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>From memory</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="apple" changedate="20180415T080421Z" creationid="apple" creationdate="20180415T080421Z">
