@@ -36179,8 +36179,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>The translated text can then be re-imported into Infix Professional.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="think" changedate="20180415T135805Z" creationid="think" creationdate="20180415T135805Z">
-        <seg>The translated text can then be re-imported into Infix Professional.之后已译文本能被再导入为专业版的插入词。</seg>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180415T233846Z" creationid="think" creationdate="20180415T135805Z">
+        <seg>之后已译文本能被重新导入Infix Professional。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37064,8 +37064,8 @@ the server.</seg>
       <tuv lang="EN">
         <seg>This enables the text to be exported to an XML file which can be translated in a CAT tool.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="think" changedate="20180415T135333Z" creationid="think" creationdate="20180415T135333Z">
-        <seg>This enables the text to be exported to an XML file which can be translated in a CAT tool.这使得文本能以XML文件的格式导出，从而便于在CAT工具中被翻译。</seg>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180415T233557Z" creationid="think" creationdate="20180415T135333Z">
+        <seg>这使得文本能以XML格式导出，从而使用CAT工具翻译它。</seg>
       </tuv>
     </tu>
     <tu>
