@@ -17245,6 +17245,14 @@ script provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, since we are not a commercial project, we have no budget for the commissioning of translations.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180415T143502Z" creationid="lenovo" creationdate="20180415T143502Z">
+        <seg>但是由于我们不是商业项目，我们没有针对委托翻译的预算。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, submission of an RFE does not mean that the desired feature or improvement will automatically be implemented.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="18261" changedate="20180413T011633Z" creationid="18261" creationdate="20180413T011633Z">
@@ -19990,6 +19998,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="10353" changedate="20180414T100948Z" creationid="10353" creationdate="20180414T100948Z">
         <seg>相反，启动文本编辑器（例如记事本或写字板），然后使用“文件&gt;打开”打开启动脚本文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Instead, those involved in the OmegaT project hope that translations will be provided first and foremost by translators who have tried OmegaT and are convinced of its value to the translation community as a whole.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180415T143706Z" creationid="lenovo" creationdate="20180415T143706Z">
+        <seg>而OmegaT的项目参与者希望由那些尝试使用过OmegaT并确信翻译对整个翻译社群是有价值的译员来首先提供翻译。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36053,6 +36069,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120218T070604Z">
         <seg>该翻译记忆中的译文可以是：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The translation work</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180415T143719Z" creationid="lenovo" creationdate="20180415T143719Z">
+        <seg>翻译工作</seg>
       </tuv>
     </tu>
     <tu>
