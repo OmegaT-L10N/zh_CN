@@ -8312,6 +8312,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An error occurred while opening the item.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="apple" changedate="20180415T092708Z" creationid="apple" creationdate="20180415T092708Z">
+        <seg>打开项目时发生错误。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An error occurred while trying to create a new folder</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T150430Z">
@@ -8359,6 +8367,14 @@ The TMX file will not be loaded.</seg>
       <tuv lang="ZH-CN" changeid="flycr" changedate="20180408T095437Z">
         <seg>分析TMX文件时发生异常：{0}
 此TMX 文件不会被载入。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An existing translation was changed to something different from what you chose.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="apple" changedate="20180415T092930Z" creationid="apple" creationdate="20180415T092930Z">
+        <seg>现有翻译被改成了与你选择不同的东西。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28870,6 +28886,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T100711Z" creationid="Administrator" creationdate="20180412T100711Z">
         <seg>重置主密码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Resolve Conflicts</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="apple" changedate="20180415T092744Z" creationid="apple" creationdate="20180415T092744Z">
+        <seg>解决冲突</seg>
       </tuv>
     </tu>
     <tu>
