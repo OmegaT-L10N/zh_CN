@@ -8373,8 +8373,8 @@ The TMX file will not be loaded.</seg>
       <tuv lang="EN">
         <seg>An existing translation was changed to something different from what you chose.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="apple" changedate="20180415T092930Z" creationid="apple" creationdate="20180415T092930Z">
-        <seg>现有翻译被改成了与你选择不同的东西。</seg>
+      <tuv lang="ZH-CN" changeid="apple" changedate="20180415T095812Z" creationid="apple" creationdate="20180415T092930Z">
+        <seg>现有翻译改成了与你选择不同的翻译。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40937,6 +40937,14 @@ trouble of selecting, obtaining and installing it.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="18261" changedate="20180413T012500Z" creationid="18261" creationdate="20180413T012500Z">
         <seg>它是否被采用，首先取决于开发团队是否认为这是对OmegaT有利的，其次是开发人员是否愿意实现它。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Which version do you want to keep?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="apple" changedate="20180415T093002Z" creationid="apple" creationdate="20180415T093002Z">
+        <seg>你想保存哪个版本?</seg>
       </tuv>
     </tu>
     <tu>
