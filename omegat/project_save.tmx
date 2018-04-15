@@ -17093,6 +17093,14 @@ script provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Hyperlinks</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="apple" changedate="20180415T085108Z" creationid="apple" creationdate="20180415T085108Z">
+        <seg>超链接</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>I Understand; Do It Anyway</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T095833Z" creationid="Administrator" creationdate="20180412T095833Z">
@@ -22335,6 +22343,22 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Matches Deleted Active</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="apple" changedate="20180415T085024Z" creationid="apple" creationdate="20180415T085024Z">
+        <seg>活动的已删除匹配</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Matches Deleted Inactive</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="apple" changedate="20180415T085044Z" creationid="apple" creationdate="20180415T085044Z">
+        <seg>不活动的已删除匹配</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Matches Inserted Active</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="apple" changedate="20180415T084851Z" creationid="apple" creationdate="20180415T084743Z">
@@ -24079,6 +24103,14 @@ appropriate location such as the Applications folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120214T034026Z">
         <seg>什么都不匹配，但对以下字符进行引用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Notification (steady)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="apple" changedate="20180415T085656Z" creationid="apple" creationdate="20180415T085656Z">
+        <seg>通知 (持续)</seg>
       </tuv>
     </tu>
     <tu>
