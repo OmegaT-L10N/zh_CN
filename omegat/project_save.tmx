@@ -4041,8 +4041,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;html&gt;&lt;i&gt;Preferences&lt;/i&gt; &amp;gt; &lt;i&gt;General&lt;/i&gt; &amp;gt; &lt;i&gt;Use TAB to Advance&lt;/i&gt; is checked&lt;/html&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="apple" changedate="20180415T091145Z" creationid="apple" creationdate="20180415T091145Z">
-        <seg>&lt;html&gt;&lt;i&gt;Preferences&lt;/i&gt; &amp;gt; &lt;i&gt;General&lt;/i&gt; &amp;gt; &lt;i&gt;Use TAB to Advance&lt;/i&gt; is checked&lt;/html&gt;&lt;</seg>
+      <tuv lang="ZH-CN" changeid="apple" changedate="20180415T091546Z" creationid="apple" creationdate="20180415T091145Z">
+        <seg>&lt;html&gt;&lt;i&gt;参数选择&lt;/i&gt; &amp;gt; &lt;i&gt;通常&lt;/i&gt; &amp;gt; &lt;i&gt;用 TAB 快进&lt;/i&gt; 被检查&lt;/html&gt;&lt;</seg>
       </tuv>
     </tu>
     <tu>
