@@ -4039,6 +4039,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;html&gt;&lt;i&gt;Preferences&lt;/i&gt; &amp;gt; &lt;i&gt;General&lt;/i&gt; &amp;gt; &lt;i&gt;Use TAB to Advance&lt;/i&gt; is checked&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="apple" changedate="20180415T091145Z" creationid="apple" creationdate="20180415T091145Z">
+        <seg>&lt;html&gt;&lt;i&gt;Preferences&lt;/i&gt; &amp;gt; &lt;i&gt;General&lt;/i&gt; &amp;gt; &lt;i&gt;Use TAB to Advance&lt;/i&gt; is checked&lt;/html&gt;&lt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;html&gt;Add patterns using wildcards (Apache Ant style): &lt;code&gt;*&lt;/code&gt;, &lt;code&gt;?&lt;/code&gt;, &lt;code&gt;**&lt;/code&gt;&lt;br&gt;Example: &lt;code&gt;**/.svn/**&lt;/code&gt;&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T031247Z" creationid="xulihang" creationdate="20180404T031247Z">
@@ -10799,6 +10807,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T153809Z">
         <seg>代码由以下人员贡献：
 Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, Alex Buloichik (lead developer), Thomas Cordonnier, Sandra Jean Chua, Martin Fleurke, Wildrich Fourie, Phillip Hall, Jean-Christophe Helary, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Martin Wunderlich and Michael Zakharov</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Colours</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="apple" changedate="20180415T091016Z" creationid="apple" creationdate="20180415T091016Z">
+        <seg>颜色</seg>
       </tuv>
     </tu>
     <tu>
@@ -48390,6 +48406,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T024022Z" creationid="xulihang" creationdate="20180404T024022Z">
         <seg>{0} 片段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0} toggles orientation between LTR, RTL, and language-dependent</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="apple" changedate="20180415T091322Z" creationid="apple" creationdate="20180415T091322Z">
+        <seg>{0} 在LTR、RTL和语言相关的方向上切换</seg>
       </tuv>
     </tu>
     <tu>
