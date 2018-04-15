@@ -24878,6 +24878,14 @@ translation leveraging into updated projects.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT is among the CAT tools for which this process can be used.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180415T140101Z" creationid="think" creationdate="20180415T140101Z">
+        <seg>OmegaT is among the CAT tools for which this process can be used.在众多CAT工具中，这一过程能在OmegaT中得到应用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT is an open-source application and project.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="18261" changedate="20180412T120340Z" creationid="18261" creationdate="20180412T120340Z">
