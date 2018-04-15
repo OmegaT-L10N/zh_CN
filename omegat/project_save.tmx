@@ -8266,16 +8266,16 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>Although Infix is a Windows application, Iceni has made efforts to cater for Linux and Macintosh users.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="think" changedate="20180415T234225Z" creationid="think" creationdate="20180415T231453Z">
-        <seg>虽然Infix是一个 Windows平台上的应用程序，但通过Iceni，它也已经能满足使用Linux和Macintosh平台的用户。</seg>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180415T235441Z" creationid="think" creationdate="20180415T231453Z">
+        <seg>虽然Infix是一个 Windows平台上的应用程序，但借助Iceni，它也已经能满足使用Linux和Macintosh平台的用户。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Although it is debatable whether the results of this procedure will be comparable to re-layouting of the translation by a DTP professional, they are likely to be much better than conversion to completely different formats (such as RTF).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="think" changedate="20180415T234504Z" creationid="think" creationdate="20180415T131808Z">
-        <seg>虽然对于这一过程是否能和在DTP中二次导出PDF格式的译文相媲美，结论仍有争议，但它应该能比直接转换为RTF等完全不同的格式文件要好得多。</seg>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180415T235712Z" creationid="think" creationdate="20180415T131808Z">
+        <seg>至于Infix的转换结果是否能和在DTP中二次导出PDF格式的译文相媲美，虽然结论仍有争议，但它应该能比直接转换为RTF等完全不同的格式文件要好得多。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35403,8 +35403,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>The procedure is described in this HowTo.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="think" changedate="20180415T234138Z" creationid="think" creationdate="20180415T144813Z">
-        <seg>该操作将介绍这一过程。</seg>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180415T235353Z" creationid="think" creationdate="20180415T144813Z">
+        <seg>本操作将介绍这一过程。</seg>
       </tuv>
     </tu>
     <tu>
