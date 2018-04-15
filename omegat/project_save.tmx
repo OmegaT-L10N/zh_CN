@@ -15986,6 +15986,22 @@ script provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>From 100% memory</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="apple" changedate="20180415T080840Z" creationid="apple" creationdate="20180415T080840Z">
+        <seg>100%保留</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>From ICE memory</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="apple" changedate="20180415T080446Z" creationid="apple" creationdate="20180415T080446Z">
+        <seg>来自ICE翻译记忆</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>From a practical point of view, the most important pair of numbers is the second pair: it tells, how much you have done so far, in relation to the total or second number.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120218T122229Z">
