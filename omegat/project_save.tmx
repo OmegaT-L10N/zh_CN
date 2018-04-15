@@ -24283,6 +24283,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Notify Me When a Segment Has "{0}"</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="apple" changedate="20180415T100311Z" creationid="apple" creationdate="20180415T100311Z">
+        <seg>有片段出现时通知我 "{0}"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Notify Me When a Segment Has Multiple Translations</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T114458Z" creationid="Administrator" creationdate="20180411T114458Z">
@@ -38597,6 +38605,14 @@ install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Translation is fuzzy</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="apple" changedate="20180415T100526Z" creationid="apple" creationdate="20180415T100526Z">
+        <seg>模糊翻译</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translation last modified by {0} on {1} at {2}</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T055224Z">
@@ -40188,6 +40204,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="18261" changedate="20180412T095001Z" creationid="18261" creationdate="20180412T095001Z">
         <seg>Valter Mura -英文译者  &gt; IT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Value</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="apple" changedate="20180415T100416Z" creationid="apple" creationdate="20180415T100416Z">
+        <seg>值</seg>
       </tuv>
     </tu>
     <tu>
