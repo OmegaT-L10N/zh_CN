@@ -33885,6 +33885,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The first (with the cd command) is needed if your launch script is not in the same folder as OmegaT.jar.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180415T045837Z" creationid="lenovo" creationdate="20180415T045837Z">
+        <seg>如果启动脚本与OmegaT.jar不在同一文件夹中，则需要使用OmegaT.jar的路径（以及cd命令）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The first example below has 3 tag groups (a pair, a single, and then another pair), the second example has one group only (a pair).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120203T121247Z">
