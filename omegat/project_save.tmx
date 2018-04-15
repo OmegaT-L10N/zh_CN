@@ -12383,6 +12383,30 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Delete any launch scripts and remove any custom entries for OmegaT in your desktop.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180415T142410Z" creationid="lenovo" creationdate="20180415T142204Z">
+        <seg>删除所有启动脚本并删除桌面上所有OmegaT的自定义条目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Delete the OmegaT program folder.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180415T131839Z" creationid="lenovo" creationdate="20180415T131839Z">
+        <seg>删除OmegaT 项目文件夹.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Delete the folder /home/&lt;user&gt;/.omegat of any user account from which OmegaT has been launched.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180415T142335Z" creationid="lenovo" creationdate="20180415T132029Z">
+        <seg>删除OmegaT建立的所有用户帐户的文件夹：/home/&lt;user&gt;/.omegat。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Delete*</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120203T124017Z">
@@ -36710,6 +36734,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This can easily be restored again in the future.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180415T142330Z" creationid="lenovo" creationdate="20180415T131930Z">
+        <seg>项目文件夹可以在您未来继续使用时重新恢复。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This can sometimes cause a little trouble when you are in the middle of a translation.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
@@ -37542,6 +37574,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This will result in deletion of any user configuration settings that have been made (such as changes to the segmentation rules), and – if the folder is deleted "properly", i.e. not simply moved to trash, cannot be restored.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180415T142107Z" creationid="lenovo" creationdate="20180415T142107Z">
+        <seg>这将会删除所有已创建的用户设置（例如对分段规则的更改），并且如果文件夹被正确删除（不是仅仅移动到回收站）则无法恢复。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This, however, should generally be avoided once you have started translating the project.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120219T124136Z">
@@ -38052,6 +38092,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="17012" changedate="20180405T112925Z" creationid="17012" creationdate="20180405T112925Z">
         <seg>为了记住项目的初始设置，按下&lt;k0&gt;Ctrl+E&lt;/k0&gt;打开项目属性对话框。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To remove all traces of OmegaT from your system:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180415T131818Z" creationid="lenovo" creationdate="20180415T131818Z">
+        <seg>从系统中删除所有OmegaT的内容：</seg>
       </tuv>
     </tu>
     <tu>
@@ -39171,6 +39219,22 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="18261" changedate="20180412T082919Z" creationid="18261" creationdate="20180412T082919Z">
         <seg>支持Unicode (UTF-8)：可使用非拉丁字母</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Uninstalling OmegaT</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180415T131613Z" creationid="lenovo" creationdate="20180415T131613Z">
+        <seg>卸载OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Uninstalling OmegaT will not remove any OmegaT projects from your system, unless you have placed such projects within the OmegaT program or configuration files folder(s), which is not a good location for them in any case.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180415T142648Z" creationid="lenovo" creationdate="20180415T142648Z">
+        <seg>卸载OmegaT不会从您的系统中删除任何OmegaT项目，除非您将这些项目放入了OmegaT程序或配置文件的文件夹中，最好不要将这些文件放在这些位置。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41065,6 +41129,14 @@ trouble of selecting, obtaining and installing it.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T134346Z" creationid="Zoe" creationdate="20180411T132133Z">
         <seg>有些情况，两个片段也会拥有相同的前后片段，（例如，当一整页内容在一篇文章中出现两次），在OmegaT中这两页无法被译成不同的版本，即无法为其中一页设置“可选译文”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Whether anti-aliasing is enabled (this is a command-line launch option, but you can also set it in the kaptain launch script)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180415T131606Z" creationid="lenovo" creationdate="20180415T131606Z">
+        <seg>是否启用了抗锯齿功能（这是一个命令行启动选项，但您也可以在kaptain启动脚本中进行设置）</seg>
       </tuv>
     </tu>
     <tu>
