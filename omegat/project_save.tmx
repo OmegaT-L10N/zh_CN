@@ -11511,6 +11511,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Copyright Marc Prior 2010-2012</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180415T142711Z" creationid="lenovo" creationdate="20180415T142711Z">
+        <seg>版权归属于Marc Prior 2010-2011</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Copyright Marc Prior 2014</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T134448Z" creationid="Zoe" creationdate="20180411T134448Z">
@@ -38833,6 +38841,14 @@ install.sh.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T164306Z">
         <seg>译文：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translation: general remarks</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180415T142757Z" creationid="lenovo" creationdate="20180415T142757Z">
+        <seg>翻译：Translation: general remarks</seg>
       </tuv>
     </tu>
     <tu>
