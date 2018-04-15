@@ -8845,6 +8845,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As the program is intended for translators throughout the world and not just in English-speaking countries, it is appropriate that the documentation (and, if possible, the program itself) be available in other languages.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180415T143417Z" creationid="lenovo" creationdate="20180415T143417Z">
+        <seg>由于该计划旨在服务于全球的译员而非仅仅是英语国家的译员，因此文档（甚至程序本身）可以使用其他语言。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As this is the standard behavior for PO files, it is on by default.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120201T043941Z">
@@ -24902,6 +24910,14 @@ translation leveraging into updated projects.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT is a free, open-source translation memory program.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180415T143117Z" creationid="lenovo" creationdate="20180415T143117Z">
+        <seg>OmegaT是一款免费的开源翻译记忆程序。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT is able to recognize that you have done this.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120131T133131Z">
@@ -36110,6 +36126,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
         <seg>用户界面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The user interface and documentation were originally written in English.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180415T143146Z" creationid="lenovo" creationdate="20180415T143146Z">
+        <seg>其用户界面和文档最初是用英文书写的。</seg>
       </tuv>
     </tu>
     <tu>
