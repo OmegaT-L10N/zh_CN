@@ -37552,6 +37552,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To make launching OmegaT even more user-friendly, add it to your application launch menu, or place a launch icon for it on your desktop or in your desktop panel.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180415T053122Z" creationid="lenovo" creationdate="20180415T053122Z">
+        <seg>为了以更加用户友好的方式启动OmegaT，可以将其添加到您的应用程序启动菜单中，或者在桌面上启动图标。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To make this possible, go to &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Editing Behavior...&lt;/g2&gt; &lt;/m0&gt; and check the box &lt;e3&gt;Allow translation to be equal to source&lt;/e3&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
@@ -39498,6 +39506,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130504T160654Z">
         <seg>用户手册阅读器不支持对外部链接的导航。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>User-friendly launching of OmegaT</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180415T052756Z" creationid="lenovo" creationdate="20180415T052756Z">
+        <seg>通过用户友好方式运行OmegaT</seg>
       </tuv>
     </tu>
     <tu>
