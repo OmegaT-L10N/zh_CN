@@ -1778,10 +1778,26 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>* The Beginner's Tutorial&lt;br4/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180415T144213Z" creationid="lenovo" creationdate="20180415T144213Z">
+        <seg>* OmegaT初学者教程&lt;br4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>* The Instant Start guide (a short introduction to using OmegaT)&lt;br2/&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180415T144010Z" creationid="lenovo" creationdate="20180415T144010Z">
         <seg>*快速入门指南（对于使用OmegaT的简短介绍）&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* The OmegaT web pages (probably where you are reading this)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180415T144236Z" creationid="lenovo" creationdate="20180415T144236Z">
+        <seg>* OmegaT网页（可能包括你正在阅读的地方）</seg>
       </tuv>
     </tu>
     <tu>
@@ -19285,6 +19301,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120211T135600Z">
         <seg>特别是当您在不同的语系/书写系统间进行翻译（例如俄语和日语），请选择一种适用于两者的字体。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In particular, the main user manual is likely to take around two weeks to translate, and several translators may wish to share the work.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180415T144443Z" creationid="lenovo" creationdate="20180415T144443Z">
+        <seg>特别要注意的是，主要的用户手册可能需要大约两周的时间来翻译，并且可能会有几位译员希望共同参与这项工作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38951,8 +38975,8 @@ install.sh.</seg>
       <tuv lang="EN">
         <seg>Translation: general remarks</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180415T142955Z" creationid="lenovo" creationdate="20180415T142757Z">
-        <seg>翻译：通用注解</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180415T144157Z" creationid="lenovo" creationdate="20180415T142757Z">
+        <seg>翻译：一般性注解</seg>
       </tuv>
     </tu>
     <tu>
@@ -38961,6 +38985,14 @@ install.sh.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T170235Z">
         <seg>译者注释：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translators are free to tackle as much or as little of the work as they wish.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180415T144326Z" creationid="lenovo" creationdate="20180415T144326Z">
+        <seg>翻译者可以自行决定他们的工作量。</seg>
       </tuv>
     </tu>
     <tu>
