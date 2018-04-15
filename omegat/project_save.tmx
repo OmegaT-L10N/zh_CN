@@ -13480,10 +13480,34 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Drop TMX files here to add them to the project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="apple" changedate="20180415T092039Z" creationid="apple" creationdate="20180415T092039Z">
+        <seg>在此处放置TMX文件以将它们添加到项目里。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Drop a project here to open it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="apple" changedate="20180415T092245Z" creationid="apple" creationdate="20180415T092245Z">
+        <seg>在此处放置一个项目来打开它。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Drop files here to add them to the project.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="apple" changedate="20180415T091846Z" creationid="apple" creationdate="20180415T091643Z">
         <seg>在此处放置文件以将它们添加到项目中。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Drop glossary files here to add them to the project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="apple" changedate="20180415T091942Z" creationid="apple" creationdate="20180415T091942Z">
+        <seg>在此处放置术语表文件以将它们添加到项目里。</seg>
       </tuv>
     </tu>
     <tu>
