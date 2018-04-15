@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>"We" refers below to the OmegaT project team.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180415T143035Z" creationid="lenovo" creationdate="20180415T143035Z">
+        <seg>“我们”指的是OmegaT项目团队。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>"XX" in the command stands for the two-digit code of the desired language.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
@@ -33538,6 +33546,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The OmegaT project team is not a company or formal legal body, just a group of volunteers involved in the OmegaT project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180415T143101Z" creationid="lenovo" creationdate="20180415T143101Z">
+        <seg>OmegaT项目团队不是一个公司或正式的法人机构，只是一群参与OmegaT项目的志愿者。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The OmegaT project would benefit from greater support from volunteers in almost all areas.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="18261" changedate="20180412T101811Z" creationid="18261" creationdate="20180412T101811Z">
@@ -38847,8 +38863,8 @@ install.sh.</seg>
       <tuv lang="EN">
         <seg>Translation: general remarks</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180415T142757Z" creationid="lenovo" creationdate="20180415T142757Z">
-        <seg>翻译：Translation: general remarks</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180415T142955Z" creationid="lenovo" creationdate="20180415T142757Z">
+        <seg>翻译：通用注解</seg>
       </tuv>
     </tu>
     <tu>
