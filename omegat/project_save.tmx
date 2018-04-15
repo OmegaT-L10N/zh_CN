@@ -26812,6 +26812,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Platforms</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180415T144826Z" creationid="think" creationdate="20180415T144826Z">
+        <seg>Platforms平台</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Playlist of OmegaT videos</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T145908Z" creationid="cpeishan" creationdate="20180407T145908Z">
@@ -35365,6 +35373,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T104814Z" creationid="cpeishan" creationdate="20180407T104814Z">
         <seg>该项目的主要成员是：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The procedure is described in this HowTo.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180415T144813Z" creationid="think" creationdate="20180415T144813Z">
+        <seg>The procedure is described in this HowTo.该操作将介绍这一过程。</seg>
       </tuv>
     </tu>
     <tu>
