@@ -35961,6 +35961,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The translated text can then be re-imported into Infix Professional.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180415T135805Z" creationid="think" creationdate="20180415T135805Z">
+        <seg>The translated text can then be re-imported into Infix Professional.之后已译文本能被再导入为专业版的插入词。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The translation has changed.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130504T152954Z">
