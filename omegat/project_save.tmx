@@ -8645,6 +8645,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As already mentioned, a bash launch script is provided with OmegaT.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180415T051834Z" creationid="lenovo" creationdate="20180415T051834Z">
+        <seg>如前所述，OmegaT提供了一个bash启动脚本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As elsewhere in the OmegaT project, the work of programming OmegaT is done by volunteers, and in keeping with the project philosophy, the developments and improvements they make to OmegaT are ultimately at their discretion.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="18261" changedate="20180412T130151Z" creationid="18261" creationdate="20180412T130151Z">
