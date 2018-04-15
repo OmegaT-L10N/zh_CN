@@ -20901,10 +20901,26 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Keep Mine</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="apple" changedate="20180415T095842Z" creationid="apple" creationdate="20180415T095842Z">
+        <seg>保留我的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Keep None</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T063556Z" creationid="Administrator" creationdate="20180412T063234Z">
         <seg>不保留</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Keep Other</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="apple" changedate="20180415T095857Z" creationid="apple" creationdate="20180415T095857Z">
+        <seg>保留其它</seg>
       </tuv>
     </tu>
     <tu>
@@ -30116,6 +30132,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Segment Properties</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="apple" changedate="20180415T100007Z" creationid="apple" creationdate="20180415T100007Z">
+        <seg>片段属性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Segment encountered outside translation unit variant.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="flycr" changedate="20180408T095707Z">
@@ -30920,6 +30944,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T132826Z" creationid="Administrator" creationdate="20180411T132826Z">
         <seg>显示查找搜索栏</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Show Raw Key Names</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="apple" changedate="20180415T100143Z" creationid="apple" creationdate="20180415T100143Z">
+        <seg>显示原始密钥名</seg>
       </tuv>
     </tu>
     <tu>
@@ -32322,6 +32354,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T134341Z">
         <seg>标签</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Table View</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="apple" changedate="20180415T100040Z" creationid="apple" creationdate="20180415T100040Z">
+        <seg>表格视图</seg>
       </tuv>
     </tu>
     <tu>
