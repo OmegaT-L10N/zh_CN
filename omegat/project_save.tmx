@@ -33105,6 +33105,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The "Professional" version of Infix has a further function of interest to translators: XML text export.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180415T135151Z" creationid="think" creationdate="20180415T135151Z">
+        <seg>The "Professional" version of Infix has a further function of interest to translators: XML text export.对译者而言，“专业”版本的插入词有一个更深入的功能：XML文本输出。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The "Shift" key doesn't exhibit any special behavior per se: when the "Shift" key is pressed, all keys move the cursor in their usual manner, except in the case of the &lt;l0&gt;Shift+Enter&lt;/l0&gt; combination, that inserts a line break into the text.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131107T141949Z" creationid="Fu Rhong" creationdate="20131102T030628Z">
