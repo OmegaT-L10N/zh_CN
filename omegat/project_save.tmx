@@ -26691,6 +26691,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please restart the application to correctly display the new colours.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="apple" changedate="20180415T091002Z" creationid="apple" creationdate="20180415T091002Z">
+        <seg>请重新启用应用程序以正确显示设定颜色.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please select a dictionary file folder first</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T164601Z">
