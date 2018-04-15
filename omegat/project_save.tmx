@@ -8264,6 +8264,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Although Infix is a Windows application, Iceni has made efforts to cater for Linux and Macintosh users.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180415T231453Z" creationid="think" creationdate="20180415T231453Z">
+        <seg>Although Infix is a Windows application, Iceni has made efforts to cater for Linux and Macintosh users.虽然Infix是一个 Windows平台上的应用程序，但通过Iceni，它也已经能满足使用Linux和Macintosh平台的用户。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Although it is debatable whether the results of this procedure will be comparable to re-layouting of the translation by a DTP professional, they are likely to be much better than conversion to completely different formats (such as RTF).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="think" changedate="20180415T131808Z" creationid="think" creationdate="20180415T131808Z">
