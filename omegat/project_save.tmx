@@ -15994,6 +15994,14 @@ script provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>From memory</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="apple" changedate="20180415T080421Z" creationid="apple" creationdate="20180415T080421Z">
+        <seg>来自翻译记忆</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>From the YouTube OmegaT series by Miguel Navarro (in Spanish).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T150445Z" creationid="cpeishan" creationdate="20180407T150445Z">
