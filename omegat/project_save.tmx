@@ -35049,6 +35049,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The second is needed if the Java version you wish to use is not the default installation at system level.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180415T050824Z" creationid="lenovo" creationdate="20180415T050824Z">
+        <seg>如果您希望使用的Java版本不是系统默认的安装版本，则需要使用java命令的 路径。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The second of these chapters describes the various subfolders and files in a translation project and their role as well as other user and application files associated with OmegaT.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yujun Yin" changedate="20131007T081529Z" creationid="Yujun Yin" creationdate="20131007T081421Z">
