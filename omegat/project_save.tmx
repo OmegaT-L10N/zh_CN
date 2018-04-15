@@ -7888,6 +7888,22 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Aligner Highlight</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="apple" changedate="20180415T085947Z" creationid="apple" creationdate="20180415T085947Z">
+        <seg>Aligner 高亮</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Aligner Table Row Highlight</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="apple" changedate="20180415T090237Z" creationid="apple" creationdate="20180415T090237Z">
+        <seg>Aligner 表行高亮</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T082125Z" creationid="Administrator" creationdate="20180412T082125Z">
@@ -20497,6 +20513,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T101206Z" creationid="Administrator" creationdate="20180412T101206Z">
         <seg>项目名称为空或缺失</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Item:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="apple" changedate="20180415T090245Z" creationid="apple" creationdate="20180415T090245Z">
+        <seg>项目</seg>
       </tuv>
     </tu>
     <tu>
