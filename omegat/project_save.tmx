@@ -34721,6 +34721,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The possibilities are numerous, and the procedures for implementing them no less numerous, owing to the plethora of distributions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180415T053443Z" creationid="lenovo" creationdate="20180415T053443Z">
+        <seg>可用的方式很多，并且由于分布不同，实施这些方法的步骤也很多。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The possible keyevents (keys) are listed in the following Java 1.6 documentation from Oracle: &lt;u0&gt;Java 1.6 keyEvents description&lt;/u0&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T115716Z">
@@ -37554,8 +37562,8 @@ the server.</seg>
       <tuv lang="EN">
         <seg>To make launching OmegaT even more user-friendly, add it to your application launch menu, or place a launch icon for it on your desktop or in your desktop panel.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180415T053122Z" creationid="lenovo" creationdate="20180415T053122Z">
-        <seg>为了以更加用户友好的方式启动OmegaT，可以将其添加到您的应用程序启动菜单中，或者在桌面上启动图标。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180415T053147Z" creationid="lenovo" creationdate="20180415T053122Z">
+        <seg>为了以更加用户友好的方式启动OmegaT，可以将其添加到您的应用程序启动菜单中或者在桌面上设置启动图标。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39512,8 +39520,8 @@ searchable without subscription:</seg>
       <tuv lang="EN">
         <seg>User-friendly launching of OmegaT</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180415T052756Z" creationid="lenovo" creationdate="20180415T052756Z">
-        <seg>通过用户友好方式运行OmegaT</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180415T053132Z" creationid="lenovo" creationdate="20180415T052756Z">
+        <seg>通过用户友好方式启动OmegaT</seg>
       </tuv>
     </tu>
     <tu>
