@@ -33370,6 +33370,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Java version used (the same font may appear quite different on Sun and OpenJDK versions of Java)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180415T130501Z" creationid="lenovo" creationdate="20180415T130501Z">
+        <seg>所使用的Java版本（在Java的Sun和OpenJDK版本上，相同的字体可能显示的样式不同）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The KMenuEditor appears.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120206T121721Z">
