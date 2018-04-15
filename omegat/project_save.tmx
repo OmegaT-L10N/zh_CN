@@ -4049,8 +4049,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;html&gt;&lt;i&gt;Preferences&lt;/i&gt; &amp;gt; &lt;i&gt;General&lt;/i&gt; &amp;gt; &lt;i&gt;Use TAB to Advance&lt;/i&gt; is checked&lt;/html&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="apple" changedate="20180415T091546Z" creationid="apple" creationdate="20180415T091145Z">
-        <seg>&lt;html&gt;&lt;i&gt;参数选择&lt;/i&gt; &amp;gt; &lt;i&gt;通常&lt;/i&gt; &amp;gt; &lt;i&gt;用 TAB 快进&lt;/i&gt; 被检查&lt;/html&gt;&lt;</seg>
+      <tuv lang="ZH-CN" changeid="apple" changedate="20180415T101546Z" creationid="apple" creationdate="20180415T091145Z">
+        <seg>&lt;html&gt;&lt;i&gt;参数选择&lt;/i&gt; &amp;gt; &lt;i&gt;通常&lt;/i&gt; &amp;gt; &lt;i&gt;用 TAB 快进&lt;/i&gt; 检查&lt;/html&gt;&lt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8421,8 +8421,8 @@ The TMX file will not be loaded.</seg>
       <tuv lang="EN">
         <seg>An item named "{0}" already exists in this location.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="apple" changedate="20180415T092308Z" creationid="apple" creationdate="20180415T092308Z">
-        <seg>名为"{0}" 已经存在。</seg>
+      <tuv lang="ZH-CN" changeid="apple" changedate="20180415T101451Z" creationid="apple" creationdate="20180415T092308Z">
+        <seg>名为"{0}" 的项目已经存在。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13522,32 +13522,32 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Drop TMX files here to add them to the project.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="apple" changedate="20180415T092039Z" creationid="apple" creationdate="20180415T092039Z">
-        <seg>在此处放置TMX文件以将它们添加到项目里。</seg>
+      <tuv lang="ZH-CN" changeid="apple" changedate="20180415T101507Z" creationid="apple" creationdate="20180415T092039Z">
+        <seg>在此处放置TMX文件将它们添加到项目里。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Drop a project here to open it.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="apple" changedate="20180415T092245Z" creationid="apple" creationdate="20180415T092245Z">
-        <seg>在此处放置一个项目来打开它。</seg>
+      <tuv lang="ZH-CN" changeid="apple" changedate="20180415T101501Z" creationid="apple" creationdate="20180415T092245Z">
+        <seg>在此处放置一个项目打开它。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Drop files here to add them to the project.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="apple" changedate="20180415T091846Z" creationid="apple" creationdate="20180415T091643Z">
-        <seg>在此处放置文件以将它们添加到项目中。.</seg>
+      <tuv lang="ZH-CN" changeid="apple" changedate="20180415T101522Z" creationid="apple" creationdate="20180415T091643Z">
+        <seg>在此处放置文件将它们添加到项目中。.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Drop glossary files here to add them to the project.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="apple" changedate="20180415T091942Z" creationid="apple" creationdate="20180415T091942Z">
-        <seg>在此处放置术语表文件以将它们添加到项目里。</seg>
+      <tuv lang="ZH-CN" changeid="apple" changedate="20180415T101515Z" creationid="apple" creationdate="20180415T091942Z">
+        <seg>在此处放置术语表文件将它们添加到项目里。</seg>
       </tuv>
     </tu>
     <tu>
