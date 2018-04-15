@@ -8208,6 +8208,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Although it is debatable whether the results of this procedure will be comparable to re-layouting of the translation by a DTP professional, they are likely to be much better than conversion to completely different formats (such as RTF).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180415T131808Z" creationid="think" creationdate="20180415T131808Z">
+        <seg>Although it is debatable whether the results of this procedure will be comparable to re-layouting of the translation by a DTP professional, they are likely to be much better than conversion to completely different formats (such as RTF).这一过程的结果是否能和由专业桌面出版人员对翻译的重新布局相媲美，虽然结论仍有争议，但它们更有可能比转换为RTF等完全不同的格式要好得多。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Although many users are aware of this, their reaction is often "But I can't program!".</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="18261" changedate="20180412T101956Z" creationid="18261" creationdate="20180412T101956Z">
