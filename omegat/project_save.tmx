@@ -9614,6 +9614,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By default, the bash launch script is executable, but your system may change its permissions (e.g. during unpacking of the archive) and you may have to make it executable again.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180415T052658Z" creationid="lenovo" creationdate="20180415T052658Z">
+        <seg>默认情况下，bash启动脚本是可执行的，但是您的系统可能会更改其权限（例如在解压缩存档时），您可能需要再次更改权限使其可执行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By default, the translated file encoding is the same as the source file encoding.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120201T112737Z">
