@@ -1778,6 +1778,38 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>* The Instant Start guide (a short introduction to using OmegaT)&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180415T144010Z" creationid="lenovo" creationdate="20180415T144010Z">
+        <seg>*快速入门指南（对于使用OmegaT的简短介绍）&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* The readme file (a document that contains general information about OmegaT)&lt;br3/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180415T144115Z" creationid="lenovo" creationdate="20180415T144115Z">
+        <seg>*readme文件（有关OmegaT的一般性信息的文档）&lt;br3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* The user interface (menus etc.)&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180415T143846Z" creationid="lenovo" creationdate="20180415T143846Z">
+        <seg>*用户界面（菜单等）&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>* The user manual (very comprehensive)&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180415T143924Z" creationid="lenovo" creationdate="20180415T143924Z">
+        <seg>*非常详细的用户手册&lt;br1/&gt;&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>* These keys behave differently when the cursor is outside the editable segment:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120130T053540Z">
@@ -8945,6 +8977,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120202T114540Z">
         <seg>在写此文档时，OmegaT 支持以下格式化的文本格式：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>At the time of writing, the material to be translated comprises:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180415T143744Z" creationid="lenovo" creationdate="20180415T143744Z">
+        <seg>在撰写本文时，要翻译的材料包括：</seg>
       </tuv>
     </tu>
     <tu>
