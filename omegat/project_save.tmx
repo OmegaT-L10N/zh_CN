@@ -30124,6 +30124,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select TaaS domain</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="apple" changedate="20180415T075442Z" creationid="apple" creationdate="20180415T075442Z">
+        <seg>选择TaaS领域</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select a Category</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T095923Z" creationid="Administrator" creationdate="20180412T095923Z">
