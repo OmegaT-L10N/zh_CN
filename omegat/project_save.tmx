@@ -366,6 +366,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Apply to all</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="apple" changedate="20180415T092459Z" creationid="apple" creationdate="20180415T092459Z">
+        <seg>&amp;适用全部</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Auto-propagation of Translations</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130509T153829Z">
@@ -8395,6 +8403,14 @@ The TMX file will not be loaded.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An item named "{0}" already exists in this location.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="apple" changedate="20180415T092308Z" creationid="apple" creationdate="20180415T092308Z">
+        <seg>名为"{0}" 已经存在。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An item of the name "{0}" already exists at this location.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T071518Z" creationid="Administrator" creationdate="20180412T071518Z">
@@ -13124,6 +13140,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T081033Z" creationid="Administrator" creationdate="20180412T081033Z">
         <seg>你想要重写它吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Do you want to replace it with the one you're moving?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="apple" changedate="20180415T092358Z" creationid="apple" creationdate="20180415T092358Z">
+        <seg>你想要以现在移动的替换它吗？</seg>
       </tuv>
     </tu>
     <tu>
