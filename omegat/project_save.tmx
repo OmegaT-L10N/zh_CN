@@ -1190,6 +1190,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Reset This Colour</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="apple" changedate="20180415T090331Z" creationid="apple" creationdate="20180415T090331Z">
+        <seg>&amp;重置颜色</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Restore Main Window</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130505T162912Z">
@@ -8623,6 +8631,14 @@ The TMX file will not be loaded.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T155811Z">
         <seg>你确认要删除第 {0} 个分段规则集合吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Are you sure you want to reset all custom colours?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="apple" changedate="20180415T090517Z" creationid="apple" creationdate="20180415T090517Z">
+        <seg>你确定要重置所有自定义颜色吗？</seg>
       </tuv>
     </tu>
     <tu>
@@ -28762,6 +28778,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Reset &amp;All Colours</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="apple" changedate="20180415T090351Z" creationid="apple" creationdate="20180415T090351Z">
+        <seg>重置 &amp;所有颜色</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Reset Master Password</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T100711Z" creationid="Administrator" creationdate="20180412T100711Z">
@@ -34717,6 +34741,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T142704Z" creationid="Zoe" creationdate="20180411T142704Z">
         <seg>文件的名称必须与项目属性对话框（项目&gt;属性）中定义的目标语言代码一致。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The new colours have been saved.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="apple" changedate="20180415T090555Z" creationid="apple" creationdate="20180415T090555Z">
+        <seg>已保存新设置颜色</seg>
       </tuv>
     </tu>
     <tu>
