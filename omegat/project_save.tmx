@@ -17742,6 +17742,14 @@ script provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If Java is already installed on your system (which is probably the case) and you plan to use this existing, system-wide Java installation in conjunction with OmegaT, first check that it is suitable.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T071055Z" creationid="think" creationdate="20180416T071055Z">
+        <seg>如果您的系统已经安装了Java（很可能如本案例所示），并且您准备使用该现有的全系统Java安装来与OmegaT协同，那么需要首先检查其是否适合。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If Java is installed at system level and is in the command path, the full path
 need not be entered.)</seg>
       </tuv>
