@@ -19722,6 +19722,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In these cases, it is practical to remove them before exporting the file to XML, so that you are presented with cohesive segments for translation, and then to re-insert them in Infix at the end of the process.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T070115Z" creationid="think" creationdate="20180416T070115Z">
+        <seg>这种情况下，在导出文件为XML格式之前就删除它们会更实用。这样您可以获得结合紧密的翻译片段，然后将它们最终重新插入到Infix里。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In this case pay extra attention to tag pairs since deleting one side of the pair but forgetting to delete the other is guaranteed to corrupt your document's formatting.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120205T121633Z">
@@ -31696,6 +31704,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T081611Z" creationid="Administrator" creationdate="20180412T081611Z">
         <seg>部分对齐仍需校对。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Some inconvenient line breaks may be required for correct positioning of the text.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T065544Z" creationid="think" creationdate="20180416T065544Z">
+        <seg>一些不方便的换行符也许有助于正确地定位文本。</seg>
       </tuv>
     </tu>
     <tu>
