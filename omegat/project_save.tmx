@@ -1745,6 +1745,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(Since this is now the standard format, it is simply described as Word, Excel or Powerpoint in MS Office 2007).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liufang" changedate="20180416T122923Z" creationid="liufang" creationdate="20180416T122923Z">
+        <seg>（由于这是标准格式，因此在MS Office 2007中简单描述为Word，Excel或Powerpoint）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(Software that does this is called "machine translation", and you will have to look elsewhere for it.)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="10353" changedate="20180414T110842Z" creationid="10353" creationdate="20180414T110842Z">
@@ -1765,6 +1773,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T033741Z">
         <seg>（“唯一” 的判断方法是区分大小写的："Run" 和 "run" 被看作是不同的片段）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(The greater ease of tag handling with .docx files comes at the cost of a slight loss in control over formatting.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liufang" changedate="20180416T123100Z" creationid="liufang" creationdate="20180416T123100Z">
+        <seg>（使用.docx文件进行标签处理的难度越来越大，这是以格式化控制方面的轻微损失为代价的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9357,6 +9373,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As customers/authors upgrade Microsoft Office/Word to more recent versions, translators can expect to receive files increasingly in the new format.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liufang" changedate="20180416T122806Z" creationid="liufang" creationdate="20180416T122806Z">
+        <seg>随着客户/作者将Microsoft Office / Word升级到更新版本，翻译人员可能希望以新格式越来越多地接收文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As elsewhere in the OmegaT project, the work of programming OmegaT is done by volunteers, and in keeping with the project philosophy, the developments and improvements they make to OmegaT are ultimately at their discretion.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="18261" changedate="20180412T130151Z" creationid="18261" creationdate="20180412T130151Z">
@@ -9417,6 +9441,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Zoe" changedate="20180412T152121Z" creationid="Zoe" creationdate="20180412T152057Z">
         <seg>正如其文件名所示，此脚本会将OmegaT（目标）片段中的标签自动去除。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As of version 2.1.8, by default, these multiple tags are now aggregated (condensed) into a single tag.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liufang" changedate="20180416T123034Z" creationid="liufang" creationdate="20180416T123034Z">
+        <seg>从版本2.1.8开始，默认情况下，这些多个标签现在被汇总（压缩）成一个标签。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12161,6 +12193,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T121047Z" creationid="lenovo" creationdate="20180416T121047Z">
         <seg>将文件从RTF转换为OpenOffice.org格式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Converting to MS Office 2007 format</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liufang" changedate="20180416T122859Z" creationid="liufang" creationdate="20180416T122859Z">
+        <seg>转换为MS Office 2007格式</seg>
       </tuv>
     </tu>
     <tu>
@@ -17089,6 +17129,14 @@ script provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For users who do not have MS Office 2007 or 2010 and do not wish to buy it, Microsoft provides a &lt;a0&gt;compatibility plug-in&lt;/a0&gt; for earlier versions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liufang" changedate="20180416T122935Z" creationid="liufang" creationdate="20180416T122935Z">
+        <seg>对于没有MS Office 2007或2010并且不想购买的用户，Microsoft为早期版本提供&lt;a0&gt;兼容性插件&lt;/ a0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For your reference, OmegaT displays the translation of any word that is both present in the segment and registered in the glossary.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021004Z" creationid="Yujun Yin" creationdate="20131007T074923Z">
@@ -20192,6 +20240,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In OmegaT versions prior to 2.1.8, each formatting change in an MS Office 2007 file resulted in a long series of multiple tags, which often made handling this file format impractical.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liufang" changedate="20180416T123019Z" creationid="liufang" creationdate="20180416T123019Z">
+        <seg>在2.1.8之前的OmegaT版本中，MS Office 2007文件中的每个格式更改都会导致一连串多个标签，这通常会导致处理此文件格式不切实际。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In OmegaT, segments can be based on paragraphs or on segmentation rules.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yujun Yin" changedate="20131007T083014Z" creationid="Yujun Yin" creationdate="20131007T083014Z">
@@ -23251,6 +23307,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Puzzlist" changedate="20130922T041429Z" creationid="Puzzlist" creationdate="20130922T041429Z">
         <seg>Linux 用户</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Linux users: both MS Office 2007 and the Microsoft compatibility plug-in run on &lt;a0&gt;Crossover Linux.&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liufang" changedate="20180416T122952Z" creationid="liufang" creationdate="20180416T122952Z">
+        <seg>Linux用户：MS Office 2007和Microsoft兼容插件均在&lt;a0&gt; Crossover Linux上运行。&lt;/ a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -28824,6 +28888,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T131446Z" creationid="Zoe" creationdate="20180411T131446Z">
         <seg>指向说明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Points to note when using the .docx, .xlsx and .pptx formats in OmegaT</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liufang" changedate="20180416T123003Z" creationid="liufang" creationdate="20180416T123003Z">
+        <seg>在OmegaT中使用.docx，.xlsx和.pptx格式时需要注意的事项</seg>
       </tuv>
     </tu>
     <tu>
@@ -37233,6 +37305,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The new format can also serve as a useful way of handling the legacy .doc, .xls and .ppt formats, since they can be converted to their MS Office 2007 counterparts, translated in OmegaT, and converted back again.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liufang" changedate="20180416T122830Z" creationid="liufang" creationdate="20180416T122830Z">
+        <seg>新格式还可以作为处理旧版.doc，.xls和.ppt格式的有用方式，因为它们可以转换为其MS Office 2007对应版本，在OmegaT中翻译并再次转换。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The new set of rules will be stored together with the project and will not interfere with the general set of segmentation rules.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131118T113108Z" creationid="Fu Rhong" creationdate="20131118T113108Z">
@@ -39918,6 +39998,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This procedure is therefore an alternative for translators who would prefer not to use OpenOffice.org for this purpose.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liufang" changedate="20180416T122841Z" creationid="liufang" creationdate="20180416T122841Z">
+        <seg>因此，对于不希望为此使用OpenOffice.org的翻译人员而言，此过程是一种选择。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T153842Z">
@@ -42071,6 +42159,14 @@ Exact searches match the whole search string.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unlike the legacy .doc, .xls and .ppt formats, these files can be handled directly in OmegaT, with no loss of formatting as a result of conversion to and from other formats.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liufang" changedate="20180416T122819Z" creationid="liufang" creationdate="20180416T122819Z">
+        <seg>与传统的.doc，.xls和.ppt格式不同，这些文件可以直接在OmegaT中处理，而不会由于转换为其他格式而导致格式丢失。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unpack the &lt;e1&gt;OmegaT_3.n.n_Source.zip&lt;/e1&gt; file and enter the OmegaT_3.n.n_Source folder or enter the &lt;e2&gt;./omegat/&lt;/e2&gt; folder of the SVN checked out code.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T004251Z" creationid="Fu Rhong" creationdate="20131117T004251Z">
@@ -42794,6 +42890,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Puzzlist" changedate="20130922T042001Z" creationid="Puzzlist" creationdate="20130922T041957Z">
         <seg>用户将需要下载 IBM 的 JRE，因为 Sun 公司没有提供 PPC 系统的 JRE。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Users wishing to translate MS Office 2007 files should therefore upgrade to OmegaT version 2.1.8 or later.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liufang" changedate="20180416T123046Z" creationid="liufang" creationdate="20180416T123046Z">
+        <seg>因此，希望翻译MS Office 2007文件的用户应该升级到OmegaT 2.1.8或更高版本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44797,6 +44901,14 @@ from there.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120213T143637Z">
         <seg>可以通过在&lt;e1&gt;选项&lt;/e1&gt;菜单中选择&lt;e0&gt;文件过滤器&lt;/e0&gt;菜单项来检查是不是这样。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can convert MS Office 1997/2000/2003/XP files to MS Office 2007 format by opening them in MS Office 2007 and saving them with "Save As" in the new format.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liufang" changedate="20180416T122911Z" creationid="liufang" creationdate="20180416T122911Z">
+        <seg>您可以将MS Office 1997/2000/2003 / XP文件转换为MS Office 2007格式，方法是在MS Office 2007中打开它们，并以新格式保存为“另存为”。</seg>
       </tuv>
     </tu>
     <tu>
