@@ -7472,6 +7472,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A schematic diagram is shown below:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T090641Z" creationid="lenovo" creationdate="20180416T090641Z">
+        <seg>示意图如下：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A simple set of QA checks for current OmegaT project</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T112916Z" creationid="xulihang" creationdate="20180408T112916Z">
@@ -8780,6 +8788,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120215T123538Z">
         <seg>精确搜索查找某条短语，也就是说，如果输入了多个词汇，只有它们以相同顺序出现时才会被找出来。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An example script that achieves this function is described in the &lt;a0&gt;Priorview Howto&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T091251Z" creationid="lenovo" creationdate="20180416T091251Z">
+        <seg>&lt;a0&gt; Priorview Howto &lt;/ a0&gt;中描述了实现此功能的示例脚本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12083,6 +12099,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="ZH-CN" changeid="think" changedate="20180416T070232Z" creationid="think" creationdate="20180416T070232Z">
         <seg>版权归属于Marc Prior 2011</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copyright Marc Prior 2012</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T091424Z" creationid="lenovo" creationdate="20180416T091424Z">
+        <seg> 版权所有Marc Prior 2012</seg>
       </tuv>
     </tu>
     <tu>
@@ -29560,6 +29584,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remember that you will first have to save in OmegaT and produce the translated documents, then launch the conversion utility, then wait for the display to be updated in the browser.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T085540Z" creationid="lenovo" creationdate="20180416T085532Z">
+        <seg>请记住首先保存OmegaT并生成翻译后的文档，然后启动转换功能，等待显示器更新。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remember where you are creating the project, because you will need to return to it later.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T005342Z" creationid="Fu Rhong" creationdate="20131117T005342Z">
@@ -37831,6 +37863,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021248Z">
         <seg>当前片段中没有任何术语与术语表中的术语相匹配。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There are numerous ways of achiving this, but one practical solution is to use a script which "listens" for changes in the translated file(s) produced by OmegaT and then, when a change is detected, automatically launches the utility which converts the file(s) to html format in order for them to be read by the browser.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T090605Z" creationid="lenovo" creationdate="20180416T090605Z">
+        <seg>有很多方法可以解决这个问题，但一个实际的解决方案是使用一个脚本来“监听”由OmegaT生成的翻译文件的更改，当它检测到更改时自动启动转换功能将文件转换为html格式便于浏览器读取。</seg>
       </tuv>
     </tu>
     <tu>
