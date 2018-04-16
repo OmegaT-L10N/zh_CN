@@ -19014,6 +19014,14 @@ is to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If your file contains lots of such inconvenient breaks, it is more efficient to remove them all at once, toggling between OmegaT and Infix to see where they are.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T065358Z" creationid="think" creationdate="20180416T065358Z">
+        <seg>如果您的文件里含有大量此类不方便的中断，通过在OmegaT和Infix之间切换来找到它们的位置并一次性删除它们将会更加高效。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If your set of rules handles a language-country pair, we advise you to move it to the top using the &lt;e2&gt;Move Up&lt;/e2&gt; button.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120217T112629Z">
