@@ -8048,6 +8048,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All being well, your translation will come out looking like the original, but translated.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T025637Z" creationid="think" creationdate="20180416T025637Z">
+        <seg>如果一切顺利，您的翻译成果就会呈现出来。它看似没变，但其实已经译好。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All domains</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T025908Z" creationid="xulihang" creationdate="20180404T025657Z">
@@ -29830,6 +29838,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="think" changedate="20180416T020312Z" creationid="think" creationdate="20180416T020312Z">
         <seg>保存PDF。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Save the changes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T025137Z" creationid="think" creationdate="20180416T025137Z">
+        <seg>保存修改。</seg>
       </tuv>
     </tu>
     <tu>
