@@ -1916,8 +1916,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>- Access the above website and [Sign in] to Microsoft Azure Marketplace.&lt;br3/&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="anton" changedate="20180416T075409Z" creationid="anton" creationdate="20180416T075033Z">
-        <seg>访问上述网站并【登陆】到微软 Azure Marketplace账户&lt;br3/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="anton" changedate="20180416T080158Z" creationid="anton" creationdate="20180416T075033Z">
+        <seg>访问上述网站并“登陆”到微软 Azure Marketplace账户&lt;br3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1946,10 +1946,26 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- Click [DEVELOPERS] in the left "my account" menu.&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="anton" changedate="20180416T080317Z" creationid="anton" creationdate="20180416T080317Z">
+        <seg>-点击左侧”我的账户“菜单中“DEVELOPERS”选项.&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- Click [My Account] on the top of the page.&lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="anton" changedate="20180416T080139Z" creationid="anton" creationdate="20180416T080139Z">
         <seg>点击页面上方“我的账户”选项.&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- Click [REGISTER] shown below "Registered Applications."&lt;br6/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="anton" changedate="20180416T080402Z" creationid="anton" creationdate="20180416T080402Z">
+        <seg>-在下方”已注册应用“中点击”注册“&lt;br6/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2142,6 +2158,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130514T151943Z">
         <seg>- QuarkXPress CopyFlowGold (*.tag, *.xtg)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- Register an application with the following infomation:&lt;br7/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="anton" changedate="20180416T080440Z" creationid="anton" creationdate="20180416T080440Z">
+        <seg>-填写以下信息注册:&lt;br7/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -18992,8 +19016,8 @@ is to use Java Web Start.</seg>
       <tuv lang="EN">
         <seg>If you want to select Basic subscription (free, up to 2 million characters a month,) click [SIGN UP] at the top of the subscription list.&lt;br8/&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="anton" changedate="20180416T080053Z" creationid="anton" creationdate="20180416T080053Z">
-        <seg>如果您想选择基础订阅（免费，每月高达两百万字符），在订阅列表的顶部点击【注册】.&lt;br8/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="anton" changedate="20180416T080150Z" creationid="anton" creationdate="20180416T080053Z">
+        <seg>如果您想选择基础订阅（免费，每月高达两百万字符），在订阅列表的顶部点击“注册”.&lt;br8/&gt;</seg>
       </tuv>
     </tu>
     <tu>
