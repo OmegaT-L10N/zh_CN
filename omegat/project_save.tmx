@@ -1648,6 +1648,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(Download from the links provided; Linux users may prefer to install from their distribution's repositories, where this is possible)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T102755Z" creationid="lenovo" creationdate="20180416T102755Z">
+        <seg>（请点击链接下载； Linux用户在可能的情况下更倾向于从其发行版的存储库进行安装）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(If Options &gt; View &gt; "Include the first non-unique segment when marking non-unique segments" is selected, all non-unique segments including the first are marked in this way.)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T115234Z" creationid="Zoe" creationdate="20180411T114134Z">
@@ -3167,8 +3175,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;a0&gt;Firefox&lt;/a0&gt; together with the &lt;a1&gt;"ReloadEvery" add-on for Firefox&lt;/a1&gt;&lt;br2/&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T102410Z" creationid="lenovo" creationdate="20180416T102410Z">
-        <seg>&lt;a0&gt;Firefox&lt;/a0&gt;以及&lt;a1&gt;"ReloadEvery"插件x&lt;/a1&gt;&lt;br2/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T102505Z" creationid="lenovo" creationdate="20180416T102410Z">
+        <seg>&lt;a0&gt;Firefox&lt;/a0&gt;以及&lt;a1&gt;"ReloadEvery"插件&lt;/a1&gt;&lt;br2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -20836,8 +20844,8 @@ click on that shortcut.</seg>
       <tuv lang="EN">
         <seg>Install Firefox first (if you do not already have it installed), then ReloadEvery.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T102435Z" creationid="lenovo" creationdate="20180416T102435Z">
-        <seg>Install Firefox first (if you do not alre, then ReloadEvery.</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T102608Z" creationid="lenovo" creationdate="20180416T102435Z">
+        <seg>首先安装Firefox（如果你尚未安装），然后添加ReloadEvery。</seg>
       </tuv>
     </tu>
     <tu>
