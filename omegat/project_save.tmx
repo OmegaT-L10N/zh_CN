@@ -12895,6 +12895,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Define the paragraph tags, in this case by changing the line:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="anton" changedate="20180416T084951Z" creationid="anton" creationdate="20180416T084951Z">
+        <seg>通过改变线条来定义段落标签:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Define the translation as being empty.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T024554Z" creationid="weiyi" creationdate="20180406T024554Z">
@@ -19586,8 +19594,16 @@ click on that shortcut.</seg>
       <tuv lang="EN">
         <seg>In TMX, the paragraph-level tag corresponding to a segment is "tu".</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="anton" changedate="20180416T084845Z" creationid="anton" creationdate="20180416T084845Z">
-        <seg>在TMX文件中，段落级标签对应的是"tu".</seg>
+      <tuv lang="ZH-CN" changeid="anton" changedate="20180416T084902Z" creationid="anton" creationdate="20180416T084845Z">
+        <seg>在TMX文件中，片段对应的段落级标签是"tu".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In TMXDialect.java:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="anton" changedate="20180416T084913Z" creationid="anton" creationdate="20180416T084913Z">
+        <seg>在 TMXDialect.java中:</seg>
       </tuv>
     </tu>
     <tu>
@@ -43362,6 +43378,14 @@ from there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can delete the line:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="anton" changedate="20180416T085115Z" creationid="anton" creationdate="20180416T085115Z">
+        <seg>您也可以删除横线:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can disable the auto-propagation function with Project &gt; Properties &gt; uncheck the "Auto-propagation of Translations" box.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T115719Z" creationid="Zoe" creationdate="20180411T115719Z">
@@ -45061,6 +45085,30 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131031T075007Z">
         <seg>缺省对齐方式，这由语言决定的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>defineParagraphTags(new String[] { "caption", "config-value", "variable", "para", "title", "keyword", "li", });</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="anton" changedate="20180416T085014Z" creationid="anton" creationdate="20180416T085014Z">
+        <seg>定义段落级标签(新字符串[] { "caption", "config-value", "variable", "para", "title", "keyword", "li", });</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>defineParagraphTags(new String[] { "tu", });</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="anton" changedate="20180416T085049Z" creationid="anton" creationdate="20180416T085049Z">
+        <seg>定义段落系标签(新字符串[] { "tu", });</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>defineShortcut("link", "li");</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="anton" changedate="20180416T085147Z" creationid="anton" creationdate="20180416T085147Z">
+        <seg>定义快捷方式("link", "li");</seg>
       </tuv>
     </tu>
     <tu>
@@ -49404,8 +49452,8 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>to</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131108T101333Z" creationid="Fu Rhong" creationdate="20131108T101333Z">
-        <seg>to</seg>
+      <tuv lang="ZH-CN" changeid="anton" changedate="20180416T085056Z" creationid="Fu Rhong" creationdate="20131108T101333Z">
+        <seg>跳转到</seg>
       </tuv>
     </tu>
     <tu>
