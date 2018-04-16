@@ -8935,8 +8935,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>As is so often the case with things technical (and things translation), there are catches.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="think" changedate="20180416T031659Z" creationid="think" creationdate="20180416T031659Z">
-        <seg>由于在技术（和翻译）方面经常出现这种情况，因此存在一些问题。</seg>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T031744Z" creationid="think" creationdate="20180416T031659Z">
+        <seg>由于在技术（和翻译）方面经常出现这种情况，因此常见一些问题。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17639,8 +17639,8 @@ script provided (omegat.kaptn).</seg>
       <tuv lang="EN">
         <seg>Iceni Infix also enables you to save PDF files in RTF format, but in this case the demonstration version really is only suitable for demonstration purposes, as it contains random character substitutions.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="think" changedate="20180416T031039Z" creationid="think" creationdate="20180416T031039Z">
-        <seg>Iceni Infix也允许您以RTF格式保存PDF文件，但该演示版本的案例由于包含随机的字符替换，故而只适用于演示目的。</seg>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T031726Z" creationid="think" creationdate="20180416T031039Z">
+        <seg>Iceni Infix也允许您以RTF格式保存PDF文件，但本演示版的案例由于包含随机的字符替换，故而只适用于演示目的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42867,6 +42867,14 @@ Finder window to be able to launch it from any location.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131127T093029Z" creationid="Fu Rhong" creationdate="20131127T093029Z">
         <seg>每当翻译记忆文件的内容已经转到&lt;f0&gt;project-save.tmx&lt;/f0&gt;文件的时候，您可能要考虑移除那些不再需要的文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may find that the embedded fonts in the PDF do not contain all the characters you need.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T032100Z" creationid="think" creationdate="20180416T032100Z">
+        <seg>你也许发现PDF中的内嵌字体并未囊括所有你需要的字体。</seg>
       </tuv>
     </tu>
     <tu>
