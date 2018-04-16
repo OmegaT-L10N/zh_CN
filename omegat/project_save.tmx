@@ -38464,6 +38464,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To do this, open a terminal (also known as a console or command-line window; common programs for this are konsole (KDE) and gnome-terminal (GNOME)), and type:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T071958Z" creationid="think" creationdate="20180416T071958Z">
+        <seg>为此，打开一个终端（也就是控制台或命令行窗口；它的公共程序是（KDE）和gnome-terminal（GNOME）），然后输入：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To duplicate tag groups, just copy them in the position of your choice.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120203T122906Z">
