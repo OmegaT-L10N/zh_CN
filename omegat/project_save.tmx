@@ -34490,6 +34490,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Linux version of OmegaT is now supplied with its own installation script, linux-install.sh.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T085019Z" creationid="think" creationdate="20180416T085019Z">
+        <seg>Linux版本的OmegaT现在提供了自己的安装脚本linux-install.sh。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Mac OS X equivalent is the application Terminal located in Applications → Utilities.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120207T122252Z">
@@ -37748,6 +37756,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>They will however always access the same user configuration files (unless launched from a different user account).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T084947Z" creationid="think" creationdate="20180416T084947Z">
+        <seg>然而它们将始终访问相同的用户配置文件（除非从不同的用户帐户启动）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Third-party Java versions: until relatively recently, OmegaT ran only on Oracle/Sun's own Java.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="think" changedate="20180416T073434Z" creationid="think" creationdate="20180416T073434Z">
@@ -38650,6 +38666,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="10353" changedate="20180414T083032Z" creationid="10353" creationdate="20180414T083032Z">
         <seg>该脚本会读取术语表文件的内容，并高亮显示当前（源）片段中找到的所有术语。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This script:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T085038Z" creationid="think" creationdate="20180416T085038Z">
+        <seg>该脚本：</seg>
       </tuv>
     </tu>
     <tu>
@@ -48253,6 +48277,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131108T030803Z" creationid="Fu Rhong" creationdate="20131108T030803Z">
         <seg>pl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>places the OmegaT program files in /opt/omegat/OmegaT-&lt;version&gt;;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T085125Z" creationid="think" creationdate="20180416T085125Z">
+        <seg>将OmegaT程序文件放入/opt/omegat/OmegaT-&lt;version&gt;；</seg>
       </tuv>
     </tu>
     <tu>
