@@ -49602,6 +49602,38 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>   - Client ID: Any string ex.) my_clientid1&lt;br8/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="anton" changedate="20180416T080546Z" creationid="anton" creationdate="20180416T080511Z">
+        <seg>   -用户ID: 任意字符&lt;br8/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>   - Client secret: Use string displayed by default&lt;br10/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="anton" changedate="20180416T080712Z" creationid="anton" creationdate="20180416T080712Z">
+        <seg>   -用户密码：使用默认字符串&lt;br10/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>   - Name: Any string ex.) my_application01&lt;br9/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="anton" changedate="20180416T080609Z" creationid="anton" creationdate="20180416T080609Z">
+        <seg>   - 用户名:任意字符&lt;br9/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>   - Redirect URI: Any URI (Invalid URL required when using Microsoft Translator) ex.) http://dummy/&lt;br11/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="anton" changedate="20180416T080836Z" creationid="anton" creationdate="20180416T080836Z">
+        <seg>   - 重定向URI：任何URI（使用Microsoft Translator时所需的URL无效） http://dummy/&lt;br11/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>В помощь переводчику: 10 советов по OmegaT</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T135101Z" creationid="cpeishan" creationdate="20180407T135101Z">
