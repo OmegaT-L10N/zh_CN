@@ -4167,6 +4167,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;i0&gt;If you changed the file extension to .html, change the extension of the translated file back to .xml.&lt;/i0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T024739Z" creationid="think" creationdate="20180416T024739Z">
+        <seg>&lt;i0&gt;如果您已把文件扩展名修改为.html，则需要将已译文件的扩展名修改回.xml。&lt;/i0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;i2/&gt;The options for the program start-up in this case will be read from the &lt;e3&gt;&lt;a4&gt;OmegaT&lt;/a4&gt;.l4J.ini &lt;/e3&gt;file, which resides in the same folder as the exe file and which you can edit to reflect your setup.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120206T094113Z">
@@ -9306,6 +9314,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T145854Z">
         <seg>浏览(&amp;r)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Back in Iceni Infix, import the translated XML file back into &lt;i0&gt;the PDF from which you exported it&lt;/i0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T025121Z" creationid="think" creationdate="20180416T025121Z">
+        <seg>返回Iceni Infix，将已译的XML文件导回到 &lt;i0&gt;the PDF from which you exported it&lt;/i0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
