@@ -29160,6 +29160,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Propagation</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T115349Z" creationid="lenovo" creationdate="20180416T115349Z">
+        <seg>传播n默认情况下，OmegaT使用自动匹配传播。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Propagation and one-to-many matching</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T141907Z" creationid="cpeishan" creationdate="20180407T141907Z">
