@@ -36321,6 +36321,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The system will output details of the Java version already installed at system level.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T072150Z" creationid="think" creationdate="20180416T072150Z">
+        <seg>该系统</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The tab character ('\u0009')</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120214T033534Z">
@@ -46149,6 +46157,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120218T070709Z">
         <seg>java -jar omegat.jar --pseudotranslatetmx=&lt;filename&gt; [pseudotranslatetype=[equal|empty]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>java -version</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T072022Z" creationid="think" creationdate="20180416T072022Z">
+        <seg>java—版本</seg>
       </tuv>
     </tu>
     <tu>
