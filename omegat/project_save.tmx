@@ -1801,6 +1801,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(This is not the case for the website localization files.)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T171926Z" creationid="lenovo" creationdate="20180416T171926Z">
+        <seg>（网站本地化文件的情况是个例外。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(X)HTML (*.html, *.xhtml,*.xht)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120202T114545Z">
@@ -17172,6 +17180,14 @@ script provided (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131111T114336Z" creationid="Fu Rhong" creationdate="20131111T114336Z">
         <seg>为了简便，这里的例子中我们决定为OmegaT项目使用单个版本库。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For the full and minimal packages (user interface and documentation), you do not need to create an OmegaT project as you normally would in OmegaT: when unpacked, the files for localization of the OmegaT program are a ready-to-use OmegaT project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T171813Z" creationid="lenovo" creationdate="20180416T171813Z">
+        <seg>对于完整软件包和最小软件包（用户界面和文档），您不需要像通常在OmegaT中那样创建OmegaT项目：解压缩后，OmegaT程序的本地化文件是可立即使用的OmegaT项目。</seg>
       </tuv>
     </tu>
     <tu>
