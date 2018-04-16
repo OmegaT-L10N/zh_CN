@@ -19067,6 +19067,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you are using Mac OSX, you can &lt;a2&gt;download a version of Priorview for Mac here&lt;/a2&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T101619Z" creationid="lenovo" creationdate="20180416T101619Z">
+        <seg>如果你使用的是Mac OSX, 你可以在这里&lt;a2&gt;下载Mac版本的Priorview&lt;/a2&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are using OmegaT version 2.3 or later, simply place the XML file exported from Infix as described above in the /source folder of your OmegaT project.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="think" changedate="20180416T021911Z" creationid="think" creationdate="20180416T021911Z">
@@ -34846,6 +34854,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120207T122252Z">
         <seg>Mac OSX 对应的是位于 应用程序［Applications] → 实用工具［Utilities］ 中的应用程序终端。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Mac OSX version is not yet documented and the information below does &lt;b3&gt;not&lt;/b3&gt; apply to it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T102149Z" creationid="lenovo" creationdate="20180416T102149Z">
+        <seg>Mac OSX 版本尚未记录，以下信息不适用于它。 &lt;b3&gt;not&lt;/b3&gt; apply to it.</seg>
       </tuv>
     </tu>
     <tu>
