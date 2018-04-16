@@ -1721,6 +1721,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(Other methods of closing Priorview will not delete the temporary files.)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T111311Z" creationid="lenovo" creationdate="20180416T111311Z">
+        <seg>（其他关闭Priorview的方法不会删除临时文件。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(Refer to the "Downloads" page on the OmegaT website for details of the differences.)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="think" changedate="20180416T084157Z" creationid="think" creationdate="20180416T084157Z">
@@ -7236,6 +7244,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="18261" changedate="20180413T015714Z" creationid="18261" creationdate="20180413T015714Z">
         <seg> &lt;a0&gt;分词器插件介绍&lt;/a0&gt; </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A European Commission press release (in .odt format) in OmegaT and below it the instantaneous target text displayed in Opera.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T111500Z" creationid="lenovo" creationdate="20180416T111500Z">
+        <seg>欧洲委员会新闻稿（采用.odt格式）在OmegaT中并在其下方显示Opera中显示的即时目标文本。</seg>
       </tuv>
     </tu>
     <tu>
