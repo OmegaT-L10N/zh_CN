@@ -11703,6 +11703,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Copyright Marc Prior 2011</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T070232Z" creationid="think" creationdate="20180416T070232Z">
+        <seg>版权归属于Marc Prior 2011</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Copyright Marc Prior 2014</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T134448Z" creationid="Zoe" creationdate="20180411T134448Z">
