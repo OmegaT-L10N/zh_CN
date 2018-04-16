@@ -3181,6 +3181,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;LibreOffice&lt;/a0&gt; together with the &lt;a1&gt;Unoconv plug-in&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T102846Z" creationid="lenovo" creationdate="20180416T102846Z">
+        <seg>&lt;a0&gt;LibreOffice&lt;/a0&gt;以及&lt;a1&gt;Unoconv插件&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; Files and Folders</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131113T130021Z" creationid="Fu Rhong" creationdate="20131113T130021Z">
@@ -3425,6 +3433,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T102332Z" creationid="lenovo" creationdate="20180416T102332Z">
         <seg>&lt;b0&gt;浏览器&lt;/b0&gt;，可选择：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;b0&gt;A conversion utility&lt;/b0&gt;, specifically either:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T102826Z" creationid="lenovo" creationdate="20180416T102826Z">
+        <seg>&lt;b0&gt;转换功能&lt;/b0&gt;，可选择：</seg>
       </tuv>
     </tu>
     <tu>
@@ -8556,6 +8572,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Andrew" changedate="20180414T155158Z" creationid="weiyi" creationdate="20180406T065821Z">
         <seg>您可以为每个用户界面选择不同的颜色。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Almost any current version of Tcl/Tk will probably be suitable, but you must have both Tcl (the scripting interpreter) and Tk (the graphical component).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T102955Z" creationid="lenovo" creationdate="20180416T102955Z">
+        <seg>几乎所有当前版本的Tcl / Tk都适用，但你必须同时拥有Tcl（脚本解释器）和Tk（图形组件）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39740,6 +39764,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131116T130252Z" creationid="Fu Rhong" creationdate="20131116T130252Z">
         <seg>要安装&lt;a0&gt;OmegaT&lt;/a0&gt;，只需解压&lt;e1&gt;OmegaT_3.n.n_Without_JRE.zip&lt;/e1&gt;文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To install Priorview, simply unpack the zip archive at any suitable location on your hard drive.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T103426Z" creationid="lenovo" creationdate="20180416T103426Z">
+        <seg>要安装Priorview，只需将zip压缩包解压到硬盘驱动器上的任何合适位置即可。</seg>
       </tuv>
     </tu>
     <tu>
