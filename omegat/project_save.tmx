@@ -43442,6 +43442,14 @@ from there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can define out-of-turn tags.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="anton" changedate="20180416T085455Z" creationid="anton" creationdate="20180416T085455Z">
+        <seg>你可以定义外转标签.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can delete the line:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="anton" changedate="20180416T085115Z" creationid="anton" creationdate="20180416T085115Z">
@@ -44597,6 +44605,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131107T142618Z" creationid="Fu Rhong" creationdate="20131107T142618Z">
         <seg>as</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>as it is irrelevant to TMX, although the new filter will still work if you do not.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="anton" changedate="20180416T085238Z" creationid="anton" creationdate="20180416T085238Z">
+        <seg>由于它与TMX无关，所以即便您不进行这样的操作，新的过滤器仍然可以工作.</seg>
       </tuv>
     </tu>
     <tu>
