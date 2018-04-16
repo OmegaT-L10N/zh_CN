@@ -8963,6 +8963,14 @@ The TMX file will not be loaded.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An interesting feature of Déjà Vu DVX is its "External View" file format.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T120349Z" creationid="lenovo" creationdate="20180416T120349Z">
+        <seg>DéjàVu DVX的一个有趣功能是其“外部视图”文件格式.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An introductory video to OmegaT in English by John Moran.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T150215Z" creationid="cpeishan" creationdate="20180407T150215Z">
@@ -9353,6 +9361,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="think" changedate="20180416T031744Z" creationid="think" creationdate="20180416T031659Z">
         <seg>由于在技术（和翻译）方面经常出现这种情况，因此常见一些问题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As its name suggests, it is an XML-based format.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T120311Z" creationid="lenovo" creationdate="20180416T120311Z">
+        <seg>顾名思义，它是一种基于XML的格式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9818,6 +9834,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T092422Z" creationid="lenovo" creationdate="20180416T092422Z">
         <seg>背景与原则</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Background situation</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T120535Z" creationid="lenovo" creationdate="20180416T120535Z">
+        <seg>背景情况。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12191,6 +12215,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Copyright Marc Prior 2009-2014</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T120505Z" creationid="lenovo" creationdate="20180416T120505Z">
+        <seg>版权所有Marc Prior 2009-2014</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Copyright Marc Prior 2010-2011</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="10353" changedate="20180414T110200Z" creationid="10353" creationdate="20180414T110200Z">
@@ -14418,6 +14450,14 @@ project_save.tmx未真正上传，SVN切换到不稳定状态。</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Déjà Vu "External View"</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T120334Z" creationid="lenovo" creationdate="20180416T120334Z">
+        <seg>Déjà Vu "外部视图"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Déjà Vu compatibility</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T140342Z" creationid="cpeishan" creationdate="20180407T140342Z">
@@ -16450,6 +16490,14 @@ script provided (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T071656Z" creationid="weiyi" creationdate="20180406T071656Z">
         <seg>由于保密原因，您可能不想将所有的片段上传至机器翻译工具。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For details, see the &lt;a0&gt;Déjà Vu "External View" HOWTO&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T120439Z" creationid="lenovo" creationdate="20180416T120439Z">
+        <seg>有关详细信息，请参阅&lt;a0&gt;DéjàVu“外部视图”HOWTO &lt;/ a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -21671,6 +21719,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131113T123217Z" creationid="Fu Rhong" creationdate="20131113T123217Z">
         <seg>在需要根据属性值来不翻译一些标签时很有用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is supported by OmegaT.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T120321Z" creationid="lenovo" creationdate="20180416T120321Z">
+        <seg>它由OmegaT支持。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38574,6 +38630,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This HowTo describes how to use OmegaT in conjunction with Atril's Déjà Vu CAT tool.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T120520Z" creationid="lenovo" creationdate="20180416T120520Z">
+        <seg>本HowTo介绍如何将OmegaT与Atril的DéjàVu CAT工具结合使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This HowTo describes the general principles for setting up a preview function.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180414T083553Z" creationid="lenovo" creationdate="20180414T083553Z">
@@ -38858,6 +38922,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120217T122902Z">
         <seg>项目中总是存在此文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This file format enables OmegaT users to deliver bilingual files to users of Déjà Vu DVX, who are then able to edit them further or to incorporate them into automated workflows.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T120422Z" creationid="lenovo" creationdate="20180416T120422Z">
+        <seg>这种文件格式使得OmegaT用户能够向DéjàVu DVX用户提供双语文件，然后他们可以进一步编辑它们或将它们合并到自动化工作流程中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43642,6 +43714,14 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120202T114804Z">
         <seg>Wordfast TXML (*.txml)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Wordfast TXML is the native internal format of Wordfast's new Wordfast Professional (also known as Wordfast 6.0).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T120258Z" creationid="lenovo" creationdate="20180416T120258Z">
+        <seg>Wordfast TXML是Wordfast新的Wordfast Professional（也称为Wordfast 6.0）的本机内部格式。</seg>
       </tuv>
     </tu>
     <tu>
