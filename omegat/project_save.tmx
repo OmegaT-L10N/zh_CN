@@ -16544,6 +16544,14 @@ script provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For the kaptain script to work, however, you must first install kaptain.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T085903Z" creationid="think" creationdate="20180416T085903Z">
+        <seg>然而，为了便于kaptain脚本运转，您必须先安装kaptain。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For the latest version of OmegaT, refer to the downloads page at www.omegat.org.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120130T071149Z">
@@ -18347,6 +18355,14 @@ need not be entered.)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120217T132922Z">
         <seg>如果在提供的 TM 中的译文完全可靠的话，那么可以把它们放到 &lt;e0&gt; tm/auto&lt;/e0&gt; 目录以避免需要对大量的 &lt;e1&gt; [模糊]&lt;/e1&gt;进行确认。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If it is not in your distribution's repository, you can &lt;a0&gt;download it from kaptain.sourceforge.net&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T090049Z" creationid="think" creationdate="20180416T090049Z">
+        <seg>如果它不在您发行版的存储库中，您可以&lt;a0&gt;download it from kaptain.sourceforge.net&lt;/a0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35465,6 +35481,14 @@ instead.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131116T114429Z" creationid="Fu Rhong" creationdate="20131116T113902Z">
         <seg>在设置时该文件可以不存在，在添加词条时会自动创建该文件（如果需要）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The file is commented to help you.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T085825Z" creationid="think" creationdate="20180416T085825Z">
+        <seg>该文件是用来帮助你。</seg>
       </tuv>
     </tu>
     <tu>
