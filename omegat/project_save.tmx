@@ -8392,6 +8392,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All being well, Priorview should appear when launched as described above.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T104200Z" creationid="lenovo" creationdate="20180416T104200Z">
+        <seg>一切正常的话，Priorview应该按照上述方式启动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All being well, your translation will come out looking like the original, but translated.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="think" changedate="20180416T030431Z" creationid="think" creationdate="20180416T025637Z">
@@ -26716,6 +26724,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>On this, select:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T104230Z" creationid="lenovo" creationdate="20180416T104230Z">
+        <seg>在这里，选择：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>On warn the errors are printed but the program continues.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131118T024940Z" creationid="Fu Rhong" creationdate="20131118T024940Z">
@@ -42040,6 +42056,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using Priorview</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T104021Z" creationid="lenovo" creationdate="20180416T104021Z">
+        <seg>使用Priorview</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using TMX with alternative language pairs</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131127T101215Z" creationid="Fu Rhong" creationdate="20131127T101215Z">
@@ -50030,6 +50054,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131128T001854Z">
         <seg>项目中所有待译文件组成的列表。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>the name of the target file (in /target in your OmegaT project);</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T104322Z" creationid="lenovo" creationdate="20180416T104322Z">
+        <seg>目标文件的名称（在OmegaT项目中的/目标中）；</seg>
       </tuv>
     </tu>
     <tu>
