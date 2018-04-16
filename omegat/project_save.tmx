@@ -16142,6 +16142,14 @@ script provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For compiling OmegaT from the source code, see &lt;a0&gt;Compiling OmegaT from Source HowTo&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="anton" changedate="20180416T083852Z" creationid="anton" creationdate="20180416T083852Z">
+        <seg>要从源代码编译OmegaT ，请参阅&lt;a0&gt;从源代码”HowTo“编译OmegaT&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For confidentiality reasons, you may want to not send all the segments to the Machine Translation tool.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T071656Z" creationid="weiyi" creationdate="20180406T071656Z">
@@ -20138,6 +20146,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In this example, the Help &amp; Manual filter has been selected as a basis.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="anton" changedate="20180416T084132Z" creationid="anton" creationdate="20180416T084132Z">
+        <seg>在这个例子中，已经选择了Help&amp;Mannul过滤器作为基础.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In this mode OmegaT will create a TMX for the whole project, based on the source files only.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120208T064635Z">
@@ -22539,6 +22555,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="18261" changedate="20180412T103828Z" creationid="18261" creationdate="20180412T103828Z">
         <seg>本地化OmegaT是一项正在进行的任务，因为随时都在添加新的特性和功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Locate the folder src/org/omegat/filters3/xml, and make a copy the subfolder /helpandmanual, naming it /tmx.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="anton" changedate="20180416T084247Z" creationid="anton" creationdate="20180416T084247Z">
+        <seg> 找到src/org/omegat/filters3/xml文件夹，然后复制子文件夹/helpandmanual，并将其命名为/tmx.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31376,6 +31400,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T120457Z" creationid="Administrator" creationdate="20180411T120457Z">
         <seg>选择脚本文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select an existing filter for a format similar to that for the new filter.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="anton" changedate="20180416T084046Z" creationid="anton" creationdate="20180416T084046Z">
+        <seg>选择一个与新过滤器类似的现有过滤器.</seg>
       </tuv>
     </tu>
     <tu>
