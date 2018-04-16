@@ -1721,6 +1721,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(Note: these are the English files.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T165201Z" creationid="lenovo" creationdate="20180416T165201Z">
+        <seg>（注意：这些是英文文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(Other methods of closing Priorview will not delete the temporary files.)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T111311Z" creationid="lenovo" creationdate="20180416T111311Z">
@@ -20054,6 +20062,14 @@ is to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you prefer to translate from a different language into which OmegaT has already been localized, please contact the &lt;a2&gt;OmegaT webmaster&lt;/a2&gt;.)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T165250Z" creationid="lenovo" creationdate="20180416T165250Z">
+        <seg>如果您希望从OmegaT已经完成本地化的其他语言版本进行翻译，请联系&lt;a2&gt; OmegaT网站管理员&lt;/a2&gt;。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you select a text string (in any pane) before pressing &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt;, the text will be pasted by default in the &lt;g3&gt;Search for&lt;/g3&gt; field.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Andrew" changedate="20180413T134316Z" creationid="weiyi" creationdate="20180406T022223Z">
@@ -20146,6 +20162,14 @@ is to use Java Web Start.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120223T160002Z">
         <seg>如果您想恢复到缺省的过滤器设置，点击&lt;e2&gt;缺省&lt;/e2&gt;。您也可以在文件过滤器对话框中的目标文件名模式字段中直接修改名称。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you wish to translate the &lt;s0&gt;OmegaT web pages&lt;/s0&gt;, download the &lt;a1&gt;website localization package&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T165135Z" creationid="lenovo" creationdate="20180416T165135Z">
+        <seg>如果您希望翻译&lt;s0&gt; OmegaT网页&lt;/s0&gt;，请下载&lt;a1&gt;网站本地化软件包&lt;/a1&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23627,6 +23651,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T090409Z" creationid="chloechao" creationdate="20180412T090409Z">
         <seg>本地化资源</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Localizations of the OmegaT user interface and documentation are generally updated in step with new releases of OmegaT.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T165329Z" creationid="lenovo" creationdate="20180416T165329Z">
+        <seg>OmegaT用户界面和文档的本地化版本通常会与新版本的OmegaT一起更新。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35942,6 +35974,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="think" changedate="20180416T084656Z" creationid="think" creationdate="20180416T084656Z">
         <seg>通常提供的OmegaT版本是“标准”版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The OmegaT website includes files in HTML and, as of 2011, PHP format.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T165355Z" creationid="lenovo" creationdate="20180416T165355Z">
+        <seg>OmegaT网站包括HTML格式的文件以及2011年的PHP格式文件。</seg>
       </tuv>
     </tu>
     <tu>
