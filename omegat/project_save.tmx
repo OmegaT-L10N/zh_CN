@@ -38600,6 +38600,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To use this filter, simply change the file extension of the XML file exported by Infix from .xml to .html.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T023101Z" creationid="think" creationdate="20180416T023101Z">
+        <seg>要使用该过滤器，您只需要将从Infix中导出的XML文件的扩展名由.xml修改为.html即可。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To use this script, open a
 terminal window (console), change folder to the folder containing OmegaT.jar
 and the linux-install.sh script, and execute the script with ./linux-
