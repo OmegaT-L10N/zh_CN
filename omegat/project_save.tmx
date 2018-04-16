@@ -19205,6 +19205,22 @@ is to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you have installed a version of OmegaT with JRE supplied, the launch script supplied already contains this path for you.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T090807Z" creationid="think" creationdate="20180416T090807Z">
+        <seg>如果您已经安装了提供JRE的OmegaT版本，则提供的启动脚本已经为您包含此路径。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you have installed an additional version of Java but have not made it the default version at system level, you must include the whole path of the Java binary in the launch command.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T090838Z" creationid="think" creationdate="20180416T090838Z">
+        <seg>如果您已经安装了额外版本的Java，但尚未将其作为系统级别的默认版本，则必须在启动命令中包含Java二进制文件的完整路径。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you have made changes to your&lt;f0&gt; OmegaT.l4J.ini &lt;/f0&gt;file and/or are using a .bat file, you must copy these over.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120206T120930Z">
@@ -35179,6 +35195,14 @@ Please try to correct the error and reload the project.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The command will therefore be (in this case):</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T091005Z" creationid="think" creationdate="20180416T091005Z">
+        <seg>因此该命令将（在这种情况下）：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The computer, running OmegaT, has Russian as the default language, and thus shows the characters in the Cyrillic alphabet and not in Kanji.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131031T075155Z">
@@ -39026,6 +39050,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131112T110440Z" creationid="Fu Rhong" creationdate="20131112T110401Z">
         <seg>这个操作实际上会检出项目到本地文件夹。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This will be something like /usr/lib/jvm/java-6-sun-1.6.0.16/jre/bin/java; make a note of where Java is installed during installation so that you can find it again.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T090936Z" creationid="think" creationdate="20180416T090936Z">
+        <seg>这将类似/usr/lib/jvm/java-6-sun-1.6.0.16/jre/bin/java；在安装期间记录下安装Java的位置，以便您可以再次找到它。</seg>
       </tuv>
     </tu>
     <tu>
