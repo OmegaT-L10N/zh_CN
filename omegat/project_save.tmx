@@ -7488,6 +7488,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Abiword and LibreOffice are a word processor and an office suite respectively.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T081803Z" creationid="lenovo" creationdate="20180416T081803Z">
+        <seg>Abiword 是文字处理器，LibreOffice是办公套件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Abkhaz</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131107T142957Z">
@@ -9758,6 +9766,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Both are free, available for a number of different platforms, and can convert .docx and .odt files to .html format.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T082023Z" creationid="lenovo" creationdate="20180416T082023Z">
+        <seg>这两个程序均为免费使用，适用于多种平台，并且可以将.docx和.odt文件转换成.html格式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Both search types support the wildcard characters * and ?.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T151030Z">
@@ -9898,6 +9914,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="18261" changedate="20180412T114435Z" creationid="18261" creationdate="20180412T114315Z">
         <seg>我知道你所说的，但是我不会编程。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>But it will at least stay at the same point in the text when the view is updated.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180414T113955Z" creationid="lenovo" creationdate="20180414T113955Z">
+        <seg>当视图更新时，它至少会保留在文本中的相同位置。.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26500,6 +26524,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Opening your translated target file in a browser is easy when your source file is in .html format, but translations more often involve word-processing files, which in OmegaT are usually handled in .docx or .odt format.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T080829Z" creationid="lenovo" creationdate="20180416T080829Z">
+        <seg>当你的源文件为.html格式时，很容易在浏览器中打开已翻译的目标文件，但翻译经常涉及文字处理文件，这些文件在OmegaT中通常以.docx或.odt格式处理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Opens a dialog box where the location of scripts can be set, and where scripts can be written, run and associated with a shortcut (see &lt;l0&gt;Scripts window&lt;/l0&gt;)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Andrew" changedate="20180414T131448Z" creationid="weiyi" creationdate="20180406T065107Z">
@@ -27763,6 +27795,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T142308Z" creationid="cpeishan" creationdate="20180407T142308Z">
         <seg>预览</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Previewing word-processing files</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180414T114049Z" creationid="lenovo" creationdate="20180414T114049Z">
+        <seg>预览文字处理文件</seg>
       </tuv>
     </tu>
     <tu>
@@ -39717,6 +39757,14 @@ install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Two programs that can be used as converters are described here: Abiword and LibreOffice.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T081719Z" creationid="lenovo" creationdate="20180416T081719Z">
+        <seg>以下介绍两个转换器程序：Abiword and LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Type</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="christy" changedate="20180407T162650Z" creationid="christy" creationdate="20180407T162650Z">
@@ -43074,6 +43122,14 @@ the installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131123T104725Z" creationid="Fu Rhong" creationdate="20131123T104725Z">
         <seg>您还可以点击&lt;g0&gt;工具&lt;/g0&gt;菜单下的脚本条目或按&lt;k1&gt; Ctrl+Alt+F#&lt;/k1&gt;（#表示1到12）组合键运行选择的宏。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can still use the browser solution described above to preview the translations of these files, but you will then also need a) a converter to convert the file to .html format, and b) a utility to launch the converter automatically so that you don't have to convert the files manually.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T081613Z" creationid="lenovo" creationdate="20180416T081613Z">
+        <seg>你仍然可以使用以上描述的浏览器方案来预览文件，但是你仍然需要一个转换器来将文件转换成.html格式，以及自动启动转换器的功能，这样你就不用手动转换文件了。</seg>
       </tuv>
     </tu>
     <tu>
