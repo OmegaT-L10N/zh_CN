@@ -37676,6 +37676,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>These define subsegments that are presented outside the segment in which they are contained (footnotes are a good example).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="anton" changedate="20180416T085705Z" creationid="anton" creationdate="20180416T085705Z">
+        <seg>这能定义那些在包含他们的片段之外呈现的子片段（脚注就是一个很好的例子）.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>These files are copies of the file &lt;f0&gt;project_save.tmx&lt;/f0&gt;, i.e. of the project's main translation memory, excluding the so-called orphan segments.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120217T124926Z">
@@ -39196,6 +39204,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="weiyi" changedate="20180405T150645Z" creationid="weiyi" creationdate="20180405T150521Z">
         <seg>为完成上述步骤，需编辑OmegaT启动器或了解如何通过命令行启动OmegaT，见&lt;l1&gt;安装和运行&lt;/l1&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To do this for the TMX filter, insert the line</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="anton" changedate="20180416T085801Z" creationid="anton" creationdate="20180416T085801Z">
+        <seg>腰围TMX过滤器执行此操作，请插入改行</seg>
       </tuv>
     </tu>
     <tu>
