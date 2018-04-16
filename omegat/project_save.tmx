@@ -42678,6 +42678,14 @@ the installation script (linux-install.sh).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can presumably resolve this by obtaining and installing the necessary fonts; or you can select a different font for this purpose – which may or may not be an adequate solution.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T032244Z" creationid="think" creationdate="20180416T032244Z">
+        <seg>假定你可以通过获取和安装必要的字体来解决这一问题；或者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can process the generated tmx with any tool you want.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
