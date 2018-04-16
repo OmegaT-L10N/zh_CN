@@ -34875,6 +34875,14 @@ Please try to correct the error and reload the project.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The bash script is a very basic file that can be edited manually with command-line options for launching and configuring OmegaT.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T085303Z" creationid="think" creationdate="20180416T085303Z">
+        <seg>bash脚本是一个非常基本的文件，可以通过命令行选项手动编辑，以启动和配置OmegaT。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The basic command has already been mentioned above.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
@@ -35819,6 +35827,14 @@ desktop and in the quick launch area.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120206T090719Z">
         <seg>词条的各项间未使用 TAB 字符分隔。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The kaptain script (or "grammar", as kaptain scripts are termed) enables you to select launch and configuration options from a user-friendly GUI.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T085556Z" creationid="think" creationdate="20180416T085556Z">
+        <seg>kaptain脚本（或者称为kaptain脚本的“语法”）使您能够从一个用户友好的GUI中选择启动和配置选项。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43416,6 +43432,14 @@ from there.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>You can customize the kaptain launch script so that your preferences are the defaults; simply edit the omegat.kaptn file in a text editor.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T085731Z" creationid="think" creationdate="20180416T085731Z">
+        <seg>您可以自定义kaptain启动脚本，以使您的偏好设置为默认； 只需在文本编辑器中编辑omegat.kaptn文件即可。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>print variables这里的print似乎应为printf</note>
       <tuv lang="EN">
         <seg>You can decide not to check at all, check for simple printf variables (like %s %d etc) or for print variables of all types.</seg>
@@ -43513,6 +43537,14 @@ from there.</seg>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T020416Z" creationid="xulihang" creationdate="20180408T020416Z">
         <seg>你可以在此找到证书的文本：
 /docs/OmegaT-license.txt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can for example use it to select the user interface language, assign more memory to OmegaT, or enter a Google Translate password.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T085623Z" creationid="think" creationdate="20180416T085623Z">
+        <seg>例如，您可以使用它来选择用户界面语言，为OmegaT分配更多内存，或输入Google翻译密码。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45061,6 +45093,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131107T142818Z" creationid="Fu Rhong" creationdate="20131107T142818Z">
         <seg>cre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>creates links from /usr/local/bin to the launch scripts.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T085228Z" creationid="think" creationdate="20180416T085228Z">
+        <seg>创建从 /usr/local/bin到启动脚本的链接。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46757,6 +46797,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131107T150340Z" creationid="Fu Rhong" creationdate="20131107T150340Z">
         <seg>ina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>includes bash and kaptain launch scripts;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T085149Z" creationid="think" creationdate="20180416T085149Z">
+        <seg>包括bash和kaptain启动脚本；</seg>
       </tuv>
     </tu>
     <tu>
