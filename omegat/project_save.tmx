@@ -11839,6 +11839,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Create an OmegaT project in the usual way.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T021505Z" creationid="think" creationdate="20180416T021505Z">
+        <seg>以常规方式创建一个OmegaT项目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Create an empty folder, where you will keep your project and right-click on it.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131111T114510Z" creationid="Fu Rhong" creationdate="20131111T114510Z">
@@ -18439,6 +18447,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="think" changedate="20180416T010824Z" creationid="think" creationdate="20180416T010824Z">
         <seg>如果您使用的是Linux或Macintosh平台，请先获取和安装相关版本的 Crossover，再安装Iceni Infix Professional。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you are using OmegaT version 2.3 or later, simply place the XML file exported from Infix as described above in the /source folder of your OmegaT project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T021911Z" creationid="think" creationdate="20180416T021911Z">
+        <seg>如果您正在使用的是OmegaT 2.3或更新的版本，您只要把如上描述的从 Infix中导出的XML文件放在您 OmegaT项目的 /source文件夹内。</seg>
       </tuv>
     </tu>
     <tu>
