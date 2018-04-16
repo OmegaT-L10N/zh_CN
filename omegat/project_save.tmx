@@ -42903,6 +42903,14 @@ Finder window to be able to launch it from any location.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You may find that segments are broken by hard line breaks at inconvenient places.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T063503Z" creationid="think" creationdate="20180416T063503Z">
+        <seg>您也许发现一些片段在不方便的地方被强行断开。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You may find that the embedded fonts in the PDF do not contain all the characters you need.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="think" changedate="20180416T032251Z" creationid="think" creationdate="20180416T032100Z">
