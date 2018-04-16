@@ -7224,6 +7224,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;s1&gt;In order to prevent two or more translators from working on the same language at the same time, it is therefore very important that you make an entry in the localization plan when you begin work on a translation.&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T132345Z" creationid="lenovo" creationdate="20180416T132253Z">
+        <seg>&lt;s1&gt;为了避免两个甚至两个以上的翻译人员在同一时间对同一种语言进行翻译，因此在开始翻译工作时，您必须在本地化计划中输入相关信。&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;shortcut&gt; must be of the following form: 0 or more &lt;c0&gt;&lt;modifier&gt;&lt;/c0&gt; followed by 0 or 1 &lt;c1&gt;&lt;event&gt;&lt;/c1&gt; followed by 1 &lt;c2&gt;&lt;key&gt;&lt;/c2&gt;, where:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131109T025530Z" creationid="Fu Rhong" creationdate="20131109T025530Z">
@@ -37771,8 +37779,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>The purpose of the plan is to prevent two or more translators from working on the same translation without being aware of it (duplication of effort).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T132214Z" creationid="lenovo" creationdate="20180416T132214Z">
-        <seg>该计划的目的是避免两个甚至更多的译员在互不知情的情况下进行重复的工作。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T132301Z" creationid="lenovo" creationdate="20180416T132214Z">
+        <seg>该计划的目的是避免两个甚至两个以上的译员在互不知情的情况下进行重复的工作。</seg>
       </tuv>
     </tu>
     <tu>
