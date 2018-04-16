@@ -26756,6 +26756,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Once Priorview has been launched, however, you cannot select a different browser or conversion utility; these options are therefore hidden after launch.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T105800Z" creationid="lenovo" creationdate="20180416T105800Z">
+        <seg>Priorview一旦启动，你无法选择其他浏览器或转换实用程序；因此这些选项在启动后隐藏。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Once a user has formulated a proposed change or enhancement to OmegaT, a defined procedure exists for its submission to the development team for consideration.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="18261" changedate="20180413T010507Z" creationid="18261" creationdate="20180413T010507Z">
@@ -40008,6 +40016,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To select a different browser or conversion utility, you must close Priorview and relaunch it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T105914Z" creationid="lenovo" creationdate="20180416T105914Z">
+        <seg>如需更换浏览器或者转换功能，你必须关闭Priorview并重启。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To speed up this process, existing translations can be reused.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120218T061928Z">
@@ -45565,6 +45581,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131107T142654Z" creationid="Fu Rhong" creationdate="20131107T142654Z">
         <seg>cha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>change the polling interval.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T105621Z" creationid="lenovo" creationdate="20180416T105616Z">
+        <seg>改变轮询间隔。</seg>
       </tuv>
     </tu>
     <tu>
