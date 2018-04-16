@@ -1656,6 +1656,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(If you wish to launch OmegaT with a user interface language other than English, make the same change in the relevant localized Bundle.properties file.)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="anton" changedate="20180416T090736Z" creationid="anton" creationdate="20180416T090736Z">
+        <seg>(如果您希望以非英语的用户界面语言启动OmegaT，请在相关的本地化的Bundle.properties file文件中进行相同的更改.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(In Italian)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T151034Z" creationid="cpeishan" creationdate="20180407T151034Z">
@@ -9850,6 +9858,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="18261" changedate="20180412T102332Z" creationid="18261" creationdate="20180412T102332Z">
         <seg>下面列表的工作，欢迎更多志愿者的加入！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Below these lines, insert the lines</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="anton" changedate="20180416T090624Z" creationid="anton" creationdate="20180416T090624Z">
+        <seg>在这几行下面，插入行</seg>
       </tuv>
     </tu>
     <tu>
@@ -20150,6 +20166,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120219T125338Z">
         <seg>在上述的第一和第三种情况中，标签的错误成对出现，而在第二种情况中开始标记缺失了 &lt; 标记。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the folder /src/org/omegat, open the file Bundle.properties in a text editor and find the lines</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="anton" changedate="20180416T090556Z" creationid="anton" creationdate="20180416T090556Z">
+        <seg>在文件夹/src/org/omegat中，用文本编辑器打开Bundle.properties文件并查找行</seg>
       </tuv>
     </tu>
     <tu>
@@ -50614,6 +50638,22 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="anton" changedate="20180416T080836Z" creationid="anton" creationdate="20180416T080836Z">
         <seg>   - 重定向URI：任何URI（使用Microsoft Translator时所需的URL无效） http://dummy/&lt;br11/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>   return new Instance[] { new Instance("*.tmx", null, null), };</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="anton" changedate="20180416T090451Z" creationid="anton" creationdate="20180416T090451Z">
+        <seg>  返回新的 Instance[] { new Instance("*.tmx", null, null), };</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>   return new Instance[] { new Instance("*.xml", null, null), new Instance("*.hmxp", null, null), };</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="anton" changedate="20180416T090433Z" creationid="anton" creationdate="20180416T090433Z">
+        <seg> 返回新的 Instance[] { new Instance("*.xml", null, null), new Instance("*.hmxp", null, null), };</seg>
       </tuv>
     </tu>
     <tu>
