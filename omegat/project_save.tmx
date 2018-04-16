@@ -1922,6 +1922,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- After registering, check if your application has been displayed on the "Registered Applications" in the page.&lt;br12/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="anton" changedate="20180416T081155Z" creationid="anton" creationdate="20180416T081155Z">
+        <seg>- 注册后，请检查您的应用程序是否已显示在页面的”已注册应用程序“中。.&lt;br12/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- After signing in Microsoft Azure Marketplace, you can get subscription to use Microsoft Translator.&lt;br7/&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="anton" changedate="20180416T075702Z" creationid="anton" creationdate="20180416T075702Z">
