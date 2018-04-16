@@ -37039,8 +37039,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The full package contains the user manual, the instant start manual, the user interface resource bundle and the readme file.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T164250Z" creationid="lenovo" creationdate="20180416T164250Z">
-        <seg>完整的软件包内包含用户手册、快速入门指南、用户界面资源包和readme文件。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T164503Z" creationid="lenovo" creationdate="20180416T164250Z">
+        <seg>完整的软件包中包含用户手册、快速入门指南、用户界面资源包和readme文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37427,8 +37427,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>The minimal package contains the same files as the full package, except for the main user manual.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T164405Z" creationid="lenovo" creationdate="20180416T164405Z">
-        <seg>最小软件包中2包含与完整软件包相同的文件，主用户手册除外。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T164458Z" creationid="lenovo" creationdate="20180416T164405Z">
+        <seg>最小软件包中包含除主用户手册外与完整软件包相同的文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45570,6 +45570,14 @@ the installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131116T082633Z" creationid="Fu Rhong" creationdate="20131116T082633Z">
         <seg>您可以在项目属性对话框中设定其位置和名称。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You do not have to translate a complete package; you can, for instance, translate just the user interface (Bundle.properties), or just the instant start tutorial.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T165103Z" creationid="lenovo" creationdate="20180416T165103Z">
+        <seg>您无需翻译整个软件包，可以只翻译一部分，比如只翻译用户界面或快速入门指南。</seg>
       </tuv>
     </tu>
     <tu>
