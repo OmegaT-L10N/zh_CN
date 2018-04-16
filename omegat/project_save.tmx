@@ -9862,6 +9862,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Below them, insert the lines:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="anton" changedate="20180416T090857Z" creationid="anton" creationdate="20180416T090857Z">
+        <seg>在下方插入行：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Below these lines, insert the lines</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="anton" changedate="20180416T090624Z" creationid="anton" creationdate="20180416T090624Z">
@@ -11591,6 +11599,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="ZH-CN" changeid="18261" changedate="20180412T084238Z" creationid="18261" creationdate="20180412T084238Z">
         <seg>与其他翻译记忆软件兼容(TMX, TTX, TXML, XLIFF, SDLXLIFF)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Compile as described in the Compiling OmegaT from Source HowTo.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="anton" changedate="20180416T091030Z" creationid="anton" creationdate="20180416T091030Z">
+        <seg>按照源代码HowTo中所描述的来编译OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -15964,6 +15980,14 @@ project_save.tmx未真正上传，SVN切换到不稳定状态。</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Find the lines:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="anton" changedate="20180416T090840Z" creationid="anton" creationdate="20180416T090840Z">
+        <seg>查找到以下行：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Finds the following:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
@@ -20214,6 +20238,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="10353" changedate="20180414T100613Z" creationid="10353" creationdate="20180414T100613Z">
         <seg>在OmegaT主程序文件夹（即包含文件OmegaT.jar的文件夹）中，如果尚未存在名为“plugins”的子文件夹，则创建一个名为“plugins”的子文件夹。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the main folder of the source code, open the file manifest-template.mf in a text editor.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="anton" changedate="20180416T090824Z" creationid="anton" creationdate="20180416T090824Z">
+        <seg>在源代码的主文件夹中，用文本编辑器打开文件manifest-template.mf.</seg>
       </tuv>
     </tu>
     <tu>
