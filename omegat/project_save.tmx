@@ -2026,6 +2026,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- Ctrl+M (or Command+M on Mac) will replace the current segment translation with that machine translation.&lt;br5/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="anton" changedate="20180416T082840Z" creationid="anton" creationdate="20180416T082840Z">
+        <seg>-通过 Ctrl+M (或者Mac上 Command+M) 将当前片段替换为机器翻译.&lt;br5/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- DTD files (*.DTD)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130514T151827Z">
@@ -2390,6 +2398,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130514T152028Z">
         <seg>- Wordfast TXML (*.txml)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- You can check your usage limit in your account by accessing the above page.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="anton" changedate="20180416T082958Z" creationid="anton" creationdate="20180416T082958Z">
+        <seg>- 您可以通过访问上述页面来查看您账户中的使用限额.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17665,6 +17681,14 @@ script provided (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T145032Z" creationid="cpeishan" creationdate="20180407T145032Z">
         <seg>如何翻译 Wordpress XLIFF 文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>How will I know when I reach my monthly usage limit?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="anton" changedate="20180416T082919Z" creationid="anton" creationdate="20180416T082919Z">
+        <seg>我如何直到何时达到每月使用限制？</seg>
       </tuv>
     </tu>
     <tu>
