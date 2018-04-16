@@ -7792,6 +7792,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After completing your translation, create the translated document in the usual way (Ctrl+S, Ctrl+D).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T024219Z" creationid="think" creationdate="20180416T024219Z">
+        <seg>当您翻译完成后，以常规方式(Ctrl+S, Ctrl+D)创建已译文档。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>After copying the required files into the checkout folder you will notice that its icon has changed: the green OK badge has changed to a red exclamation sign, signifying the change in the local copy of the repository.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131111T125838Z" creationid="Fu Rhong" creationdate="20131111T123018Z">
@@ -22067,6 +22075,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="18261" changedate="20180412T103828Z" creationid="18261" creationdate="20180412T103828Z">
         <seg>本地化OmegaT是一项正在进行的任务，因为随时都在添加新的特性和功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Locate the translated XML file in the OmegaT project's /target folder.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T024535Z" creationid="think" creationdate="20180416T024535Z">
+        <seg>在OmegaT项目的/目标文件夹中查找已译的XML文件。</seg>
       </tuv>
     </tu>
     <tu>
