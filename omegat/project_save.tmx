@@ -41837,6 +41837,14 @@ install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Translation memory (TMX) files of older localizations of OmegaT, the documentation and the website can be found in the &lt;a0&gt;"Files" section of the online user group&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T171153Z" creationid="lenovo" creationdate="20180416T171153Z">
+        <seg>OmegaT本地化旧版本的翻译记忆库、文档和网站可以在在线用户组的&lt;a0&gt;“文件”&lt;/a0&gt;部分中找到。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translation memory files folder entered does not exist!</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="flycr" changedate="20180405T093148Z">
