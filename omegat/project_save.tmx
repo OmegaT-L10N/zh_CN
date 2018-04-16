@@ -7226,8 +7226,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;s1&gt;In order to prevent two or more translators from working on the same language at the same time, it is therefore very important that you make an entry in the localization plan when you begin work on a translation.&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T132345Z" creationid="lenovo" creationdate="20180416T132253Z">
-        <seg>&lt;s1&gt;为了避免两个甚至两个以上的翻译人员在同一时间对同一种语言进行翻译，因此在开始翻译工作时，您必须在本地化计划中输入相关信。&lt;/s1&gt;</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T132426Z" creationid="lenovo" creationdate="20180416T132253Z">
+        <seg>&lt;s1&gt;为了避免两个甚至两个以上的翻译人员在同一时间对同一种语言进行翻译，因此在开始翻译工作时，您必须在本地化计划中输入一个条目。&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8812,6 +8812,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="18261" changedate="20180412T101956Z" creationid="18261" creationdate="20180412T101956Z">
         <seg>许多用户意识到了这一点，但他们的反应经常是“可我并不会编程！”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Although not essential, we recommend that you also join the &lt;a0&gt;OmegaT localizers' mailing list&lt;/a0&gt; (also known as "OmT-l10n").</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T132544Z" creationid="lenovo" creationdate="20180416T132544Z">
+        <seg>我们建议您加入&lt;a0&gt; OmegaT localizers邮件列表&lt;/a0&gt;（也称为“OmT-l10n”），但这不是硬性的要求。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14464,6 +14472,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Download the files for translation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T132601Z" creationid="lenovo" creationdate="20180416T132601Z">
+        <seg>下载待译文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Downloading project...</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="christy" changedate="20180407T160703Z" creationid="christy" creationdate="20180407T160703Z">
@@ -17027,6 +17043,14 @@ script provided (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T062338Z" creationid="weiyi" creationdate="20180406T062338Z">
         <seg>基于这个原因，此选项默认关闭。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For the &lt;s0&gt;OmegaT program and documentation&lt;/s0&gt;, these are either the &lt;a1&gt;"Full" package&lt;/a1&gt; or the &lt;a2&gt;"Minimal" package&lt;/a2&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T132711Z" creationid="lenovo" creationdate="20180416T132711Z">
+        <seg>对于&lt;s0&gt; OmegaT程序和文档&lt;/s0&gt;，既有&lt;a1&gt;“完整”文件包&lt;/a1&gt;或&lt;a2&gt;“最小”文件包&lt;/a2&gt;。</seg>
       </tuv>
     </tu>
     <tu>
