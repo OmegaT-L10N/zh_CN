@@ -36323,8 +36323,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>The system will output details of the Java version already installed at system level.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="think" changedate="20180416T072150Z" creationid="think" creationdate="20180416T072150Z">
-        <seg>该系统</seg>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T072555Z" creationid="think" creationdate="20180416T072150Z">
+        <seg>该系统会输出已安装在系统层面的java版本的细节信息。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38474,8 +38474,8 @@ the server.</seg>
       <tuv lang="EN">
         <seg>To do this, open a terminal (also known as a console or command-line window; common programs for this are konsole (KDE) and gnome-terminal (GNOME)), and type:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="think" changedate="20180416T071958Z" creationid="think" creationdate="20180416T071958Z">
-        <seg>为此，打开一个终端（也就是控制台或命令行窗口；它的公共程序是（KDE）和gnome-terminal（GNOME）），然后输入：</seg>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T072202Z" creationid="think" creationdate="20180416T071958Z">
+        <seg>为此，打开一个终端（也就是控制台或命令行窗口；它的通用程序是（KDE）和gnome-terminal（GNOME）），然后输入：</seg>
       </tuv>
     </tu>
     <tu>
