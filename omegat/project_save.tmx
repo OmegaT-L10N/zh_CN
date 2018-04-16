@@ -42715,6 +42715,14 @@ trouble of selecting, obtaining and installing it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When actuated, this launches your browser with a dummy page instructing you to set the automatic refresh function, which you should then do, and then to hit Ctrl+s, Ctrl+d in OmegaT to launch automatic updating of the browser.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T105231Z" creationid="lenovo" creationdate="20180416T105231Z">
+        <seg>点击它就会启动您的浏览器并显示虚拟页面，指示您设置自动刷新功能，然后在OmegaT中按Ctrl + s和Ctrl + d以启动浏览器的自动更新。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When an OmegaT segment containing this string is opened, the script outputs a warning.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Zoe" changedate="20180412T150743Z" creationid="Zoe" creationdate="20180412T150743Z">
@@ -42937,6 +42945,14 @@ trouble of selecting, obtaining and installing it.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131127T095052Z" creationid="Fu Rhong" creationdate="20131127T095052Z">
         <seg>在退出项目时，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you have selected all of these, the Start button appears.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T104844Z" creationid="lenovo" creationdate="20180416T104844Z">
+        <seg>当你选择完毕，就会出现开始按钮。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50054,6 +50070,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131111T122159Z" creationid="Fu Rhong" creationdate="20131111T122159Z">
         <seg>源文件夹的内容</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>the file conversion utility that you have installed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T104800Z" creationid="lenovo" creationdate="20180416T104800Z">
+        <seg>你已安装的文件转换功能</seg>
       </tuv>
     </tu>
     <tu>
