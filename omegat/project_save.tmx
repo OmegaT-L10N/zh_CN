@@ -28140,6 +28140,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Options &gt; File Filters &gt; Select "HTML and XHTML files" &gt; Edit &gt; Add &gt; Then enter "*.php" in the "Source Filename Pattern" column.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T170359Z" creationid="lenovo" creationdate="20180416T170359Z">
+        <seg>选项&gt;文件过滤器&gt;选择“HTML和XHTML文件”&gt;编辑&gt;添加&gt;然后在“源文件名图案”列中输入“* .php”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Options Menu</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T124036Z">
@@ -41204,6 +41212,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T121034Z" creationid="lenovo" creationdate="20180416T121034Z">
         <seg>要翻译OmegaT中的文件，请按以下步骤操作：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To translate the latter in OmegaT, you must register the .php extension with the HTML and XHTML filter as follows:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T165423Z" creationid="lenovo" creationdate="20180416T165423Z">
+        <seg>要在OmegaT中翻译后者，您必须按如下方式注册带有HTML和XHTML过滤器的.php扩展名：</seg>
       </tuv>
     </tu>
     <tu>
