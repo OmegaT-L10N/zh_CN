@@ -18394,6 +18394,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If so, this makes installation much easier.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T083351Z" creationid="think" creationdate="20180416T083351Z">
+        <seg>如果这样将使得安装更容易。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If some texts are selected within the fuzzy match, only this selection will be inserted at the cursor position.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T020759Z" creationid="weiyi" creationdate="20180406T020759Z">
@@ -19138,6 +19146,14 @@ is to use Java Web Start.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120205T121510Z">
         <seg>如果需要在 OmegaT 中看到标签，但是却不需要在已译文档中保留绝大多数格式的话，可以不向译文中添加任何标签。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you obtain the Oracle version of Java directly from Oracle, installation is likely to be straightforward, but you will have to configure it manually in order to make it the default version at system level.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T083445Z" creationid="think" creationdate="20180416T083445Z">
+        <seg>如果您直接从Oracle获得Oracle版本的Java，安装可能很简单，但您必须手动配置它才能使其成为系统级别的默认版本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31444,6 +31460,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Selecting and downloading OmegaT</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T083807Z" creationid="think" creationdate="20180416T083807Z">
+        <seg>选择和下载OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Selecting one of them will insert it at the current cursor position into the target segment.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131127T141340Z" creationid="Fu Rhong" creationdate="20131127T141340Z">
@@ -35381,6 +35405,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The following versions of OmegaT are available for Linux:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T083846Z" creationid="think" creationdate="20180416T083846Z">
+        <seg>以下版本的OmegaT适用于Linux：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The following window shows an example of a) the English source b) Spanish and c) Slovenian Google Translate translation.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120209T062951Z">
@@ -36841,6 +36873,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The third option, i.e. installing an OmegaT version with Java included at local level, is always the "safe" option, and is recommended.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T083753Z" creationid="think" creationdate="20180416T083753Z">
+        <seg>第三个选择，即在本地级别安装包含Java的OmegaT版本。这始终是“安全”的选项，并且我们建议使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The title of the dialog reflects the file actually used (which depends on how many instances of OmegaT are running concurrently).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Kaname Madokami☆!" changedate="20180414T161446Z" creationid="Kaname Madokami☆!" creationdate="20180414T161446Z">
@@ -38098,6 +38138,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120212T030413Z">
         <seg>这对于使用 16 位字符集 Unicode 进行编码的文件不会产生问题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is not recommended, particularly if you are unfamiliar with Linux.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T083537Z" creationid="think" creationdate="20180416T083537Z">
+        <seg>这是我们不推荐的，特别是如果您不熟悉Linux。</seg>
       </tuv>
     </tu>
     <tu>
