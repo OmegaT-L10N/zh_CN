@@ -10518,6 +10518,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>C:\Program Files\apache-ant-1.7.0-bin\apache-ant-1.7.0\bin\ant</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liufang" changedate="20180416T122121Z" creationid="liufang" creationdate="20180416T122121Z">
+        <seg>C：\ Program Files \ apache-ant-1.7.0-bin \ apache-ant-1.7.0 \ bin \ ant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Calculator:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T063802Z" creationid="Administrator" creationdate="20180412T063802Z">
@@ -17186,6 +17194,14 @@ script provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>From within the root folder, execute Apache Ant by entering the ant executable.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liufang" changedate="20180416T122058Z" creationid="liufang" creationdate="20180416T122058Z">
+        <seg>从根文件夹中，通过输入ant可执行文件来执行Apache Ant。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Fula, Fulah, Pulaar, Pular</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T101142Z" creationid="Fu Rhong" creationdate="20131107T145712Z">
@@ -18962,6 +18978,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the code compiles successfully, you will see the &lt;c0&gt;BUILD SUCCESSFUL&lt;/c0&gt; message.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liufang" changedate="20180416T122134Z" creationid="liufang" creationdate="20180416T122134Z">
+        <seg>如果代码编译成功，您将看到&lt;c0&gt; BUILD SUCCESSFUL &lt;/ c0&gt;消息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the current segment is the first one in a file, it moves to the last segment of the previous file.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120209T133822Z">
@@ -19207,6 +19231,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131110T021528Z">
         <seg>不会和系统快捷键冲突的话，它们在OmegaT中应该有效了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If this is all you're interested in, you can skip to step 3a.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liufang" changedate="20180416T121925Z" creationid="liufang" creationdate="20180416T121925Z">
+        <seg>如果这是你感兴趣的所有内容，你可以跳到步骤3a。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21903,6 +21935,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="18261" changedate="20180413T013141Z" creationid="18261" creationdate="20180413T013141Z">
         <seg>在OmegaT内实施外部开发者委托的开发也是可能的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It may be necessary to enter the full path, e.g.:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liufang" changedate="20180416T122109Z" creationid="liufang" creationdate="20180416T122109Z">
+        <seg>可能需要输入完整路径，例如：</seg>
       </tuv>
     </tu>
     <tu>
@@ -26108,6 +26148,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Older versions of OmegaT</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liufang" changedate="20180416T122044Z" creationid="liufang" creationdate="20180416T122044Z">
+        <seg>旧版本的OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmTdev</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T110841Z" creationid="cpeishan" creationdate="20180407T110841Z">
@@ -26128,6 +26176,14 @@ appropriate location such as the Applications folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130514T145249Z">
         <seg>OmegaT 3.0, 自述文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT 4.0 or later</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liufang" changedate="20180416T121840Z" creationid="liufang" creationdate="20180416T121840Z">
+        <seg>OmegaT 4.0或更高版本</seg>
       </tuv>
     </tu>
     <tu>
@@ -37473,6 +37529,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The results will be in the &lt;c0&gt;build\install\OmegaT&lt;/c0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liufang" changedate="20180416T122030Z" creationid="liufang" creationdate="20180416T122030Z">
+        <seg>结果将在&lt;c0&gt; build \ install \ OmegaT &lt;/ c0&gt;中显示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The rule-based segmentation is usually synonymous with sentence-based segmentation.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yujun Yin" changedate="20131007T083201Z" creationid="Yujun Yin" creationdate="20131007T083136Z">
@@ -40012,6 +40076,14 @@ the server.</seg>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T131812Z" creationid="Administrator" creationdate="20180411T131812Z">
         <seg>为确保没有翻译丢失，您需要：
 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To build the OmegaT program and all associated files, instead do</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liufang" changedate="20180416T122009Z" creationid="liufang" creationdate="20180416T121939Z">
+        <seg>而不是建立OmegaT程序和所有相关的文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44782,6 +44854,14 @@ the installation script (linux-install.sh).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can run OmegaT directly from the command line with</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liufang" changedate="20180416T121859Z" creationid="liufang" creationdate="20180416T121859Z">
+        <seg>您可以直接从命令行运行OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can select which elements are to be translated.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120201T044459Z">
@@ -47229,6 +47309,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T133211Z">
         <seg>转到段落菜单项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>gradlew run</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liufang" changedate="20180416T121910Z" creationid="liufang" creationdate="20180416T121910Z">
+        <seg>gradlew运行</seg>
       </tuv>
     </tu>
     <tu>
