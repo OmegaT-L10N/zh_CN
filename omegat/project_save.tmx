@@ -9726,6 +9726,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Background and principles</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T092422Z" creationid="lenovo" creationdate="20180416T092422Z">
+        <seg>背景与原则</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Backspace*</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120203T124016Z">
@@ -16619,6 +16627,14 @@ script provided (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
         <seg>关于应用程序</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For the background and principles, refer to the &lt;a0&gt;Preview Howto&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T092620Z" creationid="lenovo" creationdate="20180416T092620Z">
+        <seg>背景与原则信息请参考 &lt;a0&gt;Preview Howto&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28492,6 +28508,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T083424Z" creationid="chloechao" creationdate="20180412T083424Z">
         <seg>Priorview功能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Priorview is a small utility that provides a preview function for use with OmegaT.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T092550Z" creationid="lenovo" creationdate="20180416T092550Z">
+        <seg>Priorview是一个小工具，提供与OmegaT一起使用的预览功能。</seg>
       </tuv>
     </tu>
     <tu>
