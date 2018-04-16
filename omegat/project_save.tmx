@@ -37425,6 +37425,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The minimal package contains the same files as the full package, except for the main user manual.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T164405Z" creationid="lenovo" creationdate="20180416T164405Z">
+        <seg>最小软件包中2包含与完整软件包相同的文件，主用户手册除外。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The minimum is 10 seconds.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131118T023915Z" creationid="Fu Rhong" creationdate="20131118T023915Z">
