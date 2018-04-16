@@ -9341,6 +9341,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>At the time of writing, OmegaT will run much better with the Oracle version of Java (see above).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T084637Z" creationid="think" creationdate="20180416T084637Z">
+        <seg>在写此文档时，OmegaT将会在Oracle版本的Java中运行得更好（见上文）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>At the time of writing, the material to be translated comprises:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180415T143744Z" creationid="lenovo" creationdate="20180415T143744Z">
@@ -23727,6 +23735,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>More functions will usually be found in the "Latest" version.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T084735Z" creationid="think" creationdate="20180416T084735Z">
+        <seg>通常“最新”版本会显示更多功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>More in the chapter &lt;l1&gt;Machine translation&lt;/l1&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131128T001717Z" creationid="Fu Rhong" creationdate="20131128T001717Z">
@@ -23755,6 +23771,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T113919Z" creationid="Administrator" creationdate="20180411T113919Z">
         <seg>Moses 服务器网址：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Most Linux distributions use the OpenJDK version of Java by default.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T084540Z" creationid="think" creationdate="20180416T084540Z">
+        <seg>大多数Linux发行版默认使用OpenJDK版本的Java。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24674,6 +24698,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note however that:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T084516Z" creationid="think" creationdate="20180416T084516Z">
+        <seg>但请注意：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note that '*' and '?' have special meaning in regular expressions, so wild card search, as described here, applies to exact and keyword search only (see below).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131119T130013Z" creationid="Fu Rhong" creationdate="20131119T125800Z">
@@ -24806,6 +24838,14 @@ appropriate location such as the Applications folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131118T120126Z" creationid="Fu Rhong" creationdate="20131118T115846Z">
         <seg>注意在&lt;g2&gt;选项-&gt;文件过滤器&lt;/g2&gt;菜单中，修改的是全局用户过滤器而不是项目专用过滤器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note that it is easy to install multiple versions of OmegaT on Linux without conflicts.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T084912Z" creationid="think" creationdate="20180416T084912Z">
+        <seg>请注意，在Linux上安装多个版本的OmegaT而没有发生冲突是很容易的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34518,6 +34558,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="10353" changedate="20180414T083954Z" creationid="10353" creationdate="20180414T083954Z">
         <seg>OmegaT tokenizer是OmegaT的一个插件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The OmegaT version usually supplied is the "Standard" version.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T084656Z" creationid="think" creationdate="20180416T084656Z">
+        <seg>通常提供的OmegaT版本是“标准”版本。</seg>
       </tuv>
     </tu>
     <tu>
