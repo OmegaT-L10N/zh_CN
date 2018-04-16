@@ -18735,6 +18735,14 @@ need not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If a suitable piece of the work for your language has not yet been started, you can make an entry in the plan to indicate that you have assumed responsibility for it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T131901Z" creationid="lenovo" creationdate="20180416T131901Z">
+        <seg>如果您所使用的语言还没有开始对应的翻译工作，您可以在计划中输入一个条目，表明您已经承担这项工作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If a user interface in this language is available, &lt;a3&gt;OmegaT&lt;/a3&gt; uses it.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120208T035948Z">
@@ -37757,6 +37765,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120208T053051Z">
         <seg>控制台模式的目的是将 OmegaT 用作脚本环境的翻译工具。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The purpose of the plan is to prevent two or more translators from working on the same translation without being aware of it (duplication of effort).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T132214Z" creationid="lenovo" creationdate="20180416T132214Z">
+        <seg>该计划的目的是避免两个甚至更多的译员在互不知情的情况下进行重复的工作。</seg>
       </tuv>
     </tu>
     <tu>
