@@ -3125,6 +3125,22 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;Download Abiword here&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T084629Z" creationid="lenovo" creationdate="20180416T084629Z">
+        <seg>&lt;a0&gt;下载Abiword&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a0&gt;Download LibreOffice here&lt;/a0&gt;; &lt;a1&gt;download the Unoconv plug-in here&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T085048Z" creationid="lenovo" creationdate="20180416T085048Z">
+        <seg>&lt;a0&gt;下载LibreOffice&lt;/a0&gt;; &lt;a1&gt;下载Unoconv插件&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;Download&lt;/a0&gt; &lt;a1&gt;Get Started&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="10353" changedate="20180414T110245Z" creationid="10353" creationdate="20180414T110245Z">
@@ -7620,6 +7636,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T081803Z" creationid="lenovo" creationdate="20180416T081803Z">
         <seg>Abiword 是文字处理器，LibreOffice是办公套件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Abiword is a relatively small download and is very fast in use.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T082109Z" creationid="lenovo" creationdate="20180416T082109Z">
+        <seg>Abiword体积小，速度快。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21010,6 +21034,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It can also be used to convert .docx and .odt files to .html format, but to do so from the command line, it also requires Unoconv, a plug-in.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T085009Z" creationid="lenovo" creationdate="20180416T085009Z">
+        <seg>它也可用于将.docx和.odt文件转换为.html格式，但要从命令行执行此操作，还需要使用Unoconv插件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It can also be used when panes do not appear as expected following an OmegaT upgrade.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Kaname Madokami☆!" changedate="20180414T160759Z">
@@ -21086,6 +21118,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="10353" changedate="20180414T110654Z" creationid="10353" creationdate="20180414T110641Z">
         <seg>它不会替你进行翻译！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It has a command-line function for converting .docx and .odt files to .html format.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T082147Z" creationid="lenovo" creationdate="20180416T082147Z">
+        <seg>它具有将.docx和.odt文件转换为.html格式的命令行功能。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21271,6 +21311,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T155811Z">
         <seg>它被用于标记你的翻译。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is very easy for Linux users and fairly easy for Windows users to install.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T084615Z" creationid="lenovo" creationdate="20180416T084615Z">
+        <seg>Linux用户和Windows用户安装起来都很容易。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22361,6 +22409,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T142530Z" creationid="Zoe" creationdate="20180411T142142Z">
         <seg>LibreOffice和最近版本的OpenOffice.org现在以“插件”形式使用拼写字典， 字典文件在一个拓展名为.oxt的压缩文件包中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LibreOffice is a fully featured office suite similar to Microsoft Office.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T084752Z" creationid="lenovo" creationdate="20180416T084752Z">
+        <seg>LibreOffice是一个功能齐全的办公套件，类似于Microsoft Office。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26464,6 +26520,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131116T123943Z" creationid="Fu Rhong" creationdate="20131116T123943Z">
         <seg>完成上述操作后，即可删除&lt;e5&gt;OmegaT_3.n.n_Mac.zip&lt;/e5&gt;文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Once you have installed either Abiword or the LibreOffice+Unoconv combination, you can convert the target files produced by OmegaT to html format in order for them to be read by the browser.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T085255Z" creationid="lenovo" creationdate="20180416T085255Z">
+        <seg>成功安装Abiword或LibreOffice + Unoconv组合后，你可以将OmegaT生成的目标文件转换为html格式便于浏览器读取。</seg>
       </tuv>
     </tu>
     <tu>
