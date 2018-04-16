@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>"Standard", "Latest", "/trunk" and "Webstart".</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T083957Z" creationid="think" creationdate="20180416T083957Z">
+        <seg>“标准”，“最新”，“/ trunk”和“Webstart”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>"Tag groups" in this context are a single tag (such as &lt;i0&gt; and &lt;/i0&gt;).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120203T121053Z">
@@ -1685,6 +1693,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="ZH-CN" changeid="Zoe" changedate="20180412T142253Z" creationid="Zoe" creationdate="20180412T142253Z">
         <seg>（Ubuntu系统用户注意：当前版本的Ubuntu系统（9.10）中的tcl/tk默认安装中的字体略不美观，但这是可以调正的。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(Refer to the "Downloads" page on the OmegaT website for details of the differences.)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T084157Z" creationid="think" creationdate="20180416T084157Z">
+        <seg>（有关这些差异的详细信息，请参阅OmegaT网站上的“下载”页面。）</seg>
       </tuv>
     </tu>
     <tu>
@@ -34005,6 +34021,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120209T124817Z">
         <seg>"Cmd" 键就是在苹果键盘上印有 "command" 或“苹果”符号的那个键。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The "Latest" version is recommended.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T084046Z" creationid="think" creationdate="20180416T084046Z">
+        <seg>建议使用“最新”版本。</seg>
       </tuv>
     </tu>
     <tu>
