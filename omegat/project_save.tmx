@@ -14957,8 +14957,8 @@ project_save.tmx未真正上传，SVN切换到不稳定状态。</seg>
       <tuv lang="EN">
         <seg>Export the text from the PDF in Infix's XML format with Document &gt; Translate &gt; Export XML.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="think" changedate="20180416T012213Z" creationid="think" creationdate="20180416T012213Z">
-        <seg>按照Document &gt; Translate &gt; Export XML.路径导出</seg>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T020259Z" creationid="think" creationdate="20180416T012213Z">
+        <seg>在Infix的XML版式下按照Document &gt; Translate &gt; Export XML.路径，从PDF中导出文本。</seg>
       </tuv>
     </tu>
     <tu>
