@@ -10943,6 +10943,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Clicking on the text in question will display a text box and formatting marks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T064601Z" creationid="think" creationdate="20180416T064601Z">
+        <seg>点击存疑的文本将会显示一个文本框和格式标记。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Clo&amp;se</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="christy" changedate="20180407T160150Z" creationid="christy" creationdate="20180407T160150Z">
@@ -15021,8 +15029,8 @@ project_save.tmx未真正上传，SVN切换到不稳定状态。</seg>
       <tuv lang="EN">
         <seg>Export the text from the PDF in Infix's XML format with Document &gt; Translate &gt; Export XML.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="think" changedate="20180416T020626Z" creationid="think" creationdate="20180416T012213Z">
-        <seg>按照Document &gt; Translate &gt; Export XML.路径，从PDF中导出Infix XML格式的文本。</seg>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T064246Z" creationid="think" creationdate="20180416T012213Z">
+        <seg>按照文件&gt;翻译&gt;导出XML，从PDF中导出Infix XML格式的文本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30896,6 +30904,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ZH-CN" changeid="apple" changedate="20180415T075442Z" creationid="apple" creationdate="20180415T075442Z">
         <seg>选择TaaS领域</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Tools &gt; Text tool.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T064309Z" creationid="think" creationdate="20180416T064309Z">
+        <seg>选择工具&gt;文本工具。</seg>
       </tuv>
     </tu>
     <tu>
