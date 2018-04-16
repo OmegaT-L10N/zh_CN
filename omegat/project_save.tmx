@@ -16460,6 +16460,14 @@ project_save.tmx未真正上传，SVN切换到不稳定状态。</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Finally, there is the &lt;s0&gt;Beginner's Tutorial&lt;/s0&gt;, available &lt;a1&gt;here&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T170533Z" creationid="lenovo" creationdate="20180416T170533Z">
+        <seg>最后， &lt;s0&gt;初学者教程&lt;/s0&gt;的链接在 &lt;a1&gt;此处&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Find the line</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="liufang" changedate="20180416T122404Z" creationid="liufang" creationdate="20180416T122404Z">
@@ -39111,6 +39119,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131127T101357Z" creationid="Fu Rhong" creationdate="20131127T101357Z">
         <seg>可能会遇到这样的情况：项目源语言为荷兰语、目标语言为英语。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There may be older versions of the documentation and/or translation memories (TMX files) available for your language which are useful to your translation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T170647Z" creationid="lenovo" creationdate="20180416T170647Z">
+        <seg>文档的旧版本和/或翻译记忆库（TMX文件）可用作您的语言资源，这对您的翻译会很有用。</seg>
       </tuv>
     </tu>
     <tu>
