@@ -35913,6 +35913,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The screenshot shows an example: &lt;i0/&gt; Remove the line break.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T064800Z" creationid="think" creationdate="20180416T064800Z">
+        <seg>截图中是一个范例： &lt;i0/&gt; 删除换行符。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The script "{0}" is running...</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T124431Z">
