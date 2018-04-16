@@ -8664,6 +8664,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Although this has many advantages, it can be very useful for the translator to be able to see the ultimate layout and formatting whilst translating.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="anton" changedate="20180416T091618Z" creationid="anton" creationdate="20180416T091618Z">
+        <seg>虽然这样有很多有点，但若能在翻译时看到最终的布局和格式，这将对翻译人员起到非常大的帮助。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Always Confirm Quit</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
@@ -16690,8 +16698,8 @@ script provided (omegat.kaptn).</seg>
       <tuv lang="EN">
         <seg>For this reason, many CAT tools provide a preview function that shows the layout and formatting without the translator having to create the final document and open it in a separate application (usually a word processor).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180414T084428Z" creationid="lenovo" creationdate="20180414T084428Z">
-        <seg>For this reason, many CAT tools provide a preview function that shows the layout and formatting without the translator having to create the final document and open it in a separate application (usually a word processor</seg>
+      <tuv lang="ZH-CN" changeid="anton" changedate="20180416T091747Z" creationid="lenovo" creationdate="20180414T084428Z">
+        <seg>出于这个原因，许多CAT工具都提供预览功能，以此来显示布局和格式，而不需要翻译人员创建最终文档并在单独的应用程序中打开它（通常是文字处理器</seg>
       </tuv>
     </tu>
     <tu>
@@ -24075,6 +24083,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120223T155505Z">
         <seg>多数功能也可以通过键盘快捷方式调用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Most modern CAT tools display the text in segment-oriented form rather than with its ultimate layout and formatting.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="anton" changedate="20180416T091506Z" creationid="anton" creationdate="20180416T091506Z">
+        <seg>大多数现代CAT工具都是以片段为导向来显示文本，而不是以其最终的布局格式来显示.</seg>
       </tuv>
     </tu>
     <tu>
