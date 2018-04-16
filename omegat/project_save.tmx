@@ -50042,10 +50042,26 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>the browser you have installed;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T104337Z" creationid="lenovo" creationdate="20180416T104337Z">
+        <seg>你已经安装的浏览器；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>the contents of the source folder</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131111T122159Z" creationid="Fu Rhong" creationdate="20131111T122159Z">
         <seg>源文件夹的内容</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>the frequency with which the script is to check whether this file has changed (polling interval);</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T104742Z" creationid="lenovo" creationdate="20180416T104742Z">
+        <seg>脚本检查此文件是否已更改的频率（轮询间隔）；</seg>
       </tuv>
     </tu>
     <tu>
