@@ -26492,6 +26492,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Oracle (formerly Sun) Java versions: check the system requirements in the OmegaT documentation (readme.txt) for the precise Oracle Java version required (i.e. whether your version of Java is sufficiently recent).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T073105Z" creationid="think" creationdate="20180416T073105Z">
+        <seg>Oracle（以前称为Sun）Java版本：在 OmegaT文档中(readme.txt)查找系统的要求以获得Oracle Java版本所要求的准确信息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Oracle provides JREs for Solaris SPARC/x86 (Java 1.6) and for Linux x64, Solaris x64, Windows x64 (Java 1.6) at &lt;u0&gt;http://www.oracle.com/technetwork/java/archive-139210.html&lt;/u0&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131116T130229Z" creationid="Fu Rhong" creationdate="20131116T130229Z">
