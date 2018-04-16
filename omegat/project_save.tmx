@@ -16316,6 +16316,14 @@ project_save.tmx未真正上传，SVN切换到不稳定状态。</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For LibreOffice+Unoconv:&lt;br6/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T113708Z" creationid="lenovo" creationdate="20180416T113708Z">
+        <seg>LibreOffice+Unoconv:&lt;br6/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For Mac you can download the client for instance from &lt;u1&gt;SourceForge&lt;/u1&gt;, For Linux see &lt;u2&gt;Subversion Commands and Scripts&lt;/u2&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131111T110045Z" creationid="Fu Rhong" creationdate="20131111T110045Z">
@@ -34688,6 +34696,14 @@ The scope of a text replacement is the target segments of the project, whether t
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>That you have set the auto-refresh interval in the browser.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T113825Z" creationid="lenovo" creationdate="20180416T113825Z">
+        <seg>你已在浏览器中设置自动刷新间隔。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The
 current folder will be used instead.</seg>
       </tuv>
@@ -38482,6 +38498,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T144901Z" creationid="Zoe" creationdate="20180411T144901Z">
         <seg>这篇HOWTO描述了这一功能以及一些可能的用途。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This HowTo describes OmegaT's functions for automatic match propagation and one-to-many matching.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T113937Z" creationid="lenovo" creationdate="20180416T113937Z">
+        <seg>本指南介绍了OmegaT的自动匹配传播和一对多匹配功能。.</seg>
       </tuv>
     </tu>
     <tu>
