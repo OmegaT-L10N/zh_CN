@@ -36682,6 +36682,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Then save the changes and re-export the PDF to the XML file (and change the file extension etc.), and reload your OmegaT project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T065035Z" creationid="think" creationdate="20180416T064911Z">
+        <seg>然后保存更改，重新导出PDF为XML文件（然后更改文件扩展名等等），之后您的OmegaT项目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Then tick the "Export the segment to text files" box.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Zoe" changedate="20180412T042128Z" creationid="Zoe" creationdate="20180412T042128Z">
@@ -38618,8 +38626,8 @@ the server.</seg>
       <tuv lang="EN">
         <seg>To resolve this, open the original PDF file again in Infix.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="think" changedate="20180416T063753Z" creationid="think" creationdate="20180416T063716Z">
-        <seg>要解决它，只需要在Infix中重新打开原始PDF文件即可。</seg>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T064925Z" creationid="think" creationdate="20180416T063716Z">
+        <seg>要解决它，只需要在Infix中重新打开原始PDF文件。</seg>
       </tuv>
     </tu>
     <tu>
