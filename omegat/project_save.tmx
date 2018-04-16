@@ -3069,6 +3069,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a1&gt;Specific information on running Iceni Infix on Crossover Linux or Crossover Macintosh&lt;/a1&gt; is also available.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T005028Z" creationid="think" creationdate="20180416T005028Z">
+        <seg>&lt;a1&gt;Specific information on running Iceni Infix on Crossover Linux or Crossover Macintosh&lt;/a1&gt;也同样可以获取该软件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a2&gt;OmegaT&lt;/a2&gt; automatically detects glossary files in this folder when a project is opened.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021248Z">
@@ -6956,6 +6964,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Andrew" changedate="20180414T155316Z" creationid="weiyi" creationdate="20180406T065946Z">
         <seg>默认脚本为“替换颜色主题”，“深黑”为默认选项。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A demonstration version is available; at the time of writing, the full version costs around US$150.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T010610Z" creationid="think" creationdate="20180416T010610Z">
+        <seg>您可以获取其演示版本。在本文写作时，购买该软件的完整版本需要大约150美元。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24628,6 +24644,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Obtain and install Iceni Infix Professional from the &lt;a0&gt;Iceni webpage&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T005200Z" creationid="think" creationdate="20180416T005200Z">
+        <seg>从&lt;a0&gt;Iceni webpage&lt;/a0&gt; 获取和安装Iceni Infix Professional。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Obtain the .dic and .aff files of the dictionary you wish to use, and place these files in this folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T141222Z" creationid="Zoe" creationdate="20180411T141222Z">
@@ -38913,6 +38937,14 @@ install.sh.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T170403Z">
         <seg>翻译项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translating a PDF file: procedure</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T005109Z" creationid="think" creationdate="20180416T005109Z">
+        <seg>翻译一个PDF格式的文件：步骤</seg>
       </tuv>
     </tu>
     <tu>
