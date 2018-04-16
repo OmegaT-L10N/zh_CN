@@ -18859,6 +18859,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the path to the location of priorview.tcl contains spaces, put it in quotes, e.g.:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T112022Z" creationid="lenovo" creationdate="20180416T112022Z">
+        <seg>如果beforeview.tcl位置的路径包含空格，请将其放在引号中，例如：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the project language codes and the tmx language codes fully match, the segments are loaded in memory.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120218T061307Z">
@@ -40793,6 +40801,14 @@ install.sh.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180415T144326Z" creationid="lenovo" creationdate="20180415T144326Z">
         <seg>翻译者可以自行决定他们的工作量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Troubleshooting</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T111913Z" creationid="lenovo" creationdate="20180416T111913Z">
+        <seg>故障排除</seg>
       </tuv>
     </tu>
     <tu>
