@@ -34648,6 +34648,14 @@ The scope of a text replacement is the target segments of the project, whether t
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>That the file conversion utility is installed properly and is working.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T112755Z" creationid="lenovo" creationdate="20180416T112755Z">
+        <seg>文件转换实用程序已正确安装并正在运行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>That you are remembering to hit Ctrl+s, Ctrl+d in OmegaT.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T112641Z" creationid="lenovo" creationdate="20180416T112641Z">
@@ -41474,6 +41482,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Until/unless you do, there will be no changes to detect/display!</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T112722Z" creationid="lenovo" creationdate="20180416T112722Z">
+        <seg>除非你这样做，否则检测/显示将不会发生变化！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Untranslated segment</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T113227Z" creationid="xulihang" creationdate="20180408T113227Z">
@@ -44370,6 +44386,14 @@ the installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T081613Z" creationid="lenovo" creationdate="20180416T081613Z">
         <seg>你仍然可以使用以上描述的浏览器方案来预览文件，但是你仍然需要一个转换器来将文件转换成.html格式，以及自动启动转换器的功能，这样你就不用手动转换文件了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can test this with the relevant command below on the command line (terminal/console/DOS prompt).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T112951Z" creationid="lenovo" creationdate="20180416T112951Z">
+        <seg>你可以在命令行（终端/控制台/ DOS提示符）中使用下面的相关命令对其进行测试。.</seg>
       </tuv>
     </tu>
     <tu>
