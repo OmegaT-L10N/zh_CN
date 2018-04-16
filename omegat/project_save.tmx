@@ -20162,6 +20162,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In this folder, rename the two files HelpandManualDialect.java and HelpandManualFilter.java to TmxDialect.java and TmxFilter.java respectively.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="anton" changedate="20180416T084355Z" creationid="anton" creationdate="20180416T084355Z">
+        <seg>在这个文件夹中，分别将两个文件HelpandManualDialect.java和HelpandManualFilter.java重命名为TmxDialect.java和TmxFilter.java.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In this mode OmegaT will create a TMX for the whole project, based on the source files only.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120208T064635Z">
@@ -26632,6 +26640,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="10353" changedate="20180412T085709Z" creationid="10353" creationdate="20180412T085709Z">
         <seg>用 &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;K&lt;/k2&gt; &lt;/k0&gt;打开查找与替换窗口，把你想要替换的单词或词组输入到 &lt;e3&gt;查找&lt;/e3&gt; 框里。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open the files TMXDialect.java and TMX filter in a text editor.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="anton" changedate="20180416T084517Z" creationid="anton" creationdate="20180416T084517Z">
+        <seg>在本文编辑器中打开TMXDialect.java和TMX 过滤器.</seg>
       </tuv>
     </tu>
     <tu>
