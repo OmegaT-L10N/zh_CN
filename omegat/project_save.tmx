@@ -38262,6 +38262,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This HowTo describes the use of Priorview for &lt;b1&gt;Windows and Linux&lt;/b1&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T101509Z" creationid="lenovo" creationdate="20180416T101509Z">
+        <seg>本指南提供了&lt;b1&gt;Windows and Linux&lt;/b1&gt;的Priorview使用说明。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This HowTo explains how to create a new file filter for use with OmegaT by describing the creation of a rudimentary file filter for the TMX format.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="anton" changedate="20180416T083353Z" creationid="anton" creationdate="20180416T083353Z">
