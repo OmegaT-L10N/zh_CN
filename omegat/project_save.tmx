@@ -25700,6 +25700,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT will now run on the OpenJDK Java implementation supplied with some Linux distributions, but some functions (such as the full set of command-line options) may not be available; a different font set may be supplied; and some glitches have been reported, such as with window display and the segmentation function.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T074818Z" creationid="think" creationdate="20180416T074818Z">
+        <seg>OmegaT现在将运行在由某些Linux发行版提供的OpenJDK Java实现上，但某些功能（如全套命令行选项）可能不可用；可能提供不同的字型集；已经报错了一些小故障，如窗口显示和分段功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT will now terminate.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T023144Z">
@@ -26494,8 +26502,8 @@ installed on your system.</seg>
       <tuv lang="EN">
         <seg>Oracle (formerly Sun) Java versions: check the system requirements in the OmegaT documentation (readme.txt) for the precise Oracle Java version required (i.e. whether your version of Java is sufficiently recent).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="think" changedate="20180416T073105Z" creationid="think" creationdate="20180416T073105Z">
-        <seg>Oracle（以前称为Sun）Java版本：在 OmegaT文档中(readme.txt)查找系统的要求以获得Oracle Java版本所要求的准确信息。</seg>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T073728Z" creationid="think" creationdate="20180416T073105Z">
+        <seg>Oracle（以前称为Sun）Java版本：在 OmegaT文档中(readme.txt)查找系统的要求以获得Oracle Java版本所要求的准确信息（也就是您的Java版本是否足够新）。</seg>
       </tuv>
     </tu>
     <tu>
