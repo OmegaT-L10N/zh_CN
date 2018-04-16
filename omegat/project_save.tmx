@@ -19898,6 +19898,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Infix has functions for dealing with this and other problems that are beyond the scope of this HowTo.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T033518Z" creationid="think" creationdate="20180416T033518Z">
+        <seg>Infix具备一些能处理本操作指南涵盖范围之外的各种问题的功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Info</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T164352Z">
@@ -45837,6 +45845,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="think" changedate="20180416T031042Z" creationid="think" creationdate="20180416T031042Z">
         <seg> infix3.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>infix4.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T033521Z" creationid="think" creationdate="20180416T033521Z">
+        <seg> infix4.png</seg>
       </tuv>
     </tu>
     <tu>
