@@ -37950,6 +37950,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This situation will probably be familiar to you if you have translated Powerpoint files in OmegaT, or for that matter other CAT tools.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T063644Z" creationid="think" creationdate="20180416T063644Z">
+        <seg>如果您在OmegaT或其他CAT工具中翻译过Powerpoint文件，那么这一情况您或许比较熟悉。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This subfolder is initially empty.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131115T001130Z" creationid="Fu Rhong" creationdate="20131115T001130Z">
@@ -38580,6 +38588,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T134204Z" creationid="Zoe" creationdate="20180411T124142Z">
         <seg>要撤销一个片段的“可选翻译”状态，并使其与“默认翻译”保持一致，仅需删除掉这一片段的内容即可。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To resolve this, open the original PDF file again in Infix.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T063716Z" creationid="think" creationdate="20180416T063716Z">
+        <seg>要解决它，只需要Infix</seg>
       </tuv>
     </tu>
     <tu>
