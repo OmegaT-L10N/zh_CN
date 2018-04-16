@@ -2802,6 +2802,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>/usr/lib/jvm/java-6-sun-1.6.0.16/jre/bin/java -jar OmegaT.jar</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T091051Z" creationid="think" creationdate="20180416T091051Z">
+        <seg> /usr/lib/jvm/java-6-sun-1.6.0.16/jre/bin/java -jar OmegaT.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>1 conflict</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T024042Z" creationid="xulihang" creationdate="20180404T024042Z">
@@ -20426,6 +20434,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In your launch script, do not confuse the path to OmegaT.jar and the path to the java command.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T091120Z" creationid="think" creationdate="20180416T091120Z">
+        <seg>在启动脚本中，不要混淆OmegaT.jar的路径和java命令的路径。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Include Pattern</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="christy" changedate="20180407T162956Z" creationid="christy" creationdate="20180407T162956Z">
@@ -35229,8 +35245,8 @@ Please try to correct the error and reload the project.</seg>
       <tuv lang="EN">
         <seg>The command will therefore be (in this case):</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="think" changedate="20180416T091005Z" creationid="think" creationdate="20180416T091005Z">
-        <seg>因此该命令将（在这种情况下）：</seg>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T091031Z" creationid="think" creationdate="20180416T091005Z">
+        <seg>因此该命令为（在这种情况下）：</seg>
       </tuv>
     </tu>
     <tu>
