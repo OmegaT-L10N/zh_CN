@@ -10838,6 +10838,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check in Options &gt; File Filters that the new filter is present.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="anton" changedate="20180416T091201Z" creationid="anton" creationdate="20180416T091201Z">
+        <seg>检查选项 &gt; 文件过滤器 看是否存在新过滤器.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check in Options &gt; Machine Translate, that Google Translate V2 is checked.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T095707Z" creationid="Fu Rhong" creationdate="20131117T095707Z">
@@ -22385,6 +22393,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T020826Z" creationid="xulihang" creationdate="20180408T020826Z">
         <seg>启动安装程序。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Launch the newly compiled version.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="anton" changedate="20180416T091104Z" creationid="anton" creationdate="20180416T091104Z">
+        <seg>启动新编译版本</seg>
       </tuv>
     </tu>
     <tu>
@@ -39356,6 +39372,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120217T112736Z">
         <seg>要检查它们的语法和适用性，建议使用工具来直接查看效果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To check whether it works, you can place a TMX file in the /source folder of a project, or (more useful) perform a Text Search &gt; Search files operation on TMX files.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="anton" changedate="20180416T091341Z" creationid="anton" creationdate="20180416T091341Z">
+        <seg>要检查它是否有效，可以将TMX文件放在项目的/source文件夹中，或者(更有效的办法)在TMX文件上执行文本搜索&gt; 搜索文件 的操作.</seg>
       </tuv>
     </tu>
     <tu>
