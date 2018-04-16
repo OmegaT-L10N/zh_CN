@@ -9141,6 +9141,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As an open-source application, OmegaT has been included by many Linux distributions in their repositories, so you may be able to install it by this route.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T084455Z" creationid="think" creationdate="20180416T084455Z">
+        <seg>作为一个开放源代码的应用程序，OmegaT已经被许多Linux发行版包含在他们的仓库中，所以你可以通过这条路线安装它。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As elsewhere in the OmegaT project, the work of programming OmegaT is done by volunteers, and in keeping with the project philosophy, the developments and improvements they make to OmegaT are ultimately at their discretion.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="18261" changedate="20180412T130151Z" creationid="18261" creationdate="20180412T130151Z">
@@ -31404,6 +31412,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select a version without or with JRE depending upon your Java situation (see above).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T084317Z" creationid="think" creationdate="20180416T084317Z">
+        <seg>根据您的Java情况选择不带或带有JRE的版本（请参阅上文）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select an existing filter for a format similar to that for the new filter.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="anton" changedate="20180416T084046Z" creationid="anton" creationdate="20180416T084046Z">
@@ -42546,6 +42562,14 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120203T121147Z">
         <seg>在片段中，第一个组（成对或单个的）获得编号 0，第二个编号为 1，以此类推。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Without/with JRE included, i.e. the cross-platform without JRE, e.g. "OmegaT_2.1.7_02_Beta_Without_JRE.zip" and the Linux-specific version with JRE, e.g. "OmegaT_2.1.7_02_Beta_Linux.tar.bz2".</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T084257Z" creationid="think" creationdate="20180416T084257Z">
+        <seg>没有/包含JRE，即没有JRE的跨平台，例如 “OmegaT_2.1.7_02_Beta_Without_JRE.zip”和具有JRE的Linux特定版本，例如，“OmegaT_2.1.7_02_Beta_Linux.tar.bz2”。</seg>
       </tuv>
     </tu>
     <tu>
