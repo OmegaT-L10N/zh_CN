@@ -45511,6 +45511,14 @@ the installation script (linux-install.sh).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can modify, correct, add or delete information at your own discretion.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T172211Z" creationid="lenovo" creationdate="20180416T172211Z">
+        <seg>您可以自行决定修改、更正、添加或删除信息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can now translate the text (see screenshot).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="think" changedate="20180416T023327Z" creationid="think" creationdate="20180416T023327Z">
@@ -45715,6 +45723,14 @@ the installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T165103Z" creationid="lenovo" creationdate="20180416T165103Z">
         <seg>您无需翻译整个软件包，可以只翻译一部分，比如只翻译用户界面或快速入门指南。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You have complete freedom in how you translate.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T172011Z" creationid="lenovo" creationdate="20180416T172011Z">
+        <seg>您可以完全自己决定如何去翻译。</seg>
       </tuv>
     </tu>
     <tu>
