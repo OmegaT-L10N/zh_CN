@@ -10398,6 +10398,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By default, OmegaT uses automatic match propagation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T115357Z" creationid="lenovo" creationdate="20180416T115357Z">
+        <seg>默认情况下，OmegaT使用自动匹配传播。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By default, left justification is used for Left-To-Right (LTR) languages and right justification for Right-To-Left (RTL) languages.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131031T074949Z">
@@ -18571,6 +18579,14 @@ need not be entered.)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120218T062004Z">
         <seg>如果指定的片段已翻译过一次且翻译正确，则无需再次翻译它们。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If a segment has already been translated and an identical segment later on in the text is then changed, the earlier segment will be brought into line with the changed segment.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T120037Z" creationid="lenovo" creationdate="20180416T115903Z">
+        <seg>如果一个已译片段在下文更改了译法，则较早的片段将与最新修改的片段保持一致。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29482,8 +29498,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Propagation</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T115349Z" creationid="lenovo" creationdate="20180416T115349Z">
-        <seg>传播n默认情况下，OmegaT使用自动匹配传播。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T115548Z" creationid="lenovo" creationdate="20180416T115349Z">
+        <seg>传播</seg>
       </tuv>
     </tu>
     <tu>
@@ -32140,6 +32156,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Segments which occur more than once are described in OmegaT as "non-unique segments".</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T120046Z" creationid="lenovo" creationdate="20180416T115952Z">
+        <seg>OmegaT将多次出现的片段描述为“非唯一片段“。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Segments with notes</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T032158Z" creationid="xulihang" creationdate="20180404T032158Z">
@@ -32456,6 +32480,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T165803Z">
         <seg>选定的引擎：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Selecting View &gt; Mark Non-Unique Segments causes only the first instance of a non-unique segment to be displayed in black, and second and subsequent instances to be displayed in grey.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T120903Z" creationid="lenovo" creationdate="20180416T120704Z">
+        <seg>选择 视图 &gt; 标记 非唯一片段 将导致只显示非唯一片段的第一个实例显示为黑色，并且第二个和后续实例显示为灰色.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38210,6 +38242,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The user can therefore see immediately that a segment in grey, rather than black, has already been checked.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T122315Z" creationid="lenovo" creationdate="20180416T121425Z">
+        <seg>因此用户很快就可以看到灰色而非黑色的语段已经检查完毕。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The user group also serves as the main point of contact between users and the project team.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T110053Z" creationid="cpeishan" creationdate="20180407T105951Z">
@@ -39550,6 +39590,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This is useful when a translation is being checked, since only the first instance of identical segments may need to be checked.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T120854Z" creationid="lenovo" creationdate="20180416T120854Z">
+        <seg>这个功能很实用，翻译校对时只需要检查相同段的第一个实例。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This is where you type and edit your translation.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120218T122355Z">
@@ -39618,6 +39666,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120218T060502Z">
         <seg>这里的意思是，例如如果您想添加一个辅助 TM 到当前正在工作的项目时，无需退出项目：只要简单地重新载入项目，所做的更改就会生效。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This means that as soon as a segment is translated, the same translation is automatically inserted into all identical segments.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T120003Z" creationid="lenovo" creationdate="20180416T115556Z">
+        <seg>这意味着只要翻译了一个片段，相同的翻译就会自动插入到所有相同的语段中。</seg>
       </tuv>
     </tu>
     <tu>
