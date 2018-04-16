@@ -2874,6 +2874,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>1st example modification: changing the colour of segment highlighting</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liufang" changedate="20180416T122248Z" creationid="liufang" creationdate="20180416T122248Z">
+        <seg>第一个示例修改：更改段高亮的颜色</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>2 letters (e.g. JA for Japanese), or</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120218T061112Z">
@@ -16284,6 +16292,14 @@ project_save.tmx未真正上传，SVN切换到不稳定状态。</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Find the line</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liufang" changedate="20180416T122404Z" creationid="liufang" creationdate="20180416T122404Z">
+        <seg>找到该行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Find the lines:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="anton" changedate="20180416T090840Z" creationid="anton" creationdate="20180416T090840Z">
@@ -18890,6 +18906,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If not, debugging messages will be shown which will (hopefully) provide some idea of where the problem is.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liufang" changedate="20180416T122147Z" creationid="liufang" creationdate="20180416T122147Z">
+        <seg>如果没有，则会显示调试消息，它将（希望）提供有关问题出现的一些信息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If not, why not write an article on using OmegaT?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="18261" changedate="20180412T105048Z" creationid="18261" creationdate="20180412T105048Z">
@@ -19942,6 +19966,14 @@ is to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If your code has compiled successfully, the compiled OmegaT is placed in:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liufang" changedate="20180416T122203Z" creationid="liufang" creationdate="20180416T122203Z">
+        <seg>如果你的代码编译成功，编译后的OmegaT被放入：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If your existing OmegaT installation is a "Windows with JRE" version, the new version must also be a "Windows with JRE" version.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120206T121113Z">
@@ -20670,6 +20702,22 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="anton" changedate="20180416T090556Z" creationid="anton" creationdate="20180416T090556Z">
         <seg>在文件夹/src/org/omegat中，用文本编辑器打开Bundle.properties文件并查找行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the folder &lt;c0&gt;src/org/omegat/gui/editor&lt;/c0&gt; open the file &lt;c1&gt;SegmentBuilder.java&lt;/c1&gt; in a text editor.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liufang" changedate="20180416T122304Z" creationid="liufang" creationdate="20180416T122304Z">
+        <seg>在文件夹&lt;c0&gt; src / org / omegat / gui / editor &lt;/ c0&gt;中，在文本编辑器中打开文件&lt;c1&gt; SegmentBuilder.java &lt;/ c1&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the folder &lt;c0&gt;src/org/omegat/util/gui&lt;/c0&gt; open the file &lt;c1&gt;Styles.java&lt;/c1&gt; in a text editor.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liufang" changedate="20180416T122354Z" creationid="liufang" creationdate="20180416T122354Z">
+        <seg>在文件夹&lt;c0&gt; src / org / omegat / util / gui &lt;/ c0&gt;中，在文本编辑器中打开文件&lt;c1&gt; Styles.java &lt;/ c1&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30456,6 +30504,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Replace &lt;c0&gt;COLOR_GREEN&lt;/c0&gt; with &lt;c1&gt;COLOR_BLUE&lt;/c1&gt; and &lt;c2&gt;192, 255, 192&lt;/c2&gt; with &lt;c3&gt;225, 225, 255&lt;/c3&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liufang" changedate="20180416T122441Z" creationid="liufang" creationdate="20180416T122441Z">
+        <seg>用&lt;c3&gt; 225,225,255 &lt;/ c3&gt;替换&lt;c0&gt; COLOR_GREEN &lt;/ c0&gt;与&lt;c1&gt; COLOR_BLUE &lt;/ c1&gt;和&lt;c2&gt; 192,255,192 &lt;/ c2&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Replace &lt;l0&gt;&lt;filename&gt;&lt;/l0&gt; with the name of the file you wish to create, either absolute or relative to the working folder (the folder you start &lt;a1&gt;OmegaT&lt;/a1&gt; from).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131127T111634Z" creationid="Fu Rhong" creationdate="20131127T111634Z">
@@ -33874,6 +33930,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
         <seg>重现 BUG 的步骤</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Still in your command-line window, change to this folder, e.g. with:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liufang" changedate="20180416T122216Z" creationid="liufang" creationdate="20180416T122216Z">
+        <seg>仍然在您的命令行窗口中，切换到此文件夹，例如有：</seg>
       </tuv>
     </tu>
     <tu>
@@ -45865,10 +45929,26 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>and launch OmegaT with:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liufang" changedate="20180416T122231Z" creationid="liufang" creationdate="20180416T122231Z">
+        <seg>并推出OmegaT：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>and many, many more very helpful people</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
         <seg>以及非常、非常多的提供了帮助的人们。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>and replace &lt;c0&gt;COLOR_GREEN&lt;/c0&gt; with &lt;c1&gt;COLOR_BLUE&lt;/c1&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liufang" changedate="20180416T122343Z" creationid="liufang" creationdate="20180416T122343Z">
+        <seg>并用&lt;c1&gt; COLOR_BLUE &lt;/ c1&gt;替换&lt;c0&gt; COLOR_GREEN &lt;/ c0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50061,6 +50141,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131108T030808Z" creationid="Fu Rhong" creationdate="20131108T030808Z">
         <seg>pt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>public static final Color COLOR_GREEN = new Color(192, 255, 192);</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liufang" changedate="20180416T122416Z" creationid="liufang" creationdate="20180416T122416Z">
+        <seg>public static final Color COLOR_GREEN = new Color（192，255，192）;</seg>
       </tuv>
     </tu>
     <tu>
