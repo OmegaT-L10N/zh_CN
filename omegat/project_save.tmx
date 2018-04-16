@@ -21581,6 +21581,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Launch Iceni Infix and open the PDF file you wish to translate.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T011200Z" creationid="think" creationdate="20180416T011200Z">
+        <seg>安装Iceni Infix 并打开您想要翻译的PDF文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Launch command arguments</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
@@ -34481,6 +34489,14 @@ instead.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120214T033634Z">
         <seg>转义符 ('\u001B')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The example in the screenshot is the &lt;a0&gt;European Commission's SME user guide in Hungarian&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T011653Z" creationid="think" creationdate="20180416T011653Z">
+        <seg>截图中的示例是&lt;a0&gt;European Commission's SME user guide in Hungarian&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
