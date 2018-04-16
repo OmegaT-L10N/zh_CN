@@ -16308,6 +16308,14 @@ project_save.tmx未真正上传，SVN切换到不稳定状态。</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For Abiword:&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T113128Z" creationid="lenovo" creationdate="20180416T113128Z">
+        <seg>Abiword：&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For Mac you can download the client for instance from &lt;u1&gt;SourceForge&lt;/u1&gt;, For Linux see &lt;u2&gt;Subversion Commands and Scripts&lt;/u2&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131111T110045Z" creationid="Fu Rhong" creationdate="20131111T110045Z">
@@ -18383,6 +18391,14 @@ need not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If all is well, an .html version of the file will be produced:&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T113118Z" creationid="lenovo" creationdate="20180416T113118Z">
+        <seg>如果一切正常，将生成文件的一个.html版本：&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If an &lt;a0&gt;OmegaT&lt;/a0&gt; project contains one or more glossaries, any terms in the glossary which are also found in the current segment will be automatically displayed in the Glossary viewer.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021248Z">
@@ -20076,6 +20092,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="flycr" changedate="20180406T123936Z" creationid="flycr" creationdate="20180406T123936Z">
         <seg>在评论中查找</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In each case, &lt;i0&gt;file&lt;/i0&gt; is the name of a .docx or .odt file.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T113010Z" creationid="lenovo" creationdate="20180416T113010Z">
+        <seg>在每种情况下，&lt;i0&gt;文件&lt;/ i0&gt;是.docx或.odt文件的名称。.</seg>
       </tuv>
     </tu>
     <tu>
