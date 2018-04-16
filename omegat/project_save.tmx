@@ -1922,10 +1922,26 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- Add the following options to launch OmegaT (where Client ID: my_clientid1)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="anton" changedate="20180416T082325Z" creationid="anton" creationdate="20180416T082325Z">
+        <seg>-添加以下选项以启动OmegaT (where Client ID: my_clientid1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- After editing OmegaT.l4J.ini (where Client ID: my_clientid1)&lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="anton" changedate="20180416T081622Z" creationid="anton" creationdate="20180416T081622Z">
         <seg>-编辑OmegaT.l4J.ini之后 (where Client ID: my_clientid1)&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- After editing OmegaT.sh (where Client ID: my_clientid1)&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="anton" changedate="20180416T082232Z" creationid="anton" creationdate="20180416T082232Z">
+        <seg>-在编辑 OmegaT.sh之后 (where Client ID: my_clientid1)&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1958,6 +1974,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="ZH-CN" changeid="anton" changedate="20180416T081554Z" creationid="anton" creationdate="20180416T081554Z">
         <seg>-编辑OmegaT.l4J.ini之前&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- Before editing OmegaT.sh&lt;br3/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="anton" changedate="20180416T082217Z" creationid="anton" creationdate="20180416T082217Z">
+        <seg>- 在编辑 OmegaT.sh之前&lt;br3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2022,6 +2046,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130514T151749Z">
         <seg>- 编码文本（*.UTF8）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- Find the file OmegaT.app/Contents/MacOS/OmegaT.sh and edit the following lines with your preferred plain-text editor:&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="anton" changedate="20180416T082143Z" creationid="anton" creationdate="20180416T082143Z">
+        <seg>-在OmegaT.app/Contents/MacOS/OmegaT.sh路径下找到文件并用你喜欢的纯文本编辑器编辑下行:&lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2222,6 +2254,30 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130514T151944Z">
         <seg>- ResX files (*.resx)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- Right-click on OmegaT.app and select "Show Package Contents."&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="anton" changedate="20180416T081953Z" creationid="anton" creationdate="20180416T081953Z">
+        <seg>-右键单击OmegaT.app并选择”显示包装内容“&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- Save OmegaT.l4J.ini.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="anton" changedate="20180416T081752Z" creationid="anton" creationdate="20180416T081752Z">
+        <seg>- 保存 OmegaT.l4J.ini.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- Save OmegaT.sh.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="anton" changedate="20180416T082245Z" creationid="anton" creationdate="20180416T082245Z">
+        <seg>- 保存 OmegaT.sh.</seg>
       </tuv>
     </tu>
     <tu>
