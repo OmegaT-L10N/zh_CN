@@ -2925,6 +2925,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>2nd example modification: increasing the number of fuzzy matches displayed from five to ten</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liufang" changedate="20180416T122458Z" creationid="liufang" creationdate="20180416T122458Z">
+        <seg>第二个示例修改：将显示的模糊匹配数量从五个增加到十个</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>3.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130514T152511Z">
@@ -12335,6 +12343,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Copyright Marc Prior 2011-2012</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liufang" changedate="20180416T122610Z" creationid="liufang" creationdate="20180416T122610Z">
+        <seg>Copyright 2011-2012版权所有</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Copyright Marc Prior 2012</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T091424Z" creationid="lenovo" creationdate="20180416T091424Z">
@@ -16590,6 +16606,14 @@ script provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For both examples, compile and test as described above.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liufang" changedate="20180416T122552Z" creationid="liufang" creationdate="20180416T122552Z">
+        <seg>对于这两个示例，如上所述进行编译和测试。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For cases where two or more identical segments require different translations, OmegaT offers "one-to-many matching".</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T120737Z" creationid="Zoe" creationdate="20180411T120737Z">
@@ -16984,6 +17008,14 @@ script provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For the sake of convenience, they will be referred to below as "MS Office 2007 file formats".</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liufang" changedate="20180416T122712Z" creationid="liufang" creationdate="20180416T122712Z">
+        <seg>为了方便起见，下面将它们称为“MS Office 2007文件格式”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For the text export function to be used, you must first enable it within OmegaT itself:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Zoe" changedate="20180412T041720Z" creationid="Zoe" creationdate="20180412T041720Z">
@@ -17182,6 +17214,14 @@ script provided (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="apple" changedate="20180415T080446Z" creationid="apple" creationdate="20180415T080446Z">
         <seg>来自ICE翻译记忆</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>From Version 1.7.1 onwards, OmegaT has been able to handle Microsoft Office 2007 files directly, without conversion.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liufang" changedate="20180416T122725Z" creationid="liufang" creationdate="20180416T122725Z">
+        <seg>从版本1.7.1开始，OmegaT能够直接处理Microsoft Office 2007文件，无需转换。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20702,6 +20742,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="anton" changedate="20180416T090556Z" creationid="anton" creationdate="20180416T090556Z">
         <seg>在文件夹/src/org/omegat中，用文本编辑器打开Bundle.properties文件并查找行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the folder &lt;c0&gt;/src/org/omegat/util&lt;/c0&gt; open the file &lt;c1&gt;OConsts.java&lt;/c1&gt; in a text editor.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liufang" changedate="20180416T122517Z" creationid="liufang" creationdate="20180416T122517Z">
+        <seg>在文件夹&lt;c0&gt; / src / org / omegat / util &lt;/ c0&gt;中，在文本编辑器中打开文件&lt;c1&gt; OConsts.java &lt;/ c1&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35739,6 +35787,14 @@ Please try to correct the error and reload the project.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The advantages of using the .docx format in conjunction with OmegaT</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liufang" changedate="20180416T122753Z" creationid="liufang" creationdate="20180416T122753Z">
+        <seg>与OmegaT结合使用.docx格式的优势</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The alert (bell) character ('\u0007')</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120214T033625Z">
@@ -36681,6 +36737,14 @@ instead.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120214T033612Z">
         <seg>换页符 ('\u000C')</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The formats are also used in MS Office 2010.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liufang" changedate="20180416T122700Z" creationid="liufang" creationdate="20180416T122700Z">
+        <seg>这些格式也在MS Office 2010中使用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38740,6 +38804,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>These formats are formally known as "Office Open XML", and have the extensions .docx, .xlsx and .pptx respectively.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liufang" changedate="20180416T122646Z" creationid="liufang" creationdate="20180416T122646Z">
+        <seg>这些格式正式称为“Office Open XML”，分别具有扩展名.docx，.xlsx和.pptx。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>These segments are marked and delimited by special characters and MS Word formatting styles.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T120046Z" creationid="lenovo" creationdate="20180416T120046Z">
@@ -39026,6 +39098,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="think" changedate="20180416T070445Z" creationid="think" creationdate="20180416T070445Z">
         <seg>该操作指导您如何在Linux上使用OmegaT。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This HowTo provides tips on translating MS Office 2007 and later (Office Open XML, .docx) files in OmegaT.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liufang" changedate="20180416T122625Z" creationid="liufang" creationdate="20180416T122625Z">
+        <seg>本HowTo提供有关在OmegaT中翻译MS Office 2007及更高版本（Office Open XML，.docx）文件的提示。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44038,6 +44118,22 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>With the advent of Microsoft Office 2007, Microsoft Word, Excel and Powerpoint have new default file formats.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liufang" changedate="20180416T122636Z" creationid="liufang" creationdate="20180416T122636Z">
+        <seg>随着Microsoft Office 2007的出现，Microsoft Word，Excel和Powerpoint具有新的默认文件格式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With the appearance of OmegaT Version 2.1.8, the handling of this file format in OmegaT also became much more user-friendly.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liufang" changedate="20180416T122736Z" creationid="liufang" creationdate="20180416T122736Z">
+        <seg>随着OmegaT 2.1.8版的出现，在OmegaT中处理这种文件格式也变得更加用户友好。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>With this command you can move backward one segment at a time, to return later to the current segment using &lt;g0&gt;Forward in history... &lt;/g0&gt;command below.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
@@ -45941,6 +46037,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
         <seg>以及非常、非常多的提供了帮助的人们。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>and replace &lt;c0&gt;= 5&lt;/c0&gt; with &lt;c1&gt;= 10&lt;/c1&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liufang" changedate="20180416T122536Z" creationid="liufang" creationdate="20180416T122536Z">
+        <seg>并用&lt;c1&gt; = 10 &lt;/ c1&gt;替换&lt;c0&gt; = 5 &lt;/ c0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
