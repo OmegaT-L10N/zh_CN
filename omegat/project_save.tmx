@@ -1906,6 +1906,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- Access the above website and [Sign in] to Microsoft Azure Marketplace.&lt;br3/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="anton" changedate="20180416T075258Z" creationid="anton" creationdate="20180416T075033Z">
+        <seg>访问上述网站并【登陆】到&lt;br3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- Android resource (*.xml)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130514T151953Z">
