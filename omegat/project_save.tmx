@@ -35082,6 +35082,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Quit button closes Priorview and also deletes the temporary files that it creates.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T111209Z" creationid="lenovo" creationdate="20180416T111209Z">
+        <seg>点击停止按钮，关闭Priorview并删除它创建的临时文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Scripting window allows you to load an existing script into the text area and run it against the current opened project.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T085003Z" creationid="lenovo" creationdate="20180411T085003Z">
