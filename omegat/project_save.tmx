@@ -9758,6 +9758,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Automatic hyphenation also adds unnecessary tags, so disable it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liufang" changedate="20180416T123312Z" creationid="liufang" creationdate="20180416T123312Z">
+        <seg>自动连字还会添加不必要的标签，因此请将其禁用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Automating modifications of the translated document file names by replacing translatable contents with its translation.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120201T035732Z">
@@ -16863,6 +16871,14 @@ script provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, without the "aggregate tags" function, where a word in the source text is in bold and italics, the translator could choose to render it in bold only, or in italics only.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liufang" changedate="20180416T123113Z" creationid="liufang" creationdate="20180416T123113Z">
+        <seg>例如，如果没有“聚合标签”功能，则源文本中的单词以粗体和斜体显示，译者可以选择仅以粗体显示，或仅以斜体显示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
@@ -18293,6 +18309,14 @@ script provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>How to remove unwanted formatting code from .docx files</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liufang" changedate="20180416T123224Z" creationid="liufang" creationdate="20180416T123224Z">
+        <seg>如何从.docx文件中删除不需要的格式代码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>How to translate Magento</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T144916Z" creationid="cpeishan" creationdate="20180407T144916Z">
@@ -18811,6 +18835,14 @@ need not be entered.)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Andrew" changedate="20180413T144920Z" creationid="weiyi" creationdate="20180406T025915Z">
         <seg>如果选中该选项，空格将以小点显示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If every single word in OmegaT is enclosed within tags, it is possible that Word has attempted to spell-check the text without access to a suitable spelling dictionary, and has therefore marked each word as mis-spelt.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liufang" changedate="20180416T123250Z" creationid="liufang" creationdate="20180416T123250Z">
+        <seg>如果OmegaT中的每个单词都包含在标签内，Word可能会拼写检查文本而无法访问合适的拼写字典，因此将每个单词标记为拼写错误。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24759,6 +24791,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Most users will probably find that the greater ease of use outweighs this drawback.)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liufang" changedate="20180416T123135Z" creationid="liufang" creationdate="20180416T123135Z">
+        <seg>大多数用户可能会发现更大的易用性超过了这个缺点。)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mourning and sorrow&lt;p&gt;404 not with us now&lt;p&gt;Lost to paradise</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130509T153530Z">
@@ -26964,6 +27004,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT shares this problem with other CAT tools that handle the .docx format, and the solutions are similar or the same.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liufang" changedate="20180416T123212Z" creationid="liufang" creationdate="20180416T123212Z">
+        <seg>OmegaT与处理.docx格式的其他CAT工具共享此问题，并且解决方案相似或相同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT stores your translations and proposes possible translations from similar segments in registered in the translation memory files.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yujun Yin" changedate="20131007T080047Z" creationid="Yujun Yin" creationdate="20131007T075949Z">
@@ -27496,6 +27544,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="18261" changedate="20180413T012231Z" creationid="18261" creationdate="20180412T131246Z">
         <seg>其中一个原因是，所需的功能可能已经实现，或者可能存在无法实现的原因。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>One solution is to switch off automatic spelling checking in Word.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liufang" changedate="20180416T123301Z" creationid="liufang" creationdate="20180416T123301Z">
+        <seg>一种解决方案是关闭Word中的自动拼写检查。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33188,6 +33244,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Since these are inconvenient during translation, it is worthwhile trying to remove these nuisance tags before beginning translation in OmegaT.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liufang" changedate="20180416T123158Z" creationid="liufang" creationdate="20180416T123158Z">
+        <seg>由于这些在翻译过程中不方便，因此在开始OmegaT翻译之前，尝试去除这些令人讨厌的标签是值得的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Since version 2.0.1, OmegaT has had a text export function.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T145234Z" creationid="Zoe" creationdate="20180411T144705Z">
@@ -35341,6 +35405,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120201T112410Z">
         <seg>'?' 字符只匹配一个字符。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The .docx format is also prone to the introduction of "nuisance" formatting code which results in unwanted and unnecessary tags appearing in OmegaT's editor pane.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liufang" changedate="20180416T123148Z" creationid="liufang" creationdate="20180416T123148Z">
+        <seg>.docx格式也容易引入“滋扰”格式代码，导致OmegaT编辑器窗格中出现不需要的和不必要的标签。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44222,6 +44294,14 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>With the "aggregate tags" function enabled, this is not possible.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liufang" changedate="20180416T123123Z" creationid="liufang" creationdate="20180416T123123Z">
+        <seg>启用“聚合标签”功能后，这是不可能的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>With the advent of Microsoft Office 2007, Microsoft Word, Excel and Powerpoint have new default file formats.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="liufang" changedate="20180416T122636Z" creationid="liufang" creationdate="20180416T122636Z">
@@ -44298,6 +44378,14 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130504T162355Z">
         <seg>Word 软件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Word 2007 marks any words not in its spelling dictionary with tags, so even a couple of words which it considers to be mis-spelt will result in a plethora of tags.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liufang" changedate="20180416T123238Z" creationid="liufang" creationdate="20180416T123238Z">
+        <seg>Word 2007标记任何不在其拼写词典中的单词，因此即使是一些它认为拼错的单词也会导致过多的标签。</seg>
       </tuv>
     </tu>
     <tu>
