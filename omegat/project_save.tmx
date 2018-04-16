@@ -37198,6 +37198,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This enables the HTML segmentation rule to be used to choose whether or not segmentation should occur at these points.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T024045Z" creationid="think" creationdate="20180416T024045Z">
+        <seg>这样就能应用HTML的分割规则来选择是否应该在这些点上进行分割。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This enables the numerous suggestions to be managed more easily.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="18261" changedate="20180413T010602Z" creationid="18261" creationdate="20180413T010602Z">
