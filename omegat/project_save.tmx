@@ -9854,6 +9854,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Beneath these lines, you can also insert the code:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="anton" changedate="20180416T090143Z" creationid="anton" creationdate="20180416T090143Z">
+        <seg>在这几行下面，您还可以插入代码:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bengali</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
@@ -10474,6 +10482,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120212T035058Z">
         <seg>将文件扩展名由 &lt;l1&gt;.txt&lt;/l1&gt; 改为 &lt;l2&gt;.utf8。&lt;/l2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt; 会自动将文件解析为 UTF-8 文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Change the file extension, in this case to .tmx, by changing the line:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="anton" changedate="20180416T090405Z" creationid="anton" creationdate="20180416T090405Z">
+        <seg>通过更改文件扩展名，在本例中改为.tmx:</seg>
       </tuv>
     </tu>
     <tu>
@@ -19644,6 +19660,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="anton" changedate="20180416T084913Z" creationid="anton" creationdate="20180416T084913Z">
         <seg>在 TMXDialect.java中:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In TMXFilter.java:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="anton" changedate="20180416T090315Z" creationid="anton" creationdate="20180416T090315Z">
+        <seg>在TMXFilter.java里:</seg>
       </tuv>
     </tu>
     <tu>
@@ -38982,6 +39006,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This will make the display of the TMX files neater, but again, it is not absolutely essential.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="anton" changedate="20180416T090307Z" creationid="anton" creationdate="20180416T090307Z">
+        <seg>这将使TMX文件显得更整洁，但同样，这也不是必要的操作.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This will result in deletion of any user configuration settings that have been made (such as changes to the segmentation rules), and – if the folder is deleted "properly", i.e. not simply moved to trash, cannot be restored.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180415T142107Z" creationid="lenovo" creationdate="20180415T142107Z">
@@ -45317,6 +45349,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131031T075007Z">
         <seg>缺省对齐方式，这由语言决定的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>defineIntactTags(new String[]&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="anton" changedate="20180416T090208Z" creationid="anton" creationdate="20180416T090208Z">
+        <seg>定义IntactTags(新字符串[]&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
