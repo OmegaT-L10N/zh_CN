@@ -7536,6 +7536,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A script (for Windows only) and procedure was recently (2008) developed enabling OmegaT users to produce Trados uncleaned RTF files for delivery at the end of their translation stage.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T120113Z" creationid="lenovo" creationdate="20180416T120113Z">
+        <seg>最近（2008年）开发了一个脚本（仅适用于Windows）和程序，使OmegaT用户能够在其翻译阶段结束时生成Trados未清理的RTF文件以供交付</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A simple set of QA checks for current OmegaT project</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T112916Z" creationid="xulihang" creationdate="20180408T112916Z">
@@ -8756,6 +8764,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
         <seg>阿姆哈拉语</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An &lt;a0&gt;OmegaT plugin&lt;/a0&gt; is now available by means of which this format can be handled in OmegaT.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T120230Z" creationid="lenovo" creationdate="20180416T120230Z">
+        <seg>现在可以使用一个&lt;a0&gt; OmegaT插件&lt;/ a0&gt;，通过它可以在OmegaT中处理这种格式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15259,6 +15275,14 @@ project_save.tmx未真正上传，SVN切换到不稳定状态。</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Essentially, this format consists of an RTF file in which the source and target segments alternate.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T120031Z" creationid="lenovo" creationdate="20180416T120031Z">
+        <seg>本质上，这种格式由一个RTF文件组成，其中源片段和目标片段交替出现。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Estonian</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
@@ -16426,6 +16450,14 @@ script provided (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T071656Z" creationid="weiyi" creationdate="20180406T071656Z">
         <seg>由于保密原因，您可能不想将所有的片段上传至机器翻译工具。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For details, see the &lt;a0&gt;"Exporting from OmegaT to uncleaned RTF" HOWTO&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T120132Z" creationid="lenovo" creationdate="20180416T120132Z">
+        <seg>有关详细信息，请参阅&lt;a0&gt;“从OmegaT导出到未清除的RTF”HOWTO &lt;/ a0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19956,6 +19988,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131118T115336Z" creationid="Fu Rhong" creationdate="20131118T115336Z">
         <seg>和上面类似，用户可以创建项目专用文件过滤器，它和项目保存在一起并仅对当前项目有效。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In addition to Trados, however, several other CAT tools also support the "uncleaned RTF" format, notably Wordfast Classic.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T120007Z" creationid="lenovo" creationdate="20180416T120007Z">
+        <seg>然而，除了Trados之外，其他几种CAT工具也支持“不清晰的RTF”格式，特别是Wordfast Classic。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33934,6 +33974,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>TTX is an XML-based format.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T120211Z" creationid="lenovo" creationdate="20180416T120211Z">
+        <seg>TTX是一种基于XML的格式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>TaaS</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T030452Z" creationid="xulihang" creationdate="20180404T030452Z">
@@ -38284,6 +38332,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>These segments are marked and delimited by special characters and MS Word formatting styles.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T120046Z" creationid="lenovo" creationdate="20180416T120046Z">
+        <seg>这些段由特殊字符和MS Word格式化样式进行标记和分隔。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>These three are certain:&lt;p&gt;Death, taxes, and page not found.&lt;p&gt;You, victim of one.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130509T153528Z">
@@ -40511,6 +40567,14 @@ install.sh.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T111721Z" creationid="cpeishan" creationdate="20180407T111721Z">
         <seg>跟踪系统</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Trados TTX format is the counterpart to the "uncleaned RTF" format for Trados Tag Editor, which unlike Trados Workbench, does not work in direct combination with MS Word.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T120151Z" creationid="lenovo" creationdate="20180416T120151Z">
+        <seg>Trados TTX格式与Trados Workbench不同，Trados Tag Editor的“未清理RTF”格式与MS Word不直接结合。</seg>
       </tuv>
     </tu>
     <tu>
