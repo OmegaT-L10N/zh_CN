@@ -36811,6 +36811,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There is a strong possibility that at some points, your translation will be longer than the original.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T033020Z" creationid="think" creationdate="20180416T033020Z">
+        <seg>在某些时候您的翻译常常要比原始文本要长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There is however considerable scope within the project for users to suggest improvements and influence the course of future development.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="18261" changedate="20180412T130928Z" creationid="18261" creationdate="20180412T130928Z">
@@ -37794,6 +37802,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120206T120333Z">
         <seg>使用这种方法您也可以使用在 OmegaT 中更改的首选项和设置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This needs to be dealt with in Infix, for example by enlarging the box containing the text.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T033235Z" creationid="think" creationdate="20180416T033235Z">
+        <seg>这就需要用Infix来处理，例如可以扩展容纳文本的盒子大小。</seg>
       </tuv>
     </tu>
     <tu>
