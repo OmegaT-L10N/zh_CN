@@ -18539,6 +18539,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you are unsure whether your Java version is suitable, you can:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T074857Z" creationid="think" creationdate="20180416T074857Z">
+        <seg>如果您不确定您的Java版本是否适合，您可以：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are using Linux or Macintosh, obtain and install the relevant Crossover version before installing Iceni Infix Professional.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="think" changedate="20180416T010824Z" creationid="think" creationdate="20180416T010824Z">
@@ -31560,6 +31568,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120219T125654Z">
         <seg>开始翻译前对源文本格式的简化很大程度上有助于减少标签的数目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Simply install an OmegaT version without Java and see whether it works.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T075056Z" creationid="think" creationdate="20180416T075056Z">
+        <seg>仅仅安装一个不带Java的OmegaT版本，观察它是否能正常运转。</seg>
       </tuv>
     </tu>
     <tu>
