@@ -1994,6 +1994,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- Check [Microsoft Translator]&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="anton" changedate="20180416T082511Z" creationid="anton" creationdate="20180416T082511Z">
+        <seg>- 点击 [Microsoft Translator]&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- Click [DEVELOPERS] in the left "my account" menu.&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="anton" changedate="20180416T080317Z" creationid="anton" creationdate="20180416T080317Z">
@@ -2154,6 +2162,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- Launch OmegaT and open your project.&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="anton" changedate="20180416T082431Z" creationid="anton" creationdate="20180416T082431Z">
+        <seg>-启动OmegaT并打开你的项目.&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- Locate the file OmegaT.l4J.ini (in the OmegaT program folder) and edit the following lines with your preferred plain-text editor:&lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="anton" changedate="20180416T081535Z" creationid="anton" creationdate="20180416T081535Z">
@@ -2282,6 +2298,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- Select [Options] &gt; [Machine Translate]&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="anton" changedate="20180416T082459Z" creationid="anton" creationdate="20180416T082459Z">
+        <seg>- 选择 [选项] &gt; [机器翻译]&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- SubRip title files (*.srt)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130514T151851Z">
@@ -2342,6 +2366,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130514T152033Z">
         <seg>- Visio (*.vxd)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- When you select any segments, its translation will be displayed in Machine Translation window of OmegaT.&lt;br3/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="anton" changedate="20180416T082602Z" creationid="anton" creationdate="20180416T082602Z">
+        <seg>-当你选择任意片段时，其翻译将显示在OmegaT的机器翻译窗口中.&lt;br3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -41040,6 +41072,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using Microsoft Translator machine translation in OmegaT</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="anton" changedate="20180416T082409Z" creationid="anton" creationdate="20180416T082409Z">
+        <seg>在OmegaT中使用Microsoft Translaort机器翻译</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using OmegaT in conjunction with Google Translate.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T142116Z" creationid="cpeishan" creationdate="20180407T142116Z">
@@ -49790,6 +49830,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="anton" changedate="20180416T080712Z" creationid="anton" creationdate="20180416T080712Z">
         <seg>   -用户密码：使用默认字符串&lt;br10/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>   - If you find a message including "Bad Request" in Machine Translation window, check if the values "Client ID" and "Client secret" are appropriate.&lt;br4/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="anton" changedate="20180416T082718Z" creationid="anton" creationdate="20180416T082718Z">
+        <seg>   - 如果在机器翻译窗口中发现包含”错误请求“的消息，请检查”用户ID“和”用户密码“是否正确.&lt;br4/&gt;</seg>
       </tuv>
     </tu>
     <tu>
