@@ -1922,6 +1922,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- After signing in Microsoft Azure Marketplace, you can get subscription to use Microsoft Translator.&lt;br7/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="anton" changedate="20180416T075702Z" creationid="anton" creationdate="20180416T075702Z">
+        <seg>-成功登入微软Azure Marketplace之后，您就能订阅使用Microsoft Translator了。.&lt;br7/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- Android resource (*.xml)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130514T151953Z">
@@ -2214,6 +2222,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130514T152028Z">
         <seg>- Wordfast TXML (*.txml)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- You may pick from any of the available subscription offers, shown in the right area of the page.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="anton" changedate="20180416T075824Z" creationid="anton" creationdate="20180416T075824Z">
+        <seg>-您可以从页面右边的区域中订阅任意内容。.</seg>
       </tuv>
     </tu>
     <tu>
