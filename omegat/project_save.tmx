@@ -3181,6 +3181,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;Abiword&lt;/a0&gt;&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180416T144736Z" creationid="xulihang" creationdate="20180416T144736Z">
+        <seg>&lt;a0&gt;Abiword&lt;/a0&gt;&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;Documentation&lt;/a0&gt; is very important.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="18261" changedate="20180412T102458Z" creationid="18261" creationdate="20180412T102458Z">
@@ -3381,6 +3389,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;Opera&lt;/a0&gt;&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180416T144727Z" creationid="xulihang" creationdate="20180416T144727Z">
+        <seg>&lt;a0&gt;Opera&lt;/a0&gt;&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;Sponsorship of development has already resulted in the addition of certain features.&lt;/a0&gt; If you are willing to finance the work of implementing your desired feature, please contact the development team privately for a quotation.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="18261" changedate="20180413T013059Z" creationid="18261" creationdate="20180413T013059Z">
@@ -3465,6 +3481,22 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120203T121443Z">
         <seg>&lt;b0&gt;&lt;Ctr+N&gt;&lt;/b0&gt;, &lt;br1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;b0&gt;&lt;a1&gt;Priorview&lt;/a1&gt;&lt;/b0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180416T144746Z" creationid="xulihang" creationdate="20180416T144746Z">
+        <seg>&lt;b0&gt;&lt;a1&gt;Priorview&lt;/a1&gt;&lt;/b0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;b0&gt;&lt;a1&gt;Tcl/Tk&lt;/a1&gt;&lt;/b0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180416T144742Z" creationid="xulihang" creationdate="20180416T144742Z">
+        <seg>&lt;b0&gt;&lt;a1&gt;Tcl/Tk&lt;/a1&gt;&lt;/b0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4843,6 +4875,22 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120209T124715Z">
         <seg>&lt;k1&gt;Ctrl&lt;/k1&gt; 在 Windows 系统中使用， UNIX 和类 UNIX 操作系统使用 &lt;k2&gt;Ctrl&lt;/k2&gt; 或 &lt;k3&gt;Control&lt;/k3&gt; 键。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;k3&gt;abiword --to=html &lt;i4&gt;file&lt;/i4&gt;&lt;/k3&gt;&lt;br5/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180416T144801Z" creationid="xulihang" creationdate="20180416T144801Z">
+        <seg>&lt;k3&gt;abiword --to=html &lt;i4&gt;file&lt;/i4&gt;&lt;/k3&gt;&lt;br5/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;k7&gt;unoconv -f html &lt;i8&gt;file&lt;/i8&gt;&lt;/k7&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180416T144807Z" creationid="xulihang" creationdate="20180416T144807Z">
+        <seg>&lt;k7&gt;unoconv -f html &lt;i8&gt;file&lt;/i8&gt;&lt;/k7&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11411,6 +11459,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180414T105733Z" creationid="lenovo" creationdate="20180414T105733Z">
         <seg>Chrome也同样适用于所有平台。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Chrome:&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180416T144707Z" creationid="xulihang" creationdate="20180416T144707Z">
+        <seg>Chrome:&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -28016,6 +28072,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180414T104447Z" creationid="lenovo" creationdate="20180414T104447Z">
         <seg>Opera适用于所有平台；它不但快速而且对硬件资源的要求很低。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Opera:&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180416T144652Z" creationid="xulihang" creationdate="20180416T144652Z">
+        <seg>Opera:&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -46657,6 +46721,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>cd "C:\My Files\priorview"</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180416T144753Z" creationid="xulihang" creationdate="20180416T144753Z">
+        <seg>cd "C:\My Files\priorview"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>cd /opt/omegat/OmegaT_2.3.4</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="think" changedate="20180416T090448Z" creationid="think" creationdate="20180416T090448Z">
@@ -46693,6 +46765,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T103709Z" creationid="lenovo" creationdate="20180416T103709Z">
         <seg>cd &lt;i0&gt;路径&lt;/i0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>cd C:\Documents and Settings\User Name\Application Data\OmegaT\script</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180416T144846Z" creationid="xulihang" creationdate="20180416T144846Z">
+        <seg>cd C:\Documents and Settings\User Name\Application Data\OmegaT\script</seg>
       </tuv>
     </tu>
     <tu>
@@ -48049,6 +48129,22 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://artfiles.org/openoffice.org/contrib/dictionaries/&lt;br6/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180416T144826Z" creationid="xulihang" creationdate="20180416T144826Z">
+        <seg>http://artfiles.org/openoffice.org/contrib/dictionaries/&lt;br6/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://artfiles.org/openoffice.org/contrib/dictionaries/&lt;br7/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180416T144828Z" creationid="xulihang" creationdate="20180416T144828Z">
+        <seg>http://artfiles.org/openoffice.org/contrib/dictionaries/&lt;br7/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://belazar.info/</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T032242Z" creationid="Fu Rhong" creationdate="20131117T032242Z">
@@ -48121,6 +48217,70 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://freebsd.csie.nctu.edu.tw/distfiles/openoffice.org1.1/&lt;br10/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180416T144835Z" creationid="xulihang" creationdate="20180416T144835Z">
+        <seg>http://freebsd.csie.nctu.edu.tw/distfiles/openoffice.org1.1/&lt;br10/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://freebsd.csie.nctu.edu.tw/distfiles/openoffice.org1.1/&lt;br11/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180416T144839Z" creationid="xulihang" creationdate="20180416T144839Z">
+        <seg>http://freebsd.csie.nctu.edu.tw/distfiles/openoffice.org1.1/&lt;br11/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://ftp.heanet.ie/mirrors/openoffice.org/contrib/dictionaries/&lt;br8/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180416T144830Z" creationid="xulihang" creationdate="20180416T144830Z">
+        <seg>http://ftp.heanet.ie/mirrors/openoffice.org/contrib/dictionaries/&lt;br8/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://ftp.heanet.ie/mirrors/openoffice.org/contrib/dictionaries/&lt;br9/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180416T144833Z" creationid="xulihang" creationdate="20180416T144833Z">
+        <seg>http://ftp.heanet.ie/mirrors/openoffice.org/contrib/dictionaries/&lt;br9/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://ftp.nluug.nl/office/openoffice/contrib/dictionaries/&lt;br3/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180416T144818Z" creationid="xulihang" creationdate="20180416T144818Z">
+        <seg>http://ftp.nluug.nl/office/openoffice/contrib/dictionaries/&lt;br3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://ftp.nluug.nl/office/openoffice/contrib/dictionaries/&lt;br4/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180416T144821Z" creationid="xulihang" creationdate="20180416T144821Z">
+        <seg>http://ftp.nluug.nl/office/openoffice/contrib/dictionaries/&lt;br4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://ftp.plusline.de/OpenOffice/contrib/dictionaries/&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180416T144816Z" creationid="xulihang" creationdate="20180416T144816Z">
+        <seg>http://ftp.plusline.de/OpenOffice/contrib/dictionaries/&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://ftp.uni-kl.de/pub/OpenOffice/contrib/dictionaries/&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180416T144812Z" creationid="xulihang" creationdate="20180416T144812Z">
+        <seg>http://ftp.uni-kl.de/pub/OpenOffice/contrib/dictionaries/&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://git-scm.com/</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131110T033200Z" creationid="Fu Rhong" creationdate="20131110T033200Z">
@@ -48129,10 +48289,26 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://linorg.usp.br/OpenOffice.org/contrib/dictionaries/&lt;br5/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180416T144824Z" creationid="xulihang" creationdate="20180416T144824Z">
+        <seg>http://linorg.usp.br/OpenOffice.org/contrib/dictionaries/&lt;br5/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://omegat.sourceforge.net/webstart/OmegaT.jnlp</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130514T154817Z">
         <seg>http://omegat.sourceforge.net/webstart/OmegaT.jnlp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://planetmirror.com/pub/OpenOffice/contrib/dictionaries/&lt;br12/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180416T144842Z" creationid="xulihang" creationdate="20180416T144842Z">
+        <seg>http://planetmirror.com/pub/OpenOffice/contrib/dictionaries/&lt;br12/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -50313,6 +50489,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>preview_flow.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180416T144715Z" creationid="xulihang" creationdate="20180416T144715Z">
+        <seg>preview_flow.png</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>preview_ss.png</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="think" changedate="20180416T090054Z" creationid="think" creationdate="20180416T090054Z">
@@ -51966,6 +52150,30 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131111T125605Z" creationid="Fu Rhong" creationdate="20131111T123713Z">
         <seg>窗口，类似于下面会出现的一个：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>wish priorview.tcl</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180416T144750Z" creationid="xulihang" creationdate="20180416T144750Z">
+        <seg>wish priorview.tcl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>wish te-basic-source.tcl</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180416T144850Z" creationid="xulihang" creationdate="20180416T144850Z">
+        <seg>wish te-basic-source.tcl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>wish8.5 priorview.tcl</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180416T144756Z" creationid="xulihang" creationdate="20180416T144756Z">
+        <seg>wish8.5 priorview.tcl</seg>
       </tuv>
     </tu>
     <tu>
