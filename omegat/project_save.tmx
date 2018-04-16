@@ -37172,6 +37172,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Third-party Java versions: until relatively recently, OmegaT ran only on Oracle/Sun's own Java.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T073434Z" creationid="think" creationdate="20180416T073434Z">
+        <seg>第三方Java版本：直到最近，OmegaT只能在Oracle/Sun自己的Java上运行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Third-party software</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T090911Z" creationid="chloechao" creationdate="20180412T090911Z">
