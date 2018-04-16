@@ -110,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>"helpandmanual" with "tmx"&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="anton" changedate="20180416T084629Z" creationid="anton" creationdate="20180416T084607Z">
+        <seg>“helpandmanual" with "tmx"&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg># OmegaT.exe runtime configuration
 # To use a parameter, remove the '#' before the '-'
 # Memory
@@ -17989,6 +17997,14 @@ script provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Identify the paragraph-level tag(s) for your new file format.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="anton" changedate="20180416T084708Z" creationid="anton" creationdate="20180416T084708Z">
+        <seg>为新的文件格式识别段落级标签.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ido</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131108T025248Z" creationid="Fu Rhong" creationdate="20131108T025248Z">
@@ -19568,6 +19584,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In TMX, the paragraph-level tag corresponding to a segment is "tu".</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="anton" changedate="20180416T084845Z" creationid="anton" creationdate="20180416T084845Z">
+        <seg>在TMX文件中，段落级标签对应的是"tu".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In a file manager a translation project looks and acts just like any other folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131114T074257Z" creationid="Fu Rhong" creationdate="20131114T074257Z">
@@ -19636,6 +19660,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120215T122907Z">
         <seg>无论是精确还是关键词搜索，都可以使用通配符 '*' 和 '?'。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In both files, search for (matching the case) and replace:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="anton" changedate="20180416T084619Z" creationid="anton" creationdate="20180416T084600Z">
+        <seg>在这两个文件中，搜索“匹配案例”并进行替换</seg>
       </tuv>
     </tu>
     <tu>
@@ -39092,6 +39124,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131126T085120Z" creationid="Fu Rhong" creationdate="20131126T085120Z">
         <seg>要启用拼写检查器，请选择&lt;g0&gt;选项&gt;拼写检查&lt;/g0&gt;并选中&lt;g1&gt;自动检查文本拼写&lt;/g1&gt;的复选框（见上面）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To find out what the paragraph tags should be, examine a sample file in a text editor.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="anton" changedate="20180416T084751Z" creationid="anton" creationdate="20180416T084751Z">
+        <seg>要找到段落标签，请在文本编辑器中检查示例文件.</seg>
       </tuv>
     </tu>
     <tu>
