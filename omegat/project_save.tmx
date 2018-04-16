@@ -10102,6 +10102,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Bottom right: the Priorview utility.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T111642Z" creationid="lenovo" creationdate="20180416T111642Z">
+        <seg>底部右侧：Priorview实用程序。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Break rule</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120215T142607Z">
@@ -36316,6 +36324,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="ZH-CN" changeid="think" changedate="20180416T090249Z" creationid="think" creationdate="20180416T090249Z">
         <seg>在这种情况下，启动脚本不会写入执行路径。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The layout shown here is just for the sake of example; you can of course arrange the windows as you like.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T111735Z" creationid="lenovo" creationdate="20180416T111735Z">
+        <seg>这里显示的布局仅仅是为了举例；你可以按你喜欢的方式排列窗口。</seg>
       </tuv>
     </tu>
     <tu>
