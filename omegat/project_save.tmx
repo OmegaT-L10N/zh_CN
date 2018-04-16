@@ -8280,6 +8280,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Alternatively, you should be able to translate the Infix XML file with good results using earlier versions of OmegaT by means of the HTML filter.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T022633Z" creationid="think" creationdate="20180416T022633Z">
+        <seg>或者，您也可以借助HTML过滤器来帮助更早版本的OmegaT很好地完成Infix XML格式文件的翻译。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Alternatively:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Zoe" changedate="20180412T144945Z" creationid="Zoe" creationdate="20180412T144945Z">
@@ -18463,6 +18471,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130504T165542Z">
         <seg>如果用的是需要认证的代理服务器，请输入用户名和密码。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you are using an earlier version of OmegaT, upgrading your OmegaT installation is recommended.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T022057Z" creationid="think" creationdate="20180416T022057Z">
+        <seg>如果您使用的是更早版本的OmegaT，我们推荐升级您的OmegaT 安装程序。</seg>
       </tuv>
     </tu>
     <tu>
