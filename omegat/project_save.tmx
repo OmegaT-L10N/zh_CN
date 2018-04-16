@@ -42680,8 +42680,8 @@ the installation script (linux-install.sh).</seg>
       <tuv lang="EN">
         <seg>You can presumably resolve this by obtaining and installing the necessary fonts; or you can select a different font for this purpose – which may or may not be an adequate solution.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="think" changedate="20180416T032244Z" creationid="think" creationdate="20180416T032244Z">
-        <seg>假定你可以通过获取和安装必要的字体来解决这一问题；或者</seg>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T032718Z" creationid="think" creationdate="20180416T032244Z">
+        <seg>您也许可以通过获取和安装必要的字体来解决这一问题；或者您可以根据目的选择一个不同的字体——这有可能或也可能不是一个妥善的办法。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42881,8 +42881,8 @@ Finder window to be able to launch it from any location.</seg>
       <tuv lang="EN">
         <seg>You may find that the embedded fonts in the PDF do not contain all the characters you need.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="think" changedate="20180416T032100Z" creationid="think" creationdate="20180416T032100Z">
-        <seg>你也许发现PDF中的内嵌字体并未囊括所有你需要的字体。</seg>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T032251Z" creationid="think" creationdate="20180416T032100Z">
+        <seg>您也许发现PDF中的内嵌字体并未囊括所有你需要的字体。</seg>
       </tuv>
     </tu>
     <tu>
