@@ -2122,6 +2122,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- OmegaT uses "Client ID" and "Client secret" information of which you registered.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="anton" changedate="20180416T081345Z" creationid="anton" creationdate="20180416T081345Z">
+        <seg>- OmegaT 将使用您注册所用的 "用户ID" 与"用户密码" .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- On Linux, on the command line&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="10353" changedate="20180414T095951Z" creationid="10353" creationdate="20180414T095951Z">
@@ -25636,6 +25644,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT setting</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="anton" changedate="20180416T081214Z" creationid="anton" creationdate="20180416T081214Z">
+        <seg>OmegaT 设置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT stores your translations and proposes possible translations from similar segments in registered in the translation memory files.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yujun Yin" changedate="20131007T080047Z" creationid="Yujun Yin" creationdate="20131007T075949Z">
@@ -42090,6 +42106,14 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180414T105606Z" creationid="lenovo" creationdate="20180414T084957Z">
         <seg>Windows用户可以从www.mozilla.org &lt;a1&gt;下载火狐浏览器&lt;/a1&gt;；多数Linux用户已安装火狐，或者通过发布版本库来安装。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Windows users:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="anton" changedate="20180416T081353Z" creationid="anton" creationdate="20180416T081353Z">
+        <seg>Windows 用户:</seg>
       </tuv>
     </tu>
     <tu>
