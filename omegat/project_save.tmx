@@ -37400,8 +37400,8 @@ the server.</seg>
       <tuv lang="EN">
         <seg>This is important: when you export the XML file from the PDF, Infix makes a note in the file of where all the pieces of text ("stories") belong, so you must use this version of the file when re-importing the translated XML file.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="think" changedate="20180416T020433Z" creationid="think" creationdate="20180416T020433Z">
-        <seg>这很重要：when you export the XML file from the PDF, Infix makes a note in the file of where all the pieces of text ("stories") belong, so you must use this version of the file when re-importing the translated XML file.</seg>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T021244Z" creationid="think" creationdate="20180416T020433Z">
+        <seg>这很重要：当您从PDF中导出XML格式的文件时，Infix会在文件中做一个标记以指示这些文本的片段来自何处从哪里来的（“来历”)，所以当重新导入已译好的XML文件时您必须使用这一版本的文件。</seg>
       </tuv>
     </tu>
     <tu>
