@@ -37866,6 +37866,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Then type in:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T103842Z" creationid="lenovo" creationdate="20180416T103842Z">
+        <seg>然后输入：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Then while translating from Canadian French your project will use all the rules defined for all the language chain in the correct order.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T155808Z">
@@ -44178,6 +44186,14 @@ the installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120201T045542Z">
         <seg>您可以选择要翻译下列哪些项：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can simplify launching by writing a script file, i.e. a plain-text file containing these two lines.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T104013Z" creationid="lenovo" creationdate="20180416T104013Z">
+        <seg>您可以通过编写脚本文件来简化启动过程，即包含这两行的纯文本文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50614,6 +50630,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131108T101907Z" creationid="Fu Rhong" creationdate="20131108T101907Z">
         <seg>wa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>where &lt;i0&gt;path&lt;/i0&gt; is the full pathname of the folder in which you placed preview.tcl.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T103831Z" creationid="lenovo" creationdate="20180416T103831Z">
+        <seg>其中&lt;i0&gt;路径&lt;/ i0&gt;是放置preview.tcl的文件夹的完整路径名。.</seg>
       </tuv>
     </tu>
     <tu>
