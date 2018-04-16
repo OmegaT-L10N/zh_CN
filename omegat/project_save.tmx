@@ -8274,8 +8274,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>Although Infix is a Windows application, Iceni has made efforts to cater for Linux and Macintosh users.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="think" changedate="20180415T235441Z" creationid="think" creationdate="20180415T231453Z">
-        <seg>虽然Infix是一个 Windows平台上的应用程序，但借助Iceni，它也已经能满足使用Linux和Macintosh平台的用户。</seg>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T004846Z" creationid="think" creationdate="20180415T231453Z">
+        <seg>虽然Infix是一个 Windows平台上的应用程序，但通过Iceni它也已能满足Linux和Macintosh平台的使用者</seg>
       </tuv>
     </tu>
     <tu>
@@ -11995,6 +11995,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
         <seg>克罗地亚语</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Crossover Linux and Crossover Macintosh can be obtained from the &lt;a0&gt;Codeweavers' website&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T004947Z" creationid="think" creationdate="20180416T004638Z">
+        <seg>您可以从 &lt;a0&gt;Codeweavers' website&lt;/a0&gt;获得Crossover Linux和Crossover Macintosh。</seg>
       </tuv>
     </tu>
     <tu>
