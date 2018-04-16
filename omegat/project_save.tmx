@@ -19732,8 +19732,8 @@ click on that shortcut.</seg>
       <tuv lang="EN">
         <seg>Infix Professional can be used on these platforms in conjunction with Crossover Linux and Crossover Macintosh respectively.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="think" changedate="20180415T232758Z" creationid="think" creationdate="20180415T232758Z">
-        <seg>nfix Professional can be used on these platforms in conjunction with Crossover Linux and Crossover Macintosh respectively.</seg>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T004308Z" creationid="think" creationdate="20180415T232758Z">
+        <seg>Infix Professional通过结合Crossover Linux或Crossover Macintosh实现在这些平台上的使用 .</seg>
       </tuv>
     </tu>
     <tu>
@@ -33307,8 +33307,8 @@ current folder will be used instead.</seg>
       <tuv lang="EN">
         <seg>The "Professional" version of Infix has a further function of interest to translators: XML text export.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="think" changedate="20180416T000229Z" creationid="think" creationdate="20180415T135151Z">
-        <seg>Professional Infix有一个吸引译者的进阶功能：XML文本输出。</seg>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T002124Z" creationid="think" creationdate="20180415T135151Z">
+        <seg>Infix Professional有一个吸引译者的进阶功能：XML文本输出。</seg>
       </tuv>
     </tu>
     <tu>
