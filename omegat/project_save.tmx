@@ -1922,6 +1922,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- After editing OmegaT.l4J.ini (where Client ID: my_clientid1)&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="anton" changedate="20180416T081622Z" creationid="anton" creationdate="20180416T081622Z">
+        <seg>-编辑OmegaT.l4J.ini之后 (where Client ID: my_clientid1)&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- After registering, check if your application has been displayed on the "Registered Applications" in the page.&lt;br12/&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="anton" changedate="20180416T081155Z" creationid="anton" creationdate="20180416T081155Z">
@@ -1942,6 +1950,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130514T151953Z">
         <seg>- Android 资源文件 (*.xml)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- Before editing OmegaT.l4J.ini&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="anton" changedate="20180416T081554Z" creationid="anton" creationdate="20180416T081554Z">
+        <seg>-编辑OmegaT.l4J.ini之前&lt;br2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2106,6 +2122,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- Locate the file OmegaT.l4J.ini (in the OmegaT program folder) and edit the following lines with your preferred plain-text editor:&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="anton" changedate="20180416T081535Z" creationid="anton" creationdate="20180416T081535Z">
+        <seg>-找到OmegaT.l4J.ini文件（位于OmegaT程序文件夹中），并使用首选的纯文本编辑器编辑下行:&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- Magento CE Locale CSV (*.csv)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130514T151900Z">
@@ -2182,6 +2206,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="ZH-CN" changeid="anton" changedate="20180416T080440Z" creationid="anton" creationdate="20180416T080440Z">
         <seg>-填写以下信息注册:&lt;br7/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- Remove "#" at the line heads, and replace "xxxxx" with your "Client ID" and "Client secret."&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="anton" changedate="20180416T081735Z" creationid="anton" creationdate="20180416T081735Z">
+        <seg>- 删除行头的”#“，并将”xxxx“替换为”用户ID“和”用户密码“"&lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
