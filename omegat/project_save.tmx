@@ -8328,6 +8328,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After downloading the zip archive of the full or minimal package or the website localization package, unpack the archive.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T171640Z" creationid="lenovo" creationdate="20180416T171640Z">
+        <seg>下载完整程序包、最小程序包或网站本地化软件包的zip文件后，对文件解压缩。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>After downloading, place the file in the main OmegaT folder (the folder containing the file OmegaT.jar).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="10353" changedate="20180414T095534Z" creationid="10353" creationdate="20180414T095534Z">
@@ -22114,6 +22122,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is also worth asking on the &lt;a1&gt;localizers' list&lt;/a1&gt; (OmT-l10n) whether anyone has any reference material which might facilitate your translation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T171329Z" creationid="lenovo" creationdate="20180416T171329Z">
+        <seg>在&lt;a1&gt;本地化译者列表&lt;/a1&gt;（OmT-l10n）上询问是否有任何参考资料可能有助于您的翻译。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is consequently able to use the huge range of free spelling dictionaries available for these applications.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120217T113543Z">
@@ -25349,6 +25365,14 @@ appropriate location such as the Applications folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="weiyi" changedate="20180405T145229Z" creationid="weiyi" creationdate="20180405T145229Z">
         <seg>在接近底部的位置您会看到以下条目及其对应值：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Needless to say, we would prefer you to use OmegaT for the OmegaT localization work.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T171433Z" creationid="lenovo" creationdate="20180416T171433Z">
+        <seg>当然，我们希望您使用OmegaT进行OmegaT的本地化工作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41587,6 +41611,14 @@ install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Translate the files you have chosen.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T171343Z" creationid="lenovo" creationdate="20180416T171343Z">
+        <seg>翻译你选择的文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translate the following attributes:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T154617Z">
@@ -45434,6 +45466,15 @@ the installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T021117Z" creationid="xulihang" creationdate="20180408T021117Z">
         <seg>不过您可以使用安装脚本（linux-install.sh）进行更整洁和友好的安装。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can however use other software if you wish.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T171522Z" creationid="lenovo" creationdate="20180416T171522Z">
+        <seg>但是如果您愿意的话也可以使用其他软件。
+</seg>
       </tuv>
     </tu>
     <tu>
