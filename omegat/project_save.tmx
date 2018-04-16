@@ -18223,6 +18223,14 @@ need not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If it does not, you still have the option to install a local version of Java or a different version of Java at system level.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T082957Z" creationid="think" creationdate="20180416T082957Z">
+        <seg>如果不能，您仍可以在系统层面安装本地或其他不同版本的Java。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If it is &lt;e0&gt;tar.bz&lt;/e0&gt;, you have forgotten to unpack (untar) it.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T082652Z">
@@ -18920,6 +18928,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120214T030232Z">
         <seg>如果您输入了还不存在的文件夹名称，则 &lt;a0&gt;OmegaT&lt;/a0&gt; 会创建它们。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you establish that the version of Java installed at system level is not compatible with OmegaT and you wish to replace this Java version with the Oracle Java version, check first whether an Oracle package is available for your Linux distribution (SUSE, Ubuntu, etc.).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T083311Z" creationid="think" creationdate="20180416T083311Z">
+        <seg>如果您确定在系统级安装的Java版本与OmegaT不兼容，并且您希望将此Java版本替换为Oracle Java版本，请首先检查Oracle软件包是否适用于您的Linux发行版（SUSE，Ubuntu等）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20438,6 +20454,22 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T164603Z">
         <seg>安装</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Install a second, non-default version of Java at system level, and launch OmegaT explicitly using this version.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T083106Z" creationid="think" creationdate="20180416T083106Z">
+        <seg>在系统层面安装第二个非默认版本的Java，并明确使用此版本启动OmegaT。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Install the OmegaT version with Java included.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T083142Z" creationid="think" creationdate="20180416T083142Z">
+        <seg>安装包含Java的OmegaT版本。</seg>
       </tuv>
     </tu>
     <tu>
