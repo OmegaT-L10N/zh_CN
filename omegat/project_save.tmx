@@ -1946,6 +1946,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- Click [My Account] on the top of the page.&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="anton" changedate="20180416T080139Z" creationid="anton" creationdate="20180416T080139Z">
+        <seg>点击页面上方“我的账户”选项.&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- DTD files (*.DTD)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130514T151827Z">
@@ -18982,6 +18990,14 @@ is to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you want to select Basic subscription (free, up to 2 million characters a month,) click [SIGN UP] at the top of the subscription list.&lt;br8/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="anton" changedate="20180416T080053Z" creationid="anton" creationdate="20180416T080053Z">
+        <seg>如果您想选择基础订阅（免费，每月高达两百万字符），在订阅列表的顶部点击【注册】.&lt;br8/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you want to use &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; to open a project, modify your &lt;f4&gt;MainMenuShortcuts.properties&lt;/f4&gt; as follows:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T123448Z" creationid="Fu Rhong" creationdate="20131109T025605Z">
@@ -28700,6 +28716,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T015619Z" creationid="weiyi" creationdate="20180406T024812Z">
         <seg>使用原文作为译文</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Register your application</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="anton" changedate="20180416T080109Z" creationid="anton" creationdate="20180416T080109Z">
+        <seg>注册您的应用</seg>
       </tuv>
     </tu>
     <tu>
