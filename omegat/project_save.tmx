@@ -43101,6 +43101,14 @@ trouble of selecting, obtaining and installing it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Whilst Priorview is running, you can:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T105258Z" creationid="lenovo" creationdate="20180416T105258Z">
+        <seg>运行Priorview时，你可以：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Whitespace</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130504T152811Z">
@@ -47465,6 +47473,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>interrupt and restart it;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T105321Z" creationid="lenovo" creationdate="20180416T105321Z">
+        <seg>打断并且重启它；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>io</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131108T025248Z" creationid="Fu Rhong" creationdate="20131108T025248Z">
@@ -49614,6 +49630,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120202T063821Z">
         <seg>segmentation.conf</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>select a new file (if you are working in a project containing several files, you do not have to relaunch Priorview when you reach the end of one file; you can simply select the next);</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T105602Z" creationid="lenovo" creationdate="20180416T105602Z">
+        <seg>选择一个新文件（如果您在包含多个文件的项目中工作，在到达一个文件末尾时不必重新启动Priorview；只需选择下一个）；</seg>
       </tuv>
     </tu>
     <tu>
