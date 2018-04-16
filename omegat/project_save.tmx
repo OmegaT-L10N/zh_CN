@@ -33307,8 +33307,8 @@ current folder will be used instead.</seg>
       <tuv lang="EN">
         <seg>The "Professional" version of Infix has a further function of interest to translators: XML text export.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="think" changedate="20180416T000106Z" creationid="think" creationdate="20180415T135151Z">
-        <seg>“专业”版本的Infix有一个吸引译者的进阶功能：XML文本输出。</seg>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T000229Z" creationid="think" creationdate="20180415T135151Z">
+        <seg>Professional Infix有一个吸引译者的进阶功能：XML文本输出。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37064,8 +37064,8 @@ the server.</seg>
       <tuv lang="EN">
         <seg>This enables the text to be exported to an XML file which can be translated in a CAT tool.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="think" changedate="20180415T233557Z" creationid="think" creationdate="20180415T135333Z">
-        <seg>这使得文本能以XML格式导出，从而使用CAT工具翻译它。</seg>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T000155Z" creationid="think" creationdate="20180415T135333Z">
+        <seg>这使得文本能以XML格式导出，从而可以使用CAT工具来翻译。</seg>
       </tuv>
     </tu>
     <tu>
