@@ -39824,6 +39824,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To launch Priorview, open a command prompt/terminal/console and type in:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T103556Z" creationid="lenovo" creationdate="20180416T103556Z">
+        <seg>要启动Priorview，请打开命令提示符/终端/控制台并输入：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To launch a script:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Zoe" changedate="20180412T144511Z" creationid="Zoe" creationdate="20180412T144511Z">
@@ -45437,6 +45445,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120127T052459Z">
         <seg>cd &lt;OmegaT.jar 文件所在文件夹&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>cd &lt;i0&gt;path&lt;/i0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T103709Z" creationid="lenovo" creationdate="20180416T103709Z">
+        <seg>cd &lt;i0&gt;路径&lt;/i0&gt;</seg>
       </tuv>
     </tu>
     <tu>
