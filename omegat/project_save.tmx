@@ -20570,6 +20570,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the same way, users of CAT tools, including OmegaT, who do not possess Déjà Vu can translate files prepared by a Déjà Vu user.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T120742Z" creationid="lenovo" creationdate="20180416T120742Z">
+        <seg>它使不具备DéjàVu的编辑能够修改DéjàVu中的翻译，从而可以轻松地重新修改修改In the same way, users of CAT tools, including OmegaT, who do not possess Déjà Vu can translate files prepared by a Déjà Vu user.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the target document, nothing will appear for this segment.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T024628Z" creationid="weiyi" creationdate="20180406T024628Z">
@@ -21558,6 +21566,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="10353" changedate="20180414T110654Z" creationid="10353" creationdate="20180414T110641Z">
         <seg>它不会替你进行翻译！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It enables editors who do not possess Déjà Vu to edit translations produced in Déjà Vu in such a way that amendments can be reincorporated easily.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T120635Z" creationid="lenovo" creationdate="20180416T120635Z">
+        <seg>.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35066,6 +35082,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Déjà Vu "External View" file format is a feature of Déjà Vu DVX.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T120619Z" creationid="lenovo" creationdate="20180416T120619Z">
+        <seg>DéjàVu“外部视图”文件格式是DéjàVu DVX的一项功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Edit Pattern Dialog offers among others the following options:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131113T124209Z" creationid="Fu Rhong" creationdate="20131113T123634Z">
@@ -38730,6 +38754,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T164358Z">
         <seg>该调用应该在 swing 线程中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This can be achieved (for Déjà Vu DVX) by use of Déjà Vu's "External View" file format.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T120605Z" creationid="lenovo" creationdate="20180416T120605Z">
+        <seg>这可以通过使用DéjàVu的“外部视图”文件格式实现（对于DéjàVu DVX）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44066,6 +44098,14 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="18261" changedate="20180412T100842Z" creationid="18261" creationdate="20180412T100842Z">
         <seg>你可以免费复制，拷贝给他人。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You are an OmegaT user and are requested by a customer to deliver a translation in Déjà Vu's file format.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T120550Z" creationid="lenovo" creationdate="20180416T120550Z">
+        <seg>您是OmegaT用户，并且被客户请求以DéjàVu的文件格式提供翻译。</seg>
       </tuv>
     </tu>
     <tu>
