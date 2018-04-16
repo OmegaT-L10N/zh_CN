@@ -8576,6 +8576,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Although it might seem strange to want to translate TMX files (the usual reason for creating a file filter), the addition of a TMX filter has the interesting effect that it enables TMX files in any location to be searched for from within any OmegaT project using the "Search Files" function, something not possible in the standard OmegaT build.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="anton" changedate="20180416T083653Z" creationid="anton" creationdate="20180416T083653Z">
+        <seg>尽管翻译TMX文件听起来似乎很奇怪（这是创建文件过滤器的常见原因），但添加TMX过滤器可以让它在任何位置使用任何OmegaT项目中的TMX文件进行”文件搜索“的功能，这在标准的OmegaT版本中时不可能实现的.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Although many users are aware of this, their reaction is often "But I can't program!".</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="18261" changedate="20180412T101956Z" creationid="18261" creationdate="20180412T101956Z">
