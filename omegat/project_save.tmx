@@ -24290,6 +24290,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note that if you use the demonstration version of Iceni Infix in this procedure, your translated PDF file will bear an Iceni watermark.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T030418Z" creationid="think" creationdate="20180416T030418Z">
+        <seg>注意如果您在该过程中使用的是演示版本的Iceni Infix，您已译好的PDF文件将会带一个Iceni的水印。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note that in Windows you can change the &lt;f3&gt;OmegaT.l4J.ini&lt;/f3&gt; file to reflect your preferences.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="17012" changedate="20180405T105134Z" creationid="17012" creationdate="20180405T105134Z">
