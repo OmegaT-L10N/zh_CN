@@ -3165,6 +3165,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;Firefox&lt;/a0&gt; together with the &lt;a1&gt;"ReloadEvery" add-on for Firefox&lt;/a1&gt;&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T102410Z" creationid="lenovo" creationdate="20180416T102410Z">
+        <seg>&lt;a0&gt;Firefox&lt;/a0&gt;以及&lt;a1&gt;"ReloadEvery"插件x&lt;/a1&gt;&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; Files and Folders</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131113T130021Z" creationid="Fu Rhong" creationdate="20131113T130021Z">
@@ -3401,6 +3409,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120203T121443Z">
         <seg>&lt;b0&gt;&lt;Ctr+N&gt;&lt;/b0&gt;, &lt;br1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;b0&gt;A browser&lt;/b0&gt;, specifically either:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T102332Z" creationid="lenovo" creationdate="20180416T102332Z">
+        <seg>&lt;b0&gt;浏览器&lt;/b0&gt;，可选择：</seg>
       </tuv>
     </tu>
     <tu>
@@ -20818,6 +20834,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Install Firefox first (if you do not already have it installed), then ReloadEvery.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T102435Z" creationid="lenovo" creationdate="20180416T102435Z">
+        <seg>Install Firefox first (if you do not alre, then ReloadEvery.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Install a second, non-default version of Java at system level, and launch OmegaT explicitly using this version.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="think" changedate="20180416T083106Z" creationid="think" creationdate="20180416T083106Z">
@@ -32620,6 +32644,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Software required</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T102219Z" creationid="lenovo" creationdate="20180416T102219Z">
+        <seg>所需软件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Somali</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131108T101116Z" creationid="Fu Rhong" creationdate="20131108T101116Z">
@@ -39988,6 +40020,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131112T105703Z" creationid="Fu Rhong" creationdate="20131112T105703Z">
         <seg>要更新本地文件，右键点击检出文件夹并选择&lt;g1&gt;SVN更新&lt;/g1&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To use Priorview on Windows or Linux, you need the following:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T102302Z" creationid="lenovo" creationdate="20180416T102302Z">
+        <seg>在Windows或Linux上使用Priorview，你需要：</seg>
       </tuv>
     </tu>
     <tu>
@@ -48811,8 +48851,8 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>or</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131108T030737Z" creationid="Fu Rhong" creationdate="20131108T030737Z">
-        <seg>or</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T102340Z" creationid="Fu Rhong" creationdate="20131108T030737Z">
+        <seg>或者</seg>
       </tuv>
     </tu>
     <tu>
