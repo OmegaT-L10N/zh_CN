@@ -13231,6 +13231,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Depending upon the version of Tcl/Tk that you have installed, you may have to add the version number to the wish command, e.g.:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T112514Z" creationid="lenovo" creationdate="20180416T112514Z">
+        <seg>根据你安装的Tcl / Tk版本，你可能需要将版本号添加到wish命令中，例如：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Depending upon your system configuration, the launch command may be slightly different.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="10353" changedate="20180414T102108Z" creationid="10353" creationdate="20180414T102108Z">
@@ -18327,6 +18335,14 @@ need not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If Priorview fails to launch:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T112413Z" creationid="lenovo" creationdate="20180416T112413Z">
+        <seg>如果Priorview未能启动：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If a "command not found" or similar message is returned, it is likely that Java is not installed on your system</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131116T124210Z">
@@ -18798,6 +18814,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131116T114048Z" creationid="Fu Rhong" creationdate="20131116T114048Z">
         <seg>如果该文件已存在，不会对其格式或字符集进行检查：新条目总是以tab分隔并使用UTF-8编码。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the file displayed in the browser is not being updated, check the following:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T112612Z" creationid="lenovo" creationdate="20180416T112612Z">
+        <seg>如果浏览器中显示的文件未更新，请检查以下内容：</seg>
       </tuv>
     </tu>
     <tu>
@@ -27884,6 +27908,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Pay attention to lower/upper case.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T112535Z" creationid="lenovo" creationdate="20180416T112535Z">
+        <seg>注意小写/大写。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Pay attention to the capitalization - in OS other than Windows, the program will not start, if you enter &lt;e0&gt;omegat&lt;/e0&gt; instead of &lt;e1&gt;OmegaT &lt;/e1&gt;!</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131116T131008Z" creationid="Fu Rhong" creationdate="20131116T131008Z">
@@ -34612,6 +34644,14 @@ The scope of a text replacement is the target segments of the project, whether t
       </tuv>
       <tuv lang="ZH-CN" changeid="18261" changedate="20180412T103244Z" creationid="18261" creationdate="20180412T103244Z">
         <seg>这意味着只剩下几千种了!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>That you are remembering to hit Ctrl+s, Ctrl+d in OmegaT.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T112641Z" creationid="lenovo" creationdate="20180416T112641Z">
+        <seg>你记得在OmegaT中按Ctrl + s，Ctrl + d。</seg>
       </tuv>
     </tu>
     <tu>
