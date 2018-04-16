@@ -1659,8 +1659,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>(Infix is also reported to work on WINE.)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="think" changedate="20180416T011108Z" creationid="think" creationdate="20180416T011108Z">
-        <seg>（据报道Infix也可以在WINE上运作。）</seg>
+      <tuv lang="ZH-CN" changeid="think" changedate="20180416T020111Z" creationid="think" creationdate="20180416T011108Z">
+        <seg>（据研究Infix也可以在WINE上运作。）</seg>
       </tuv>
     </tu>
     <tu>
