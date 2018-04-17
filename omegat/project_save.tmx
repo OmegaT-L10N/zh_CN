@@ -11495,6 +11495,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose the .png file type</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180417T024905Z" creationid="lenovo" creationdate="20180417T024905Z">
+        <seg>选择.png文件类型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choose&lt;g0&gt; SVN.&lt;/g0&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131111T110741Z" creationid="Fu Rhong" creationdate="20131111T110741Z">
@@ -25365,6 +25373,14 @@ appropriate location such as the Applications folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131127T130453Z" creationid="Fu Rhong" creationdate="20131127T130453Z">
         <seg>TMX的名称</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Name the image NewImage.png</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180417T025135Z" creationid="lenovo" creationdate="20180417T025135Z">
+        <seg>将图片命名为NewImage.png</seg>
       </tuv>
     </tu>
     <tu>
