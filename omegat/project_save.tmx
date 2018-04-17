@@ -2906,6 +2906,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>10.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180417T030734Z" creationid="lenovo" creationdate="20180417T030734Z">
+        <seg>10.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>103/114</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131127T123000Z" creationid="Fu Rhong" creationdate="20131127T123000Z">
@@ -14408,6 +14416,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Don't forget to &lt;s0&gt;update the OmegaT Localization Plan&lt;/s0&gt; (see Step 2 of the procedure) to show that you have completed translation of a particular document/version.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180417T030824Z" creationid="lenovo" creationdate="20180417T030814Z">
+        <seg>请您不要忘记&lt;s0&gt;更新OmegaT本地化计划&lt;/s0&gt;（参见步骤2），以表明您已完成特定文档/版本的翻译。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Donations</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="18261" changedate="20180412T112116Z" creationid="18261" creationdate="20180412T112116Z">
@@ -15391,6 +15407,14 @@ project_save.tmx未真正上传，SVN切换到不稳定状态。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T113157Z" creationid="xulihang" creationdate="20180408T113157Z">
         <seg>原文和译文相同</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Equally, if you abandon the translation work for any reason, please update your entry in the plan to show this.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180417T031015Z" creationid="lenovo" creationdate="20180417T031015Z">
+        <seg>同样，如果您因任何原因放弃翻译工作，请在计划中更新您的条目以显示变化情况。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29061,8 +29085,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Please do NOT deliver your entire OmegaT project file to the localization coordinator (he does not need to receive multiple copies of the entire project).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180417T030401Z" creationid="lenovo" creationdate="20180417T030401Z">
-        <seg>请不要将您的整个OmegaT项目文件交付给本地化协调员（他不需要收到整个项目的多个副本）。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180417T030717Z" creationid="lenovo" creationdate="20180417T030401Z">
+        <seg>请不要将您的整个OmegaT项目文件交付给本地化协调员（他不需要收到整个项目的多个副本），</seg>
       </tuv>
     </tu>
     <tu>
@@ -30298,8 +30322,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Rather, create two separate .zip or tar.gz files, one containing the target documents only, and the other containing the tmx files.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180417T030711Z" creationid="lenovo" creationdate="20180417T030711Z">
-        <seg>而是创建两个单独的.zip或tar.gz文件，一个文件只包含目标文档，另一个包含tmx文件。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180417T030730Z" creationid="lenovo" creationdate="20180417T030711Z">
+        <seg>而是创建两个单独的.zip或tar.gz文件，其中一个文件只包含目标文档，另一个包含tmx文件。</seg>
       </tuv>
     </tu>
     <tu>
