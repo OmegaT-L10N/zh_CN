@@ -40694,6 +40694,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This will greatly simplify updating of your translation in the future.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180417T030335Z" creationid="lenovo" creationdate="20180417T030335Z">
+        <seg>这将很大程度上简化未来翻译版本的更新。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This will make the current translation the default translation.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T122440Z" creationid="Zoe" creationdate="20180411T122440Z">
