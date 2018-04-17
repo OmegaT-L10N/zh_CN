@@ -20945,6 +20945,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the /docs/ folder of the OmegaT program, create a sub-folder with the ISO code of your operating system language (rename the existing folder temporarily if it already exists), and copy the manual into this folder.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180417T014917Z" creationid="lenovo" creationdate="20180417T014917Z">
+        <seg>在OmegaT程序的/ docs /文件夹中，使用操作系统语言的ISO代码创建一个子文件夹（如果文件夹已存在，请暂时对其重命名），然后将手册复制到该文件夹中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the &lt;g0&gt;Project&lt;/g0&gt; menu, select &lt;m1&gt;&lt;g2&gt;New...&lt;/g2&gt;&lt;/m1&gt; and type a name for your project.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z" creationid="Fu Rhong" creationdate="20131117T005310Z">
@@ -41320,6 +41328,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To test display of the Instant Start Guide at launch:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180417T013232Z" creationid="lenovo" creationdate="20180417T013232Z">
+        <seg>要在启动时测试快速入门指南的显示，请进行以下操作：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To test the user interface:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180417T012559Z" creationid="lenovo" creationdate="20180417T012559Z">
@@ -47066,6 +47082,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>cd [full path to OmegaT]&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180417T013131Z" creationid="lenovo" creationdate="20180417T013131Z">
+        <seg>cd [full path to OmegaT]&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>cd {folder}</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
@@ -52719,6 +52743,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131109T023406Z" creationid="Fu Rhong" creationdate="20131109T023406Z">
         <seg>}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>     java -jar OmegaT.jar resource-bundle=[name of bundle with full path]</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180417T013137Z" creationid="lenovo" creationdate="20180417T013137Z">
+        <seg>     java -jar OmegaT.jar resource-bundle=[name of bundle with full path]</seg>
       </tuv>
     </tu>
     <tu>
