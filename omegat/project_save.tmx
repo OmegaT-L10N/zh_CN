@@ -2074,6 +2074,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- By using Microsoft Translator API, you can utilize Microsoft Translator machine translation in the Machine Translation window of OmegaT.&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180417T032928Z" creationid="lenovo" creationdate="20180417T032928Z">
+        <seg>- 通过使用Microsoft Translator API，您可以在OmegaT的机器翻译窗口中使用Microsoft Translator机器翻译。&lt;br0 /&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- Camtasia for Windows (*.camproj)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130514T152033Z">
@@ -2446,6 +2454,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="ZH-CN" changeid="10353" changedate="20180412T121505Z" creationid="10353" creationdate="20180412T121505Z">
         <seg>-有很多优质可用的书籍和其它资源（至少有很多英文资源）&lt;br4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- To use Microsoft Translator API, you need to register your Application in Microsoft Azure Marketplace.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180417T032952Z" creationid="lenovo" creationdate="20180417T032952Z">
+        <seg>- 如需使用Microsoft Translator API，您需要在Microsoft Azure Marketplace中注册您的应用程序。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27436,6 +27452,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT uses "Client ID" and "Client secret" information of which you registered.&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180417T033234Z" creationid="lenovo" creationdate="20180417T033234Z">
+        <seg>OmegaT使用您注册的“客户端ID”和“客户端秘密”信息。&lt;br1/&gt;/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT uses a number of librairies.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T020428Z" creationid="xulihang" creationdate="20180408T020428Z">
@@ -46221,6 +46245,14 @@ them.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120131T132126Z">
         <seg>随着对当前片段的编辑，您从文件的一个片段翻译到另一个片段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You will be credited as the author of your work and named as joint copyright holder.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180417T032908Z" creationid="lenovo" creationdate="20180417T032908Z">
+        <seg>您将被署名为您作品的作者，并作为共同版权所有者。</seg>
       </tuv>
     </tu>
     <tu>
