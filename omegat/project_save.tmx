@@ -23269,6 +23269,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Launch OmegaT from the command line (MS-DOS window) with the following commands (if you are unsure how to do this, refer to the OmegaT user manual)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180417T012634Z" creationid="lenovo" creationdate="20180417T012634Z">
+        <seg>使用以下命令从命令行（MS-DOS窗口）启动OmegaT（如果您不确定如何操作，请参考OmegaT用户手册）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Launch command arguments</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
@@ -35430,6 +35438,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Test your translation (optional).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180417T012545Z" creationid="lenovo" creationdate="20180417T012545Z">
+        <seg>测试你的翻译（可选项）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Testing</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="18261" changedate="20180412T104030Z" creationid="18261" creationdate="20180412T104030Z">
@@ -41300,6 +41316,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120131T114557Z">
         <seg>要为 OmegaT 项目提供资金支持</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To test the user interface:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180417T012559Z" creationid="lenovo" creationdate="20180417T012559Z">
+        <seg>测试用户界面：</seg>
       </tuv>
     </tu>
     <tu>
