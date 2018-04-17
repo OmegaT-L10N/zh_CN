@@ -3053,6 +3053,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>8.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180417T022811Z" creationid="lenovo" creationdate="20180417T022811Z">
+        <seg>8.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>85%-94%:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130509T153534Z">
@@ -29640,6 +29648,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Produce a screenshot of OmegaT in your language (after translating the user interface).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180417T022856Z" creationid="lenovo" creationdate="20180417T022856Z">
+        <seg>用您使用的语言制作OmegaT屏幕截图（翻译过的用户界面）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Professional features</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="10353" changedate="20180414T110905Z" creationid="10353" creationdate="20180414T110905Z">
@@ -40014,6 +40030,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This is also optional, but if you have been able to launch OmegaT with your localized bundle (see above), it will enhance the quality of your translation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180417T022939Z" creationid="lenovo" creationdate="20180417T022939Z">
+        <seg>这也是一个可选项，但如果您已经能够使用本地化套件（请参阅上文）启动OmegaT，这将提高翻译质量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This is also the place to add members of the team to the project and assign them their rights.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131111T111049Z" creationid="Fu Rhong" creationdate="20131111T111049Z">
@@ -41212,6 +41236,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120219T124601Z">
         <seg>在主窗口中使用&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt;可打开一个新的搜索窗口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To produce a screenshot, launch OmegaT and create a suitable screen for a screenshot, such as the "Create new project" dialog showing typical paths.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180417T024841Z" creationid="lenovo" creationdate="20180417T024841Z">
+        <seg>制作屏幕截图时，请启动OmegaT并为屏幕截图创建合适的屏幕布局，例如显示路径的“创建新项目”对话框。</seg>
       </tuv>
     </tu>
     <tu>
