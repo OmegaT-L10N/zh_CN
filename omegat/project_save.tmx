@@ -12575,6 +12575,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Copyright information</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180417T031545Z" creationid="lenovo" creationdate="20180417T031545Z">
+        <seg>版权信息</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Copyright © 2000-2013 Keith Godfrey, Maxym Mykhalchuk and others</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130504T162445Z">
@@ -25075,6 +25083,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="anton" changedate="20180416T091506Z" creationid="anton" creationdate="20180416T091506Z">
         <seg>大多数现代CAT工具都是以片段为导向来显示文本，而不是以其最终的布局格式来显示.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Most of the OmegaT documentation is licensed for re-use under the GNU Public License (GPL) or GNU Free Documentation License (GFDL).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180417T031843Z" creationid="lenovo" creationdate="20180417T031843Z">
+        <seg>大多数OmegaT文档已获得GNU公共许可证（GPL）或GNU自由文档许可证（GFDL）以供重用。</seg>
       </tuv>
     </tu>
     <tu>
