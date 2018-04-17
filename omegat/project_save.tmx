@@ -1664,6 +1664,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(If you have translated into a language which is not your operating system language, see below, "How OmegaT handles localized versions".)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180417T022800Z" creationid="lenovo" creationdate="20180417T022800Z">
+        <seg>（如果您已经翻译为操作系统语言以外的语言，请参阅下面的“OmegaT如何处理本地化版本”。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(If you wish to launch OmegaT with a user interface language other than English, make the same change in the relevant localized Bundle.properties file.)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="anton" changedate="20180416T090736Z" creationid="anton" creationdate="20180416T090736Z">
@@ -39022,6 +39030,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="think" changedate="20180416T090523Z" creationid="think" creationdate="20180416T090523Z">
         <seg>然后输入启动命令本身，并用ENTER确认。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Then launch OmegaT normally.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180417T014941Z" creationid="lenovo" creationdate="20180417T014941Z">
+        <seg>然后正常地启动OmegaT</seg>
       </tuv>
     </tu>
     <tu>
