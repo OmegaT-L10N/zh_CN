@@ -7712,6 +7712,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A translation may also be provided for information, but it has no legal validity.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T172929Z" creationid="lenovo" creationdate="20180416T172929Z">
+        <seg>翻译也可以提供信息，但它没有法律效力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A translation project &lt;e0&gt;Example_Project&lt;/e0&gt; created with the default settings will be created as a new subfolder with the following structure:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120201T124453Z">
@@ -16540,6 +16548,14 @@ project_save.tmx未真正上传，SVN切换到不稳定状态。</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Firstly, only the original English is legally valid.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T172915Z" creationid="lenovo" creationdate="20180416T172915Z">
+        <seg>首先，只有原始的英文是合法有效的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Fix</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130504T152826Z">
@@ -19330,6 +19346,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the document you are translating contains it, please do &lt;s0&gt;not&lt;/s0&gt; translate the GPL (GNU Public License) or the GFDL (GNU Free Documentation License).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T172855Z" creationid="lenovo" creationdate="20180416T172855Z">
+        <seg>如果您正在翻译的文档包含GPL（GNU公共许可证）或GFDL（GNU自由文档许可证），请&lt;s0&gt;不要&lt;/s0&gt;翻译他们。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the documents are not available, the entry is greyed out.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Andrew" changedate="20180413T124204Z" creationid="weiyi" creationdate="20180406T073044Z">
@@ -19929,6 +19953,14 @@ is to use Java Web Start.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="17012" changedate="20180405T023831Z" creationid="17012" creationdate="20180405T023722Z">
         <seg>如果你已经有术语处理系统，那它很可能提供通过 TBX格式到处术语数据。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you have any questions, the &lt;a0&gt;OmT-l10n list&lt;/a0&gt; is the best place to post them.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T172654Z" creationid="lenovo" creationdate="20180416T172654Z">
+        <seg>如果您有任何问题，可以在&lt;a0&gt; OmT-l10n列表&lt;/a0&gt;上发布。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29011,6 +29043,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please keep translations of files in their original format, and do not change the file names.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T173126Z" creationid="lenovo" creationdate="20180416T173126Z">
+        <seg>请将翻译文件保留为文件原始格式，并且不要更改文件名称。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please make sure that a build.xml file is present in that folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120208T112623Z">
@@ -32156,6 +32196,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Search the web and you will probably find the translations.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T173044Z" creationid="lenovo" creationdate="20180416T173044Z">
+        <seg>在网上搜索你就可能会找到翻译的版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Search thread died unexpectedly!</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T151055Z">
@@ -32200,6 +32248,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120215T125232Z">
         <seg>搜索 &lt;l0&gt;open file&lt;/l0&gt; 将找到所有 &lt;e1&gt;&lt;l2&gt;open file&lt;/l2&gt;&lt;/e1&gt; 字符串出现的地方，但不会找到 &lt;e3&gt;&lt;l4&gt;file opened&lt;/l4&gt;&lt;/e3&gt; 或 &lt;e5&gt;&lt;l6&gt;open input file&lt;/l6&gt;&lt;/e5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Secondly, unless yours is a very uncommon language, both documents have in all probability already been translated.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T173005Z" creationid="lenovo" creationdate="20180416T173005Z">
+        <seg>其次，除非你使用的语言非常少见，否则这两份文件都很可能已经被翻译过了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37121,6 +37177,14 @@ instead.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120202T113930Z">
         <seg>这些格式信息可能就像 “这是粗体”一样简单，也可能是包含了不同的字体大小、颜色和位置等信息的表格数据一样复杂。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The formatting is retained automatically if you use OmegaT.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T173218Z" creationid="lenovo" creationdate="20180416T173218Z">
+        <seg>如果使用OmegaT进行发言，格式会自动保留。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43830,6 +43894,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
         <seg>保证</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We are grateful for all translations, but it simplifies our work considerably if files are returned in the same format (and not as Word files, for example).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T173348Z" creationid="lenovo" creationdate="20180416T173348Z">
+        <seg>我们对所有翻译表示感谢，但如果文件以原始格式（而不是Word文件）返回，这将会大大简化我们的工作。</seg>
       </tuv>
     </tu>
     <tu>
