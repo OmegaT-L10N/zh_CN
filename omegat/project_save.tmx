@@ -19908,6 +19908,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you discontinue before completing the translation, please do create the tmx files for the you have done and upload them to the translation memory repository.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180417T031534Z" creationid="lenovo" creationdate="20180417T031534Z">
+        <seg>如果您在完成翻译之前中止，请将您已完成的部分创建tmx文件并上传到翻译记忆库。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you do not already have an Azure Marketplace account you will need to register one first.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="weiyi" changedate="20180405T150119Z" creationid="weiyi" creationdate="20180405T145008Z">
@@ -39922,6 +39930,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="think" changedate="20180416T024045Z" creationid="think" creationdate="20180416T024045Z">
         <seg>这样就能应用HTML的分割规则来选择是否应该在这些点上进行分割。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This enables the document concerned to be released for translation by another translator.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180417T031056Z" creationid="lenovo" creationdate="20180417T031056Z">
+        <seg>这样相关的文件能够发布到另一位译员处以供翻译。</seg>
       </tuv>
     </tu>
     <tu>
