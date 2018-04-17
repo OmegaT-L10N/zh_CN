@@ -27454,8 +27454,8 @@ installed on your system.</seg>
       <tuv lang="EN">
         <seg>OmegaT uses "Client ID" and "Client secret" information of which you registered.&lt;br1/&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180417T033234Z" creationid="lenovo" creationdate="20180417T033234Z">
-        <seg>OmegaT使用您注册的“客户端ID”和“客户端秘密”信息。&lt;br1/&gt;/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180417T033315Z" creationid="lenovo" creationdate="20180417T033234Z">
+        <seg>OmegaT会使用您注册的“客户端ID”和“客户端密码”信息。&lt;br1/&gt;/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -34674,6 +34674,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131115T001203Z" creationid="Fu Rhong" creationdate="20131115T001119Z">
         <seg>target子文件夹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Subscription</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180417T033633Z" creationid="lenovo" creationdate="20180417T033633Z">
+        <seg>订阅</seg>
       </tuv>
     </tu>
     <tu>
