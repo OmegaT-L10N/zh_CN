@@ -29059,6 +29059,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please do NOT deliver your entire OmegaT project file to the localization coordinator (he does not need to receive multiple copies of the entire project).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180417T030401Z" creationid="lenovo" creationdate="20180417T030401Z">
+        <seg>请不要将您的整个OmegaT项目文件交付给本地化协调员（他不需要收到整个项目的多个副本）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please do not use these tracking systems before first raising the issue on the user group and/or mailing lists.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T112222Z" creationid="cpeishan" creationdate="20180407T112222Z">
@@ -30284,6 +30292,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Zoe" changedate="20180412T151726Z" creationid="Zoe" creationdate="20180412T151726Z">
         <seg>比起找出所有的“abc”案例并加以改正，之后再继续工作（这样可能，但会有障碍），译员可以选择在译下一稿时再修正该错误。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Rather, create two separate .zip or tar.gz files, one containing the target documents only, and the other containing the tmx files.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180417T030711Z" creationid="lenovo" creationdate="20180417T030711Z">
+        <seg>而是创建两个单独的.zip或tar.gz文件，一个文件只包含目标文档，另一个包含tmx文件。</seg>
       </tuv>
     </tu>
     <tu>
