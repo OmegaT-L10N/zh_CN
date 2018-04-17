@@ -52403,6 +52403,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>where [full path to OmegaT] is the full path to the folder containing the OmegaT program, and [name of bundle with full path] is the name of your translation of the resource bundle (bundle_en.properties, unless you have changed the name) including the full path to its location.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180417T012958Z" creationid="lenovo" creationdate="20180417T012958Z">
+        <seg>其中[OmegaT的完整路径]是包含OmegaT程序的文件夹的完整路径，[包含完整路径的软件包名称]是您翻译资源包的名称（bundle_en.properties，除非您更改了名称） ，包括其位置的完整路径。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>where you type and edit the translation</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
