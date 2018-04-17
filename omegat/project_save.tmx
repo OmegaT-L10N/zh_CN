@@ -25898,6 +25898,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>None of this need concern you unless you are particularly interested in copyright issues.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180417T032727Z" creationid="lenovo" creationdate="20180417T032727Z">
+        <seg>除非您对版权问题特别感兴趣，否则您不需要关注这些。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Normal</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T113947Z" creationid="Administrator" creationdate="20180412T113947Z">
