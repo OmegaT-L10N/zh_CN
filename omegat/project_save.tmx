@@ -17770,6 +17770,14 @@ script provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Generalities</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Doris" changedate="20180418T083220Z" creationid="Doris" creationdate="20180418T083220Z">
+        <seg>概述</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Generate the translated file</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T024557Z" creationid="Fu Rhong" creationdate="20131117T024557Z">
@@ -36732,6 +36740,14 @@ Please try to correct the error and reload the project.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The TaaS service at https://demo.taas-project.eu/info provides terminology services in European languages (plus Russian).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Doris" changedate="20180418T075653Z" creationid="Doris" creationdate="20180418T075653Z">
+        <seg>Microsoft Translator Subscription Key not available. See OmegaT manual for instructions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The URL must include "{target}", which will be replaced with the search text.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T015221Z" creationid="xulihang" creationdate="20180408T015213Z">
@@ -44164,8 +44180,8 @@ searchable without subscription:</seg>
       <tuv lang="EN">
         <seg>Using TaaS in OmegaT</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Doris" changedate="20180418T075409Z" creationid="Doris" creationdate="20180418T075409Z">
-        <seg>在iOmegaT中使用TaaS</seg>
+      <tuv lang="ZH-CN" changeid="Doris" changedate="20180418T075532Z" creationid="Doris" creationdate="20180418T075409Z">
+        <seg>在OmegaT中使用TaaS</seg>
       </tuv>
     </tu>
     <tu>
