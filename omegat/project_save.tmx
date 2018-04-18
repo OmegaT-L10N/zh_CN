@@ -23660,10 +23660,26 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LanguageTool API version mismatch</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T114313Z" creationid="Lenovo" creationdate="20180418T114313Z">
+        <seg>LanguageTool 应用程序界面无法匹配</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LanguageTool Issues</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T082502Z" creationid="Administrator" creationdate="20180412T082502Z">
         <seg>语言工具问题</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool is misconfigured.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T114332Z" creationid="Lenovo" creationdate="20180418T114332Z">
+        <seg>LanguageTool配置错误.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23680,6 +23696,22 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T084551Z" creationid="Fu Rhong" creationdate="20131108T102350Z">
         <seg>LanguageTool插件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool server started</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T114239Z" creationid="Lenovo" creationdate="20180418T114239Z">
+        <seg>LanguageTool服务开始</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool server terminated</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T114251Z" creationid="Lenovo" creationdate="20180418T114251Z">
+        <seg>LanguageTool服务终止</seg>
       </tuv>
     </tu>
     <tu>
@@ -23704,6 +23736,30 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130509T154246Z">
         <seg>LanguageTool.jar (LGPL License)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool: bad local path</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T114421Z" creationid="Lenovo" creationdate="20180418T114421Z">
+        <seg>LanguageTool: 不好的本地路径</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool: local port is unavailable</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T114441Z" creationid="Lenovo" creationdate="20180418T114441Z">
+        <seg>LanguageTool: 无法获取本机端口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool: server returned XML when JSON was expected.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T114547Z" creationid="Lenovo" creationdate="20180418T114547Z">
+        <seg>LanguageTool: 需要使用JSON时，服务返回XML.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30036,6 +30092,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please try again.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T114222Z" creationid="Lenovo" creationdate="20180418T114222Z">
+        <seg>请再次尝试.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please type or paste the URL of the mediawiki page</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T024759Z">
@@ -35714,6 +35778,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T024100Z" creationid="weiyi" creationdate="20180406T024100Z">
         <seg>转换大小写为</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Switching to built-in version.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T114359Z" creationid="Lenovo" creationdate="20180418T114359Z">
+        <seg>跳转至内嵌版本.</seg>
       </tuv>
     </tu>
     <tu>
