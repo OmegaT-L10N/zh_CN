@@ -17708,8 +17708,8 @@ script provided (omegat.kaptn).</seg>
       <tuv lang="EN">
         <seg>General comments</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T044438Z" creationid="Wyndy" creationdate="20180418T044438Z">
-        <seg>一般性评论s</seg>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T044445Z" creationid="Wyndy" creationdate="20180418T044438Z">
+        <seg>一般性评论</seg>
       </tuv>
     </tu>
     <tu>
@@ -33720,6 +33720,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ZH-CN" changeid="18261" changedate="20180412T074615Z" creationid="18261" creationdate="20180412T074615Z">
         <seg> 多翻译记忆同步使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Since it is standard procedure for professional translators to receive and deliver texts in digital form, users of OmegaT are naturally interested in its compatibility with other software products.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T044750Z" creationid="Wyndy" creationdate="20180418T044750Z">
+        <seg>按照标准流程，专业译员收发的是电子形式的文本， OmegaT 用户自然很关心它与其他软件产品的兼容性。</seg>
       </tuv>
     </tu>
     <tu>
