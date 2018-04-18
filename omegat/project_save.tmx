@@ -20840,6 +20840,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In fact, their structure is very similar to that of OpenOffice.org files: they consists of a zip archive containing multiple files, and the files containing the text are based upon the XML standard.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T055130Z" creationid="Wyndy" creationdate="20180418T055130Z">
+        <seg>事实上，Microsoft Office 2007-2010 文件格式的架构与 OpenOffice.org 文件格式结构很相似: 文本基于 XML 标准，文本组成文件，文件组成压缩档案，压缩档案组成最终的文件格式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In its most basic form, this command is:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
