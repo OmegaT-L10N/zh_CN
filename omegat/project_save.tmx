@@ -38788,8 +38788,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>The rules applied (if any) will depend on the source and target language of the project.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131108T112921Z" creationid="Fu Rhong" creationdate="20131108T112844Z">
-        <seg>适用的规则（如果有的话）取决于项目的源语言和目标语言。</seg>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T085202Z" creationid="Fu Rhong" creationdate="20131108T112844Z">
+        <seg>其它适用的规则取决于项目的源语言和目标语言。</seg>
       </tuv>
     </tu>
     <tu>
