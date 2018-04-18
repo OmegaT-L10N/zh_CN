@@ -7856,6 +7856,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ANTLR (ANTLR 3 License)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T103921Z" creationid="puleiying" creationdate="20180418T103921Z">
+        <seg>ANTLR (ANTLR 3 许可协议)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ANTLR 3.4 (ANTLR 3 License)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130509T154236Z">
@@ -23022,6 +23030,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Jmyspell (LGPL License)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T103856Z" creationid="puleiying" creationdate="20180418T103856Z">
+        <seg>Jmyspell (LGPL 许可协议)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Jmyspell 2.1.4 (LGPL License)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T153814Z">
@@ -27813,6 +27829,15 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT uses the following libraries:
+{1}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T105810Z" creationid="puleiying" creationdate="20180418T105810Z">
+        <seg>OmegaT 使用了下列：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT uses the international TMX standard as its native translation memory format.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T090441Z" creationid="Wyndy" creationdate="20180418T090441Z">
@@ -32123,6 +32148,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SQLJet (GPL License)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T103931Z" creationid="puleiying" creationdate="20180418T103931Z">
+        <seg>SQLJet (GPL 许可协议)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>SQLJet 1.1.3 (GPL License)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130504T162539Z">
@@ -32175,6 +32208,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130504T150633Z">
         <seg>开始执行 SVN '{0}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SVNKit (TMate License)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T103906Z" creationid="puleiying" creationdate="20180418T103906Z">
+        <seg>SVNKit (TMate 许可协议)</seg>
       </tuv>
     </tu>
     <tu>
@@ -32841,6 +32882,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130505T161824Z">
         <seg>查阅用户手册“第3章”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See /docs/contributors.txt</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T104013Z" creationid="puleiying" creationdate="20180418T104013Z">
+        <seg>参阅 /docs/contributors.txt</seg>
       </tuv>
     </tu>
     <tu>
