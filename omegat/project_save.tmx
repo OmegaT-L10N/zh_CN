@@ -15593,6 +15593,14 @@ project_save.tmx未真正上传，SVN切换到不稳定状态。</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ensure you are specifying the right API version (the URL should include "/v2/").</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T114656Z" creationid="Lenovo" creationdate="20180418T114656Z">
+        <seg>确认选定正确的应用程序界面 (URL地址中应该包含 "/v2/").</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enter "&lt;a0&gt;OmegaT&lt;/a0&gt;" in the "Name" field; in the "Command" field, use the navigation button to find your &lt;a1&gt;OmegaT&lt;/a1&gt; launch script (the file named &lt;a2&gt;OmegaT&lt;/a2&gt; in the unpacked folder).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120207T095708Z">
@@ -23716,6 +23724,22 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LanguageTool settings</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T114820Z" creationid="Lenovo" creationdate="20180418T114820Z">
+        <seg>LanguageTool设置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool will be disabled until the project is closed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T114812Z" creationid="Lenovo" creationdate="20180418T114812Z">
+        <seg>LanguageTool在项目关闭后将无法使用.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LanguageTool will find errors for which a rule has been defined in its language-specific configuration files.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T085704Z" creationid="Fu Rhong" creationdate="20131108T110202Z">
@@ -23736,6 +23760,30 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130509T154246Z">
         <seg>LanguageTool.jar (LGPL License)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool: An error occurred during check.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T114749Z" creationid="Lenovo" creationdate="20180418T114749Z">
+        <seg>LanguageTool: 检查中发生错误.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool: Bad URL</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T114706Z" creationid="Lenovo" creationdate="20180418T114706Z">
+        <seg>LanguageTool:不好的URL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool: Server start timeout</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T114729Z" creationid="Lenovo" creationdate="20180418T114729Z">
+        <seg>LanguageTool: 服务开始超时</seg>
       </tuv>
     </tu>
     <tu>
@@ -33904,6 +33952,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131119T130204Z">
         <seg>选择关键字搜索以搜索任何数目、任何顺序出现的所有词汇。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select languagetool-server.jar</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T114830Z" creationid="Lenovo" creationdate="20180418T114830Z">
+        <seg>选择languagetool-server.jar</seg>
       </tuv>
     </tu>
     <tu>
