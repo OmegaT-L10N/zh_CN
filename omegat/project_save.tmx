@@ -28034,8 +28034,8 @@ installed on your system.</seg>
         <seg>OmegaT uses the following libraries:
 {1}</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T105810Z" creationid="puleiying" creationdate="20180418T105810Z">
-        <seg>OmegaT 使用了下列：</seg>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T113159Z" creationid="puleiying" creationdate="20180418T105810Z">
+        <seg>OmegaT 使用了下列类库：</seg>
       </tuv>
     </tu>
     <tu>
