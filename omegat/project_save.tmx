@@ -8816,6 +8816,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All collections (public and private) will be queried for the source and target language.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Doris" changedate="20180418T131346Z" creationid="Doris" creationdate="20180418T131346Z">
+        <seg>所有集合（公共和私人）都将被查询源语言和目标语言。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All domains</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T025908Z" creationid="xulihang" creationdate="20180404T025657Z">
@@ -21679,6 +21687,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In that dialog, it's possible to select All domains or a specific one.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Doris" changedate="20180418T131505Z" creationid="Doris" creationdate="20180418T131505Z">
+        <seg>在该对话框中，您可选择所有域或特定域。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the "Command" field, use the navigation button to find your &lt;a0&gt;OmegaT&lt;/a0&gt; launch script (the file named &lt;a1&gt;OmegaT&lt;/a1&gt; in the unpacked folder), and select it.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120206T122124Z">
@@ -25118,6 +25134,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Make a slight change anywhere in the project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Doris" changedate="20180418T132751Z" creationid="Doris" creationdate="20180418T132751Z">
+        <seg>在项目的任意地方稍做改动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Make it executable (&lt;l0&gt;chmod +x OmegaT&lt;/l0&gt;) from the command line after making sure you are in the OmegaT application folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131116T032922Z" creationid="Fu Rhong" creationdate="20131116T032922Z">
@@ -27417,6 +27441,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note: if TMX is removed from /tm/auto before step 3, no extra Translation Unit is added.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Doris" changedate="20180418T133415Z" creationid="Doris" creationdate="20180418T133415Z">
+        <seg>注意：如果在步骤3之前，TMX已从/tm/auto文件夹移除，则不会添加额外的翻译单元。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note: in that case, &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;M&lt;/k3&gt; &lt;/k1&gt; can still be used, to force a Machine Translation call on an already translated segment.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Andrew" changedate="20180414T132220Z" creationid="weiyi" creationdate="20180406T072255Z">
@@ -29352,6 +29384,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120218T060650Z">
         <seg>打开项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open the project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Doris" changedate="20180418T132702Z" creationid="Doris" creationdate="20180418T132702Z">
+        <seg>打开项目。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31540,6 +31580,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130504T151119Z">
         <seg>推送失败。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Put the TMX in /tm/auto.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Doris" changedate="20180418T132638Z" creationid="Doris" creationdate="20180418T132638Z">
+        <seg>将TMX文件放入tm/auto/文件夹。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38219,6 +38267,14 @@ Please try to correct the error and reload the project.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The changes are displayed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Doris" changedate="20180418T132709Z" creationid="Doris" creationdate="20180418T132709Z">
+        <seg>显示更改。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The character with hexadecimal value 0xhh</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120214T033811Z">
@@ -42463,6 +42519,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This modifies &lt;f0&gt;project_save.tmx&lt;/f0&gt; (by adding proper Translation Units from "auto" TMX)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Doris" changedate="20180418T133206Z" creationid="Doris" creationdate="20180418T133151Z">
+        <seg>这将修改&lt;f0&gt; project_save.tmx &lt;/f0&gt;（通过从“auto”TMX添加适当的翻译单元）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This needs to be dealt with in Infix, for example by enlarging the box containing the text.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="think" changedate="20180416T033235Z" creationid="think" creationdate="20180416T033235Z">
@@ -43285,6 +43349,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="17012" changedate="20180405T104550Z" creationid="17012" creationdate="20180405T104550Z">
         <seg>要启动&lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.app&lt;/e0&gt;的多种示例，双击&lt;e2&gt;OmegaT.sh&lt;/e2&gt;，它位于&lt;e3&gt;&lt;a4&gt;OmegaT&lt;/a4&gt;.app/ Contents/MacOS/&lt;/e3&gt;目录下。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To limit the amount of data, it is possible to select a specific domain by selecting &lt;e0&gt;Select TaaS Terminology Lookup Domain&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Doris" changedate="20180418T131433Z" creationid="Doris" creationdate="20180418T131433Z">
+        <seg>为了限制数据量，您可通过选择&lt;e0&gt;选择TaaS术语查找域&lt;/e0&gt;来选择特定域。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54151,8 +54223,16 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>tm/auto folder</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120217T132636Z">
-        <seg>tm/auto 目录</seg>
+      <tuv lang="ZH-CN" changeid="Doris" changedate="20180418T133444Z">
+        <seg>tm/auto 文件夹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>tm/enforce folder</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Doris" changedate="20180418T133529Z" creationid="Doris" creationdate="20180418T133435Z">
+        <seg> 目录tm/enforce 目录</seg>
       </tuv>
     </tu>
     <tu>
