@@ -10578,6 +10578,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Bilingual CAT-tool formats</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T121941Z" creationid="Wyndy" creationdate="20180418T121941Z">
+        <seg>双语 CAT-工具格式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bislama</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131107T144011Z" creationid="Fu Rhong" creationdate="20131107T142648Z">
@@ -25094,6 +25102,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Many CAT tools make use of an intermediate bilingual file format, i.e. a file containing both source and target language segments, and in some cases also the structure of the original file.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T122543Z" creationid="Wyndy" creationdate="20180418T122543Z">
+        <seg>许多 CAT 工具使用的是中间形式的双语格式，例如，同时包含源语言与目标语言片段的文件，有时延续源文件的格式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Many of you reading this will be translators who have translated a lot of user documentation.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="18261" changedate="20180412T102632Z" creationid="18261" creationdate="20180412T102632Z">
@@ -27843,6 +27859,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT cannot import or read glossary files in proprietary binary formats, such as Trados Multiterm.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T121920Z" creationid="Wyndy" creationdate="20180418T121920Z">
+        <seg>OmegaT 不能读取专利性的二进制文件格式，如 Trados Multiterm。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT compatibility</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T140029Z" creationid="cpeishan" creationdate="20180407T140029Z">
@@ -28073,6 +28097,14 @@ translation leveraging into updated projects.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120218T123724Z">
         <seg>OmegaT 会保存等同于原文的译文。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT is also capable of reading glossaries in TBX, the industry-standard format for glossary files.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T121247Z" creationid="Wyndy" creationdate="20180418T121247Z">
+        <seg>OmegaT 还能读取 TBX 格式的术语表，该格式是术语表文件的行业标准文件格式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29488,6 +29520,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T104931Z" creationid="cpeishan" creationdate="20180407T104931Z">
         <seg>OmegaT应用原创作作者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Originally, these bilingual file formats may have been a by-product of the tool's architecture.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T122801Z" creationid="Wyndy" creationdate="20180418T122801Z">
+        <seg>这些双语文件格式原本是这些 CAT 工具架构的副产品。</seg>
       </tuv>
     </tu>
     <tu>
