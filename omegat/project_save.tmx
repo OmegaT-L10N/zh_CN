@@ -15601,6 +15601,14 @@ project_save.tmx未真正上传，SVN切换到不稳定状态。</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Editor pane: If an OmegaT project file (&lt;f0&gt;omegat.project&lt;/f0&gt;) is dropped on this pane, the corresponding project will be opened, closing first any opened project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Doris" changedate="20180418T151725Z" creationid="Doris" creationdate="20180418T151725Z">
+        <seg>编辑窗格：如果一个OmegaT项目文件（&lt;f0&gt;omegat.project&lt;/f0&gt;）被拖放至该窗格内，当前打开的任何项目将先被关闭，相应的被拖放项目将被打开。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Either X or Y</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120214T095218Z">
