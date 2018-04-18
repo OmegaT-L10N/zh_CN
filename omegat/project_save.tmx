@@ -8512,6 +8512,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Again, OmegaT has excellent file filters for both.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T075724Z" creationid="Wyndy" creationdate="20180418T075724Z">
+        <seg>OmegaT 对这两种格式的文件过滤器性能同样优良。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Again, free demonstration versions are available.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="think" changedate="20180416T004604Z" creationid="think" creationdate="20180416T004604Z">
@@ -18224,6 +18232,14 @@ script provided (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T154354Z">
         <seg>HTML 和 XHTML 文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>HTML and XHTML, its XML equivalent, are the most common file format for web pages.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T075630Z" creationid="Wyndy" creationdate="20180418T075630Z">
+        <seg>HTML and XHTML（前者的 XML 版），是最通用的网页文件格式 。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39768,6 +39784,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="anton" changedate="20180416T085705Z" creationid="anton" creationdate="20180416T085705Z">
         <seg>这能定义那些在包含他们的片段之外呈现的子片段（脚注就是一个很好的例子）.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These file filters are excellent, and the risk of damaging the formatting of a LibreOffice, OpenOffice.org, etc. file during translation in OmegaT is extremely low.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T075406Z" creationid="Wyndy" creationdate="20180418T075406Z">
+        <seg>这些文件过滤器性能优良，用 OmegaT 翻译LibreOffice, OpenOffice.org 等文件时，极少损坏其文件格式。</seg>
       </tuv>
     </tu>
     <tu>
