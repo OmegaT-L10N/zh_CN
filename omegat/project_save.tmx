@@ -9717,6 +9717,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>At the present time, this includes all versions of Microsoft Windows from Windows 98 onwards, Mac OS X, and most Linux distributions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T050234Z" creationid="Wyndy" creationdate="20180418T050234Z">
+        <seg>目前，At the present time, this includes all versions of Microsoft Windows from Windows 98 onwards, Mac OS X, and most Linux distributions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>At the same time the previous valid segments in the project translation memory will turn into orphan segments.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120215T140320Z">
