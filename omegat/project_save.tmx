@@ -37753,6 +37753,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The list below is &lt;s0&gt;not&lt;/s0&gt; an exhaustive list of all file formats supported by OmegaT, but is limited to those of particular interest to typical users.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T052639Z" creationid="Wyndy" creationdate="20180418T052639Z">
+        <seg>而以下列表仅包含一般用户最感兴趣的文件格式，并未列出 OmegaT  支持的所有文件格式。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The location does not matter, since you can add it to the command line at launch (see below).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120211T064424Z">
@@ -53291,8 +53299,8 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>Refer to the OmegaT user manual for an up-to-date list of all supported file formats.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T052231Z" creationid="Wyndy" creationdate="20180418T052231Z">
-        <seg>请参阅 OmegaT 用户手册了解所有文件支持格式。 </seg>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T052331Z" creationid="Wyndy" creationdate="20180418T052231Z">
+        <seg>请参阅 OmegaT 用户手册查阅包含全部文件支持格式最新列表。 </seg>
       </tuv>
     </tu>
   </body>
