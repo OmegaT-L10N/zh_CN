@@ -35140,6 +35140,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Some CAT tools, notably TRADOS, are able to import a wide range of file formats, including desktop publishing formats, and to prepare them for translation in the tool concerned.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T123751Z" creationid="Wyndy" creationdate="20180418T123751Z">
+        <seg>某些 CAT 工具，如著名的 TRADOS， 能输出许多种格式的文件，包括桌面出版文件，并为其在相关软件进行翻译做好准备。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Some additional scripts can be found here: &lt;u0&gt;OmegaT Scripts&lt;/u0&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T120907Z" creationid="lenovo" creationdate="20180411T120907Z">
@@ -40851,6 +40859,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There are at least three reasons why a customer may request delivery of a translation in a particular bilingual file format (rather than simply delivery of the translated file and possibly also the translation memory):</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T123545Z" creationid="Wyndy" creationdate="20180418T123545Z">
+        <seg>客户要求交付特殊形式的双语文件格式（而不仅仅是译后文件，可能再加上翻译记忆）原因至少由以下三点：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There are basically three ways to address this problem in &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120212T034805Z">
@@ -41224,6 +41240,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120215T114321Z">
         <seg>他们几乎都遵循同样的模式（见下面的 Regular Expression Tester 示例）：正则表达式（上面的条目）分析了搜索文本（中间的文本框），进行点击，显示结果文本框。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>They have however become an important phenomenon in translation workflows involving CAT tools, and they often present the greatest obstacle to compatibility between OmegaT and other CAT tools (or for that matter between CAT tools in general).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T123331Z" creationid="Wyndy" creationdate="20180418T123331Z">
+        <seg>而后演变为 CAT 工具相关工作流的重要现象，这些文件格式也代表了OmegaT 与其他 CAT 工具的兼容性鸿沟（或者说是所有 CAT 工具之间普遍性兼容性鸿沟）。</seg>
       </tuv>
     </tu>
     <tu>
