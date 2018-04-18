@@ -8768,6 +8768,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Allow translated tags to be in a di&amp;fferent order</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T111623Z" creationid="Lenovo" creationdate="20180418T111623Z">
+        <seg>已译标签可按不同顺序排列</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Allow translated tags to be in a different order</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T161852Z">
@@ -11152,8 +11160,16 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Check &amp;all printf-variables (e.g., %s, %-s)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105533Z">
-        <seg>检查所有的 printf 变量（例如 %s, %-s）(&amp;a)</seg>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T111524Z">
+        <seg>检查所有printf 变量（例如 %s, %-s）(&amp;a)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check &amp;simple printf-variables (e.g., %s, %d)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T111509Z" creationid="Lenovo" creationdate="20180418T111509Z">
+        <seg>检查简单printf变量 (e.g., %s, %d)</seg>
       </tuv>
     </tu>
     <tu>
@@ -11344,8 +11360,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Check simple &amp;java MessageFormat patterns (e.g. {0})</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T161509Z">
-        <seg>检查单个的 &amp;java 信息格式匹配模式。(如：{0})</seg>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T111547Z">
+        <seg>检查单个&amp;java 信息格式匹配模式。(如：{0})</seg>
       </tuv>
     </tu>
     <tu>
@@ -12723,6 +12739,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130509T153330Z">
         <seg>无法将证书保存到文本文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Count &amp;protected text and custom tags in statistics</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T111823Z" creationid="Lenovo" creationdate="20180418T111823Z">
+        <seg>使用统计数据计算保护文本和惯用标签</seg>
       </tuv>
     </tu>
     <tu>
@@ -14316,6 +14340,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131101T070808Z" creationid="Fu Rhong" creationdate="20131101T070808Z">
         <seg>Dmitri Gabinski</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Do not allow creating translated documents with tag &amp;issues</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T111743Z" creationid="Lenovo" creationdate="20180418T111743Z">
+        <seg>不允许用标签或问题创建已译文档</seg>
       </tuv>
     </tu>
     <tu>
@@ -17684,8 +17716,8 @@ script provided (omegat.kaptn).</seg>
       <tuv lang="EN">
         <seg>Full checking can lead to false positives in normal texts.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T161027Z">
-        <seg>完整检查可能导致正常文本的假阳性。</seg>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T111425Z">
+        <seg>全文检查会导致正常文本发出主动错误信息。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21580,8 +21612,8 @@ click on that shortcut.</seg>
       <tuv lang="EN">
         <seg>Include the &amp;first non-unique segment when marking non-unique segments</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T111142Z" creationid="Lenovo" creationdate="20180418T111142Z">
-        <seg>标注非唯一s</seg>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T111159Z" creationid="Lenovo" creationdate="20180418T111142Z">
+        <seg>标注非唯一片段是包含第一个非唯一片段s</seg>
       </tuv>
     </tu>
     <tu>
@@ -29720,8 +29752,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Please select which behaviour is appropriate.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T161020Z">
-        <seg>请选择行为适当的项目。</seg>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T111329Z">
+        <seg>请选择运行状况正常的项目。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30606,6 +30638,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="18261" changedate="20180413T022125Z" creationid="18261" creationdate="20180413T022125Z">
         <seg>识别模糊匹配和术语采样中的屈折词形。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Proxy Login</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T111214Z" creationid="Lenovo" creationdate="20180418T111214Z">
+        <seg>代理登陆</seg>
       </tuv>
     </tu>
     <tu>
@@ -35636,6 +35676,22 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T082410Z" creationid="Administrator" creationdate="20180412T082410Z">
         <seg>标签</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tag Processing</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T111255Z" creationid="Lenovo" creationdate="20180418T111255Z">
+        <seg>标签处理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tag Processing Options</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T111233Z" creationid="Lenovo" creationdate="20180418T111233Z">
+        <seg>标签处理选项</seg>
       </tuv>
     </tu>
     <tu>
