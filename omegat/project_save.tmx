@@ -37806,6 +37806,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The formatting information contained in the higher levels will be meaningless to the "other" tool, but the textual information can still be viewed, fuzzy matches found, etc.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T090335Z" creationid="Wyndy" creationdate="20180418T090049Z">
+        <seg>更高级别的 TMX 文件所包含的格式信息对“其他”工具而言，毫无意义。但“其他”工具仍然可以读取文本信息，找到模糊匹配。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The formatting is retained automatically if you use OmegaT.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T173218Z" creationid="lenovo" creationdate="20180416T173218Z">
@@ -42297,6 +42305,14 @@ install.sh.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120211T025211Z">
         <seg>工具菜单</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tools which support different levels of TMX files are in principle still compatible with each other.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T090125Z" creationid="Wyndy" creationdate="20180418T090032Z">
+        <seg>原则上说，支持不同级别 TMX 文件的工具之间互相兼容。 </seg>
       </tuv>
     </tu>
     <tu>
