@@ -49,3 +49,4 @@ will be found	将会显示
 re-import	重新导入
 out-of-turn tags	外转标签
 OmegaT	OmegaT
+libraries	库
