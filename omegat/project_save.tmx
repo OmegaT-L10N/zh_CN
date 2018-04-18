@@ -27443,8 +27443,8 @@ published by the Free Software Foundation, either version 3 of the License, or
       <tuv lang="EN">
         <seg>OmegaT is generally observant of the conditions and tolerant of other tools' failure to observe them; should problems arise here, however, they can generally be resolved fairly easily by a search &amp; replace in a text editor of the illegal character in the TMX file.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T092358Z" creationid="Wyndy" creationdate="20180418T092358Z">
-        <seg>OmegaT 通常遵守条件，并允许其他 CAT 工具不遵从这些条件; 不过，如果因此出现问题，通常可以在文本编辑器中查找和替换 TMX 文件中的非法字符，从而轻而易举地解决问题。</seg>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T092449Z" creationid="Wyndy" creationdate="20180418T092358Z">
+        <seg>OmegaT 通常会遵守条件，而且也允许其他 CAT 工具不遵从这些条件; 不过，如果因此出现问题，一般可以在文本编辑器中查找和替换 TMX 文件中的非法字符，从而轻而易举地解决问题。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35359,6 +35359,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>TMX files are in the Unicode encoding, but may be UTF-8 or UTF-16.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T092606Z" creationid="Wyndy" creationdate="20180418T092606Z">
+        <seg>TMX 文件采用 Unicode 编码方式，也有可能采用UTF-8 或者 UTF-16。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>TMX files are read sorted by their names and segments within a given TMX file line by line.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131126T093159Z" creationid="Fu Rhong" creationdate="20131126T093159Z">
@@ -35379,6 +35387,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T091418Z" creationid="chloechao" creationdate="20180412T091418Z">
         <seg>为期望对OmegaT文档及网站进行本地化的爱好者提供的TMX文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TMX files produced on Windows systems may begin with a byte-order mark (BOM).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T093039Z" creationid="Wyndy" creationdate="20180418T093039Z">
+        <seg>Windows操作系统上生成的 TMX 文件开头可能以字节顺序标记 （byte-order mark ，简称BOM)开始。</seg>
       </tuv>
     </tu>
     <tu>
