@@ -29244,6 +29244,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OpenDocument</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="钢" changedate="20130911T123121Z">
+        <seg>OpenDocument</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OpenDocument Filter Options</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T152841Z">
@@ -34388,6 +34396,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sequence Library (Sequence Library License)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131031T074359Z" creationid="Administrator" creationdate="20131031T074359Z">
+        <seg>Sequence Library（Sequence Library许可）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Serbian</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
@@ -37741,8 +37757,8 @@ Please try to correct the error and reload the project.</seg>
       <tuv lang="EN">
         <seg>The TaaS service at https://demo.taas-project.eu/info provides terminology services in European languages (plus Russian).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Doris" changedate="20180418T075653Z" creationid="Doris" creationdate="20180418T075653Z">
-        <seg>Microsoft Translator Subscription Key not available. See OmegaT manual for instructions.</seg>
+      <tuv lang="ZH-CN" changeid="Doris" changedate="20180418T121912Z" creationid="Doris" creationdate="20180418T075653Z">
+        <seg>TaaS服务提供欧洲语言（以及俄语）的术语服务，网址位于https://demo.taas-project.eu/info 。</seg>
       </tuv>
     </tu>
     <tu>
