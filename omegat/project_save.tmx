@@ -22138,6 +22138,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It can also be obtained using the subversion command:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T033657Z" creationid="Wyndy" creationdate="20180418T033657Z">
+        <seg>您也可通过 subversion 命令获取该版本：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It can also be used in all the input fields found in &lt;a7&gt;OmegaT&lt;/a7&gt; - in the search window, for segmentation rules etc.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120202T125021Z">
@@ -22382,6 +22390,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131116T032425Z" creationid="Fu Rhong" creationdate="20131116T032425Z">
         <seg>它是一份压缩文件（zip或tar存档），您需把它们解压缩到您选择的安装目录中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is recommended for serious developers and testers only.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T033422Z" creationid="Wyndy" creationdate="20180418T033422Z">
+        <seg>只推荐专业开发人员及测试人员使用该版本。</seg>
       </tuv>
     </tu>
     <tu>
