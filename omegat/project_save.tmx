@@ -7378,8 +7378,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;u0&gt;LanguageTool&lt;/u0&gt; is an Open Source style and grammar proofreading software for English, French, German, Polish, Dutch, Romanian, and a number of other languages - see the &lt;u1&gt;list of supported languages&lt;/u1&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T084415Z" creationid="Fu Rhong" creationdate="20131108T102825Z">
-        <seg>&lt;u0&gt;LanguageTool&lt;/u0&gt;是开源的语法校对软件，可用于英语、法语、德语、波兰语、荷兰语、罗马尼亚语及其他语言（请参阅&lt;u1&gt;支持语言列表&lt;/u1&gt;）。</seg>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T085045Z" creationid="Fu Rhong" creationdate="20131108T102825Z">
+        <seg>&lt;u0&gt;LanguageTool&lt;/u0&gt;是开源的语法校对软件，适用于英语、法语、德语、波兰语、荷兰语、罗马尼亚语等语言（请参阅&lt;u1&gt;支持语言列表&lt;/u1&gt;）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22340,8 +22340,8 @@ click on that shortcut.</seg>
       <tuv lang="EN">
         <seg>It does not include spell checking.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131108T103310Z" creationid="Fu Rhong" creationdate="20131108T103310Z">
-        <seg>它不包括拼写检查。</seg>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T085053Z" creationid="Fu Rhong" creationdate="20131108T103310Z">
+        <seg>这不包括拼写检查。</seg>
       </tuv>
     </tu>
     <tu>
