@@ -22284,8 +22284,8 @@ click on that shortcut.</seg>
       <tuv lang="EN">
         <seg>It can also detect some grammar mistakes.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131108T103240Z" creationid="Fu Rhong" creationdate="20131108T103215Z">
-        <seg>它还可以检测一些语法错误。</seg>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T085014Z" creationid="Fu Rhong" creationdate="20131108T103215Z">
+        <seg>它还可以检查语法错误。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23392,8 +23392,8 @@ itself on the first run.</seg>
       <tuv lang="EN">
         <seg>LanguageTool plugin</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T084338Z" creationid="Fu Rhong" creationdate="20131108T102350Z">
-        <seg>语言工具插件</seg>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T084551Z" creationid="Fu Rhong" creationdate="20131108T102350Z">
+        <seg>LanguageTool插件</seg>
       </tuv>
     </tu>
     <tu>
@@ -46507,8 +46507,8 @@ the installation script (linux-install.sh).</seg>
       <tuv lang="EN">
         <seg>You can think of LanguageTool as a software to detect errors that a simple spell checker cannot detect, e.g. mixing up there/their, no/now etc.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131108T103205Z" creationid="Fu Rhong" creationdate="20131108T103205Z">
-        <seg>您可以把LanguageTool视为可检测出简单的拼写检查器无法发现的错误的软件，例如混用了there/their、no/now等。</seg>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T084823Z" creationid="Fu Rhong" creationdate="20131108T103205Z">
+        <seg>LanguageTool可用于检查一般拼写检查软件无法检测出的错误，例如混用了there/their、no/now等。</seg>
       </tuv>
     </tu>
     <tu>
