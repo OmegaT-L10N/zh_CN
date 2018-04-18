@@ -17417,6 +17417,14 @@ script provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For users of Microsoft Office who do not (yet) have the 2007 version, conversion between Office Open XML and Microsoft Office 98-2003 can be achieved using a free plug-in converter available &lt;a0&gt;here&lt;/a0&gt; from Microsoft.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T055843Z" creationid="Wyndy" creationdate="20180418T055843Z">
+        <seg>还未获取 Microsoft Office  2007 版本的用户，您可通过 Microsoft 提供的免费转换插件 &lt;a0&gt;here&lt;/a0&gt;完成 Office Open XML 与 Microsoft Office 98-2003 文件格式的转换。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For users who do not have MS Office 2007 or 2010 and do not wish to buy it, Microsoft provides a &lt;a0&gt;compatibility plug-in&lt;/a0&gt; for earlier versions.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="liufang" changedate="20180416T122935Z" creationid="liufang" creationdate="20180416T122935Z">
