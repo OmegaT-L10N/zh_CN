@@ -23702,6 +23702,22 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Level 1 TMX files contain no formatting information.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T082403Z" creationid="Wyndy" creationdate="20180418T082403Z">
+        <seg>Level 1 TMX files 不包含任何格式信息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Level 2 TMX files contain formatting information, but these files are typically only compatible when the same CAT tool is used.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T082452Z" creationid="Wyndy" creationdate="20180418T082452Z">
+        <seg>Level 2 TMX 文件包含格式信息，但是这些 but these files are typically only compatible when the same CAT tool is used.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Level 2 tmx files will still be imported and their textual content can be seen in OmegaT, but the quality of fuzzy matches will be somewhat lower.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120218T065828Z">
@@ -37945,6 +37961,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The levels refer to the formatting information that is contained in the TMX file:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T082346Z" creationid="Wyndy" creationdate="20180418T082346Z">
+        <seg>级别指 TMX 文件所包含的格式信息：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The license of each library is mentionned
 in /lib/licenses/Licenses.txt.</seg>
       </tuv>
@@ -39054,6 +39078,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021248Z">
         <seg>拼写检查器根据目标语言代码来决定要使用的语言：如果目标语言是巴西葡萄牙语 (PT_BR)，存放术语表的目录必须包括两份术语表，名为 &lt;e0&gt;pt_br.aff&lt;/e0&gt; 和 &lt;e1&gt;pt_br.dic&lt;/e1&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The standard is still undergoing development; this is what the different versions refer to.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T082308Z" creationid="Wyndy" creationdate="20180418T082303Z">
+        <seg>该标准仍在不断发展，因而有许多版本。</seg>
       </tuv>
     </tu>
     <tu>
