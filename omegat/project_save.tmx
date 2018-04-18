@@ -10910,6 +10910,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Certain other CAT tools (such as TRADOS) are able to export different TMX files in different versions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T085742Z" creationid="Wyndy" creationdate="20180418T085742Z">
+        <seg>某些 CAT 工具（如 TRADOS）可以输出不同版本的 TMX 文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Chamorro</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131107T144858Z" creationid="Fu Rhong" creationdate="20131107T142654Z">
@@ -23742,6 +23750,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Level 3 TMX files contain formatting information in a form that can be read by other CAT tools.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T084845Z" creationid="Wyndy" creationdate="20180418T084845Z">
+        <seg>而 Level 3 TMX 文件所包含的格式信息，能被生成该文件的 CAT 工具之外的其他 CAT 工具读取。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LibreOffice and more recent versions of OpenOffice.org now use the "extensions" format for these dictionaries, in which the files are supplied in a a zip archive with the extension .oxt.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T142530Z" creationid="Zoe" creationdate="20180411T142142Z">
@@ -27625,6 +27641,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yujun Yin" changedate="20131007T080047Z" creationid="Yujun Yin" creationdate="20131007T075949Z">
         <seg>OmegaT 保存译文，并根据译法记忆文件中已有的相似片段给出可能的译文，以供参考。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT supports all current versions of TMX, but is likely to deliver better match results if the TMX file is version 1.4b.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T085909Z" creationid="Wyndy" creationdate="20180418T085909Z">
+        <seg>OmegaT 支持当前所有版本的TMX，不过 TMX 文件版本为1.4b 时，产生的匹配结果更好。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35119,6 +35143,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Support for Level 3 in CAT tools is rare.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T085447Z" creationid="Wyndy" creationdate="20180418T085447Z">
+        <seg>但是CAT 工具很少支持  Level 3  TMX 文件。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Support for right-to-left languages</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="18261" changedate="20180412T083749Z" creationid="18261" creationdate="20180412T083749Z">
@@ -40604,6 +40636,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="18261" changedate="20180412T124839Z" creationid="18261" creationdate="20180412T124839Z">
         <seg>目前的OmegaT项目协调员将这种不干涉的方法描述为“授权无政府状态”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This has repercussions for workflows in which CAT tool users (typically customers) expect to receive translation memory files and to have 100% matches inserted automatically.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T084707Z" creationid="Wyndy" creationdate="20180418T084554Z">
+        <seg>当 CAT 工具用户 （通常是消费者）希望获取翻译记忆文件，而且希望100% 匹配的片段可以自动插入时，Level 2 文件的局限性就暴露了。</seg>
       </tuv>
     </tu>
     <tu>
