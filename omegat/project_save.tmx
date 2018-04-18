@@ -25048,8 +25048,8 @@ itself on the first run.</seg>
       <tuv lang="EN">
         <seg>Machine translation services have been achieving good and steadfastly improving results in research evaluations.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120208T142321Z">
-        <seg>机器翻译服务已经在研究评估中达到了较好且稳定的结果改善。</seg>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180418T133510Z">
+        <seg>机器翻译服务已经在研究评估中实现了较好且稳定的结果改善。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38551,8 +38551,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The current version of the service is based on usage, with the price of 20 USD per million characters at the time of writing.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120209T062040Z">
-        <seg>该服务的当前版本根据使用付费的，在编写此文档时每百万字符 20 USD 的价格。</seg>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180418T133537Z">
+        <seg>该服务的当前版本根据使用付费的，在编写此文档时每百万字符 20美元 的价格。</seg>
       </tuv>
     </tu>
     <tu>
