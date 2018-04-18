@@ -44474,6 +44474,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>VLDocking Framework (LGPL License)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T103843Z" creationid="puleiying" creationdate="20180418T103843Z">
+        <seg>VLDocking Framework（CeCILL 许可协议）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>VLDocking Framework 2.1.4 by VLSolutions (CeCILL License)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T153813Z">
