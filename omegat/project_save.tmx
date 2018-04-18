@@ -30528,6 +30528,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>RTF is structurally quite different from the Microsoft Office 98-2003 file format, but with regard to OmegaT, the same applies: it is not supported directly and must first be converted to .docx (MS Office 2007/2010) or Open Document format (LibreOffice/OpenOffice.org).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T073228Z" creationid="Wyndy" creationdate="20180418T073228Z">
+        <seg>RTF 文件的结构与 Microsoft Office 98-2003 文件格式结构截然不同，但对于 OmegaT 而言，以下情况相同： OmegaT 不能直接支持这两种文件格式，只能先将它们转换成 .docx (MS Office 2007/2010) 格式或者 Open Document format 格式(LibreOffice/OpenOffice.org).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>RTL-LTR switch</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120130T053452Z">
