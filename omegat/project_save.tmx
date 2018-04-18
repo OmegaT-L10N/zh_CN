@@ -53299,8 +53299,8 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>Refer to the OmegaT user manual for an up-to-date list of all supported file formats.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T052331Z" creationid="Wyndy" creationdate="20180418T052231Z">
-        <seg>请参阅 OmegaT 用户手册查阅包含全部文件支持格式最新列表。 </seg>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T053128Z" creationid="Wyndy" creationdate="20180418T052231Z">
+        <seg>欲查阅 OmegaT 支持的所有文件格式的最新列表，请参见 OmegaT 用户手册。 </seg>
       </tuv>
     </tu>
   </body>
