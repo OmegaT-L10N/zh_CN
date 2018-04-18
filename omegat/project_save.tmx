@@ -39660,6 +39660,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>They can be found in the folders of the corresponding compiled versions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T043836Z" creationid="Wyndy" creationdate="20180418T043836Z">
+        <seg>您也可在相应编译版本的文件夹中找到源代码包。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>They can share common material, like project translation memory and its glossary</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021051Z" creationid="Fu Rhong" creationdate="20131110T070936Z">
