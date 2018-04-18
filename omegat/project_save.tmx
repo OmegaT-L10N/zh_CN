@@ -21578,6 +21578,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Include the &amp;first non-unique segment when marking non-unique segments</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T111142Z" creationid="Lenovo" creationdate="20180418T111142Z">
+        <seg>标注非唯一s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Include the first non-&amp;unique segment when marking non-unique segments</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T160551Z">
@@ -25228,6 +25236,22 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T033921Z" creationid="xulihang" creationdate="20180404T033921Z">
         <seg>修改信息</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Modification info template</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T110959Z" creationid="Lenovo" creationdate="20180418T110959Z">
+        <seg>修改信息模板</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Modification info template for segments without date</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T111028Z" creationid="Lenovo" creationdate="20180418T111028Z">
+        <seg>修改没有日期的信息模板</seg>
       </tuv>
     </tu>
     <tu>
@@ -34050,6 +34074,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T115004Z" creationid="xulihang" creationdate="20180408T115004Z">
         <seg>简单的搜索与替换脚本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Simplify &amp;tooltips on protected parts</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T110533Z" creationid="Lenovo" creationdate="20180418T110533Z">
+        <seg>被保护部分的简化与工具提示</seg>
       </tuv>
     </tu>
     <tu>
