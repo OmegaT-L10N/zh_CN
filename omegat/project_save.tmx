@@ -44033,6 +44033,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using TaaS in OmegaT</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Doris" changedate="20180418T075409Z" creationid="Doris" creationdate="20180418T075409Z">
+        <seg>在iOmegaT中使用TaaS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using Trados MultiTerm</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131116T122128Z" creationid="Fu Rhong" creationdate="20131116T122128Z">
