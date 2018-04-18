@@ -26876,6 +26876,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Notify Me When a Segment Has Dictionary Entries</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T112225Z" creationid="Lenovo" creationdate="20180418T112225Z">
+        <seg>当一个片段有字典条目时通知我</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Notify Me When a Segment Has Fuzzy Matches</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T111914Z" creationid="Lenovo" creationdate="20180418T111914Z">
@@ -28562,6 +28570,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="christy" changedate="20180407T160324Z" creationid="christy" creationdate="20180407T160324Z">
         <seg>打开目标文件位置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open Writable Glossary File</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T112151Z" creationid="Lenovo" creationdate="20180418T112151Z">
+        <seg>打开可写术语表文件</seg>
       </tuv>
     </tu>
     <tu>
