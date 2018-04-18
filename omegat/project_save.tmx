@@ -23107,8 +23107,8 @@ click on that shortcut.</seg>
       <tuv lang="EN">
         <seg>It is pretty much certain that while the quality may be insufficient in some cases, it will definitely get better with time and not worse.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
-        <seg>有一点可以肯定，在某些情况下，其质量肯定不够好，但它肯定会不断提高，而不是变差。</seg>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180418T133727Z">
+        <seg>有一点可以肯定，在某些情况下，其质量肯定不够好。但翻译质量肯定会在不断提高。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27139,8 +27139,8 @@ appropriate location such as the Applications folder.</seg>
       <tuv lang="EN">
         <seg>Note that Google Translate service is not free of charge, see chapter &lt;l1&gt;Installing and Running&lt;/l1&gt; (runtime parameters) for more on that.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T095438Z" creationid="Fu Rhong" creationdate="20131117T095438Z">
-        <seg>注意谷歌翻译服务需要付费，请参阅&lt;l1&gt;安装和运行&lt;/l1&gt;章节（运行时参数）了解更多相关信息。</seg>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180418T134003Z" creationid="Fu Rhong" creationdate="20131117T095438Z">
+        <seg>注意：谷歌翻译服务需要付费，请参阅&lt;l1&gt;安装和运行&lt;/l1&gt;章节（运行时参数）了解更多相关信息。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27259,8 +27259,8 @@ appropriate location such as the Applications folder.</seg>
       <tuv lang="EN">
         <seg>Note that nothing but your source segment is sent to the MT service.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120209T071740Z">
-        <seg>注意，除了源片段外不会将其他任何内容发送至机器翻译服务。</seg>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180418T133941Z">
+        <seg>提示：除了源片段外，其他任何内容不会发送至机器翻译服务。</seg>
       </tuv>
     </tu>
     <tu>
