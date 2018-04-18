@@ -21623,6 +21623,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In practice, working with the XLIFF workflow often requires the use of tools that are not very user-friendly.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T132957Z" creationid="Wyndy" creationdate="20180418T132957Z">
+        <seg>实际上，使用 XLIFF 工作流程通常需要用到一些不太友好的工具。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In so&amp;urce</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="flycr" changedate="20180408T094657Z">
