@@ -20993,6 +20993,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In other words, "compatibility" is not only about products, but also about workflows.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T050000Z" creationid="Wyndy" creationdate="20180418T050000Z">
+        <seg>换句话说，“兼容性”不仅涉及产品本身，还与工作流程有关。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In other words, when moving paired tags, ensure that both the opening and the closing tag are both either inside or outside other tag pairs, or the translated file may be corrupted and fail to open.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120205T115626Z">
@@ -27420,6 +27428,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT runs on any operating system on which a suitable version of the Java Runtime Environment (JRE) can be run.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T050155Z" creationid="Wyndy" creationdate="20180418T050155Z">
+        <seg>只要操作系统能运行适当版本的 Java Runtime Environment (JRE) ，那 OmegaT 就能在该操作系统上运行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT setting</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="anton" changedate="20180416T081214Z" creationid="anton" creationdate="20180416T081214Z">
@@ -28392,6 +28408,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180416T144652Z" creationid="xulihang" creationdate="20180416T144652Z">
         <seg>Opera:&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Operating systems</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T050017Z" creationid="Wyndy" creationdate="20180418T050017Z">
+        <seg>操作系统</seg>
       </tuv>
     </tu>
     <tu>
@@ -38355,8 +38379,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>The question which must be answered is whether these procedures are acceptable in terms of the result and the effort involved, and the answer is likely to vary from one user to another.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T045842Z" creationid="Wyndy" creationdate="20180418T045842Z">
-        <seg>软件效果及投入是否可接受才是必答题，但这又仁者见仁智者见智。</seg>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T045850Z" creationid="Wyndy" creationdate="20180418T045842Z">
+        <seg>软件效果及投入是否可接受才是必答题，但这又仁者见仁，智者见智。</seg>
       </tuv>
     </tu>
     <tu>
