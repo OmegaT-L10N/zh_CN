@@ -23130,6 +23130,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is supported by several CAT tools, and in fact some CAT tools are effectively "designed around" the XLIFF standard: Heartsome and Swordfish are examples.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T132350Z" creationid="Wyndy" creationdate="20180418T132350Z">
+        <seg>多个 CAT 工具支持 XLIFF，事实上某些 CAT 工具就是“围绕”XLIFF 标准进行了有效的设计：例如Heartsome 和 Swordfish。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is the segment that is displayed in two parts.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120218T122756Z">
@@ -39149,6 +39157,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The individual bilingual file formats are described below.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T132054Z" creationid="Wyndy" creationdate="20180418T132054Z">
+        <seg>下面分别描述各双语文件格式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The information below summarizes their use and how they are invoked:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131127T115930Z" creationid="Fu Rhong" creationdate="20131127T115930Z">
@@ -47251,6 +47267,14 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T153036Z">
         <seg>XLIFF 过滤器选项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>XLIFF is the industry-standard bilingual file format.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T132119Z" creationid="Wyndy" creationdate="20180418T132119Z">
+        <seg>XLIFF 是双语文件格式的行业标准格式。</seg>
       </tuv>
     </tu>
     <tu>
