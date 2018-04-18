@@ -43925,6 +43925,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use custom templates for modification &amp;info</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T110520Z" creationid="Lenovo" creationdate="20180418T110520Z">
+        <seg>使用惯用模板修改信息</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use glossary</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T115230Z" creationid="xulihang" creationdate="20180408T115230Z">
