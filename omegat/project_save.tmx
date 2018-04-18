@@ -1737,6 +1737,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(OmegaT is far from unique in this respect: many other CAT tools convert source files to a different format, in some cases in the background without the translator being aware of the fact, before they are translated.)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T072017Z" creationid="Wyndy" creationdate="20180418T072017Z">
+        <seg>(由此看来，OmegaT 远不能独立使用：毕竟许多其他 CAT 工具可在译员翻译之前自行将源文件转换为其他格式。)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(Other methods of closing Priorview will not delete the temporary files.)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T111311Z" creationid="lenovo" creationdate="20180416T111311Z">
@@ -30508,6 +30516,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T123334Z" creationid="Administrator" creationdate="20180411T123334Z">
         <seg>RELAX NG schema for XML (*.rng) </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>RTF (Rich Text Format):</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T072055Z" creationid="Wyndy" creationdate="20180418T072055Z">
+        <seg>RTF (Rich Text Format 富文本格式):</seg>
       </tuv>
     </tu>
     <tu>
