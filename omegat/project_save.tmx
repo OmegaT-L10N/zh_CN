@@ -26780,6 +26780,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Office Open XML can be converted directly to Open Document Format and back by means of the ODF converter, available &lt;a0&gt;here&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T063328Z" creationid="Wyndy" creationdate="20180418T063328Z">
+        <seg>Office Open XML 既可直接转成 Open Document Format 格式，也可通过 ODF 转换器（在 &lt;a0&gt;此处&lt;/a0&gt;获取）转回Office Open XML 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Often documents will also have tags that have nothing to do with formatting, but which are also important in the source files (and in the translated files).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T024058Z" creationid="Fu Rhong" creationdate="20131117T024058Z">
@@ -40151,6 +40159,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This converter is available for Windows and Mac.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T062616Z" creationid="Wyndy" creationdate="20180418T062616Z">
+        <seg>此插件包含 Windows 与 Mac 版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This copies the selected files to the &lt;f3&gt;source&lt;/f3&gt; folder and reloads the project to import the new files.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120219T124357Z">
@@ -40963,6 +40979,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Puzzlist" changedate="20130918T033613Z">
         <seg>本译文由彭钢、尹玉珺完成，版权 2013。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This utility requires a version of MS Office (XP/2003/2007).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T063828Z" creationid="Wyndy" creationdate="20180418T063828Z">
+        <seg>MS Office (XP/2003/2007) 才能使用该插件。</seg>
       </tuv>
     </tu>
     <tu>
