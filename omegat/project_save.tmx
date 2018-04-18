@@ -21057,6 +21057,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In other words, if an OmegaT user finds a 100% match in a Level 2 OmegaT TMX file, it can be accepted without requiring adaptation, but the same would not be true for a Level 2 TMX file produced by a different CAT tool (or vice-versa).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T083639Z" creationid="Wyndy" creationdate="20180418T083639Z">
+        <seg>换言之，如果 OmegaT 用户在 Level 2 OmegaT TMX 文件里找到 100% match 片段，他可以直接采取记忆片段而不做任何改动，但如果是其他 CAT 工具生成的 TMX 文件，就不能直接使用（反之亦然）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In other words, when moving paired tags, ensure that both the opening and the closing tag are both either inside or outside other tag pairs, or the translated file may be corrupted and fail to open.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120205T115626Z">
@@ -23704,16 +23712,16 @@ itself on the first run.</seg>
       <tuv lang="EN">
         <seg>Level 1 TMX files contain no formatting information.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T082403Z" creationid="Wyndy" creationdate="20180418T082403Z">
-        <seg>Level 1 TMX files 不包含任何格式信息。</seg>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T082458Z" creationid="Wyndy" creationdate="20180418T082403Z">
+        <seg>Level 1 TMX 文件不包含任何格式信息。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Level 2 TMX files contain formatting information, but these files are typically only compatible when the same CAT tool is used.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T082452Z" creationid="Wyndy" creationdate="20180418T082452Z">
-        <seg>Level 2 TMX 文件包含格式信息，但是这些 but these files are typically only compatible when the same CAT tool is used.</seg>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T082601Z" creationid="Wyndy" creationdate="20180418T082452Z">
+        <seg>Level 2 TMX 文件包含格式信息，但是这些 TMX 文件通常只有在同一 CAT 工具中才互相兼容。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33951,8 +33959,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Since it is standard procedure for professional translators to receive and deliver texts in digital form, users of OmegaT are naturally interested in its compatibility with other software products.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T054442Z" creationid="Wyndy" creationdate="20180418T044750Z">
-        <seg>按照标准流程，专业译员收发的是电子形式的文本， OmegaT 用户自然很关心它与其他软件产品的兼容性</seg>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T082632Z" creationid="Wyndy" creationdate="20180418T044750Z">
+        <seg>按照标准流程，专业译员收发的是电子形式的文本，所以 OmegaT 用户很关心它与其他软件产品的兼容性</seg>
       </tuv>
     </tu>
     <tu>
