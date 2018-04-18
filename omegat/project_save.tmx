@@ -406,6 +406,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Automatically Fetch Translations</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T115807Z" creationid="Lenovo" creationdate="20180418T115807Z">
+        <seg>&amp;自动匹配翻译</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Automatically check the spelling of text</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105534Z">
@@ -1366,6 +1374,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Sentence Case</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T115555Z" creationid="Lenovo" creationdate="20180418T115555Z">
+        <seg>&amp;句子e</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Sheet Names</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T110408Z">
@@ -1668,6 +1684,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130911T115847Z">
         <seg>(+{0} 更多)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(+{0} more)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T115742Z" creationid="Lenovo" creationdate="20180418T115742Z">
+        <seg>(+{0} 更多)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8596,6 +8620,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="think" changedate="20180416T004604Z" creationid="think" creationdate="20180416T004604Z">
         <seg>不过您也可以获得它们免费的演示版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Aggressive &amp;Font Fallback</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T115644Z" creationid="Lenovo" creationdate="20180418T115644Z">
+        <seg>突出后备字体</seg>
       </tuv>
     </tu>
     <tu>
@@ -21992,6 +22024,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Insert Match or Selection Into Translation</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T115715Z" creationid="Lenovo" creationdate="20180418T115715Z">
+        <seg>在翻译中插入匹配和选择</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Insert Missing Source &amp;Tags</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Puzzlist" changedate="20130922T035838Z">
@@ -25030,6 +25070,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mark &amp;Auto-Populated Segments</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T115625Z" creationid="Lenovo" creationdate="20180418T115625Z">
+        <seg>标记自动填充片段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mark &amp;Bidirectional Algorithm Control Characters</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T165101Z">
@@ -25086,6 +25134,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mark Glossary Matches</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T115655Z" creationid="Lenovo" creationdate="20180418T115655Z">
+        <seg>标注术语表匹配</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mark Needs Review</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T062642Z" creationid="Administrator" creationdate="20180412T062642Z">
@@ -25098,6 +25154,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T164645Z">
         <seg>标记非独特片段(&amp;U)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark Non-Unique Se&amp;gments</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T115613Z" creationid="Lenovo" creationdate="20180418T115613Z">
+        <seg>标记非唯一片段</seg>
       </tuv>
     </tu>
     <tu>
@@ -32122,6 +32186,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Replace Translation with Match or Selection</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T115732Z" creationid="Lenovo" creationdate="20180418T115732Z">
+        <seg>将翻译替换为匹配或选择</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Replace Translation with Text</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T165444Z">
@@ -36042,6 +36114,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180416T065520Z" creationid="Lenovo" creationdate="20180416T065520Z">
         <seg>翻译记忆匹配</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TM Matching Options</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T115753Z" creationid="Lenovo" creationdate="20180418T115753Z">
+        <seg>翻译记忆匹配选项</seg>
       </tuv>
     </tu>
     <tu>
