@@ -18238,8 +18238,8 @@ script provided (omegat.kaptn).</seg>
       <tuv lang="EN">
         <seg>HTML and XHTML, its XML equivalent, are the most common file format for web pages.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T075630Z" creationid="Wyndy" creationdate="20180418T075630Z">
-        <seg>HTML and XHTML（前者的 XML 版），是最通用的网页文件格式 。</seg>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T075852Z" creationid="Wyndy" creationdate="20180418T075630Z">
+        <seg>HTML 与 XHTML（前者的 XML 版），是最通用的网页文件格式 。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22426,6 +22426,15 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is however worth customizing the filter settings for optimum results.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T081425Z" creationid="Wyndy" creationdate="20180418T081425Z">
+        <seg>
+对文件过滤器自定义设置以获得最佳结果</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is often useful to search for words and phrases in the source text and in your translation, so press &lt;k0&gt;Ctrl+F&lt;/k0&gt; for the &lt;g1&gt;Text Search&lt;/g1&gt; dialog at any time.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T031654Z" creationid="Fu Rhong" creationdate="20131117T031654Z">
@@ -23715,6 +23724,14 @@ itself on the first run.</seg>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T020119Z" creationid="xulihang" creationdate="20180408T020053Z">
         <seg>许可信息
 =====================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Like OpenOffice.org files, these file formats can be translated in OmegaT with very little risk of corruption.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T075903Z" creationid="Wyndy" creationdate="20180418T075834Z">
+        <seg>类似 OpenOffice.org 文件, 用 OmegaT 翻译 HTML 与 XHTML文件时，也极少损坏其文件格式。</seg>
       </tuv>
     </tu>
     <tu>
