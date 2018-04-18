@@ -470,6 +470,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Browse...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T114203Z" creationid="Lenovo" creationdate="20180418T114203Z">
+        <seg>@浏览...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Cancel</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T022400Z">
@@ -9128,6 +9136,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An error occurred while downloading the dictionary.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T114214Z" creationid="Lenovo" creationdate="20180418T114214Z">
+        <seg>下载字典时发生错误.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An error occurred while opening the item.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="apple" changedate="20180415T092708Z" creationid="apple" creationdate="20180415T092708Z">
@@ -12837,6 +12853,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Could not create the specified folder.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T114102Z" creationid="Lenovo" creationdate="20180418T114102Z">
+        <seg>无法创建详细说明的文件夹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Could not initialize OS look and feel!</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T151749Z">
@@ -14546,6 +14570,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="ZH-CN" changeid="flycr" changedate="20180406T124606Z" creationid="flycr" creationdate="20180406T124606Z">
         <seg>是否继续？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Do you want to create it?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T114014Z" creationid="Lenovo" creationdate="20180418T114014Z">
+        <seg>是否需要创建?</seg>
       </tuv>
     </tu>
     <tu>
@@ -16950,6 +16982,14 @@ project_save.tmx未真正上传，SVN切换到不稳定状态。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T150413Z">
         <seg>目录已经存在而且不是空的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Folder does not exist</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T113949Z" creationid="Lenovo" creationdate="20180418T113949Z">
+        <seg>文件夹不存在</seg>
       </tuv>
     </tu>
     <tu>
@@ -39597,6 +39637,22 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
         <seg>源文本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The specified dictionary folder cannot be used.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T114126Z" creationid="Lenovo" creationdate="20180418T113934Z">
+        <seg>详细说明的词典文件夹无法使用.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The specified dictionary folder does not exist.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T114111Z" creationid="Lenovo" creationdate="20180418T114003Z">
+        <seg>详细说明的词典文件夹不存在.</seg>
       </tuv>
     </tu>
     <tu>
