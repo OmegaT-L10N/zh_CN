@@ -9719,8 +9719,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>At the present time, this includes all versions of Microsoft Windows from Windows 98 onwards, Mac OS X, and most Linux distributions.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T050234Z" creationid="Wyndy" creationdate="20180418T050234Z">
-        <seg>目前，At the present time, this includes all versions of Microsoft Windows from Windows 98 onwards, Mac OS X, and most Linux distributions.</seg>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T051921Z" creationid="Wyndy" creationdate="20180418T050234Z">
+        <seg>目前，所有微软 Windows 98 以上版本的 Windows 操作系统，Mac OS X 以及大部分 Linux 发行版都可运行 OmegaT 。</seg>
       </tuv>
     </tu>
     <tu>
