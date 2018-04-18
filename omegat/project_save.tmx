@@ -21105,6 +21105,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In practice, it is therefore possible for translators to deliver translation memories to customers and vice-versa, and for the recipient to use these files for immediate or future reference; if the files are to be used within an automated workflow, however, the constraint described above applies.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T091520Z" creationid="Wyndy" creationdate="20180418T091044Z">
+        <seg>所以实际上，译员可以向客户交付翻译记忆，客户也可以给译员提供翻译记忆，接收者可以立即使用这些翻译记忆文件，也可留待以后使用；然而，如果要在自动化工作流中使用该翻译记忆文件，就会出现上述的使用限制。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In practice, this command will therefore be something like this:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120207T125646Z">
@@ -40666,8 +40674,8 @@ the server.</seg>
       <tuv lang="EN">
         <seg>This has repercussions for workflows in which CAT tool users (typically customers) expect to receive translation memory files and to have 100% matches inserted automatically.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T084707Z" creationid="Wyndy" creationdate="20180418T084554Z">
-        <seg>当 CAT 工具用户 （通常是消费者）希望获取翻译记忆文件，而且希望100% 匹配的片段可以自动插入时，Level 2 文件的局限性就暴露了。</seg>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T091056Z" creationid="Wyndy" creationdate="20180418T084554Z">
+        <seg>当 CAT 工具用户 （通常是客户）希望获取翻译记忆文件，而且希望100% 匹配的片段可以自动插入时，Level 2 文件的局限性就暴露了。</seg>
       </tuv>
     </tu>
     <tu>
