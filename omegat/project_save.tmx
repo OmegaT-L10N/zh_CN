@@ -27232,6 +27232,14 @@ published by the Free Software Foundation, either version 3 of the License, or
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT is capable of handling the current Microsoft Office formats directly, without conversion to or from other formats.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T054034Z" creationid="Wyndy" creationdate="20180418T054034Z">
+        <seg>OmegaT 现在能直接处理当前的 Microsoft office 文件格式，不能处理从其他格式转换而来的Microsoft office 文件格式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT is free software.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="18261" changedate="20180412T100611Z" creationid="18261" creationdate="20180412T100611Z">
