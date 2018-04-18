@@ -36346,6 +36346,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Microsoft Office 2007-2010 file formats can be processed directly in OmegaT; more information can be found &lt;a0&gt;here&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T055533Z" creationid="Wyndy" creationdate="20180418T055533Z">
+        <seg>Microsoft Office 2007-2010 文件格式能直接在 OmegaT 中直接处理；点击  &lt;a0&gt;此处&lt;/a0&gt;获取更多信息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Moses server URL is not set</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T113857Z" creationid="Administrator" creationdate="20180411T113857Z">
@@ -40675,6 +40683,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T111616Z" creationid="cpeishan" creationdate="20180407T111436Z">
         <seg> OmegaT的本地化人员名单.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This makes it much easier for CAT tools to support it and edit it directly.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T055221Z" creationid="Wyndy" creationdate="20180418T055221Z">
+        <seg>从而更易于 CAT 工具支持并直接编辑其文件格。</seg>
       </tuv>
     </tu>
     <tu>
