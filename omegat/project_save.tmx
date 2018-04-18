@@ -27749,6 +27749,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT uses the international TMX standard as its native translation memory format.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T090441Z" creationid="Wyndy" creationdate="20180418T090441Z">
+        <seg>OmegaT 将国际化的 TMX 标准格式作为其本地翻译记忆的格式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT uses the standard tmx file format to store and access translation memories, which guarantees that you can exchange your translation material with other CAT applications supporting this file format.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yujun Yin" changedate="20131007T074716Z" creationid="Yujun Yin" creationdate="20131007T074716Z">
@@ -34185,6 +34193,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T071527Z" creationid="Wyndy" creationdate="20180418T071527Z">
         <seg>有些 CAT 工具能克服这个问题，至少在 MS Word 软件自身内工作时可以处理 Word 文件；其他大部分 CAT 工具只能先将其转换成富文本格式处理再转回，不过译员通常见不到该过程。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Some CAT tools still employ dedicated proprietary translation memory formats, but virtually all support the import and export of TMX files.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T090830Z" creationid="Wyndy" creationdate="20180418T090830Z">
+        <seg>虽然有些 CAT 工具仍采用专用的、专利性的翻译记忆格式，但几乎所有 CAT 工具都支持导入、导出 TMX 文件。</seg>
       </tuv>
     </tu>
     <tu>
