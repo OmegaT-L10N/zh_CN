@@ -18192,6 +18192,14 @@ script provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Fuzzy Matches pane: Dropped &lt;f0&gt;.tmx&lt;/f0&gt; files will be copied to the &lt;f1&gt;tm&lt;/f1&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Doris" changedate="20180418T170258Z" creationid="Doris" creationdate="20180418T170258Z">
+        <seg>模糊匹配窗格：被拖放的&lt;f0&gt;.tmx&lt;/f0&gt;文件将被复制到&lt;f1&gt;tm&lt;/f1&gt;目录下。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Fuzzy matches can come from the &lt;f0&gt;/tm&lt;/f0&gt; folder as well - and not just from the internal translation memory in &lt;f1&gt;/omegaT,&lt;/f1&gt; as is the case for repetitions and exact matches.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120219T133303Z">
@@ -18508,6 +18516,14 @@ script provided (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021248Z">
         <seg>术语表窗格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Glossary pane: Dropped files with known glossary extensions (&lt;f0&gt;.txt&lt;/f0&gt;, &lt;f1&gt;.tab&lt;/f1&gt;, etc.) will be copied to the &lt;f2&gt;glossary&lt;/f2&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Doris" changedate="20180418T170449Z" creationid="Doris" creationdate="20180418T170449Z">
+        <seg>术语表窗格：带有已知词汇表扩展名（&lt;f0&gt;.txt&lt;/f0&gt;、&lt;f1&gt;.tab&lt;/f1&gt;等）的被拖放的文件将被复制到&lt;f2&gt;术语表&lt;/f2&gt;文件夹中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41891,6 +41907,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131121T122839Z">
         <seg>这是一条例外规则，因此必须取消选中规则的复选框。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This applies also to the &lt;l2&gt;Project files&lt;/l2&gt; window.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Doris" changedate="20180418T170201Z" creationid="Doris" creationdate="20180418T170201Z">
+        <seg>此操作也适用于&lt;l2&gt;项目文件&lt;/l2&gt;窗口。</seg>
       </tuv>
     </tu>
     <tu>
