@@ -17706,6 +17706,14 @@ script provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>General comments</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T044438Z" creationid="Wyndy" creationdate="20180418T044438Z">
+        <seg>一般性评论s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Generate the translated file</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T024557Z" creationid="Fu Rhong" creationdate="20131117T024557Z">
@@ -39786,6 +39794,15 @@ the server.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T112959Z" creationid="Administrator" creationdate="20180411T112959Z">
         <seg>此API密钥已被阻止</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>HOWTO 不明，沿袭其他同学翻译 "这篇 HOWTO"</note>
+      <tuv lang="EN">
+        <seg>This HOWTO describes OmegaT's compatibility with other software products.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T044125Z">
+        <seg>这篇 HOWTO 描述了 OmegaT 与其他软件产品的兼容性。</seg>
       </tuv>
     </tu>
     <tu>
