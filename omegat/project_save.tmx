@@ -21948,8 +21948,8 @@ click on that shortcut.</seg>
       <tuv lang="EN">
         <seg>Instead, they must first be converted manually to Office Open XML (MS Office 2007/2010) or Open Document format (LibreOffice or OpenOffice.org) before they can be handled in OmegaT.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T071707Z" creationid="Wyndy" creationdate="20180418T071707Z">
-        <seg>而必须先手动将这些文件转换成 Office Open XML (MS Office 2007/2010) 或者 Open Document 格式 (LibreOffice or OpenOffice.org) 才能在 OmegaT 中处理。</seg>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T073552Z" creationid="Wyndy" creationdate="20180418T071707Z">
+        <seg>而必须先手动将这些文件转换成 Office Open XML (MS Office 2007/2010) 或者开放文档格式 (LibreOffice or OpenOffice.org) 才能在 OmegaT 中处理。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24121,8 +24121,8 @@ itself on the first run.</seg>
       <tuv lang="EN">
         <seg>Mac OS X users can convert directly from Office Open XML to OpenDocument Format and back in &lt;a0&gt;NeoOffice&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T063955Z" creationid="Wyndy" creationdate="20180418T063955Z">
-        <seg>Mac OS X 用户可通过 &lt;a0&gt;NeoOffice&lt;/a0&gt;将 Office Open XML 与OpenDocument Format 格式互相转换。</seg>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T073351Z" creationid="Wyndy" creationdate="20180418T063955Z">
+        <seg>Mac OS X 用户可通过 &lt;a0&gt;NeoOffice&lt;/a0&gt;将 Office Open XML 与开放文档格式（ODF）互相转换。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26814,8 +26814,8 @@ appropriate location such as the Applications folder.</seg>
       <tuv lang="EN">
         <seg>Office Open XML can be converted directly to Open Document Format and back by means of the ODF converter, available &lt;a0&gt;here&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T063328Z" creationid="Wyndy" creationdate="20180418T063328Z">
-        <seg>Office Open XML 既可直接转成 Open Document Format 格式，也可通过 ODF 转换器（在 &lt;a0&gt;此处&lt;/a0&gt;获取）转回Office Open XML 。</seg>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T073433Z" creationid="Wyndy" creationdate="20180418T063328Z">
+        <seg>Office Open XML 既可直接转成开放文档格式开放文档格式（ODF），也可通过 ODF 转换器（在 &lt;a0&gt;此处&lt;/a0&gt;获取）转回Office Open XML 。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30530,8 +30530,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>RTF is structurally quite different from the Microsoft Office 98-2003 file format, but with regard to OmegaT, the same applies: it is not supported directly and must first be converted to .docx (MS Office 2007/2010) or Open Document format (LibreOffice/OpenOffice.org).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T073228Z" creationid="Wyndy" creationdate="20180418T073228Z">
-        <seg>RTF 文件的结构与 Microsoft Office 98-2003 文件格式结构截然不同，但对于 OmegaT 而言，以下情况相同： OmegaT 不能直接支持这两种文件格式，只能先将它们转换成 .docx (MS Office 2007/2010) 格式或者 Open Document format 格式(LibreOffice/OpenOffice.org).</seg>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T073609Z" creationid="Wyndy" creationdate="20180418T073228Z">
+        <seg>RTF 文件的结构与 Microsoft Office 98-2003 文件格式结构截然不同，但对于 OmegaT 而言，以下情况相同： OmegaT 不能直接支持这两种文件格式，只能先将它们转换成 .docx (MS Office 2007/2010) 格式或者开放文档格式(LibreOffice/OpenOffice.org).</seg>
       </tuv>
     </tu>
     <tu>
@@ -30642,8 +30642,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Recent versions of OpenOffice.org are able to convert between Microsoft Office 2007 and Open Document Format.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T064510Z" creationid="Wyndy" creationdate="20180418T064510Z">
-        <seg>最新版的 OpenOffice.org 能将 Microsoft Office 2007 与 Open Document Format 互相转换。</seg>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T073535Z" creationid="Wyndy" creationdate="20180418T064510Z">
+        <seg>最新版的 OpenOffice.org 能将 Microsoft Office 2007 与开放文档格式（ODF）互相转换。</seg>
       </tuv>
     </tu>
     <tu>
