@@ -3517,6 +3517,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a1&gt;Anaphraseus&lt;/a1&gt; can also be used for this purpose.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T115314Z" creationid="Wyndy" creationdate="20180418T115314Z">
+        <seg>&lt;a1&gt;Anaphraseus&lt;/a1&gt; 也能进行该转换。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a1&gt;Download Chrome from www.google.com/chrome&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180414T105800Z" creationid="lenovo" creationdate="20180414T105800Z">
