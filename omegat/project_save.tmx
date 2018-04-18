@@ -19912,6 +19912,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the checker's changes are to be included in a translation memory repository maintained by the customer, the changes need to be made &lt;i0&gt;before&lt;/i0&gt; the final documents are created.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T125948Z" creationid="Wyndy" creationdate="20180418T125948Z">
+        <seg>如果要将校对人员的改动也纳入客户维护的翻译记忆库， 那么必须在创建最终版文件 &lt;i0&gt;之前&lt;/i0&gt; 进行改动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the code compiles successfully, you will see the &lt;c0&gt;BUILD SUCCESSFUL&lt;/c0&gt; message.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="liufang" changedate="20180416T122134Z" creationid="liufang" creationdate="20180416T122134Z">
