@@ -17732,8 +17732,8 @@ script provided (omegat.kaptn).</seg>
       <tuv lang="EN">
         <seg>Further points to note regarding TMX files:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T091629Z" creationid="Wyndy" creationdate="20180418T091623Z">
-        <seg>TMX 文件其他注意事项：:</seg>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T111004Z" creationid="Wyndy" creationdate="20180418T091623Z">
+        <seg>TMX 文件其他注意事项：</seg>
       </tuv>
     </tu>
     <tu>
@@ -35100,6 +35100,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ZH-CN" changeid="liufang" changedate="20180416T122216Z" creationid="liufang" creationdate="20180416T122216Z">
         <seg>仍然在您的命令行窗口中，切换到此文件夹，例如有：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Strictly speaking, the ISO standard for language codes requires "xx-YY" (for example: "en-GB" for British English); although this variant is supported by OmegaT, the default convention offered by OmegaT is "XX-YY", e.g. "EN-GB".</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T111539Z" creationid="Wyndy" creationdate="20180418T111539Z">
+        <seg>严格来讲，ISO 语言编码标准要求为"xx-YY" 例如英国英语 British English 语言编码为"en-GB" )； 虽然OmegaT 支持这种变体，可是OmegaT提供的默认编码格式为 "XX-YY"，如"EN-GB"。</seg>
       </tuv>
     </tu>
     <tu>
