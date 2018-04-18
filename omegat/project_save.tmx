@@ -34340,6 +34340,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source texts (files for translation)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T051954Z" creationid="Wyndy" creationdate="20180418T051954Z">
+        <seg>源文本（待翻译文件）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Source/translation lengths (characters)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105451Z">
@@ -53276,5 +53284,16 @@ create its configuration folder.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
+    <tu>
+      <prop type="file">website/howtos/compatibility.html</prop>
+      <prop type="prev">Source texts (files for translation)</prop>
+      <prop type="next">The list below is &lt;s0&gt;not&lt;/s0&gt; an exhaustive list of all file formats supported by OmegaT, but is limited to those of particular interest to typical users.</prop>
+      <tuv lang="EN">
+        <seg>Refer to the OmegaT user manual for an up-to-date list of all supported file formats.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T052231Z" creationid="Wyndy" creationdate="20180418T052231Z">
+        <seg>请参阅 OmegaT 用户手册了解所有文件支持格式。 </seg>
+      </tuv>
+    </tu>
   </body>
 </tmx>
