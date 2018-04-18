@@ -22056,6 +22056,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Initially load this many segments:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T121940Z" creationid="puleiying" creationdate="20180418T121940Z">
+        <seg>初始加载多片段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Initially, that is when the project is created, the main TM of the project, &lt;f0&gt;project_save.tmx&lt;/f0&gt; is empty.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120218T061836Z">
@@ -45952,6 +45960,14 @@ trouble of selecting, obtaining and installing it.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T085508Z" creationid="Fu Rhong" creationdate="20131108T113145Z">
         <seg>检查发现错误后，编辑器中相应短语会标上蓝色下划线（请参阅上图中&lt;e1&gt;also &lt;/e1&gt;和&lt;e2&gt;I didn't do nothing）&lt;/e2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When a single file has more segments than this, additional segments will be loaded on-demand as you scroll.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T122147Z" creationid="puleiying" creationdate="20180418T122147Z">
+        <seg>如果单个文件中的片段超过了这个，多出的片段将在经批后准根据鼠标滚动。</seg>
       </tuv>
     </tu>
     <tu>
