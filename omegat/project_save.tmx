@@ -28180,6 +28180,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open Document Format: LibreOffice/OpenOffice.org/NeoOffice Writer/Calc/Impress</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T073629Z" creationid="Wyndy" creationdate="20180418T073629Z">
+        <seg>开放文档格式（Open Document Format，简称 ODF）: LibreOffice/OpenOffice.org/NeoOffice Writer/Calc/Impress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open MED Project...</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180407T133422Z" creationid="lenovo" creationdate="20180407T133422Z">
@@ -36538,6 +36546,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Open Document Format is an international standard and has replaced the former proprietary (but open) Star Office file format (two different but very similar file formats).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T074646Z" creationid="Wyndy" creationdate="20180418T074646Z">
+        <seg>开放文档格式（ODF)是一种国际标准，其代替了之前的专利性（但是开源的）Star Office file 格式(这两种格式不同但相似)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The PO filter threw an exception:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="flycr" changedate="20180408T100025Z">
@@ -39752,6 +39768,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T070928Z" creationid="Wyndy" creationdate="20180418T070921Z">
         <seg>这些二进制文件格式有专利权，而且目前为止还未以文件形式公开，以上特点都让这些文件格式难以用 CAT工具处理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These file formats are the equivalent of Microsoft Office's formats.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T073707Z" creationid="Wyndy" creationdate="20180418T073707Z">
+        <seg>这些文件格式等同于 Microsoft Office 格式。</seg>
       </tuv>
     </tu>
     <tu>
