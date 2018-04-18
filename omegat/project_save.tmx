@@ -36330,6 +36330,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Microsoft Office 2007-2010 file formats (also known as Office Open XML, and with the file extensions .docx, .xlsx and .pptx) is radically different to the Office 97-2003 formats which they supersede.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T054353Z" creationid="Wyndy" creationdate="20180418T054353Z">
+        <seg>Microsoft Office 2007-2010 文件格式 (也称 Office Open XML, 以及该文件的拓展格式 .docx, .xlsx and .pptx)与其继承的 Office 97-2003 文件格式由本质区别。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Moses server URL is not set</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T113857Z" creationid="Administrator" creationdate="20180411T113857Z">
