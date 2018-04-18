@@ -23400,16 +23400,16 @@ itself on the first run.</seg>
       <tuv lang="EN">
         <seg>LanguageTool will find errors for which a rule has been defined in its language-specific configuration files.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131108T110413Z" creationid="Fu Rhong" creationdate="20131108T110202Z">
-        <seg>LanguageTool能发现对应于针对特定语言的配置文件中已定义规则的错误。</seg>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T085704Z" creationid="Fu Rhong" creationdate="20131108T110202Z">
+        <seg>LanguageTool能检测对应针对特定语言的配置文件中已定义规则的错误。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>LanguageTool will not work properly if an old version is found in the /plugin folder.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131108T113341Z" creationid="Fu Rhong" creationdate="20131108T113341Z">
-        <seg>如果在/plugin文件夹中找到旧版本的LanguageTool，则它无法正常工作。</seg>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T085738Z" creationid="Fu Rhong" creationdate="20131108T113341Z">
+        <seg>如果/plugin文件夹中有旧版本的LanguageTool，则无法正常工作。</seg>
       </tuv>
     </tu>
     <tu>
