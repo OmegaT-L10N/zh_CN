@@ -8128,6 +8128,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add Glossary Entry</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T112051Z" creationid="Lenovo" creationdate="20180418T112051Z">
+        <seg>新增词条</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add Pattern</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T154315Z">
@@ -14274,8 +14282,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Displays the glossary entries found in the glossary files located in the /glossary/ folder if they are present in the source segment.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T020806Z">
-        <seg>如果词条出现在原文片段中，显示所有位于 /glossary/ 目录的术语表文件中找到的词条。</seg>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T111937Z">
+        <seg>如果词条出现在原文片段中，显示所有位于 /glossary/ 目录的术语表文件中的词条。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15525,8 +15533,8 @@ project_save.tmx未真正上传，SVN切换到不稳定状态。</seg>
       <tuv lang="EN">
         <seg>Entries from the writeable glossary are in bold.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T020820Z" creationid="Administrator" creationdate="20131031T092447Z">
-        <seg>可写的术语表条目以粗体显示。</seg>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T112039Z" creationid="Administrator" creationdate="20131031T092447Z">
+        <seg>可写术语表条目以粗体显示。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21802,6 +21810,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Insert Selection</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T112104Z" creationid="Lenovo" creationdate="20180418T112104Z">
+        <seg>插入选择</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Insert Source</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
@@ -26856,6 +26872,22 @@ appropriate location such as the Applications folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="apple" changedate="20180415T100311Z" creationid="apple" creationdate="20180415T100311Z">
         <seg>有片段出现时通知我 "{0}"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Notify Me When a Segment Has Fuzzy Matches</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T111914Z" creationid="Lenovo" creationdate="20180418T111914Z">
+        <seg>有片段模糊匹配时通知我</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Notify Me When a Segment Has Glossary Hits</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T112133Z" creationid="Lenovo" creationdate="20180418T112133Z">
+        <seg>有片段术语命中时通知我</seg>
       </tuv>
     </tu>
     <tu>
@@ -46502,8 +46534,8 @@ from there.</seg>
       <tuv lang="EN">
         <seg>You can create glossary entries with Create Glossary Entry in the Edit menu.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T020814Z" creationid="Administrator" creationdate="20131031T092422Z">
-        <seg>您可以使用编辑菜单的创建术语表条目来创建。</seg>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T112028Z" creationid="Administrator" creationdate="20131031T092422Z">
+        <seg>可以通过编辑菜单中创建词条命令来创建词条</seg>
       </tuv>
     </tu>
     <tu>
