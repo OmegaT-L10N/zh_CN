@@ -944,8 +944,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;License</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T153644Z">
-        <seg>许可证(&amp;L)</seg>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T122351Z">
+        <seg>许可证 (&amp;L)</seg>
       </tuv>
     </tu>
     <tu>
@@ -12913,6 +12913,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130504T162445Z">
         <seg>Copyright © 2000-2013 Keith Godfrey, Maxym Mykhalchuk 及其他人等</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copyright © 2000-2017 Keith Godfrey, Maxym Mykhalchuk and others</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T122340Z" creationid="puleiying" creationdate="20180418T122340Z">
+        <seg>Copyright © 2000-2017 Keith Godfrey, Maxym Mykhalchuk 及其他人等</seg>
       </tuv>
     </tu>
     <tu>
