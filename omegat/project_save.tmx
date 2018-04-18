@@ -9203,6 +9203,14 @@ The TMX file will not be loaded.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An international standard exists for translation memories: TMX, or Translation Memory eXchange.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T081859Z" creationid="Wyndy" creationdate="20180418T081859Z">
+        <seg>翻译记忆交换（ Translation Memory eXchange，简称 TMX）是一种用于翻译记忆的国际标准。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An introductory video to OmegaT in English by John Moran.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T150215Z" creationid="cpeishan" creationdate="20180407T150215Z">
@@ -22428,9 +22436,9 @@ click on that shortcut.</seg>
       <tuv lang="EN">
         <seg>It is however worth customizing the filter settings for optimum results.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T081425Z" creationid="Wyndy" creationdate="20180418T081425Z">
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T081458Z" creationid="Wyndy" creationdate="20180418T081425Z">
         <seg>
-对文件过滤器自定义设置以获得最佳结果</seg>
+对文件过滤器进行自定义设置以获得最佳结果</seg>
       </tuv>
     </tu>
     <tu>
