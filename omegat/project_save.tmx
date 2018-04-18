@@ -9487,6 +9487,14 @@ The TMX file will not be loaded.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An understanding of the processes involved is however important.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T132019Z" creationid="Wyndy" creationdate="20180418T132019Z">
+        <seg>无论如何，理解相关流程非常重要。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An uppercase letter (simple &lt;u0&gt; category&lt;/u0&gt;)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120214T034912Z">
@@ -34752,6 +34760,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131113T114122Z" creationid="Fu Rhong" creationdate="20131113T114002Z">
         <seg>多种过滤器（文本文件、XHTML文件、HTML和XHTML文件、OpenDocument文件和Microsoft Open XML文件）有一个或多个特殊选项。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Several of the bilingual file formats can be handled by OmegaT, and not necessarily with great effort.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T131924Z" creationid="Wyndy" creationdate="20180418T131919Z">
+        <seg>OmegaT不用费很大力气，就能处理好几种双语文件格式。</seg>
       </tuv>
     </tu>
     <tu>
