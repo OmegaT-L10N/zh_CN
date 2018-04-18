@@ -35102,8 +35102,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Some other CAT tools are able to import and export glossary files in this format, or in a similar plain-text format which can be produced from it very easily (for example by a search &amp; replace operation in Microsoft Word).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T120705Z" creationid="Wyndy" creationdate="20180418T120705Z">
-        <seg>某些其他 CAT 工具也能导入、导出该格式的术语表文件，或者可从该格式简单转换得到的类似纯文本格式or in a similar plain-text format which can be produced from it very easily (for example by a search &amp; replace operation in Microsoft Word).</seg>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T121142Z" creationid="Wyndy" creationdate="20180418T120705Z">
+        <seg>某些其他 CAT 工具也能导入、导出该格式的术语表文件，或者可从该格式简单转换得到的类似纯文本格式 (比如通过Microsoft Word 的查找与替换操作）。</seg>
       </tuv>
     </tu>
     <tu>
