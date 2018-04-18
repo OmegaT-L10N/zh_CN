@@ -37257,6 +37257,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The "prepared" form is typically the tool's bilingual file format.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T123842Z" creationid="Wyndy" creationdate="20180418T123808Z">
+        <seg>而“准备就绪”的文件通常是该工具的双语文件格式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &amp;source text</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T155814Z">
