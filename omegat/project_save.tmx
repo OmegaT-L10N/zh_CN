@@ -8080,6 +8080,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Actions &amp; Settings</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T113039Z" creationid="Lenovo" creationdate="20180418T113039Z">
+        <seg>动作和设置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Activating this check box will cause OmegaT to check if simple java MessageFormat tags (like {0}) are processed correctly.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131116T080941Z" creationid="Fu Rhong" creationdate="20131116T080941Z">
@@ -14203,8 +14211,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Displays comments in the active segment if they exist in the source file and the file filter supports it (e.g. PO-filter).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T164233Z">
-        <seg>如果原文文件中有而且被文件过滤器支持的话(如 PO-过滤器)，显示当前激活片段的评论。</seg>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T113003Z">
+        <seg>如果原文件中有评论，且文件过滤器支持(如 PO-过滤器)，显示当前激活片段的评论。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14334,6 +14342,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T163751Z">
         <seg>在机器翻译服务可用的情况下，显示 选项 &gt; 机器翻译 中设定的这些服务对原文片段的翻译。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Displays the translation of the source segment by the machine translation services you have selected in Preferences &gt; Machine Translation, if those services are available.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T112455Z" creationid="Lenovo" creationdate="20180418T112455Z">
+        <seg>在机器翻译服务可用的情况下，选择 选项&gt;机器翻译 来显示对原文部分的翻译。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24450,6 +24466,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Machine Translation Options</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T112510Z" creationid="Lenovo" creationdate="20180418T112510Z">
+        <seg>机器翻译选择</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Machine Translation pane</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131128T001702Z" creationid="Fu Rhong" creationdate="20131128T001702Z">
@@ -26918,6 +26942,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Notify Me When a Segment Has Comments</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T113020Z" creationid="Lenovo" creationdate="20180418T113020Z">
+        <seg>有片段存在评论时通知我</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Notify Me When a Segment Has Dictionary Entries</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T112225Z" creationid="Lenovo" creationdate="20180418T112225Z">
@@ -26946,6 +26978,14 @@ appropriate location such as the Applications folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T114458Z" creationid="Administrator" creationdate="20180411T114458Z">
         <seg>有多重翻译时通知我</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Notify Me When a Segment Has Notes</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T112547Z" creationid="Lenovo" creationdate="20180418T112547Z">
+        <seg>有片段存在注意事项时通知我</seg>
       </tuv>
     </tu>
     <tu>
