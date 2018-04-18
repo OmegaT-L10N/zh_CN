@@ -1582,6 +1582,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Untranslated Segments Only</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T115833Z" creationid="Lenovo" creationdate="20180418T115833Z">
+        <seg>&amp;只未翻译片段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Upper Case</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105536Z">
@@ -8996,6 +9004,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120201T123635Z">
         <seg>在项目创建或翻译过程中可对一些目录的位置进行变更。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Alternative Language</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T115844Z" creationid="Lenovo" creationdate="20180418T115844Z">
+        <seg>替代语言</seg>
       </tuv>
     </tu>
     <tu>
