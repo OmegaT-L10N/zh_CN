@@ -7536,6 +7536,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A general observation: "compatibility" is rarely a black and white, "yes" or "no" issue.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T045156Z" creationid="Wyndy" creationdate="20180418T045156Z">
+        <seg>通常我们会发现：“兼容性”并不是一个非黑即白的问题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A given source segment may require several different translations, depending on the context.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131127T141616Z" creationid="Fu Rhong" creationdate="20131127T141616Z">
@@ -39802,6 +39810,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T112959Z" creationid="Administrator" creationdate="20180411T112959Z">
         <seg>此API密钥已被阻止</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This HOWTO aims to provide information in this area.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T044843Z" creationid="Wyndy" creationdate="20180418T044843Z">
+        <seg>这篇 HOWTO 旨在提供这方面的信息。</seg>
       </tuv>
     </tu>
     <tu>
