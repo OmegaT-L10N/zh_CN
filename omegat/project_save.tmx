@@ -6010,8 +6010,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Plugins&lt;/p0&gt; &lt;s1&gt;LanguageTool&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131108T102421Z" creationid="Fu Rhong" creationdate="20131108T102322Z">
-        <seg>&lt;p0&gt;插件&lt;/p0&gt; &lt;s1&gt;LanguageTool&lt;/s1&gt;</seg>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T084221Z" creationid="Fu Rhong" creationdate="20131108T102322Z">
+        <seg>&lt;p0&gt;插件&lt;/p0&gt; &lt;s1&gt;语言工具&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23392,8 +23392,8 @@ itself on the first run.</seg>
       <tuv lang="EN">
         <seg>LanguageTool plugin</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131108T102426Z" creationid="Fu Rhong" creationdate="20131108T102350Z">
-        <seg>LanguageTool插件</seg>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T084338Z" creationid="Fu Rhong" creationdate="20131108T102350Z">
+        <seg>语言工具插件</seg>
       </tuv>
     </tu>
     <tu>
