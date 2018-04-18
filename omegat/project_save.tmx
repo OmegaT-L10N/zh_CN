@@ -12091,6 +12091,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Compatibility problems may be caused by differences in the language codes employed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T110816Z" creationid="Wyndy" creationdate="20180418T110753Z">
+        <seg>但使用的语言编码不同却可能导致兼容性问题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Compatible with other translation memory applications (TMX, TTX, TXML, XLIFF, SDLXLIFF)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="18261" changedate="20180412T084238Z" creationid="18261" creationdate="20180412T084238Z">
@@ -27741,6 +27749,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT supports language codes in the format "xx", "XX", "xx-YY" and "XX-YY", where xx or XX is the language, yy or YY the region.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T110955Z" creationid="Wyndy" creationdate="20180418T110955Z">
+        <seg>OmegaT 支持 "xx", "XX", "xx-YY" and "XX-YY"这些格式的语言编码，其中xx 或者 XX 表示语言, yy 或者 YY 表示地区。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT supports the following file formats out of the box:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130514T151640Z">
@@ -35474,8 +35490,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>TMX files produced on Windows systems may begin with a byte-order mark (BOM).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T093039Z" creationid="Wyndy" creationdate="20180418T093039Z">
-        <seg>Windows操作系统上生成的 TMX 文件开头可能以字节顺序标记 （byte-order mark ，简称BOM)开始。</seg>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T110233Z" creationid="Wyndy" creationdate="20180418T093039Z">
+        <seg>而 Windows操作系统上生成的 TMX 文件开头可能以字节顺序标记 （byte-order mark ，简称BOM)开始。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40653,6 +40669,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T113001Z" creationid="Administrator" creationdate="20180411T113001Z">
         <seg>此对话列出了可利用文件过滤器，当前项目的文件过滤器加粗显示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This differences do not generally lead to compatibility problems.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T110225Z" creationid="Wyndy" creationdate="20180418T110225Z">
+        <seg>不过这些差异并不会导致兼容性问题。</seg>
       </tuv>
     </tu>
     <tu>
