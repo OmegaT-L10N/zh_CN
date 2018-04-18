@@ -40561,6 +40561,22 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The translation may for example be passed to a checker for editing.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T125508Z" creationid="Wyndy" creationdate="20180418T125508Z">
+        <seg>比如翻译后的文件需要送给校对人员进行编辑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The translation stage is only part of the customer's workflow.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T125429Z" creationid="Wyndy" creationdate="20180418T125429Z">
+        <seg>翻译阶段仅仅是客户工作流程的一个环节。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The translation work</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180415T143719Z" creationid="lenovo" creationdate="20180415T143719Z">
@@ -46771,6 +46787,14 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120203T121147Z">
         <seg>在片段中，第一个组（成对或单个的）获得编号 0，第二个编号为 1，以此类推。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Without preparation in this way, the original file format may be accessible to the translator.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T125353Z" creationid="Wyndy" creationdate="20180418T125353Z">
+        <seg>如果源文件没有经过这类准备处理，那译员可能无法打开处理该文。</seg>
       </tuv>
     </tu>
     <tu>
