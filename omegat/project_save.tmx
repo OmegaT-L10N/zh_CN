@@ -17690,6 +17690,14 @@ script provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Further points to note regarding TMX files:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T091629Z" creationid="Wyndy" creationdate="20180418T091623Z">
+        <seg>TMX 文件其他注意事项：:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Fuzzy Matches</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T162120Z">
@@ -36784,6 +36792,14 @@ Please try to correct the error and reload the project.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T151557Z">
         <seg>TMX源语种（{0}）和项目源语种{1}不同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The TMX standard contains definitions of what characters are permissible.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T091733Z" creationid="Wyndy" creationdate="20180418T091733Z">
+        <seg>TMX 标准定义了合法字符。</seg>
       </tuv>
     </tu>
     <tu>
