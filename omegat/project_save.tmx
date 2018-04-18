@@ -344,8 +344,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Allow translation to be equal to source</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T155829Z">
-        <seg>允许译文和原文相同(&amp;A)</seg>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T120257Z">
+        <seg>允许译文和原文相同 (&amp;A)</seg>
       </tuv>
     </tu>
     <tu>
@@ -816,8 +816,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Go To Next Untranslated Segment stops when there is at least one alternative translation</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130504T164821Z">
-        <seg>转到(&amp;G)下一未译片段，遇到至少一个以上可选译法时停下</seg>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T120339Z">
+        <seg>转到 (&amp;G) 下一未译片段，遇到至少一个以上可选译法时停下</seg>
       </tuv>
     </tu>
     <tu>
@@ -936,8 +936,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Leave the segment empty</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T155814Z">
-        <seg>保持片段为空(&amp;L)</seg>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T120237Z">
+        <seg>保持片段为空 (&amp;L)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1000,8 +1000,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Minimal similarity:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T155817Z">
-        <seg>最小相似度(&amp;M)</seg>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T120242Z">
+        <seg>最小相似度 (&amp;M)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1112,8 +1112,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Prefix:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T155818Z">
-        <seg>前缀(&amp;P)：</seg>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T120244Z">
+        <seg>前缀 (&amp;P)：</seg>
       </tuv>
     </tu>
     <tu>
@@ -1610,6 +1610,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T031058Z">
         <seg>检验标签(&amp;V)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Validate tags when leaving a segment</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T120428Z" creationid="puleiying" creationdate="20180418T120428Z">
+        <seg>离开片段时进行标签检验 (&amp;V)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8840,6 +8848,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Allo&amp;w tag editing</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T120405Z" creationid="puleiying" creationdate="20180418T120405Z">
+        <seg>允许 (&amp;w) 标签编辑</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Allow tag editing</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T155929Z">
@@ -10011,8 +10027,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Attempt to convert &amp;numbers when inserting a fuzzy match</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T155915Z">
-        <seg>插入模糊匹配时尝试转换数字(&amp;n)</seg>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T120343Z">
+        <seg>插入模糊匹配时尝试转换数字 (&amp;n)</seg>
       </tuv>
     </tu>
     <tu>
@@ -15212,6 +15228,14 @@ project_save.tmx未真正上传，SVN切换到不稳定状态。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130505T162301Z">
         <seg>导出选中项(&amp;x)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>E&amp;xport the segment to text files</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T120335Z" creationid="puleiying" creationdate="20180418T120304Z">
+        <seg>将片段导出 (&amp;x) 到文本文件</seg>
       </tuv>
     </tu>
     <tu>
@@ -22146,8 +22170,16 @@ click on that shortcut.</seg>
       <tuv lang="EN">
         <seg>Insert the &amp;best fuzzy match</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T155815Z">
-        <seg>插入最佳模糊匹配(&amp;b)</seg>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T120239Z">
+        <seg>插入最佳模糊匹配 (&amp;b)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Insert the &amp;source text</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T120201Z" creationid="puleiying" creationdate="20180418T120201Z">
+        <seg>插入源文本 (&amp;s)</seg>
       </tuv>
     </tu>
     <tu>
@@ -33046,6 +33078,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T062431Z" creationid="Administrator" creationdate="20180412T062431Z">
         <seg>保存为TMX...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Save aut&amp;o-populated status</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T120448Z" creationid="puleiying" creationdate="20180418T120448Z">
+        <seg>保持自动 (&amp;o) 填充状态</seg>
       </tuv>
     </tu>
     <tu>
