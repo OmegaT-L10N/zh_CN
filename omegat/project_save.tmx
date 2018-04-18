@@ -28171,6 +28171,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT has rudimentary support for XLIFF, and a procedure for using XLIFF in OmegaT in conjunction with the Rainbow tools can be found &lt;a0&gt;here&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T140021Z" creationid="Wyndy" creationdate="20180418T140021Z">
+        <seg>OmegaT 对 XLIFF 有基础性支持, 通过OmegaT 与 Rainbow 工具协同使用 XLIFF， 可借助&lt;a0&gt;此程序&lt;/a0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT highlights</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130911T123204Z">
@@ -38909,6 +38917,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The filters available are mainly for file formats peculiar to the IT industry rather than end-user files.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T140117Z" creationid="Wyndy" creationdate="20180418T140117Z">
+        <seg>现有的文件过滤器主要都是针对 IT 行业的文件格式，而非终端用户的文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The first (with the cd command) is needed if your launch script is not in the same folder as OmegaT.jar.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180415T045837Z" creationid="lenovo" creationdate="20180415T045837Z">
@@ -43904,6 +43920,14 @@ install.sh.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T111721Z" creationid="cpeishan" creationdate="20180407T111721Z">
         <seg>跟踪系统</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Trados "uncleaned RTF"</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T140155Z" creationid="Wyndy" creationdate="20180418T140155Z">
+        <seg>Trados “不干净的富文本格式 RTF"</seg>
       </tuv>
     </tu>
     <tu>
