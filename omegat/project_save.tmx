@@ -26227,6 +26227,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Not all CAT tools are equally strict in their observance of these definitions; consequently, some CAT tools are unable to open TMX files produced by certain other CAT tools directly.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T091917Z" creationid="Wyndy" creationdate="20180418T091917Z">
+        <seg>各 CAT 工具对于合法字符定义的严格程度不同；所以有些 CAT 工具不能直接打开其他 CAT 工具所生成的 TMX 文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Not only may it be used free of charge, users are also free to make copies of it and distribute them.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="18261" changedate="20180412T121305Z" creationid="18261" creationdate="20180412T121305Z">
@@ -27429,6 +27437,14 @@ published by the Free Software Foundation, either version 3 of the License, or
       </tuv>
       <tuv lang="ZH-CN" changeid="18261" changedate="20180412T100611Z" creationid="18261" creationdate="20180412T100611Z">
         <seg>OmegaT是一款免费软件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT is generally observant of the conditions and tolerant of other tools' failure to observe them; should problems arise here, however, they can generally be resolved fairly easily by a search &amp; replace in a text editor of the illegal character in the TMX file.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T092358Z" creationid="Wyndy" creationdate="20180418T092358Z">
+        <seg>OmegaT 通常遵守条件，并允许其他 CAT 工具不遵从这些条件; 不过，如果因此出现问题，通常可以在文本编辑器中查找和替换 TMX 文件中的非法字符，从而轻而易举地解决问题。</seg>
       </tuv>
     </tu>
     <tu>
