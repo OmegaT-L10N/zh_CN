@@ -30743,6 +30743,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Previous and &amp;next paragraphs</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T123429Z" creationid="puleiying" creationdate="20180418T123321Z">
+        <seg>前一和后一(&amp;n) 段落</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Previous contributors include:
 (alphabetical order)</seg>
       </tuv>
