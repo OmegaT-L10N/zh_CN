@@ -18352,6 +18352,14 @@ script provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Glossary files</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T115345Z" creationid="Wyndy" creationdate="20180418T115345Z">
+        <seg>术语表文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Glossary files are simple plain text files containing three-column, tab-delimited lists with the source and target terms in the first and second columns respectively.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021248Z">
@@ -28620,6 +28628,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT's glossary files are plain-text files in the format:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T115812Z" creationid="Wyndy" creationdate="20180418T115514Z">
+        <seg>OmegaT's 术语表文件为以下格式的纯文本文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT's main features are:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130514T145338Z">
@@ -35080,6 +35096,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131128T001134Z" creationid="Fu Rhong" creationdate="20131128T001134Z">
         <seg>某些专门用于翻译工作的文件格式（例如PO）允许包含注释。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Some other CAT tools are able to import and export glossary files in this format, or in a similar plain-text format which can be produced from it very easily (for example by a search &amp; replace operation in Microsoft Word).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T120705Z" creationid="Wyndy" creationdate="20180418T120705Z">
+        <seg>某些其他 CAT 工具也能导入、导出该格式的术语表文件，或者可从该格式简单转换得到的类似纯文本格式or in a similar plain-text format which can be produced from it very easily (for example by a search &amp; replace operation in Microsoft Word).</seg>
       </tuv>
     </tu>
     <tu>
@@ -53345,6 +53369,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131109T023404Z" creationid="Fu Rhong" creationdate="20131109T023404Z">
         <seg>source = currSegment.getSrcText();</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>source term    &lt;tab&gt;    target term    &lt;tab&gt;    additional information</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T115850Z" creationid="Wyndy" creationdate="20180418T115850Z">
+        <seg>源语言术语   &lt;tab&gt;   目标语言术语    &lt;tab&gt;    附属信息</seg>
       </tuv>
     </tu>
     <tu>
