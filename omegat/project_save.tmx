@@ -4422,6 +4422,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;TaaS Terminology Lookup&lt;/e0&gt;: when checked, will allow querying TaaS data on a segment by segment basis.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Doris" changedate="20180418T131306Z" creationid="Doris" creationdate="20180418T131306Z">
+        <seg>&lt;e0&gt;TaaS术语查询&lt;/e0&gt;：勾选时，将允许逐段查询TaaS数据。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Terminology management&lt;/e0&gt;: Terminology management is important for translation consistency.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yujun Yin" changedate="20131007T074814Z" creationid="Yujun Yin" creationdate="20131007T074814Z">
