@@ -41575,6 +41575,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This can be done either within the CAT tool concerned, or in some cases in an external bilingual file format which the tool is capable of reading.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T130132Z" creationid="Wyndy" creationdate="20180418T130132Z">
+        <seg>可以在相关 CAT 工具中进行改动，或者也在该工具可读取的外部双语文件格式中进行改动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This can easily be restored again in the future.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180415T142330Z" creationid="lenovo" creationdate="20180415T131930Z">
