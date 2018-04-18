@@ -27172,6 +27172,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT has file filters for both Open Document Format and for the Star Office format which it replaced.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T075152Z" creationid="Wyndy" creationdate="20180418T075152Z">
+        <seg>无论是开放文档格式（ODF）还是它所替代的 Star Office format 格式，OmegaT 都有针对该格式的文件过滤器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT highlights</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130911T123204Z">
