@@ -344,8 +344,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Allow translation to be equal to source</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T120257Z">
-        <seg>允许译文和原文相同 (&amp;A)</seg>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T124536Z">
+        <seg>允许译文和原文相同(&amp;A)</seg>
       </tuv>
     </tu>
     <tu>
@@ -952,8 +952,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Leave the segment empty</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T120237Z">
-        <seg>保持片段为空 (&amp;L)</seg>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T124524Z">
+        <seg>保持片段为空(&amp;L)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1016,8 +1016,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Minimal similarity:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T120242Z">
-        <seg>最小相似度 (&amp;M)</seg>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T124530Z">
+        <seg>最小相似度(&amp;M)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1032,16 +1032,16 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Move Down</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T115345Z">
-        <seg>下移 (&amp;M)</seg>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T124507Z">
+        <seg>下移(&amp;M)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&amp;Name/ID:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T120021Z">
-        <seg>姓名 (&amp;N) 或 ID：</seg>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T124517Z">
+        <seg>姓名或 ID(&amp;N) ：</seg>
       </tuv>
     </tu>
     <tu>
@@ -1128,8 +1128,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Prefix:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T120244Z">
-        <seg>前缀 (&amp;P)：</seg>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T124534Z">
+        <seg>前缀(&amp;P)：</seg>
       </tuv>
     </tu>
     <tu>
@@ -1632,8 +1632,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Validate tags when leaving a segment</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T120428Z" creationid="puleiying" creationdate="20180418T120428Z">
-        <seg>离开片段时进行标签检验 (&amp;V)</seg>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T124612Z" creationid="puleiying" creationdate="20180418T120428Z">
+        <seg>离开片段时进行标签检验(&amp;V)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1656,8 +1656,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;value (of form input, including button, submit and reset)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T154629Z">
-        <seg>&amp;value (表单输入，包括按钮、提交扭和复位钮)</seg>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T124436Z">
+        <seg>&amp;value （表单输入，包括按钮、提交扭和复位钮）</seg>
       </tuv>
     </tu>
     <tu>
@@ -10043,8 +10043,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Attempt to convert &amp;numbers when inserting a fuzzy match</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T120343Z">
-        <seg>插入模糊匹配时尝试转换数字 (&amp;n)</seg>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T124547Z">
+        <seg>插入模糊匹配时尝试转换数字(&amp;n)</seg>
       </tuv>
     </tu>
     <tu>
@@ -22234,16 +22234,16 @@ click on that shortcut.</seg>
       <tuv lang="EN">
         <seg>Insert the &amp;best fuzzy match</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T120239Z">
-        <seg>插入最佳模糊匹配 (&amp;b)</seg>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T124527Z">
+        <seg>插入最佳模糊匹配(&amp;b)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Insert the &amp;source text</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T120201Z" creationid="puleiying" creationdate="20180418T120201Z">
-        <seg>插入源文本 (&amp;s)</seg>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T124521Z" creationid="puleiying" creationdate="20180418T120201Z">
+        <seg>插入源文本(&amp;s)</seg>
       </tuv>
     </tu>
     <tu>
@@ -26072,16 +26072,16 @@ itself on the first run.</seg>
       <tuv lang="EN">
         <seg>Move &amp;Up</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T115342Z">
-        <seg>上移 (&amp;p)</seg>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T124459Z">
+        <seg>上移(&amp;p)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Move Do&amp;wn</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T115339Z">
-        <seg>下移 (&amp;w)</seg>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T124456Z">
+        <seg>下移(&amp;w)</seg>
       </tuv>
     </tu>
     <tu>
@@ -26096,8 +26096,8 @@ itself on the first run.</seg>
       <tuv lang="EN">
         <seg>Move U&amp;p</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T115337Z">
-        <seg>上移 (&amp;p)</seg>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T124453Z">
+        <seg>上移(&amp;p)</seg>
       </tuv>
     </tu>
     <tu>
@@ -44869,8 +44869,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>Use &amp;XML for standalone tags (e.g., &lt;i/&gt;)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T160322Z">
-        <seg>对独立标签(如 &lt;i/&gt;)使用 &amp;XML </seg>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T124639Z">
+        <seg>对独立标签(如 &lt;i/&gt;)使用 XML(&amp;X) </seg>
       </tuv>
     </tu>
     <tu>
@@ -50302,8 +50302,8 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>h&amp;reflang (language of links)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T154629Z">
-        <seg>h&amp;reflang (语言链接)</seg>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T124429Z">
+        <seg>h&amp;reflang （语言链接）</seg>
       </tuv>
     </tu>
     <tu>
@@ -51654,8 +51654,8 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>lan&amp;g (language attribute)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T154625Z">
-        <seg>lan&amp;g (语言属性)</seg>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T124423Z">
+        <seg>lan&amp;g （语言属性）</seg>
       </tuv>
     </tu>
     <tu>
@@ -54303,8 +54303,8 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>value (of button, &amp;submit and reset input)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T154630Z">
-        <seg>value (按钮、提交&amp;s和复位输入)</seg>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T124450Z">
+        <seg>value （按钮、提交&amp;s和复位输入）</seg>
       </tuv>
     </tu>
     <tu>
