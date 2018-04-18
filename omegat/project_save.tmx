@@ -4022,6 +4022,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Browse TaaS Collections&lt;/e0&gt; will allow browsing existing collections for the source and target languages of the project, and downloading them.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Doris" changedate="20180418T130903Z" creationid="Doris" creationdate="20180418T130903Z">
+        <seg>&lt;e0&gt;浏览TaaS集合&lt;/e0&gt;将允许浏览现有集合以获取并下载项目所需的源语言和目标语言。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Close:&lt;/e0&gt; close the window without any change.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="10353" changedate="20180412T100335Z" creationid="10353" creationdate="20180412T100335Z">
@@ -8168,6 +8176,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Accessing the TaaS service</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Doris" changedate="20180418T124820Z" creationid="Doris" creationdate="20180418T124820Z">
+        <seg>访问TaaS服务</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Acknowledgements</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120128T141931Z">
@@ -11931,6 +11947,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click on &lt;e0&gt;Options, Glossary&lt;/e0&gt; to display the following options:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Doris" changedate="20180418T124952Z" creationid="Doris" creationdate="20180418T124952Z">
+        <seg>点击&lt;e0&gt;选项，术语表&lt;/e0&gt;将显示以下选项：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click on &lt;g0&gt;Auto-text...&lt;/g0&gt; to configure Auto-text options and to add or remove entries.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T071053Z" creationid="weiyi" creationdate="20180406T071053Z">
@@ -13241,6 +13265,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120211T061645Z">
         <seg>在项目的目标文件夹创建已译文档，同时在项目的根目录中创建翻译记忆文件（(level1，level2 和 omegat tmx 文件）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creating a key</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Doris" changedate="20180418T123707Z" creationid="Doris" creationdate="20180418T123707Z">
+        <seg>创建密钥</seg>
       </tuv>
     </tu>
     <tu>
@@ -22720,6 +22752,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It allows accessing both public and private data, where private glossaries (called "collections") can be extracted from existing documents, and the target terms partly populated automatically from various sources.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Doris" changedate="20180418T125017Z" creationid="Doris" creationdate="20180418T124107Z">
+        <seg>它允许访问公共和私人数据，可以从这些数据的现有文档中提取私人术语表（也称“集合”），并且部分目标术语能够从各种来源获得自动填充。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It also allows to define various options related to tag validation and to define custom tags.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T065653Z" creationid="weiyi" creationdate="20180406T065429Z">
@@ -27915,6 +27955,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT configuration launchers (OmegaT.l4J.ini, omegat.kaptn and Configuration.properties) contain a template entry.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Doris" changedate="20180418T124807Z" creationid="Doris" creationdate="20180418T124807Z">
+        <seg>OmegaT的配置启动器（包括OmegaT.l4J.ini、omegat.kaptn和Configuration.properties）包含模板条目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT displays a list of all segments containing all of the words specified.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120215T125449Z">
@@ -30852,6 +30900,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180417T235928Z" creationid="Wyndy" creationdate="20180417T105958Z">
         <seg>隐私信息：OmegaT Java Web Start 不会收集您的任何信息上传至 OmegaT 的 网络服务器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Private collections are displayed in bold.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Doris" changedate="20180418T130929Z" creationid="Doris" creationdate="20180418T130929Z">
+        <seg>私人集合以粗体显示。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37877,8 +37933,8 @@ Please try to correct the error and reload the project.</seg>
       <tuv lang="EN">
         <seg>The TaaS service at https://demo.taas-project.eu/info provides terminology services in European languages (plus Russian).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Doris" changedate="20180418T121912Z" creationid="Doris" creationdate="20180418T075653Z">
-        <seg>TaaS服务提供欧洲语言（以及俄语）的术语服务，网址位于https://demo.taas-project.eu/info 。</seg>
+      <tuv lang="ZH-CN" changeid="Doris" changedate="20180418T121921Z" creationid="Doris" creationdate="20180418T075653Z">
+        <seg>TaaS服务提供欧洲语言（以及俄语）的术语服务，网址位于https://demo.taas-project.eu/info。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38167,6 +38223,14 @@ Please try to correct the error and reload the project.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131110T070449Z" creationid="Fu Rhong" creationdate="20131110T070449Z">
         <seg>OmegaT中的协作翻译基于版本控制功能，该功能广泛应用于软件社区的程序代码维护和开发团队内部的无阻碍协作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The collections are downloaded as TBX glossaries in the current glossary folder.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Doris" changedate="20180418T131116Z" creationid="Doris" creationdate="20180418T131116Z">
+        <seg>这些集合将以TBX术语表格式下载至当前术语表文件夹中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39075,6 +39139,14 @@ desktop and in the quick launch area.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="think" changedate="20180416T085556Z" creationid="think" creationdate="20180416T085556Z">
         <seg>kaptain脚本（或者称为kaptain脚本的“语法”）使您能够从一个用户友好的GUI中选择启动和配置选项。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The key must then be given to OmegaT using -Dtaas.user.key=xxxxx.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Doris" changedate="20180418T124438Z" creationid="Doris" creationdate="20180418T124257Z">
+        <seg>然后通过 -Dtaas.user.key=xxxxx 形式将密钥输入OmegaT。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42683,6 +42755,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="17012" changedate="20180405T103207Z" creationid="17012" creationdate="20180405T103027Z">
         <seg>设置 &lt;a0&gt;&lt;e1&gt;Configuration.properties&lt;/e1&gt;&lt;/a0&gt;右键单击 &lt;e2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt;.app&lt;/e2&gt;，选择“显示组件内容，然后右键单击选择 Contents/Resources 中的文件，并选择文本编辑器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To access the TaaS service, a user must create a key using https://term.tilde.com/account/keys/create?system=omegaT.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Doris" changedate="20180418T124211Z" creationid="Doris" creationdate="20180418T124211Z">
+        <seg>要访问TaaS服务，用户必须通过 https://term.tilde.com/account/keys/create?system=omegaT 网址创建一个密钥。</seg>
       </tuv>
     </tu>
     <tu>
