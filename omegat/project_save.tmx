@@ -22362,6 +22362,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It has been widely adopted and is supported by almost all current CAT tools.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T082013Z" creationid="Wyndy" creationdate="20180418T082002Z">
+        <seg>TMX 已经获得广泛使用，几乎目前所有的 CAT 工具都支持 TMX。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It includes general information on OmegaT, where to find more information, how to contribute, etc.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120202T070711Z">
@@ -36676,6 +36684,14 @@ Please try to correct the error and reload the project.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The TMX standard exists both in different &lt;s0&gt;versions&lt;/s0&gt; and in different &lt;s1&gt;levels&lt;/s1&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T082132Z" creationid="Wyndy" creationdate="20180418T082132Z">
+        <seg>TMX 标准区分&lt;s0&gt;版本&lt;/s0&gt; 和 &lt;s1&gt;级别&lt;/s1&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The URL must include "{target}", which will be replaced with the search text.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T015221Z" creationid="xulihang" creationdate="20180408T015213Z">
@@ -37274,6 +37290,14 @@ instead.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120218T122550Z">
         <seg>显示的文本被分成片段，您可以在文档中上下移动或者双击某个片段进行编辑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The distinction is important for compatibility purposes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T082226Z" creationid="Wyndy" creationdate="20180418T082226Z">
+        <seg>区分版本与级别对兼容性非常重要。</seg>
       </tuv>
     </tu>
     <tu>
