@@ -1016,16 +1016,16 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Move Down</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T155810Z">
-        <seg>下移(&amp;M)</seg>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T115345Z">
+        <seg>下移 (&amp;M)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&amp;Name/ID:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T155812Z">
-        <seg>姓名或ID(&amp;N)：</seg>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T120021Z">
+        <seg>姓名 (&amp;N) 或 ID：</seg>
       </tuv>
     </tu>
     <tu>
@@ -15441,10 +15441,26 @@ project_save.tmx未真正上传，SVN切换到不稳定状态。</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Editor</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T115728Z" creationid="puleiying" creationdate="20180418T115728Z">
+        <seg>编辑器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Editor - {0}</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T164307Z">
         <seg>编辑器 - {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Editor Options</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T115735Z" creationid="puleiying" creationdate="20180418T115714Z">
+        <seg>编辑器选项</seg>
       </tuv>
     </tu>
     <tu>
@@ -18620,8 +18636,8 @@ script provided (omegat.kaptn).</seg>
       <tuv lang="EN">
         <seg>HTML, XHTML, ODF and Infix segmentation</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T155740Z">
-        <seg>HTML, XHTML, ODF 和 Infix 片段</seg>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T115317Z">
+        <seg>HTML、XHTML、ODF 和 Infix 片段</seg>
       </tuv>
     </tu>
     <tu>
@@ -25952,16 +25968,16 @@ itself on the first run.</seg>
       <tuv lang="EN">
         <seg>Move &amp;Up</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T155810Z">
-        <seg>上移(&amp;p)</seg>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T115342Z">
+        <seg>上移 (&amp;p)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Move Do&amp;wn</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T155809Z">
-        <seg>下移(&amp;w)</seg>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T115339Z">
+        <seg>下移 (&amp;w)</seg>
       </tuv>
     </tu>
     <tu>
@@ -25976,8 +25992,8 @@ itself on the first run.</seg>
       <tuv lang="EN">
         <seg>Move U&amp;p</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T155809Z">
-        <seg>上移(&amp;p)</seg>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T115337Z">
+        <seg>上移 (&amp;p)</seg>
       </tuv>
     </tu>
     <tu>
@@ -30157,8 +30173,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>Please enter your name/ID.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T155811Z">
-        <seg>请输入您的姓名/ID。</seg>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T115506Z">
+        <seg>请输入您的姓名或 ID。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30270,8 +30286,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Please select what text you would like to be inserted into the segment that is not translated yet, when you move to it.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T155813Z">
-        <seg>请选择当你移动到未翻译片段时向其中插入什么文本</seg>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T120136Z">
+        <seg>当你移动到未翻译片段时，请选择插入你想插入的文本</seg>
       </tuv>
     </tu>
     <tu>
@@ -36722,6 +36738,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130505T162703Z">
         <seg>团队(&amp;m）……</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Team</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T115406Z" creationid="puleiying" creationdate="20180418T115406Z">
+        <seg>团队</seg>
       </tuv>
     </tu>
     <tu>
