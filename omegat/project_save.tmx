@@ -20685,8 +20685,8 @@ is to use Java Web Start.</seg>
       <tuv lang="EN">
         <seg>If you have no doubt that a TMX is more accurate than the &lt;f0&gt;project_save.tmx&lt;/f0&gt; of OmegaT, put this TMX in /tm/enforce to overwrite existing default translations unconditionally.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Doris" changedate="20180418T133928Z" creationid="Doris" creationdate="20180418T133928Z">
-        <seg>如果您认同TMX比OmegaT的&lt;f0&gt;project_save.tmx&lt;/f0&gt;更准确，请将此TMX置于/tm/enforce中以无条件覆盖现有的默认翻译。</seg>
+      <tuv lang="ZH-CN" changeid="Doris" changedate="20180418T133949Z" creationid="Doris" creationdate="20180418T133928Z">
+        <seg>如果您认同TMX比OmegaT的&lt;f0&gt;project_save.tmx&lt;/f0&gt;更准确，请将此TMX置于/tm/enforce目录下，以便无条件覆盖现有的默认翻译。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31596,6 +31596,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Doris" changedate="20180418T132638Z" creationid="Doris" creationdate="20180418T132638Z">
         <seg>将TMX文件放入tm/auto/文件夹。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Put the TMX in /tm/enforce.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Doris" changedate="20180418T134023Z" creationid="Doris" creationdate="20180418T134023Z">
+        <seg>将TMX放入/tm/enforce目录</seg>
       </tuv>
     </tu>
     <tu>
@@ -42529,8 +42537,16 @@ the server.</seg>
       <tuv lang="EN">
         <seg>This modifies &lt;f0&gt;project_save.tmx&lt;/f0&gt; (by adding proper Translation Units from "auto" TMX)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Doris" changedate="20180418T133206Z" creationid="Doris" creationdate="20180418T133151Z">
-        <seg>这将修改&lt;f0&gt; project_save.tmx &lt;/f0&gt;（通过从“auto”TMX添加适当的翻译单元）</seg>
+      <tuv lang="ZH-CN" changeid="Doris" changedate="20180418T134148Z" creationid="Doris" creationdate="20180418T133151Z">
+        <seg>这将修改&lt;f0&gt;project_save.tmx&lt;/f0&gt;（通过从“auto”TMX添加适当的翻译单元）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This modifies &lt;f0&gt;project_save.tmx&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Doris" changedate="20180418T134113Z" creationid="Doris" creationdate="20180418T134113Z">
+        <seg>这将修改 &lt;f0&gt;project_save.tmx&lt;/f0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
