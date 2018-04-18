@@ -6720,6 +6720,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Tag validation - Ctrl+Shift+V&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Doris" changedate="20180418T143307Z" creationid="Doris" creationdate="20180418T143240Z">
+        <seg>&lt;p0&gt;快捷键&lt;/p0&gt; &lt;s1&gt;标签验证——Ctrl+Shift+V&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Tag validation - Ctrl+T&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131116T082601Z" creationid="Fu Rhong" creationdate="20131116T082601Z">
@@ -45504,6 +45512,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131127T122142Z" creationid="Fu Rhong" creationdate="20131127T122112Z">
         <seg>用来查看项目统计信息的窗口，通过&lt;m0&gt; &lt;g1&gt;&lt;i2/&gt;工具&lt;/g1&gt; &lt;g3&gt;统计&lt;/g3&gt; &lt;/m0&gt;打开。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Used to validate tags (open with &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;V&lt;/k3&gt; &lt;/k0&gt;, close with &lt;k4&gt;Esc&lt;/k4&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Doris" changedate="20180418T143432Z" creationid="Doris" creationdate="20180418T143432Z">
+        <seg>用来检验标签（用&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;V&lt;/k3&gt;&lt;/k0&gt;打开、&lt;k3&gt;Esc&lt;/k3&gt;关闭）</seg>
       </tuv>
     </tu>
     <tu>
