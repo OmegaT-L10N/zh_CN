@@ -44823,8 +44823,8 @@ trouble of selecting, obtaining and installing it.</seg>
       <tuv lang="EN">
         <seg>When a rule is triggered, the corresponding phrase will be underlined in blue in the Editor (see &lt;e1&gt;also &lt;/e1&gt;and &lt;e2&gt;I didn't do nothing&lt;/e2&gt; in the picture above).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131108T113145Z" creationid="Fu Rhong" creationdate="20131108T113145Z">
-        <seg>触发规则后，编辑器中相应的短语会加上蓝色下划线（请参阅上面图片中的&lt;e1&gt;also &lt;/e1&gt;和&lt;e2&gt;I didn't do nothing&lt;/e2&gt;）。</seg>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T085508Z" creationid="Fu Rhong" creationdate="20131108T113145Z">
+        <seg>检查发现错误后，编辑器中相应短语会标上蓝色下划线（请参阅上图中&lt;e1&gt;also &lt;/e1&gt;和&lt;e2&gt;I didn't do nothing）&lt;/e2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -44879,8 +44879,8 @@ trouble of selecting, obtaining and installing it.</seg>
       <tuv lang="EN">
         <seg>When hovering the mouse over the underlined phrase, an explanation will appear.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131108T113242Z" creationid="Fu Rhong" creationdate="20131108T113242Z">
-        <seg>在加了下划线的短语上悬停鼠标时，会出现相应的说明。</seg>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T085641Z" creationid="Fu Rhong" creationdate="20131108T113242Z">
+        <seg>将鼠标放在画线短语上时，会出现相应说明。</seg>
       </tuv>
     </tu>
     <tu>
