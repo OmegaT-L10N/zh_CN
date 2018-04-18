@@ -12357,6 +12357,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Conversely, where products are clearly not directly compatible, it is often possible to find procedures by which they can work together.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T045541Z" creationid="Wyndy" creationdate="20180418T045541Z">
+        <seg>反过来，就算供应商并未断言其产品直接与其他产品兼容，它也很可能找到与之兼容的的程序。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Convert Old Team Project</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T130642Z" creationid="Administrator" creationdate="20180411T130642Z">
@@ -44778,6 +44786,14 @@ trouble of selecting, obtaining and installing it.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="18261" changedate="20180412T124701Z" creationid="18261" creationdate="20180412T124701Z">
         <seg>在日常任务方面，从事OmegaT项目的志愿者通常会有尽可能多的自由来确定其贡献形式。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Where the vendor of a software product claims that his product is compatible with another piece of software, this compatibility is seldom 100%.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T045318Z" creationid="Wyndy" creationdate="20180418T045318Z">
+        <seg>就算软件产品供应商声称其产品与其他软件兼容，事实上也很少会完美兼容。</seg>
       </tuv>
     </tu>
     <tu>
