@@ -9136,6 +9136,16 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An error occurred while processing a font changed event:
+{0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T113810Z" creationid="Lenovo" creationdate="20180418T113810Z">
+        <seg>处理字体改变事件时会产生错误:
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An error occurred while processing a new file event:
 {0}</seg>
       </tuv>
@@ -10948,6 +10958,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T060407Z">
         <seg>无法为已译文件创建目录：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cannot install</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T113845Z" creationid="Lenovo" creationdate="20180418T113845Z">
+        <seg>安装失败</seg>
       </tuv>
     </tu>
     <tu>
@@ -40815,8 +40833,8 @@ the server.</seg>
       <tuv lang="EN">
         <seg>This call MUST NOT be in swing thread</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T164359Z">
-        <seg>该调用应该不在 swing 线程中</seg>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T113830Z">
+        <seg>该调用应不在 swing 线程中</seg>
       </tuv>
     </tu>
     <tu>
