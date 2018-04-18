@@ -34020,6 +34020,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Some CAT tools solve this problem, at least for MS Word, by working within Word itself; most other CAT tools convert to RTF and back, often invisibly for the translator.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T071527Z" creationid="Wyndy" creationdate="20180418T071527Z">
+        <seg>有些 CAT 工具能克服这个问题，至少在 MS Word 软件自身内工作时可以处理 Word 文件；其他大部分 CAT 工具只能先将其转换成富文本格式处理再转回，不过译员通常见不到该过程。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Some additional scripts can be found here: &lt;u0&gt;OmegaT Scripts&lt;/u0&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T120907Z" creationid="lenovo" creationdate="20180411T120907Z">
@@ -39702,8 +39710,8 @@ configuration folder cannot be reliably determined.</seg>
       <tuv lang="EN">
         <seg>These file formats are proprietary, binary, and until recently were not publicly documented, all characteristics which make them extremely difficult to handle in a CAT tool.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T070921Z" creationid="Wyndy" creationdate="20180418T070921Z">
-        <seg>这些二进制文件格式有专利权，而且目前为止还未以文件形式公开，以上特点都让这些文件格式难以用 CAT工具处理</seg>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T070928Z" creationid="Wyndy" creationdate="20180418T070921Z">
+        <seg>这些二进制文件格式有专利权，而且目前为止还未以文件形式公开，以上特点都让这些文件格式难以用 CAT工具处理。</seg>
       </tuv>
     </tu>
     <tu>
