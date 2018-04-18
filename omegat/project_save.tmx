@@ -38067,6 +38067,14 @@ Please try to correct the error and reload the project.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Trados "uncleaned" RTF file format, often referred to simply as "uncleaned files", has for many years been the most common bilingual file format used in translation workflows.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T140616Z" creationid="Wyndy" creationdate="20180418T140616Z">
+        <seg>Trados "不干净的" 富文本文件格式，常简称为 "uncleaned files", has for many years been the most common bilingual file format used in translation workflows.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The URL must include "{target}", which will be replaced with the search text.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T015221Z" creationid="xulihang" creationdate="20180408T015213Z">
@@ -43926,8 +43934,8 @@ install.sh.</seg>
       <tuv lang="EN">
         <seg>Trados "uncleaned RTF"</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T140155Z" creationid="Wyndy" creationdate="20180418T140155Z">
-        <seg>Trados “不干净的富文本格式 RTF"</seg>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T140212Z" creationid="Wyndy" creationdate="20180418T140155Z">
+        <seg>Trados “不干净的富文本格式 RTF</seg>
       </tuv>
     </tu>
     <tu>
