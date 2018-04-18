@@ -21374,6 +21374,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In case translators need to share their TMX bases while excluding some of their parts or including just translations of certain files, sharing the complete &lt;f0&gt;ProjectName-omegat.tmx&lt;/f0&gt; is out of question.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Doris" changedate="20180418T142039Z" creationid="Doris" creationdate="20180418T142039Z">
+        <seg>在译员需要与别人分享排除或仅包含某些文件的TMX翻译记忆文件时，此时无法分享&lt;f0&gt;ProjectName-omegat.tmx&lt;/f0&gt;文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In case you decide to modify project folders, keep in mind that this will not move existing files from old folders to the new location.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131119T124627Z" creationid="Fu Rhong" creationdate="20131119T124243Z">
@@ -21980,6 +21988,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131127T092840Z" creationid="Fu Rhong" creationdate="20131127T092840Z">
         <seg>在此情况下，可将这些翻译记忆记忆文件放置在新项目的&lt;e0&gt;/tm&lt;/e0&gt;或&lt;e1&gt;/tm&lt;/e1&gt;/auto目录下：以前您将在模糊匹配查看器中获取来自这些翻译记忆的提示，现在开始将使用这些翻译记忆预翻译您的源文本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In this case, the NL-EN translation memory can serve as a go-between to help generate NL to ZH translation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Doris" changedate="20180418T142108Z" creationid="Doris" creationdate="20180418T142108Z">
+        <seg>此时NL-EN的翻译记忆可作为桥梁以帮助生成NL-ZH的译文。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40493,6 +40509,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120206T093936Z">
         <seg>然而，最简单的方法是运行 &lt;e0&gt; &lt;a1&gt;OmegaT&lt;/a1&gt;.exe&lt;/e0&gt; 程序。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The solution in our example is to copy the existing translation memory into the tm/tmx2source/ subfolder and rename it to ZH_CN.tmx to indicate the target language of the tmx.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Doris" changedate="20180418T142227Z" creationid="Doris" creationdate="20180418T142227Z">
+        <seg>我们的解决方法是复制已有的翻译记忆到 tm/tmx2source/ 子文件夹，并重命名为ZH_CN.tmx，以表明TMX的目标语言。</seg>
       </tuv>
     </tu>
     <tu>
