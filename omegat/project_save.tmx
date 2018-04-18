@@ -30600,6 +30600,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Recent versions of OpenOffice.org are able to convert between Microsoft Office 2007 and Open Document Format.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T064510Z" creationid="Wyndy" creationdate="20180418T064510Z">
+        <seg>最新版的 OpenOffice.org 能将 Microsoft Office 2007 与 Open Document Format 互相转换。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Recoverable error on line {0}, column {1} while parsing:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="flycr" changedate="20180408T095534Z">
@@ -39688,6 +39696,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="anton" changedate="20180416T085705Z" creationid="anton" creationdate="20180416T085705Z">
         <seg>这能定义那些在包含他们的片段之外呈现的子片段（脚注就是一个很好的例子）.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These file formats are proprietary, binary, and until recently were not publicly documented, all characteristics which make them extremely difficult to handle in a CAT tool.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T070921Z" creationid="Wyndy" creationdate="20180418T070921Z">
+        <seg>这些二进制文件格式有专利权，而且目前为止还未以文件形式公开，以上特点都让这些文件格式难以用 CAT工具处理</seg>
       </tuv>
     </tu>
     <tu>
