@@ -360,8 +360,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Always</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T114454Z">
-        <seg>总是 (&amp;A)</seg>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T124404Z">
+        <seg>总是(&amp;A)</seg>
       </tuv>
     </tu>
     <tu>
@@ -544,8 +544,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Copy Support Info</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T113524Z" creationid="puleiying" creationdate="20180418T113453Z">
-        <seg>复制支持信息 (&amp;C)</seg>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T124339Z" creationid="puleiying" creationdate="20180418T113453Z">
+        <seg>复制支持信息(&amp;C)</seg>
       </tuv>
     </tu>
     <tu>
@@ -960,8 +960,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;License</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T122351Z">
-        <seg>许可证 (&amp;L)</seg>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T124329Z">
+        <seg>许可证(&amp;L)</seg>
       </tuv>
     </tu>
     <tu>
@@ -992,8 +992,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Make the file filter settings project specific</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T113817Z">
-        <seg>使文件过滤器只对特定项目有效 (&amp;M)</seg>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T124342Z">
+        <seg>使文件过滤器只对特定项目有效(&amp;M)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1144,8 +1144,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Preserve spaces for all tags</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T110525Z">
-        <seg>给所有标签预留空格 (&amp;P)</seg>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T124258Z">
+        <seg>给所有标签预留空格(&amp;P)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1400,8 +1400,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Sheet Names</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T110408Z">
-        <seg>工作表名称 (&amp;S)</seg>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T124153Z">
+        <seg>工作表名称(&amp;S)</seg>
       </tuv>
     </tu>
     <tu>
@@ -7954,8 +7954,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>A&amp;ggregate Tags</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T110520Z">
-        <seg>聚合标签 (&amp;g)</seg>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T124252Z">
+        <seg>聚合标签(&amp;g)</seg>
       </tuv>
     </tu>
     <tu>
@@ -10988,8 +10988,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>C&amp;harts</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105511Z">
-        <seg>图表（C&amp;)</seg>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T124218Z">
+        <seg>图表(C&amp;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -12235,8 +12235,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Comme&amp;nts</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T110353Z">
-        <seg>评论 (&amp;n)</seg>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T124150Z">
+        <seg>评论(&amp;n)</seg>
       </tuv>
     </tu>
     <tu>
@@ -13759,8 +13759,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>D&amp;iagrams</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T110440Z">
-        <seg>报表 (&amp;i)</seg>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T124220Z">
+        <seg>报表(&amp;i)</seg>
       </tuv>
     </tu>
     <tu>
@@ -14728,8 +14728,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Doc&amp;ument properties</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T110319Z" creationid="puleiying" creationdate="20180418T110319Z">
-        <seg>项目属性 (&amp;u)</seg>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T124147Z" creationid="puleiying" creationdate="20180418T110319Z">
+        <seg>项目属性(&amp;u)</seg>
       </tuv>
     </tu>
     <tu>
@@ -15088,8 +15088,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Dra&amp;wings</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T110442Z">
-        <seg>图 (&amp;w)</seg>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T124232Z">
+        <seg>图(&amp;w)</seg>
       </tuv>
     </tu>
     <tu>
@@ -16475,8 +16475,8 @@ project_save.tmx未真正上传，SVN切换到不稳定状态。</seg>
       <tuv lang="EN">
         <seg>External Lin&amp;ks</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T110437Z" creationid="puleiying" creationdate="20180418T110437Z">
-        <seg>外部链接 (&amp;k)</seg>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T124212Z" creationid="puleiying" creationdate="20180418T110437Z">
+        <seg>外部链接(&amp;k)</seg>
       </tuv>
     </tu>
     <tu>
@@ -27573,8 +27573,8 @@ appropriate location such as the Applications folder.</seg>
       <tuv lang="EN">
         <seg>O&amp;ptions...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T114022Z">
-        <seg>选项 (&amp;p)...</seg>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T124348Z">
+        <seg>选项(&amp;p)...</seg>
       </tuv>
     </tu>
     <tu>
@@ -32066,8 +32066,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Remove &amp;leading and trailing tags</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T114049Z" creationid="puleiying" creationdate="20180418T114049Z">
-        <seg>删除首 (&amp;l) 尾的标签</seg>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T124352Z" creationid="puleiying" creationdate="20180418T114049Z">
+        <seg>删除首(&amp;l) 尾的标签</seg>
       </tuv>
     </tu>
     <tu>
@@ -32162,8 +32162,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Remove leading and trailing &amp;whitespace in non-segmented projects</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T114108Z" creationid="puleiying" creationdate="20180418T114108Z">
-        <seg>在未分段的项目中删除首尾的空白字符 (&amp;w)。</seg>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T124359Z" creationid="puleiying" creationdate="20180418T114108Z">
+        <seg>在未分段的项目中删除首尾的空白字符(&amp;w)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32972,8 +32972,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>S&amp;lide Comments</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T110413Z">
-        <seg>幻灯注释 (&amp;l)</seg>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T124200Z">
+        <seg>幻灯注释(&amp;l)</seg>
       </tuv>
     </tu>
     <tu>
@@ -35078,16 +35078,16 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Sli&amp;de Masters</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T110415Z">
-        <seg>幻灯模板 (&amp;d)</seg>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T124206Z">
+        <seg>幻灯模板(&amp;d)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Slide La&amp;youts</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T110417Z">
-        <seg>幻灯布局 (&amp;y)</seg>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T124208Z">
+        <seg>幻灯布局(&amp;y)</seg>
       </tuv>
     </tu>
     <tu>
@@ -46809,8 +46809,8 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       <tuv lang="EN">
         <seg>WordAr&amp;t</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T110516Z">
-        <seg>艺术字 (&amp;t)</seg>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T124246Z">
+        <seg>艺术字(&amp;t)</seg>
       </tuv>
     </tu>
     <tu>
