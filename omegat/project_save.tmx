@@ -14031,6 +14031,22 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Display &amp;active source segment in bold</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T093326Z" creationid="Lenovo" creationdate="20180418T093326Z">
+        <seg>加粗显示有效原文片段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Display &amp;tags</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T092857Z" creationid="Lenovo" creationdate="20180418T092857Z">
+        <seg>显示&amp;标签</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Display Font</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T055240Z">
@@ -17678,6 +17694,14 @@ script provided (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131031T120854Z" creationid="Administrator" creationdate="20131031T120854Z">
         <seg>完整文本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Full text, including tags and numbers</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T093213Z" creationid="Lenovo" creationdate="20180418T093053Z">
+        <seg>包括标签和数字的完整文本</seg>
       </tuv>
     </tu>
     <tu>
@@ -26063,6 +26087,14 @@ appropriate location such as the Applications folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130505T164525Z">
         <seg>未发现标签错误</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No tags and no numbers</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T093035Z" creationid="Lenovo" creationdate="20180418T093035Z">
+        <seg>没有标签和数字</seg>
       </tuv>
     </tu>
     <tu>
@@ -34939,6 +34971,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
         <seg>状态栏</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Stemming, no tags and no numbers</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T093204Z" creationid="Lenovo" creationdate="20180418T093129Z">
+        <seg>没有标签和数字的词干</seg>
       </tuv>
     </tu>
     <tu>
