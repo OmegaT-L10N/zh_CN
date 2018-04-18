@@ -518,6 +518,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Copy Support Info</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T113524Z" creationid="puleiying" creationdate="20180418T113453Z">
+        <seg>复制支持信息 (&amp;C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Current Source Document</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180407T134137Z" creationid="lenovo" creationdate="20180407T134137Z">
@@ -536,8 +544,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Defaults</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T153903Z">
-        <seg>缺省(&amp;D)</seg>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T113426Z">
+        <seg>缺省 (&amp;D)</seg>
       </tuv>
     </tu>
     <tu>
@@ -16512,8 +16520,8 @@ project_save.tmx未真正上传，SVN切换到不稳定状态。</seg>
       <tuv lang="EN">
         <seg>File &amp;Format</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T153857Z">
-        <seg>文件格式(&amp;F)</seg>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T113439Z">
+        <seg>文件格式 (&amp;F)</seg>
       </tuv>
     </tu>
     <tu>
@@ -18424,8 +18432,8 @@ script provided (omegat.kaptn).</seg>
       <tuv lang="EN">
         <seg>HTMLParser 1.6 by Somik Raha, Derrick Oswald and others (LGPL License)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T153812Z">
-        <seg>Somik Raha, Derrick Oswald 等人的 HTMLParser （LGPL 许可协议）</seg>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T113623Z">
+        <seg>Somik Raha, Derrick Oswald 等人的 HTMLParser （LGPL License）</seg>
       </tuv>
     </tu>
     <tu>
@@ -23140,14 +23148,6 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131102T030310Z" creationid="Fu Rhong" creationdate="20131102T030310Z">
         <seg>Jean-Christophe Helary：特别感谢 JC 对 OmegaT 运行和命令行参数及我注意到的所有其他细节的简洁说明。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Jmyspell (LGPL License)</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T103856Z" creationid="puleiying" creationdate="20180418T103856Z">
-        <seg>Jmyspell (LGPL 许可协议)</seg>
       </tuv>
     </tu>
     <tu>
@@ -32382,14 +32382,6 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>SQLJet (GPL License)</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T103931Z" creationid="puleiying" creationdate="20180418T103931Z">
-        <seg>SQLJet (GPL 许可协议)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>SQLJet 1.1.3 (GPL License)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130504T162539Z">
@@ -32442,14 +32434,6 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130504T150633Z">
         <seg>开始执行 SVN '{0}'</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>SVNKit (TMate License)</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T103906Z" creationid="puleiying" creationdate="20180418T103906Z">
-        <seg>SVNKit (TMate 许可协议)</seg>
       </tuv>
     </tu>
     <tu>
@@ -33876,14 +33860,6 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120215T144124Z">
         <seg>将源文本分割为片段。</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Sequence Library (Sequence Library License)</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130504T162520Z">
-        <seg>Sequence Library (Sequence Library 许可协议)</seg>
       </tuv>
     </tu>
     <tu>
@@ -44823,8 +44799,8 @@ searchable without subscription:</seg>
       <tuv lang="EN">
         <seg>VLDocking Framework (LGPL License)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T103843Z" creationid="puleiying" creationdate="20180418T103843Z">
-        <seg>VLDocking Framework（CeCILL 许可协议）</seg>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T113658Z" creationid="puleiying" creationdate="20180418T103843Z">
+        <seg>VLDocking Framework（LGPL License）</seg>
       </tuv>
     </tu>
     <tu>
@@ -53333,6 +53309,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120218T070619Z">
         <seg>译文片段为空</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>trilead-ssh2 (Trilead SSH license)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T113536Z" creationid="puleiying" creationdate="20180418T113536Z">
+        <seg>trilead-ssh2 (Trilead SSH 协议)</seg>
       </tuv>
     </tu>
     <tu>
