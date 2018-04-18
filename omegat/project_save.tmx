@@ -23751,6 +23751,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Linux users can use this version of the standalone &lt;a0&gt;conversion utility&lt;/a0&gt; to convert directly between Office Open XML and OpenDocument Format.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T064427Z" creationid="Wyndy" creationdate="20180418T064427Z">
+        <seg>Linux 用户可通过这个版本的 &lt;a0&gt;conversion utility&lt;/a0&gt; 独立应用程序直接进行 Office Open XML 与 OpenDocument Format 的互相转换。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Linux users:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Puzzlist" changedate="20130922T041429Z" creationid="Puzzlist" creationdate="20130922T041429Z">
