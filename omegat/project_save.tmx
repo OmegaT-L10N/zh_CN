@@ -34140,6 +34140,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source code packages are not required by users and are intended for developers only.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T043645Z" creationid="Wyndy" creationdate="20180418T043645Z">
+        <seg>源代码包仅为开发者提供，用户无需源代码包。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Source count</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T025550Z" creationid="xulihang" creationdate="20180404T025532Z">
@@ -47262,6 +47270,15 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131107T142650Z" creationid="Fu Rhong" creationdate="20131107T142650Z">
         <seg>bs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>built 的中心词不明</note>
+      <tuv lang="EN">
+        <seg>built on DEV@cloud</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T043509Z" creationid="Wyndy" creationdate="20180418T043509Z">
+        <seg>由 DEV@cloud 构建</seg>
       </tuv>
     </tu>
     <tu>
