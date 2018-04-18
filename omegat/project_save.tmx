@@ -6010,8 +6010,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Plugins&lt;/p0&gt; &lt;s1&gt;LanguageTool&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T084221Z" creationid="Fu Rhong" creationdate="20131108T102322Z">
-        <seg>&lt;p0&gt;插件&lt;/p0&gt; &lt;s1&gt;语言工具&lt;/s1&gt;</seg>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T084430Z" creationid="Fu Rhong" creationdate="20131108T102322Z">
+        <seg>&lt;p0&gt;插件&lt;/p0&gt; &lt;s1&gt;LanguageTool&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7378,8 +7378,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;u0&gt;LanguageTool&lt;/u0&gt; is an Open Source style and grammar proofreading software for English, French, German, Polish, Dutch, Romanian, and a number of other languages - see the &lt;u1&gt;list of supported languages&lt;/u1&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131108T102825Z" creationid="Fu Rhong" creationdate="20131108T102825Z">
-        <seg>&lt;u0&gt;LanguageTool&lt;/u0&gt;是开源风格的文法较对软件，可用于英语、法语、德语、波兰语、荷兰语、罗马尼亚语及其他语言（请参阅&lt;u1&gt;支持语言列表&lt;/u1&gt;）。</seg>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T084415Z" creationid="Fu Rhong" creationdate="20131108T102825Z">
+        <seg>&lt;u0&gt;LanguageTool&lt;/u0&gt;是开源的语法校对软件，可用于英语、法语、德语、波兰语、荷兰语、罗马尼亚语及其他语言（请参阅&lt;u1&gt;支持语言列表&lt;/u1&gt;）。</seg>
       </tuv>
     </tu>
     <tu>
