@@ -478,6 +478,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Built-in (LanguageTool {0})</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T114921Z" creationid="Lenovo" creationdate="20180418T114921Z">
+        <seg>&amp;嵌入 (LanguageTool {0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Cancel</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T022400Z">
@@ -906,6 +914,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
         <seg>最近更新(&amp;L)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Launch local server</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T114947Z" creationid="Lenovo" creationdate="20180418T114947Z">
+        <seg>&amp;启用本地服务</seg>
       </tuv>
     </tu>
     <tu>
@@ -23132,6 +23148,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>JAR files</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T114837Z" creationid="Lenovo" creationdate="20180418T114837Z">
+        <seg>JAR文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>JGit (Eclipse Distribution License)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130509T154238Z">
@@ -23704,6 +23728,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T114332Z" creationid="Lenovo" creationdate="20180418T114332Z">
         <seg>LanguageTool配置错误.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool is not available for your target language.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T115256Z" creationid="Lenovo" creationdate="20180418T115256Z">
+        <seg>LanguageTool不适用于你的目标语言.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24326,6 +24358,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Load a project to configure rules for that project's languages.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T115533Z" creationid="Lenovo" creationdate="20180418T115533Z">
+        <seg>加载项目为项目语言配置规则.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Load a script into the editor by clicking on its name in the list on the left panel.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131108T122011Z" creationid="Fu Rhong" creationdate="20131108T122011Z">
@@ -24394,6 +24434,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130504T151401Z">
         <seg>本地目录：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Local installation path:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T115026Z" creationid="Lenovo" creationdate="20180418T115026Z">
+        <seg>本地安装路径:</seg>
       </tuv>
     </tu>
     <tu>
@@ -24898,6 +24946,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131108T030248Z" creationid="Fu Rhong" creationdate="20131108T030248Z">
         <seg>马其他语</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Manually defined rules</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T114848Z" creationid="Lenovo" creationdate="20180418T114848Z">
+        <seg>手动定义规则</seg>
       </tuv>
     </tu>
     <tu>
@@ -26212,6 +26268,14 @@ appropriate location such as the Applications folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T155811Z">
         <seg>新语言和国家</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>New LanguageTool rule</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T114912Z" creationid="Lenovo" creationdate="20180418T114912Z">
+        <seg>新LanguageTool规则</seg>
       </tuv>
     </tu>
     <tu>
@@ -31720,6 +31784,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remote &amp;server</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T115004Z" creationid="Lenovo" creationdate="20180418T115004Z">
+        <seg>远程&amp;服务</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remote File/Folder</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="christy" changedate="20180407T162852Z" creationid="christy" creationdate="20180407T162852Z">
@@ -32554,10 +32626,26 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Rule ID can only contain Latin letters, underscores, and periods.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T115213Z" creationid="Lenovo" creationdate="20180418T115213Z">
+        <seg>规则编号只能包含拉丁字母，下划线和句号.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Rule priority</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120217T072037Z">
         <seg>规则的优先级</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Rules</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T115045Z" creationid="Lenovo" creationdate="20180418T115045Z">
+        <seg>规则</seg>
       </tuv>
     </tu>
     <tu>
@@ -34168,6 +34256,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T114109Z" creationid="Administrator" creationdate="20180411T114109Z">
         <seg>服务器未识别“翻译”方法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Service type</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T115013Z" creationid="Lenovo" creationdate="20180418T115013Z">
+        <seg>服务类型</seg>
       </tuv>
     </tu>
     <tu>
@@ -40635,6 +40731,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There was an error initializing LanguageTool.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T115327Z" creationid="Lenovo" creationdate="20180418T115327Z">
+        <seg>初始化LanguageTool时存在错误.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Therefore, press &lt;k0&gt;Ctrl+Shift+V&lt;/k0&gt; before you generate your translated files, to validate that your tags are correct.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T024550Z" creationid="Fu Rhong" creationdate="20131117T024550Z">
@@ -41019,6 +41123,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="liufang" changedate="20180416T122625Z" creationid="liufang" creationdate="20180416T122625Z">
         <seg>本HowTo提供有关在OmegaT中翻译MS Office 2007及更高版本（Office Open XML，.docx）文件的提示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This ID is already being used.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T115236Z" creationid="Lenovo" creationdate="20180418T115236Z">
+        <seg>该编号已在使用.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43682,6 +43794,14 @@ install.sh.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120206T121708Z">
         <seg>输入 &lt;e2&gt;kmenuedit+enter&lt;/e2&gt; 命令并运行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Type in new rule ID</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T114901Z" creationid="Lenovo" creationdate="20180418T114901Z">
+        <seg>输入新规则ID</seg>
       </tuv>
     </tu>
     <tu>
