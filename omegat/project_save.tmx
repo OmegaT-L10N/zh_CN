@@ -21938,6 +21938,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Instead, they must first be converted manually to Office Open XML (MS Office 2007/2010) or Open Document format (LibreOffice or OpenOffice.org) before they can be handled in OmegaT.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T071707Z" creationid="Wyndy" creationdate="20180418T071707Z">
+        <seg>而必须先手动将这些文件转换成 Office Open XML (MS Office 2007/2010) 或者 Open Document 格式 (LibreOffice or OpenOffice.org) 才能在 OmegaT 中处理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Instead, those involved in the OmegaT project hope that translations will be provided first and foremost by translators who have tried OmegaT and are convinced of its value to the translation community as a whole.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180415T143706Z" creationid="lenovo" creationdate="20180415T143706Z">
@@ -27064,6 +27072,14 @@ appropriate location such as the Applications folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="think" changedate="20180416T070620Z" creationid="think" creationdate="20180416T070620Z">
         <seg>OmegaT并非在所有Java版本上都能运转地令人满意。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT does not support these formats directly.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T071549Z" creationid="Wyndy" creationdate="20180418T071549Z">
+        <seg>OmegaT 不直接支持这些文件格式。</seg>
       </tuv>
     </tu>
     <tu>
