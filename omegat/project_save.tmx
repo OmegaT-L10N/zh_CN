@@ -9331,6 +9331,14 @@ The TMX file will not be loaded.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Another possible source of incompatibility are three-digit language codes, which are not supported by OmegaT at all.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T113134Z" creationid="Wyndy" creationdate="20180418T113134Z">
+        <seg>另外一个可能导致兼容性问题的原因是三位的语言编码，OmegaT 完全不支持这种编码。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Any character (except for line terminators)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
@@ -26389,6 +26397,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Not all CAT tools exhibit the same tolerance and some may not therefore display the expected matches if the language codes are not sufficiently compliant.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T111925Z" creationid="Wyndy" creationdate="20180418T111925Z">
+        <seg>不是所有 CAT 工具都支持如此多文件语言编码，因此如果语言编码不太一致，有些 CAT 工具可能显示不了本该匹配的片段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Not only may it be used free of charge, users are also free to make copies of it and distribute them.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="18261" changedate="20180412T121305Z" creationid="18261" creationdate="20180412T121305Z">
@@ -27698,6 +27714,14 @@ to be launched.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T021047Z" creationid="xulihang" creationdate="20180408T021047Z">
         <seg>你有可以运行OmegaT了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT is tolerant when reading TMX files: it will accept files with en-GB, en-US, en, EN, etc.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T111705Z" creationid="Wyndy" creationdate="20180418T111705Z">
+        <seg>OmegaT 读取 TMX 文件时容忍度很高：它支持用en-GB, en-US, en, EN等语言编码的文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41047,6 +41071,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120206T115825Z">
         <seg>其中包括 OmegaT 中的首选项设置，对 &lt;f1&gt; OmegaT.l4J.ini&lt;/f1&gt; 文件进行的所有更改以及您使用的启动脚本（.bat 文件）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This incompatibility can be resolved by searching for and replacing the relevant language codes in the TMX file in a suitable text editor.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T113011Z" creationid="Wyndy" creationdate="20180418T113011Z">
+        <seg>用合适的文件编辑器将 TMX  文件中的相关语言编码进行查找和替换，兼容性问题就会得到解决。</seg>
       </tuv>
     </tu>
     <tu>
