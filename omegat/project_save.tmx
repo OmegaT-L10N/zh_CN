@@ -21470,6 +21470,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In order for this process to be as automatic as possible, two conditions must in particular be met: firstly, the translation memory must contain formatting information (see above); and secondly, the segmentation rules applied to the text must be the same as those applied when the translation memory (or part of it) was produced.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T131431Z" creationid="Wyndy" creationdate="20180418T131431Z">
+        <seg>为了让该流程尽可能自动化，有两个条件尤其需要满足：一是翻译记忆必须包含格式信息；二是文本切分片段的规则与创建（部分）翻译记忆时使用的切分片段规则一致。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In order to be able to use Yandex Translate in OmegaT, you need to &lt;u0&gt;obtain an API key from Yandex&lt;/u0&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="weiyi" changedate="20180405T150040Z" creationid="weiyi" creationdate="20180405T150040Z">
@@ -38453,6 +38461,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The customer wishes to receive a translation memory against which texts can be run in the future: in other words, to "pretranslate" future texts against an existing translation memory.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T131134Z" creationid="Wyndy" creationdate="20180418T131134Z">
+        <seg>客户希望得到的翻译记忆库能够运行文本：换言之，可通过现有的翻译记忆可以对今后的文本进行“预翻译”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The data are exported when the segment is opened.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120131T133550Z">
@@ -38601,6 +38617,14 @@ instead.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T073004Z" creationid="weiyi" creationdate="20180406T073004Z">
         <seg>文档以操作系统选定的应用打开。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The easiest way for a customers to ensure that these two conditions are met is for them to pretranslate the text themselves before passing it to the translator (thereby defining how it is segmented), and to create the translation memory in the CAT tool of their choice after receiving the translated intermediate bilingual file from the translator (thereby ensuring that the formatting information contained within the translation memory will be compatible with future projects).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T131819Z" creationid="Wyndy" creationdate="20180418T131819Z">
+        <seg>对客户而言，要确保满足上述两个条件，最简单的方法就是在把文本发给译员之前先自行预翻译（从而确定了切分规则），并且在收到中间形式的译后双语文件后，用自选的 CAT 工具创建翻译记忆（从而确保翻译记忆所包含的格式信息与今后的项目兼容）。</seg>
       </tuv>
     </tu>
     <tu>
