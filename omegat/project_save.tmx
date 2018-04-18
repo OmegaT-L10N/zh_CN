@@ -34317,6 +34317,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sort fuzzy matches by:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180416T065350Z" creationid="Lenovo" creationdate="20180416T065350Z">
+        <seg>寻找模糊匹配:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sort tar&amp;get terms alphabetically</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180403T141724Z" creationid="xulihang" creationdate="20180403T141724Z">
@@ -35243,6 +35251,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T082532Z" creationid="chloechao" creationdate="20180412T082532Z">
         <seg>TKount字数统计功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TM Matches</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180416T065520Z" creationid="Lenovo" creationdate="20180416T065520Z">
+        <seg>翻译记忆匹配</seg>
       </tuv>
     </tu>
     <tu>
