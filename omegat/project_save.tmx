@@ -360,8 +360,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Always</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T154408Z">
-        <seg>总是(&amp;A)</seg>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T114454Z">
+        <seg>总是 (&amp;A)</seg>
       </tuv>
     </tu>
     <tu>
@@ -814,6 +814,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Ignore file context when identifying segments with alternate translations</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T114442Z" creationid="puleiying" creationdate="20180418T114442Z">
+        <seg>当识别片段带有替代翻译时，忽略文件上下文。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Ignore hits with very different case (e.g. FOO vs foo)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180407T143103Z" creationid="lenovo" creationdate="20180407T143103Z">
@@ -944,8 +952,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Make the file filter settings project specific</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105424Z">
-        <seg>使文件过滤器只对特定项目有效(&amp;M)</seg>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T113817Z">
+        <seg>使文件过滤器只对特定项目有效 (&amp;M)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3151,8 +3159,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;&amp;br&gt; (breaks)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130509T154324Z">
-        <seg>&lt;&amp;br&gt; (中断)</seg>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T115138Z">
+        <seg>&lt;&amp;br&gt; (折行)</seg>
       </tuv>
     </tu>
     <tu>
@@ -7876,14 +7884,6 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131113T030458Z" creationid="Administrator" creationdate="20131031T060319Z">
         <seg>自动完成(&amp;U)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>ANTLR (ANTLR 3 License)</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T103921Z" creationid="puleiying" creationdate="20180418T103921Z">
-        <seg>ANTLR (ANTLR 3 许可协议)</seg>
       </tuv>
     </tu>
     <tu>
@@ -19295,8 +19295,8 @@ need not be entered.)</seg>
       <tuv lang="EN">
         <seg>If a HHC or HHK file has an encoding declaration, it will be used regardless of any value you specify in this dialog.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T155651Z">
-        <seg>对于有编码声明的HHC或HHK文件，将会忽略你在此对话框中设置的任何编码值。</seg>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T115231Z">
+        <seg>对于有编码声明的 HHC 或 HHK 文件，将会忽略你在此对话框中设置的任何编码值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27301,8 +27301,8 @@ appropriate location such as the Applications folder.</seg>
       <tuv lang="EN">
         <seg>O&amp;ptions...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
-        <seg>选项（O&amp;)...</seg>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T114022Z">
+        <seg>选项 (&amp;p)...</seg>
       </tuv>
     </tu>
     <tu>
@@ -28766,8 +28766,8 @@ installed on your system.</seg>
       <tuv lang="EN">
         <seg>Only if (X)HTML file has an &amp;encoding declaration</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T154615Z">
-        <seg>仅当 (X)HTML 文件有 &amp;encoding 声明时</seg>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T114522Z">
+        <seg>仅当 (X)HTML 文件有 编码(&amp;e) 声明时</seg>
       </tuv>
     </tu>
     <tu>
@@ -30318,6 +30318,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Preserve spaces &amp;for all tags</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T114151Z" creationid="puleiying" creationdate="20180418T114151Z">
+        <seg>给所有标签预留空格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Preserve spaces for all tags</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T154310Z">
@@ -31728,6 +31736,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove &amp;leading and trailing tags</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T114049Z" creationid="puleiying" creationdate="20180418T114049Z">
+        <seg>删除首 (&amp;l) 尾的标签</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove HTML comments in translated document</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T154706Z">
@@ -31812,6 +31828,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T115648Z" creationid="xulihang" creationdate="20180408T115648Z">
         <seg>删除定义的片段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove leading and trailing &amp;whitespace in non-segmented projects</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T114108Z" creationid="puleiying" creationdate="20180418T114108Z">
+        <seg>在未分段的项目中删除首尾的空白字符 (&amp;w)。</seg>
       </tuv>
     </tu>
     <tu>
