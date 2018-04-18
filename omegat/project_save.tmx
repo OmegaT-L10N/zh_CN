@@ -21798,6 +21798,14 @@ click on that shortcut.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>In the editor pane, when a match is inserted from a TMX contained in a folder named &lt;e0&gt;mt&lt;/e0&gt;, the background of the active segment is changed to red.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Doris" changedate="20180418T141224Z" creationid="Doris" creationdate="20180418T141224Z">
+        <seg>在编辑窗格中，从&lt;e0&gt;mt&lt;/e0&gt;的文件夹中的TMX文件插入匹配项时，当前所在片段的背景变为红色。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>语句有问题</note>
       <tuv lang="EN">
         <seg>In the example below, the author of the PO file included a warning for the translator to check the length of the translation:</seg>
@@ -38247,6 +38255,14 @@ Please try to correct the error and reload the project.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180415T130623Z" creationid="lenovo" creationdate="20180415T130623Z">
         <seg>可用的字体/所选的字体</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The background is restored to normal when the segment is left.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Doris" changedate="20180418T141320Z" creationid="Doris" creationdate="20180418T141320Z">
+        <seg>从当前所在片段离开后，背景恢复正常。</seg>
       </tuv>
     </tu>
     <tu>
