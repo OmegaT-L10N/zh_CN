@@ -9575,8 +9575,8 @@ The TMX file will not be loaded.</seg>
 all settings will be at their defaults, due to which you
 may experience unexpected, but correct behaviour.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T164349Z">
-        <seg>由此，所有的设置都会设置成默认值，由于你可能会遇到异常，但确是正常的行为。</seg>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T113343Z">
+        <seg>因此，所有的设置都会成为默认值，你可能会遇到异常，但那是正常反应。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19437,9 +19437,9 @@ need not be entered.)</seg>
 that location will be used and all settings will return to
 their defaults as a result of the location change.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T164350Z">
-        <seg>如果之后要访问的位置得到了许可，将使用该位置 
-且由于位置变化，所有的设置将会恢复到默认值。</seg>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T113433Z">
+        <seg>如果之后要访问的位置得到许可，将使用该位置 
+由于位置变化，所有的设置将会恢复到默认值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36575,8 +36575,8 @@ The scope of a text replacement is the target segments of the project, whether t
         <seg>The
 current folder will be used instead.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T164348Z">
-        <seg>将使用当前文件夹来替代。</seg>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T113146Z">
+        <seg>当前文件夹将作为替代。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37683,8 +37683,8 @@ instead.</seg>
         <seg>The current folder will be used
 instead.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T164349Z">
-        <seg>将使用当前文件夹来替代。</seg>
+      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T113353Z">
+        <seg>使用当前文件夹替代。</seg>
       </tuv>
     </tu>
     <tu>
