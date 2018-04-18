@@ -28988,6 +28988,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Periodic builds are available on CloudBees.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T043332Z" creationid="Wyndy" creationdate="20180418T043332Z">
+        <seg>您可在 CloudBees 上获取周期性的构建任务</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Persian</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131108T030802Z" creationid="Fu Rhong" creationdate="20131108T030802Z">
