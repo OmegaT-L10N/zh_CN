@@ -14335,8 +14335,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Display all &amp;source segments in bold</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T160512Z">
-        <seg>加粗显示所有原文片段(&amp;s)</seg>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T122155Z">
+        <seg>加粗显示所有原文片段 (&amp;s)</seg>
       </tuv>
     </tu>
     <tu>
