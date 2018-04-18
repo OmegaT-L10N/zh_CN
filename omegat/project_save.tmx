@@ -23250,6 +23250,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It owes its origins to the use of MS Word as an interface for the Trados CAT tool.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T140937Z" creationid="Wyndy" creationdate="20180418T140937Z">
+        <seg>最早是由于将 MS Word 用作 Trados CAT 工具的接口，才产生了 RTF 这种格式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It provides better fuzzy and glossary matches in OmegaT, by computing the roots ("stemming") of the source words.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="10353" changedate="20180414T084214Z" creationid="10353" creationdate="20180414T084214Z">
@@ -38069,8 +38077,8 @@ Please try to correct the error and reload the project.</seg>
       <tuv lang="EN">
         <seg>The Trados "uncleaned" RTF file format, often referred to simply as "uncleaned files", has for many years been the most common bilingual file format used in translation workflows.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T140616Z" creationid="Wyndy" creationdate="20180418T140616Z">
-        <seg>Trados "不干净的" 富文本文件格式，常简称为 "uncleaned files", has for many years been the most common bilingual file format used in translation workflows.</seg>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T140742Z" creationid="Wyndy" creationdate="20180418T140616Z">
+        <seg>Trados "不干净的" 富文本文件格式，常简称为 "不干净的文件",，许多年来都是翻译流程中最常用的双语文件格式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43934,8 +43942,8 @@ install.sh.</seg>
       <tuv lang="EN">
         <seg>Trados "uncleaned RTF"</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T140212Z" creationid="Wyndy" creationdate="20180418T140155Z">
-        <seg>Trados “不干净的富文本格式 RTF</seg>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T140654Z" creationid="Wyndy" creationdate="20180418T140155Z">
+        <seg>Trados “不干净的富文本格式 RTF”</seg>
       </tuv>
     </tu>
     <tu>
