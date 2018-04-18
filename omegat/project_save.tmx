@@ -10147,8 +10147,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Auto-completer is launched within the target segment via &lt;e0&gt;Ctrl+Space&lt;/e0&gt; shortcut.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Andrew" changedate="20180414T153946Z" creationid="weiyi" creationdate="20180406T070816Z">
-        <seg>目标片段可通过快捷键 &lt;e0&gt;Ctrl+Space&lt;/e0&gt; 启动自动生成器。</seg>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180418T135006Z" creationid="weiyi" creationdate="20180406T070816Z">
+        <seg>目标片段可通过快捷键 &lt;e0&gt;Ctrl+Space&lt;/e0&gt; 启动自动完成器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11989,8 +11989,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Click on &lt;g0&gt;Character Table...&lt;/g0&gt; to set the Character table auto-completer options.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T071134Z" creationid="weiyi" creationdate="20180406T071134Z">
-        <seg>点击 &lt;g0&gt;字符表...&lt;/g0&gt; 设置字符表自动生成器选项。</seg>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180418T134959Z" creationid="weiyi" creationdate="20180406T071134Z">
+        <seg>点击 &lt;g0&gt;字符表...&lt;/g0&gt; 设置字符表自动完成器选项。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19421,8 +19421,8 @@ script provided (omegat.kaptn).</seg>
       <tuv lang="EN">
         <seg>If &lt;e0&gt;Show Relevant Suggestions Automatically&lt;/e0&gt; option is checked, Auto-completer is launched automatically by typing the first letter of a translated glossary entry, or by typing "&lt;" in case of tags.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Andrew" changedate="20180414T154726Z" creationid="weiyi" creationdate="20180406T070647Z">
-        <seg>如果&lt;e0&gt;自动显示相关建议&lt;/e0&gt;选项被选中，输入已翻译术语表中条目的首字母或输入标签的“&lt;"后自动生成器会启动。</seg>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180418T135010Z" creationid="weiyi" creationdate="20180406T070647Z">
+        <seg>如果&lt;e0&gt;自动显示相关建议&lt;/e0&gt;选项被选中，输入已翻译术语表中条目的首字母或输入标签的“&lt;"后自动完成器会启动。</seg>
       </tuv>
     </tu>
     <tu>
