@@ -696,8 +696,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Endnotes</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T110338Z">
-        <seg>尾注 (&amp;E)</seg>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T124034Z">
+        <seg>尾注(&amp;E)</seg>
       </tuv>
     </tu>
     <tu>
@@ -776,8 +776,16 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Footnotes</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T110336Z">
-        <seg>脚注 (&amp;F)</seg>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T124030Z">
+        <seg>脚注(&amp;F)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Force shortcut to "f" for &lt;it pos="end"&gt; tags</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T123800Z" creationid="puleiying" creationdate="20180418T123800Z">
+        <seg> &amp;F 是 &lt;it pos="end"&gt; 标签的快捷方式</seg>
       </tuv>
     </tu>
     <tu>
@@ -842,6 +850,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180407T143103Z" creationid="lenovo" creationdate="20180407T143103Z">
         <seg>在很不同的情况下忽视匹配(&amp;I) (e.g. FOO vs foo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Ignore type and ctype attributes when building &lt;ph&gt; tag shortcuts</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T124018Z" creationid="puleiying" creationdate="20180418T123855Z">
+        <seg>在构建 &lt;ph&gt; 标签快捷方式时忽略(&amp;I) type 和 ctype 属性</seg>
       </tuv>
     </tu>
     <tu>
@@ -12095,8 +12111,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Co&amp;mments</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T110332Z">
-        <seg>评论 (&amp;m)</seg>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T124025Z">
+        <seg>评论(&amp;m)</seg>
       </tuv>
     </tu>
     <tu>
@@ -15134,6 +15150,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Duplicate Fallbac&amp;k Text</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T124141Z" creationid="puleiying" creationdate="20180418T124141Z">
+        <seg>重复后备(&amp;k)文本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Duplicate segments: {0}</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="christy" changedate="20180407T154554Z" creationid="christy" creationdate="20180407T154554Z">
@@ -17204,8 +17228,8 @@ project_save.tmx未真正上传，SVN切换到不稳定状态。</seg>
       <tuv lang="EN">
         <seg>Foote&amp;rs</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T110344Z">
-        <seg>页脚 (&amp;r)</seg>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T124040Z">
+        <seg>页脚(&amp;r)</seg>
       </tuv>
     </tu>
     <tu>
@@ -18757,8 +18781,8 @@ script provided (omegat.kaptn).</seg>
       <tuv lang="EN">
         <seg>He&amp;aders</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T110340Z">
-        <seg>页眉 (&amp;a)</seg>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T124036Z">
+        <seg>页眉(&amp;a)</seg>
       </tuv>
     </tu>
     <tu>
@@ -20978,6 +21002,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T115237Z" creationid="xulihang" creationdate="20180408T115237Z">
         <seg>忽略术语大小写</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ignore type and ctype attributes when building &lt;&amp;bpt&gt; and &lt;ept&gt; tag shortcuts</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T123958Z" creationid="puleiying" creationdate="20180418T123958Z">
+        <seg>构建 &lt;＆bpt&gt; 和 &lt;ept&gt; 标签快捷方式时，请忽略 type 和 ctype 属性</seg>
       </tuv>
     </tu>
     <tu>
@@ -26763,8 +26795,8 @@ appropriate location such as the Applications folder.</seg>
       <tuv lang="EN">
         <seg>Non-visible Instruction Te&amp;xt</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T110330Z">
-        <seg>不可见指令文本 (&amp;x)</seg>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T124021Z">
+        <seg>不可见指令文本(&amp;x)</seg>
       </tuv>
     </tu>
     <tu>
@@ -38765,6 +38797,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The following options apply to the 3.x filter only</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T123709Z" creationid="puleiying" creationdate="20180418T123709Z">
+        <seg>以下选项仅适用于3.x过滤器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The following recipee is just one of the possibilities, but simple enough to follow and without any dangers for the assets.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131127T094612Z" creationid="Fu Rhong" creationdate="20131127T094210Z">
@@ -46233,6 +46273,14 @@ trouble of selecting, obtaining and installing it.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T065611Z" creationid="weiyi" creationdate="20180406T065611Z">
         <seg>在翻译与软件关联的文件时：您可以通过标签验证器检验程序中的（%...）变量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When unavailable, the ID will be used as a fallback</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T123653Z" creationid="puleiying" creationdate="20180418T123653Z">
+        <seg>当不可用时，该ID将用作后备</seg>
       </tuv>
     </tu>
     <tu>
