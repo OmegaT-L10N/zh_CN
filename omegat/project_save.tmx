@@ -35068,6 +35068,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Since it is a standard, an advantage of XLIFF is that file filters provided by one CAT tool vendor for conversion between a certain format and XLIFF (and, following completion of the translation workflow, back again) can in theory be used to prepare files in the format concerned for translation in any CAT tool capable of supporting XLIFF.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T132848Z" creationid="Wyndy" creationdate="20180418T132848Z">
+        <seg>因为 XLIFF 是行业标准，所以它的一大优势就是，一个 CAT 工具供应商所提供的某文件格式与 XLIFF 之间的文件转换器(并且按照翻译流程的完整性，从 XLIFF 转换回该文件格式) 理论上也可以在任意一款支持 XLIFF 的 CAT 工具中用于该格式相关文件的准备。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Since it is standard procedure for professional translators to receive and deliver texts in digital form, users of OmegaT are naturally interested in its compatibility with other software products.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T082632Z" creationid="Wyndy" creationdate="20180418T044750Z">
