@@ -21938,8 +21938,8 @@ click on that shortcut.</seg>
       <tuv lang="EN">
         <seg>Include the &amp;first non-unique segment when marking non-unique segments</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T111159Z" creationid="Lenovo" creationdate="20180418T111142Z">
-        <seg>标注非唯一片段是包含第一个非唯一片段s</seg>
+      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T123059Z" creationid="Lenovo" creationdate="20180418T111142Z">
+        <seg>标注非唯一片段时包含首个 (&amp;f) 片段</seg>
       </tuv>
     </tu>
     <tu>
