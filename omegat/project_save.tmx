@@ -13727,8 +13727,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Cursor lock off</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="christy" changedate="20180407T154937Z" creationid="christy" creationdate="20180407T154937Z">
-        <seg>鼠标解锁</seg>
+      <tuv lang="ZH-CN" changeid="Doris" changedate="20180419T014500Z" creationid="christy" creationdate="20180407T154937Z">
+        <seg>光标解锁</seg>
       </tuv>
     </tu>
     <tu>
@@ -22100,6 +22100,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120208T064635Z">
         <seg>在该模式中，OmegaT 将仅根据项目的源文件创建整个项目的 TMX。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In this mode, "&lt;g1&gt;Cursor lock off&lt;/g1&gt;" is displayed at the bottom of the pane.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Doris" changedate="20180419T014447Z" creationid="Doris" creationdate="20180419T014447Z">
+        <seg>在此模式下，窗格底部会显示“&lt;g1&gt;光标解锁&lt;/g1&gt;”。</seg>
       </tuv>
     </tu>
     <tu>
