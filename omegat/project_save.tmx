@@ -23048,6 +23048,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It also possible to change the position of a filename, by clicking on it and pressing &lt;e0&gt;Move ...&lt;/e0&gt; buttons.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Doris" changedate="20180419T022928Z" creationid="Doris" creationdate="20180419T022928Z">
+        <seg>也可以通过单击并长按&lt;e0&gt;移动...&lt;/e0&gt;按钮来更改文件名的位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It builds upon the strengths of Java but has additional power features inspired by languages like Python, Ruby and Smalltalk.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131109T021836Z" creationid="Fu Rhong" creationdate="20131108T124509Z">
@@ -33286,6 +33294,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120207T065940Z">
         <seg>在面板上单击鼠标右键——&lt;e0&gt;添加新启动器［Add New Launcher］。&lt;/e0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Right-clicking on a filename opens a popup that allows to open the source file and (if it exists) the target file.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Doris" changedate="20180419T023016Z" creationid="Doris" creationdate="20180419T023016Z">
+        <seg>右键单击文件名将打开一个弹出窗口，允许打开源文件（如果源文件存在）和目标文件。</seg>
       </tuv>
     </tu>
     <tu>
