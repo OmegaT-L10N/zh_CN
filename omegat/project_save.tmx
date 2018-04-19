@@ -27705,6 +27705,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note: filenames (in first column) can be sorted alphabetically by clicking in the header.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Doris" changedate="20180419T022634Z" creationid="Doris" creationdate="20180419T022634Z">
+        <seg>提示：单击标题可将文件名（第一列）按字母顺序排序。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note: if TMX is removed from /tm/auto before step 3, no extra Translation Unit is added.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Doris" changedate="20180418T140843Z" creationid="Doris" creationdate="20180418T133415Z">
@@ -48460,6 +48468,14 @@ the installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="liufang" changedate="20180416T121859Z" creationid="liufang" creationdate="20180416T121859Z">
         <seg>您可以直接从命令行运行OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can select a file with &lt;k0&gt;Up&lt;/k0&gt; and &lt;k1&gt;Down&lt;/k1&gt; keys, and open it for translation by pressing &lt;k2&gt;Enter&lt;/k2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Doris" changedate="20180419T022553Z" creationid="Doris" creationdate="20180419T022553Z">
+        <seg>您可以使用&lt;k0&gt;Up&lt;/k0&gt;和&lt;k1&gt;Down&lt;/k1&gt;选择文件，然后按&lt;k2&gt; Enter&lt;/k2&gt;打开此文件开始翻译。</seg>
       </tuv>
     </tu>
     <tu>
