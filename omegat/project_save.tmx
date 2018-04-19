@@ -10177,6 +10177,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Author of the match when the match was last updated</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Doris" changedate="20180419T020124Z" creationid="Doris" creationdate="20180419T020124Z">
+        <seg>匹配最近更新时的译文作者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Auto replace 'nplurals=INTEGER; &amp;plural=EXPRESSION;' in header</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T152235Z">
@@ -13905,6 +13913,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021248Z">
         <seg>在 Trados MultiTerm 导出的数据可以不加修改地用作 &lt;a0&gt;OmegaT&lt;/a0&gt; 术语表，只需以 &lt;f1&gt;.tab&lt;/f1&gt;为扩展名，并让对应的源词汇和目标术语分别为头两个字段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Date of the match when the match was created</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Doris" changedate="20180419T020053Z" creationid="Doris" creationdate="20180419T020053Z">
+        <seg>匹配创建时的译文创建日期</seg>
       </tuv>
     </tu>
     <tu>
