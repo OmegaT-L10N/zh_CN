@@ -7456,6 +7456,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;r0&gt;Note:&lt;/r0&gt; it is possible to inhibit this Project Files window displaying, by setting &lt;e1&gt;project_files_show_on_load&lt;/e1&gt; to &lt;e2&gt;false&lt;/e2&gt; in &lt;f3&gt;omegat.prefs&lt;/f3&gt; file (accessible by Options / Access Configuration Folder menu).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Doris" changedate="20180419T021929Z" creationid="Doris" creationdate="20180419T021929Z">
+        <seg>&lt;r0&gt;提示：&lt;/r0&gt;可以通过在&lt;f3&gt;omegat.prefs&lt;/f3&gt;文件中将&lt;e1&gt;project_files_show_on_load&lt;/e1&gt;设置为&lt;e2&gt;false&lt;/e2&gt;来禁止显示此项目文件窗口（文件仍可通过选项/访问配置文件夹菜单访问）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;s0&gt;&lt;a1&gt;{{site.data.versions.latest.name}}&lt;/a1&gt;&lt;/s0&gt; Latest Version</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="18261" changedate="20180412T100054Z" creationid="18261" creationdate="20180412T100054Z">
