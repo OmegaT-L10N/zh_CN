@@ -6776,6 +6776,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;copy text - Ctrl+C&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Doris" changedate="20180419T020238Z" creationid="Doris" creationdate="20180419T020238Z">
+        <seg>&lt;p0&gt;快捷键&lt;/p0&gt; &lt;s1&gt;复制文本——Ctrl+C&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;p0&gt;Source files&lt;/p0&gt; &lt;s1&gt;Adding files to the project&lt;/s1&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120219T124218Z">
@@ -13921,6 +13929,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="ZH-CN" changeid="Doris" changedate="20180419T020053Z" creationid="Doris" creationdate="20180419T020053Z">
         <seg>匹配创建时的译文创建日期</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Date of the match when the match was last updated</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Doris" changedate="20180419T020137Z" creationid="Doris" creationdate="20180419T020137Z">
+        <seg>匹配最近更新时的译文创建日期</seg>
       </tuv>
     </tu>
     <tu>
@@ -31063,6 +31079,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Press &lt;k0&gt;Ctrl+M&lt;/k0&gt; to replace the translation of the current segment with the suggested translation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Doris" changedate="20180419T020201Z" creationid="Doris" creationdate="20180419T020201Z">
+        <seg>按 &lt;k0&gt;Ctrl+M &lt;/k0&gt;可使用建议译文替换当前片段的译文。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Press &lt;u&gt;{0}&lt;/u&gt; to go to &lt;b&gt;{1}&lt;/b&gt; suggestions.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180403T123539Z" creationid="xulihang" creationdate="20180403T123539Z">
@@ -34320,6 +34344,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ZH-CN" changeid="18261" changedate="20180412T104018Z" creationid="18261" creationdate="20180412T104018Z">
         <seg>查看 &lt;a0&gt;本地化 OmegaT 方法&lt;/a0&gt;获取本地化/翻译 OmegaT的细节。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See the &lt;e1&gt;Main Menu&lt;/e1&gt; appendix for a full description of all menus and menu items.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Doris" changedate="20180419T020213Z" creationid="Doris" creationdate="20180419T020213Z">
+        <seg>参阅&lt;e1&gt;主菜单&lt;/e1&gt;附录了解所有菜单和菜单项的完整描述。</seg>
       </tuv>
     </tu>
     <tu>
