@@ -27561,6 +27561,22 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note that there could be minor differences between the OmegaT counts and the numbers, provided by other CAT tools.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Doris" changedate="20180419T020758Z" creationid="Doris" creationdate="20180419T020758Z">
+        <seg>请注意，由其他CAT工具提供的数据同OmegaT提供的数据之间可能存在细微差异。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note that these totals are a good (or as good as they can be) approximation of the work involved in the project and thus can serve as a basis for your cost and price calculations.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Doris" changedate="20180419T021207Z" creationid="Doris" creationdate="20180419T021207Z">
+        <seg>请注意，这些数据是对项目中所涉及工作的较好（或尽可能好的）估计，因此可以作为您估算成本和价格的基础。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note that they are all web-based: you will have to be on-line if you want to use them.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120208T142449Z">
@@ -42475,6 +42491,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120207T113624Z">
         <seg>这里的信息适用于诸如 Solaris SPARC/x86/x64、Linux x64/PowerPC、Windows x64 的系统</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This information is computed for segments as well as for words and for characters (without and including spaces).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Doris" changedate="20180419T020516Z" creationid="Doris" creationdate="20180419T020516Z">
+        <seg>这些信息是针对片段、文字和字符（不包括空格）计算的。</seg>
       </tuv>
     </tu>
     <tu>
