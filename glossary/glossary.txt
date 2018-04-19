@@ -46,8 +46,3 @@ fuzzy	模糊
 launch script file	启动脚本文件
 shortcut	快捷键，快捷方式
 will be found	将会显示
-re-import	重新导入
-out-of-turn tags	外转标签
-OmegaT	OmegaT
-libraries	库
-ctype	ctype	此处存疑
