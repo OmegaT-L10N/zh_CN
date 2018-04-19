@@ -12171,6 +12171,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Clicking on any file will open it for translation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Doris" changedate="20180419T022336Z" creationid="Doris" creationdate="20180419T022336Z">
+        <seg>点击任何一份文件将打开它用于翻译</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Clicking on one will save the current project, close it and open the other project.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Andrew" changedate="20180413T064214Z" creationid="weiyi" creationdate="20180405T152357Z">
@@ -41694,8 +41702,8 @@ configuration folder cannot be reliably determined.</seg>
       <tuv lang="EN">
         <seg>These are the files present in the /source folder in a format that OmegaT is able to recognize.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Doris" changedate="20180419T022102Z" creationid="Doris" creationdate="20180419T022102Z">
-        <seg>这是在源文件文件夹中OmegaT当前能够识别的文件。</seg>
+      <tuv lang="ZH-CN" changeid="Doris" changedate="20180419T022207Z" creationid="Doris" creationdate="20180419T022102Z">
+        <seg>这些是指以OmegaT能够识别的格式存储于/source文件夹中的文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42939,6 +42947,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="think" changedate="20180416T033235Z" creationid="think" creationdate="20180416T033235Z">
         <seg>这就需要用Infix来处理，例如可以扩展容纳文本的盒子大小。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This number is displayed in brackets, next to the "Project file" title</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Doris" changedate="20180419T022257Z" creationid="Doris" creationdate="20180419T022257Z">
+        <seg>该数据显示在“项目文件”标题旁边的括号内。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44844,6 +44860,14 @@ Exact searches match the whole search string.</seg>
       <tuv lang="ZH-CN" changeid="flycr" changedate="20180406T125157Z" creationid="flycr" creationdate="20180406T125157Z">
         <seg>类型：
 精确搜索将完美匹配输入的字符串。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Typing any text will open a Filter field where parts of filenames can be entered.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Doris" changedate="20180419T022430Z" creationid="Doris" creationdate="20180419T022430Z">
+        <seg>输入任何文本都会打开一个Filter字段，其中可以输入部分文件名。</seg>
       </tuv>
     </tu>
     <tu>
