@@ -27594,6 +27594,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note: the segment marker displays &lt;l0&gt;&lt;segment nnnn +yy more&gt; when the segment is non-unique.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Doris" changedate="20180419T011655Z" creationid="Doris" creationdate="20180419T011655Z">
+        <seg>提示：片段不唯一时，片段标记将显示&lt;l0&gt;&lt;段nnnn + yy more&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Notes</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T163759Z">
