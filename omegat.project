@@ -33,6 +33,7 @@
                 <mapping local="source/scripts/replace_strip_tags.properties" repository="scripts/properties/replace_strip_tags.properties"/>
                 <mapping local="source/scripts/strip_bidi_marks.properties" repository="scripts/properties/strip_bidi_marks.properties"/>
                 <mapping local="source/scripts/nbsp.properties" repository="scripts/properties/nbsp.properties"/>
+                <mapping local="source/scripts/tagwipe.properties" repository="scripts/properties/tagwipe.properties"/>
             </repository>
             <repository type="svn" url="https://github.com/omegat-org/omegat-website.git/trunk/_i18n/en/">
                 <mapping local="source/website/" repository="/"/>
