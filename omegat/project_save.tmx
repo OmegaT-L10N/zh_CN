@@ -206,6 +206,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>${diffReversed}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Doris" changedate="20180419T015054Z" creationid="Doris" creationdate="20180419T015054Z">
+        <seg>字符串：${diffReversed}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>${diff}</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131127T130038Z" creationid="Fu Rhong" creationdate="20131127T130038Z">
@@ -36314,6 +36322,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T111539Z" creationid="Wyndy" creationdate="20180418T111539Z">
         <seg>严格来讲，ISO 语言编码标准要求为"xx-YY" 例如英国英语 British English 语言编码为"en-GB" )； 虽然OmegaT 支持这种变体，可是OmegaT提供的默认编码格式为 "XX-YY"，如"EN-GB"。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>String showing the differences between the source and the match.&lt;e0&gt; Hint:&lt;/e0&gt; use this if the text you are translating has been updated.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Doris" changedate="20180419T015033Z" creationid="Doris" creationdate="20180419T015033Z">
+        <seg>显示源片段和匹配片段之间差异的字符串&lt;e0&gt;提示：&lt;/e0&gt;如果正在翻译的文本已更新，则使用此功能。</seg>
       </tuv>
     </tu>
     <tu>
