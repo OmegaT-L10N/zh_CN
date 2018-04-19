@@ -41692,6 +41692,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>These are the files present in the /source folder in a format that OmegaT is able to recognize.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Doris" changedate="20180419T022102Z" creationid="Doris" creationdate="20180419T022102Z">
+        <seg>这是在源文件文件夹中OmegaT当前能够识别的文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>These define subsegments that are presented outside the segment in which they are contained (footnotes are a good example).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="anton" changedate="20180416T085705Z" creationid="anton" creationdate="20180416T085705Z">
@@ -54617,6 +54625,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T033349Z">
         <seg>整个项目的片段总数、唯一片段数和已译唯一片段数显示在底部</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>the total number of translatable files in the project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Doris" changedate="20180419T022004Z" creationid="Doris" creationdate="20180419T022004Z">
+        <seg>项目中可翻译文件总数。</seg>
       </tuv>
     </tu>
     <tu>
