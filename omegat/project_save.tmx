@@ -10946,6 +10946,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By default, it is not possible to select words in the source segment using the keyboard rather than the mouse.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Doris" changedate="20180419T013607Z" creationid="Doris" creationdate="20180419T013607Z">
+        <seg>默认情况下，如果不使用鼠标而使用键盘，无法在源片段中选择单词。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By default, left justification is used for Left-To-Right (LTR) languages and right justification for Right-To-Left (RTL) languages.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131031T074949Z">
@@ -31011,6 +31019,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Andrew" changedate="20180413T135935Z" creationid="weiyi" creationdate="20180406T023750Z">
         <seg>按 &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;F&lt;/k3&gt; &lt;/k0&gt;显示上次打开的（而不是新打开）搜索窗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pressing &lt;k0&gt;F2&lt;/k0&gt; key allows to move the cursor into the source segment (or anywhere in the editor) with the keyboard arrows.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Doris" changedate="20180419T014140Z" creationid="Doris" creationdate="20180419T014140Z">
+        <seg>按下&lt;k0&gt;F2&lt;/k0&gt;键可以使用键盘箭头在源片段（或编辑器中的任何位置）中移动光标。</seg>
       </tuv>
     </tu>
     <tu>
