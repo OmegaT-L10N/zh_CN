@@ -20870,8 +20870,8 @@ is to use Java Web Start.</seg>
       <tuv lang="EN">
         <seg>If you right click on the Editor pane, a pop-up menu opens, offering&lt;e0&gt; Cut, Copy, Paste&lt;/e0&gt; (i.e. same functions as &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;X&lt;/k3&gt; &lt;/k1&gt;, &lt;k4&gt; &lt;k5&gt;Ctrl&lt;/k5&gt; &lt;k6&gt;C&lt;/k6&gt; &lt;/k4&gt; and &lt;k7&gt; &lt;k8&gt;Ctrl&lt;/k8&gt; &lt;k9&gt;V&lt;/k9&gt; &lt;/k7&gt;), &lt;e10&gt;GoTo segment&lt;/e10&gt; and &lt;e11&gt;Add glossary entry&lt;/e11&gt; functions.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Doris" changedate="20180419T012052Z" creationid="Doris" creationdate="20180419T011914Z">
-        <seg>如果在编辑窗格中点击右键，会打开弹出菜单，其中提供了&lt;e0&gt;剪切、复制、粘贴&lt;/e0&gt;（即功能等同于 &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;X&lt;/k3&gt; &lt;/k1&gt;, &lt;k4&gt; &lt;k5&gt;Ctrl&lt;/k5&gt; &lt;k6&gt;C&lt;/k6&gt; &lt;/k4&gt; 和 &lt;k7&gt; &lt;k8&gt;Ctrl&lt;/k8&gt; &lt;k9&gt;V&lt;/k9&gt; &lt;/k7&gt;）；&lt;e10&gt;转到片段&lt;/e10&gt;功能和&lt;e11&gt;添加术语表入口&lt;/e11&gt;功能 。</seg>
+      <tuv lang="ZH-CN" changeid="Doris" changedate="20180419T012100Z" creationid="Doris" creationdate="20180419T011914Z">
+        <seg>如果在编辑窗格中点击右键，会打开弹出菜单，其中提供了&lt;e0&gt;剪切、复制、粘贴&lt;/e0&gt;（即功能等同于 &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;X&lt;/k3&gt; &lt;/k1&gt;, &lt;k4&gt; &lt;k5&gt;Ctrl&lt;/k5&gt; &lt;k6&gt;C&lt;/k6&gt; &lt;/k4&gt; 和 &lt;k7&gt; &lt;k8&gt;Ctrl&lt;/k8&gt; &lt;k9&gt;V&lt;/k9&gt; &lt;/k7&gt;）；&lt;e10&gt;转到片段&lt;/e10&gt;功能和&lt;e11&gt;添加术语表入口&lt;/e11&gt;功能。</seg>
       </tuv>
     </tu>
     <tu>
