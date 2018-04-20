@@ -17960,8 +17960,8 @@ script provided (omegat.kaptn).</seg>
       <tuv lang="EN">
         <seg>For the kaptain script to work, however, you must first install kaptain.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="think" changedate="20180416T085903Z" creationid="think" creationdate="20180416T085903Z">
-        <seg>然而，为了便于kaptain脚本运转，您必须先安装kaptain。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180420T061841Z" creationid="think" creationdate="20180416T085903Z">
+        <seg>然而，为了便于 kaptain 脚本运转，您必须先安装 kaptain 。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19927,8 +19927,8 @@ need not be entered.)</seg>
       <tuv lang="EN">
         <seg>If it is not in your distribution's repository, you can &lt;a0&gt;download it from kaptain.sourceforge.net&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="think" changedate="20180416T090049Z" creationid="think" creationdate="20180416T090049Z">
-        <seg>如果它不在您发行版的存储库中，您可以&lt;a0&gt;download it from kaptain.sourceforge.net&lt;/a0&gt;。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180420T061906Z" creationid="think" creationdate="20180416T090049Z">
+        <seg>如果它不在您发行版的存储库中，您可以 &lt;a0&gt;从 kaptain.sourceforge.net 下载&lt;/a0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24596,8 +24596,8 @@ itself on the first run.</seg>
       <tuv lang="EN">
         <seg>Launching OmegaT from the command line</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="think" changedate="20180416T090307Z" creationid="think" creationdate="20180416T090307Z">
-        <seg>从命令行启动OmegaT</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180420T061925Z" creationid="think" creationdate="20180416T090307Z">
+        <seg>从命令行启动 OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -33886,8 +33886,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Screenshot of the kaptain OmegaT launcher</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="think" changedate="20180416T090145Z" creationid="think" creationdate="20180416T090145Z">
-        <seg>kaptain OmegaT启动器的屏幕截图</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180420T061910Z" creationid="think" creationdate="20180416T090145Z">
+        <seg>kaptain OmegaT 启动器的屏幕截图</seg>
       </tuv>
     </tu>
     <tu>
@@ -38597,8 +38597,8 @@ Please try to correct the error and reload the project.</seg>
       <tuv lang="EN">
         <seg>The bash script is a very basic file that can be edited manually with command-line options for launching and configuring OmegaT.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="think" changedate="20180416T085303Z" creationid="think" creationdate="20180416T085303Z">
-        <seg>bash脚本是一个非常基本的文件，可以通过命令行选项手动编辑，以启动和配置OmegaT。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180420T061752Z" creationid="think" creationdate="20180416T085303Z">
+        <seg>bash 脚本是一个非常基本的文件，可以通过命令行选项手动编辑，以启动和配置 OmegaT 。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39681,8 +39681,8 @@ desktop and in the quick launch area.</seg>
       <tuv lang="EN">
         <seg>The installation script provides added convenience, but you can still install OmegaT on Linux manually if you prefer.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="think" changedate="20180416T090214Z" creationid="think" creationdate="20180416T090214Z">
-        <seg>安装脚本提供了更多的便利，但如果您愿意，仍然可以在Linux上手动安装OmegaT。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180420T061921Z" creationid="think" creationdate="20180416T090214Z">
+        <seg>安装脚本提供了更多的便利，但如果您愿意，仍然可以在 Linux 上手动安装 OmegaT 。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39697,8 +39697,8 @@ desktop and in the quick launch area.</seg>
       <tuv lang="EN">
         <seg>The kaptain script (or "grammar", as kaptain scripts are termed) enables you to select launch and configuration options from a user-friendly GUI.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="think" changedate="20180416T085556Z" creationid="think" creationdate="20180416T085556Z">
-        <seg>kaptain脚本（或者称为kaptain脚本的“语法”）使您能够从一个用户友好的GUI中选择启动和配置选项。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180420T061806Z" creationid="think" creationdate="20180416T085556Z">
+        <seg>kaptain 脚本（或者称为 kaptain 脚本的“语法”）使您能够从一个用户友好的 GUI 中选择启动和配置选项。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48252,8 +48252,8 @@ from there.</seg>
       <tuv lang="EN">
         <seg>You can customize the kaptain launch script so that your preferences are the defaults; simply edit the omegat.kaptn file in a text editor.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="think" changedate="20180416T085731Z" creationid="think" creationdate="20180416T085731Z">
-        <seg>您可以自定义kaptain启动脚本，以使您的偏好设置为默认； 只需在文本编辑器中编辑omegat.kaptn文件即可。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180420T061824Z" creationid="think" creationdate="20180416T085731Z">
+        <seg>您可以自定义 kaptain 启动脚本，以使您的偏好设置为默认； 只需在文本编辑器中编辑 omegat.kaptn 文件即可。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48360,8 +48360,8 @@ from there.</seg>
       <tuv lang="EN">
         <seg>You can for example use it to select the user interface language, assign more memory to OmegaT, or enter a Google Translate password.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="think" changedate="20180416T085623Z" creationid="think" creationdate="20180416T085623Z">
-        <seg>例如，您可以使用它来选择用户界面语言，为OmegaT分配更多内存，或输入Google翻译密码。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180420T061814Z" creationid="think" creationdate="20180416T085623Z">
+        <seg>例如，您可以使用它来选择用户界面语言，为 OmegaT 分配更多内存，或输入  Google 翻译密码。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50110,8 +50110,8 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>creates links from /usr/local/bin to the launch scripts.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="think" changedate="20180416T085228Z" creationid="think" creationdate="20180416T085228Z">
-        <seg>创建从 /usr/local/bin到启动脚本的链接。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180420T061644Z" creationid="think" creationdate="20180416T085228Z">
+        <seg>创建从  /usr/local/bin 到启动脚本的链接。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51934,8 +51934,8 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>includes bash and kaptain launch scripts;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="think" changedate="20180416T085149Z" creationid="think" creationdate="20180416T085149Z">
-        <seg>包括bash和kaptain启动脚本；</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180420T061634Z" creationid="think" creationdate="20180416T085149Z">
+        <seg>包括 bash 和 kaptain 启动脚本；</seg>
       </tuv>
     </tu>
     <tu>
@@ -53614,8 +53614,8 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>places the OmegaT program files in /opt/omegat/OmegaT-&lt;version&gt;;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="think" changedate="20180416T085125Z" creationid="think" creationdate="20180416T085125Z">
-        <seg>将OmegaT程序文件放入/opt/omegat/OmegaT-&lt;version&gt;；</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180420T061627Z" creationid="think" creationdate="20180416T085125Z">
+        <seg>将 OmegaT 程序文件放入 /opt/omegat/OmegaT-&lt;version&gt;；</seg>
       </tuv>
     </tu>
     <tu>
