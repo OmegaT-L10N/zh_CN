@@ -9761,8 +9761,8 @@ The TMX file will not be loaded.</seg>
       <tuv lang="EN">
         <seg>Appearance of fonts in OmegaT on Linux</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180415T053632Z" creationid="lenovo" creationdate="20180415T053632Z">
-        <seg>Linux版OmegaT的字体样式</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180420T062211Z" creationid="lenovo" creationdate="20180415T053632Z">
+        <seg>Linux 版 OmegaT 的字体样式</seg>
       </tuv>
     </tu>
     <tu>
@@ -9907,8 +9907,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>As already mentioned, a bash launch script is provided with OmegaT.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180415T051834Z" creationid="lenovo" creationdate="20180415T051834Z">
-        <seg>如前所述，OmegaT提供了一个bash启动脚本</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180420T062136Z" creationid="lenovo" creationdate="20180415T051834Z">
+        <seg>如前所述， OmegaT 提供了一个 bash 启动脚本</seg>
       </tuv>
     </tu>
     <tu>
@@ -11084,8 +11084,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>By default, the bash launch script is executable, but your system may change its permissions (e.g. during unpacking of the archive) and you may have to make it executable again.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180415T052658Z" creationid="lenovo" creationdate="20180415T052658Z">
-        <seg>默认情况下，bash启动脚本是可执行的，但是您的系统可能会更改其权限（例如在解压缩存档时），您可能需要再次更改权限使其可执行。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180420T062154Z" creationid="lenovo" creationdate="20180415T052658Z">
+        <seg>默认情况下，bash 启动脚本是可执行的，但是您的系统可能会更改其权限（例如在解压缩存档时），您可能需要再次更改权限使其可执行。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20531,8 +20531,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>If you are relying on or wish to use a Java installation that is not installed at system level, this will not be sufficient: you must also instruct your system where to find Java.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="think" changedate="20180416T090734Z" creationid="think" creationdate="20180416T090734Z">
-        <seg>如果您依赖或希望使用未在系统级别安装的Java安装程序，则这还不够：您还必须指示您的系统在哪里查找Java。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180420T062021Z" creationid="think" creationdate="20180416T090734Z">
+        <seg>如果您依赖或希望使用未在系统级别安装的 Java 安装程序，则这还不够：您还必须指示您的系统在哪里查找 Java 。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20837,16 +20837,16 @@ is to use Java Web Start.</seg>
       <tuv lang="EN">
         <seg>If you have installed a version of OmegaT with JRE supplied, the launch script supplied already contains this path for you.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="think" changedate="20180416T090807Z" creationid="think" creationdate="20180416T090807Z">
-        <seg>如果您已经安装了提供JRE的OmegaT版本，则提供的启动脚本已经为您包含此路径。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180420T062034Z" creationid="think" creationdate="20180416T090807Z">
+        <seg>如果您已经安装了提供  JRE 的 OmegaT 版本，则提供的启动脚本已经为您包含此路径。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>If you have installed an additional version of Java but have not made it the default version at system level, you must include the whole path of the Java binary in the launch command.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="think" changedate="20180416T090838Z" creationid="think" creationdate="20180416T090838Z">
-        <seg>如果您已经安装了额外版本的Java，但尚未将其作为系统级别的默认版本，则必须在启动命令中包含Java二进制文件的完整路径。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180420T062043Z" creationid="think" creationdate="20180416T090838Z">
+        <seg>如果您已经安装了额外版本的 Java ，但尚未将其作为系统级别的默认版本，则必须在启动命令中包含 Java 二进制文件的完整路径。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22282,8 +22282,8 @@ click on that shortcut.</seg>
       <tuv lang="EN">
         <seg>In your launch script, do not confuse the path to OmegaT.jar and the path to the java command.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="think" changedate="20180416T091120Z" creationid="think" creationdate="20180416T091120Z">
-        <seg>在启动脚本中，不要混淆OmegaT.jar的路径和java命令的路径。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180420T062108Z" creationid="think" creationdate="20180416T091120Z">
+        <seg>在启动脚本中，不要混淆 OmegaT.jar 的路径和 java 命令的路径。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24588,8 +24588,8 @@ itself on the first run.</seg>
       <tuv lang="EN">
         <seg>Launching OmegaT from a launch script</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180415T051443Z" creationid="lenovo" creationdate="20180415T051443Z">
-        <seg>从启动脚本运行OmegaT</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180420T062128Z" creationid="lenovo" creationdate="20180415T051443Z">
+        <seg>从启动脚本运行 OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -26802,8 +26802,8 @@ appropriate location such as the Applications folder.</seg>
       <tuv lang="EN">
         <seg>Navigate to the folder containing the file OmegaT.jar, e.g.:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="think" changedate="20180416T090442Z" creationid="think" creationdate="20180416T090442Z">
-        <seg>导航到包含文件OmegaT.jar的文件夹，例如：</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180420T061936Z" creationid="think" creationdate="20180416T090442Z">
+        <seg>导航到包含文件 OmegaT.jar 的文件夹，例如：</seg>
       </tuv>
     </tu>
     <tu>
@@ -28373,8 +28373,8 @@ appropriate location such as the Applications folder.</seg>
       <tuv lang="EN">
         <seg>OmegaT does not have to be launched from the command line, but doing so may be useful as it provides debugging information.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="think" changedate="20180416T090347Z" creationid="think" creationdate="20180416T090347Z">
-        <seg>OmegaT不一定要从命令行启动，但这样做可能很有用，因为它提供了调试信息。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180420T061930Z" creationid="think" creationdate="20180416T090347Z">
+        <seg>OmegaT 不一定要从命令行启动，但这样做可能很有用，因为它提供了调试信息。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29374,8 +29374,8 @@ installed on your system.</seg>
       <tuv lang="EN">
         <seg>Once this has been copied or linked to your execution path (done automatically if you use the installation script provided), you can launch OmegaT by hitting &lt;i0&gt;Alt+F2&lt;/i0&gt;, then typing in &lt;i1&gt;omegat&lt;/i1&gt; and conforming with ENTER.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180415T052156Z" creationid="lenovo" creationdate="20180415T052156Z">
-        <seg>一旦该脚本被复制或链接到执行路径（如果你使用提供的安装脚本则会自动完成），可以通过点击&lt;i0&gt; Alt + F2 &lt;/ i0&gt;然后键入&lt;i1&gt; omegat &lt;/ i1&gt;来启动OmegaT &gt;，之后敲击ENTER来确认。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180420T062144Z" creationid="lenovo" creationdate="20180415T052156Z">
+        <seg>一旦该脚本被复制或链接到执行路径（如果你使用提供的安装脚本则会自动完成），可以通过点击&lt;i0&gt; Alt + F2 &lt;/ i0&gt;然后键入&lt;i1&gt; omegat &lt;/ i1&gt;来启动OmegaT &gt;，之后敲击 ENTER 来确认。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38156,8 +38156,8 @@ current folder will be used instead.</seg>
       <tuv lang="EN">
         <seg>The Java version used (the same font may appear quite different on Sun and OpenJDK versions of Java)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180415T130501Z" creationid="lenovo" creationdate="20180415T130501Z">
-        <seg>所使用的Java版本（在Java的Sun和OpenJDK版本上，相同的字体可能显示的样式不同）</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180420T062234Z" creationid="lenovo" creationdate="20180415T130501Z">
+        <seg>所使用的 Java 版本（在 Java 的 Sun 和 OpenJDK 版本上，相同的字体可能显示的样式不同）</seg>
       </tuv>
     </tu>
     <tu>
@@ -38533,8 +38533,8 @@ Please try to correct the error and reload the project.</seg>
       <tuv lang="EN">
         <seg>The appearance of fonts in OmegaT on Linux may differ widely, according to:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180415T125223Z" creationid="lenovo" creationdate="20180415T125223Z">
-        <seg>Linux版OmegaT的字体样式由于以下因素可能会有较大差异：</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180420T062217Z" creationid="lenovo" creationdate="20180415T125223Z">
+        <seg>Linux版 OmegaT 的字体样式由于以下因素可能会有较大差异：</seg>
       </tuv>
     </tu>
     <tu>
@@ -39319,8 +39319,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The first (with the cd command) is needed if your launch script is not in the same folder as OmegaT.jar.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180415T045837Z" creationid="lenovo" creationdate="20180415T045837Z">
-        <seg>如果启动脚本与OmegaT.jar不在同一文件夹中，则需要使用OmegaT.jar的路径（以及cd命令）。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180420T062117Z" creationid="lenovo" creationdate="20180415T045837Z">
+        <seg>如果启动脚本与 OmegaT.jar 不在同一文件夹中，则需要使用 OmegaT.jar 的路径（以及cd命令）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40675,8 +40675,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>The second is needed if the Java version you wish to use is not the default installation at system level.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180415T050824Z" creationid="lenovo" creationdate="20180415T050824Z">
-        <seg>如果您希望使用的Java版本不是系统默认的安装版本，则需要使用java命令的 路径。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180420T062125Z" creationid="lenovo" creationdate="20180415T050824Z">
+        <seg>如果您希望使用的 Java 版本不是系统默认的安装版本，则需要使用 java 命令的 路径。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41460,8 +41460,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>Then enter the launch command itself, and confirm with ENTER.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="think" changedate="20180416T090523Z" creationid="think" creationdate="20180416T090523Z">
-        <seg>然后输入启动命令本身，并用ENTER确认。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180420T062001Z" creationid="think" creationdate="20180416T090523Z">
+        <seg>然后输入启动命令本身，并用 ENTER 确认。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43233,8 +43233,8 @@ the server.</seg>
       <tuv lang="EN">
         <seg>This will be something like /usr/lib/jvm/java-6-sun-1.6.0.16/jre/bin/java; make a note of where Java is installed during installation so that you can find it again.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="think" changedate="20180416T090936Z" creationid="think" creationdate="20180416T090936Z">
-        <seg>这将类似/usr/lib/jvm/java-6-sun-1.6.0.16/jre/bin/java；在安装期间记录下安装Java的位置，以便您可以再次找到它。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180420T062059Z" creationid="think" creationdate="20180416T090936Z">
+        <seg>这将类似 /usr/lib/jvm/java-6-sun-1.6.0.16/jre/bin/java ；在安装期间记录下安装 Java 的位置，以便您可以再次找到它。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43851,8 +43851,8 @@ the server.</seg>
       <tuv lang="EN">
         <seg>To make launching OmegaT even more user-friendly, add it to your application launch menu, or place a launch icon for it on your desktop or in your desktop panel.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180415T053147Z" creationid="lenovo" creationdate="20180415T053122Z">
-        <seg>为了以更加用户友好的方式启动OmegaT，可以将其添加到您的应用程序启动菜单中或者在桌面上设置启动图标。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180420T062204Z" creationid="lenovo" creationdate="20180415T053122Z">
+        <seg>为了以更加用户友好的方式启动 OmegaT ，可以将其添加到您的应用程序启动菜单中或者在桌面上设置启动图标。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46065,8 +46065,8 @@ searchable without subscription:</seg>
       <tuv lang="EN">
         <seg>User-friendly launching of OmegaT</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180415T053132Z" creationid="lenovo" creationdate="20180415T052756Z">
-        <seg>通过用户友好方式启动OmegaT</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180420T062158Z" creationid="lenovo" creationdate="20180415T052756Z">
+        <seg>通过用户友好方式启动 OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -49493,8 +49493,8 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>and confirm with ENTER.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="think" changedate="20180416T090504Z" creationid="think" creationdate="20180416T090504Z">
-        <seg>并用ENTER确认。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180420T061946Z" creationid="think" creationdate="20180416T090504Z">
+        <seg>并用 ENTER 键确认。</seg>
       </tuv>
     </tu>
     <tu>
