@@ -37915,8 +37915,8 @@ current folder will be used instead.</seg>
       <tuv lang="EN">
         <seg>The &lt;a0&gt;Java Development Kit&lt;/a0&gt; is required.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="liufang" changedate="20180416T121614Z" creationid="liufang" creationdate="20180416T121614Z">
-        <seg>&lt;a0&gt; Java开发工具包&lt;/ a0&gt;是必需的。</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180420T021923Z" creationid="liufang" creationdate="20180416T121614Z">
+        <seg>&lt;a0&gt; Java开发工具包&lt;/a0&gt;是必需的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42065,8 +42065,8 @@ the server.</seg>
       <tuv lang="EN">
         <seg>This HowTo describes how to compile OmegaT from the source code.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="liufang" changedate="20180416T121500Z" creationid="liufang" creationdate="20180416T121500Z">
-        <seg>这篇如何描述如何从源代码编译OmegaT。.</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180420T021914Z" creationid="liufang" creationdate="20180416T121500Z">
+        <seg>这篇如何描述如何从源代码编译OmegaT。</seg>
       </tuv>
     </tu>
     <tu>
