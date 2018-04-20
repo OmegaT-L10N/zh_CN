@@ -43723,8 +43723,8 @@ the server.</seg>
       <tuv lang="EN">
         <seg>To identify yourself as a valid user for the Google services, you use your private unique key sent to you by Google, when you have registered for the service.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T032225Z" creationid="Fu Rhong" creationdate="20131117T032225Z">
-        <seg>为了向谷歌服务表明您是合法用户，您需要使用在注册服务后谷歌发给您的唯一的私匙。</seg>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180420T082054Z" creationid="Fu Rhong" creationdate="20131117T032225Z">
+        <seg>为了向谷歌服务表明您是合法用户，您需要使用在注册服务后谷歌发给您的唯一的API Key。</seg>
       </tuv>
     </tu>
     <tu>
