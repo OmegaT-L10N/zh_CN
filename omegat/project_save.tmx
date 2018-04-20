@@ -38188,8 +38188,8 @@ current folder will be used instead.</seg>
       <tuv lang="EN">
         <seg>The Linux version of OmegaT is now supplied with its own installation script, linux-install.sh.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="think" changedate="20180416T085019Z" creationid="think" creationdate="20180416T085019Z">
-        <seg>Linux版本的OmegaT现在提供了自己的安装脚本linux-install.sh。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180420T061551Z" creationid="think" creationdate="20180416T085019Z">
+        <seg>Linux 版本的 OmegaT 现在提供了自己的安装脚本 linux-install.sh 。</seg>
       </tuv>
     </tu>
     <tu>
