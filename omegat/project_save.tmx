@@ -13047,8 +13047,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Copyright Marc Prior 2010-2012</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180415T142711Z" creationid="lenovo" creationdate="20180415T142711Z">
-        <seg>版权归属于Marc Prior 2010-2011</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180420T062336Z" creationid="lenovo" creationdate="20180415T142711Z">
+        <seg>版权归属于 Marc Prior 2010-2011</seg>
       </tuv>
     </tu>
     <tu>
@@ -14055,16 +14055,16 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Delete the OmegaT program folder.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180415T131839Z" creationid="lenovo" creationdate="20180415T131839Z">
-        <seg>删除OmegaT 项目文件夹.</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180420T062252Z" creationid="lenovo" creationdate="20180415T131839Z">
+        <seg>删除 OmegaT 项目文件夹.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Delete the folder /home/&lt;user&gt;/.omegat of any user account from which OmegaT has been launched.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180415T142335Z" creationid="lenovo" creationdate="20180415T132029Z">
-        <seg>删除OmegaT建立的所有用户帐户的文件夹：/home/&lt;user&gt;/.omegat。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180420T062301Z" creationid="lenovo" creationdate="20180415T132029Z">
+        <seg>删除 OmegaT 建立的所有用户帐户的文件夹： /home/&lt;user&gt;/.omegat。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43915,8 +43915,8 @@ the server.</seg>
       <tuv lang="EN">
         <seg>To remove all traces of OmegaT from your system:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180415T131818Z" creationid="lenovo" creationdate="20180415T131818Z">
-        <seg>从系统中删除所有OmegaT的内容：</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180420T062247Z" creationid="lenovo" creationdate="20180415T131818Z">
+        <seg>从系统中删除所有 OmegaT 的内容：</seg>
       </tuv>
     </tu>
     <tu>
@@ -45210,16 +45210,16 @@ Exact searches match the whole search string.</seg>
       <tuv lang="EN">
         <seg>Uninstalling OmegaT</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180415T131613Z" creationid="lenovo" creationdate="20180415T131613Z">
-        <seg>卸载OmegaT</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180420T062242Z" creationid="lenovo" creationdate="20180415T131613Z">
+        <seg>卸载 OmegaT</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Uninstalling OmegaT will not remove any OmegaT projects from your system, unless you have placed such projects within the OmegaT program or configuration files folder(s), which is not a good location for them in any case.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180415T142648Z" creationid="lenovo" creationdate="20180415T142648Z">
-        <seg>卸载OmegaT不会从您的系统中删除任何OmegaT项目，除非您将这些项目放入了OmegaT程序或配置文件的文件夹中，最好不要将这些文件放在这些位置。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180420T062323Z" creationid="lenovo" creationdate="20180415T142648Z">
+        <seg>卸载 OmegaT 不会从您的系统中删除任何 OmegaT 项目，除非您将这些项目放入了 OmegaT 程序或配置文件的文件夹中，最好不要将这些文件放在这些位置。</seg>
       </tuv>
     </tu>
     <tu>
