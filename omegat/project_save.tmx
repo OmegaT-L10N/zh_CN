@@ -15498,8 +15498,8 @@ project_save.tmx未真正上传，SVN切换到不稳定状态。</seg>
       <tuv lang="EN">
         <seg>Earlier versions of OmegaT require &lt;a0&gt;Apache Ant&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="liufang" changedate="20180416T121639Z" creationid="liufang" creationdate="20180416T121639Z">
-        <seg>早期版本的OmegaT需要&lt;a0&gt; Apache Ant &lt;/ a0&gt;。</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180420T022000Z" creationid="liufang" creationdate="20180416T121639Z">
+        <seg>早期版本的OmegaT需要&lt;a0&gt; Apache Ant &lt;/a0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26794,8 +26794,8 @@ appropriate location such as the Applications folder.</seg>
       <tuv lang="EN">
         <seg>Navigate to the root of the OmegaT source code (the folder containing the file &lt;c0&gt;build.gradle&lt;/c0&gt;), e.g.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="liufang" changedate="20180416T121803Z" creationid="liufang" creationdate="20180416T121803Z">
-        <seg>例如，导航到OmegaT源代码的根目录（包含文件&lt;c0&gt; build.gradle &lt;/ c0&gt;的文件夹）。</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180420T022031Z" creationid="liufang" creationdate="20180416T121803Z">
+        <seg>例如，导航到OmegaT源代码的根目录（包含文件&lt;c0&gt; build.gradle &lt;/c0&gt;的文件夹）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48739,8 +48739,8 @@ Finder window to be able to launch it from any location.</seg>
       <tuv lang="EN">
         <seg>You may have to set your &lt;c0&gt;JAVA_HOME&lt;/c0&gt; environment variable to point to the location of the JDK.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="liufang" changedate="20180416T121657Z" creationid="liufang" creationdate="20180416T121657Z">
-        <seg>您可能必须将您的&lt;c0&gt; JAVA_HOME &lt;/ c0&gt;环境变量设置为指向JDK的位置。</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180420T022006Z" creationid="liufang" creationdate="20180416T121657Z">
+        <seg>您可能必须将您的&lt;c0&gt; JAVA_HOME &lt;/c0&gt;环境变量设置为指向JDK的位置。</seg>
       </tuv>
     </tu>
     <tu>
