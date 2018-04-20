@@ -24,8 +24,8 @@
       <tuv lang="EN">
         <seg>"Google Translate returned HTTP response code: 403 ...": check that the 38-characters key, entered in the pinfo.list file, is correct.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120209T120812Z">
-        <seg>"Google Translate returned HTTP response code: 403 ..."：请检查 38 个字符的密钥，输入到 pinfo.list 文件时是否正确。</seg>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180420T082146Z">
+        <seg>"Google Translate returned HTTP response code: 403 ..."：请检查 38 个字符的API Key，输入到 pinfo.list 文件时是否正确。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18772,8 +18772,8 @@ script provided (omegat.kaptn).</seg>
       <tuv lang="EN">
         <seg>Google Translate does not work: - with the Google API key entered as requested.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T095629Z" creationid="Fu Rhong" creationdate="20131117T095629Z">
-        <seg>谷歌翻译无法工作：请在请求时输入谷歌API密钥。</seg>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180420T082426Z" creationid="Fu Rhong" creationdate="20131117T095629Z">
+        <seg>谷歌翻译无法工作：请在请求时输入谷歌API Key。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21704,8 +21704,8 @@ click on that shortcut.</seg>
       <tuv lang="EN">
         <seg>In order to be able to use Yandex Translate in OmegaT, you need to &lt;u0&gt;obtain an API key from Yandex&lt;/u0&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180405T150040Z" creationid="weiyi" creationdate="20180405T150040Z">
-        <seg>若需使用OmegaT中的Yandex Translate，您需 &lt;u0&gt;从Yandex获得API密钥&lt;/u0&gt;。</seg>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180420T082137Z" creationid="weiyi" creationdate="20180405T150040Z">
+        <seg>若需使用OmegaT中的Yandex Translate，您需 &lt;u0&gt;从Yandex获得API Key&lt;/u0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40123,8 +40123,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>The obtained API key needs to be passed to OmegaT at startup through &lt;c0&gt;yandex.api.key&lt;/c0&gt; command-line parameter.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180405T150323Z" creationid="weiyi" creationdate="20180405T150323Z">
-        <seg>获得的API密钥需启动时通过 &lt;c0&gt;yandex.api.key&lt;/c0&gt; 命令行参数传入在OmegaT。</seg>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180420T082107Z" creationid="weiyi" creationdate="20180405T150323Z">
+        <seg>获得的API Key需启动时通过 &lt;c0&gt;yandex.api.key&lt;/c0&gt; 命令行参数传入在OmegaT。</seg>
       </tuv>
     </tu>
     <tu>
