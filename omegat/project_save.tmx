@@ -40,8 +40,8 @@
       <tuv lang="EN">
         <seg>"Non-unique segment" covers both default and alternative translations.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T134354Z" creationid="Zoe" creationdate="20180411T132350Z">
-        <seg>“非独特片段”包含默认和可选翻译</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180420T021702Z" creationid="Zoe" creationdate="20180411T132350Z">
+        <seg>“非唯一片段”包含默认和可选翻译</seg>
       </tuv>
     </tu>
     <tu>
@@ -1794,8 +1794,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>(If Options &gt; View &gt; "Include the first non-unique segment when marking non-unique segments" is selected, all non-unique segments including the first are marked in this way.)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T115234Z" creationid="Zoe" creationdate="20180411T114134Z">
-        <seg>（如果选项&gt;浏览&gt;“标记非独特片段时包含第一个非独特片段”被选中，所有非独特片段包括第一个非独特片段将均按此方式标记）</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180420T021702Z" creationid="Zoe" creationdate="20180411T114134Z">
+        <seg>（如果选项&gt;浏览&gt;“标记非唯一片段时包含第一个非唯一片段”被选中，所有非唯一片段包括第一个非唯一片段将均按此方式标记）</seg>
       </tuv>
     </tu>
     <tu>
@@ -3783,8 +3783,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;b0&gt;Mark Non-Unique Segments&lt;/b0&gt;: identical segments are marked in grey (changes the display, but not the behaviour).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T130259Z" creationid="Zoe" creationdate="20180411T130259Z">
-        <seg>&lt;b0&gt;标记非独特片段&lt;/b0&gt;：相同片段都用灰色标记（改变显示，而非行为）。</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180420T021702Z" creationid="Zoe" creationdate="20180411T130259Z">
+        <seg>&lt;b0&gt;标记非唯一片段&lt;/b0&gt;：相同片段都用灰色标记（改变显示，而非行为）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12651,8 +12651,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Consequently, segments that are marked (with the grey font) as being non-unique are marked as non-unique irrespective of whether alternative translations have been created or not.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T134400Z" creationid="Zoe" creationdate="20180411T132653Z">
-        <seg>因此，（用灰色字体）标记为非独特的片段，无论可选翻译是否被创建均被标记为非独特片段。</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180420T021702Z" creationid="Zoe" creationdate="20180411T132653Z">
+        <seg>因此，（用灰色字体）标记为非独特的片段，无论可选翻译是否被创建均被标记为非唯一片段。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19623,8 +19623,8 @@ need not be entered.)</seg>
       <tuv lang="EN">
         <seg>If Options &gt; Editing Behaviour &gt; "Go To Next Untranslated Segment stops when there is at least one alternative translation" is selected however and at least one alternative translation of a non-unique segment has been created, this function treats all instances of that segment (whether default or alternative translations) as untranslated, i.e. does not skip them.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T133948Z" creationid="Zoe" creationdate="20180411T133134Z">
-        <seg>如果选项&gt;编辑行为&gt;“当至少有一种可选翻译时前往下一未翻译片段”被选中，并且一个非独特片段至少创建了一种可选翻译，该功能将该片段的所有实例（不管是默认翻译还是可选翻译）视为未翻译，即不会跳过这些片段。</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180420T021702Z" creationid="Zoe" creationdate="20180411T133134Z">
+        <seg>如果选项&gt;编辑行为&gt;“当至少有一种可选翻译时前往下一未翻译片段”被选中，并且一个非唯一片段至少创建了一种可选翻译，该功能将该片段的所有实例（不管是默认翻译还是可选翻译）视为未翻译，即不会跳过这些片段。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20773,8 +20773,8 @@ is to use Java Web Start.</seg>
       <tuv lang="EN">
         <seg>If you have already translated an instance of a non-unique segment and wish to make a different instance of the non-unique segment the default translation without changing the translation of the instance you have already translated, you must first set the status of the segment you have already translated to "alternative translation" using "Create Alternative Translation".</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T134157Z" creationid="Zoe" creationdate="20180411T123841Z">
-        <seg>如果你已经翻译过一例非独特片段，并且希望为这非独特片段制作一种不同的默认翻译，同时还不想改变已经翻译过的实例的译文，你必须先用“创建可选翻译”将已翻译片段设定为“可选翻译”状态，</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180420T021702Z" creationid="Zoe" creationdate="20180411T123841Z">
+        <seg>如果你已经翻译过一例非唯一片段，并且希望为这非唯一片段制作一种不同的默认翻译，同时还不想改变已经翻译过的实例的译文，你必须先用“创建可选翻译”将已翻译片段设定为“可选翻译”状态，</seg>
       </tuv>
     </tu>
     <tu>
@@ -26955,8 +26955,8 @@ appropriate location such as the Applications folder.</seg>
       <tuv lang="EN">
         <seg>Next Uni&amp;que Segment</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180407T141859Z" creationid="lenovo" creationdate="20180407T141859Z">
-        <seg>下一个独特片段(&amp;q)t</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180420T021711Z" creationid="lenovo" creationdate="20180407T141859Z">
+        <seg>下一个唯一片段(&amp;Q)</seg>
       </tuv>
     </tu>
     <tu>
@@ -42505,8 +42505,8 @@ the server.</seg>
       <tuv lang="EN">
         <seg>This has the effect of making all instances of non-unique segments alternative translations (see "One-to-many matching" below).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T134020Z" creationid="Zoe" creationdate="20180411T120324Z">
-        <seg>该操作可以为所有非独特片段实例制作可选翻译（见下方“一对多匹配”）。</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180420T021702Z" creationid="Zoe" creationdate="20180411T120324Z">
+        <seg>该操作可以为所有非唯一片段实例制作可选翻译（见下方“一对多匹配”）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -55223,8 +55223,8 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>viewMarkNonUniqueSegmentsCheckBoxMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T133649Z">
-        <seg>查看标记非独特片段复选框菜单项</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180420T021702Z">
+        <seg>查看标记非唯一片段复选框菜单项</seg>
       </tuv>
     </tu>
     <tu>
