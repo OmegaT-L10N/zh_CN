@@ -1160,8 +1160,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Preferences...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180407T145645Z" creationid="lenovo" creationdate="20180407T145645Z">
-        <seg>偏好(&amp;P)</seg>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180420T021735Z" creationid="lenovo" creationdate="20180407T145645Z">
+        <seg>偏好设置(&amp;P)</seg>
       </tuv>
     </tu>
     <tu>
