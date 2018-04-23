@@ -728,8 +728,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Enable history completion</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180423T113507Z" creationid="lenovo" creationdate="20180407T145428Z">
-        <seg>启用完成历史(&amp;E)</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180423T113928Z" creationid="lenovo" creationdate="20180407T145428Z">
+        <seg>启用历史完成(&amp;E)</seg>
       </tuv>
     </tu>
     <tu>
