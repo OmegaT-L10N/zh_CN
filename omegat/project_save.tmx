@@ -10754,6 +10754,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Blog pages on OmegaT.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T124036Z" creationid="Zenobia Fang" creationdate="20180423T124036Z">
+        <seg>OmegaT相关博客.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Blogs</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T123430Z" creationid="Zenobia Fang" creationdate="20180423T123430Z">
@@ -53276,6 +53284,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>on translation and the &lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T124009Z" creationid="Zenobia Fang" creationdate="20180423T123922Z">
+        <seg>关于翻译和 &lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>one char left, but not further than the beginning of segment</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120130T052953Z">
@@ -54953,6 +54969,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131031T075246Z">
         <seg>和原文相同的译文（缺省）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>translation industry</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T123915Z" creationid="Zenobia Fang" creationdate="20180423T123915Z">
+        <seg>翻译产业</seg>
       </tuv>
     </tu>
     <tu>
