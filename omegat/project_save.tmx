@@ -7578,8 +7578,16 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;s1&gt;The benefit&lt;/s1&gt;: once launched, future updates of the Web Start version will be installed automatically on your computer.&lt;br2/&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T125551Z" creationid="Zenobia Fang" creationdate="20180423T125551Z">
-        <seg>&lt;s1&gt;优点&lt;/s1&gt;: once launched, future updates of the Web Start version will be installed automatically on your computer.&lt;br2/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T125804Z" creationid="Zenobia Fang" creationdate="20180423T125551Z">
+        <seg>&lt;s1&gt;优点&lt;/s1&gt;: 一旦启动，网页启动版本之后的更新将自动安装在您的电脑上。&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s3&gt;The drawback&lt;/s3&gt;: at present, this version cannot be used in conjunction with plug-ins, so not all functions are available.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T125929Z" creationid="Zenobia Fang" creationdate="20180423T125929Z">
+        <seg>&lt;s3&gt;调查问卷&lt;/s3&gt;: 目前，该版本不能和插件一起使用，因此部分功能不可用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38557,8 +38565,8 @@ Please try to correct the error and reload the project.</seg>
       <tuv lang="EN">
         <seg>The Web Start version is the "install and forget" version.&lt;br0/&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T125515Z" creationid="Zenobia Fang" creationdate="20180423T125515Z">
-        <seg>进入网页版本为“安装及忘记'版本。The Web Start version is the "install and forget" version.&lt;br0/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T125645Z" creationid="Zenobia Fang" creationdate="20180423T125515Z">
+        <seg>网页启动版本为“简单安装'版本。&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
