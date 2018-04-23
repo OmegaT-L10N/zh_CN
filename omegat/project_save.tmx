@@ -41442,6 +41442,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The version for installation by the user, familiar to existing OmegaT users.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T125036Z" creationid="Zenobia Fang" creationdate="20180423T125036Z">
+        <seg>用户安装的版本， OmegaT 现有用户较为熟悉。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The vocabulary entry can have a comment added.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131116T114503Z" creationid="Fu Rhong" creationdate="20131116T114332Z">
