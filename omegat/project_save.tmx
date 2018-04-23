@@ -13807,8 +13807,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Current memory usage by the VM: {0}MB; of which free memory: {1}MB; maximum available: {2}MB</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180407T132908Z" creationid="lenovo" creationdate="20180407T132807Z">
-        <seg>当前的虚拟内存使用：{0}兆字节，其中可用内存：{1}兆字节，最大可用：{2}兆字节;</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180423T103649Z" creationid="lenovo" creationdate="20180407T132807Z">
+        <seg>当前虚拟内存使用：{0}兆字节；其中可用内存：{1}兆字节；最大可用：{2}兆字节。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48949,8 +48949,8 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>Your project does not contain any files in a supported file format.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130505T161931Z">
-        <seg>项目不包含任何所支持格式的文件。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180423T104235Z">
+        <seg>项目中所有的文件格式都为不可支持的格式</seg>
       </tuv>
     </tu>
     <tu>
