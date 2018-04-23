@@ -10033,6 +10033,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As its name suggests, the "Latest" version of Omegat is more up to date.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T134636Z" creationid="Zenobia Fang" creationdate="20180423T134636Z">
+        <seg>顾名思义，“最新”指最新版本的 OmegaT。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As its name suggests, this script automatically strips the tags out of an OmegaT (target) segment.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Zoe" changedate="20180412T152121Z" creationid="Zoe" creationdate="20180412T152057Z">
@@ -10614,6 +10622,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130509T154241Z">
         <seg>Base64 (public domain)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Based on your choices, we recommand you use:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T134929Z" creationid="Zenobia Fang" creationdate="20180423T134929Z">
+        <seg>根据您的选择，我们推荐您使用：</seg>
       </tuv>
     </tu>
     <tu>
@@ -19467,6 +19483,14 @@ script provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, the user manual may no longer be up to date (and therefore possibly confusing), and some minor bugs are possible.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T134754Z" creationid="Zenobia Fang" creationdate="20180423T134754Z">
+        <seg>但是，用户手册可能不再是最新版本（因此可能会让人困惑），并且可能会出现小错误。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, you should take precautions against data loss when using &lt;a1&gt;OmegaT&lt;/a1&gt;, just as with any other application.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120211T135656Z">
@@ -27028,6 +27052,14 @@ appropriate location such as the Applications folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
         <seg>尼泊尔语</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Nevertheless, the "Latest" versions of OmegaT are usually very stable and are recommended for any users who already have some experience with OmegaT.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T134857Z" creationid="Zenobia Fang" creationdate="20180423T134857Z">
+        <seg>尽管如此，OmegaT 的“最新”版本通常非常稳定，推荐已有过使用 OmegaT 经验的用户使用。</seg>
       </tuv>
     </tu>
     <tu>
