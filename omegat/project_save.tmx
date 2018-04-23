@@ -28699,6 +28699,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT has been successfully installed on Windows (all versions from 98 onwards), Macintosh OS X and Linux.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T140159Z" creationid="Zenobia Fang" creationdate="20180423T140159Z">
+        <seg>OmegaT 已在 Windows（除 98 外的所有版本）、Micintosh OS has been successfully installed on Windows (all versions from 98 onwards), Macintosh OS X and Linux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT has chosen option 'Yes' automatically.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T023437Z">
@@ -38446,6 +38454,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Puzzlist" changedate="20130922T041730Z" creationid="Puzzlist" creationdate="20130922T041730Z">
         <seg>在 Mac OS X 10.7 (Lion) 之前的 Mac OS X 版本中都安装了 JRE。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The JRE is now supplied with OmegaT and need not be obtained separately.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T135426Z" creationid="Zenobia Fang" creationdate="20180423T135426Z">
+        <seg>OmegaT 会自带 JRE，不需要单独下载。</seg>
       </tuv>
     </tu>
     <tu>
