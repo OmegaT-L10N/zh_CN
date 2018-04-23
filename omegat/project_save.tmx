@@ -3052,8 +3052,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>1) Reduce the number of source files and translate in batches;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Puzzlist" changedate="20130922T035524Z">
-        <seg>1)减少原文数量并分批进行翻译。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180423T102521Z">
+        <seg>1)减少原文数量并分批进行翻译；</seg>
       </tuv>
     </tu>
     <tu>
@@ -3111,8 +3111,8 @@ specifying "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" on the
 command line or in the OmegaT start script;
 The current setting is {0}MB;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Puzzlist" changedate="20130922T035527Z">
-        <seg>2)通过在命令行或 OmegaT 启动脚本中指定 "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" 增加 OmegaT 的可用内存；当前设置为 {0} 兆字节；</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180423T102543Z">
+        <seg>2)通过在命令行或 OmegaT 启动脚本中指定 "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" 增加 OmegaT 的可用内存；                                                        当前设置为 {0} 兆字节；</seg>
       </tuv>
     </tu>
     <tu>
@@ -8042,8 +8042,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>A&amp;dd</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T022732Z">
-        <seg>新增(&amp;d)</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180423T102302Z">
+        <seg>新增(&amp;D)</seg>
       </tuv>
     </tu>
     <tu>
@@ -28828,8 +28828,8 @@ to be launched.</seg>
       <tuv lang="EN">
         <seg>OmegaT ran out of memory, and will quit when you press OK.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T022926Z">
-        <seg>OmegaT 耗尽内存，将会在点击确定后退出。</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180423T102450Z">
+        <seg>OmegaT内存耗尽，将会在点击“确定”后退出。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33212,8 +33212,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Restore De&amp;faults</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105441Z">
-        <seg>还原默认设置(&amp;f)</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180423T102309Z">
+        <seg>还原默认设置(&amp;F)</seg>
       </tuv>
     </tu>
     <tu>
