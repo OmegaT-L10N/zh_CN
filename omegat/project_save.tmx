@@ -43705,6 +43705,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To check what version of the JRE, if any, is installed on your Linux system, open a console (command-line window) and type:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T132408Z" creationid="Zenobia Fang" creationdate="20180423T132408Z">
+        <seg>查看安装在 Linux 系统上的 JRE 版本，打开控制台（命令行窗口）和类型：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To check whether it works, you can place a TMX file in the /source folder of a project, or (more useful) perform a Text Search &gt; Search files operation on TMX files.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="anton" changedate="20180416T091341Z" creationid="anton" creationdate="20180416T091341Z">
