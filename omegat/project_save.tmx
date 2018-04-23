@@ -17242,6 +17242,22 @@ project_save.tmx未真正上传，SVN切换到不稳定状态。</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Files in Microsoft Office XML format can be translated directly in OmegaT.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T140343Z" creationid="Zenobia Fang" creationdate="20180423T140343Z">
+        <seg>Microsoft Office XML 格式的文件可直接在 OmegaT 中翻译。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Files in older MS Word, Excel and Powerpoint formats can be translated following conversion to the equivalent current Microsoft Office formats, or alternatively to the Office Open XML format, which can be done in OpenOffice.org or LibreOffice (also free).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T141921Z" creationid="Zenobia Fang" creationdate="20180423T141921Z">
+        <seg>旧的 MS Word、Excel 和 Powerpoint 格式的文件可以在转换到等效的 Microsoft Office 格式文件后翻译，或者也可使用 OpenOffice.org 或 LibreOffice（同样免费）中转换成 Office Open XML 格式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Files to translate</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
@@ -28701,8 +28717,8 @@ appropriate location such as the Applications folder.</seg>
       <tuv lang="EN">
         <seg>OmegaT has been successfully installed on Windows (all versions from 98 onwards), Macintosh OS X and Linux.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T140159Z" creationid="Zenobia Fang" creationdate="20180423T140159Z">
-        <seg>OmegaT 已在 Windows（除 98 外的所有版本）、Micintosh OS has been successfully installed on Windows (all versions from 98 onwards), Macintosh OS X and Linux.</seg>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T140305Z" creationid="Zenobia Fang" creationdate="20180423T140159Z">
+        <seg>OmegaT 已在 Windows（除 98 外的所有版本）、Micintosh OS X 及 Linux 上成功安装。 </seg>
       </tuv>
     </tu>
     <tu>
