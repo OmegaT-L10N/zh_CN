@@ -19789,6 +19789,14 @@ need not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If a suitable JRE is already installed on your Windows system, select "Without JRE".</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T131550Z" creationid="Zenobia Fang" creationdate="20180423T131550Z">
+        <seg>如果 Windows 系统中已经下载了适用的 JRE， 选择“不包含 JRE 版本”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If a suitable piece of the work for your language has not yet been started, you can make an entry in the plan to indicate that you have assumed responsibility for it.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T131901Z" creationid="lenovo" creationdate="20180416T131901Z">
@@ -35080,6 +35088,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T114448Z" creationid="Fu Rhong" creationdate="20131117T114448Z">
         <seg>如果当前译文不适合，则选择该菜单项并输入可选译文。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select whether to download OmegaT with or without the Java Runtime Environment (JRE) included.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T131433Z" creationid="Zenobia Fang" creationdate="20180423T131433Z">
+        <seg>选择下载是否包含 Java 运行环境（JRE）的 OmegaT。</seg>
       </tuv>
     </tu>
     <tu>
