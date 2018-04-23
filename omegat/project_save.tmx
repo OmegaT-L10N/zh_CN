@@ -23586,6 +23586,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is the recommended version for first-time users.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T134535Z" creationid="Zenobia Fang" creationdate="20180423T134535Z">
+        <seg>首次使用的用户，推荐使用该版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is the segment that is displayed in two parts.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120218T122756Z">
@@ -24648,6 +24656,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131116T123327Z" creationid="Fu Rhong" creationdate="20131116T123327Z">
         <seg>然后，当您接受了许可协议后，安装程序将询问是否要在&lt;e0&gt;开始&lt;/e0&gt;菜单中创建文件夹以及在桌面和快速启动栏创建快捷方式（以后您可以拖动&lt;e1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt;.exe&lt;/e1&gt;到桌面或开始菜单来创建快捷方式）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Latest</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T134603Z" creationid="Zenobia Fang" creationdate="20180423T134603Z">
+        <seg>最新</seg>
       </tuv>
     </tu>
     <tu>
@@ -38045,6 +38061,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131107T141949Z" creationid="Fu Rhong" creationdate="20131102T030628Z">
         <seg>“Shift”键不会表现出特殊的行为：在按下 "Shift" 时使用上面快捷键也会以相同的方式移动，唯一的例外是&lt;l0&gt;Shift+Enter&lt;/l0&gt;组合键会在文本中插入新行符。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The "Standard" version of OmegaT includes a full user manual (at least in English) and will usually have been tested for some time to eliminate any bugs.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T134444Z" creationid="Zenobia Fang" creationdate="20180423T134444Z">
+        <seg>OmegaT 的“标准”版本包括完整的用户手册（至少包含英文版本），并且通常会经过一段时间的测试以消除 bug。</seg>
       </tuv>
     </tu>
     <tu>
