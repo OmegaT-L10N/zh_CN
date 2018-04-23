@@ -1816,10 +1816,26 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(In English)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T124111Z" creationid="Zenobia Fang" creationdate="20180423T124111Z">
+        <seg>（英语）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(In Italian)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T151034Z" creationid="cpeishan" creationdate="20180407T151034Z">
         <seg>(意大利语)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(In Russian)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T124123Z" creationid="Zenobia Fang" creationdate="20180423T124123Z">
+        <seg>（俄语）</seg>
       </tuv>
     </tu>
     <tu>
@@ -10756,8 +10772,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Blog pages on OmegaT.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T124036Z" creationid="Zenobia Fang" creationdate="20180423T124036Z">
-        <seg>OmegaT相关博客.</seg>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T124055Z" creationid="Zenobia Fang" creationdate="20180423T124036Z">
+        <seg>OmegaT 相关博客.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10988,8 +11004,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>By Marco Cevoli and Sergio Alasia.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T151158Z" creationid="cpeishan" creationdate="20180407T151120Z">
-        <seg>Marco Cevoli and Sergio Alasia.</seg>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T124144Z" creationid="cpeishan" creationdate="20180407T151120Z">
+        <seg>Marco Cevoli 和 Sergio Alasia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20505,6 +20521,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you are confused about which version to download, you can use the &lt;a0&gt;Download selector&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T124451Z" creationid="Zenobia Fang" creationdate="20180423T124451Z">
+        <seg>如果您不确定应下载哪个版本，您可以使用 &lt;a0&gt;下载选择器&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are in any doubt, we recommend that you use the version supplied with JRE.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Puzzlist" changedate="20130922T041419Z" creationid="Puzzlist" creationdate="20130922T041419Z">
@@ -24818,6 +24842,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="puleiying" changedate="20180418T123137Z">
         <seg>链接(&amp;URL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Links are provided below to the various versions of OmegaT.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T124315Z" creationid="Zenobia Fang" creationdate="20180423T124315Z">
+        <seg>提供旧版本的 OmegaT 链接.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46475,8 +46507,8 @@ searchable without subscription:</seg>
       <tuv lang="EN">
         <seg>Velior's corporate blog &lt;br0/&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T123653Z" creationid="Zenobia Fang" creationdate="20180423T123653Z">
-        <seg>Velior的企业博客 &lt;br0/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T124053Z" creationid="Zenobia Fang" creationdate="20180423T123653Z">
+        <seg>Velior 的企业博客 &lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
