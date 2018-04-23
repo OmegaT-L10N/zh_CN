@@ -8058,8 +8058,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>A&amp;uto-completion</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180423T111529Z" creationid="Administrator" creationdate="20131031T060319Z">
-        <seg>自动结束(&amp;U)</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180423T112910Z" creationid="Administrator" creationdate="20131031T060319Z">
+        <seg>自动完成(&amp;U)</seg>
       </tuv>
     </tu>
     <tu>
@@ -10243,8 +10243,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Auto-Completion</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180423T111541Z" creationid="lenovo" creationdate="20180407T145251Z">
-        <seg>自动结束</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180423T112930Z" creationid="lenovo" creationdate="20180407T145251Z">
+        <seg>自动完成</seg>
       </tuv>
     </tu>
     <tu>
