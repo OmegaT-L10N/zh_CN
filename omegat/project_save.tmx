@@ -24964,6 +24964,22 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Legacy versions</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T160501Z" creationid="Zenobia Fang" creationdate="20180423T160501Z">
+        <seg>历史版本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Legacy versions are older versions that have been superseded.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T161655Z" creationid="Zenobia Fang" creationdate="20180423T161655Z">
+        <seg>历史版本是已经被取代的旧版本。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Legal notices</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
@@ -31384,6 +31400,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="18261" changedate="20180412T081336Z" creationid="18261" creationdate="20180412T081336Z">
         <seg> 强大的工具</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pre-built binaries, are available as Nightly Builds.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T160434Z" creationid="Zenobia Fang" creationdate="20180423T160405Z">
+        <seg>预先构建的二进制文件可用作 Nightly Builds。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45326,6 +45350,14 @@ install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Trunk</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T160409Z" creationid="Zenobia Fang" creationdate="20180423T160409Z">
+        <seg>主干</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tsonga</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
@@ -49124,6 +49156,14 @@ the installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131123T104725Z" creationid="Fu Rhong" creationdate="20131123T104725Z">
         <seg>您还可以点击&lt;g0&gt;工具&lt;/g0&gt;菜单下的脚本条目或按&lt;k1&gt; Ctrl+Alt+F#&lt;/k1&gt;（#表示1到12）组合键运行选择的宏。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can still find &lt;a0&gt;older, superseded versions&lt;/a0&gt; of OmegaT.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T160605Z" creationid="Zenobia Fang" creationdate="20180423T160605Z">
+        <seg>您仍可获取 &lt;a0&gt;较老的、已被取代的版本&lt;/a0&gt;的 OmegaT。</seg>
       </tuv>
     </tu>
     <tu>
