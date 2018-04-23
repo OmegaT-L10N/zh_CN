@@ -14381,6 +14381,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Developer Version</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T155411Z" creationid="Zenobia Fang" creationdate="20180423T155411Z">
+        <seg>开发者版本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Developers</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T105303Z" creationid="cpeishan" creationdate="20180407T105303Z">
@@ -38189,6 +38197,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T113146Z">
         <seg>当前文件夹将作为替代。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The "/trunk" version is a cutting-edge, "alpha" version, still in development.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T155513Z" creationid="Zenobia Fang" creationdate="20180423T155513Z">
+        <seg>“/主干”版本是一个前沿的“alpha”版本，仍在开发中。</seg>
       </tuv>
     </tu>
     <tu>
