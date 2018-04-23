@@ -20593,6 +20593,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If this version is not available, you can try to &lt;a0&gt;download the unsigned version&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T135055Z" creationid="Zenobia Fang" creationdate="20180423T135055Z">
+        <seg>如果该版本不可用，可尝试&lt;a0&gt;下载未签名版本&lt;/a0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If used, neither the user's decision to accept the translation nor the final translation are made available to Google.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
@@ -29348,6 +29356,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT will run on any system on which the JRE (Java Runtime Environment) has been or can be installed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T135234Z" creationid="Zenobia Fang" creationdate="20180423T135234Z">
+        <seg>OmegaT 可在任何能或已安装 JRE（Java 运行环境）的系统上运行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT will run on the open-implementation source Java packaged with many Linux distributions (for example, Ubuntu), but you may experience bugs, display problems or missing features.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Puzzlist" changedate="20130922T041441Z" creationid="Puzzlist" creationdate="20130922T041441Z">
@@ -33362,6 +33378,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Requirements</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T135125Z" creationid="Zenobia Fang" creationdate="20180423T135125Z">
+        <seg>运行要求</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Requires Linux, w3m and tcl/tk (both generally supplied with Linux).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T083129Z" creationid="chloechao" creationdate="20180412T083129Z">
@@ -37106,6 +37130,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130504T151827Z">
         <seg>同步错误</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>System requirements</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T135133Z" creationid="Zenobia Fang" creationdate="20180423T135133Z">
+        <seg>系统要求</seg>
       </tuv>
     </tu>
     <tu>
@@ -54721,6 +54753,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131108T101116Z" creationid="Fu Rhong" creationdate="20131108T101116Z">
         <seg>som</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>some version</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T134953Z" creationid="Zenobia Fang" creationdate="20180423T134953Z">
+        <seg>部分版本</seg>
       </tuv>
     </tu>
     <tu>
