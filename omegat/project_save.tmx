@@ -352,8 +352,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Add...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
-        <seg>新增(&amp;A)...</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180423T102229Z">
+        <seg>新增(&amp;A)</seg>
       </tuv>
     </tu>
     <tu>
@@ -664,8 +664,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Edit...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
-        <seg>编辑...(&amp;E)</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180423T102248Z">
+        <seg>编辑(&amp;E)</seg>
       </tuv>
     </tu>
     <tu>
@@ -12587,8 +12587,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Con&amp;tents</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T022638Z">
-        <seg>内容(&amp;t)</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180423T102203Z">
+        <seg>内容(&amp;T)</seg>
       </tuv>
     </tu>
     <tu>
@@ -32010,8 +32010,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>R&amp;emove</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T022720Z">
-        <seg>删除(&amp;e)</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180423T102221Z">
+        <seg>删除(&amp;E)</seg>
       </tuv>
     </tu>
     <tu>
@@ -32090,8 +32090,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Re&amp;move Filter</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T022629Z">
-        <seg>删除过滤器(&amp;m)</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180423T102155Z">
+        <seg>删除过滤器(&amp;M)</seg>
       </tuv>
     </tu>
     <tu>
