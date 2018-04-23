@@ -174,6 +174,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>$ &lt;s0&gt;java -version&lt;/s0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T132429Z" creationid="Zenobia Fang" creationdate="20180423T132429Z">
+        <seg>$ &lt;s0&gt;java—版本&lt;/s0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>$ ant jar release</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120208T112630Z">
@@ -20685,6 +20693,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131118T024312Z" creationid="Fu Rhong" creationdate="20131118T024312Z">
         <seg>如果您无法正常运行&lt;a0&gt;OmegaT&lt;/a0&gt;（没有可用的图形界面）：可将另一机器上安装的&lt;a1&gt;OmegaT&lt;/a1&gt;设置文件复制到指定文件夹。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you are unsure whether a suitable JRE is already installed on your system, you can still download and install an OmegaT version with JRE.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T132538Z" creationid="Zenobia Fang" creationdate="20180423T132538Z">
+        <seg>如不确定系统中是否已安装了适用的 JRE，您可下载并安装包含 JRE 的 OmegaT 版本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43391,6 +43407,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This version of the JRE will only be used locally for OmegaT, will not conflict with, override or uninstall any other JRE installations, and is therefore safe to use.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T132710Z" creationid="Zenobia Fang" creationdate="20180423T132710Z">
+        <seg>这个版本的 JRE 只会在本地用于 OmegaT，不会与安装的其他 JRE 冲突，不会覆盖或卸载任何其他安装的 JRE。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This way an inadvertent data loss is averted - see Preventing Data Loss in chapter &lt;l2&gt;Miscellanea.&lt;/l2&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131114T131849Z" creationid="Fu Rhong" creationdate="20131114T131849Z">
@@ -47707,6 +47731,14 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120211T033746Z">
         <seg>选中&lt;e3&gt;翻译提示/精确匹配&lt;/e3&gt;时只检查完整的单词，否则也会匹配部分单词。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With JRE</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T132723Z" creationid="Zenobia Fang" creationdate="20180423T132723Z">
+        <seg>包含 JRE</seg>
       </tuv>
     </tu>
     <tu>
