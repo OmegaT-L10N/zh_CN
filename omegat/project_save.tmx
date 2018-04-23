@@ -15062,6 +15062,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Documentation, particularly of new features, will be less comprehensive than that of the Standard version.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T155302Z" creationid="Zenobia Fang" creationdate="20180423T155302Z">
+        <seg>最新版的文档，尤其是一些新特性的文档，会比标准版文档更全面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Documents and Settings\&lt;User Name&gt;\Application Data\&lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120202T060153Z">
@@ -38594,6 +38602,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Latest version will usually be reasonably stable and usable, but may have some bugs.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T155154Z" creationid="Zenobia Fang" creationdate="20180423T155154Z">
+        <seg>最新版本通常都较为稳定，但可能会有一些 bug。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Linux version of OmegaT is now supplied with its own installation script, linux-install.sh.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180420T061551Z" creationid="think" creationdate="20180416T085019Z">
@@ -46595,6 +46611,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120207T113832Z">
         <seg>其他平台的用户（Linux PowerPC, Linux x64, Solaris SPARC/x86/x64, Windows x64 等) 要使用 &lt;a1&gt;OmegaT&lt;/a1&gt; 必须安装与系统兼容的 Java JRE。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Users who already have some experience with OmegaT often prefer the Latest version.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T155352Z" creationid="Zenobia Fang" creationdate="20180423T155352Z">
+        <seg>有 OmegaT 使用经验的用户往往更喜欢最新版本。</seg>
       </tuv>
     </tu>
     <tu>
