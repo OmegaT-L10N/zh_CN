@@ -3111,8 +3111,8 @@ specifying "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" on the
 command line or in the OmegaT start script;
 The current setting is {0}MB;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180423T102543Z">
-        <seg>2)通过在命令行或 OmegaT 启动脚本中指定 "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" 增加 OmegaT 的可用内存；                                                        当前设置为 {0} 兆字节；</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180423T103555Z">
+        <seg>2)通过在命令行或 OmegaT 启动脚本中指定 "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" 增加 OmegaT 的可用存；                                                        当前设置为 {0} 兆字节</seg>
       </tuv>
     </tu>
     <tu>
