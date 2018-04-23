@@ -38041,6 +38041,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The "batteries included" version of OmegaT, with its own Java Runtime Environment.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T132914Z" creationid="Zenobia Fang" creationdate="20180423T132914Z">
+        <seg>“内置配置”的 OmegaT 版本，有其独立的 JRE。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The "old" version of OmegaT will be overwritten, but any settings from it will be retained.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120206T094832Z">
@@ -43411,6 +43419,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T132710Z" creationid="Zenobia Fang" creationdate="20180423T132710Z">
         <seg>这个版本的 JRE 只会在本地用于 OmegaT，不会与安装的其他 JRE 冲突，不会覆盖或卸载任何其他安装的 JRE。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This version will take longer to download and will require more space on your hard drive, but you can be confident that it will run.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T134042Z" creationid="Zenobia Fang" creationdate="20180423T134042Z">
+        <seg>该版本下载时间更长，需占用更大硬盘空间，但能确保可用。</seg>
       </tuv>
     </tu>
     <tu>
