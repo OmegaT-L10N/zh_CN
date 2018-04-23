@@ -14349,6 +14349,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Detailed instructions</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T154927Z" creationid="Zenobia Fang" creationdate="20180423T154927Z">
+        <seg>详细说明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Detailed technical discussion of changes is best conducted directly with OmegaT's developers.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="18261" changedate="20180412T131709Z" creationid="18261" creationdate="20180412T131709Z">
@@ -23819,6 +23827,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It will however lack some of the features of the "Latest" version.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T154845Z" creationid="Zenobia Fang" creationdate="20180423T154845Z">
+        <seg>然而，这一版本缺少“最新”版本的部分特性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It will install the correct environment for your computer and the application
 itself on the first run.</seg>
       </tuv>
@@ -24728,6 +24744,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T134603Z" creationid="Zenobia Fang" creationdate="20180423T134603Z">
         <seg>最新</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Latest Version - {{site.data.versions.latest.name}}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T154956Z" creationid="Zenobia Fang" creationdate="20180423T154956Z">
+        <seg>最新版本 - {{site.data.versions.latest.name}}</seg>
       </tuv>
     </tu>
     <tu>
@@ -28937,8 +28961,8 @@ published by the Free Software Foundation, either version 3 of the License, or
       <tuv lang="EN">
         <seg>OmegaT is not particularly difficult to install or use, but it does require a willingness to read and follow the instructions.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T154338Z" creationid="Zenobia Fang" creationdate="20180423T154338Z">
-        <seg>OmegaT 的安装和使用都不复杂，但也需要阅读及遵循指示步骤。</seg>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T154917Z" creationid="Zenobia Fang" creationdate="20180423T154338Z">
+        <seg>OmegaT 的安装和使用都不复杂，但也需要阅读及遵循指示说明。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30952,6 +30976,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
         <seg>纯文本文件中只含有文本，因为对它们的翻译工作就像输入翻译一样简单。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Platform</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T154852Z" creationid="Zenobia Fang" creationdate="20180423T154852Z">
+        <seg>平台</seg>
       </tuv>
     </tu>
     <tu>
@@ -38550,6 +38582,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131108T110449Z" creationid="Fu Rhong" creationdate="20131108T110449Z">
         <seg>LanguageTool插件包含在OmegaT中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Latest version is a more recent version than the Standard version and includes new features not present in the latter.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T155109Z" creationid="Zenobia Fang" creationdate="20180423T155109Z">
+        <seg>最新版本比标准版更新，包含一些之前没有的新特性。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56041,6 +56081,22 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131109T023357Z" creationid="Fu Rhong" creationdate="20131109T023357Z">
         <seg>{</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{% else %} &lt;a0&gt;Download&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T154949Z" creationid="Zenobia Fang" creationdate="20180423T154949Z">
+        <seg>{% else %} &lt;a0&gt;下载&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{% if platform.link != null %} &lt;a0&gt;Download&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T154940Z" creationid="Zenobia Fang" creationdate="20180423T154940Z">
+        <seg>{% if platform.link != null %} &lt;a0&gt;下载&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
