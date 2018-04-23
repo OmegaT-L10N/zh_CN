@@ -23900,6 +23900,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Its documentation, at least in English, is usually reasonably up to date.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T154802Z" creationid="Zenobia Fang" creationdate="20180423T154802Z">
+        <seg>其文档通常合理有效，至少英文文档如此。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Its purpose is to develop, distribute and support the use of OmegaT, an open-source translation memory software application.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T104754Z" creationid="cpeishan" creationdate="20180407T104754Z">
@@ -36668,6 +36676,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Standard Version - {{site.data.versions.standard.name}}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T154539Z" creationid="Zenobia Fang" creationdate="20180423T154529Z">
+        <seg>标准版本 — {{site.data.versions.standard.name}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Start OmegaT again, download the team project, close OmegaT
 5.</seg>
       </tuv>
@@ -38742,6 +38758,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
         <seg>西班牙语译文要好于斯洛文尼亚语的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Standard version has usually been in use for some time and is therefore proven.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T154636Z" creationid="Zenobia Fang" creationdate="20180423T154636Z">
+        <seg>标准版通常已经使用了一段时间，已经被证明可用。.</seg>
       </tuv>
     </tu>
     <tu>
