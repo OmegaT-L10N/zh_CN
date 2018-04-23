@@ -20523,8 +20523,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>If you are confused about which version to download, you can use the &lt;a0&gt;Download selector&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T124451Z" creationid="Zenobia Fang" creationdate="20180423T124451Z">
-        <seg>如果您不确定应下载哪个版本，您可以使用 &lt;a0&gt;下载选择器&lt;/a0&gt;.</seg>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T124530Z" creationid="Zenobia Fang" creationdate="20180423T124451Z">
+        <seg>如果您不确定应下载哪个版本，您可以使用 &lt;a0&gt;下载选择&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22708,6 +22708,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="think" changedate="20180416T083142Z" creationid="think" creationdate="20180416T083142Z">
         <seg>安装包含Java的OmegaT版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Installation Type</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T124603Z" creationid="Zenobia Fang" creationdate="20180423T124603Z">
+        <seg>安装类型</seg>
       </tuv>
     </tu>
     <tu>
@@ -28243,6 +28251,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT Download Selector</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T124547Z" creationid="Zenobia Fang" creationdate="20180423T124526Z">
+        <seg>OmegaT 下载选择</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT Javadoc...</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T134824Z" creationid="Administrator" creationdate="20180411T134824Z">
@@ -29960,6 +29976,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180416T144652Z" creationid="xulihang" creationdate="20180416T144652Z">
         <seg>Opera:&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Operating System</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T124619Z" creationid="Zenobia Fang" creationdate="20180423T124619Z">
+        <seg>操作系统</seg>
       </tuv>
     </tu>
     <tu>
@@ -44412,6 +44436,14 @@ install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Traditional</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T124655Z" creationid="Zenobia Fang" creationdate="20180423T124655Z">
+        <seg>传统的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Trados "uncleaned RTF"</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T140654Z" creationid="Wyndy" creationdate="20180418T140155Z">
@@ -46517,6 +46549,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
         <seg>文达语</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Version</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T124608Z" creationid="Zenobia Fang" creationdate="20180423T124608Z">
+        <seg>版本</seg>
       </tuv>
     </tu>
     <tu>
