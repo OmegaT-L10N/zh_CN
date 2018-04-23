@@ -10754,6 +10754,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Blogs</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T123430Z" creationid="Zenobia Fang" creationdate="20180423T123430Z">
+        <seg>博客</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bookmark &amp;references</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T152845Z">
@@ -46453,6 +46461,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120211T062555Z">
         <seg>其他快捷键</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Velior's corporate blog &lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T123653Z" creationid="Zenobia Fang" creationdate="20180423T123653Z">
+        <seg>Velior的企业博客 &lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
