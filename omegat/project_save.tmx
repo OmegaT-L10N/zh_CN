@@ -22402,8 +22402,8 @@ click on that shortcut.</seg>
       <tuv lang="EN">
         <seg>Initialized {0}-{1} team project.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180407T071315Z" creationid="lenovo" creationdate="20180407T071315Z">
-        <seg>初始化 {0}-{1} 团队项目.</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180423T102138Z" creationid="lenovo" creationdate="20180407T071315Z">
+        <seg>初始化 {0}-{1} 团队项目</seg>
       </tuv>
     </tu>
     <tu>
