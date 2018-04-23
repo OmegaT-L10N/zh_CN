@@ -15795,8 +15795,8 @@ project_save.tmx未真正上传，SVN切换到不稳定状态。</seg>
       <tuv lang="EN">
         <seg>Enable history &amp;prediction</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180407T145455Z" creationid="lenovo" creationdate="20180407T145455Z">
-        <seg>启用历史预测(&amp;p)</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180423T112022Z" creationid="lenovo" creationdate="20180407T145455Z">
+        <seg>启用历史预测(&amp;P)</seg>
       </tuv>
     </tu>
     <tu>
@@ -16891,8 +16891,8 @@ project_save.tmx未真正上传，SVN切换到不稳定状态。</seg>
       <tuv lang="EN">
         <seg>Failed to load translation memory {0} for project!</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T053043Z">
-        <seg>打开项目的译法记忆 {0} 失败！</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180423T112126Z">
+        <seg>打开项目的翻译记忆 {0} 失败！</seg>
       </tuv>
     </tu>
     <tu>
@@ -24166,8 +24166,8 @@ itself on the first run.</seg>
       <tuv lang="EN">
         <seg>L&amp;og...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
-        <seg>日志(&amp;o)...</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180423T112029Z">
+        <seg>日志(&amp;O)...</seg>
       </tuv>
     </tu>
     <tu>
