@@ -48159,6 +48159,14 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>With/without JRE</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T162649Z" creationid="Zenobia Fang" creationdate="20180423T162649Z">
+        <seg>包含/不包含 JRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Within a given language pair it is best to keep different subjects and/or clients as separate repositories as well.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131111T112637Z" creationid="Fu Rhong" creationdate="20131111T112637Z">
