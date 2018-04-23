@@ -13199,8 +13199,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Create &amp;Glossary Entry...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180418T134527Z" creationid="lenovo" creationdate="20180407T135945Z">
-        <seg>创建术语表词条</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180423T110730Z" creationid="lenovo" creationdate="20180407T135945Z">
+        <seg>创建术语表词条(&amp;G)</seg>
       </tuv>
     </tu>
     <tu>
@@ -26947,8 +26947,8 @@ appropriate location such as the Applications folder.</seg>
       <tuv lang="EN">
         <seg>Next N&amp;ote</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T030855Z">
-        <seg>下一注释(&amp;o)</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180423T110822Z">
+        <seg>下一注释(&amp;O)</seg>
       </tuv>
     </tu>
     <tu>
@@ -26979,8 +26979,8 @@ appropriate location such as the Applications folder.</seg>
       <tuv lang="EN">
         <seg>Next Uni&amp;que Segment</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180420T021711Z" creationid="lenovo" creationdate="20180407T141859Z">
-        <seg>下一个唯一片段(&amp;Q)</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180423T111110Z" creationid="lenovo" creationdate="20180407T141859Z">
+        <seg>下一个单一片段(&amp;Q)</seg>
       </tuv>
     </tu>
     <tu>
@@ -34702,8 +34702,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Select Mat&amp;ch</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130505T162328Z">
-        <seg>选择匹配项(&amp;c)</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180423T110800Z">
+        <seg>选择匹配项(&amp;C)</seg>
       </tuv>
     </tu>
     <tu>
