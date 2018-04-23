@@ -19997,6 +19997,14 @@ need not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If in doubt, select this option.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T134105Z" creationid="Zenobia Fang" creationdate="20180423T134105Z">
+        <seg>如果不确定，选择此选项。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If in doubt, select this version.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T125057Z" creationid="Zenobia Fang" creationdate="20180423T125057Z">
@@ -20677,6 +20685,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yujun Yin" changedate="20131007T074530Z" creationid="Yujun Yin" creationdate="20131007T074431Z">
         <seg>如果您手头有事先创建好的译法记忆文件，比如说是翻译公司或客户提供给您的译法记忆，OmegaT 也可以使用这些文件作为翻译参考。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you are sure that a suitable Java Runtime Environment is already installed on your computer at system level, you can select the option without JRE included.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T134308Z" creationid="Zenobia Fang" creationdate="20180423T134308Z">
+        <seg>如果您的电脑系统上已经安装了使用的 Java 运行环境，您可选择该不包含 JRE 的版本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39861,6 +39877,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The included JRE is the 64-bit version.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T134148Z" creationid="Zenobia Fang" creationdate="20180423T134148Z">
+        <seg>内含 64-bit 版本 JRE。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The individual bilingual file formats are described below.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T132054Z" creationid="Wyndy" creationdate="20180418T132054Z">
@@ -47743,6 +47767,14 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>With 64-bit JRE</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T134118Z" creationid="Zenobia Fang" creationdate="20180423T134118Z">
+        <seg>包含 64-bit JRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>With &lt;e3&gt;TransTips/Exact Match &lt;/e3&gt; checked, only complete words will be checked, otherwise parts of words will be matched as well.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120211T033746Z">
@@ -47835,6 +47867,14 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120203T121147Z">
         <seg>在片段中，第一个组（成对或单个的）获得编号 0，第二个编号为 1，以此类推。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Without JRE</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T134205Z" creationid="Zenobia Fang" creationdate="20180423T134205Z">
+        <seg>不包含 JRE</seg>
       </tuv>
     </tu>
     <tu>
