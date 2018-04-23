@@ -28919,6 +28919,14 @@ published by the Free Software Foundation, either version 3 of the License, or
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT is not particularly difficult to install or use, but it does require a willingness to read and follow the instructions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T154338Z" creationid="Zenobia Fang" creationdate="20180423T154338Z">
+        <seg>OmegaT 的安装和使用都不复杂，但也需要阅读及遵循指示步骤。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT is not yet able to detect mistakes in formatting fully automatically, so it will not prompt you if you make an error or change formatting to fit your target language better.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120205T121924Z">
@@ -46394,6 +46402,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="18261" changedate="20180412T093619Z" creationid="18261" creationdate="20180412T093619Z">
         <seg>用户画像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>User requirements</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T142147Z" creationid="Zenobia Fang" creationdate="20180423T142147Z">
+        <seg>用户要求</seg>
       </tuv>
     </tu>
     <tu>
