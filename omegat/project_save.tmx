@@ -19791,8 +19791,8 @@ need not be entered.)</seg>
       <tuv lang="EN">
         <seg>If a suitable JRE is already installed on your Windows system, select "Without JRE".</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T131550Z" creationid="Zenobia Fang" creationdate="20180423T131550Z">
-        <seg>如果 Windows 系统中已经下载了适用的 JRE， 选择“不包含 JRE 版本”。</seg>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T131613Z" creationid="Zenobia Fang" creationdate="20180423T131550Z">
+        <seg>如果 Windows 系统中已经安装了适用的 JRE， 选择“不包含 JRE 版本”。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20124,6 +20124,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="liufang" changedate="20180416T122147Z" creationid="liufang" creationdate="20180416T122147Z">
         <seg>如果没有，则会显示调试消息，它将（希望）提供有关问题出现的一些信息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If not, or if you are not sure, select "with JRE".</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T131638Z" creationid="Zenobia Fang" creationdate="20180423T131606Z">
+        <seg>如果未安装或不确定，选择“包含 JRE 版本”。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28491,6 +28499,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT currently requires version 1.6 of the JRE or later.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T131838Z" creationid="Zenobia Fang" creationdate="20180423T131838Z">
+        <seg>OmegaT 现要求 JRE 1.6 或更高版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT displays a list of all segments containing all of the words specified.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120215T125449Z">
@@ -29288,6 +29304,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T151602Z">
         <seg>OmegaT 将尝试对TMX文件重新分段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT will usually run on any Linux system on which a suitable version of the Java Runtime Environment (JRE) can be be installed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T131759Z" creationid="Zenobia Fang" creationdate="20180423T131759Z">
+        <seg>OmegaT 可在任何能安装 Java 运行环境的 Linux 系统上运行。</seg>
       </tuv>
     </tu>
     <tu>
