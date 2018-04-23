@@ -1232,8 +1232,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Redo Last Action</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130505T162208Z">
-        <seg>重复上一个动作(&amp;R)</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180423T105716Z">
+        <seg>重复前一操作(&amp;R)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1632,8 +1632,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Undo Last Action</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T024939Z">
-        <seg>取消上一个动作(&amp;U)</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180423T105648Z">
+        <seg>取消前一操作(&amp;U)</seg>
       </tuv>
     </tu>
     <tu>
@@ -11164,8 +11164,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>C&amp;urrent Target Document</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180407T134212Z" creationid="lenovo" creationdate="20180407T134212Z">
-        <seg>当前目标文档(&amp;u)</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180423T105635Z" creationid="lenovo" creationdate="20180407T134212Z">
+        <seg>当前目标文档(&amp;U)</seg>
       </tuv>
     </tu>
     <tu>
@@ -15458,8 +15458,8 @@ project_save.tmx未真正上传，SVN切换到不稳定状态。</seg>
       <tuv lang="EN">
         <seg>E&amp;xport Selection</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130505T162301Z">
-        <seg>导出选中项(&amp;x)</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180423T105831Z">
+        <seg>导出选中项(&amp;X)</seg>
       </tuv>
     </tu>
     <tu>
@@ -19421,8 +19421,8 @@ script provided (omegat.kaptn).</seg>
       <tuv lang="EN">
         <seg>I&amp;nsert Source</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130505T162250Z">
-        <seg>插入原文(&amp;n)</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180423T105807Z">
+        <seg>插入原文(&amp;N)</seg>
       </tuv>
     </tu>
     <tu>
@@ -32026,8 +32026,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>R&amp;eplace with Match or Selection</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180407T135833Z" creationid="lenovo" creationdate="20180407T135833Z">
-        <seg>用匹配项或选择项替代(&amp;e)</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180423T105735Z" creationid="lenovo" creationdate="20180407T135833Z">
+        <seg>用匹配项或选择项替代(&amp;E)</seg>
       </tuv>
     </tu>
     <tu>
@@ -32106,8 +32106,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Re&amp;place with Source</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130505T162253Z">
-        <seg>用原文替代(&amp;p)</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180423T105813Z">
+        <seg>用原文替代(&amp;P)</seg>
       </tuv>
     </tu>
     <tu>
@@ -32940,8 +32940,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Replace with &amp;Machine Translation</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T024949Z">
-        <seg>使用机器翻译替代(&amp;M)</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180423T105801Z">
+        <seg>用机器翻译替代(&amp;M)</seg>
       </tuv>
     </tu>
     <tu>
