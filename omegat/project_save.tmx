@@ -7576,6 +7576,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;s1&gt;The benefit&lt;/s1&gt;: once launched, future updates of the Web Start version will be installed automatically on your computer.&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T125551Z" creationid="Zenobia Fang" creationdate="20180423T125551Z">
+        <seg>&lt;s1&gt;优点&lt;/s1&gt;: once launched, future updates of the Web Start version will be installed automatically on your computer.&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;shortcut&gt; must be of the following form: 0 or more &lt;c0&gt;&lt;modifier&gt;&lt;/c0&gt; followed by 0 or 1 &lt;c1&gt;&lt;event&gt;&lt;/c1&gt; followed by 1 &lt;c2&gt;&lt;key&gt;&lt;/c2&gt;, where:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131109T025530Z" creationid="Fu Rhong" creationdate="20131109T025530Z">
@@ -38547,6 +38555,14 @@ Please try to correct the error and reload the project.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Web Start version is the "install and forget" version.&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T125515Z" creationid="Zenobia Fang" creationdate="20180423T125515Z">
+        <seg>进入网页版本为“安装及忘记'版本。The Web Start version is the "install and forget" version.&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The above method somewhat impractical way of launching a program routinely.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120207T130027Z">
@@ -46862,8 +46878,8 @@ trouble of selecting, obtaining and installing it.</seg>
       <tuv lang="EN">
         <seg>Web Start</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T125258Z" creationid="Zenobia Fang" creationdate="20180423T125127Z">
-        <seg>进入网页</seg>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T125611Z" creationid="Zenobia Fang" creationdate="20180423T125127Z">
+        <seg>网页启动</seg>
       </tuv>
     </tu>
     <tu>
