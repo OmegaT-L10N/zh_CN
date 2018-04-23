@@ -17997,6 +17997,14 @@ script provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For most users, these are not of interest.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T162046Z" creationid="Zenobia Fang" creationdate="20180423T162046Z">
+        <seg>大多数用户对这些都不感兴趣。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For pre-defined options, remove the # before a parameter to enable it.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="17012" changedate="20180405T103704Z" creationid="17012" creationdate="20180405T103704Z">
