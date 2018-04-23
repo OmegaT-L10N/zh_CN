@@ -1416,8 +1416,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Segmentation...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
-        <seg>片段分隔(&amp;S)...</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180423T111212Z">
+        <seg>片段分割(&amp;S)...</seg>
       </tuv>
     </tu>
     <tu>
@@ -14567,8 +14567,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Display context description for TBX &amp;glossaries</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180407T142318Z" creationid="lenovo" creationdate="20180407T142318Z">
-        <seg>显示TBX的上下文描述及术语表(&amp;g)</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180423T111223Z" creationid="lenovo" creationdate="20180407T142318Z">
+        <seg>显示TBX的上下文描述及术语表(&amp;G)</seg>
       </tuv>
     </tu>
     <tu>
@@ -25256,8 +25256,8 @@ itself on the first run.</seg>
       <tuv lang="EN">
         <seg>Mac&amp;hine Translate</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130505T162757Z">
-        <seg>机器翻译(&amp;h)</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180423T111218Z">
+        <seg>机器翻译(&amp;H)</seg>
       </tuv>
     </tu>
     <tu>
@@ -25792,8 +25792,8 @@ itself on the first run.</seg>
       <tuv lang="EN">
         <seg>Match Statistics per &amp;File</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180407T142028Z" creationid="Fu Rhong" creationdate="20131123T103003Z">
-        <seg>每个文件匹配统计(&amp;F)</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180423T111118Z" creationid="Fu Rhong" creationdate="20131123T103003Z">
+        <seg>每个文件匹配统计数据(&amp;F)</seg>
       </tuv>
     </tu>
     <tu>
@@ -32842,8 +32842,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Replace &amp;glossary hits when inserting source text</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180407T142859Z" creationid="lenovo" creationdate="20180407T142859Z">
-        <seg>在插入原文时替换匹配词汇表中的术语(&amp;g)</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180423T111441Z" creationid="lenovo" creationdate="20180407T142859Z">
+        <seg>在插入原文时替换匹配词汇表中的术语(&amp;G)</seg>
       </tuv>
     </tu>
     <tu>
@@ -33950,8 +33950,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Scriptin&amp;g...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
-        <seg>脚本(&amp;g)...</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180423T111200Z">
+        <seg>脚本(&amp;G)...</seg>
       </tuv>
     </tu>
     <tu>
@@ -45637,16 +45637,16 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>Use &amp;fuzzy matching for dictionary entries</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180407T143405Z" creationid="lenovo" creationdate="20180407T143405Z">
-        <seg>模糊匹配词条(&amp;f)</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180423T111513Z" creationid="lenovo" creationdate="20180407T143405Z">
+        <seg>模糊匹配词条(&amp;F)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Use &amp;stemming for glossary entries</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180407T142758Z" creationid="lenovo" creationdate="20180407T142758Z">
-        <seg>使用词根术语词条(&amp;s)</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180423T111426Z" creationid="lenovo" creationdate="20180407T142758Z">
+        <seg>使用词根术语词条(&amp;S)</seg>
       </tuv>
     </tu>
     <tu>
@@ -45749,8 +45749,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>Use terms &amp;appearing separately in the source text</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180407T142422Z" creationid="lenovo" creationdate="20180407T142422Z">
-        <seg>源文件使用术语单独显示 (&amp;a)</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180423T111417Z" creationid="lenovo" creationdate="20180407T142422Z">
+        <seg>原文件使用术语单独显示 (&amp;A)</seg>
       </tuv>
     </tu>
     <tu>
