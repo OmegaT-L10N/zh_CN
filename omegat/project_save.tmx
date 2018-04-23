@@ -19925,6 +19925,14 @@ need not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If in doubt, select this version.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T125057Z" creationid="Zenobia Fang" creationdate="20180423T125057Z">
+        <seg>如果不确定，选择此版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If issue checking is slow, try disabling some of the optional checks.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T094927Z" creationid="Administrator" creationdate="20180412T094927Z">
@@ -46848,6 +46856,14 @@ trouble of selecting, obtaining and installing it.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Puzzlist" changedate="20130922T041532Z" creationid="Puzzlist" creationdate="20130922T041532Z">
         <seg>因此，我们建议下载安装或者 Oracle Java 运行环境（JRE），或者标有"Linix"并绑定了 JRE 的 OmegaT 安装包（.tar.bz2）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Web Start</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T125258Z" creationid="Zenobia Fang" creationdate="20180423T125127Z">
+        <seg>进入网页</seg>
       </tuv>
     </tu>
     <tu>
