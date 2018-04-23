@@ -19515,6 +19515,14 @@ script provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>However, some users may face restrictions (imposed by their operating systems or Java version) that may result in a preference for an older version.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T162635Z" creationid="Zenobia Fang" creationdate="20180423T162635Z">
+        <seg>然而，一些用户可能会面临一些限制（由用户的操作系统或 Java 版本强制执行），这可能会导致对旧版本的偏好。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, submission of an RFE does not mean that the desired feature or improvement will automatically be implemented.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="18261" changedate="20180413T011633Z" creationid="18261" creationdate="20180413T011633Z">
