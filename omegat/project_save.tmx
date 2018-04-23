@@ -840,8 +840,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Glossaries</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="flycr" changedate="20180408T094648Z" creationid="flycr" creationdate="20180406T124340Z">
-        <seg>术语表</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180423T105508Z" creationid="flycr" creationdate="20180406T124340Z">
+        <seg>术语表(&amp;G)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1688,8 +1688,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Writeable Glossary</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180407T134248Z" creationid="lenovo" creationdate="20180407T134248Z">
-        <seg>可写术语表(&amp;W)</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180423T105626Z" creationid="lenovo" creationdate="20180407T134248Z">
+        <seg>可编辑术语表(&amp;W)</seg>
       </tuv>
     </tu>
     <tu>
@@ -12893,8 +12893,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Cop&amp;y Files to Source Folder...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180423T105331Z">
-        <seg>复制文件到原文文件目录(&amp;Y)...</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180423T105354Z">
+        <seg>复制文件到原文文件夹(&amp;Y)...</seg>
       </tuv>
     </tu>
     <tu>
@@ -12943,8 +12943,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Copy Files to Source Folder...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
-        <seg>复制文件到原文文件目录...</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180423T105453Z">
+        <seg>复制文件到原文文件夹...</seg>
       </tuv>
     </tu>
     <tu>
@@ -36856,8 +36856,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>T&amp;Ms</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="flycr" changedate="20180406T124306Z" creationid="flycr" creationdate="20180406T124306Z">
-        <seg>翻译记忆库</seg>
+      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180423T105545Z" creationid="flycr" creationdate="20180406T124306Z">
+        <seg>翻译记忆库(&amp;M)</seg>
       </tuv>
     </tu>
     <tu>
