@@ -28869,8 +28869,8 @@ appropriate location such as the Applications folder.</seg>
       <tuv lang="EN">
         <seg>OmegaT for Mac OS X is available in both signed and unsigned versions; they are functionally identical, but the signed version is preferred as it is recognized by the system as being published by a known developer.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180424T123038Z" creationid="Zenobia Fang" creationdate="20180424T123038Z">
-        <seg>Mac OS X 上的 OmegaT 签名和未签名版都可用；他们在功能上相同，但for Mac OS X is available in both signed and unsigned versions; they are functionally identical, but the signed version is preferred as it is recognized by the system as being published by a known developer.</seg>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180424T124148Z" creationid="Zenobia Fang" creationdate="20180424T123038Z">
+        <seg>Mac OS X 上的 OmegaT 签名和未签名版都可用；他们在功能上相同，但首选签名版本，因为其是由已知开发者发布的。</seg>
       </tuv>
     </tu>
     <tu>
