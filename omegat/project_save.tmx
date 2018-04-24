@@ -28867,6 +28867,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT for Mac OS X is available in both signed and unsigned versions; they are functionally identical, but the signed version is preferred as it is recognized by the system as being published by a known developer.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180424T123038Z" creationid="Zenobia Fang" creationdate="20180424T123038Z">
+        <seg>Mac OS X 上的 OmegaT 签名和未签名版都可用；他们在功能上相同，但for Mac OS X is available in both signed and unsigned versions; they are functionally identical, but the signed version is preferred as it is recognized by the system as being published by a known developer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT has a built-in spell checker based on the spelling checker used in Apache OpenOffice, LibreOffice, Firefox and Thunderbird.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131124T132702Z" creationid="Fu Rhong" creationdate="20131121T123313Z">
@@ -35926,8 +35934,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Signed/Unsigned</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180424T122145Z" creationid="Zenobia Fang" creationdate="20180424T122145Z">
-        <seg>已签字/未签字</seg>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180424T123047Z" creationid="Zenobia Fang" creationdate="20180424T122145Z">
+        <seg>已签名/未签名</seg>
       </tuv>
     </tu>
     <tu>
