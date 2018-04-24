@@ -25598,6 +25598,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mac OS X has a feature called Gatekeeper that increases security by making it difficult to run unsigned programs.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180424T122903Z" creationid="Zenobia Fang" creationdate="20180424T122903Z">
+        <seg>Mac OS X 有一个叫做 Gatekeeper 的功能，该功能通过增加运行未签字程序的难度来增加安全性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mac OS X users can convert directly from Office Open XML to OpenDocument Format and back in &lt;a0&gt;NeoOffice&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T073351Z" creationid="Wyndy" creationdate="20180418T063955Z">
@@ -26698,6 +26706,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120130T072857Z">
         <seg>更多内容请参阅 Joel Spolsky 的那篇 &lt;u0&gt;无痛 Bug 跟踪&lt;/u0&gt;文章。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>More experienced Linux users may prefer to install the Oracle (formerly Sun) JRE at system level.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180424T122105Z" creationid="Zenobia Fang" creationdate="20180424T122105Z">
+        <seg>较有经验的 Linux 用户可能更喜欢在系统上按照 Oracle（以前的 Sun）JRE。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35904,6 +35920,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131111T110617Z" creationid="Fu Rhong" creationdate="20131111T110617Z">
         <seg>首先登录到该站点，如果您是第一次到这个站点，请先注册并保存用户名和密码以用于之后的项目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Signed/Unsigned</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180424T122145Z" creationid="Zenobia Fang" creationdate="20180424T122145Z">
+        <seg>已签字/未签字</seg>
       </tuv>
     </tu>
     <tu>
