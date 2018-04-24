@@ -15488,6 +15488,14 @@ project_save.tmx未真正上传，SVN切换到不稳定状态。</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>During installation, depending on your operating system, you may receive several security warnings.&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180424T131116Z" creationid="Zenobia Fang" creationdate="20180424T131116Z">
+        <seg>在安装期间，根据操作系统的不同，你可能会收到几条安全警告。&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>During the installation, depending on your operating system, you may receive several security warnings.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Puzzlist" changedate="20130922T041315Z" creationid="Puzzlist" creationdate="20130922T041315Z">
@@ -39283,6 +39291,14 @@ Please try to correct the error and reload the project.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The certificate is signed by &lt;a1&gt;PnS Concept Sarl&lt;/a1&gt;, a French registered company.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180424T131207Z" creationid="Zenobia Fang" creationdate="20180424T131207Z">
+        <seg>该证书由 &lt;a1&gt;PnS Concept Sarl&lt;/a1&gt;签名，这是一家法国注册公司。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The change will then become visible after a delay of at most the interval you selected (plus the time taken by OmegaT to save and produce the target files).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180414T113608Z" creationid="lenovo" creationdate="20180414T113608Z">
@@ -48291,6 +48307,14 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120206T121130Z">
         <seg>使用这种方法您可以下载“不含 JRE 的 Windows” 版本，因为新的安装程序可以使用原来的 JRE。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With this version, future updates will be installed automatically.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180424T131017Z" creationid="Zenobia Fang" creationdate="20180424T131017Z">
+        <seg>这一版本下，后续更新将自动安装。</seg>
       </tuv>
     </tu>
     <tu>
