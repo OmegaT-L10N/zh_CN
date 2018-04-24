@@ -42323,6 +42323,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There may be a delay in publishing signed versions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180424T124234Z" creationid="Zenobia Fang" creationdate="20180424T124234Z">
+        <seg>在发布签名版本时可能会有延迟。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There may be cases where you have done a project with e.g. Dutch sources, and a translation in say English.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131127T101357Z" creationid="Fu Rhong" creationdate="20131127T101357Z">
@@ -46771,6 +46779,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="liufang" changedate="20180416T121531Z" creationid="liufang" creationdate="20180416T121531Z">
         <seg>用户因此不需要自己编译OmegaT。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Users in a hurry can use the unsigned version instead; if you have difficulty launching the app, see &lt;a0&gt;how to open an app from an unidentified developer&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180424T124908Z" creationid="Zenobia Fang" creationdate="20180424T124908Z">
+        <seg>用户也可使用未签名版本替代；如果您在启动应用时遇到问题，请查看 &lt;a0&gt;如何打开未认证开发者的应用&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
