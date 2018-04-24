@@ -7528,6 +7528,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;s0&gt;Linux users&lt;/s0&gt;: most Linux distributions are supplied with a Java Runtime Environment, but some open-source implementations do not work properly with OmegaT (although this may not be immediately apparent).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180424T121901Z" creationid="Zenobia Fang" creationdate="20180424T121901Z">
+        <seg>&lt;s0&gt;Linux 用户&lt;/s0&gt;：多数 Linux 发行版都提供了 Java 运行环境，但一些开源实现不能很好地处理 OmegaT（尽管可能并不明显）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;s0&gt;Linux versions/systems&lt;/s0&gt;: locate your OmegaT launch script file (OmegaT or OmegaT.sh).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="10353" changedate="20180414T095900Z" creationid="10353" creationdate="20180414T095900Z">
@@ -7538,8 +7546,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;s0&gt;Mac OS X users&lt;/s0&gt;: the JRE is installed on Mac OS X by default; there is therefore no version for Mac OS X with the JRE.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180424T121728Z" creationid="Zenobia Fang" creationdate="20180424T121728Z">
-        <seg>&lt;s0&gt;Mac OS X 用户&lt;/s0&gt;：Mac OS X 上已默认安装 JRE；因此，不提供 Mac OS X 上的包含 JRE 版本</seg>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180424T121737Z" creationid="Zenobia Fang" creationdate="20180424T121728Z">
+        <seg>&lt;s0&gt;Mac OS X 用户&lt;/s0&gt;：Mac OS X 上已默认安装 JRE；因此，不提供 Mac OS X 上的包含 JRE 版本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20765,6 +20773,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T122111Z" creationid="Fu Rhong" creationdate="20131109T025820Z">
         <seg>如果您用Mac且想设置&lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Command&lt;/k2&gt; &lt;k3&gt;S&lt;/k3&gt; &lt;/k0&gt;为&lt;m4&gt; &lt;g5&gt;工具&lt;/g5&gt; &lt;g6&gt;统计&lt;/g6&gt; &lt;/m4&gt;的快捷方式，请在&lt;f7&gt;项目编译菜单项.properties&lt;/f7&gt;中添加此行：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you are relatively new to Linux, we advise you to select an OmegaT version with the JRE included.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180424T121959Z" creationid="Zenobia Fang" creationdate="20180424T121959Z">
+        <seg>如果您是 Linux 的新用户，我们建议您选择包含 JRE 的 OmegaT 版本。</seg>
       </tuv>
     </tu>
     <tu>
