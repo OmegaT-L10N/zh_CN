@@ -40873,6 +40873,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The permissions you give to this version (which may be described as "unrestricted access to the computer") are no different from the permissions you assign to the local version, i.e., an access to the hard drive of your computer.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180424T131745Z" creationid="Zenobia Fang" creationdate="20180424T131745Z">
+        <seg>您赋予该版本的权限（可能会被描述为“对计算机的无限制访问”）与您赋予本地版本的权限相同，比如，可访问您电脑的硬盘。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The permissions you give to this version (which might be mentioned as an "unrestricted access to the computer") are identical  to permissions you give to the local version, as installed by a procedure, described later: they allow an access to the hard drive of the computer.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Puzzlist" changedate="20130922T041320Z" creationid="Puzzlist" creationdate="20130922T041320Z">
