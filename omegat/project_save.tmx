@@ -21148,6 +21148,14 @@ is to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you install the OmegaT version with JRE even though the JRE is already installed on your computer, OmegaT's JRE will be installed separately and will not conflict with it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180424T121343Z" creationid="Zenobia Fang" creationdate="20180424T121343Z">
+        <seg>如果您在电脑上已安装 JRE 的情况下下载了包含 JRE 的 OmegaT 版本，OmegaT 的 JRE 会独立安装，不会与已有的 JRE 冲突</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you later change filters, only the project filters will be updated, while the user filters stay unchanged.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131113T113633Z" creationid="Fu Rhong" creationdate="20131113T113633Z">
@@ -22420,6 +22428,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120218T065137Z">
         <seg>在此情况下，有益的过程可能包括如下步骤：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In this case, do not select the Default version; select a different version (e.g. Standard or Latest), then select a version marked "Java not included".</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180424T121235Z" creationid="Zenobia Fang" creationdate="20180424T121235Z">
+        <seg>在此情况下，请勿选择默认版本；选择不同版本（例如标准或最新版本），然后选择标记“不包含 Java”的版本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39641,6 +39657,14 @@ instead.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T073004Z" creationid="weiyi" creationdate="20180406T073004Z">
         <seg>文档以操作系统选定的应用打开。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The download will be faster, and the installation will require less space on your hard drive.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180424T121032Z" creationid="Zenobia Fang" creationdate="20180424T121032Z">
+        <seg>下载会更快，安装占用硬盘空间更小。</seg>
       </tuv>
     </tu>
     <tu>
