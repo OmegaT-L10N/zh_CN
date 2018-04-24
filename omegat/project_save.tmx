@@ -20705,6 +20705,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you are confident that a suitable version of the JRE is already installed on your computer, you can download a version of OmegaT without the JRE.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180424T120953Z" creationid="Zenobia Fang" creationdate="20180424T120953Z">
+        <seg>如果您确定电脑中已经安装了适用的 JRE，您可下载不包含 JRE 的 OmegaT 版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are confused about which version to download, you can use the &lt;a0&gt;Download selector&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T124530Z" creationid="Zenobia Fang" creationdate="20180423T124451Z">
@@ -21994,6 +22002,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Zoe" changedate="20180412T142707Z" creationid="Zoe" creationdate="20180412T142707Z">
         <seg>为了使脚本代码清晰可读，每个脚本基本上只实现一项功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In order to run, OmegaT requires the Java Runtime Environment (JRE) to be installed on your computer.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180424T120848Z" creationid="Zenobia Fang" creationdate="20180424T120848Z">
+        <seg>要想运行 OmegaT，电脑上必须安装 Java 运行环境（JRE）。</seg>
       </tuv>
     </tu>
     <tu>
