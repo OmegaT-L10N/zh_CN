@@ -7536,6 +7536,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;s0&gt;Mac OS X users&lt;/s0&gt;: the JRE is installed on Mac OS X by default; there is therefore no version for Mac OS X with the JRE.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180424T121728Z" creationid="Zenobia Fang" creationdate="20180424T121728Z">
+        <seg>&lt;s0&gt;Mac OS X 用户&lt;/s0&gt;：Mac OS X 上已默认安装 JRE；因此，不提供 Mac OS X 上的包含 JRE 版本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;s0&gt;OmegaT version 2.1.0 and older&lt;/s0&gt;: the current tokenizer is not compatible with these versions.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="10353" changedate="20180414T085024Z" creationid="10353" creationdate="20180414T084920Z">
@@ -20817,6 +20825,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you are unsure whether or not you have a suitable version of the JRE, select a version with JRE (or the Default version).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180424T121548Z" creationid="Zenobia Fang" creationdate="20180424T121548Z">
+        <seg>如果您不确定您是否已安装了适用的 JRE 版本，选择包含 JRE 的版本（或默认版本）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are unsure whether your Java version is suitable, you can:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="think" changedate="20180416T074857Z" creationid="think" creationdate="20180416T074857Z">
@@ -23726,6 +23742,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120218T122756Z">
         <seg>这是那个显示为两部分的片段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is therefore always safe to install the version of OmegaT with JRE.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180424T121439Z" creationid="Zenobia Fang" creationdate="20180424T121424Z">
+        <seg>因此，安装含有 JRE 的 OmegaT 总是安全的。</seg>
       </tuv>
     </tu>
     <tu>
