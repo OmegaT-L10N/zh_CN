@@ -21668,6 +21668,14 @@ is to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If your text contains both Asian and "normal" (e.g. Latin) characters, use Ctrl+A to select the entire text, then select a single font for it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T074705Z" creationid="Mac Pro" creationdate="20180425T074705Z">
+        <seg>如果在文本既含有亚洲字符与“通用”字符（如拉丁语），使用Ctrl+A全选，并选择字体。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If, during installation, you have created a shortcut on the desktop, double-
 click on that shortcut.</seg>
       </tuv>
@@ -23980,8 +23988,8 @@ click on that shortcut.</seg>
       <tuv lang="EN">
         <seg>It may be necessary to do this for each document, in which case the procedure in Word 2007 is: Click the Page Layout tab; in the Page Setup group, click Hyphenation; then click None.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T073659Z" creationid="Mac Pro" creationdate="20180425T073659Z">
-        <seg>需要为每个文档执行此操作，在这种情况下，Word 2007中的过程是：单击“页面布局”选项卡; 在“页面设置”组中，单击“断字”; 然后单击无。</seg>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T073812Z" creationid="Mac Pro" creationdate="20180425T073659Z">
+        <seg>需要为每个文档执行此操作，在这种情况下，Word 2007中的过程是：单击“页面布局”选项卡; 在“页面设置”组中，单击“断字”; 然后单击"无"。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46623,6 +46631,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120219T120546Z">
         <seg>使用 &lt;g0&gt;Ctrl+L&lt;i1/&gt;&lt;/g0&gt; 打开，使用 &lt;k2&gt;Esc&lt;/k2&gt; 关闭。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use Search and Replace to remove double spaces (replacing them with a single space).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T074004Z" creationid="Mac Pro" creationdate="20180425T074004Z">
+        <seg>使用"查找"和"替换"，用单空格替换双空格。</seg>
       </tuv>
     </tu>
     <tu>
