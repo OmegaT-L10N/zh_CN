@@ -12617,6 +12617,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Compatibility</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180425T042710Z" creationid="xulihang" creationdate="20180425T042710Z">
+        <seg>兼容性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Compatibility HowTos</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T140010Z" creationid="cpeishan" creationdate="20180407T135944Z">
@@ -19619,6 +19627,70 @@ script provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Howto - Compiling OmegaT from the source code</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180425T042740Z" creationid="xulihang" creationdate="20180425T042740Z">
+        <seg>Howto - 从源码编译OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Howto - Exporting from OmegaT to 'Trados uncleaned RTF' format</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180425T042911Z" creationid="xulihang" creationdate="20180425T042911Z">
+        <seg>Howto - 从OmegaT导出 Trados 的 uncleaned RTF 格式文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Howto - OmegaT compatibility with Déjà Vu</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180425T042723Z" creationid="xulihang" creationdate="20180425T042723Z">
+        <seg>Howto - OmegaT和Déjà Vu的兼容</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Howto - Translating OmegaT into your language</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180425T043028Z" creationid="xulihang" creationdate="20180425T043028Z">
+        <seg>Howto - 用你的语言翻译OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Howto - Translating PDF files with Iceni Infix and OmegaT</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180425T042951Z" creationid="xulihang" creationdate="20180425T042951Z">
+        <seg>Howto - 使用Iceni Infix和OmegaT翻译PDF文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Howto - Translating Word 2007 files in OmegaT</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180425T042806Z" creationid="xulihang" creationdate="20180425T042806Z">
+        <seg>Howto - 在OmegaT中翻译Word2007格式的文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Howto - Using Google Translate in OmegaT</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180425T042930Z" creationid="xulihang" creationdate="20180425T042930Z">
+        <seg>Howto - 在OmegaT中使用谷歌翻译</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Howto - Using Microsoft Translator in OmegaT</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180425T043048Z" creationid="xulihang" creationdate="20180425T043048Z">
+        <seg>Howto - 在OmegaT中使用微软翻译</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Hungarian</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
@@ -25958,6 +26030,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Manual</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180425T042538Z" creationid="xulihang" creationdate="20180425T042538Z">
+        <seg>手册</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Manually defined rules</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T114848Z" creationid="Lenovo" creationdate="20180418T114848Z">
@@ -28635,6 +28715,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT - The Free Translation Memory Tool</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180425T042520Z" creationid="xulihang" creationdate="20180425T042520Z">
+        <seg>OmegaT——免费的翻译记忆工具</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT 3.0, Read Me file</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130514T145249Z">
@@ -31120,6 +31208,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120203T124011Z">
         <seg>PgUp:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Philosophy</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180425T042531Z" creationid="xulihang" creationdate="20180425T042531Z">
+        <seg>理念</seg>
       </tuv>
     </tu>
     <tu>
@@ -33846,6 +33942,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120218T061804Z">
         <seg>重用翻译记忆</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Reviews</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180425T042703Z" creationid="xulihang" creationdate="20180425T042703Z">
+        <seg>评论</seg>
       </tuv>
     </tu>
     <tu>
@@ -36920,6 +37024,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T081309Z" creationid="Administrator" creationdate="20180412T081309Z">
         <seg>拆分文本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sponsorship</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180425T042706Z" creationid="xulihang" creationdate="20180425T042706Z">
+        <seg>赞助</seg>
       </tuv>
     </tu>
     <tu>
