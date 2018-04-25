@@ -10706,6 +10706,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Before following the instructions below for removal of the nuisance codes, however, remember to make the configuration changes in Word first, or Word may simply re-insert nuisance codes again when the file is next opened.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T095653Z" creationid="Mac Pro" creationdate="20180425T095653Z">
+        <seg>但是，在按照以下说明去除干扰码之前，记得首先在Word中进行配置更改，或者在下一次打开文件时，word可能会再次重新插入干扰码。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Before proceeding with such conversions, be sure to test all options.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120202T123911Z">
@@ -28083,8 +28091,8 @@ appropriate location such as the Applications folder.</seg>
       <tuv lang="EN">
         <seg>Note that even after Word's settings have been changed so that it does not insert "nuisance" codes, for example for auto-hyphenation, such codes may still be present in the file and not removed by the change in configuration.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T094822Z" creationid="Mac Pro" creationdate="20180425T094822Z">
-        <seg>请注意，即使Word的设置已更改，以便它不插入“滋扰”代码（例如自动连字符），此类代码仍可能存在于文件中，并且不会因配置更改而被删除。</seg>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T095007Z" creationid="Mac Pro" creationdate="20180425T094822Z">
+        <seg>请注意，以为了不插入“干扰”代码（例如自动连字符），即使Word的设置已更改，此类代码仍可能存在于文件中，并且不会因配置更改而被删除。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33300,6 +33308,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="christy" changedate="20180407T162638Z" creationid="christy" creationdate="20180407T162638Z">
         <seg>远程仓库</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Removal of these codes is described below.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T095023Z" creationid="Mac Pro" creationdate="20180425T095023Z">
+        <seg>下面介绍这些代码如何被删除。</seg>
       </tuv>
     </tu>
     <tu>
