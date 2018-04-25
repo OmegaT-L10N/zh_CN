@@ -50203,8 +50203,8 @@ the installation script (linux-install.sh).</seg>
       <tuv lang="EN">
         <seg>You can level the formatting of paragraphs essentially by copying whole paragraphs in MS Word and pasting them back over themselves such that the entire paragraph assumes the formatting of the first character.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T194709Z" creationid="Mac Pro" creationdate="20180425T191906Z">
-        <seg>您基本上可以复制MS Word中的整个段落并将它们粘贴回自己以使整个段落采用第一个字符的格式来平整段落的格式。</seg>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T200212Z" creationid="Mac Pro" creationdate="20180425T191906Z">
+        <seg>您基本上可以复制MS Word中的整个段落，并粘贴他们至整个段落，使整段采用第一个字符的格式来平整段落的格式。</seg>
       </tuv>
     </tu>
     <tu>
