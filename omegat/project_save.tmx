@@ -8216,6 +8216,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>About</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180425T035932Z" creationid="xulihang" creationdate="20180425T035932Z">
+        <seg>关于</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>About &lt;a0&gt;OmegaT&lt;/a0&gt; - introduction</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130911T123157Z">
@@ -47389,6 +47397,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131118T034128Z" creationid="Fu Rhong" creationdate="20131118T034128Z">
         <seg>Vito Smolej</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Vito Smolej (documentation manager)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120220T123650Z">
+        <seg>Vito Smolej（文档管理员）</seg>
       </tuv>
     </tu>
     <tu>
