@@ -2754,6 +2754,15 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- level the formatting from these paragraphs using the macro as described above, then re-insert the formatting; or</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T192200Z" creationid="Mac Pro" creationdate="20180425T192200Z">
+        <seg>- 如上所述使用宏对这些段落进行格式化，然后重新插入格式;要么
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- localization in a number of languages.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130514T151638Z">
@@ -17466,6 +17475,15 @@ project_save.tmx未真正上传，SVN切换到不稳定状态。</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Finally, insert the content using the "Unformatted Unicode text" option.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T192133Z" creationid="Mac Pro" creationdate="20180425T192133Z">
+        <seg>最后，使用“无格式Unicode文本”选项插入内容。
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Finally, save the changes with &lt;e0&gt;File - Save.&lt;/e0&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120206T122305Z">
@@ -25364,6 +25382,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Levelling the character formatting of a paragraph manually</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T192009Z" creationid="Mac Pro" creationdate="20180425T192009Z">
+        <seg>手动调整段落的字符格式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LibreOffice and more recent versions of OpenOffice.org now use the "extensions" format for these dictionaries, in which the files are supplied in a a zip archive with the extension .oxt.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T142530Z" creationid="Zoe" creationdate="20180411T142142Z">
@@ -26402,6 +26428,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131110T025403Z" creationid="Fu Rhong" creationdate="20131110T025403Z">
         <seg>标记空白字符</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark each paragraph by clicking on it repeatedly until the entire paragraph is highlighted.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T192035Z" creationid="Mac Pro" creationdate="20180425T191920Z">
+        <seg>通过反复点击来标记每个段落，直到整个段落突出显示。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37342,6 +37376,23 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Step 1: Unhide the paragraph mark.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T191946Z" creationid="Mac Pro" creationdate="20180425T191946Z">
+        <seg>第1步：取消隐藏段落标记。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Step 2: Copy this highlighted text (Ctrl+C).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T192101Z" creationid="Mac Pro" creationdate="20180425T192101Z">
+        <seg>第2步：复制突出显示的文本（Ctrl + C）。
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Step 2: Make manual corrections</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T070130Z" creationid="Administrator" creationdate="20180412T070130Z">
@@ -42474,10 +42525,27 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Then move the end of the highlighting one character to the left so that it does not include the paragraph mark.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T192047Z" creationid="Mac Pro" creationdate="20180425T192047Z">
+        <seg>然后将突出显示的一个字符的末尾向左移动，使其不包含段落标记。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Then save the changes and re-export the PDF to the XML file (and change the file extension etc.), and reload your OmegaT project.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="think" changedate="20180416T065035Z" creationid="think" creationdate="20180416T064911Z">
         <seg>然后保存更改，重新导出PDF为XML文件（然后更改文件扩展名等等），之后您的OmegaT项目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Then select "Paste Special" (Word 2003) or click on the arrow at the bottom of the "Insert" button (Word 2007) to obtain the extended Paste options.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T192120Z" creationid="Mac Pro" creationdate="20180425T192120Z">
+        <seg>然后选择“粘贴特殊”（Word 2003）或单击“插入”按钮（Word 2007）底部的箭头以获取扩展粘贴选项。
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -48378,6 +48446,15 @@ trouble of selecting, obtaining and installing it.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120205T121308Z">
         <seg>如果有可能，应该尽可能考虑使用统一的字体、字体大小、颜色等，以此简化翻译工作和减少可能的标签错误。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Where paragraphs do contain inline formatting (bold, italics, hyperlinks, etc.), you can either:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T192148Z" creationid="Mac Pro" creationdate="20180425T192148Z">
+        <seg>在段落包含内联格式（粗体，斜体，超链接等）的情况下，您可以：
+</seg>
       </tuv>
     </tu>
     <tu>
