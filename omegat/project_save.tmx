@@ -23978,6 +23978,14 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It may be necessary to do this for each document, in which case the procedure in Word 2007 is: Click the Page Layout tab; in the Page Setup group, click Hyphenation; then click None.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T073659Z" creationid="Mac Pro" creationdate="20180425T073659Z">
+        <seg>需要为每个文档执行此操作，在这种情况下，Word 2007中的过程是：单击“页面布局”选项卡; 在“页面设置”组中，单击“断字”; 然后单击无。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It may be necessary to enter the full path, e.g.:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="liufang" changedate="20180416T122109Z" creationid="liufang" creationdate="20180416T122109Z">
