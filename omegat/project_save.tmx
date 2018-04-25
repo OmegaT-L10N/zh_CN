@@ -8890,6 +8890,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Again, click the main "Office" button, then Word options.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T195540Z" creationid="Mac Pro" creationdate="20180425T195540Z">
+        <seg>再次点击主“Office”按钮，然后点击Word选项。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Again, free demonstration versions are available.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="think" changedate="20180416T004604Z" creationid="think" creationdate="20180416T004604Z">
@@ -10255,6 +10263,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131116T122529Z" creationid="Fu Rhong" creationdate="20131116T122529Z">
         <seg>安装开始时您可以选择在安装过程中使用的语言。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>At the bottom of the dialog next to Keyboard shortcuts, click on Customize.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T195323Z" creationid="Mac Pro" creationdate="20180425T195323Z">
+        <seg>在键盘快捷键旁边对话框的底部，点击自定义。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12173,6 +12189,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose Macros from the drop-down list.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T195303Z" creationid="Mac Pro" creationdate="20180425T195303Z">
+        <seg>从下拉列表中选择宏。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Choose SVN repository to perform cleanup</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T121418Z" creationid="xulihang" creationdate="20180408T121418Z">
@@ -12289,6 +12313,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131111T110751Z" creationid="Fu Rhong" creationdate="20131111T110751Z">
         <seg>点击&lt;g0&gt;Create Project&lt;/g0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click Customize &gt; Choose commands.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T195251Z" creationid="Mac Pro" creationdate="20180425T195251Z">
+        <seg>点击自定义&gt;选择命令。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12531,6 +12563,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120218T060243Z">
         <seg>关闭项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Close/confirm the dialogs.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T195520Z" creationid="Mac Pro" creationdate="20180425T195520Z">
+        <seg>关闭/确认对话框。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22687,6 +22727,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z" creationid="Fu Rhong" creationdate="20131117T005310Z">
         <seg>在&lt;g0&gt;项目&lt;/g0&gt;菜单中选择&lt;m1&gt;&lt;g2&gt;新建...&lt;/g2&gt;&lt;/m1&gt;并输入项目名称。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the Categories box, scroll down to Macros and select it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T195344Z" creationid="Mac Pro" creationdate="20180425T195344Z">
+        <seg>在类别框中，向下滚动到宏并选中它。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35792,6 +35840,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select "levelformat" (or whatever you called it).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T195316Z" creationid="Mac Pro" creationdate="20180425T195316Z">
+        <seg>选择“levelformat”（或任何你称之为的）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select &amp;Next Match</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130505T162331Z">
@@ -40258,6 +40314,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The current shortcut will be displayed in the relevant box.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T195436Z" creationid="Mac Pro" creationdate="20180425T195436Z">
+        <seg>当前快捷方式将显示在相关框中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The current version of the service is based on usage, with the price of 20 USD per million characters at the time of writing.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="weiyi" changedate="20180418T133537Z">
@@ -42807,6 +42871,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Then on the right, under Macros, select levelformat (or whatever you called your macro).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T195354Z" creationid="Mac Pro" creationdate="20180425T195354Z">
+        <seg>然后在右边的宏下，选择levelformat（或者任何你称之为宏）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Then save the changes and re-export the PDF to the XML file (and change the file extension etc.), and reload your OmegaT project.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="think" changedate="20180416T065035Z" creationid="think" creationdate="20180416T064911Z">
@@ -45043,6 +45115,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="anton" changedate="20180416T085801Z" creationid="anton" creationdate="20180416T085801Z">
         <seg>腰围TMX过滤器执行此操作，请插入改行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To do this, click the main "Office" button, then Word options (bottom right of the dialog).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T195240Z" creationid="Mac Pro" creationdate="20180425T195240Z">
+        <seg>为此，请单击主“Office”按钮，然后单击Word选项（对话框的右下角）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49802,6 +49882,14 @@ from there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can clear it by selecting it and hitting Delete.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T195455Z" creationid="Mac Pro" creationdate="20180425T195455Z">
+        <seg>您可以通过选择并按删除键来清除它。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can convert MS Office 1997/2000/2003/XP files to MS Office 2007 format by opening them in MS Office 2007 and saving them with "Save As" in the new format.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="liufang" changedate="20180416T122911Z" creationid="liufang" creationdate="20180416T122911Z">
@@ -50184,6 +50272,14 @@ the installation script (linux-install.sh).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can then enter a new shortcut and assign it with Assign as you did before.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T195508Z" creationid="Mac Pro" creationdate="20180425T195508Z">
+        <seg>然后，您可以输入一个新的快捷方式，并像以前一样为其指定Assign。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can then launch the Kaptain launch script with:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T110001Z" creationid="xulihang" creationdate="20180408T110001Z">
@@ -50228,6 +50324,14 @@ the installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131128T002515Z" creationid="Fu Rhong" creationdate="20131128T002515Z">
         <seg>您可用&lt;g3&gt;Ctrl+A &lt;i4/&gt;&lt;/g3&gt;&lt;g5&gt;、Ctrl+C &lt;i6/&gt;&lt;/g5&gt;、&lt;g7&gt;Ctrl+V &lt;i8/&gt;&lt;/g7&gt;复制/粘贴其中的内容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can use a similar procedure to create a button for your macro:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T195531Z" creationid="Mac Pro" creationdate="20180425T195531Z">
+        <seg>您可以使用类似的过程为您的宏创建一个按钮：</seg>
       </tuv>
     </tu>
     <tu>
