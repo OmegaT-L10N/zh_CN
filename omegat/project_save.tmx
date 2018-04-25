@@ -3429,6 +3429,22 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;CodeZapper&lt;/a0&gt; (inexpensive)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T095907Z" creationid="Mac Pro" creationdate="20180425T095907Z">
+        <seg>&lt;a0&gt;CodeZapper&lt;/a0&gt; 便宜</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a0&gt;Document Cleaner&lt;/a0&gt; (free)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T095925Z" creationid="Mac Pro" creationdate="20180425T095925Z">
+        <seg>&lt;a0&gt;文件清洁器&lt;/a0&gt; (免费）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;Documentation&lt;/a0&gt; is very important.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="18261" changedate="20180412T102458Z" creationid="18261" creationdate="20180412T102458Z">
@@ -9981,6 +9997,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180420T062136Z" creationid="lenovo" creationdate="20180415T051834Z">
         <seg>如前所述， OmegaT 提供了一个 bash 启动脚本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As already mentioned, this problem with MS Word is not unique to OmegaT.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T095733Z" creationid="Mac Pro" creationdate="20180425T095733Z">
+        <seg>如前所述，MS Word的这个问题并不是OmegaT独有的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25312,6 +25336,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T084845Z" creationid="Wyndy" creationdate="20180418T084845Z">
         <seg>而 Level 3 TMX 文件所包含的格式信息，能被生成该文件的 CAT 工具之外的其他 CAT 工具读取。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Levelling character formatting</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T095942Z" creationid="Mac Pro" creationdate="20180425T095942Z">
+        <seg>调平字符的格式</seg>
       </tuv>
     </tu>
     <tu>
@@ -42980,6 +43012,22 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Third-party tools</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T095704Z" creationid="Mac Pro" creationdate="20180425T095704Z">
+        <seg>第三方工具</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Third-party tools have been produced to deal with the problem.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T095755Z" creationid="Mac Pro" creationdate="20180425T095755Z">
+        <seg>已经有第三方工具来处理这个问题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This
 will delete your local data and re-download the project contents from
 the server.</seg>
@@ -45866,6 +45914,14 @@ install.sh.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131108T101700Z" creationid="Fu Rhong" creationdate="20131108T101700Z">
         <seg>Twi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Two of these are:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T095810Z" creationid="Mac Pro" creationdate="20180425T095810Z">
+        <seg>其中两个分别是：</seg>
       </tuv>
     </tu>
     <tu>
