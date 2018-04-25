@@ -2781,8 +2781,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>- mark only the text up to the beginning of the formatted part, copy this text and paste it back over itself, then repeat the process on the text after the formatted part.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T192212Z" creationid="Mac Pro" creationdate="20180425T192212Z">
-        <seg>- 只将文本标记到格式化部分的开头，复制此文本并将其粘贴回自己，然后在格式化后的部分之后对文本重复该过程。
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T200321Z" creationid="Mac Pro" creationdate="20180425T192212Z">
+        <seg>- 只将文本标记到格式化部分的开头，复制此文本并将其粘贴，然后在格式化后的部分之后对文本重复该过程。
 </seg>
       </tuv>
     </tu>
@@ -12327,8 +12327,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Click Popular in the Word Options dialog box.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T192413Z" creationid="Mac Pro" creationdate="20180425T192413Z">
-        <seg>单击Word选项对话框中的常用。</seg>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T200330Z" creationid="Mac Pro" creationdate="20180425T192413Z">
+        <seg>单击Word选项对话框中的“常用”。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12407,8 +12407,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Click on Assign to assign the shortcut to the macro that you are about to record.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T192828Z" creationid="Mac Pro" creationdate="20180425T192828Z">
-        <seg>点击Assign将快捷方式分配给您即将录制的宏。</seg>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T200520Z" creationid="Mac Pro" creationdate="20180425T192828Z">
+        <seg>点击“Assign”将快捷方式分配给您即将录制的宏。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14154,8 +14154,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Ctrl+Shift+9 appears not to be assigned to any other function in the basic Word installation, but you can use any other combination that has not already been assigned.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T192816Z" creationid="Mac Pro" creationdate="20180425T192816Z">
-        <seg>Ctrl + Shift + 9似乎没有被分配给基本Word安装中的任何其他功能，但您可以使用尚未分配的任何其他组合。</seg>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T200504Z" creationid="Mac Pro" creationdate="20180425T192816Z">
+        <seg>Ctrl + Shift + 9似乎没有被分配给基本Word安装中的任何其他功能，您可以使用尚未分配的任何快捷键组合。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30387,8 +30387,8 @@ installed on your system.</seg>
       <tuv lang="EN">
         <seg>On the ribbon, check Show Developer tab and confirm with OK.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T192424Z" creationid="Mac Pro" creationdate="20180425T192424Z">
-        <seg>在功能区上，选中Show Developer选项卡并按OK进行确认。</seg>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T200351Z" creationid="Mac Pro" creationdate="20180425T192424Z">
+        <seg>在功能区上，选中“Show Developer”选项卡并按OK进行确认。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42954,8 +42954,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>Then select "Paste Special" (Word 2003) or click on the arrow at the bottom of the "Insert" button (Word 2007) to obtain the extended Paste options.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T192120Z" creationid="Mac Pro" creationdate="20180425T192120Z">
-        <seg>然后选择“粘贴特殊”（Word 2003）或单击“插入”按钮（Word 2007）底部的箭头以获取扩展粘贴选项。
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T200246Z" creationid="Mac Pro" creationdate="20180425T192120Z">
+        <seg>然后选择“特殊粘贴”（Word 2003）或单击“插入”按钮（Word 2007）底部的箭头以获取扩展粘贴选项。
 </seg>
       </tuv>
     </tu>
