@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>"Levelling" the formatting means applying the format of the first character in a selection of text (such as a whole paragraph) to all subsequent characters.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T101002Z" creationid="Mac Pro" creationdate="20180425T101002Z">
+        <seg>“平整”格式意味着将选定文本中的第一个字符的格式（例如整段），来应用于所有后续字符。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>"Non-unique segment" covers both default and alternative translations.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180420T021702Z" creationid="Zoe" creationdate="20180411T132350Z">
@@ -9388,6 +9396,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T133531Z" creationid="cpeishan" creationdate="20180407T133458Z">
         <seg>默认情况下,  OmegaT 用户界面上显示的 "即时启动向导"指导用户完成 OmegaT 的主要步骤和功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An alternative to running the CodeZapper macro on your text is to "level" the formatting.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T100101Z" creationid="Mac Pro" creationdate="20180425T100101Z">
+        <seg>在文本上运行CodeZapper宏的另一种方法是“级别”格式化。</seg>
       </tuv>
     </tu>
     <tu>
