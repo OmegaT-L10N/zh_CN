@@ -11596,6 +11596,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Change the line:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T194953Z" creationid="Mac Pro" creationdate="20180425T194953Z">
+        <seg>更改该行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Change the name of the rule set and the language pattern to the language concerned and its code (see &lt;x1/&gt; for a list of language codes).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120217T112515Z">
@@ -20329,6 +20337,14 @@ need not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If all has gone according to plan, your macro should now work.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T195119Z" creationid="Mac Pro" creationdate="20180425T195119Z">
+        <seg>如果一切都按计划进行，现在你的宏应该工作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If all is well, an .html version of the file will be produced:&lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T113118Z" creationid="lenovo" creationdate="20180416T113118Z">
@@ -28862,6 +28878,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Now simply place the cursor anywhere in the paragraph and press Ctrl+Shift+9 (or whatever other keyboard shortcut you selected), and you should see the formatting disappear.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T195208Z" creationid="Mac Pro" creationdate="20180425T195208Z">
+        <seg>现在只需将光标放在段落的任意位置，然后按Ctrl + Shift + 9（或其他任何键盘快捷键），您应该看到格式消失</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Nr of matching segments: {0}</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="flycr" changedate="20180406T130910Z" creationid="flycr" creationdate="20180406T130910Z">
@@ -34874,6 +34898,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131110T021402Z" creationid="Fu Rhong" creationdate="20131110T021402Z">
         <seg>然后保存文件并重新启动&lt;a0&gt;OmegaT&lt;/a0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Save with Ctrl+S, and close the macro editing window.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T195059Z" creationid="Mac Pro" creationdate="20180425T195059Z">
+        <seg>用Ctrl + S保存，然后关闭宏编辑窗口。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45424,6 +45456,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To test it, add some formatting to your Word document, for example by making one word bold.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T195131Z" creationid="Mac Pro" creationdate="20180425T195131Z">
+        <seg>要对其进行测试，请在Word文档中添加一些格式，例如将一个单词用粗体表示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To test the user interface:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180417T012559Z" creationid="lenovo" creationdate="20180417T012559Z">
@@ -49734,6 +49774,14 @@ from there.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T114528Z">
         <seg>通过 OmegaT 首选项文件夹（请参阅&lt;l0&gt;用户文件位置&lt;/l0&gt;）中的快捷键定义文件，您可改变已分配的快捷键或添加新的快捷键。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can change the keyboard shortcut at any time.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T195228Z" creationid="Mac Pro" creationdate="20180425T195228Z">
+        <seg>您可以随时更改键盘快捷键。</seg>
       </tuv>
     </tu>
     <tu>
