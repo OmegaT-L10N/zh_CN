@@ -1808,6 +1808,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(For more detailed instructions, refer to your instruction manual or click &lt;a0&gt;here&lt;/a0&gt;, &lt;a1&gt;here&lt;/a1&gt; or &lt;a2&gt;here&lt;/a2&gt;.)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T192338Z" creationid="Mac Pro" creationdate="20180425T192338Z">
+        <seg>（有关更详细的说明，请参阅您的说明手册或点击&lt;a0&gt; 这里 &lt;/ a0&gt;，&lt;a1&gt; 这里 &lt;/ a1&gt;或&lt;a2&gt; 这里 &lt;/ a2&gt;。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(If Options &gt; View &gt; "Include the first non-unique segment when marking non-unique segments" is selected, all non-unique segments including the first are marked in this way.)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180420T021702Z" creationid="Zoe" creationdate="20180411T114134Z">
@@ -2767,6 +2775,15 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130514T151638Z">
         <seg>- 被本地化成多种语言</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- mark only the text up to the beginning of the formatted part, copy this text and paste it back over itself, then repeat the process on the text after the formatted part.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T192212Z" creationid="Mac Pro" creationdate="20180425T192212Z">
+        <seg>- 只将文本标记到格式化部分的开头，复制此文本并将其粘贴回自己，然后在格式化后的部分之后对文本重复该过程。
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -11019,6 +11036,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Brief instructions for creating the macro (in MS Office 2007) are provided below.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T192252Z" creationid="Mac Pro" creationdate="20180425T192252Z">
+        <seg>下面提供了创建宏的简要说明（在MS Office 2007中）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bro&amp;wse</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T145858Z">
@@ -12244,6 +12269,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click Popular in the Word Options dialog box.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T192413Z" creationid="Mac Pro" creationdate="20180425T192413Z">
+        <seg>单击Word选项对话框中的常用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click on '{0}' menu item</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T164354Z">
@@ -12408,6 +12441,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
         <seg>关闭项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Close Word.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T192436Z" creationid="Mac Pro" creationdate="20180425T192436Z">
+        <seg>关闭Word。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13618,6 +13659,15 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="ZH-CN" changeid="Doris" changedate="20180418T123707Z" creationid="Doris" creationdate="20180418T123707Z">
         <seg>创建密钥</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creating a macro to level the character formatting of a paragraph</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T192230Z" creationid="Mac Pro" creationdate="20180425T192230Z">
+        <seg>创建一个宏来平整段落的字符格式
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -21397,6 +21447,14 @@ is to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you have not already done so, add the Developer tab to the ribbon as follows: click on the Office button.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T192352Z" creationid="Mac Pro" creationdate="20180425T192352Z">
+        <seg>如果您尚未这样做，请按如下方式将“开发人员”选项卡添加到功能区：单击Office按钮。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you have the source and the target Properties files for one and the same contents in your language pair, this procedure will create a corresponding tmx file for these contents.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120211T134602Z">
@@ -25146,6 +25204,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180417T012634Z" creationid="lenovo" creationdate="20180417T012634Z">
         <seg>使用以下命令从命令行（MS-DOS窗口）启动OmegaT（如果您不确定如何操作，请参考OmegaT用户手册）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Launch Word again, create a new Word file and add a paragraph of sample text, at least three lines long, e.g.:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T192455Z" creationid="Mac Pro" creationdate="20180425T192455Z">
+        <seg>再次启动Word，创建一个新的Word文件并添加一段至少三行的示例文本，例如：</seg>
       </tuv>
     </tu>
     <tu>
@@ -30058,6 +30124,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120215T140129Z">
         <seg>另一方面，该功能在特殊情况下可能非常有用，您可以针对需要翻译的文本设置分割规则来提高生产力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On the ribbon, check Show Developer tab and confirm with OK.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T192424Z" creationid="Mac Pro" creationdate="20180425T192424Z">
+        <seg>在功能区上，选中Show Developer选项卡并按OK进行确认。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35698,6 +35772,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ZH-CN" changeid="think" changedate="20180416T064309Z" creationid="think" creationdate="20180416T064309Z">
         <seg>选择工具&gt;文本工具。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Word Options.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T192401Z" creationid="Mac Pro" creationdate="20180425T192401Z">
+        <seg>选择Word选项。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43683,6 +43765,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This is a paragraph.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T192530Z" creationid="Mac Pro" creationdate="20180425T192530Z">
+        <seg>这里是一段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This is a valid project file.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T123935Z" creationid="Administrator" creationdate="20180411T123813Z">
@@ -49443,6 +49533,14 @@ from there.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120218T070137Z">
         <seg>如果遇到麻烦，可以向用户组垂询。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can automate the above procedure somewhat by creating a macro.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T192243Z" creationid="Mac Pro" creationdate="20180425T192243Z">
+        <seg>您可以通过创建宏来自动执行上述过程。</seg>
       </tuv>
     </tu>
     <tu>
