@@ -19627,10 +19627,26 @@ script provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Howto - Adding a preview function to OmegaT</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180425T043134Z" creationid="xulihang" creationdate="20180425T043134Z">
+        <seg>Howto - 给OmegaT添加预览功能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Howto - Compiling OmegaT from the source code</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180425T042740Z" creationid="xulihang" creationdate="20180425T042740Z">
         <seg>Howto - 从源码编译OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Howto - Creating a new file filter</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180425T043118Z" creationid="xulihang" creationdate="20180425T043118Z">
+        <seg>Howto - 创建新的文件筛选器</seg>
       </tuv>
     </tu>
     <tu>
@@ -19647,6 +19663,22 @@ script provided (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180425T042723Z" creationid="xulihang" creationdate="20180425T042723Z">
         <seg>Howto - OmegaT和Déjà Vu的兼容</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Howto - Spellchecking</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180425T043207Z" creationid="xulihang" creationdate="20180425T043207Z">
+        <seg>Howto - 拼写检查</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Howto - The "Priorview" preview utility</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180425T043145Z" creationid="xulihang" creationdate="20180425T043145Z">
+        <seg>Howto - "Priorview"预览工具</seg>
       </tuv>
     </tu>
     <tu>
@@ -19687,6 +19719,22 @@ script provided (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180425T043048Z" creationid="xulihang" creationdate="20180425T043048Z">
         <seg>Howto - 在OmegaT中使用微软翻译</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Howto - Using the OmegaT text export function (scripting interface)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180425T043220Z" creationid="xulihang" creationdate="20180425T043220Z">
+        <seg>Howto - 使用OmegaT 文本输出功能 (脚本界面)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Howto - Using the OmegaT tokenizer</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180425T043252Z" creationid="xulihang" creationdate="20180425T043252Z">
+        <seg>Howto - 使用OmegaT的分词器</seg>
       </tuv>
     </tu>
     <tu>
@@ -32472,6 +32520,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Propagation and one-to-many matching HowTo</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180425T043153Z" creationid="xulihang" creationdate="20180425T043153Z">
+        <seg>传送和一对多匹配</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Properties...</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
@@ -36672,6 +36728,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
         <seg>源和目标编码字段使用的组合框包括了所支持的全部编码。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source code</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180425T043302Z" creationid="xulihang" creationdate="20180425T043302Z">
+        <seg>源代码</seg>
       </tuv>
     </tu>
     <tu>
