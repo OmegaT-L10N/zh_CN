@@ -12397,6 +12397,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click on Add.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T195609Z" creationid="Mac Pro" creationdate="20180425T195609Z">
+        <seg>点击添加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click on Assign to assign the shortcut to the macro that you are about to record.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T192828Z" creationid="Mac Pro" creationdate="20180425T192828Z">
@@ -12409,6 +12417,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T193138Z" creationid="Mac Pro" creationdate="20180425T193138Z">
         <seg>点击宏并选择levelformat（或者你给宏的任何名字），然后选择编辑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click on Modify.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T195628Z" creationid="Mac Pro" creationdate="20180425T195628Z">
+        <seg>点击修改。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13659,6 +13675,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131127T094727Z" creationid="Fu Rhong" creationdate="20131127T094727Z">
         <seg>使用希望的语言对和名称（注创建的翻译记忆文件也包含此名称）创建一个独立于其他项目的项目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create a second macro (with its own button and/or keyboard shortcut) of your own that only levels highlighted text, rather than the entire paragraph.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T200055Z" creationid="Mac Pro" creationdate="20180425T200055Z">
+        <seg>创建一个自己的第二个宏（带有自己的按钮和/或键盘快捷键），它只能突出显示文本级别，而不是整个段落。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18393,6 +18417,14 @@ script provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For such paragraphs, consider the following alternatives:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T195758Z" creationid="Mac Pro" creationdate="20180425T195758Z">
+        <seg>对于这些段落，请考虑以下替代方案：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For technical details, see the &lt;u0&gt;Request For Enhancement&lt;/u0&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T061456Z" creationid="weiyi" creationdate="20180406T061456Z">
@@ -22599,6 +22631,15 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120205T115626Z">
         <seg>换句话说，在移动成对标签时请确保开标签和闭标签同时被移动到其他标签对的内部或外部，否则译后文件可能遭破坏而无法打开。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In paragraphs containing lots of formatting, restoring the deleted formatting can be quite a lot of work.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T195749Z" creationid="Mac Pro" creationdate="20180425T195749Z">
+        <seg>在包含大量格式的段落中，恢复已删除的格式可能是相当多的工作。
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -31688,6 +31729,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Pick a symbol, then OK &gt; OK.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T195638Z" creationid="Mac Pro" creationdate="20180425T195638Z">
+        <seg>选择一个符号，然后确定&gt;确定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Pinpoint Align: Select corresponding cell</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T113622Z" creationid="Administrator" creationdate="20180412T113622Z">
@@ -36140,6 +36189,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T131433Z" creationid="Zenobia Fang" creationdate="20180423T131433Z">
         <seg>选择下载是否包含 Java 运行环境（JRE）的 OmegaT。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select your macro.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T195553Z" creationid="Mac Pro" creationdate="20180425T195553Z">
+        <seg>选择你的宏</seg>
       </tuv>
     </tu>
     <tu>
@@ -42342,6 +42399,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The symbol for your macro should appear in the toolbar.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T195652Z" creationid="Mac Pro" creationdate="20180425T195652Z">
+        <seg>您的宏的符号应该出现在工具栏中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The syntax of the language pattern conforms to regular expression syntax.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120217T112534Z">
@@ -44329,6 +44394,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T111056Z" creationid="cpeishan" creationdate="20180407T111056Z">
         <seg>此名单用于对功能和开发进行更技术性的讨论, 并面向 OmegaT 开发人员和其他感兴趣的各方。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This macro is useful for levelling the formatting of a whole paragraph that contains no visible formatting.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T195729Z" creationid="Mac Pro" creationdate="20180425T195729Z">
+        <seg>此宏用于调整不包含可见格式的整个段落的格式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47202,6 +47275,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use Dave Turner's CodeZapper macro.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T195810Z" creationid="Mac Pro" creationdate="20180425T195810Z">
+        <seg>使用Dave Turner的CodeZapper宏。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use Search and Replace to remove double spaces (replacing them with a single space).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T074004Z" creationid="Mac Pro" creationdate="20180425T074004Z">
@@ -48817,6 +48898,14 @@ trouble of selecting, obtaining and installing it.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T010438Z" creationid="Fu Rhong" creationdate="20131117T010438Z">
         <seg>当您想看看译文的最终格式时，按下&lt;k2&gt;Ctrl+D&lt;/k2&gt;会生成已译文档，它们在项目文件夹中的&lt;f3&gt;/target/&lt;/f3&gt;子文件夹。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Where a paragraph contains desired formatting, you must restore the deleted formatting after levelling the paragraph.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T195739Z" creationid="Mac Pro" creationdate="20180425T195739Z">
+        <seg>如果段落包含所需的格式，则必须在平整段落后恢复已删除的格式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50541,6 +50630,14 @@ Finder window to be able to launch it from any location.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131112T114341Z" creationid="Fu Rhong" creationdate="20131112T114341Z">
         <seg>您应该将文件的副本、部分日志、屏幕截图以及其他任何可以帮助开发人员找到并处理您所遇到的Bug的内容添加到报告中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You should see the macro command appear in the right-hand column.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T195619Z" creationid="Mac Pro" creationdate="20180425T195619Z">
+        <seg>您应该看到宏命令出现在右侧的列中。</seg>
       </tuv>
     </tu>
     <tu>
