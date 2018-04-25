@@ -28081,6 +28081,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note that even after Word's settings have been changed so that it does not insert "nuisance" codes, for example for auto-hyphenation, such codes may still be present in the file and not removed by the change in configuration.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T094822Z" creationid="Mac Pro" creationdate="20180425T094822Z">
+        <seg>请注意，即使Word的设置已更改，以便它不插入“滋扰”代码（例如自动连字符），此类代码仍可能存在于文件中，并且不会因配置更改而被删除。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note that if you need or wish to use any of the launch command arguments (see above), you must use the normal installation.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120207T121920Z">
@@ -44103,6 +44111,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This tag apparently cannot be removed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T094441Z" creationid="Mac Pro" creationdate="20180425T094441Z">
+        <seg>这个标签显然不能被删除。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This translation is described as the "default translation".</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T121137Z" creationid="Zoe" creationdate="20180411T121137Z">
@@ -48667,6 +48683,14 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130504T162355Z">
         <seg>Word 软件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Word 2007 inserts a tag at page breaks, even automatic page breaks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T094411Z" creationid="Mac Pro" creationdate="20180425T094411Z">
+        <seg>Word 2007在“分页符”上插入标签，甚至是自动分页符。</seg>
       </tuv>
     </tu>
     <tu>
