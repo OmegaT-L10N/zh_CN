@@ -12277,6 +12277,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click in the box for a new keyboard combination, then experiment with keyboard combinations to find one that is not assigned.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T192753Z" creationid="Mac Pro" creationdate="20180425T192753Z">
+        <seg>单击框中的新键盘组合，然后尝试使用键盘组合找到未分配的键盘组合。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click on '{0}' menu item</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T164354Z">
@@ -12333,6 +12341,22 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click on Assign to assign the shortcut to the macro that you are about to record.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T192828Z" creationid="Mac Pro" creationdate="20180425T192828Z">
+        <seg>点击Assign将快捷方式分配给您即将录制的宏。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click on the Keyboard button.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T192732Z" creationid="Mac Pro" creationdate="20180425T192732Z">
+        <seg>点击键盘按钮。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click on the My Account option at the top of the page.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="weiyi" changedate="20180405T145051Z" creationid="weiyi" creationdate="20180405T145051Z">
@@ -12369,6 +12393,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
         <seg>点击该链接可在编辑器窗格中跳转至该片段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click on the paragraph mark button to make paragraph marks visible.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T192617Z" creationid="Mac Pro" creationdate="20180425T192617Z">
+        <seg>点击段落标记按钮可以显示段落标记。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13583,6 +13615,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Create the macro:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T192639Z" creationid="Mac Pro" creationdate="20180425T192639Z">
+        <seg>创建宏：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Create your own key then input it below.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T030414Z" creationid="xulihang" creationdate="20180404T030414Z">
@@ -13996,6 +14036,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T120612Z">
         <seg>Ctrl+S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+Shift+9 appears not to be assigned to any other function in the basic Word installation, but you can use any other combination that has not already been assigned.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T192816Z" creationid="Mac Pro" creationdate="20180425T192816Z">
+        <seg>Ctrl + Shift + 9似乎没有被分配给基本Word安装中的任何其他功能，但您可以使用尚未分配的任何其他组合。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20161,6 +20209,14 @@ need not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If a combination you try is already assigned, a message to this effect is displayed in the dialogue, and you can delete the combination and try another.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T192804Z" creationid="Mac Pro" creationdate="20180425T192804Z">
+        <seg>如果您尝试的组合已被分配，则会在对话框中显示此结果的消息，您可以删除组合并尝试其他组合。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If a file does not load into the &lt;g0&gt;Editor&lt;/g0&gt; pane, then it could be that it is in a format that doesn't work in OmegaT.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T025123Z" creationid="Fu Rhong" creationdate="20131117T025013Z">
@@ -21431,6 +21487,14 @@ is to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you have made changes to your Normal.dotm, you might want to back this up first.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T192721Z" creationid="Mac Pro" creationdate="20180425T192721Z">
+        <seg>如果您对Normal.dotm进行了更改，则可能需要先将其备份。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you have made changes to your&lt;f0&gt; OmegaT.l4J.ini &lt;/f0&gt;file and/or are using a .bat file, you must copy these over.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120206T120930Z">
@@ -22551,6 +22615,14 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T024704Z" creationid="weiyi" creationdate="20180406T024704Z">
         <seg>在编辑器中，此译文片段显示为&lt;EMPTY&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the Macro name box, type a name for the macro, such as "levelformat".</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T192656Z" creationid="Mac Pro" creationdate="20180425T192656Z">
+        <seg>在开发人员选项卡上，单击记录宏。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31484,6 +31556,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T021035Z" creationid="xulihang" creationdate="20180408T021035Z">
         <seg>将压缩包放在任何合适的文件夹解压</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Place the cursor in your paragraph of text (not in the first or last lines).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T192632Z" creationid="Mac Pro" creationdate="20180425T192632Z">
+        <seg>将光标放在文本段落中（不在第一行或最后一行）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45067,6 +45147,15 @@ the server.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180420T062204Z" creationid="lenovo" creationdate="20180415T053122Z">
         <seg>为了以更加用户友好的方式启动 OmegaT ，可以将其添加到您的应用程序启动菜单中或者在桌面上设置启动图标。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To make the macro available in all documents, select Normal.dotm in the "Store macro in" box.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T192709Z" creationid="Mac Pro" creationdate="20180425T192709Z">
+        <seg>要使宏在所有文档中可用，请在“存储宏在”框中选择Normal.dotm。
+</seg>
       </tuv>
     </tu>
     <tu>
