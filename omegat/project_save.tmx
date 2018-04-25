@@ -22685,8 +22685,8 @@ click on that shortcut.</seg>
       <tuv lang="EN">
         <seg>In the Macro name box, type a name for the macro, such as "levelformat".</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T192656Z" creationid="Mac Pro" creationdate="20180425T192656Z">
-        <seg>在开发人员选项卡上，单击记录宏。</seg>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T194925Z" creationid="Mac Pro" creationdate="20180425T194925Z">
+        <seg>在宏名框中，键入该宏的名称，如“levelformat”。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30244,6 +30244,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
         <seg>在 Windows 中可以称之为 "MS-DOS 窗口"，可从开始菜单，程序中的 "MS-DOS" 项找到。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On the Developer tab, click on Record Macro.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T194755Z" creationid="Mac Pro" creationdate="20180425T194755Z">
+        <seg>在开发人员选项卡上，单击记录宏。</seg>
       </tuv>
     </tu>
     <tu>
