@@ -12761,6 +12761,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Connect</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180425T042238Z" creationid="xulihang" creationdate="20180425T042238Z">
+        <seg>连接</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Connection available, the project is in team project mode.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130504T151303Z">
@@ -12797,6 +12805,22 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T090316Z" creationid="chloechao" creationdate="20180412T090316Z">
         <seg>包含指导手册和样本资源</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Contact</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180425T042441Z" creationid="xulihang" creationdate="20180425T042222Z">
+        <seg>联系</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Contact and Support</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180425T042306Z" creationid="xulihang" creationdate="20180425T042306Z">
+        <seg>联系和支持</seg>
       </tuv>
     </tu>
     <tu>
@@ -15066,6 +15090,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T164309Z">
         <seg>停靠</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Documentation</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180425T042209Z" creationid="xulihang" creationdate="20180425T042209Z">
+        <seg>文档</seg>
       </tuv>
     </tu>
     <tu>
@@ -30804,6 +30836,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Page Not Found</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180425T042255Z" creationid="xulihang" creationdate="20180425T042255Z">
+        <seg>页面不存在</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Page slips through fingers&lt;p&gt;Pulse pounding hard and frantic&lt;p&gt;Vanishing like mist.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130509T153528Z">
@@ -33710,6 +33750,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T015840Z" creationid="Administrator" creationdate="20180412T015840Z">
         <seg>资源名称</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Resources</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180425T042229Z" creationid="xulihang" creationdate="20180425T042229Z">
+        <seg>资源</seg>
       </tuv>
     </tu>
     <tu>
@@ -38854,6 +38902,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="flycr" changedate="20180408T100102Z" creationid="flycr" creationdate="20180406T131948Z">
         <seg>Mozilla DTD过滤器抛出异常::</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The OmegaT Project</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180425T042247Z" creationid="xulihang" creationdate="20180425T042247Z">
+        <seg>OmegaT项目</seg>
       </tuv>
     </tu>
     <tu>
