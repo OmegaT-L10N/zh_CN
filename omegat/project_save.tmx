@@ -13986,8 +13986,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Ctrl+C (this copies the paragraph)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T193105Z" creationid="Mac Pro" creationdate="20180425T193105Z">
-        <seg>Ctrl + C（此复制段落）</seg>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T200531Z" creationid="Mac Pro" creationdate="20180425T193105Z">
+        <seg>Ctrl + C（复制此段落）</seg>
       </tuv>
     </tu>
     <tu>
@@ -35891,8 +35891,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Select "levelformat" (or whatever you called it).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T195316Z" creationid="Mac Pro" creationdate="20180425T195316Z">
-        <seg>选择“levelformat”（或任何你称之为的）。</seg>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T200619Z" creationid="Mac Pro" creationdate="20180425T195316Z">
+        <seg>选择“levelformat”（或任何你选择的名字）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42938,8 +42938,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>Then on the right, under Macros, select levelformat (or whatever you called your macro).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T195354Z" creationid="Mac Pro" creationdate="20180425T195354Z">
-        <seg>然后在右边的宏下，选择levelformat（或者任何你称之为宏）。</seg>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T200641Z" creationid="Mac Pro" creationdate="20180425T195354Z">
+        <seg>然后在右边的宏下，选择levelformat（或者任何你命名的宏）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50363,8 +50363,8 @@ the installation script (linux-install.sh).</seg>
       <tuv lang="EN">
         <seg>You can then enter a new shortcut and assign it with Assign as you did before.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T195508Z" creationid="Mac Pro" creationdate="20180425T195508Z">
-        <seg>然后，您可以输入一个新的快捷方式，并像以前一样为其指定Assign。</seg>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T200656Z" creationid="Mac Pro" creationdate="20180425T195508Z">
+        <seg>然后，您可以输入一个新的快捷方式，并像以前一样为其指定“Assign”。</seg>
       </tuv>
     </tu>
     <tu>
