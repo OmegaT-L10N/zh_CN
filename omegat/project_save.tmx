@@ -49632,6 +49632,14 @@ the installation script (linux-install.sh).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can level the formatting of paragraphs essentially by copying whole paragraphs in MS Word and pasting them back over themselves such that the entire paragraph assumes the formatting of the first character.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T191906Z" creationid="Mac Pro" creationdate="20180425T191906Z">
+        <seg>您可以基本上通过复制MS Word中的整个段落并将它们粘贴回自己以使整个段落采用第一个字符的格式来平整段落的格式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can modify OmegaT's behaviour by editing the &lt;e0&gt;Properties&lt;/e0&gt; as well as the &lt;e1&gt;Configuration.properties&lt;/e1&gt; file in the package.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="17012" changedate="20180405T103038Z" creationid="17012" creationdate="20180405T102711Z">
