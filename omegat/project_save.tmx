@@ -10674,6 +10674,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Be careful to choose a font that contains both the necessary Asian and "normal" characters, such as MS Mincho, but without the "[text body]" style suffix.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T093337Z" creationid="Mac Pro" creationdate="20180425T093337Z">
+        <seg>仔细选择字体，使其包含必要的亚洲字符和“通用”字符，例如MS Mincho，但没有“[text body]”样式后缀。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Be careful to preserve these in the same way that you would handle OmegaT's own inline tags (the inline tag functionality of OmegaT, such as the tag validation function, is not available in this case, however).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T121151Z" creationid="lenovo" creationdate="20180416T121151Z">
