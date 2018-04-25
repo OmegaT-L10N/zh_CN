@@ -8794,6 +8794,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After entering these commands, click Stop Recording.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T193127Z" creationid="Mac Pro" creationdate="20180425T193127Z">
+        <seg>输入这些命令后，单击停止录制。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>After joining, visit the &lt;a0&gt;OmegaT Localization Plan&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T131229Z" creationid="lenovo" creationdate="20180416T131229Z">
@@ -9853,6 +9861,14 @@ The TMX file will not be loaded.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T114720Z">
         <seg>在 "//" 后的所有内容将被忽略。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Anything you now do will be recorded in the macro, so follow this procedure carefully:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T192839Z" creationid="Mac Pro" creationdate="20180425T192839Z">
+        <seg>您现在所做的任何操作都将记录在宏中，因此请谨慎执行此过程：</seg>
       </tuv>
     </tu>
     <tu>
@@ -12349,6 +12365,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click on Macros and select levelformat (or whatever name you gave to your macro), then Edit.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T193138Z" creationid="Mac Pro" creationdate="20180425T193138Z">
+        <seg>点击宏并选择levelformat（或者你给宏的任何名字），然后选择编辑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click on the Keyboard button.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T192732Z" creationid="Mac Pro" creationdate="20180425T192732Z">
@@ -13888,6 +13912,22 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl+C (this copies the paragraph)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T193105Z" creationid="Mac Pro" creationdate="20180425T193105Z">
+        <seg>Ctrl + C（此复制段落）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+Cursor Up (this takes the cursor to the beginning of the paragraph)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T192904Z" creationid="Mac Pro" creationdate="20180425T192904Z">
+        <seg>Ctrl +光标向上（这将光标移动到段落的开头）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl+D</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T120613Z">
@@ -14048,6 +14088,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl+Shift+Cursor Down (this selects the paragraph, including the paragraph mark)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T193050Z" creationid="Mac Pro" creationdate="20180425T193050Z">
+        <seg>Ctrl + Shift +光标向下（这将选择段落，包括段落标记）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl+Shift+N</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T123918Z">
@@ -14084,6 +14132,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T120855Z">
         <seg>Ctrl+U</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+V (this pastes the text of the paragraph back over the paragraph)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T193114Z" creationid="Mac Pro" creationdate="20180425T193114Z">
+        <seg>Ctrl + V（这会将段落的文本粘贴到段落上）</seg>
       </tuv>
     </tu>
     <tu>
@@ -36284,6 +36340,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ZH-CN" changeid="Zoe" changedate="20180412T151345Z" creationid="Zoe" creationdate="20180412T151345Z">
         <seg>随后她发现短语“abc”应被译作“def”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Shift+Cursor Left (this moves the end of the selection one character to the left so that it no longer includes the paragraph mark)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T193056Z" creationid="Mac Pro" creationdate="20180425T193056Z">
+        <seg>Shift +光标左移（这会将选区的末尾向左移动一个字符，以便不再包含段落标记）</seg>
       </tuv>
     </tu>
     <tu>
