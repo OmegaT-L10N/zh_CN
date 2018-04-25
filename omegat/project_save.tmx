@@ -40,8 +40,8 @@
       <tuv lang="EN">
         <seg>"Levelling" the formatting means applying the format of the first character in a selection of text (such as a whole paragraph) to all subsequent characters.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T101002Z" creationid="Mac Pro" creationdate="20180425T101002Z">
-        <seg>“平整”格式意味着将选定文本中的第一个字符的格式（例如整段），来应用于所有后续字符。</seg>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T193821Z" creationid="Mac Pro" creationdate="20180425T101002Z">
+        <seg>“平整”格式意味着将选定文本中的第一个字符的格式（例如整段），应用于所有后续字符。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18297,6 +18297,14 @@ script provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For levelformat, this should be:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T193159Z" creationid="Mac Pro" creationdate="20180425T193159Z">
+        <seg>您的宏代码将被显示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For most users, these are not of interest.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T162046Z" creationid="Zenobia Fang" creationdate="20180423T162046Z">
@@ -28543,8 +28551,8 @@ appropriate location such as the Applications folder.</seg>
       <tuv lang="EN">
         <seg>Note that this is not the same as "deleting" the formatting, which would cause the character formatting to revert to the document's default.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T102014Z" creationid="Mac Pro" creationdate="20180425T102014Z">
-        <seg>请注意，这与“删除”格式不同，这会导致字符格式化恢复为文档的默认格式。</seg>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T193829Z" creationid="Mac Pro" creationdate="20180425T102014Z">
+        <seg>需要注意的是，这与“删除”格式不同，这会导致字符格式化恢复为文档的默认格式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49962,8 +49970,8 @@ the installation script (linux-install.sh).</seg>
       <tuv lang="EN">
         <seg>You can level the formatting of paragraphs essentially by copying whole paragraphs in MS Word and pasting them back over themselves such that the entire paragraph assumes the formatting of the first character.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T191906Z" creationid="Mac Pro" creationdate="20180425T191906Z">
-        <seg>您可以基本上通过复制MS Word中的整个段落并将它们粘贴回自己以使整个段落采用第一个字符的格式来平整段落的格式。</seg>
+      <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T194709Z" creationid="Mac Pro" creationdate="20180425T191906Z">
+        <seg>您基本上可以复制MS Word中的整个段落并将它们粘贴回自己以使整个段落采用第一个字符的格式来平整段落的格式。</seg>
       </tuv>
     </tu>
     <tu>
