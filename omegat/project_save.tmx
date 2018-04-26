@@ -21520,8 +21520,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="EN">
         <seg>If you find the suggestion acceptable, press &lt;k0&gt; &lt;k1&gt;&lt;i2/&gt;Ctrl&lt;/k1&gt; &lt;k3&gt;M&lt;/k3&gt; &lt;/k0&gt; to replace the target part of the opened segment with the suggestion.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120209T071454Z">
-        <seg>如果发现了可接受的建议，按下 &lt;k0&gt; &lt;k1&gt;&lt;i2/&gt;Ctrl&lt;/k1&gt; &lt;k3&gt;M&lt;/k3&gt; &lt;/k0&gt; 可使用它替换已打开片段的目标部分。</seg>
+      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180426T015152Z">
+        <seg>如果发现了可接受的建议，按下&lt;k0&gt; &lt;k1&gt;&lt;i2/&gt;Ctrl&lt;/k1&gt; &lt;k3&gt;M&lt;/k3&gt; &lt;/k0&gt; 可使用它替换已打开片段的目标部分。</seg>
       </tuv>
     </tu>
     <tu>
