@@ -49728,6 +49728,14 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You already have the latest version.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20181206T022405Z" creationid="xulihang" creationdate="20181206T022405Z">
+        <seg>当前版本已经是最新的的了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You are also free to copy it and pass it on to other people.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="18261" changedate="20180412T100842Z" creationid="18261" creationdate="20180412T100842Z">
