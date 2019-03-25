@@ -51,3 +51,4 @@ out-of-turn tags	外转标签
 OmegaT	OmegaT
 libraries	库
 ctype	ctype	此处存疑
+project	项目
