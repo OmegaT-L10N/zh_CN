@@ -23860,8 +23860,8 @@ click on that shortcut.</seg>
       <tuv lang="EN">
         <seg>Initialized {0}-{1} team project.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190320T084827Z" creationid="wynnc" creationdate="20190320T084827Z">
-        <seg>Initialized {0}-{1} team project.</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190325T160733Z" creationid="wynnc" creationdate="20190320T084827Z">
+        <seg>已初始化 {0}-{1} 团队项目。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32584,10 +32584,9 @@ installed on your system.</seg>
 material in ./tm, ./glossary, and ./dictionary as required, then commit
 everything.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190320T084835Z" creationid="wynnc" creationdate="20190320T084835Z">
-        <seg>Place source files in ./source and supplemental
-material in ./tm, ./glossary, and ./dictionary as required, then commit
-everything.</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190325T160858Z" creationid="wynnc" creationdate="20190320T084835Z">
+        <seg>根据需要将原文文件放在 ./source 中、补充资料放在
+./tm、./glossary、和 ./dictionary 中，然后提交所有内容。</seg>
       </tuv>
     </tu>
     <tu>
