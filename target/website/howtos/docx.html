@@ -1,0 +1,118 @@
+<div class="container">
+  <p>本HowTo提供有关在OmegaT中翻译MS Office 2007及更高版本（Office Open XML，.docx）文件的提示。</p>
+  <h3>背景</h3>
+  <p>随着Microsoft Office 2007的出现，Microsoft Word，Excel和Powerpoint具有新的默认文件格式。这些格式正式称为“Office Open XML”，分别具有扩展名.docx，.xlsx和.pptx。这些格式也在MS Office 2010中使用。为了方便起见，下面将它们称为“MS Office 2007文件格式”。</p>
+  <p>从版本1.7.1开始，OmegaT能够直接处理Microsoft Office 2007文件，无需转换。随着OmegaT 2.1.8版的出现，在OmegaT中处理这种文件格式也变得更加用户友好。</p>
+  <h3>与OmegaT结合使用.docx格式的优势</h3>
+  <p>随着客户/作者将Microsoft Office / Word升级到更新版本，翻译人员可能希望以新格式越来越多地接收文件。与传统的.doc，.xls和.ppt格式不同，这些文件可以直接在OmegaT中处理，而不会由于转换为其他格式而导致格式丢失。</p>
+  <p>新格式还可以作为处理旧版.doc，.xls和.ppt格式的有用方式，因为它们可以转换为其MS Office 2007对应版本，在OmegaT中翻译并再次转换。因此，对于不希望为此使用OpenOffice.org的翻译人员而言，此过程是一种选择。</p>
+  <h3>转换为MS Office 2007格式</h3>
+  <p>您可以将MS Office 1997/2000/2003 / XP文件转换为MS Office 2007格式，方法是在MS Office 2007中打开它们，并以新格式保存为“另存为”。（由于这是标准格式，因此在MS Office 2007中简单描述为Word，Excel或Powerpoint）。</p>
+  <p>Linux用户：MS Office 2007和Microsoft兼容插件均在<a href="http://www.codeweavers.com"> Crossover Linux上运行。&lt;/ a0&gt;</p>
+  <h3>在OmegaT中使用.docx，.xlsx和.pptx格式时需要注意的事项</h3>
+  <p>在2.1.8之前的OmegaT版本中，MS Office 2007文件中的每个格式更改都会导致一连串多个标签，这通常会导致处理此文件格式不切实际。从版本2.1.8开始，默认情况下，这些多个标签现在被汇总（压缩）成一个标签。因此，希望翻译MS Office 2007文件的用户应该升级到OmegaT 2.1.8或更高版本。</p>
+  <p>（使用.docx文件进行标签处理的难度越来越大，这是以格式化控制方面的轻微损失为代价的。例如，如果没有“聚合标签”功能，则源文本中的单词以粗体和斜体显示，译者可以选择仅以粗体显示，或仅以斜体显示。启用“聚合标签”功能后，这是不可能的。大多数用户可能会发现更大的易用性超过了这个缺点。)</p>
+  <p>.docx格式也容易引入“滋扰”格式代码，导致OmegaT编辑器窗格中出现不需要的和不必要的标签。由于这些在翻译过程中不方便，因此在开始OmegaT翻译之前，尝试去除这些令人讨厌的标签是值得的。OmegaT与处理.docx格式的其他CAT工具共享此问题，并且解决方案相似或相同。</p>
+  <h3>如何从.docx文件中删除不需要的格式代码</h3>
+  <ul>
+    <li>
+      <p>Word 2007标记任何不在其拼写词典中的单词，因此即使是一些它认为拼错的单词也会导致过多的标签。如果OmegaT中的每个单词都包含在标签内，Word可能会拼写检查文本而无法访问合适的拼写字典，因此将每个单词标记为拼写错误。一种解决方案是关闭Word中的自动拼写检查。</p>
+    </li>
+    <li>
+      <p>自动连字还会添加不必要的标签，因此请将其禁用。需要为每个文档执行此操作，在这种情况下，Word 2007中的过程是：单击“页面布局”选项卡; 在“页面设置”组中，单击“断字”; 然后单击"无"。</p>
+    </li>
+    <li>
+      <p>使用"查找"和"替换"，用单空格替换双空格。</p>
+    </li>
+    <li>如果在文本既含有亚洲字符与“通用”字符（如拉丁语），使用Ctrl+A全选，并选择字体。仔细选择字体，使其包含必要的亚洲字符和“通用”字符，例如MS Mincho，但没有“[text body]”样式后缀。</li>
+    <li>
+      <p>Word 2007在“分页符”上插入标签，甚至是自动分页符。这个标签显然不能被删除。</p>
+    </li>
+  </ul>
+  <p>请注意，以为了不插入“干扰”代码（例如自动连字符），即使Word的设置已更改，此类代码仍可能存在于文件中，并且不会因配置更改而被删除。下面介绍这些代码如何被删除。但是，在按照以下说明去除干扰码之前，记得首先在Word中进行配置更改，或者在下一次打开文件时，word可能会再次重新插入干扰码。</p>
+  <h3>第三方工具</h3>
+  <p>如前所述，MS Word的这个问题并不是OmegaT独有的。已经有第三方工具来处理这个问题。其中两个分别是：</p>
+  <p><a href="http://asap-traduction.com/CodeZapper">CodeZapper</a> 便宜</p>
+  <p><a href="http://www.translatortools.net/word-doccleaner.html">文件清洁器</a> (免费）</p>
+  <h3>调平字符的格式</h3>
+  <p>在文本上运行CodeZapper宏的另一种方法是“级别”格式化。“平整”格式意味着将选定文本中的第一个字符的格式（例如整段），应用于所有后续字符。需要注意的是，这与“删除”格式不同，这会导致字符格式化恢复为文档的默认格式。</p>
+  <p>您基本上可以复制MS Word中的整个段落，并粘贴他们至整个段落，使整段采用第一个字符的格式来平整段落的格式。</p>
+  <h3>手动调整段落的字符格式</h3>
+  <p>第1步：取消隐藏段落标记。通过反复点击来标记每个段落，直到整个段落突出显示。然后将突出显示的一个字符的末尾向左移动，使其不包含段落标记。</p>
+  <p>第2步：复制突出显示的文本（Ctrl + C）。
+然后选择“特殊粘贴”（Word 2003）或单击“插入”按钮（Word 2007）底部的箭头以获取扩展粘贴选项。
+最后，使用“无格式Unicode文本”选项插入内容。
+</p>
+  <p>在段落包含内联格式（粗体，斜体，超链接等）的情况下，您可以：
+</p>
+  <p>- 如上所述使用宏对这些段落进行格式化，然后重新插入格式;要么
+</p>
+  <p>- 只将文本标记到格式化部分的开头，复制此文本并将其粘贴，然后在格式化后的部分之后对文本重复该过程。
+ </p>
+  <h3>创建一个宏来平整段落的字符格式
+</h3>
+  <p>您可以通过创建宏来自动执行上述过程。下面提供了创建宏的简要说明（在MS Office 2007中）。(For more detailed instructions, refer to your instruction manual or click <a href="http://www.dummies.com/how-to/content/how-to-create-a-word-2007-macro.html">here</a> or <a href="https://oit.nd.edu/assets/141085/word_2013_macros_qrg.pdf">here</a>.)</p>
+  <p>如果您尚未这样做，请按如下方式将“开发人员”选项卡添加到功能区：单击Office按钮。选择Word选项。单击Word选项对话框中的“常用”。在功能区上，选中“Show Developer”选项卡并按OK进行确认。关闭Word。</p>
+  <p>再次启动Word，创建一个新的Word文件并添加一段至少三行的示例文本，例如：</p>
+  <p>这里是一段。这里是一段。这里是一段。这里是一段。这里是一段。这里是一段。这里是一段。这里是一段。这里是一段。这里是一段。这里是一段。这里是一段。这里是一段。这里是一段。这里是一段。这里是一段。这里是一段。这里是一段。这里是一段。这里是一段。这里是一段。这里是一段。</p>
+  <p>点击段落标记按钮可以显示段落标记。</p>
+  <p>将光标放在文本段落中（不在第一行或最后一行）。</p>
+  <p>创建宏：</p>
+  <p>在开发人员选项卡上，单击记录宏。</p>
+  <p>在宏名框中，键入该宏的名称，如“levelformat”。要使宏在所有文档中可用，请在“存储宏在”框中选择Normal.dotm。
+如果您对Normal.dotm进行了更改，则可能需要先将其备份。 </p>
+  <p>点击键盘按钮。单击框中的新键盘组合，然后尝试使用键盘组合找到未分配的键盘组合。如果您尝试的组合已被分配，则会在对话框中显示此结果的消息，您可以删除组合并尝试其他组合。Ctrl + Shift + 9似乎没有被分配给基本Word安装中的任何其他功能，您可以使用尚未分配的任何快捷键组合。</p>
+  <p>点击“Assign”将快捷方式分配给您即将录制的宏。您现在所做的任何操作都将记录在宏中，因此请谨慎执行此过程：</p>
+  <p>Ctrl +光标向上（这将光标移动到段落的开头）</p>
+  <p>Ctrl + Shift +光标向下（这将选择段落，包括段落标记）</p>
+  <p>Shift +光标左移（这会将选区的末尾向左移动一个字符，以便不再包含段落标记）</p>
+  <p>Ctrl + C（复制此段落）</p>
+  <p>Ctrl + V（这会将段落的文本粘贴到段落上）</p>
+  <p>输入这些命令后，单击停止录制。</p>
+  <p>点击宏并选择levelformat（或者你给宏的任何名字），然后选择编辑。The code of your macro(s) will be displayed. 您的宏代码将被显示。</p>
+  <p>___________________<br/>
+Sub levelformat()<br/>
+'<br/>
+' levelformat macro<br/>
+'<br/>
+'<br/>
+    Selection.MoveUp Unit:=wdParagraph, Count:=1<br/>
+    Selection.MoveDown Unit:=wdParagraph, Count:=1, Extend:=wdExtend<br/>
+    Selection.MoveLeft Unit:=wdWord, Count:=1, Extend:=wdExtend<br/>
+    Selection.Copy<br/>
+    Selection.PasteAndFormat (wdPasteDefault)<br/>
+End Sub<br/>
+___________________</p>
+  <p>更改该行</p>
+  <p>        Selection.PasteAndFormat (wdPasteDefault)</p>
+  <p>改为:</p>
+  <p>        Selection.PasteSpecial DataType:=wdPasteText</p>
+  <p>用Ctrl + S保存，然后关闭宏编辑窗口。</p>
+  <p>如果一切都按计划进行，现在你的宏应该工作。要对其进行测试，请在Word文档中添加一些格式，例如将一个单词用粗体表示。现在只需将光标放在段落的任意位置，然后按Ctrl + Shift + 9（或其他任何键盘快捷键），您应该看到格式消失</p>
+  <p>您可以随时更改键盘快捷键。为此，请单击主“Office”按钮，然后单击Word选项（对话框的右下角）。</p>
+  <p>点击自定义&gt;选择命令。从下拉列表中选择宏。选择“levelformat”（或任何你选择的名字）。</p>
+  <p>在键盘快捷键旁边对话框的底部，点击自定义。</p>
+  <p>在类别框中，向下滚动到宏并选中它。然后在右边的宏下，选择levelformat（或者任何你命名的宏）。当前快捷方式将显示在相关框中。您可以通过选择并按删除键来清除它。然后，您可以输入一个新的快捷方式，并像以前一样为其指定“Assign”。关闭/确认对话框。</p>
+  <p>您可以使用类似的过程为您的宏创建一个按钮：</p>
+  <p>再次点击主“Office”按钮，然后点击Word选项。</p>
+  <p>点击自定义&gt;选择命令。从下拉列表中选择宏。选择你的宏</p>
+  <p>点击添加您应该看到宏命令出现在右侧的列中。点击修改。</p>
+  <p>选择一个符号，然后确定&gt;确定。您的宏的符号应该出现在工具栏中。</p>
+  <p>此宏用于调整不包含可见格式的整个段落的格式。如果段落包含所需的格式，则必须在平整段落后恢复已删除的格式。在包含大量格式的段落中，恢复已删除的格式可能是相当多的工作。
+对于这些段落，请考虑以下替代方案： </p>
+  <ul>
+    <li>
+      <p>使用Dave Turner的CodeZapper宏。 </p>
+    </li>
+    <li>
+      <p>创建一个自己的第二个宏（带有自己的按钮和/或键盘快捷键），它只能突出显示文本级别，而不是整个段落。(Record as described above, but only recording the command Ctrl+C followed by Ctrl+V.) You can then highlight text between the points at which formatting changes. This will level the formatting over sections of text that have the same, desired formatting, and you will not then need to restore deleted formatting.</p>
+    </li>
+    <li>
+      <p>Use the level formatting macro only on paragraphs with little or no formatting. Paragraphs that you have not "levelled" will then contain nuisance tags, but at least the others will be much "cleaner".</p>
+    </li>
+    <li>
+      <p>More advanced users may wish to try OmegaT's Text Export function. In conjunction with the te-st-notags script, this provides a separate window in which tags are not displayed. You must still handle tags properly when producing and editing your translation, but you can view it in a separate window without the clutter of tags ("tag soup").</p>
+    </li>
+  </ul>
+  <p>版权归属于Marc Prior 2009-2011</p>
+</div>

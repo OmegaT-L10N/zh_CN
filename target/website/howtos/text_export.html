@@ -1,0 +1,104 @@
+
+<div class="container">
+
+<p>自2.0.1版本开始，OmegaT加入了文本导出功能。这篇HOWTO描述了这一功能以及一些可能的用途。此外，文件包 <a href="{{ '/files/omegatk/te-scripts.zip' | prepend: site.baseurl_root }}">te-scripts.zip</a> 包含了一些非常简单的tcl/tk 脚本，旨在演示这一功能的用法。</p>
+
+<h3>目的</h3>
+
+<p>文本导出功能会把当前OmegaT项目的内容导出为纯文本文件。目前，导出的数据为：</p>
+
+<p>- 片段打开时，片段源文本内容<br/>- 片段打开时，片段目标文本内容<br/>- 按下相关快捷键时，目标文本中的高亮文本</p>
+
+<p>程序员和工作人员可以使用包含这些文本的文件，旨在为OmegaT加入更多功能。他们不需要懂Java；大多数时候，不是所有编程语言都会用到，并且有些实用的功能甚至仅仅用到了相当有限的编程技能就得以实现。</p>
+
+<h3>使用文本导出功能</h3>
+
+<p>若要使用文本导出功能，务必先启用OmegaT内的该项功能：</p>
+
+<p>选项菜单&gt;编辑行为</p>
+
+<p>然后，点击“将片段导出到文本文件”选框。</p>
+
+<p>导出的文件会保存到OmegaT用户文件中的/script子文件夹中（OmegaT用户文件夹在你的操作系统中的存储位置，参见使用手册（在OmegaT软件中使用F1键）&gt;文件和目录&gt;用户文件）：</p>
+
+<p>source.txt - 包含片段的源文本<br/>target.txt - 包含片段的目标文本<br/>selection.txt - 包含用户在按下Ctrl-Shift-C 或选择编辑 &gt;导出选中部分时高亮过的文本</p>
+
+<p>打开新片段（source.txt 和 target.txt）或导出新的选中部分（selection.txt）时，会覆盖该文件的原有内容。导出的文件是没有格式的纯文本文件。</p>
+
+<h3>使用样本脚本</h3>
+
+<p>必须安装Tcl/tk工具控制语言。可以从许多地方获取Tcl/tk；tcl.activestate.com是最受欢迎的下载处。Mac OSX系统用户应该从系统媒体中安装tcl/tk，Linux系统用户若发现系统没有默认安装tcl/tk，应去发布仓库里查找。（Ubuntu系统用户注意：当前版本的Ubuntu系统（9.10）中的tcl/tk默认安装中的字体略不美观，但这是可以调正的。）</p>
+
+<p>为了使脚本代码清晰可读，每个脚本基本上只实现一项功能。如果现实情况同时要使用多种功能，将这些脚本合并成一个单独文件会更有效率。</p>
+
+<p>所提供的样例脚本 <a href="{{ '/files/omegatk/te-scripts.zip' | prepend: site.baseurl_root }}">这里</a>都会运行一个窗口，但那些可以在背景中实现功能的脚本都十分好理解。 </p>
+
+<p>运行脚本：</p>
+
+<p>复制脚本文件到OmegaT的“script”文件夹，即包含source.txt等文件的文件夹。（脚本文件原则上可以放在任意处，但随后编辑时必须要加上脚本文件的路径。）</p>
+
+<p>运行脚本可能只需要用鼠标点击文件，这取决于你的系统设定。其他方案：</p>
+
+<p>打开命令行窗口（DOS prompt, terminal, console）</p>
+
+<p>将文件夹目录转向脚本文件夹，例如，（Windows XP系统）：</p>
+
+<p>cd C:\Documents and Settings\User Name\Application Data\OmegaT\script</p>
+
+<p>用“wish”加脚本文件名运行脚本，例如：</p>
+
+<p>wish te-basic-source.tcl</p>
+
+<h3>单个脚本描述</h3>
+
+<p><strong>te-basic-source</strong></p>
+
+<p>这个脚本在独立窗口中展示源文本。其本身仅仅是做到了OmegaT编辑器窗格可以做到的功能；该脚本旨在展示如何将文本从脚本文件中提取出来，并用为更多脚本所用。脚本窗口中的内容是可编辑的，也可以复制粘贴回OmegaT编辑器窗格。</p>
+
+<p><strong>te-basic-target</strong></p>
+
+<p>该脚本是针对te-basic-target，而不是针对目标文本的。</p>
+
+<p><strong>te-warning</strong></p>
+
+<p>除了展示源文本，这个脚本提供了一个输入框，用户可以键入字符串（例如，一个单词）。当包含这个字符串的OmegaT片段开启，这个脚本会输出一个警告。警告采用脚本窗口中文本的形式，采用黄色高亮。此外，如果硬件以及操作系统支持（通常不会出现这种情况），会发出哔哔的提示音。</p>
+
+<p>以下是这一功能的使用样例。译员有一段包含短语“abc”的文本，并且已经完成了该文本的初稿翻译，将“abc”翻译作“abc”。随后她发现短语“abc”应被译作“def”。比起找出所有的“abc”案例并加以改正，之后再继续工作（这样可能，但会有障碍），译员可以选择在译下一稿时再修正该错误。这种情况下，在每个相关片段设置“备忘录”可能有所帮助。</p>
+
+<p><strong>te-notags</strong></p>
+
+<p>正如其文件名所示，此脚本会将OmegaT（目标）片段中的标签自动去除。这对于在屏幕上<i>核查</i>有许多标签的片段是非常有用的，因为人眼很容易忽略掉缺失或者是双空格的情况，例如。</p>
+
+<p><strong>te-tags</strong></p>
+
+<p>这个脚本用一种特殊的字体展示目标片段（写死在脚本中，但可以编辑）而非采用默认字体。标签以一种不同的字体显示，旨在减少干扰性。与te-notags不同，翻译者可以在此窗口中工作，然后将内容全部复制并粘贴到OmegaT编辑器窗格中。</p>
+
+<p><strong>te-gloss-highlight</strong></p>
+
+<p>该脚本会读取术语表文件的内容，并高亮显示当前（源）片段中找到的所有术语。词汇表文件必须仅包含两列，名称为GLOSS.utf8，并且存于/ script文件夹中。</p>
+
+<p><strong>te-gloss-subst</strong></p>
+
+<p>与 te-gloss-highlight类似，但会用目标术语替换词汇表中的源术语。</p>
+
+<p><strong>te-gloss-subst-highlight</strong></p>
+
+<p>结合te-gloss-highlight和te-gloss-subst的替换和高亮显示功能。</p>
+
+<h3>在tcl/tk中编程</h3>
+
+<p>Tcl/tk作为一种脚本语言，具有很多优势：</p>
+
+<p>- 易于学习<br/>-免费<br/>-应用广泛，可在网上找到帮助<br/>-Tk部分的应用便于产出图形用户界界面<br/>-有很多优质可用的书籍和其它资源（至少有很多英文资源）<br/>- 它是面向字符串的，使其特别适用于涉及文本的应用程序</p>
+
+<p>对于初学者来说，网上有许多可用的教程，如：</p>
+
+<p><a href="http://archive.is/kZWsj">www.dci.clrc.ac.uk/Publications/Cookbook/index.html</a><br/>
+<a href="http://www.tcl.tk/man/tcl8.5/tutorial/tcltutorial.html">www.tcl.tk/man/tcl8.5/tutorial/tcltutorial.html</a><br/>
+<a href="http://www.tutorialspoint.com/tcl-tk/">www.tutorialspoint.com/tcl-tk/</a></p>
+
+<p>如果你是非常认真地想要学习tcl/tk，强烈推荐Brent Welch编写的《Practical Programming in Tcl and Tk》 ， ISBN: 0-13-038560-3. 这对变成新手来说技术性可能过强，但是在学习完其中的一个在线教程后，他们会发现这是很有用的。.</p>
+
+<p>版权归属于Marc Prior 2009-2011</p>
+
+</div>

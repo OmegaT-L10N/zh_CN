@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "../../../docbook-xml-4.5/docbookx.dtd">
+<chapter id="chapter.TaaS">
+  <title>在OmegaT中使用TaaS<indexterm class="singular">
+      <primary>搜索</primary>
+    </indexterm></title>
+
+  <section id="section.TaaS.generalities">
+    <title>概述</title>
+
+    <para>TaaS服务提供欧洲语言（以及俄语）的术语服务，网址位于https://demo.taas-project.eu/info。它允许访问公共和私人数据，可以从这些数据的现有文档中提取私人术语表（也称“集合”），并且部分目标术语能够从各种来源获得自动填充。</para>
+  </section>
+
+  <section id="section.TaaS.options.key">
+    <title>创建密钥</title>
+
+    <para>要访问TaaS服务，用户必须通过 https://term.tilde.com/account/keys/create?system=omegaT 网址创建一个密钥。</para>
+
+    <para>然后通过 -Dtaas.user.key=xxxxx 形式将密钥输入OmegaT。OmegaT的配置启动器（包括OmegaT.l4J.ini、omegat.kaptn和Configuration.properties）包含模板条目。</para>
+  </section>
+
+  <section id="section.TaaS.options.access">
+    <title>访问TaaS服务</title>
+
+    <para>点击<emphasis role="bold">选项，术语表</emphasis>将显示以下选项：</para>
+
+    <para><emphasis role="bold">浏览TaaS集合</emphasis>将允许浏览现有集合以获取并下载项目所需的源语言和目标语言。私人集合以粗体显示。这些集合将以TBX术语表格式下载至当前术语表文件夹中。</para>
+
+    <para><emphasis role="bold">TaaS术语查询</emphasis>：勾选时，将允许逐段查询TaaS数据。所有集合（公共和私人）都将被查询源语言和目标语言。</para>
+
+    <para>为了限制数据量，您可通过选择<emphasis role="bold">选择TaaS术语查找域</emphasis>来选择特定域。在该对话框中，您可选择所有域或特定域。</para>
+  </section>
+</chapter>

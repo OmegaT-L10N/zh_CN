@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "../../../docbook-xml-4.5/docbookx.dtd">
+<chapter id="chapter.about.OmegaT">
+  <title>关于 <application>OmegaT</application> - 介绍</title>
+
+  <section id="OmegaT-Highlists">
+    <title>OmegaT 特色</title>
+
+    <para><application>OmegaT</application>是一种免费的多平台计算机辅助翻译工具软件，具有以下特色功能：</para>
+
+    <itemizedlist>
+      <listitem>
+        <para><emphasis role="bold">译法记忆：</emphasis><application> OmegaT</application>将译文存储在译法记忆文件中。同时，OmegaT可以使用此前翻译的译法记忆文件作为翻译参考。如果译文中存在大量重复，或相似的句段，译法记忆文件可以有效提高效率。OmegaT 使用译法记忆文件存储完成的翻译，然后根据您当前翻译的文本，给您提供相似的译文作为参考。</para>
+
+        <para>如果您需要对已译文档进行更新，这些译法记忆可以有效提高效率。文本中未发生变化的句子会进行自动翻译，而更新后的句子则会提供最相似的原有句段的译文以供参考。这样，您可以轻松处理原文档中更新变化后的部分。如果您手头有事先创建好的译法记忆文件，比如说是翻译公司或客户提供给您的译法记忆，OmegaT 也可以使用这些文件作为翻译参考。</para>
+
+        <para>OmegaT 使用标准 TMX 文件格式存储和访问译法记忆，保证您同其他支持 TMX 文件格式的 CAT 工具进行译法记忆交互。</para>
+      </listitem>
+    </itemizedlist>
+
+    <itemizedlist>
+      <listitem>
+        <para><emphasis role="bold">术语管理</emphasis>：术语管理对于译文的一致性至关重要。OmegaT 的术语表包含单词或短语的翻译，即，术语表就是特定领域中的简易双语词典。当前句段中的单词如果存在于术语表中，OmegaT 就会显示出这个单词的译文，以供翻译参考。</para>
+      </listitem>
+    </itemizedlist>
+
+    <itemizedlist>
+      <listitem>
+        <para><emphasis role="bold">翻译处理：</emphasis>设想您需要进行翻译，需要翻译的可能是单个文件，也可能是一个文件夹，其中包含子文件夹以及许多种不同格式的文件。您可以通过设置选择需要翻译的文件，OmegaT可以通过文件过滤规则对文件进行查找，辨认文件中的文本部分，根据片段分割规则对文本进行分割，然后在编辑器中显示出待翻译的片段以供翻译。OmegaT stores your translations and proposes possible translations from similar segments registered in the translation memory files. 如果您需要查看最终翻译成果，您可以导出已译文件，在相应的应用程序中打开，查看导出为最终格式的译文...</para>
+      </listitem>
+    </itemizedlist>
+  </section>
+
+  <section id="OmegaT.chapters.summary">
+    <title>章节摘要</title>
+
+    <para>本文档为 OmegaT 的简易教程和参考指南。以下是对各章节及其内容的简要说明。</para>
+
+    <itemizedlist>
+      <listitem>
+        <para><emphasis role="bold">5 分钟入门 OmegaT！：</emphasis>本章为针对初学者和已经了解 CAT 工具的用户的快速教程，本章中展示了完整的翻译过程，从打开一个全新的翻译项目，一直到完成整个翻译工作。</para>
+      </listitem>
+    </itemizedlist>
+
+    <itemizedlist>
+      <listitem>
+        <para><emphasis role="bold">安装运行 OmegaT：</emphasis>本章介绍您初次开始使用 OmegaT 需要了解的知识。其中包含如何在 Windows、Mac OS X 和 Linux 操作系统上安装和运行 OmegaT 的具体操作说明。对于高级用户，本章还介绍了命令行模式和这种模式的功能。</para>
+      </listitem>
+    </itemizedlist>
+
+    <itemizedlist>
+      <listitem>
+        <para><emphasis role="bold">用户界面</emphasis>、<emphasis role="bold">主菜单和键盘快捷键</emphasis>：使用过程中主要查询的为这两章，其中介绍了 OmegaT 的用户界面，以及通过主菜单和键盘快捷键可调用的功能。</para>
+      </listitem>
+    </itemizedlist>
+
+    <itemizedlist>
+      <listitem>
+        <para><emphasis role="bold">项目属性</emphasis>、<emphasis role="bold"><application>OmegaT</application> 文件和目录：</emphasis> 在 OmegaT 中，项目是指 OmegaT 作为一款 CAT 工具能够处理的工作单位。本章介绍了项目属性，如源语言和目标语言等。OmegaT 文件和目录章节介绍了翻译项目中不同的子目录和文件，阐述了这些子目录和文件的作用，以及其他 OmegaT 相关的用户和应用文件。</para>
+      </listitem>
+    </itemizedlist>
+
+    <itemizedlist>
+      <listitem>
+        <para><emphasis role="bold">编辑域行为：</emphasis> 本章简要地介绍了如何设置正在翻译片段的编辑行为。</para>
+      </listitem>
+    </itemizedlist>
+
+    <itemizedlist>
+      <listitem>
+        <para><emphasis role="bold">使用纯文本</emphasis>和<emphasis role="bold">使用格式文本</emphasis>： 这两章节介绍了有关待翻译文本的重要事项，如编码集（纯文本文件）和标签处理（格式文本）。</para>
+      </listitem>
+    </itemizedlist>
+
+    <itemizedlist>
+      <listitem>
+        <para><emphasis role="bold">译法记忆：</emphasis> 本章介绍了包含译法记忆的各个子目录的作用，阐述了与译法记忆相关的其他重要信息。</para>
+      </listitem>
+
+      <listitem>
+        <para><emphasis role="bold">片段分割</emphasis>：译法记忆工具软件处理的文本单元称作片段。在 OmegaT 中，片段可根据段落或片段分割规则进行划分。根据段落分割片段使用较少，但处理“创意类”文本时可提高翻译效率。基于规则的片段分割通常就是指根据句子进行片段分割。软件中已经内置一些规则设置，与此同时用户还可自定义其他规则，具体信息请见本章。</para>
+      </listitem>
+
+      <listitem>
+        <para><emphasis role="bold">搜索</emphasis>和<emphasis role="bold"> </emphasis><emphasis role="bold">正则表达式</emphasis>：OmegaT 的搜索非常简便，如“<emphasis>列出所有含有</emphasis><emphasis> 'kangaroo' 这个单词的片段”。</emphasis>也可以搜索复杂的关键词，如，支持搜索含有两个或更多连续空格的片段。为了完成上述搜索，需要用到正则表达式 ^s^s+ ，然后软件会列出所有相关的片段。正则表达式还广泛地应用于片段分割规则中。</para>
+      </listitem>
+
+      <listitem>
+        <para><emphasis role="bold">字典和术语表</emphasis>、<emphasis role="bold">机器翻译</emphasis>、<emphasis role="bold">拼写检查和语言工具：</emphasis> OmegaT 支持字典和术语表工具。如果连接到互联网，OmegaT 还可连接机器翻译服务，如谷歌翻译和 Microsoft Translator。如果启用拼写检查功能，翻译过程中 OmegaT 即会辨认拼写错误和错别字并进行修改。开源语言工具可用于纠正常见的语法和风格错误。</para>
+      </listitem>
+
+      <listitem>
+        <para><emphasis role="bold">杂项</emphasis>：介绍其他相关事项，如何避免丢失数据，等。</para>
+      </listitem>
+
+      <listitem>
+        <para><emphasis role="bold">附录</emphasis>中包含以下信息</para>
+
+        <itemizedlist>
+          <listitem>
+            <para><emphasis role="bold">OmegaT 网络资源：</emphasis>介绍有关 OmegaT 在线资源的信息</para>
+          </listitem>
+        </itemizedlist>
+
+        <itemizedlist>
+          <listitem>
+            <para><emphasis role="bold">语言：</emphasis>语言和对应代码的 ISO 列表</para>
+          </listitem>
+        </itemizedlist>
+
+        <itemizedlist>
+          <listitem>
+            <para><emphasis role="bold">编辑器中的键盘快捷键</emphasis>：编辑器中可用的快捷键列表</para>
+          </listitem>
+
+          <listitem>
+            <para><emphasis role="bold">快捷键自定义：</emphasis>可根据用户个人偏好对快捷键进行自定义</para>
+          </listitem>
+        </itemizedlist>
+
+        <itemizedlist>
+          <listitem>
+            <para><emphasis role="bold">Introduction to tokenizers and
+            scripts</emphasis></para>
+          </listitem>
+
+          <listitem>
+            <para><emphasis role="bold">团队项目</emphasis></para>
+          </listitem>
+        </itemizedlist>
+
+        <itemizedlist>
+          <listitem>
+            <para><emphasis role="bold">法律通知和鸣谢</emphasis></para>
+          </listitem>
+        </itemizedlist>
+      </listitem>
+
+      <listitem>
+        <para><emphasis role="bold">关键词索引：</emphasis>详细的关键词索引，帮助读者迅速找到相关信息。</para>
+      </listitem>
+    </itemizedlist>
+  </section>
+</chapter>

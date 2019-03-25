@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "../../../docbook-xml-4.5/docbookx.dtd">
+<appendix id="appendix.Scripts.inOmegaT">
+  <title>脚本<indexterm class="singular">
+      <primary>脚本</primary>
+    </indexterm></title>
+
+  <section>
+    <title>介绍</title>
+
+    <para>OmegaT 允许运行使用不同脚本语言发布的脚本.</para>
+  </section>
+
+  <section>
+    <title>用</title>
+
+    <para>点击 <guisubmenu>工具 &gt; </guisubmenu><guisubmenu>脚本</guisubmenu> o打开脚本窗口:<screenshot> <screeninfo>脚本窗口</screeninfo> <mediaobject> <imageobject> <imagedata fileref="images/ScriptingDialog.png"/> </imageobject> </mediaobject> </screenshot></para>
+
+    <para>您可以在脚本窗口的文本区加载一个已存在的脚本并且再次运行当前打开的程序. 要定制脚本功能，请执行以下操作：</para>
+
+    <itemizedlist>
+      <listitem>
+        <para>点击左面板列表中的脚本名称加载脚本到编辑器中。</para>
+      </listitem>
+    </itemizedlist>
+
+    <itemizedlist>
+      <listitem>
+        <para>右键点击底面板中的“&lt;1&gt;”到“&lt;12&gt;”按钮并选择“添加”。在上面的例子中，已添加了两个脚本（位置1和2）。</para>
+      </listitem>
+    </itemizedlist>
+
+    <itemizedlist>
+      <listitem>
+        <para>当您左键点击数字时，将运行选择的脚本。您还可以点击<guisubmenu>工具</guisubmenu>菜单下的脚本条目或按<keycap> Ctrl+Alt+F#</keycap>（#表示1到12）组合键运行选择的宏。</para>
+      </listitem>
+    </itemizedlist>
+
+    <para>默认情况下，脚本存储在位于OmegaT安装文件夹（包含OmegaT.jar的文件夹）中的“scripts”文件夹里。</para>
+
+    <para>您可以在这里添加新的脚本，这些脚本会出现在脚本窗口里的可用脚本列表里。</para>
+
+    <para>一些附带脚本可以写这里找到： <ulink url="https://sourceforge.net/projects/omegatscripts/">OmegaT Scripts</ulink>
+    </para>
+  </section>
+
+  <section>
+    <title>脚本语言</title>
+
+    <para>目前已支持下列脚本语言：</para>
+
+    <para><itemizedlist>
+        <listitem>
+          <para><emphasis role="bold">Groovy</emphasis>（http://groovy.codehaus.org）：是用于Java虚拟机的动态语言。它构建于增强的Java之上，含有从Python、Ruby和Smalltalk等语言获得灵感而实现的附加强大功能。</para>
+        </listitem>
+      </itemizedlist><itemizedlist>
+        <listitem>
+          <para><emphasis role="bold">JavaScript</emphasis>（不会与Java混淆时简写为JS）：是动态、弱类型且具有一类函数的基于原型的脚本语言。它是多范型语言，支持面向对象、命令和函数式编程风格。它工作于像Firefox这样流行软件的后台，是开源领域中常见和首选的编程工具。</para>
+        </listitem>
+      </itemizedlist>所有的语言都能访问OmegaT对象模型，其中的顶级对象为项目。例如下面的groovy代码片段扫描当前项目所有文件中的所有片段，且当某个片段的翻译存在时打印出它的源和目标译文：</para>
+
+    <programlisting>    files = project.projectFiles;
+    for (i in 0 ..&lt; files.size())
+    {
+        for (j in 0 ..&lt; files[i].entries.size())
+        {
+            currSegment = files[i].entries[j];
+            if (project.getTranslationInfo(currSegment))
+            {
+                source = currSegment.getSrcText();
+                target = project.getTranslationInfo(currSegment).translation;
+                console.println(source + &quot; &gt;&gt;&gt;&gt; &quot; + target);
+            }
+        }
+    }</programlisting>
+  </section>
+</appendix>

@@ -1,0 +1,75 @@
+
+<div class="container">
+
+
+<h3>背景</h3>
+
+<p>大多数现代CAT工具都是以片段为导向来显示文本，而不是以其最终的布局格式来显示. 虽然这样有很多有点，但若能在翻译时看到最终的布局和格式，这将对翻译人员起到非常大的帮助。出于这个原因，许多CAT工具都提供预览功能，以此来显示布局和格式，而不需要翻译人员创建最终文档并在单独的应用程序中打开它（通常是文字处理器OmegaT 不提供整体预览功能，但是可以使用附加软件实现类似功能。. 该指南介绍了设置预览功能的一般原则。</p>
+
+<h3>原则</h3>
+
+<p>理想情况下，显示器主要有两个作用：</p>
+
+<ul>
+
+<li>它会展示和最终布局与格式相近的文本。</li>
+
+<li>它会不断更新。</li>
+
+</ul>
+
+
+<h3>浏览器</h3>
+
+<p>如果你正在翻译一个.html文件，一个便捷的方法就是用一个具有自动刷新功能的浏览器来实现现成的预览功能。具有自动刷新功能的浏览器示例：</p>
+
+<ul>
+
+<li>火狐：<br/>Windows用户可以从www.mozilla.org <a href="http://www.mozilla.org">下载火狐浏览器</a>；多数Linux用户已安装火狐，或者通过发布版本库来安装。在Firefox中<a href="http://addons.mozilla.org/de/firefox/addon/reloadevery/">安装ReloadEvery组件</a>添加自动刷新功能。</li>
+
+<li>Opera:<br/>Opera适用于所有平台；它不但快速而且对硬件资源的要求很低。. 下载. The automatic refresh function is built in.</li>
+
+<li>Chrome:<br/>Chrome也同样适用于所有平台。在<a href="https://www.google.com/chrome/browser/desktop/index.html">www.google.com/chrome</a>下载Chrome. 在Chrome中添加自动刷新功能，请到应用商店<a href="https://chrome.google.com/webstore/detail/easy-auto-refresh/aabcgdmkeabbnleenpncegpcngjpnjkc">下载并安装自动刷新扩展功能</a>。 </li>
+
+</ul>
+
+<p>你可能 <i>不</i>喜欢使用常用的浏览器进行预览， 而是将其完全用来上网浏览而不是频繁切换标签，所以你可以将安装多余的浏览器作为预览功能看成是一种便利。</p>
+
+<p>选择并且安装合适的浏览器（和/或所需的附加组件）后，在项目的/ target文件夹中打开已翻译的文件：</p>
+
+<ul>
+
+<li>使用Firefox：使用文件&gt;打开文件</li>
+<li>使用Opera：Opera&gt;页面&gt;打开</li>
+
+</ul>
+
+<p>现在启用自动刷新。. 在Firefox和Opera中，你可以打开已翻译.html文件单击右键，重新加载选择所需间隔（例如5秒）。</p>
+
+<p>你现在实现了预览功能。若更新显示的内容，你必须使用Ctrl+s, Ctrl+d在OmegaT中保存并创建目标文档。最多延迟你所选择的时间间隔（加上OmegaT保存并生成目标文件所用的时间）后，更改可见。. 浏览文本时，浏览器不会自动滚动; 你必须自己滑动浏览器。当视图更新时，它至少会保留在文本中的相同位置。.</p>
+
+<h3>预览文字处理文件</h3>
+
+<p>当你的源文件为.html格式时，很容易在浏览器中打开已翻译的目标文件，但翻译经常涉及文字处理文件，这些文件在OmegaT中通常以.docx或.odt格式处理。你仍然可以使用以上描述的浏览器方案来预览文件，但是你仍然需要一个转换器来将文件转换成.html格式，以及自动启动转换器的功能，这样你就不用手动转换文件了。</p>
+
+<p>以下介绍两个转换器程序：Abiword and LibreOffice.</p>
+
+<p>Abiword 是文字处理器，LibreOffice是办公套件。这两个程序均为免费使用，适用于多种平台，并且可以将.docx和.odt文件转换成.html格式。</p>
+
+<p>Abiword体积小，速度快。它具有将.docx和.odt文件转换为.html格式的命令行功能。Linux用户和Windows用户安装起来都很容易。<a href="http://www.abisource.com/download/">下载Abiword</a>.</p>
+
+<p>LibreOffice是一个功能齐全的办公套件，类似于Microsoft Office。它也可用于将.docx和.odt文件转换为.html格式，但要从命令行执行此操作，还需要使用Unoconv插件。<a href="http://www.libreoffice.org/">下载LibreOffice</a>; <a href="http://dag.wieers.com/home-made/unoconv/">下载Unoconv插件</a>.</p>
+
+<p>成功安装Abiword或LibreOffice + Unoconv组合后，你可以将OmegaT生成的目标文件转换为html格式便于浏览器读取。请记住首先保存OmegaT并生成翻译后的文档，然后启动转换功能，等待显示器更新。</p>
+
+<p>有很多方法可以解决这个问题，但一个实际的解决方案是使用一个脚本来“监听”由OmegaT生成的翻译文件的更改，当它检测到更改时自动启动转换功能将文件转换为html格式便于浏览器读取。示意图如下：</p>
+<p><img src="{{ '/img/preview_flow.png' | prepend: site.baseurl_root }}" alt="preview_flow.png"></img></p>
+
+<p><a href="priorview.html"> Priorview Howto &lt;/ a0&gt;中描述了实现此功能的示例脚本。</p>
+
+<br/><br/>
+
+<p> 版权所有Marc Prior 2012</p>
+
+</div>
+

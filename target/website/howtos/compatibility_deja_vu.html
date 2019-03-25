@@ -1,0 +1,28 @@
+<div class="container">
+
+  <p>本HowTo介绍如何将OmegaT与Atril的DéjàVu CAT工具结合使用。</p>
+
+  <h3>背景情况。</h3>
+
+  <p>您是OmegaT用户，并且被客户请求以DéjàVu的文件格式提供翻译。这可以通过使用DéjàVu的“外部视图”文件格式实现（对于DéjàVu DVX）。</p>
+
+  <h3>Déjà Vu "外部视图"</h3>
+
+  <p>DéjàVu“外部视图”文件格式是DéjàVu DVX的一项功能。. 它使不具备DéjàVu的编辑能够修改DéjàVu中的翻译，从而可以轻松地重新修改修改。谁不拥有DéjàVu可以翻译由DéjàVu用户准备的文件。同样，不具备DéjàVu的CAT工具（包括OmegaT）的用户可以翻译由DéjàVu用户准备的文件。</p>
+
+  <p>DéjàVu“外部视图”文件采用包含多列表格的RTF文件的格式，其中包括源文本和目标文本的列，其中每个段占用一个表格单元格。在尚未翻译的“外部视图”文件中，目标列是空的。通过在目标列中输入翻译来生成“翻译的”外部视图文件。要翻译OmegaT中的文件，请按以下步骤操作：</p>
+
+  <p>1. 将文件从RTF转换为OpenOffice.org格式。</p>
+
+  <p>2. 复制外部视图文件，并从中删除除源文本列以外的所有列的内容。</p>
+
+  <p>3. 以通常的方式在OmegaT中翻译此文件。段内的内联标签采用大括号内的序列号形式，即{1}，{2}等。要小心保持这些，就像处理OmegaT自己的内嵌标签一样（OmegaT的内联标签功能，例如标签验证功能，但在这种情况下不可用）。</p>
+
+  <p>4. 完成翻译并创建翻译后的文档后，将已翻译的列从翻译后的文件中复制回原始文件的<i>目标&lt;/ i0&gt;列</p>
+
+  <p>5. 将文件转换回RTF格式。</p>
+
+  <p>为了使用此程序，DéjàVu用户必须准备源文本文件并以DéjàVu“外部视图”格式将其提供给翻译人员。More information on the format and the procedure for its creation, for both users of Déjà Vu and of other CAT tools on the helpful <a href="http://simmer-lossner.blogspot.com/2008/11/dj-vu-x-as-editing-tool-for-trados-jobs.html">blog maintained by Kevin Lossner</a>.</p>
+
+  <p>版权归属于Marc Prior 2009-2011</p>
+</div>

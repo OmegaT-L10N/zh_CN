@@ -1,0 +1,257 @@
+<!-- index -->
+  
+  <div class="jumbotron">
+    <div class="container-fluid">
+      <h1>OmegaT <small>免费的翻译记忆工具</small></h1>
+      <div class="title-buttons">
+        <a class="btn btn-primary" href="download" role="button">下载</a> <a id="get-started" class="btn btn-primary" href="#get-started" role="button" data-toggle="modal" data-target="#modal-get-started">开始</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="modal fade" tabindex="-1" role="dialog" id="modal-get-started">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close close-yt" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">×</span>
+          </button>
+          <h4 class="modal-title">开始使用OmegaT</h4>
+        </div>
+        <div class="modal-body">
+          <div class="embed-responsive embed-responsive-16by9">
+            <iframe class="ytvideo embed-responsive-item" src="//www.youtube.com/embed/WMXr6aJTpcU?rel=0" allowfullscreen=""></iframe>
+          </div>
+          <p class="text-center">视频 上传者 <a href="https://www.youtube.com/channel/UC2EFKLWWI4gh9BGpMf0-_5g">CATguruEN</a> (Dominique Pivard)</p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default close-yt" data-dismiss="modal">关闭</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="container-fluid section">
+    <p class="lead"><strong>OmegaT</strong>是一个使用Java编写的免费翻译记忆库应用程序。它是为专业翻译人员准备的工具。它不会替你进行翻译！（可以替你进行翻译的软件是“机器翻译”，你要到别处寻找。）</p>
+    <div class="row">
+      <div class="col-md-4">
+        <h3>专业功能</h3>
+        <div class="header-line"><!----></div>
+        <ul>
+          <li>模糊匹配</li>
+          <li>扩展匹配</li>
+          <li>多文件项目同步处理</li>
+          <li> 多翻译记忆同步使用</li>
+          <li>屈折形态用户术语识别</li>
+        </ul>
+      </div>
+      <div class="col-md-4">
+        <h3>处理超过30种文件格式</h3>
+        <div class="header-line"><!----></div>
+        <ul>
+          <li>Microsoft Word, Excel, Power格式
+          </li><li>XHTML和HTML</li>
+          <li>开源文档格式 (LibreOffice, OpenOffice.org)</li>
+          <li>维基百科 (Wikipedia)</li>
+          <li>纯文本</li>
+          <li>……和其他近30种文件格式</li>
+        </ul>
+      </div>
+      <div class="col-md-4">
+        <h3> 强大的工具</h3>
+        <div class="header-line"><!----></div>
+        <ul>
+          <li>支持Unicode (UTF-8)：可使用非拉丁字母</li>
+          <li>支持从右到左的语言</li>
+          <li>整体拼写检查</li>
+          <li>与其他翻译记忆软件兼容(TMX, TTX, TXML, XLIFF, SDLXLIFF)</li>
+          <li>Google 翻译接口</li>
+        </ul>
+      </div>
+    </div>
+    <div class="row im-centered">
+      <img alt="OmegaT 截屏" src="{{site.baseurl_root}}/img/screenshots/main_window_{{ site.lang }}.png" class="img-responsive"/>
+    </div>
+  </div>
+  <div class="container-fluid section" id="page-download">
+    <div class="row">&#xA0;</div>
+    <div class="whitebox">
+      <h2>下载</h2>
+      <div class="header-line"><!----></div>
+      <p class="text-md-center">为满足多样用户需求<strong>OmegaT</strong>提供多种版本。</p>
+
+
+      <div class="row">
+        <div class="col-md-2"><!-- padding -->
+          
+        </div>
+        <div class="col-md-4 text-md-center">
+          <p>寻找最合适的版本，点击下载选择下方的链接。</p>
+        </div>
+        <div class="col-md-4 text-md-center">
+          <p>或者，如果你已经知道想要下载的版本，点击按钮，概览OmegaT的不同可用版本。</p>
+        </div>
+        <div class="col-md-2"><!-- padding -->
+          
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-2"><!-- padding -->
+          
+        </div>
+        <div class="col-md-4 text-md-center">
+          <p>
+            <a class="btn btn-primary" href="download#selector" role="button">下载选择</a>
+          </p>
+        </div>
+        <div class="col-md-4 text-md-center">
+          <p>
+            <a class="btn btn-default" href="download#downloads" role="button">下载概览</a>
+          </p>
+        </div>
+      </div>
+    </div>
+    <div class="row">&#xA0;</div>
+
+    <div class="container-fluid versions">
+      <ul class="list-group">
+        <li class="list-group-item"><span class="badge"><a href="download#standard">{{site.data.versions.standard.name}}</a></span> 标准版</li>
+        <li class="list-group-item"><span class="badge"><a href="download#latest">{{site.data.versions.latest.name}}</a></span> 最新版</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="container-fluid section" id="page-quotes-carousel">
+     <div class='col-md-offset-2 col-md-8'>
+      <div class="carousel slide" data-ride="carousel" id="quote-carousel"><!-- Bottom Carousel Indicators -->
+        
+        <ol class="carousel-indicators">
+          <li data-target="#quote-carousel" data-slide-to="0" class="active"></li>
+          <li data-target="#quote-carousel" data-slide-to="1"></li>
+          <li data-target="#quote-carousel" data-slide-to="2"></li>
+        </ol><!-- Carousel Slides / Quotes -->
+        
+        
+        <div class="carousel-inner"><!-- Quote 1 -->
+        
+          
+          <div class="item active">
+            <blockquote>
+              <div class="row">
+                <div class="col-sm-3 text-center">
+                  <img class="img-circle" src="{{site.baseurl_root}}/img/quote1.jpg" style="width: 100px;height:100px;" alt="用户画像">
+                </div>
+                <div class="col-sm-9">
+                        <p>提高效率的最佳选择；术语库，自动填写，自动翻译让我的翻译更加高效。</p>
+                  <small>Diego Merino - 英文译者 &gt; ES  </small>
+                </div>
+              </div>
+            </blockquote>
+          </div><!-- Quote 2 -->
+          
+          <div class="item">
+            <blockquote>
+              <div class="row"><!--div class="col-sm-3 text-center">
+                  <img class="img-circle" src="{{site.baseurl_root}}/img/quote2.jpg" style="width: 100px;height:100px;" alt="User portrait">
+                </div-->
+                
+                <div class="col-sm-12">
+                  <p>ODF的作者和LibreOffice 的意大利语译者对于可以使用这样一款好用的工具来处理LibreOffice社区的繁重工作，感到很满足。</p>
+                  <small>Valter Mura -英文译者  &gt; IT</small>
+                </div>
+              </div>
+            </blockquote>
+          </div><!-- Quote 3 -->
+          
+          <div class="item">
+            <blockquote>
+              <div class="row">
+                <div class="col-sm-3 text-center">
+                  <img class="img-circle" src="{{site.baseurl_root}}/img/quote3.jpg" style="width: 100px;height:100px;" alt="用户画像">
+                </div>
+                <div class="col-sm-9">
+                  <p>我已经使用OmegaT超过10年，因为它的易用性和论坛受益匪浅。多样的功能，简洁的界面，最重要的是持续的开源研发！</p>
+                  <small>Robert Corner，Laue-Langevin研究所，法国</small>
+                </div>
+              </div>
+            </blockquote>
+          </div>
+        </div><!-- Carousel Buttons Next/Prev --><!--
+        <a data-slide="prev" href="#quote-carousel" class="left carousel-control"><i class="fa fa-chevron-left"></i></a>
+        <a data-slide="next" href="#quote-carousel" class="right carousel-control"><i class="fa fa-chevron-right"></i></a>
+        -->
+        
+        
+        
+      </div>                          
+    </div>
+  </div>
+
+  <div class="container-fluid section" id="page-omegat-and-you">
+    <h2>你和OmegaT项目</h2>
+    <div class="header-line"><!----></div>
+    <p>OmegaT不仅是一款产品；更是一个你可以参与其中的，令人激动的项目。</p>
+    <p>OmegaT是一款免费软件。这意味着，像你一样的用户，可以免费下载，几乎无限制地使用。你可以免费复制，拷贝给他人。</p>
+    <p>OmegaT 是一款开源软件。这意味着如果你想，就可以修改OmegaT满足自己的需求。支持开源软件，这份自由比免于付费更重要。</p>
+    <p>OmegaT 项目得益于来自世界各地志愿者的大力支持。许多用户意识到了这一点，但他们的反应经常是“可我并不会编程！”。编程确实是最重要的，没有编程就不会有这款程序。但是编程并不是唯一的工作。下面列表的工作，欢迎更多志愿者的加入！</p>
+    <div class="row project">
+      <div class="col-sm-4"><!---->
+        <span class="glyphicon glyphicon-pencil">
+          
+        </span>
+        <h3>文档写作</h3>
+        <p><a href="documentation">文档</a> 非常重要。正在阅读的各位，有许多都是翻译过许多用户文档的译者。你有想过自己攥写用户文档吗？这真的会让人大开眼界！</p>
+      </div>
+      <div class="col-sm-4"><!---->
+        <span class="glyphicon glyphicon-globe">
+          
+        </span>
+        <h3>本地化</h3>
+        <p> 感谢以前译者的工作，OmegaT的用户界面和帮助文档 已经被翻译成多种语言。这意味着只剩下几千种了!本地化OmegaT是一项正在进行的任务，因为随时都在添加新的特性和功能。查看 <a href="howtos/localizing_omegat">本地化 OmegaT 方法</a>获取本地化/翻译 OmegaT的细节。</p>
+      </div>
+      <div class="col-sm-4"><!---->
+        <span class="glyphicon glyphicon-wrench">
+          
+        </span>
+        <h3>测试</h3>
+        <p>用户可以做的最有用的事情之一就是使用OmegaT. 发现无法使用的功能或者不足，请告知我们。</p>
+      </div>
+    </div>
+    <div class="row project">
+      <div class="col-sm-6"><!---->
+        <span class="glyphicon glyphicon-bullhorn">
+          
+        </span>
+        <h3>宣传</h3>
+        <p>你曾为你的专业协会期刊写过文章吗？如果没有，为什么不写一篇关于OmegaT使用的文章呢？</p>
+      </div>
+      <div class="col-sm-6"><!---->
+        <span class="glyphicon glyphicon-piggy-bank">
+          
+        </span>
+        <h3>捐赠</h3>
+        <p>如果你觉得OmegaT很有用，并且想要表达感谢，可以 <a href="https://sourceforge.net/p/omegat/donate/?source=website">捐赠</a>在我们的paypal账号。</p>
+      </div>
+    </div>
+    <div class="row project">
+      <div class="col-sm-6"><!---->
+        <span class="glyphicon glyphicon-cog">
+          
+        </span>
+        <h3>编程(Java)</h3>
+        <p>OmegaT采用Java编程语言。如果你是一位程序员并且碰巧会用Java，请在docs_devel下查看 <a href="download#downloadTrunk">源代码</a>获取更多信息，以便开始研发。 </p>
+      </div>
+      <div class="col-sm-6"><!---->
+        <span class="glyphicon glyphicon-cog">
+          
+        </span>
+        <h3>编程 (not Java)</h3>
+        <p>如果你会其他编程语言，可以编写代码支持核心应用。其他辅助性代码有用Javascript, Groovy 和 Tcl/Tk等语言编写。</p>
+      </div>
+      <div class="row project">
+        <div class="col-sm-12">
+          <p>我知道你所说的，但是我不会编程。那么，你想过学习吗？如果你已经了解了电脑，选择一种简单的脚本语言例如 Javascript 或者Tcl/Tk，通过可以自学，可以在几周内写出简单又有用的脚本。持续专业开发是现在的热词。</p>
+        </div>
+      </div>
+    </div>
+  </div>

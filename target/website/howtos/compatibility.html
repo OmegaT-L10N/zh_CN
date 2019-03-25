@@ -1,0 +1,188 @@
+<div class="container">
+
+
+
+<p>这篇 HOWTO 描述了 OmegaT 与其他软件产品的兼容性。</p>
+
+<h3>一般性评论</h3>
+
+<p>按照标准流程，专业译员收发的是电子形式的文本，所以 OmegaT 用户很关心它与其他软件产品的兼容性这篇 HOWTO 旨在提供兼容性信息。</p>
+
+<p>通常我们会发现：“兼容性”并不是一个非黑即白的问题。就算软件产品供应商声称其产品与其他软件兼容，事实上也很少完美兼容。反过来，就算供应商并未断言其产品直接与其他产品兼容，它也很可能找到与之兼容的的程序。软件效果及投入是否可接受才是必答题，但这又仁者见仁，智者见智。换句话说，“兼容性”不仅涉及产品本身，还与工作流程有关。<br/>
+
+</p>
+
+
+<h3>操作系统</h3>
+
+<p>只要操作系统能运行适当版本的 Java Runtime Environment (JRE) ，那 OmegaT 就能在该操作系统上运行。目前，所有微软 Windows 98 以上版本的 Windows 操作系统，Mac OS X 以及大部分 Linux 发行版都可运行 OmegaT 。 </p>
+
+<h3>源文本（待翻译文件）</h3>
+
+<p>欲查阅 OmegaT 支持的所有文件格式的最新列表，请参见 OmegaT 用户手册。 而以下列表仅包含一般用户最感兴趣的文件格式，并未列出 OmegaT  支持的所有文件格式。.</p>
+
+<ul>
+
+  <li>
+    
+    <p><strong>Microsoft Office 2007-2010 (Word, Excel, PowerPoint 2007-2010); Office Open XML:</strong></p>
+
+    <p>OmegaT 现在能直接处理当前的 Microsoft office 文件格式，不能处理从其他格式转换而来的Microsoft office 文件格式。</p>
+
+<p>Microsoft Office 2007-2010 文件格式 (也称 Office Open XML, 以及该文件的拓展格式 .docx, .xlsx and .pptx)与其继承的 Office 97-2003 文件格式由本质区别。事实上，Microsoft Office 2007-2010 文件格式的架构与 OpenOffice.org 文件格式结构很相似: 文本基于 XML 标准，文本组成文件，文件组成压缩档案，压缩档案组成最终的文件格式。从而更易于 CAT 工具支持并直接编辑其文件格。Microsoft Office 2007-2010 文件格式能直接在 OmegaT 中直接处理；点击  <a href="./docx.html">此处</a>获取更多信息。</p>
+    
+    <p>还未获取 Microsoft Office  2007 版本的用户，您可通过 Microsoft 提供的免费转换插件 <a href="http://www.download.com/Microsoft-Open-XML-Converter/3000-18483_4-146736.html">here</a>完成 Office Open XML 与 Microsoft Office 98-2003 文件格式的转换。此插件包含 Windows 与 Mac 版本。</p>
+  
+    <p>Office Open XML 既可直接转成开放文档格式开放文档格式（ODF），也可通过 ODF 转换器（在 <a href="http://odf-converter.sourceforge.net/download.html">此处</a>获取）转回Office Open XML 。MS Office (XP/2003/2007) 才能使用该插件。<br/></p>
+
+    <p>Mac OS X 用户可通过 <a href="http://www.neooffice.org/">NeoOffice</a>将 Office Open XML 与开放文档格式（ODF）互相转换。</p>
+
+    <p>Linux 用户可通过这个版本的 <a href="http://www.oooninja.com/2008/01/convert-openxml-docx-etc-in-linux-using.html">conversion utility</a> 独立应用程序直接进行 Office Open XML 与 OpenDocument Format 的互相转换。</p>
+
+    <p>最新版的 OpenOffice.org 能将 Microsoft Office 2007 与开放文档格式（ODF）互相转换。</p>
+
+  </li>
+
+  <li>
+
+    <p><strong>Microsoft Office 97-2003 (Microsoft Word/Excel/Powerpoint 2003):</strong></p>
+
+    <p>这些二进制文件格式有专利权，而且目前为止还未以文件形式公开，以上特点都让这些文件格式难以用 CAT工具处理。&nbsp;</p>
+    
+    <p>有些 CAT 工具能克服这个问题，至少在 MS Word 软件自身内工作时可以处理 Word 文件；其他大部分 CAT 工具只能先将其转换成富文本格式处理再转回，不过译员通常见不到该过程。</p>
+
+    <p>OmegaT 不直接支持这些文件格式。而必须先手动将这些文件转换成 Office Open XML (MS Office 2007/2010) 或者开放文档格式 (LibreOffice or OpenOffice.org) 才能在 OmegaT 中处理。(由此看来，OmegaT 远不能独立使用：毕竟许多其他 CAT 工具可在译员翻译之前自行将源文件转换为其他格式。)</p>
+
+  </li>
+
+  <li>
+        
+    <p><strong>RTF (Rich Text Format 富文本格式):</strong></p>
+
+    <p>RTF 文件的结构与 Microsoft Office 98-2003 文件格式结构截然不同，但对于 OmegaT 而言，以下情况相同： OmegaT 不能直接支持这两种文件格式，只能先将它们转换成 .docx (MS Office 2007/2010) 格式或者开放文档格式(LibreOffice/OpenOffice.org).</p>
+
+  </li>
+
+  <li>
+    <p><strong>开放文档格式（Open Document Format，简称 ODF）: LibreOffice/OpenOffice.org/NeoOffice Writer/Calc/Impress</strong></p>
+    
+    <p>这些文件格式等同于 Microsoft Office 格式。开放文档格式（ODF)是一种国际标准，其代替了之前的专利性（但是开源的）Star Office file 格式(这两种格式不同但相似)。无论是开放文档格式（ODF）还是它所替代的 Star Office format 格式，OmegaT 都有针对该格式的文件过滤器。这些文件过滤器性能优良，用 OmegaT 翻译LibreOffice, OpenOffice.org 等文件时，极少损坏其文件格式。</p>
+
+  </li>
+
+  <li>
+    
+    <p><strong>HTML; XHTML:</strong></p>
+
+    <p>HTML 与 XHTML（前者的 XML 版），是最通用的网页文件格式 。OmegaT 对这两种格式的文件过滤器性能同样优良。类似 OpenOffice.org 文件, 用 OmegaT 翻译 HTML 与 XHTML文件时，也极少损坏其文件格式。
+对文件过滤器进行自定义设置以获得最佳结果</p>
+
+  </li>
+
+</ul>
+
+
+<h3>翻译记忆</h3>
+
+<p>翻译记忆交换（ Translation Memory eXchange，简称 TMX）是一种用于翻译记忆的国际标准。TMX 已经获得广泛使用，几乎目前所有的 CAT 工具都支持 TMX。</p>
+
+
+<p>TMX 标准区分<strong>版本</strong> 和 <strong>级别</strong>。区分版本与级别对兼容性非常重要。该标准仍在不断发展，因而有许多版本。级别指 TMX 文件所包含的格式信息：</p>
+
+<ul>
+
+  <li>
+    
+    <p>Level 1 TMX 文件不包含任何格式信息。</p>
+
+  </li>
+
+  <li>
+    
+    <p>Level 2 TMX 文件包含格式信息，但是这些 TMX 文件通常只有在同一 CAT 工具中才互相兼容。换言之，如果 OmegaT 用户在 Level 2 OmegaT TMX 文件里找到 100% match 片段，他可以直接采取记忆片段而不做任何改动，但如果是其他 CAT 工具生成的 TMX 文件，就不能直接使用（反之亦然）。当 CAT 工具用户 （通常是客户）希望获取翻译记忆文件，而且希望100% 匹配的片段可以自动插入时，Level 2 文件的局限性就暴露了。</p>
+
+  </li>
+
+  <li>
+    
+    <p>而 Level 3 TMX 文件所包含的格式信息，能被生成该文件的 CAT 工具之外的其他 CAT 工具读取。但是CAT 工具很少支持  Level 3  TMX 文件。 </p>
+
+  </li>
+
+</ul>
+
+<p>某些 CAT 工具（如 TRADOS）可以输出不同版本的 TMX 文件。OmegaT 支持当前所有版本的TMX，不过 TMX 文件版本为1.4b 时，产生的匹配结果更好。&nbsp;</p>
+
+<p>原则上说，支持不同级别 TMX 文件的工具之间互相兼容。 更高级别的 TMX 文件所包含的格式信息对“其他”工具而言，毫无意义。但“其他”工具仍然可以读取文本信息，找到模糊匹配。</p>
+
+
+<p>OmegaT 将国际化的 TMX 标准格式作为其本地翻译记忆的格式。虽然有些 CAT 工具仍采用专用的、专利性的翻译记忆格式，但几乎所有 CAT 工具都支持导入、导出 TMX 文件。所以实际上，译员可以向客户交付翻译记忆，客户也可以给译员提供翻译记忆，接收者可以立即使用这些翻译记忆文件，也可留待以后使用；然而，如果要在自动化工作流中使用该翻译记忆文件，就会出现上述的使用限制。</p>
+
+<p>TMX 文件其他注意事项：</p>
+
+<p>TMX 标准定义了合法字符。各 CAT 工具对于合法字符定义的严格程度不同；所以有些 CAT 工具不能直接打开其他 CAT 工具所生成的 TMX 文件。OmegaT 通常会遵守条件，而且也允许其他 CAT 工具不遵从这些条件; 不过，如果因此出现问题，一般可以在文本编辑器中查找和替换 TMX 文件中的非法字符，从而轻而易举地解决问题。</p>
+
+<p>TMX 文件采用 Unicode 编码方式，也有可能采用UTF-8 或者 UTF-16。而 Windows操作系统上生成的 TMX 文件开头可能以字节顺序标记 （byte-order mark ，简称BOM)开始。不过这些差异并不会导致兼容性问题。</p>
+
+<p>但使用的语言编码不同却可能导致兼容性问题。OmegaT 支持 "xx", "XX", "xx-YY" and "XX-YY"这些格式的语言编码，其中xx 或者 XX 表示语言, yy 或者 YY 表示地区。严格来讲，ISO 语言编码标准要求为"xx-YY" 例如英国英语 British English 语言编码为"en-GB" )； 虽然OmegaT 支持这种变体，可是OmegaT提供的默认编码格式为 "XX-YY"，如"EN-GB"。OmegaT 读取 TMX 文件时容忍度很高：它支持用en-GB, en-US, en, EN等语言编码的文件。不是所有 CAT 工具都支持如此多文件语言编码，因此如果语言编码不太一致，有些 CAT 工具可能显示不了本该匹配的片段。用合适的文件编辑器将 TMX  文件中的相关语言编码进行查找和替换，兼容性问题就会得到解决。另外一个可能导致兼容性问题的原因是三位的语言编码，OmegaT 完全不支持这种编码。(这是 Java 附带的局限性，并非由 OmegaT 自身导致。） </p>
+
+<p>专利性翻译记忆要点：</p>
+
+<p>传统的 Wordfast 翻译记忆文件格式尤其看重自身简洁性。它由纯文本构成，每行一个翻译单元（片段），行内用 tab 分隔源语言与目标语言。Wordfast 格式通过第三方应用如 <a href="http://groups.yahoo.com/group/wordfast/files/Wf2Tmx-1.0.11.37.zip">Wf2TMX</a>很容易转换成 TMX 格式。<a href="http://anaphraseus.sourceforge.net/">Anaphraseus</a> 也能进行该转换。</p>
+
+<h3>术语表文件</h3>
+
+<p>OmegaT's 术语表文件为以下格式的纯文本文件</p>
+
+<p>源语言术语&nbsp;&nbsp; &lt;tab&gt;&nbsp;&nbsp;&nbsp;目标语言术语&nbsp;&nbsp;&nbsp; &lt;tab&gt;&nbsp;&nbsp;&nbsp; 附属信息</p>
+
+<p>某些其他 CAT 工具也能导入、导出该格式的术语表文件，或者可从该格式简单转换得到的类似纯文本格式 (比如通过Microsoft Word 的查找与替换操作）。</p>
+
+<p>OmegaT 还能读取 TBX 格式的术语表，该格式是术语表文件的行业标准文件格式。</p>
+
+<p>OmegaT 不能读取专利性的二进制文件格式，如 Trados Multiterm。</p>
+
+<h3>双语 CAT-工具格式</h3>
+
+<p>许多 CAT 工具使用的是中间形式的双语格式，例如，同时包含源语言与目标语言片段的文件，有时延续源文件的格式。这些双语文件格式原本是这些 CAT 工具架构的副产品。而后演变为 CAT 工具相关工作流的重要现象，这些文件格式也代表了OmegaT 与其他 CAT 工具的兼容性鸿沟（或者说是所有 CAT 工具之间普遍性兼容性鸿沟）。</p>
+
+<p>客户要求交付特殊形式的双语文件格式（而不仅仅是译后文件，可能再加上翻译记忆）原因至少由以下三点：</p>
+
+<p>1. 某些 CAT 工具，如著名的 TRADOS， 能输出许多种格式的文件，包括桌面出版文件，并为其在相关软件进行翻译做好准备。而“准备就绪”的文件通常是该工具的双语文件格式。如果源文件没有经过这类准备处理，那译员可能无法打开处理该文。</p>
+
+<p>2. 翻译阶段仅仅是客户工作流程的一个环节。比如翻译后的文件需要送给校对人员进行编辑。如果要将校对人员的改动也纳入客户维护的翻译记忆库， 那么必须在创建最终版文件 <i>之前</i> 进行改动。可以在相关 CAT 工具中进行改动，或者也在该工具可读取的外部双语文件格式中进行改动。</p>
+
+<p>3. 客户希望得到的翻译记忆库能够运行文本：换言之，可通过现有的翻译记忆可以对今后的文本进行“预翻译”。为了让该流程尽可能自动化，有两个条件尤其需要满足：一是翻译记忆必须包含格式信息；二是文本切分片段的规则与创建（部分）翻译记忆时使用的切分片段规则一致。对客户而言，要确保满足上述两个条件，最简单的方法就是在把文本发给译员之前先自行预翻译（从而确定了切分规则），并且在收到中间形式的译后双语文件后，用自选的 CAT 工具创建翻译记忆（从而确保翻译记忆所包含的格式信息与今后的项目兼容）。</p>
+
+<p>OmegaT不用费很大力气，就能处理好几种双语文件格式。无论如何，理解相关流程非常重要。下面分别描述各双语文件格式。</p>
+
+<p><strong>XLIFF</strong></p>
+
+<p>XLIFF 是双语文件格式的行业标准格式。多个 CAT 工具支持 XLIFF，事实上某些 CAT 工具就是“围绕”XLIFF 标准进行了有效的设计：例如Heartsome 和 Swordfish。因为 XLIFF 是行业标准，所以它的一大优势就是，一个 CAT 工具供应商所提供的某文件格式与 XLIFF 之间的文件转换器(并且按照翻译流程的完整性，从 XLIFF 转换回该文件格式) 理论上也可以在任意一款支持 XLIFF 的 CAT 工具中用于该格式相关文件的准备。实际上，使用 XLIFF 工作流程通常需要用到一些不太友好的工具。</p>
+
+<p>OmegaT 对 XLIFF 有基础性支持, 通过OmegaT 与 Rainbow 工具协同使用 XLIFF， 可借助<a href="http://okapi.sourceforge.net/Release/Shared/Help/tutorial_02.htm">此程序</a>。现有的文件过滤器主要都是针对 IT 行业的文件格式，而非终端用户的文件<a href="http://okapi.sourceforge.net/Release/Shared/Help/tutorial_02.htm"></a></p>
+
+<p><strong>Trados “不干净的富文本格式 RTF”</strong></p>
+
+<p>Trados "不干净的" 富文本文件格式，常简称为 "不干净的文件",，许多年来都是翻译流程中最常用的双语文件格式。最早是由于将 MS Word 用作 Trados CAT 工具的接口，才产生了 RTF 这种格式。然而，除了Trados之外，其他几种CAT工具也支持“不清晰的RTF”格式，特别是Wordfast Classic。 </p>
+
+<p>本质上，这种格式由一个RTF文件组成，其中源片段和目标片段交替出现。这些段由特殊字符和MS Word格式化样式进行标记和分隔。</p>
+
+<p>最近（2008年）开发了一个脚本（仅适用于Windows）和程序，使OmegaT用户能够在其翻译阶段结束时生成Trados未清理的RTF文件以供交付有关详细信息，请参阅<a href="export_uncleaned_rtf">“从OmegaT导出到未清除的RTF”HOWTO &lt;/ a0&gt;。</p>
+
+<p><strong>Trados TTX</strong></p>
+
+<p>Trados TTX格式与Trados Workbench不同，Trados Tag Editor的“未清理RTF”格式与MS Word不直接结合。TTX是一种基于XML的格式。现在可以使用一个<a href="http://www.opentag.com/okapi/wiki/index.php?title=Okapi_Filters_Plugin_for_OmegaT"> OmegaT插件&lt;/ a0&gt;，通过它可以在OmegaT中处理这种格式。</p>
+
+<p><strong>Wordfast TXML</strong></p>
+
+<p>Wordfast TXML是Wordfast新的Wordfast Professional（也称为Wordfast 6.0）的本机内部格式。顾名思义，它是一种基于XML的格式。它由OmegaT支持。</p>
+
+<p><strong>Déjà Vu "外部视图"</strong></p>
+
+<p>DéjàVu DVX的一个有趣功能是其“外部视图”文件格式. 这种文件格式使得OmegaT用户能够向DéjàVu DVX用户提供双语文件，然后他们可以进一步编辑它们或将它们合并到自动化工作流程中。有关详细信息，请参阅<a href="compatibility_deja_vu">DéjàVu“外部视图”HOWTO &lt;/ a0&gt;<br/></p>
+
+<p>版权所有Marc Prior 2009-2014</p>
+
+</div>
+

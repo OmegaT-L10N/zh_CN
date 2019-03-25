@@ -1,0 +1,309 @@
+<div class="container">
+		
+<p class="lead">提供旧版本的 OmegaT 链接. 如果您不确定应下载哪个版本，您可以使用 <a
+href="#download-wizard" data-toggle="collapse">下载选择</a>.</p>
+
+<div id="download-wizard" class="panel panel-primary collapse">
+  <div class="panel-heading">
+    <h3 class="panel-title">OmegaT 下载选择</h3>
+  </div>
+  <div class="panel-body">
+    <div class="navbar">
+      <div class="navbar-inner">
+        <div class="container">
+          <ul class="nav nav-pills">
+            <li>
+              <a href="#tab-install-type" data-toggle="tab">安装类型</a>
+            </li>
+            <li>
+              <a href="#tab-version" data-toggle="tab">版本</a>
+            </li>
+            <li>
+              <a href="#tab-operating-system" data-toggle="tab">操作系统</a>
+            </li>
+            <li>
+              <a href="#tab-jre" data-toggle="tab">JRE</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="tab-content">
+      <div class="tab-pane fade in" id="tab-install-type">
+        <div class="radio">
+          <label><input type="radio" class="radio-primary" value="traditional" name="optType"/>传统的</label>
+          <p>用户安装的版本， OmegaT 现有用户较为熟悉。如果不确定，选择此版本。</p>
+        </div>
+        <div class="radio">
+          <label><input type="radio" class="radio-primary" value="webstart" name="optType"/>网页启动</label>
+          <p>网页启动版本为“简单安装'版本。<br/><strong>优点</strong>: 一旦启动，网页启动版本之后的更新将自动安装在您的电脑上。<br/><strong>调查问卷</strong>: 目前，该版本不能和插件一起使用，因此部分功能不可用。</p>
+        </div>
+      </div>
+      <div class="tab-pane fade" id="tab-operating-system">
+        <div class="radio">
+          <label><input type="radio" class="radio-primary" id="optWindows" value="windows" name="optOS"/>Windows</label>
+          <p>安装在 Windows系统上。</p>
+        </div>
+        <div class="radio">
+          <label><input type="radio" class="radio-primary" id="optOsx" value="osx" name="optOS"/>Mac OS X</label>
+          <p>安装在 Mac OS X 上。</p>
+        </div>
+        <div class="radio">
+          <label><input type="radio" class="radio-primary" id="optLinux" value="linux" name="optOS"/>Linux</label>
+          <p>安装在 Linux 系统上。</p>
+        </div>
+        <div class="radio">
+          <label><input type="radio" class="radio-primary" value="other" name="optOS"/>其他人的</label>
+          <p>安装在其他操作系统上（如 FreeBSD 和 Solaris 系统）。<br/><i>OmegaT 可安装在任何适应 Java 1.6 运行环境的操作系统上。</i></p>
+        </div>
+      </div>
+      <div class="tab-pane fade" id="tab-jre">
+        <p class="with-windows-jre" style="display:none;">选择下载是否包含 Java 运行环境（JRE）的 OmegaT。如果 Windows 系统中已经安装了适用的 JRE， 选择“不包含 JRE 版本”。如果未安装或不确定，选择“包含 JRE 版本”。</p>
+        <div class="with-linux-jre" style="display:none;">
+          <p>OmegaT 可在任何能安装 Java 运行环境的 Linux 系统上运行。OmegaT 现要求 JRE 1.6 或更高版本。查看安装在 Linux 系统上的 JRE 版本，打开控制台（命令行窗口）和类型：</p>
+          <pre>$ <strong>java—版本</strong></pre>
+          <p>如不确定系统中是否已安装了适用的 JRE，您可下载并安装包含 JRE 的 OmegaT 版本。这个版本的 JRE 只会在本地用于 OmegaT，不会与安装的其他 JRE 冲突，不会覆盖或卸载任何其他安装的 JRE。</p>
+        </div>
+        <div class="radio jre32">
+          <label><input type="radio" class="radio-primary" value="jre" name="optJRE"/>包含 JRE</label>
+          <p>“内置配置”的 OmegaT 版本，有其独立的 JRE。该版本下载时间更长，需占用更大硬盘空间，但能确保可用。如果不确定，选择此选项。.</p>
+        </div>
+        <div class="radio jre64">
+          <label><input type="radio" class="radio-primary" value="jre64b" name="optJRE"/>包含 64-bit JRE</label>
+          <p>内含 64-bit 版本 JRE。</p>
+          <p class="jrelatest">“内置配置”的 OmegaT 版本，有其独立的 JRE。该版本下载时间更长，需占用更大硬盘空间，但能确保可用。如果不确定，选择此选项。.</p>
+        </div>
+        <div class="radio">
+          <label><input type="radio" class="radio-primary" value="nojre" name="optJRE"/>不包含 JRE</label>
+          <p>如果您的电脑系统上已经安装了使用的 Java 运行环境，您可选择该不包含 JRE 的版本。</p>
+        </div>
+      </div>
+      <div class="tab-pane fade" id="tab-version">
+        <div class="radio">
+          <label><input type="radio" class="radio-primary" value="standard" name="optVersion"/>标准</label>
+          <p>OmegaT 的“标准”版本包括完整的用户手册（至少包含英文版本），并且通常会经过一段时间的测试以消除 bug。首次使用的用户，推荐使用该版本。</p>
+          <div class="radio">
+            <label><input type="radio" class="radio-primary" value="latest" name="optVersion"/>最新</label>
+            <p>顾名思义，“最新”指最新版本的 OmegaT。但是，用户手册可能不再是最新版本（因此可能会让人困惑），并且可能会出现小错误。尽管如此，OmegaT 的“最新”版本通常非常稳定，推荐已有过使用 OmegaT 经验的用户使用。</p>
+          </div>
+        </div>
+      </div>
+      <div class="panel-footer collapse text-center" style="display:none;" id="wizard-result">
+        <p>根据您的选择，我们推荐您使用：</p>
+        <h3><a id="wizard-result-version" href="#">部分版本</a></h3>
+        <a id="wizard-result-btn" class="btn btn-primary btn-lg" href="#" role="button"><span class="glyphicon glyphicon-download"></span> 下载</a>
+	
+        <div id="wizard-result-osx" style="display:none;">
+          <p>如果该版本不可用，可尝试<a href="#" id="wizard-result-unsigned">下载未签名版本</a>。</p> 
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<h3>运行要求</h3>
+
+<h4>系统要求</h4>
+
+<p>OmegaT will run on any system on which the appropriate JRE (Java Runtime Environment) has been or can be installed. OmegaT 会自带 JRE，不需要单独下载。OmegaT 已在 Windows（除 98 外的所有版本）、Micintosh OS X 及 Linux 上成功安装。 </p>
+<p>Microsoft Office XML 格式的文件可直接在 OmegaT 中翻译。旧的 MS Word、Excel 和 Powerpoint 格式的文件可以在转换到等效的 Microsoft Office 格式文件后翻译，或者也可使用 OpenOffice.org 或 LibreOffice（同样免费）中转换成 Office Open XML 格式。获取 OpenOffice.org 或 LibreOffice，请点击左方“第三方软件”按钮链接到相应网站。</p>
+
+<h4>用户要求</h4>
+<p>OmegaT 的安装和使用都不复杂，但也需要阅读及遵循指示说明。如果您讨厌阅读，您面对新软件更喜欢点击每一个按钮，直到实现预期效果，那么 OmegaT 可能并不适合您。</p><!-- Donation slider -->
+
+
+<div class="donation-section section">
+	<div class="donation-call">
+		<h3>Before proceeding</h3>
+
+		<span>Have you considered donating to OmegaT? Even though this software is free, if you find OmegaT useful and would like to express your gratitude, you can make a donation on our Paypal account.</span>
+
+		<input id="donation-slider" type="range" min="5" max="100" step="5" value="35" data-rangeslider>
+		
+		<form action="https://www.paypal.com/cgi-bin/webscr" target="_paypal" id="donation-form" method="post">
+			<input type="hidden" name="business" value="thank.you.omegat@gmail.com">
+			<input type="hidden" name="cmd" value="_donations">
+			<input type="hidden" name="item_name" value="Donation to OmegaT - multiplatform CAT tool">
+			<input type="hidden" name="currency_code" value="USD">
+
+			<input type="text" class="input-lg" id="amount" name="amount" size="3" value="35">&nbsp;USD
+			<a class="btn btn-primary" href="#" id="donate-button">Donate</a>
+		</form>
+	</div>
+	
+	{% asset donation.js %}
+
+</div>
+
+<h3 id="standard">标准版本 — {{site.data.versions.standard.name}}</h3>
+
+<p>The Standard version requires Java {{site.data.versions.standard.java_version}}. It has usually been in use for some time and is therefore proven. 其文档通常合理有效，至少英文文档如此。然而，这一版本缺少“最新”版本的部分特性。</p>
+
+<table class="table table-striped downloads">
+  <thead>
+    <tr>
+      <th>平台</th>
+      <th>详细说明</th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+
+{% for platform in site.data.downloads.standard.platforms %}
+  
+  <tr id="{{ platform.id }}">
+      <td class="version-name">{% translate platform.name %}</td>
+      <td>
+      
+      {% if platform.noInfo != true %}
+          
+          <span rel="popover" data-platform="{{ platform.name }}" data-title="{% translate platform.name %}" data-content="" class="glyphicon glyphicon-info-sign"><!----></span>
+          <div id="info_{{ platform.name }}"></div>
+      
+      {% endif %}
+      
+      </td>
+      <td>
+      {% if platform.link != null %} <a class="btn btn-primary version-download" href="{{ platform.link }}" role="button">下载</a></td>
+      {% else %} <a class="btn btn-primary version-download" href="{{ site.data.downloads.baseUrl }}/{{ site.data.downloads.standard.folder }}/{{ site.data.versions.standard.name }}/OmegaT_{{ site.data.versions.standard.version }}_{{ platform.fileName}}/download" role="button">下载</a></td>
+      
+      {% endif %}
+      
+      </td>
+  </tr>
+
+{% endfor %}
+  
+  </tbody>
+
+</table>
+
+<h3 id="latest">最新版本 - {{site.data.versions.latest.name}}</h3>
+
+<p>The Latest version requires Java {{site.data.versions.latest.java_version}}. It is a more recent version than the Standard version and includes new features not present in the latter. 最新版本通常都较为稳定，但可能会有一些 bug。最新版的文档，尤其是一些新特性的文档，会比标准版文档更全面。有 OmegaT 使用经验的用户往往更喜欢最新版本。</p>
+
+<table class="table table-striped downloads">
+  <thead>
+    <tr>
+      <th>平台</th>
+      <th>详细说明</th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+
+{% for platform in site.data.downloads.latest.platforms %}
+ 
+ <tr id="{{ platform.id }}">
+      <td class="version-name">{% translate platform.name %}</td>
+      <td>
+      
+      {% if platform.noInfo != true %}
+          
+          <span rel="popover" data-platform="{{ platform.name }}" data-title="{% translate platform.name %}" data-content="" class="glyphicon glyphicon-info-sign"><!----></span>
+      
+      {% endif %}
+      
+      </td>
+      <td>
+      {% if platform.link != null %} <a class="btn btn-primary version-download" href="{{ platform.link }}" role="button">下载</a></td>
+      {% else %} <a class="btn btn-primary version-download" href="{{ site.data.downloads.baseUrl }}/{{ site.data.downloads.latest.folder }}/{{ site.data.versions.latest.name }}/OmegaT_{{ site.data.versions.latest.version }}_{{ platform.fileName}}/download" role="button">下载</a></td>
+      
+      {% endif %}
+      
+      </td>
+  </tr>
+
+{% endfor %}
+  
+  </tbody>
+
+</table>
+
+<h3 id="downloadTrunk">开发者版本</h3>
+
+<p>“/主干”版本是一个前沿的“alpha”版本，仍在开发中。预先构建的二进制文件可用作 Nightly Builds。</p>
+
+<table class="table table-striped downloads">
+  <thead>
+    <tr>
+      <th>平台</th>
+      <th>详细说明</th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+  <tr>
+      <td>主干</td>
+      <td><!----><span rel="popover" data-platform="trunk" data-content="" class="glyphicon glyphicon-info-sign"></span>
+      </td>
+      <td><a class="btn btn-primary" href="{{ site.data.downloads.trunk }}" role="button">下载</a></td>
+  </tr>
+  <tr>
+      <td>Nightly Builds</td>
+      <td><!----><span rel="popover" data-platform="nightly" data-content="" class="glyphicon glyphicon-info-sign"></span>
+      </td><td><a class="btn btn-primary" href="{{ site.data.downloads.nightly }}" role="button">下载</a></td>
+  </tr>
+  </tbody>
+</table>
+
+<h3>历史版本</h3>
+
+<p>您仍可获取 <a href="{{ site.data.downloads.legacy }}">较老的、已被取代的版本</a>的 OmegaT。</p>
+
+<p>历史版本是已经被取代的旧版本。. 大多数用户对这些都不感兴趣。然而，一些用户可能会面临一些限制（由用户的操作系统或 Java 版本强制执行），这可能会导致对旧版本的偏好。</p>
+
+<h3>包含/不包含 JRE</h3>
+
+<p>要想运行 OmegaT，电脑上必须安装 Java 运行环境（JRE）。</p>
+
+<p>如果您确定电脑中已经安装了适用的 JRE，您可下载不包含 JRE 的 OmegaT 版本。下载会更快，安装占用硬盘空间更小。在此情况下，请勿选择默认版本；选择不同版本（例如标准或最新版本），然后选择标记“不包含 Java”的版本。</p>
+
+<p>如果您在电脑上已安装 JRE 的情况下下载了包含 JRE 的 OmegaT 版本，OmegaT 的 JRE 会独立安装，不会与已有的 JRE 冲突因此，安装含有 JRE 的 OmegaT 总是安全的。如果您不确定您是否已安装了适用的 JRE 版本，选择包含 JRE 的版本（或默认版本）。 </p>
+
+<p><strong>Mac OS X 用户</strong>：Mac OS X 上已默认安装 JRE；因此，不提供 Mac OS X 上的包含 JRE 版本。</p>
+
+<p><strong>Linux 用户</strong>：多数 Linux 发行版都提供了 Java 运行环境，但一些开源实现不能很好地处理 OmegaT（尽管可能并不明显）。如果您是 Linux 的新用户，我们建议您选择包含 JRE 的 OmegaT 版本。较有经验的 Linux 用户可能更喜欢在系统上按照 Oracle（以前的 Sun）JRE。
+</p>
+
+<div id="popover_content_osx_signed" style="display:none">
+<h4 id="about_signing">已签名/未签名</h4>
+
+<p>Mac OS X 有一个叫做 Gatekeeper 的功能，该功能通过增加运行未签字程序的难度来增加安全性。Mac OS X 上的 OmegaT 签名和未签名版都可用；他们在功能上相同，但首选签名版本，因为其是由已知开发者发布的。</p>
+
+<p>在发布签名版本时可能会有延迟。用户也可使用未签名版本替代；如果您在启动应用时遇到问题，请查看 <a href="https://support.apple.com/kb/ph14369">如何打开未认证开发者的应用</a>.</p>
+</div>
+
+<div id="popover_content_osx_unsigned" style="display:none">
+<h4 id="about_signing_unsigned">已签名/未签名</h4>
+
+<p>Mac OS X 有一个叫做 Gatekeeper 的功能，该功能通过增加运行未签字程序的难度来增加安全性。Mac OS X 上的 OmegaT 签名和未签名版都可用；他们在功能上相同，但首选签名版本，因为其是由已知开发者发布的。</p>
+
+<p>在发布签名版本时可能会有延迟。用户也可使用未签名版本替代；如果您在启动应用时遇到问题，请查看 <a href="https://support.apple.com/kb/ph14369">如何打开未认证开发者的应用</a>.</p>
+</div>
+
+<div id="popover_content_webstart" style="display:none">
+      <p>网页启动版本提供了在您电脑上安装 OmegaT 的另一种方法。</p>
+      <p>这一版本下，后续更新将自动安装。</p>
+      <p>在安装期间，根据操作系统的不同，你可能会收到几条安全警告。<br/>该证书由 <a
+      href="http://www.pnsconcept.com/coordinates.html">PnS Concept Sarl</a>签名，这是一家法国注册公司。</p>
+      <p>您赋予该版本的权限（可能会被描述为“对计算机的无限制访问”）与您赋予本地版本的权限相同，比如，可访问您电脑的硬盘。</p>
+      <p>欲安装 Web start 版，您的电脑需要先安装1.3 以上版本的 Java。</p>
+      <p>隐私信息：OmegaT Java Web Start 不会收集您的任何信息上传至 OmegaT 的 网络服务器。应用程序在本地运行您的文件及翻译记忆都保存在本地， OmegaT 项目组将无法获取您的作品及相关信息。</p>
+</div>
+
+
+<div id="popover_content_trunk" style="display:none">
+    <p>主开发（trunk）版本（即内部测试版本 Alpha）展示了最新开发状态。只推荐专业开发人员及测试人员使用该版本。您也可通过 subversion 命令获取该版本：</p>
+    <p><kbd>svn checkout svn://svn.code.sf.net/p/omegat/svn/trunk omegat-svn</kbd></p>
+</div>
+
+<div id="popover_content_nightly" style="display:none">
+  <p>Periodic builds are available on Sourceforge.</p>
+</div>
+
+<div id="popover_content_source" style="display:none">
+    <p>源代码包仅为开发者提供，用户无需源代码包。您也可在相应编译版本的文件夹中找到源代码包。</p>
+</div>
+</div>
+

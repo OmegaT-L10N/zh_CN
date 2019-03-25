@@ -1,0 +1,120 @@
+
+<div class="container">
+
+
+<h3>背景与原则</h3>
+
+<p>Priorview是一个小工具，提供与OmegaT一起使用的预览功能。背景与原则信息请参考 <a href="preview.html">Preview Howto</a>. 本指南提供了<b>Windows and Linux</b>的Priorview使用说明。 如果你使用的是Mac OSX, 你可以在这里<a href="{{ '/files/priorview_for_mac.zip' | prepend: site.baseurl_root }}">下载Mac版本的Priorview</a>。Mac OSX 版本尚未记录，以下信息不适用于它。 <b>not</b> apply to it.</p>
+
+<h3>所需软件</h3>
+
+<p>在Windows或Linux上使用Priorview，你需要：</p>
+
+<p>1. <b>浏览器</b>，可选择：</p>
+
+<ul>
+
+<li><a href="http://www.opera.com">Opera</a><br/>或者</li>
+
+<li><a href="http://www.mozilla.org">Firefox</a>以及<a href="http://addons.mozilla.org/de/firefox/addon/reloadevery/">"ReloadEvery"插件</a><br/>首先安装Firefox（如果你尚未安装），然后添加ReloadEvery。</li>
+
+<li><i>（请点击链接下载； Linux用户在可能的情况下更倾向于从其发行版的存储库进行安装）</i></li>
+
+</ul>
+
+<p>2. <b>转换功能</b>，可选择：</p>
+
+<ul>
+
+<li><a href="http://www.abisource.com/download/">Abiword</a><br/>或者</li>
+
+<li><a href="http://www.libreoffice.org/">LibreOffice</a>以及<a href="http://dag.wieers.com/home-made/unoconv/">Unoconv插件</a></li>
+
+</ul>
+
+<p>3. <b><a href="http://www.tcl.tk/software/tcltk/">Tcl/Tk</a></b></p>
+
+<p>几乎所有当前版本的Tcl / Tk都适用，但你必须同时拥有Tcl（脚本解释器）和Tk（图形组件）。</p>
+
+<p>4. <b><a href="{{ '/files/priorview.zip' | prepend: site.baseurl_root }}">Priorview</a></b></p>
+
+<p>要安装Priorview，只需将zip压缩包解压到硬盘驱动器上的任何合适位置即可。要启动Priorview，请打开命令提示符/终端/控制台并输入：</p>
+
+<p>cd <i>路径</i></p>
+
+<p>其中<i>路径&lt;/ i0&gt;是放置preview.tcl的文件夹的完整路径名。. 然后输入：</p>
+
+<p>wish priorview.tcl</p>
+
+<p>您可以通过编写脚本文件来简化启动过程，即包含这两行的纯文本文件。</p>
+
+<h3>使用Priorview</h3>
+
+<p>一切正常的话，Priorview应该按照上述方式启动。在这里，选择：</p>
+
+<ul>
+
+<li>目标文件的名称（在OmegaT项目中的/目标中）；</li>
+
+<li>你已经安装的浏览器；</li>
+
+<li>脚本检查此文件是否已更改的频率（轮询间隔）；</li>
+
+<li>你已安装的文件转换功能</li>
+
+</ul>
+
+<p>当你选择完毕，就会出现开始按钮。点击它就会启动您的浏览器并显示虚拟页面，指示您设置自动刷新功能，然后在OmegaT中按Ctrl + s和Ctrl + d以启动浏览器的自动更新。</p>
+
+<p>运行Priorview时，你可以：</p>
+
+<ul>
+
+<li>打断并且重启它；</li>
+
+<li>选择一个新文件（如果您在包含多个文件的项目中工作，在到达一个文件末尾时不必重新启动Priorview；只需选择下一个）；</li>
+
+<li>改变轮询间隔。</li>
+
+</ul>
+
+<p>Priorview一旦启动，你无法选择其他浏览器或转换实用程序；因此这些选项在启动后隐藏。如需更换浏览器或者转换功能，你必须关闭Priorview并重启。</p>
+
+<p>点击停止按钮，关闭Priorview并删除它创建的临时文件。（其他关闭Priorview的方法不会删除临时文件。）</p>
+
+<p><img src="{{ '/img/preview_ss.png' | prepend: site.baseurl_root }}" alt=" preview_ss.png"></img></p>
+
+<p><i>欧洲委员会新闻稿（采用.odt格式）在OmegaT中并在其下方显示Opera中显示的即时目标文本。底部右侧：Priorview实用程序。. 这里显示的布局仅仅是为了举例；你可以按你喜欢的方式排列窗口。</i></p>
+
+
+<h3>故障排除</h3>
+
+<p>如果beforeview.tcl位置的路径包含空格，请将其放在引号中，例如：</p>
+
+<p>cd "C:\My Files\priorview"</p>
+
+<p>如果Priorview未能启动：</p>
+
+<p>根据你安装的Tcl / Tk版本，你可能需要将版本号添加到wish命令中，例如：</p>
+
+<p>wish8.5 priorview.tcl</p>
+
+<p>注意小写/大写。.</p>
+
+<p>如果浏览器中显示的文件未更新，请检查以下内容：</p>
+
+<ul>
+
+<li>你记得在OmegaT中按Ctrl + s，Ctrl + d。除非你这样做，否则检测/显示将不会发生变化！</li>
+
+<li>文件转换实用程序已正确安装并正在运行。你可以在命令行（终端/控制台/ DOS提示符）中使用下面的相关命令对其进行测试。. 在每种情况下，<i>文件&lt;/ i0&gt;是.docx或.odt文件的名称。. 如果一切正常，将生成文件的一个.html版本：<br/>Abiword：<br/><kbd>abiword --to=html <i>file</i></kbd><br/>LibreOffice+Unoconv:<br/><kbd>unoconv -f html <i>file</i></kbd></li>
+
+<li>你已在浏览器中设置自动刷新间隔。</li>
+
+</ul>
+
+<br/><br/>
+
+<p> 版权所有Marc Prior 2012</p>
+
+</div>
