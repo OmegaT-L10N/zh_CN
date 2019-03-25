@@ -15992,8 +15992,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Double-click on the OmegaT application.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T021831Z" creationid="xulihang" creationdate="20180408T021831Z">
-        <seg>双击OmegaT应用</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190325T165602Z" creationid="xulihang" creationdate="20180408T021831Z">
+        <seg>双击 OmegaT 应用程序。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19080,8 +19080,8 @@ script provided (omegat.kaptn).</seg>
       <tuv lang="EN">
         <seg>For this purpose download the following file and then execute it:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130514T154811Z">
-        <seg>为此，需要下载下面的文件并运行它：</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190325T165050Z">
+        <seg>为此，需要下载以下文件并运行之：</seg>
       </tuv>
     </tu>
     <tu>
@@ -22045,8 +22045,9 @@ their defaults as a result of the location change.</seg>
         <seg>If you can see the file OmegaT but not OmegaT.exe in your File Manager
 (Windows Explorer), change the settings so that file extensions are displayed.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T021437Z" creationid="xulihang" creationdate="20180408T021437Z">
-        <seg>如果您能在文件管理器（Windows资源管理器）中看到OmegaT但没有OmegaT.exe文件，请修改此设置以显示文件扩展名。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190325T165546Z" creationid="xulihang" creationdate="20180408T021437Z">
+        <seg>如果您在文件管理器（Windows 资源管理器）中能看到文件 OmegaT 但看不到
+OmegaT.exe，请修改设置以显示文件扩展名。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22166,8 +22167,8 @@ their defaults as a result of the location change.</seg>
         <seg>If you have already Java installed on your system, one way to install OmegaT
 is to use Java Web Start.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T021254Z" creationid="xulihang" creationdate="20180408T021254Z">
-        <seg>如果已经装了 Java，安装 OmegaT 的途径之一是使用 Java Web Start。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190325T165037Z" creationid="xulihang" creationdate="20180408T021254Z">
+        <seg>如果已在系统中安装了 Java，安装 OmegaT 的方法之一是使用 Java Web Start。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22471,8 +22472,8 @@ is to use Java Web Start.</seg>
       <tuv lang="EN">
         <seg>If you used linux-install.sh script, you should be able to launch OmegaT with:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105846Z" creationid="xulihang" creationdate="20180408T105846Z">
-        <seg>如果您用所提供的脚本实施安装，那么可以这样启动OmegaT：</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190325T165813Z" creationid="xulihang" creationdate="20180408T105846Z">
+        <seg>如果您用了 linux-install.sh 脚本，你应当可以用以下命令启动 OmegaT：</seg>
       </tuv>
     </tu>
     <tu>
@@ -22632,9 +22633,8 @@ is to use Java Web Start.</seg>
         <seg>If, during installation, you have created a shortcut on the desktop, double-
 click on that shortcut.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T021350Z" creationid="xulihang" creationdate="20180408T021350Z">
-        <seg>* Windows用户：
-若在安装时您选择创建了桌面快捷方式，那么双击它。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190325T165315Z" creationid="xulihang" creationdate="20180408T021350Z">
+        <seg>如果在安装过程中已经在桌面上创建了快捷方式，双击此快捷方式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24193,8 +24193,8 @@ click on that shortcut.</seg>
         <seg>Installing OmegaT (Solaris, FreeBSD, ...)
 =========================================</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T021149Z" creationid="xulihang" creationdate="20180408T021149Z">
-        <seg>在Solaris, FreeBSD等系统安装
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190325T164801Z" creationid="WynnChen" creationdate="20190325T164801Z">
+        <seg>安装 OmegaT（Solaris、FreeBSD、...）
 =========================================</seg>
       </tuv>
     </tu>
@@ -25144,8 +25144,8 @@ inside the configuration folder.</seg>
         <seg>It will install the correct environment for your computer and the application
 itself on the first run.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T021314Z" creationid="xulihang" creationdate="20180408T021314Z">
-        <seg>它将在第一次运行时给您的计算机安装正确的环境和应用程序本身。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190325T165146Z" creationid="xulihang" creationdate="20180408T021314Z">
+        <seg>它将在第一次运行时为您的计算机与应用程序自身安装正确的环境。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26072,8 +26072,8 @@ itself on the first run.</seg>
       <tuv lang="EN">
         <seg>Later calls do not need to be online.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130514T154900Z">
-        <seg>之后再运行的话无需处于在线状态。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190325T165217Z">
+        <seg>以后再调用就无需处于在线状态。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26177,8 +26177,8 @@ itself on the first run.</seg>
         <seg>Launching OmegaT (Linux)
 ========================</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105813Z" creationid="xulihang" creationdate="20180408T105813Z">
-        <seg>在Linux上启动OmegaT
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190325T165728Z" creationid="WynnChen" creationdate="20190325T165728Z">
+        <seg>启动 OmegaT（Linux）
 ========================</seg>
       </tuv>
     </tu>
@@ -26187,9 +26187,9 @@ itself on the first run.</seg>
         <seg>Launching OmegaT (Mac)
 ======================</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T021455Z" creationid="xulihang" creationdate="20180408T021455Z">
-        <seg>在Mac上启动OmegaT
-=======================</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190325T165554Z" creationid="WynnChen" creationdate="20190325T165554Z">
+        <seg>启动 OmegaT（Mac）
+======================</seg>
       </tuv>
     </tu>
     <tu>
@@ -26197,8 +26197,8 @@ itself on the first run.</seg>
         <seg>Launching OmegaT (Windows)
 ==========================</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T021335Z" creationid="xulihang" creationdate="20180408T021335Z">
-        <seg>在Windows上启动OmegaT
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190325T165229Z" creationid="WynnChen" creationdate="20190325T165229Z">
+        <seg>启动 OmegaT（Windows）
 ==========================</seg>
       </tuv>
     </tu>
@@ -42191,9 +42191,8 @@ instead.</seg>
         <seg>The install program can create shortcuts for you in the start menu, on the
 desktop and in the quick launch area.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T021355Z" creationid="xulihang" creationdate="20180408T021355Z">
-        <seg>* Windows用户：
-安装程序可以在开始菜单、桌面和快速启动栏创建快捷方式。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190325T165359Z" creationid="xulihang" creationdate="20180408T021355Z">
+        <seg>安装程序可以在开始菜单、桌面和快速启动栏中创建快捷方式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48994,8 +48993,8 @@ searchable without subscription:</seg>
         <seg>Using Java Web Start for installing OmegaT (all platforms)
 ===========================================================</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T021234Z" creationid="xulihang" creationdate="20180408T021234Z">
-        <seg>使用Java Web Start安装OmegaT（适合任何平台）
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190325T164828Z" creationid="WynnChen" creationdate="20190325T164828Z">
+        <seg>用 Java Web Start 安装 OmegaT（所有平台）
 ===========================================================</seg>
       </tuv>
     </tu>
@@ -51116,8 +51115,8 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
         <seg>You can also launch
 it from the Spotlight search field.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105758Z" creationid="xulihang" creationdate="20180408T105758Z">
-        <seg>您还可以在Spotlight搜索区域中进行调用。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190325T165720Z" creationid="xulihang" creationdate="20180408T105758Z">
+        <seg>您还可以从 Spotlight 搜索区中启动它。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51126,8 +51125,9 @@ it from the Spotlight search field.</seg>
 OmegaT.exe to the start menu, the desktop or the quick launch area to link it
 from there.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T021402Z" creationid="xulihang" creationdate="20180408T021402Z">
-        <seg>您也可以手动将 OmegaT.exe 文件拖动到开始菜单、桌面或快速启动栏，以将其链接到该处。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190325T165453Z" creationid="xulihang" creationdate="20180408T021402Z">
+        <seg>您也可以将 OmegaT.exe 文件手工拖动到开始菜单、桌面或快速启动栏
+来将其链接到那些地方。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51766,8 +51766,9 @@ the installation script (linux-install.sh).</seg>
         <seg>You may drag the OmegaT application to your dock or to the tool bar of a
 Finder window to be able to launch it from any location.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105755Z" creationid="xulihang" creationdate="20180408T105755Z">
-        <seg>拖动OmegaT.app到dock面板或Finder窗口的工具栏以便从任意位置启动此程序。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190325T165656Z" creationid="xulihang" creationdate="20180408T105755Z">
+        <seg>你可以将 OmegaT 应用程序拖动到 dock 面板或 Finder 窗口的工具栏
+以便从任意位置启动它。</seg>
       </tuv>
     </tu>
     <tu>
