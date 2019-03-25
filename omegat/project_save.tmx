@@ -7950,10 +7950,26 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>===============</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190325T162929Z" creationid="WynnChen" creationdate="20190325T162929Z">
+        <seg>===============</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>==============================================================================</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130514T145242Z">
         <seg>==============================================================================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>@TRANSLATION_NOTICE@</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190325T162909Z" creationid="WynnChen" creationdate="20190325T162909Z">
+        <seg>@TRANSLATION_NOTICE@</seg>
       </tuv>
     </tu>
     <tu>
@@ -30397,16 +30413,17 @@ appropriate location such as the Applications folder.</seg>
 tool with fuzzy matching, translation memory, keyword search, glossaries, and
 translation leveraging into updated projects.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T020046Z" creationid="xulihang" creationdate="20180408T020046Z">
-        <seg>OmegaT 是一种免费开源的跨平台计算机辅助翻译工具软件，包含模糊匹配、翻译记忆、关键词搜索、术语表和协作翻译等功能</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190325T163127Z" creationid="xulihang" creationdate="20180408T020046Z">
+        <seg>OmegaT 是自由且开源的多平台计算机辅助翻译工具，具有模糊匹配、翻译记忆、
+关键字查找、词汇表、以及为更新后的项目自动套用翻译等特性。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>OmegaT is a free and open source multiplatform Computer Assisted Translation tool with fuzzy matching, translation memory, keyword search, glossaries, and translation leveraging into updated projects.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190322T083638Z" creationid="wynnc" creationdate="20190322T083638Z">
-        <seg>OmegaT 是自由开源多平台计算机辅助翻译工具，具有模糊匹配、翻译记忆、关键字查找、词汇表、以及为更新后的项目自动套用翻译等特性。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190325T163022Z" creationid="wynnc" creationdate="20190322T083638Z">
+        <seg>OmegaT 是自由且开源的多平台计算机辅助翻译工具，具有模糊匹配、翻译记忆、关键字查找、词汇表、以及为更新后的项目自动套用翻译等特性。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30463,8 +30480,8 @@ translation leveraging into updated projects.</seg>
 published by the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T020351Z" creationid="xulihang" creationdate="20180408T020351Z">
-        <seg>该程序是免费软件，遵循 FSF 的 GNU General Public License v3或者更高版本，你可以对它进行编辑或者重新发布。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190325T163336Z" creationid="xulihang" creationdate="20180408T020351Z">
+        <seg>OmegaT 根据自由软件基金会发布的 GNU 通用公共许可证许第 3 版或（根据您的选择）任何更高版本的条款提供。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30716,8 +30733,8 @@ to be launched.</seg>
         <seg>OmegaT requires the Java Runtime Environment (JRE) version 1.8 or higher to be
 installed on your system.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T020715Z" creationid="xulihang" creationdate="20180408T020715Z">
-        <seg>OmegaT需要您的系统安装了Java运行环境（JRE）1.8或者更高的版本。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190325T163745Z" creationid="xulihang" creationdate="20180408T020715Z">
+        <seg>OmegaT 需要您的系统安装了 Java 运行环境（JRE）1.8 或者更高版本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30836,8 +30853,8 @@ installed on your system.</seg>
       <tuv lang="EN">
         <seg>OmegaT uses a number of librairies.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T020428Z" creationid="xulihang" creationdate="20180408T020428Z">
-        <seg>OmegaT使用了许多类库。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190325T163419Z" creationid="xulihang" creationdate="20180408T020428Z">
+        <seg>OmegaT使用了许多库。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33146,8 +33163,8 @@ language you would like to translate to.</seg>
         <seg>Prerequisites for installing OmegaT
 ===================================</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T020637Z" creationid="xulihang" creationdate="20180408T020637Z">
-        <seg>安装OmegaT的要求
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190325T163714Z" creationid="xulihang" creationdate="20180408T020637Z">
+        <seg>安装 OmegaT 的先决条件
 ===================================</seg>
       </tuv>
     </tu>
@@ -42305,8 +42322,9 @@ xx 或 xxx 是语言代码而 YY 是地区或国家代码（可选）。</seg>
         <seg>The license of each library is mentionned
 in /lib/licenses/Licenses.txt.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T020526Z" creationid="xulihang" creationdate="20180408T020526Z">
-        <seg>每个类库的许可证书在以下文本中都有提到：/lib/licenses/Licenses.txt。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190325T163655Z" creationid="WynnChen" creationdate="20190325T163436Z">
+        <seg>各个库的许可证在此处提及：
+/lib/licenses/Licenses.txt</seg>
       </tuv>
     </tu>
     <tu>
@@ -49690,8 +49708,8 @@ trouble of selecting, obtaining and installing it.</seg>
       <tuv lang="EN">
         <seg>What is OmegaT?</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T015933Z">
-        <seg>什么是OmegaT？</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190325T162927Z">
+        <seg>OmegaT 是什么？</seg>
       </tuv>
     </tu>
     <tu>
@@ -51342,9 +51360,9 @@ from there.</seg>
         <seg>You can find the text of the license in
 /docs/OmegaT-license.txt.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T020416Z" creationid="xulihang" creationdate="20180408T020416Z">
-        <seg>你可以在此找到证书的文本：
-/docs/OmegaT-license.txt.</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190325T163409Z" creationid="xulihang" creationdate="20180408T020416Z">
+        <seg>你可以在此找到许可证的文本：
+/docs/OmegaT-license.txt</seg>
       </tuv>
     </tu>
     <tu>
