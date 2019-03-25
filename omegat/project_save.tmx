@@ -27650,8 +27650,8 @@ itself on the first run.</seg>
       <tuv lang="EN">
         <seg>Memor&amp;y</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190320T182159Z" creationid="wynnc" creationdate="20190320T045507Z">
-        <seg>翻译记忆库</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190325T162653Z" creationid="wynnc" creationdate="20190320T045507Z">
+        <seg>存储(&amp;Y)</seg>
       </tuv>
     </tu>
     <tu>
@@ -35623,8 +35623,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>S&amp;pace matches nbsp</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190323T120946Z" creationid="wynnc" creationdate="20190320T182112Z">
-        <seg>空格可匹配不换行空格（nbsp） (&amp;P)</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190325T162709Z" creationid="wynnc" creationdate="20190320T182112Z">
+        <seg>空格可匹配不换行空格（nbsp）(&amp;P)</seg>
       </tuv>
     </tu>
     <tu>
