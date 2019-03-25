@@ -24431,8 +24431,8 @@ click on that shortcut.</seg>
       <tuv lang="EN">
         <seg>Invoke `team -h` for details.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190320T084323Z" creationid="wynnc" creationdate="20190320T084323Z">
-        <seg>Invoke `team -h` for details.</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190325T154736Z" creationid="wynnc" creationdate="20190320T084323Z">
+        <seg>有关详细信息，请调用 `team -h`。</seg>
       </tuv>
     </tu>
     <tu>
