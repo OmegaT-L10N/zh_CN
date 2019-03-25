@@ -48,3 +48,4 @@ OmegaT	OmegaT
 library	库
 project	项目
 GUI	图形界面	完整翻译应当是“图形用户界面”，使用习惯中文。
+URL	网址
