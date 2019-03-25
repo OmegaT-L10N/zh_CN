@@ -600,8 +600,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Clear Menu</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190320T091411Z" creationid="wynnc" creationdate="20190320T091411Z">
-        <seg>清除菜单(&amp;C)</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190325T161627Z" creationid="wynnc" creationdate="20190320T091411Z">
+        <seg>清空菜单(&amp;C)</seg>
       </tuv>
     </tu>
     <tu>
@@ -36945,40 +36945,40 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Select Match #&amp;1</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
-        <seg>选择第一匹配(&amp;1)</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190325T161522Z" creationid="wynnc" creationdate="20190320T045507Z">
+        <seg>选择第一个匹配(&amp;1)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Select Match #&amp;2</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
-        <seg>选择第二匹配(&amp;2)</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190325T161524Z" creationid="wynnc" creationdate="20190320T045507Z">
+        <seg>选择第二个匹配(&amp;2)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Select Match #&amp;3</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
-        <seg>选择第三匹配(&amp;3)</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190325T161526Z" creationid="wynnc" creationdate="20190320T045507Z">
+        <seg>选择第三个匹配(&amp;3)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Select Match #&amp;4</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
-        <seg>选择第四匹配(&amp;4)</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190325T161527Z" creationid="wynnc" creationdate="20190320T045507Z">
+        <seg>选择第四个匹配(&amp;4)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Select Match #&amp;5</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
-        <seg>选择第五匹配(&amp;5)</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190325T161545Z" creationid="wynnc" creationdate="20190320T045507Z">
+        <seg>选择第五个匹配(&amp;5)</seg>
       </tuv>
     </tu>
     <tu>
