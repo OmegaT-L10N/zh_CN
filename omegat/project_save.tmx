@@ -31917,12 +31917,12 @@ installed on your system.</seg>
 	team
 		Team project tool.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190325T153633Z" creationid="wynnc" creationdate="20190320T084501Z">
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190325T154616Z" creationid="wynnc" creationdate="20190320T084501Z">
         <seg>选项：
 	无：启动图形界面
-	Project path only: Launch GUI and load specified project
+	仅有项目路径：启动图形界面并载入指定项目
 	team
-		Team project tool.</seg>
+		团队项目工具。</seg>
       </tuv>
     </tu>
     <tu>
