@@ -2982,9 +2982,9 @@ To add files to the project, click on the Copy Files to Source Folder... button 
         <seg>--config-file=&lt;path&gt;
 		A Java .properties file from which to load default settings.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190320T084636Z" creationid="wynnc" creationdate="20190320T084636Z">
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190325T155246Z" creationid="wynnc" creationdate="20190320T084636Z">
         <seg>--config-file=&lt;path&gt;
-		A Java .properties file from which to load default settings.</seg>
+		用于加载默认设置的 Java .properties 文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3111,11 +3111,11 @@ To add files to the project, click on the Copy Files to Source Folder... button 
 	--config-dir=&lt;path&gt;
 		The directory to read/write OmegaT configuration files from/to.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190320T084636Z" creationid="wynnc" creationdate="20190320T084636Z">
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190325T155355Z" creationid="wynnc" creationdate="20190320T084636Z">
         <seg>--resource-bundle=&lt;path&gt;
-		A Java .properties file to use for interface text
+		用于界面文本的 Java .properties 文件
 	--config-dir=&lt;path&gt;
-		The directory to read/write OmegaT configuration files from/to.</seg>
+		用于读取/写入 OmegaT 配置文件的目录。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36564,8 +36564,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>See below for details.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190320T084635Z" creationid="wynnc" creationdate="20190320T084635Z">
-        <seg>See below for details.</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190325T155118Z" creationid="wynnc" creationdate="20190320T084635Z">
+        <seg>请参阅下文了解详情。</seg>
       </tuv>
     </tu>
     <tu>
