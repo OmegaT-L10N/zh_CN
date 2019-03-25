@@ -2954,11 +2954,10 @@ To add files to the project, click on the Copy Files to Source Folder... button 
 		Source- or target-language tokenizer to use (overrides project
 		settings).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190320T084639Z" creationid="wynnc" creationdate="20190320T084639Z">
-        <seg>--ITokenizer=&lt;classname&gt;
-	--ITokenizerTarget=&lt;classname&gt;
-		Source- or target-language tokenizer to use (overrides project
-		settings).</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190325T155737Z" creationid="wynnc" creationdate="20190320T084639Z">
+        <seg>--ITokenizer=&lt;类名&gt;
+	--ITokenizerTarget=&lt;类名&gt;
+		原文语言或译文语言所使用的分词器（会覆盖项目设置）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2992,9 +2991,9 @@ To add files to the project, click on the Copy Files to Source Folder... button 
         <seg>--disable-location-save
 		Do not remember the last directory opened in the file picker.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190320T084638Z" creationid="wynnc" creationdate="20190320T084638Z">
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190325T155501Z" creationid="wynnc" creationdate="20190320T084638Z">
         <seg>--disable-location-save
-		Do not remember the last directory opened in the file picker.</seg>
+		不要记忆最后一次在文件选择器中打开的目录。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3002,9 +3001,9 @@ To add files to the project, click on the Copy Files to Source Folder... button 
         <seg>--disable-project-locking
 		Do not attempt to lock the project's omegat.project file.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190320T084637Z" creationid="wynnc" creationdate="20190320T084637Z">
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190325T155416Z" creationid="wynnc" creationdate="20190320T084637Z">
         <seg>--disable-project-locking
-		Do not attempt to lock the project's omegat.project file.</seg>
+		不要尝试锁定项目的 omegat.project 文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3062,9 +3061,9 @@ To add files to the project, click on the Copy Files to Source Folder... button 
         <seg>--no-team
 		Disable team project functionality.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190320T084639Z" creationid="wynnc" creationdate="20190320T084639Z">
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190325T155513Z" creationid="wynnc" creationdate="20190320T084639Z">
         <seg>--no-team
-		Disable team project functionality.</seg>
+		禁用团队项目功能。</seg>
       </tuv>
     </tu>
     <tu>
