@@ -4,21 +4,20 @@ History Prediction	历史预测
 term	术语	原来的版本翻译为词语，译为术语更加合适
 Glossary	术语表	glossary of terms，意为术语表。term是glossary的一个entry
 shortcut	缩略词	在autotext功能中出现，可以输入缩略词，自动补全单词。比如输入ad.补全为advertisement
-Preferences	偏好设置
+shortcut	快捷方式	快捷键相关处使用。
+shortcut	快捷键
+Preferences	首选项
 Change	修改
 domain	领域	查询TaaS术语时可以选择特定的领域
-API Key	API Key	专业名词就不翻译了
-Active	活动的	active segment，就是当前所在片段
-unique	唯一	根据以下文档，可以知道unique segment是不存在重复的唯一片段。Segments which occur more than once are described in OmegaT as "non-unique segments".
+API Key	API 密钥	专业名词就不翻译了
 spreadsheet	电子表格
 Drag and drop	拖放
-Search and Replace	搜索与替换
 bidirectional control characters	双向控制字符
 Auto-Populated Segments	自动填充片段
 Options/Editing Behaviour	选项/编辑操作
 Request For Enhancement	增强需求
-Aggressive Font Fallback	突出后备字体
-Note	提示
+Note	备注
+comment	注释
 Create Translated Documents	创建已译文档
 pre-configured	预配置
 auto-completer	自动完成器
@@ -37,18 +36,15 @@ GUI	GUI	用户图形界面，翻译时的缩略词保留不译。
 regular expression	正则表达式
 Editor pane	编辑窗格
 pane	窗格
-history	【编辑】历史？	吐槽：不然要拍一集历史转折中的OmegaT?
-Non-breakable Spaces	不可分割空格？	翻译不统一
-Whitespace	空格	这玩意到底跟space什么区别，，，
+Whitespace	空白字符	包括各种显示为“空白”的字符，比如空格、tab(\t)、不换行空格（nbsp），等等。
 highlighting functions	高亮显示功能
 tokenizer	分词器
 fuzzy	模糊
 launch script file	启动脚本文件
-shortcut	快捷键，快捷方式
 will be found	将会显示
 re-import	重新导入
 out-of-turn tags	外转标签
 OmegaT	OmegaT
-libraries	库
-ctype	ctype	此处存疑
+library	库
 project	项目
+GUI	图形界面	完整翻译应当是“图形用户界面”，使用习惯中文。
