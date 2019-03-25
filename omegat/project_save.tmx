@@ -3012,9 +3012,9 @@ To add files to the project, click on the Copy Files to Source Folder... button 
         <seg>--mode=[console-translate|console-pseudotranslatetmx|console-align]
 		Specify a mode other than default (GUI).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190320T084635Z" creationid="wynnc" creationdate="20190320T084635Z">
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190325T155056Z" creationid="wynnc" creationdate="20190320T084635Z">
         <seg>--mode=[console-translate|console-pseudotranslatetmx|console-align]
-		Specify a mode other than default (GUI).</seg>
+		指定默认模式（图形界面）之外的其他模式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3099,10 +3099,9 @@ To add files to the project, click on the Copy Files to Source Folder... button 
 		Download an omegat.project file from the URL given as &lt;project
 		path&gt; and load the project.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190320T084634Z" creationid="wynnc" creationdate="20190320T084634Z">
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190325T155003Z" creationid="wynnc" creationdate="20190320T084634Z">
         <seg>--remote-project
-		Download an omegat.project file from the URL given as &lt;project
-		path&gt; and load the project.</seg>
+		从作为&lt;项目路径&gt;给出的网址下载 omegat.project 文件并载入此项目。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3192,9 +3191,9 @@ To add files to the project, click on the Copy Files to Source Folder... button 
         <seg>-h, --help
 		Show usage information.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190320T084508Z" creationid="wynnc" creationdate="20190320T084508Z">
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190325T154753Z" creationid="wynnc" creationdate="20190320T084508Z">
         <seg>-h, --help
-		Show usage information.</seg>
+		显示用法信息。</seg>
       </tuv>
     </tu>
     <tu>
