@@ -24173,8 +24173,8 @@ click on that shortcut.</seg>
         <seg>Installing OmegaT (Linux)
 =========================</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T020959Z" creationid="xulihang" creationdate="20180408T020959Z">
-        <seg>在Linux上安装OmegaT
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190325T164323Z" creationid="xulihang" creationdate="20180408T020959Z">
+        <seg>安装 OmegaT（Linux）
 =========================</seg>
       </tuv>
     </tu>
@@ -24183,8 +24183,8 @@ click on that shortcut.</seg>
         <seg>Installing OmegaT (Mac)
 =======================</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T020835Z" creationid="xulihang" creationdate="20180408T020835Z">
-        <seg>在Mac上安装
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190325T164107Z" creationid="xulihang" creationdate="20180408T020835Z">
+        <seg>安装 OmegaT（Mac）
 =======================</seg>
       </tuv>
     </tu>
@@ -24203,8 +24203,8 @@ click on that shortcut.</seg>
         <seg>Installing OmegaT (Windows)
 ===========================</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T020817Z" creationid="xulihang" creationdate="20180408T020817Z">
-        <seg>在Windows上安装
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190325T164018Z" creationid="xulihang" creationdate="20180408T020817Z">
+        <seg>安装 OmegaT（Windows）
 ===========================</seg>
       </tuv>
     </tu>
@@ -28231,12 +28231,13 @@ itself on the first run.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>文件夹名维持原样。</note>
       <tuv lang="EN">
         <seg>Move the folder to an
 appropriate location such as the Applications folder.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T020949Z" creationid="xulihang" creationdate="20180408T020949Z">
-        <seg>将该文件夹移动到合适的地方，比如应用程序文件夹。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190325T164313Z" creationid="xulihang" creationdate="20180408T020949Z">
+        <seg>将该文件夹移动到合适的地方，比如 Applications 文件夹。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30596,8 +30597,8 @@ your home folder.</seg>
         <seg>OmegaT is then ready
 to be launched.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T021047Z" creationid="xulihang" creationdate="20180408T021047Z">
-        <seg>你有可以运行OmegaT了。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190325T164440Z" creationid="xulihang" creationdate="20180408T021047Z">
+        <seg>然后 OmegaT 就已就位，可以运行了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32610,8 +32611,8 @@ everything.</seg>
       <tuv lang="EN">
         <seg>Place the archive in any suitable folder and unpack it.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T021035Z" creationid="xulihang" creationdate="20180408T021035Z">
-        <seg>将压缩包放在任何合适的文件夹解压</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190325T164351Z" creationid="xulihang" creationdate="20180408T021035Z">
+        <seg>将压缩包放在任何合适的文件夹中并解压之。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46858,8 +46859,9 @@ terminal window (console), change folder to the folder containing OmegaT.jar
 and the linux-install.sh script, and execute the script with ./linux-
 install.sh.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T021136Z" creationid="xulihang" creationdate="20180408T021136Z">
-        <seg>要使用此脚本，请打开终端窗口（控制台），进入包含OmegaT.jar和linux-install.sh的目录并执行./linux-install.sh。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190325T164742Z" creationid="xulihang" creationdate="20180408T021136Z">
+        <seg>要使用此脚本，请打开终端窗口（控制台），进入包含 OmegaT.jar 和 linux-install.sh 脚本
+的文件夹，然后用 ./linux-install.sh 执行脚本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48119,8 +48121,8 @@ Exact searches match the whole search string.</seg>
         <seg>Unpack the OmegaT .zip archive to obtain a folder that contains a
 documentation file and the OmegaT application.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T020921Z" creationid="xulihang" creationdate="20180408T020921Z">
-        <seg>解压OmegaT.zip文件，获得一个包含OmegaT程序及其文档文件的文件夹。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190325T164332Z" creationid="xulihang" creationdate="20180408T020921Z">
+        <seg>解压 OmegaT 的 .zip 压缩包以获得包含文档文件和 OmegaT 应用程序的文件夹。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49612,8 +49614,8 @@ searchable without subscription:</seg>
         <seg>We recommend using OmegaT packages that include the JRE, to save you the
 trouble of selecting, obtaining and installing it.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T020804Z" creationid="xulihang" creationdate="20180408T020804Z">
-        <seg>我们推荐使用自带JRE的OmegaT安装包，免去您安装JRE的麻烦。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190325T164003Z" creationid="xulihang" creationdate="20180408T020804Z">
+        <seg>我们推荐使用包含 JRE 的 OmegaT 软件包，以避免选择、获取、与安装 JRE 的麻烦。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51418,8 +51420,8 @@ from there.</seg>
         <seg>You can however obtain a neater and more user-friendly installation by using
 the installation script (linux-install.sh).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T021117Z" creationid="xulihang" creationdate="20180408T021117Z">
-        <seg>不过您可以使用安装脚本（linux-install.sh）进行更整洁和友好的安装。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190325T164538Z" creationid="xulihang" creationdate="20180408T021117Z">
+        <seg>不过，您可以使用安装脚本（linux-install.sh）获得更整洁、更友好的安装。</seg>
       </tuv>
     </tu>
     <tu>
