@@ -35327,8 +35327,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Restore De&amp;faults</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190323T054337Z" creationid="wynnc" creationdate="20190320T045507Z">
-        <seg>还原默认设置(&amp;F)</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190325T161055Z" creationid="wynnc" creationdate="20190320T045507Z">
+        <seg>恢复默认值(&amp;F)</seg>
       </tuv>
     </tu>
     <tu>
