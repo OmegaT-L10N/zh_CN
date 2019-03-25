@@ -3087,9 +3087,9 @@ To add files to the project, click on the Copy Files to Source Folder... button 
         <seg>--pseudotranslatetype=[equal|empty]
 		What to fill the pseudotranslated TMX with.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190320T084644Z" creationid="wynnc" creationdate="20190320T084644Z">
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190325T160326Z" creationid="wynnc" creationdate="20190320T084644Z">
         <seg>--pseudotranslatetype=[equal|empty]
-		What to fill the pseudotranslated TMX with.</seg>
+		用什么来填充伪翻译的 TMX。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13060,10 +13060,10 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
 	-h, --help
 		Show usage information.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190320T084656Z" creationid="wynnc" creationdate="20190320T084656Z">
-        <seg>Commands:
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190325T160459Z" creationid="wynnc" creationdate="20190320T084656Z">
+        <seg>命令：
 	-h, --help
-		Show usage information.</seg>
+		显示用法信息。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13392,10 +13392,10 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
 	--alignDir=&lt;path&gt;
 		A directory containing the translated files.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190320T084644Z" creationid="wynnc" creationdate="20190320T084644Z">
-        <seg>Console-align mode:
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190325T160357Z" creationid="wynnc" creationdate="20190320T084644Z">
+        <seg>Console-align 模式:
 	--alignDir=&lt;path&gt;
-		A directory containing the translated files.</seg>
+		包含译文文件的目录。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21192,9 +21192,8 @@ need not be entered.)</seg>
         <seg>If invoked in a git working tree or svn checkout, the results
 		will be staged/added.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190320T084811Z" creationid="wynnc" creationdate="20190320T084811Z">
-        <seg>If invoked in a git working tree or svn checkout, the results
-		will be staged/added.</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190325T160651Z" creationid="wynnc" creationdate="20190320T084811Z">
+        <seg>如果在 git 工作树或 svn 检出中调用，其结果会被 stage/add。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36523,8 +36522,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>See Help &gt; User's Manual for more information.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190320T084652Z" creationid="wynnc" creationdate="20190320T084652Z">
-        <seg>See Help &gt; User's Manual for more information.</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190325T160423Z" creationid="wynnc" creationdate="20190320T084652Z">
+        <seg>更多信息，参见 帮助 &gt; 用户手册。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48355,8 +48354,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="EN">
         <seg>Usage: java -jar OmegaT.jar team &lt;command&gt; [&lt;options&gt;]]</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190320T084656Z" creationid="wynnc" creationdate="20190320T084656Z">
-        <seg>Usage: java -jar OmegaT.jar team &lt;command&gt; [&lt;options&gt;]]</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190325T160438Z" creationid="wynnc" creationdate="20190320T084656Z">
+        <seg>用法：java -jar OmegaT.jar team &lt;命令&gt; [&lt;选项&gt;]]</seg>
       </tuv>
     </tu>
     <tu>
@@ -55096,9 +55095,9 @@ create its configuration folder.</seg>
         <seg>init &lt;source language&gt; &lt;target language&gt;
 		Initialize a minimal team project with the specified languages.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190320T084656Z" creationid="wynnc" creationdate="20190320T084656Z">
-        <seg>init &lt;source language&gt; &lt;target language&gt;
-		Initialize a minimal team project with the specified languages.</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190325T160535Z" creationid="wynnc" creationdate="20190320T084656Z">
+        <seg>init &lt;原文语言&gt; &lt;译文语言&gt;
+		用指定初始化一个最小化的团队项目。</seg>
       </tuv>
     </tu>
     <tu>
