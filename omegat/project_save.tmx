@@ -18518,8 +18518,9 @@ project_save.tmx 未真正上传，SVN 切换到不稳定状态。</seg>
         <seg>For a more user-friendly way of launching OmegaT, you can use the Kaptain
 script provided (omegat.kaptn).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105926Z" creationid="xulihang" creationdate="20180408T105926Z">
-        <seg>要更友好地启动OmegaT，您可以使用一起提供的Kaptain脚本（omegat.kaptn）。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190325T165916Z" creationid="xulihang" creationdate="20180408T105926Z">
+        <seg>要以对用户更友好的方式启动 OmegaT，您可以使用所提供的 Kaptain
+脚本（omegat.kaptn）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22472,8 +22473,8 @@ is to use Java Web Start.</seg>
       <tuv lang="EN">
         <seg>If you used linux-install.sh script, you should be able to launch OmegaT with:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190325T165813Z" creationid="xulihang" creationdate="20180408T105846Z">
-        <seg>如果您用了 linux-install.sh 脚本，你应当可以用以下命令启动 OmegaT：</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190325T165827Z" creationid="xulihang" creationdate="20180408T105846Z">
+        <seg>如果您用了 linux-install.sh 脚本，你应当可以这样启动 OmegaT：</seg>
       </tuv>
     </tu>
     <tu>
@@ -26223,8 +26224,8 @@ itself on the first run.</seg>
         <seg>Launching OmegaT from the command line (all systems)
 ====================================================</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T110025Z" creationid="xulihang" creationdate="20180408T110025Z">
-        <seg>从命令行启动OmegaT（支持所有系统）
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190325T170030Z" creationid="WynnChen" creationdate="20190325T170030Z">
+        <seg>从命令行启动 OmegaT（所有平台）
 ====================================================</seg>
       </tuv>
     </tu>
@@ -46853,6 +46854,15 @@ This program is free software; you can redistribute it and/or modify it under th
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To use this script you must first install
+Kaptain.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190325T165939Z" creationid="WynnChen" creationdate="20190325T165930Z">
+        <seg>要使用此脚本，必须先安装 Kaptain。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To use this script, open a
 terminal window (console), change folder to the folder containing OmegaT.jar
 and the linux-install.sh script, and execute the script with ./linux-
@@ -51613,8 +51623,8 @@ the installation script (linux-install.sh).</seg>
       <tuv lang="EN">
         <seg>You can then launch the Kaptain launch script with:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T110001Z" creationid="xulihang" creationdate="20180408T110001Z">
-        <seg>然后您可以这样运行Kaptain启动脚本：</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190325T170000Z" creationid="xulihang" creationdate="20180408T110001Z">
+        <seg>然后，可以这样启动 Kaptain 启动脚本：</seg>
       </tuv>
     </tu>
     <tu>
@@ -56406,6 +56416,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120217T122737Z">
         <seg>omegat 文件夹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>omegat.kaptn</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190325T170004Z" creationid="WynnChen" creationdate="20190325T170004Z">
+        <seg>omegat.kaptn</seg>
       </tuv>
     </tu>
     <tu>
