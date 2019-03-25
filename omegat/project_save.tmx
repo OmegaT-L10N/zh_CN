@@ -8512,8 +8512,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>Abort: Exit with an error if tags invalid.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190320T084643Z" creationid="wynnc" creationdate="20190320T084643Z">
-        <seg>Abort: Exit with an error if tags invalid.</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190325T160011Z" creationid="wynnc" creationdate="20190320T084643Z">
+        <seg>Abort：当标签无效时退出并显示错误。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13404,10 +13404,10 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
 	--pseudotranslatetmx=&lt;path&gt;
 		The output pseudotranslated TMX file.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190320T084644Z" creationid="wynnc" creationdate="20190320T084644Z">
-        <seg>Console-pseudotranslatetmx mode:
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190325T160253Z" creationid="wynnc" creationdate="20190320T084644Z">
+        <seg>Console-pseudotranslatetmx 模式:
 	--pseudotranslatetmx=&lt;path&gt;
-		The output pseudotranslated TMX file.</seg>
+		输出伪翻译的 TMX 文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13416,10 +13416,10 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
 	--source-pattern=&lt;pattern&gt;
 		A regex whitelist of source files to process.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190320T084643Z" creationid="wynnc" creationdate="20190320T084643Z">
-        <seg>Console-translate mode:
-	--source-pattern=&lt;pattern&gt;
-		A regex whitelist of source files to process.</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190325T160231Z" creationid="wynnc" creationdate="20190320T084643Z">
+        <seg>Console-translate 模式:
+	--source-pattern=&lt;模式&gt;
+		要处理的原文文件的正则表达式白名单。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28880,10 +28880,10 @@ appropriate location such as the Applications folder.</seg>
 	--quiet
 		Reduce output to command line stdout.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190325T155906Z" creationid="wynnc" creationdate="20190320T084641Z">
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190325T160134Z" creationid="wynnc" creationdate="20190320T084641Z">
         <seg>非图形界面模式选项：
 	--quiet
-		减少输出到命令行标准输出的输出量。</seg>
+		减少输出到命令行 stdout 的输出量。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49515,8 +49515,8 @@ searchable without subscription:</seg>
       <tuv lang="EN">
         <seg>Warn: Report invalid tags to stdout.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190320T084643Z" creationid="wynnc" creationdate="20190320T084643Z">
-        <seg>Warn: Report invalid tags to stdout.</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190325T160123Z" creationid="wynnc" creationdate="20190320T084643Z">
+        <seg>Warn：将无效的标签记录到 stdout。</seg>
       </tuv>
     </tu>
     <tu>
