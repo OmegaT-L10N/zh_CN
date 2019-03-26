@@ -2028,8 +2028,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>(The Java executable file is the file java on Linux and java.exe on Windows.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120127T052553Z">
-        <seg>（Java 可执行文件即 Linux 系统中的 java 文件和 Windows 系统中的 java.exe 文件。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T155326Z">
+        <seg>（所谓 Java 可执行文件，在 Linux 下是 java 文件，在 Windows 下则是 java.exe 文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41285,8 +41285,8 @@ Please try to correct the error and reload the project.</seg>
       <tuv lang="EN">
         <seg>The command to launch OmegaT is:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T110037Z" creationid="xulihang" creationdate="20180408T110037Z">
-        <seg>启动OmegaT的命令是：</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T155156Z" creationid="xulihang" creationdate="20180408T110037Z">
+        <seg>启动 OmegaT 的命令是：</seg>
       </tuv>
     </tu>
     <tu>
@@ -53028,8 +53028,8 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>cd &lt;folder where the file OmegaT.jar is located&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120127T052459Z">
-        <seg>cd &lt;OmegaT.jar 文件所在文件夹&gt;</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T155209Z">
+        <seg>cd &lt;OmegaT.jar 文件所在的文件夹&gt;</seg>
       </tuv>
     </tu>
     <tu>
