@@ -17,7 +17,15 @@
       </keycombo> and enter the word or phrase you wish to search for in the
     <emphasis>Search for</emphasis> box.</para>
 
-    <para>Alternatively, you can select a word or phrase in the Editor pane, Fuzzy matches pane or Glossary pane and hit <keycombo> <keycap>Ctrl</keycap> <keycap>F</keycap> </keycombo>. The word or phrase is entered in the <emphasis>Search for</emphasis> box automatically. 您可以同时打开多个搜索窗口，但别忘记在不需要时关闭它们，这样它们才不会弄乱您的桌面。</para>
+    <para>Alternatively, you can select a word or phrase in the Editor pane,
+    Fuzzy matches pane or Glossary pane and hit <keycombo>
+        <keycap>Ctrl</keycap>
+
+        <keycap>F</keycap>
+      </keycombo>. The word or phrase is entered in the <emphasis>Search
+    for</emphasis> box automatically. You can have several Search windows open
+    at the same time, but close them when they are no longer needed so that
+    they do not clutter your desktop.</para>
 
     <para>Click the dropdown arrow of the <emphasis>Search for</emphasis> box
     to access the last 10 searches.</para>
@@ -80,21 +88,32 @@
         <primary>搜索</primary> <secondary>使用通配符</secondary>
       </indexterm></title>
 
-    <para>无论是精确还是关键词搜索，都可以使用通配符 '*' 和 '?'。它们的含义Word用户很熟悉：</para>
+    <para>In both exact and keyword searches, the wild card search characters
+    '*' and '?' can be used. They have the meaning, familiar to Word
+    users:</para>
 
     <itemizedlist>
       <listitem>
-        <para>‘*’匹配零个或多个字符，从指定单词的当前位置开始到它结束的部分。例如搜索条件<literal>‘run*’</literal>将会匹配单词<literal>‘run’</literal>、<literal>‘runs’</literal>和<literal>‘running’</literal>。</para>
+        <para>'*' matches zero or more characters, from the current position
+        in a given word to its end. The search term <literal>'run*'</literal>
+        for example would match words <literal>'run'</literal>,
+        <literal>'runs'</literal> and <literal>'running'</literal>.</para>
       </listitem>
     </itemizedlist>
 
     <itemizedlist>
       <listitem>
-        <para>‘?’匹配任何单个字符。例如，<literal>‘run?’ </literal>会匹配单词<literal>‘runs’</literal>和<literal>‘running’</literal>单词中的<literal>‘runn’</literal>。</para>
+        <para>'?' matches any single character. For instance,
+        <literal>'run?'</literal> would match the word
+        <literal>'runs'</literal> and <literal>'runn'</literal> in the word
+        <literal>'running'</literal>.</para>
       </listitem>
     </itemizedlist>
 
-    <para>匹配将显示为蓝色粗体。需要注意‘*’和‘?’在正则表达式中有特殊含义，所以这里所说的通配符搜索只适用于精确搜索和关键字搜索（见下文）。</para>
+    <para>The matches will be displayed in bold blue. Note that '*' and '?'
+    have special meaning in regular expressions, so wild card search, as
+    described here, applies to exact and keyword search only (see
+    below).</para>
   </section>
 
   <section id="search.methoids">
@@ -102,14 +121,22 @@
         <primary>搜索</primary> <secondary>方式和选项</secondary>
       </indexterm></title>
 
-    <para>使用单选按钮选择搜索方法。下面是可用的搜索方式：</para>
+    <para>Select the method using the radio buttons. The following search
+    methods are available:</para>
 
     <variablelist>
       <varlistentry>
         <term>精确搜索</term>
 
         <listitem>
-          <para>找出包括指定字符串的片段。精确搜索查找某条短语，也就是说，如果输入了多个词汇，只有它们以相同顺序出现时才会被找出来。搜索 <literal>open file</literal> 将找到所有 <emphasis><literal>open file</literal></emphasis> 字符串出现的地方，但不会找到 <emphasis><literal>file opened</literal></emphasis> 或 <emphasis><literal>open input file</literal></emphasis>.</para>
+          <para>Search for segments containing the exact string you specified.
+          An exact search looks for a phrase, i.e. if several words are
+          entered, they are found only if they occur in exactly that sequence.
+          Searching for <literal>open file</literal> will thus find all
+          occurrences of the string <emphasis><literal>open
+          file</literal></emphasis>, but not <emphasis><literal>file
+          opened</literal></emphasis> or <emphasis><literal>open input
+          file</literal></emphasis>.</para>
         </listitem>
       </varlistentry>
 
@@ -117,7 +144,17 @@
         <term>关键字搜索</term>
 
         <listitem>
-          <para>找出所有包括指定关键字的片段，不考虑顺序。选择关键字搜索以搜索任何数目、任何顺序出现的所有词汇。OmegaT 会显示所有词汇都出现了的片段清单。关键字搜索和互联网 Google 搜索引擎的 “使用所有词”方式相似（AND 逻辑）。使用关键字<emphasis><literal>open file</literal></emphasis>进行搜索将找到所有<emphasis><literal>open file</literal>、</emphasis><emphasis><literal>file opened</literal>、<literal>open input file</literal>以及<literal>file may not be safe to open</literal></emphasis>等字符串出现的地方。</para>
+          <para>Search for segments containing all keywords you specified, in
+          any order. Select keyword search to search for any number of
+          individual full words, in any order. OmegaT displays a list of all
+          segments containing all of the words specified. Keyword searches are
+          similar to a search &quot;with all of the words&quot; in an Internet search
+          engine such as Google (AND logic). Using keyword search with
+          <emphasis><literal>open file</literal></emphasis> will thus find all
+          occurrences of the string <emphasis><literal>open
+          file</literal>,</emphasis> as well as <emphasis><literal>file
+          opened</literal>, <literal>open input file</literal>, <literal>file
+          may not be safe to open</literal></emphasis>, etc.</para>
         </listitem>
       </varlistentry>
 
@@ -125,7 +162,13 @@
         <term><emphasis role="bold">正则表达式</emphasis></term>
 
         <listitem>
-          <para>搜索字符串将会被当作正则表达式进行处理。例如在上文示例中的搜索字符串[a-zA-Z]+[öäüqwß]在目标片段中寻找包含疑似来自德语键盘的字符的单词。正则表达式是一种功能强大的字符串实例查找方法。请到<link linkend="chapter.regexp">正则表达式</link>章节了解更多信息。</para>
+          <para>The search string will be treated as a regular expression. The
+          search string - [a-zA-Z]+[öäüqwß] - in the example above for
+          instance looks for words in the target segment, containing
+          questionable characters from German keyboard. Regular expressions
+          are a powerful way to look for instances of a string. See more in
+          the chapter<link linkend="chapter.regexp"> Regular
+          Expressions.</link></para>
         </listitem>
       </varlistentry>
     </variablelist>
@@ -200,7 +243,12 @@
       </listitem>
 
       <listitem>
-        <para><emphasis role="bold">Search in Files: </emphasis>search in a single file or a folder containing a set of files. When searching through files (as opposed to translation memories), OmegaT restricts the search to files in source file formats. 因此，尽管 OmegaT 能充分处理 <filename> tmx</filename> 文件，但它不会在进行文件搜索时把它们纳入搜索范围。</para>
+        <para><emphasis role="bold">Search in Files: </emphasis>search in a
+        single file or a folder containing a set of files. When searching
+        through files (as opposed to translation memories), OmegaT restricts
+        the search to files in source file formats. Consequently, although
+        OmegaT is quite able to handle<filename> tmx</filename> files, it does
+        not include them in the Search files search.</para>
       </listitem>
     </itemizedlist>
 
@@ -215,9 +263,18 @@
   <section id="search.result.display">
     <title>搜索结果展示</title>
 
-    <para>在搜索字段输入一个字符串然后点击搜索按钮，会把项目中所有包含输入字符串的片段显示出来。由于 <application>OmegaT</application> 将相同片段视为同一实体，因此将只显示第一个唯一的片段。片段以在项目中出现的顺序显示。已译片段会以上面显示原文、下面显示译文的形式显示，而未译片段只显示原始文本。</para>
+    <para>Pressing the search button after entering a string in the search
+    field displays all the segments in the project that include the entered
+    string. As <application>OmegaT</application> handles identical segments as
+    one single entity, only the first unique segment is shown. The segments
+    are displayed in order of appearance in the project. Translated segments
+    are displayed with the original text at the top and the translated text at
+    the bottom, untranslated segments are displayed as the source only.</para>
 
-    <para>Double-clicking on a segment opens it in the Editor for modifications (one single click does it when <emphasis role="bold">Auto-sync with Editor</emphasis> option is checked). 然后您可以转回搜索窗口以编辑找到的下一个片段，例如进行检查或者在必要时调整术语。</para>
+    <para>Double-clicking on a segment opens it in the Editor for
+    modifications (one single click does it when <emphasis role="bold">Auto-sync with Editor</emphasis> option is checked). You can
+    then switch back to the Search window for the next segment found, for
+    instance to check and, if necessary, correct the terminology.</para>
 
     <para>In the Search window, you can use standard shortcuts (<keycombo>
         <keycap>Ctrl</keycap>
@@ -229,7 +286,9 @@
         <keycap>P</keycap>
       </keycombo>) to move from one segment to another.</para>
 
-    <para>可以同时打开多个搜索窗口。通过标题您可以快速了解它们的搜索内容：标题中包含了搜索用词。</para>
+    <para>You may have several Search windows open at the same time. You can
+    quickly see their contents by looking at their title: it will contain the
+    search term used.</para>
   </section>
 
   <section id="search.filter">

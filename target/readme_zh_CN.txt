@@ -1,7 +1,7 @@
 @TRANSLATION_NOTICE@
 
 
-OmegaT 是什么？
+What is OmegaT?
 ===============
 
 OmegaT 是自由且开源的多平台计算机辅助翻译工具，具有模糊匹配、翻译记忆、
@@ -12,11 +12,13 @@ OmegaT 是自由且开源的多平台计算机辅助翻译工具，具有模糊�
 许可信息
 =====================
 
-OmegaT 根据自由软件基金会发布的 GNU 通用公共许可证许第 3 版或（根据您的选择）任何更高版本的条款提供。你可以在此找到许可证的文本：
-/docs/OmegaT-license.txt
+OmegaT is available under the terms of the GNU General Public License as
+published by the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version. You can find the text of the license in
+/docs/OmegaT-license.txt.
 
-OmegaT使用了许多库。各个库的许可证在此处提及：
-/lib/licenses/Licenses.txt
+OmegaT uses a number of librairies. The license of each library is mentionned
+in /lib/licenses/Licenses.txt.
 
 
 
@@ -39,24 +41,31 @@ OmegaT 需要您的系统安装了 Java 运行环境（JRE）1.8 或者更高版
 安装 OmegaT（Mac）
 =======================
 
-解压 OmegaT 的 .zip 压缩包以获得包含文档文件和 OmegaT 应用程序的文件夹。将该文件夹移动到合适的地方，比如 Applications 文件夹。
+Unpack the OmegaT .zip archive to obtain a folder that contains a
+documentation file and the OmegaT application. Move the folder to an
+appropriate location such as the Applications folder.
 
 
 
 安装 OmegaT（Linux）
 =========================
 
-将压缩包放在任何合适的文件夹中并解压之。然后 OmegaT 就已就位，可以运行了。
+Place the archive in any suitable folder and unpack it. OmegaT is then ready
+to be launched.
 
-不过，您可以使用安装脚本（linux-install.sh）获得更整洁、更友好的安装。要使用此脚本，请打开终端窗口（控制台），进入包含 OmegaT.jar 和 linux-install.sh 脚本
-的文件夹，然后用 ./linux-install.sh 执行脚本。
+You can however obtain a neater and more user-friendly installation by using
+the installation script (linux-install.sh). To use this script, open a
+terminal window (console), change folder to the folder containing OmegaT.jar
+and the linux-install.sh script, and execute the script with ./linux-
+install.sh.
 
 
 
 安装 OmegaT（Solaris、FreeBSD、...）
 =========================================
 
-将压缩包放在任何合适的文件夹中并解压之。然后 OmegaT 就已就位，可以运行了。
+Place the archive in any suitable folder and unpack it. OmegaT is then ready
+to be launched.
 
 
 
@@ -69,7 +78,8 @@ OmegaT 需要您的系统安装了 Java 运行环境（JRE）1.8 或者更高版
 
    http://omegat.sourceforge.net/webstart/OmegaT.jnlp
 
-它将在第一次运行时为您的计算机与应用程序自身安装正确的环境。以后再调用就无需处于在线状态。
+It will install the correct environment for your computer and the application
+itself on the first run. Later calls do not need to be online.
 
 
 
@@ -78,8 +88,10 @@ OmegaT 需要您的系统安装了 Java 运行环境（JRE）1.8 或者更高版
 
 如果在安装过程中已经在桌面上创建了快捷方式，双击此快捷方式。
 
-安装程序可以在开始菜单、桌面和快速启动栏中创建快捷方式。您也可以将 OmegaT.exe 文件手工拖动到开始菜单、桌面或快速启动栏
-来将其链接到那些地方。
+The install program can create shortcuts for you in the start menu, on the
+desktop and in the quick launch area. You can also manually drag the file
+OmegaT.exe to the start menu, the desktop or the quick launch area to link it
+from there.
 
 如果您在文件管理器（Windows 资源管理器）中能看到文件 OmegaT 但看不到
 OmegaT.exe，请修改设置以显示文件扩展名。
@@ -91,8 +103,9 @@ OmegaT.exe，请修改设置以显示文件扩展名。
 
 双击 OmegaT 应用程序。
 
-你可以将 OmegaT 应用程序拖动到 dock 面板或 Finder 窗口的工具栏
-以便从任意位置启动它。您还可以从 Spotlight 搜索区中启动它。
+You may drag the OmegaT application to your dock or to the tool bar of a
+Finder window to be able to launch it from any location. You can also launch
+it from the Spotlight search field.
 
 
 
@@ -107,8 +120,9 @@ OmegaT.exe，请修改设置以显示文件扩展名。
 
   omegat
 
-要以对用户更友好的方式启动 OmegaT，您可以使用所提供的 Kaptain
-脚本（omegat.kaptn）。要使用此脚本，必须先安装 Kaptain。然后，可以这样启动 Kaptain 启动脚本：
+For a more user-friendly way of launching OmegaT, you can use the Kaptain
+script provided (omegat.kaptn). To use this script you must first install
+Kaptain. You can then launch the Kaptain launch script with:
 
   Alt+F2
 
@@ -127,8 +141,9 @@ cd <OmegaT.jar 文件所在的文件夹>
 
 <Java 可执行文件的路径和名称> -jar OmegaT.jar
 
-（所谓 Java 可执行文件，在 Linux 下是 java 文件，在 Windows 下则是 java.exe 文件。
-如果 Java 是在系统级安装的且处于命令行路径中，则无需输入完整路径。）
+(The Java executable file is the file java on Linux and java.exe on Windows.
+If Java is installed at system level and is in the command path, the full path
+need not be entered.)
 
 
 
@@ -142,31 +157,31 @@ Aaron Madlon-Kay 是 OmegaT 的项目经理。
 当前团队：
 （按字母顺序）
 
-  Vincent Bidaux（文档经理）
-  Marco Cevoli（Telegram 社区经理）
-  Jean-Christophe Helary（Twitter 社区经理）
-  Kos Ivantsof（本地化经理）
-  Concepción Martin（Facebook 社区经理）
-  Briac Pilpré（网站管理员）
-  Lucie Vecerova（Facebook 社区经理）
+  Vincent Bidaux (documentation manager)
+  Marco Cevoli (Telegram community manager)
+  Jean-Christophe Helary (Twitter community manager) 
+  Kos Ivantsof (localisation manager)
+  Concepción Martin (Facebook community manager)
+  Briac Pilpré (webmaster)
+  Lucie Vecerova (Facebook community manager)
 
 对代码的贡献记录在 /docs/contributors.txt 中。
 
 以前的贡献者包括：
 （按字母顺序）
 
-  Anthony Baldwin（本地化经理）
-  Didier Briel（项目经理）
-  Alex Buloichik（首席开发人员）
+  Anthony Baldwin (localisation manager)
+  Didier Briel (project manager)
+  Alex Buloichik (lead developer)
   Sabine Cretella
   Dmitri Gabinski
-  Jean-Christophe Helary（支持小组组长、本地化经理）
-  Maxym Mykhalchuk（首席开发人员）
+  Jean-Christophe Helary (support group owner, localisation manager)
+  Maxym Mykhalchuk (lead developper)
   Samuel Murray
-  Henry Pijffers（发布经理）
-  Marc Prior（项目调度员、网站管理员）
-  Vito Smolej（文档经理）
-  还有很多、很多很有帮助的人
+  Henry Pijffers (release manager)
+  Marc Prior (project co-ordinator, webmaster)
+  Vito Smolej (documentation manager)
+  and many, many more very helpful people
 
 （如果您认为您对 OmegaT 项目做出了重大贡献但名字没有出现在列表中，
 　请随时与我们联系。）

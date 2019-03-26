@@ -8,9 +8,17 @@
         自定义快捷键&gt;<primary>快捷键</primary> <secondary>自定义</secondary>
       </indexterm>自定义快捷键&gt;</title>
 
-    <para>在主菜单中的大部分菜单项可设置新的快捷键。通过 OmegaT 首选项文件夹（请参阅<link linkend="user.files">用户文件位置</link>）中的快捷键定义文件，您可改变已分配的快捷键或添加新的快捷键。</para>
+    <para>Most of the items that appear in the main menu can have a new
+    shortcut assigned. You can change the already assigned shortcuts and add
+    new shortcuts by putting a shortcut definition file in your OmegaT
+    preferences folder (see <link linkend="user.files">User files
+    location</link>).</para>
 
-    <para>快捷键定义文件名称必须为 <filename>主菜单截图..properties</filename>，同时每行最多包含一个快捷键的定义。可接受空行，而注释行应以 &quot;//&quot; 开头。在 &quot;//&quot; 后的所有内容将被忽略。</para>
+    <para>The shortcut definition file must be named
+    <filename>MainMenuShortcuts.properties</filename> and must contain at most
+    one shortcut definition per line. Empty lines are accepted and comment
+    lines should start with &quot;//&quot;. Anything after the &quot;//&quot; will be
+    ignored.</para>
 
     <para>修改 <filename>项目编译菜单项.properties</filename> 文件后，必须重新运行 <application>OmegaT</application> 才能让新的快捷键生效。</para>
 
@@ -64,7 +72,10 @@
 
     <para><code>工具显示统计标准菜单项=shift meta S</code></para>
 
-    <para>然后保存文件并重新启动<application>OmegaT</application>。现在新的快捷键应该出现在刚修改的菜单项旁边。不会和系统快捷键冲突的话，它们在OmegaT中应该有效了。</para>
+    <para>Save then the file and relaunch <application>OmegaT</application>.
+    Your new shortcuts should now appear next to the menu items you have
+    modified. If they do not conflict with system shortcuts, they should be
+    available from within OmegaT.</para>
   </section>
 
   <section id="ch04.shortcuts.ProjectMenu">

@@ -12,7 +12,8 @@
         <primary>词典</primary> <secondary>下载和安装</secondary>
       </indexterm></title>
 
-    <para><application>OmegaT</application>的词典基于StarDict或为Lingvo DSL格式。要为StarDict格式安装需要的文件，进行如下操作：</para>
+    <para>Dictionaries in <application>OmegaT</application> are based on the
+    StarDict or on the Lingvo DSL format. To install the necessary files for the StarDict format, proceed as follows:</para>
 
     <itemizedlist>
       <listitem>
@@ -30,7 +31,10 @@
 
     <itemizedlist>
       <listitem>
-        <para>使用 untar （或类似工具，例如 Windows 中的 <filename> winrar</filename>）将内容解压至项目文件夹 &quot;Dictionary&quot; 中。其应该包括三份文件，扩展名分别为：<emphasis>dz, idx </emphasis>和 <emphasis>ifo</emphasis>。</para>
+        <para>Use untar utility (or its equivalent, for instance<filename>
+        winrar</filename> in Windows) to extract its contents into the project
+        folder &quot;Dictionary&quot;. There should be three files, with extensions
+        <emphasis>dz, idx </emphasis>and <emphasis>ifo</emphasis>.</para>
       </listitem>
     </itemizedlist>
 
@@ -66,7 +70,10 @@
       </listitem>
     </itemizedlist>
 
-    <para>一些词典有些不附带任何条件——也就是说可以“自由使用”，而另一些，如上述则是基于GPL许可。下面的例子显示了韦氏词典第十版的“实际应用</para>
+    <para>Some of the dictionaries have no strings attached - i.e. are &quot;Free
+    to use&quot;, and others, like the selection above, are under the GPL license.
+    The following example shows Merriam Webster 10th dictionary &quot;in
+    action&quot;:</para>
 
     <figure id="Dict.Merriam.Webster">
       <title><indexterm class="singular">
@@ -92,15 +99,31 @@
 
     <itemizedlist>
       <listitem>
-        <para>检查词典文件是否放在正确的文件夹（或其子文件夹）中。查看<menuchoice> <shortcut> <keycombo> <keycap><indexterm class="singular">
+        <para>Check that your dict files are in the correct folder (or in a
+        subfolder below it). Check in <menuchoice>
+            <shortcut>
+              <keycombo>
+                <keycap><indexterm class="singular">
                     <primary>快捷键</primary> <secondary>项目属性——Ctrl+E</secondary>
-                  </indexterm>Ctrl</keycap> <keycap>E</keycap> </keycombo> </shortcut> <guimenu>项目</guimenu> <guimenuitem>属性</guimenuitem> </menuchoice>.</para>
+                  </indexterm>Ctrl</keycap>
+
+                <keycap>E</keycap>
+              </keycombo>
+            </shortcut>
+
+            <guimenu>Project</guimenu>
+
+            <guimenuitem>Properties</guimenuitem>
+          </menuchoice>.</para>
       </listitem>
     </itemizedlist>
 
     <itemizedlist>
       <listitem>
-        <para>文件夹中是否包含了三个名称相同，且带扩展名的文件?如果只有一份与预期相同的文件，那么检查下它的扩展名。如果扩展名为<emphasis>tar.bz</emphasis>，那是因为您忘记解压了。</para>
+        <para>Does the folder contain three files of the same name, with
+        extensions? If only one file is present, check its extension. If it
+        is <emphasis>tar.bz</emphasis>, you have forgotten to unpack (untar)
+        it.</para>
       </listitem>
     </itemizedlist>
   </section>

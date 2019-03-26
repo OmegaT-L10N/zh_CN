@@ -6,7 +6,7 @@
         <td>
           <a href="http://sourceforge.net/projects/omegat-plugins/files/OmegaT-tokenizers/">分词器插件</a>
         </td>
-        <td>识别模糊匹配和术语采样中的屈折词形。 <a href="howtos/tokenizer.html">分词器插件介绍</a> </td>
+        <td>Provides recognition of inflected forms in fuzzy matches and glossary hits. A <a href="howtos/tokenizer.html">HowTo describing the tokenizers plug-in</a> is also available.</td>
       </tr>
       <tr>
         <td>
@@ -18,7 +18,7 @@
         <td>
           <a href="http://sourceforge.net/projects/omegat-plugins/files/OmegaT-Scripting/">脚本插件</a>
         </td>
-        <td>启用外部脚本来获取OmegaT的功能（不要与“文本导出”功能混淆，该功能也可以在OmegaT中使用脚本，但是在更基础的层面上）。</td>
+        <td>Enables external scripts to access OmegaT's functionality. (Not to be confused with the "Text Export" feature, which also enables scripts to be used with OmegaT, but on a more basic level.)</td>
       </tr>
       <tr>
         <td>
@@ -36,7 +36,7 @@
         <td>
           <a href="https://github.com/yoursdearboy/omegat-browser">浏览器插件</a>
         </td>
-        <td>快速浏览网站网站维护可以用Groovy编写。</td>
+        <td>Fast access to websites. Website support can be scripted in Groovy.</td>
       </tr>
     </tbody>
   </table>
@@ -48,31 +48,34 @@
         <td>
           <a href="{{ '/files/aligner.zip' | prepend: site.baseurl_root }}">对齐工具Aligner</a>
         </td>
-        <td>用Python语言编写。由Dmitri Gabinski贡献。</td>
+        <td>Written in Python. Contributed by Dmitri Gabinski.</td>
       </tr>
       <tr>
         <td>
           <a href="http://bligner.aligner.free.fr">对齐工具Bligner</a>
         </td>
-        <td>用Python/Perl语言编写。由Didier Briel贡献。</td>
+        <td>Written in Python/Perl. Contributed by Didier Briel.</td>
       </tr>
       <tr>
         <td>
           <a href="{{ '/files/TMXMerger.zip' | prepend: site.baseurl_root }}">TMX合并工具</a>
         </td>
-        <td>合并两个或多个TMX文件的Java命令行脚本。由Henry Pijffers贡献。</td>
+        <td>Java command-line script for merging two or more TMX files. Contributed by Henry Pijffers.</td>
       </tr>
       <tr>
         <td>
           <a href="{{ '/files/TMXCleaner-1.0.RC1.zip' | prepend: site.baseurl_root }}">TMX清除工具</a>
         </td>
-        <td>移除TMX文件中"多余"翻译单元的Java命令行：删除所有无目标片段或目标片段与源文件片段相同的翻译单元。由Henry Pijffers贡献。</td>
+        <td>Java command-line script for removing "superfluous"
+translation units from a TMX file: deletes all TUs without target
+segment or in which the target segment is identical to the source
+segment. Contributed by Henry Pijffers.</td>
       </tr>
       <tr>
         <td>
           <a href="{{ '/files/toxic.zip' | prepend: site.baseurl_root }}">Toxic工具</a>
         </td>
-        <td>将Trados TagEditor 文件(TTX) 转换为可在OmegaT中进行翻译的中间格式。该系列脚本对熟悉tcl/tk的脚本编写者有所裨益。推荐其他用户使用 <a href="http://okapiframework.org/wiki/index.php?title=Okapi_Filters_Plugin_for_OmegaT">Okapi Filters Plugin</a> 。Toxic工具由Marc Prior贡献。</td>
+        <td>Utility for converting Trados TagEditor (TTX) files to an intermediate format, enabling them to be translated in OmegaT. This collection of scripts may be useful to scripters with a knowledge of tcl/tk. Other users are advised to use the <a href="http://okapiframework.org/wiki/index.php?title=Okapi_Filters_Plugin_for_OmegaT">Okapi Filters Plugin</a> instead. Toxic was contributed by Marc Prior.</td>
       </tr>
       <tr>
         <td>
@@ -90,37 +93,38 @@
         <td>
           <a href="{{ '/files/toxic_scripts.zip' | prepend: site.baseurl_root }}">Toxic工具脚本</a>
         </td>
-        <td>脚本版本Toxic工具。平台独立；需要tcl/tk。</td>
+        <td>Script versions of Toxic. Platform-independent; require tcl/tk.</td>
       </tr>
       <tr>
         <td>
           <a href="{{ '/files/omegatk/stripper.zip' | prepend: site.baseurl_root }}">脱壳</a>
         </td>
-        <td>该脚本从纯文本文件（如计算机源码）中抽取待翻译文本以便使用OmegaT进行翻译。需要安装tcl/tk。由Marc Prior贡献。</td>
+        <td>Script for extracting text for translation from plain-text files (e.g. computer source code) for translation in OmegaT. Requires tcl/tk. Contributed by Marc Prior.</td>
       </tr>
       <tr>
         <td>
           <a href="{{ '/files/omegatk/tkount.zip' | prepend: site.baseurl_root }}">TKount工具</a>
         </td>
-        <td>TKount字数统计功能。需要安装tcl/tk，Abiword与pdftotext。该功能已于Linux系统中测试。由Marc Prior贡献。</td>
+        <td>TKount text counting utility. Requires tcl/tk, Abiword and pdftotext. Has been tested on Linux. Contributed by Marc Prior.</td>
       </tr>
       <tr>
         <td>
           <a href="{{ '/files/omegatk/ondiloto.zip' | prepend: site.baseurl_root }}">Ondiloto工具</a>
         </td>
-        <td>在线字典查找工具。需要安装Linux，w3m和tcl/tk （以上两者通常由Linux提供）由Marc Prior贡献。</td>
+        <td>ONline DIctionary LOokup TOol. Requires Linux, w3m and tcl/tk (both generally supplied with Linux). Contributed by Marc Prior.</td>
       </tr>
       <tr>
         <td>
           <a href="howtos/priorview.html">Priorview功能</a>
         </td>
-        <td>Tcl/tk可预览翻译文件的格式化布局。由Marc Prior贡献。</td>
+        <td>Tcl/tk utility providing a formatted layout preview of translated files. Contributed by Marc Prior.</td>
       </tr>
       <tr>
         <td>
           <a href="{{ '/files/WF.zip' | prepend: site.baseurl_root }}">Wordfast TMX文件转换器</a>
         </td>
-        <td>将Wordfast生成的TMX格式翻译记忆转换为OmegaT可读的格式。由Dmitri Gabinski贡献。 </td>
+        <td>Converts translation memories in TMX format generated by
+Wordfast to a form which can be read by OmegaT. Contributed by Dmitri Gabinski.  </td>
       </tr>
     </tbody>
   </table>
@@ -131,7 +135,9 @@
         <td>
           <a href="{{ '/files/training/translation_memory_training_course.zip' | prepend: site.baseurl_root }}">培训课程</a>
         </td>
-        <td>OmegaT培训课程。包含指导手册和样本资源</td>
+        <td>OmegaT training course. Consists of a model
+student's manual with instructions to trainers for adaptation, and
+sample resources.</td>
       </tr>
       <tr>
         <td>
@@ -186,7 +192,7 @@
         <td>
           <a href="http://okapiframework.org/">Okapi框架</a>
         </td>
-        <td>实用工具套件，可进行CAT工具翻译前的文档准备。可对一定格式文件进行转换，进而使用OmegaT进行翻译。提供详细教程 </td>
+        <td>A comprehensive suite of utilities for preparing files for translation in a CAT tool. Enables a number of file formats to be translated which cannot be handled natively in OmegaT. A detailed tutorial is available.  </td>
       </tr>
       <tr>
         <td>
@@ -204,7 +210,11 @@
         <td>
           <a href="http://www.leuce.com/autoit/">由Samuel Murray编写的脚本与程序</a>
         </td>
-        <td>由Samuel Murray编写脚本/程序的描述与链接。以下大多数脚本在微软Windows系统中运行，部分程序可运行在其他平台上。<br/>可使用脚本/程序实现以下功能：
+        <td>Descriptions of and links to Samuel Murray's scripts/procedures. Most of these scripts require MS Windows, although some procedures may also work on other platforms.<br/>
+
+Scripts/procedures are available to enable you to do the following:
+
+
 
 <ul>
 <li>略过包含一系列特定字符的片段。</li>

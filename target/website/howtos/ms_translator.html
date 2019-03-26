@@ -1,13 +1,39 @@
 <div class="container">
-- 通过使用Microsoft Translator API，您可以在OmegaT的机器翻译窗口中使用Microsoft Translator机器翻译。&lt;br0 /&gt;- 如需使用Microsoft Translator API，您需要在Microsoft Azure Marketplace中注册您的应用程序。OmegaT会使用您注册的“客户端ID”和“客户端密码”信息。<br />/&gt;
+
+- By using Microsoft Translator API, you can utilize Microsoft Translator machine translation in the Machine Translation window of OmegaT.<br />
+- To use Microsoft Translator API, you need to register your Application in Microsoft Azure Marketplace. OmegaT uses "Client ID" and "Client secret" information of which you registered.<br />
 
 <h3>订阅</h3>
 <br />
-<a href="https://datamarket.azure.com/dataset/bing/microsofttranslator">https://datamarket.azure.com/dataset/bing/microsofttranslator</a> <br /><br />访问上述网站并“登陆”到微软 Azure Marketplace账户<br /><br />*如果您还没有Azure Marketplace账户，您首先需要注册一个账户。.<br /><br />-成功登入微软Azure Marketplace之后，您就能订阅使用Microsoft Translator了。.<br />-您可以从页面右边的区域中订阅任意内容。. 如果您想选择基础订阅（免费，每月高达两百万字符），在订阅列表的顶部点击“注册”.<br />
+<a href="https://datamarket.azure.com/dataset/bing/microsofttranslator">https://datamarket.azure.com/dataset/bing/microsofttranslator</a>
+<br />
+<br />
+- Access the above website and [Sign in] to Microsoft Azure Marketplace.<br />
+<br />
+*If you do not already have an Microsoft account, you will need to register one first.<br />
+<br />
+- After signing in Microsoft Azure Marketplace, you can get subscription to use Microsoft Translator.<br />
+- You may pick from any of the available subscription offers, shown in the right area of the page. If you want to select Basic subscription (free, up to 2 million characters a month,) click [SIGN UP] at the top of the subscription list.<br />
 
 <h3>注册您的应用</h3>
 <br />
-点击页面上方“我的账户”选项.<br />-点击左侧”我的账户“菜单中“DEVELOPERS”选项.<br /><br /><a href="https://datamarket.azure.com/developer/applications">https://datamarket.azure.com/developer/applications</a> <br /><br />-在下方”已注册应用“中点击”注册“<br />-填写以下信息注册:<br />&nbsp;&nbsp; -用户ID: 任意字符<br />&nbsp;&nbsp; - 用户名:任意字符<br />&nbsp;&nbsp; -用户密码：使用默认字符串<br />&nbsp;&nbsp; - 重定向URI：任何URI（使用Microsoft Translator时所需的URL无效） http://dummy/<br />- 注册后，请检查您的应用程序是否已显示在页面的”已注册应用程序“中。.<br /><br /><a href="https://datamarket.azure.com/developer/applications">https://datamarket.azure.com/developer/applications</a> <br />
+
+- Click [My Account] on the top of the page.<br />
+- Click [DEVELOPERS] in the left "my account" menu.<br />
+<br />
+<a href="https://datamarket.azure.com/developer/applications">https://datamarket.azure.com/developer/applications</a>
+<br />
+<br />
+- Click [REGISTER] shown below "Registered Applications."<br />
+- Register an application with the following infomation:<br />
+&nbsp;&nbsp; - Client ID: Any string ex.) my_clientid1<br />
+&nbsp;&nbsp; - Name: Any string ex.) my_application01<br />
+&nbsp;&nbsp; - Client secret: Use string displayed by default<br />
+&nbsp;&nbsp; - Redirect URI: Any URI (Invalid URL required when using Microsoft Translator) ex.) http://dummy/<br />
+- After registering, check if your application has been displayed on the "Registered Applications" in the page.<br />
+<br />
+<a href="https://datamarket.azure.com/developer/applications">https://datamarket.azure.com/developer/applications</a>
+<br />
 <br />
 
 <h3>OmegaT 设置</h3>
@@ -15,13 +41,18 @@
 - OmegaT 将使用您注册所用的 "用户ID" 与"用户密码" .<br />
 
 <h4>Windows 用户:</h4>
--找到OmegaT.l4J.ini文件（位于OmegaT程序文件夹中），并使用首选的纯文本编辑器编辑下行:<br /><br />-编辑OmegaT.l4J.ini之前<br />
+
+- Locate the file OmegaT.l4J.ini (in the OmegaT program folder) and edit the following lines with your preferred plain-text editor:<br />
+<br />
+- Before editing OmegaT.l4J.ini<br />
 <pre>
 # Microsoft Translator credentials
 #-Dmicrosoft.api.client_id=xxxxx
 #-Dmicrosoft.api.client_secret=xxxxx
 </pre>
--编辑OmegaT.l4J.ini之后 (where Client ID: my_clientid1)<br />- 删除行头的”#“，并将”xxxx“替换为”用户ID“和”用户密码“"<br />
+
+- After editing OmegaT.l4J.ini (where Client ID: my_clientid1)<br />
+- Remove "#" at the line heads, and replace "xxxxx" with your "Client ID" and "Client secret."<br />
 <pre>
 # Microsoft Translator credentials
 -Dmicrosoft.api.client_id=my_clientid1
@@ -30,13 +61,19 @@
 - 保存 OmegaT.l4J.ini.<br />
 <br />
 <h4>Mac 用户：</h4>
--右键单击OmegaT.app并选择”显示包装内容“<br />-在OmegaT.app/Contents/MacOS/OmegaT.sh路径下找到文件并用你喜欢的纯文本编辑器编辑下行:<br /><br />- 在编辑 OmegaT.sh之前<br />
+
+- Right-click on OmegaT.app and select "Show Package Contents."<br />
+- Find the file OmegaT.app/Contents/MacOS/OmegaT.sh and edit the following lines with your preferred plain-text editor:<br />
+<br />
+- Before editing OmegaT.sh<br />
 <pre>
 # Microsoft Translator credentials
 #MS_CLIENT_ID="-Dmicrosoft.api.client_id=xxxxx"
 #MS_CLIENT_SECRET="-Dmicrosoft.api.client_secret=xxxxx"
 </pre>
--在编辑 OmegaT.sh之后 (where Client ID: my_clientid1)<br />- 删除行头的”#“，并将”xxxx“替换为”用户ID“和”用户密码“"<br />
+
+- After editing OmegaT.sh (where Client ID: my_clientid1)<br />
+- Remove "#" at the line heads, and replace "xxxxx" with your "Client ID" and "Client secret."<br />
 <pre>
 # Microsoft Translator credentials
 MS_CLIENT_ID="-Dmicrosoft.api.client_id=my_clientid1"
@@ -53,10 +90,21 @@ java -jar -Dmicrosoft.api.client_id=my_clientid1 -Dmicrosoft.api.client_secret=y
 
 <h3>在OmegaT中使用Microsoft Translaort机器翻译</h3>
 <br />
--启动OmegaT并打开你的项目.<br />- 选择 [选项] &gt; [机器翻译]<br />- 点击 [Microsoft Translator]<br />-当你选择任意片段时，其翻译将显示在OmegaT的机器翻译窗口中.<br />&nbsp;&nbsp; - 如果在机器翻译窗口中发现包含”错误请求“的消息，请检查”用户ID“和”用户密码“是否正确.<br />-通过 Ctrl+M (或者Mac上 Command+M) 将当前片段替换为机器翻译.<br />
+
+- Launch OmegaT and open your project.<br />
+- Select [Options] &gt; [Machine Translate]<br />
+- Check [Microsoft Translator]<br />
+- When you select any segments, its translation will be displayed in Machine Translation window of OmegaT.<br />
+&nbsp;&nbsp; - If you find a message including "Bad Request" in Machine Translation window, check if the values "Client ID" and "Client secret" are appropriate.<br />
+- Ctrl+M (or Command+M on Mac) will replace the current segment translation with that machine translation.<br />
 
 <h3>我如何直到何时达到每月使用限制？</h3>
 <br />
-<a href="https://datamarket.azure.com/account/datasets">https://datamarket.azure.com/account/datasets</a> <br /><br />- 您可以通过访问上述页面来查看您账户中的使用限额. 例如，”状态“字段显示”剩余1,998,890个字符“.<br /><br />版权Will Helton and OmegaT Japanese Localization Team 2012-2015<br />
+<a href="https://datamarket.azure.com/account/datasets">https://datamarket.azure.com/account/datasets</a>
+<br />
+<br />
+- You can check your usage limit in your account by accessing the above page. The "Status" field displays the limit like as "1,998,890 Characters remaining" for example.<br />
+<br />
+Copyright Will Helton and OmegaT Japanese Localization Team 2012-2015<br />
 
 </div>

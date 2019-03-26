@@ -6,7 +6,10 @@
   <section>
     <title>感谢各位！</title>
 
-    <para>不论您可能在当前版本中发现不一致、遗漏或简单的错误，我宣布我们自己的。然而，这个手册如果没有许多人的帮助和支持是不可能的。明确感谢下列各位：</para>
+    <para>Whatever the inconsistencies, omissions and straightforward errors
+    you may find in the present version, I declare them all my own. This
+    manual, however, would not be possible without the help and support from a
+    number of people. Explicit thanks to:</para>
 
     <itemizedlist>
       <listitem>
@@ -16,7 +19,9 @@
 
     <itemizedlist>
       <listitem>
-        <para>Didier Briel：如果没有 Didier 耐心和持久的帮助，我处理不了 DocBook 复杂情况。还必须提及他的细心和努力保持了代码库的完整和良好顺序。</para>
+        <para>Didier Briel: I could not do without Didier's patient and
+        persistent help with DocBook intricacies. Not to mention his care and
+        diligence, keeping repositories intact and in good order.</para>
       </listitem>
 
       <listitem>
@@ -26,7 +31,10 @@
 
     <itemizedlist>
       <listitem>
-        <para>Will Helton：他查看草稿后的决定省去了我一堆麻烦。如果没有他无价的帮助，许多重要的基础工作仍然是缺失的，可能有人对此感觉很惊讶。</para>
+        <para>Will Helton: his final reading of the draft has spared me a lot
+        of embarrassment. One could only wonder, how many the and a
+        prepositions would still be missing without his invaluable
+        help.</para>
       </listitem>
     </itemizedlist>
 
@@ -36,7 +44,10 @@
       </listitem>
 
       <listitem>
-        <para>最后但同样重要的：感谢所有找出OmegaT 前一版本文档不一致性的<ulink url="https://sourceforge.net/p/omegat/documentation/">OmegaT 文档跟踪器</ulink>贡献者。继续好好努力！</para>
+        <para>Last but not least: my thanks to all the contributors to<ulink url="https://sourceforge.net/p/omegat/documentation/">
+        OmegaT documentation tracker</ulink> for all the inconsistencies found
+        in the previous versions of the documentation. Keep up your good
+        work!</para>
       </listitem>
     </itemizedlist>
   </section>

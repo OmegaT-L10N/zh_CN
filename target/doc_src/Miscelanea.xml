@@ -16,22 +16,44 @@
       <para>这些内容为感兴趣的高级用户准备的！</para>
     </note>
 
-    <para>控制台（即命令行）模式的目的是将 <application>of OmegaT</application> 用作脚本环境的翻译工具。在控制台模式下，将不会载入任何图形化界面（因此仅在某控制台中运行），同时会自动按要求翻译指定的项目。这样的一个例子是需要把图形用户界面本地化为多种语言的软件项目。使用控制台模式就可以在它的构建过程中生成本地化界面。</para>
+    <para>The purpose of the console (i.e. command line) mode is to permit the
+    use <application>of OmegaT</application> as translation tool in a
+    scripting environment. When launched in console mode, no GUI is loaded (
+    it will work therefore on any console) and the given project is
+    automatically translated. An example would be a software project, with GUI
+    localized in a number of languages. Using the console mode, one can make
+    generating a localized interface a part of the build process.</para>
 
     <section id="misc.console.mode.prerequisites">
       <title>先决条件</title>
 
-      <para>为运行 OmegaT，必须存在有效的 OmegaT 项目。位置并不重要，因为无论如何，启动时您都必须在命令行中明确指定它的位置。</para>
+      <para>To run OmegaT, a valid OmegaT project must be available. The
+      location is irrelevant, since it must be specified explicitly on the
+      command-line at launch.</para>
 
-      <para>如果不使用标准设置，则必须提供相应的配置文件（<literal>filters.conf</literal>和<literal>segmentation.conf)</literal>）。可通过两种方式达到这个目的：</para>
+      <para>If you need non-standard settings, the corresponding configuration
+      files (<literal>filters.conf</literal> and
+      <literal>segmentation.conf</literal>) must be present. This can be
+      achieved in two ways:</para>
 
       <itemizedlist>
         <listitem>
-          <para>正常运行 <application>OmegaT</application> （带图像用户界面）并进行设置。如果以控制台模式启动 <application>OmegaT</application>，它将使用您配置的设置。</para>
+          <para>Run <application>OmegaT</application> normally (with the GUI)
+          and set the settings. If you start <application>OmegaT</application>
+          in console mode, it will use the settings you configured.</para>
         </listitem>
 
         <listitem>
-          <para>如果您无法正常运行<application>OmegaT</application>（没有可用的图形界面）：可将另一机器上安装的<application>OmegaT</application>设置文件复制到指定文件夹。位置并不重要，因为无论如何，启动时您都必须将位置添加到命令行。相关的文件<literal>filters.conf</literal>和<literal>segmentation.conf</literal>可在用户主目录找到（如Windows 系统中的<literal>C:\Documents and Settings\%User%\<application>OmegaT</application></literal>或Linux系统中的<literal>%user%/.omegat/</literal>）</para>
+          <para>If you are unable to run <application>OmegaT</application>
+          normally (no graphical environment available): copy the settings
+          files from some other <application>OmegaT</application> installation
+          on another machine to a specific folder. The location does not
+          matter, since you can add it to the command line at launch (see
+          below). The relevant files <literal>filters.conf</literal> and
+          <literal>segmentation.conf</literal> can be found in the user home
+          folder (E.g. <literal>C:\Documents and
+          Settings\%User%\<application>OmegaT</application></literal> under
+          Windows, <literal>%user%/.omegat/</literal> under Linux)</para>
         </listitem>
       </itemizedlist>
     </section>
@@ -39,7 +61,11 @@
     <section id="starting.in.misc.console.mode">
       <title>以控制台模式运行 OmegaT</title>
 
-      <para>要以控制台模式启动 OmegaT，必须在启动时传入另外的参数。其中最重要的是<literal>&lt;project-dir&gt;</literal>，还可以加上<literal>--config-dir=&lt;config-dir&gt;</literal>。例如：</para>
+      <para>To launch OmegaT in console mode, additional parameters must be
+      specified at launch. The most important of these is
+      <literal>&lt;project-dir&gt;</literal>, and
+      optionally <literal>--config-dir=&lt;config-dir&gt;</literal>.
+      Example:</para>
 
       <para><literal>$&gt; java -jar <application>OmegaT</application>.jar
       /path/to/project \</literal></para>
@@ -56,13 +82,20 @@
 
       <itemizedlist>
         <listitem>
-          <para><literal>&lt;project-dir&gt;</literal> 告知 <application>OmegaT</application> 要翻译项目的位置。如果给出了该参数，则 <application>OmegaT</application> 以控制台模式启动并翻译指定的项目。</para>
+          <para><literal>&lt;project-dir&gt;</literal> tells
+          <application>OmegaT</application> where to find the project to be
+          translated. If given, <application>OmegaT</application> launches in
+          console mode and translates the given project.</para>
         </listitem>
       </itemizedlist>
 
       <itemizedlist>
         <listitem>
-          <para><literal>--config-dir=&lt;config-dir&gt;</literal> 向 OmegaT 指示配置文件所在的目录。如果没有给出该参数，OmegaT 将转而使用缺省值（即用户主目录中的OmegaT文件夹，如果不可用的话则是当前的工作目录）。</para>
+          <para><literal>--config-dir=&lt;config-dir&gt;</literal> enables
+          OmegaT to be instructed in which folder the configuration files are
+          stored. If not specified, OmegaT reverts to default values (the
+          OmegaT folder in the user home folder, or if not available: the
+          current working folder).</para>
         </listitem>
       </itemizedlist>
 
@@ -72,11 +105,16 @@
         </listitem>
 
         <listitem>
-          <para><literal>--source-pattern={regexp} </literal>可使用这种方式指定要翻译的文件。这是一个正则表达式的例子：<filename>test\.html</filename></para>
+          <para><literal>--source-pattern={regexp} </literal>The files to be
+          translated can be specified this way. Here is an example of the
+          regular expression: <filename>test\.html</filename></para>
         </listitem>
 
         <listitem>
-          <para><literal>--tag-validation=[abort|warn]</literal>若使用abort，在标签检验发现错误时会中止。用warn则打印错误且OmegaT继续执行。在其他情况下（即不使用此参数时）不会进行标签验证操作。</para>
+          <para><literal>--tag-validation=[abort|warn] </literal> On abort,
+          the program is aborted when tag validation finds errors. On warn the
+          errors are printed but the program continues. In all other cases no
+          tag validation is done.</para>
         </listitem>
       </itemizedlist>
     </section>
@@ -84,7 +122,10 @@
     <section id="misc.console.mode.option.quiet">
       <title>静默选项</title>
 
-      <para>控制台模式专用的一个附加命令行参数：<literal>--quiet</literal>。在静默模式下，屏幕上将显示更少的日志信息。在状态栏通常可以看到的所有信息都不会被显示。</para>
+      <para>An extra command line parameter specific to console mode:
+      <literal>--quiet</literal>. In the quiet mode, less info is logged to
+      the screen. The messages you would usually find in the status bar are
+      not displayed.</para>
 
       <para>用法：<literal>java -jar <application>OmegaT</application>.jar /path/to/project --mode=console-translate --quiet</literal></para>
     </section>
@@ -92,7 +133,12 @@
     <section id="misc.console.mode.option.validatetags">
       <title>标记验证选项</title>
 
-      <para>控制台模式专用的另一个附加命令行参数： <literal>--tag-validation=[abort|warn]</literal>。添加此参数后，标签验证操作先于翻译/对齐进行。如果该参数值为 <literal>abort</literal>，那么在遇到标签错误时打印出错误，同时程序停止。如果该参数值为 <literal>warn</literal>，则打印错误且 OmegaT 继续执行。</para>
+      <para>Another extra command line parameter specific to console mode:
+      <literal>--tag-validation=[abort|warn]</literal>. When this parameter is
+      added, tag validation is done prior to translation/aligning. If the
+      value is <literal>abort</literal>, then on tag errors the errors are
+      printed and the program stops. If the value is <literal>warn</literal>
+      then the errors are printed but OmegaT continues.</para>
 
       <para>用法：<literal>java -jar <application>OmegaT</application>.jar /path/to/project --mode=console-translate --tag-validation=abort</literal></para>
     </section>
@@ -103,12 +149,19 @@
         <primary>杂项</primary> <secondary>用于Java属性的自动对齐器</secondary>
       </indexterm></title>
 
-    <para>OmegaT 可以在控制台模式中对齐 Java .properties。如果您有以您需要的语言对表示的源和目标属性文件，这个过程将创建包含这些内容的 TMX 文件。用法：</para>
+    <para>OmegaT can align Java .properties in console mode. If you have the
+    source and the target Properties files for one and the same contents in
+    your language pair, this procedure will create a corresponding tmx file
+    for these contents. Usage:</para>
 
     <para><literal>java -jar OmegaT.jar --mode=console-align /my-project-dir
     --alignDir=/translatedFiles/ </literal></para>
 
-    <para><filename>alignDir </filename> 必须包含项目目标语言的翻译。例如，如果项目为 EN-&gt;FR，则 alignDir 必须包含以 _fr 结尾的包。生成的 TMX 保存在 <literal>omegat</literal> 目录，名称为 <filename>align.tmx</filename>。</para>
+    <para><filename>alignDir </filename>must contain a translation in the
+    target language of the project. E.g., if the project is EN-&gt;FR,
+    alignDir must contain a bundle ending with _fr. The resulting tmx is
+    stored in the <literal>omegat </literal>folder under the name
+    <filename>align.tmx</filename>.</para>
   </section>
 
   <section id="font.settings">
@@ -136,9 +189,13 @@
       </listitem>
     </itemizedlist>
 
-    <para>通过主菜单中的<indexterm class="singular">
+    <para>The dialog can be accessed via the <indexterm class="singular">
         <primary>菜单选项</primary> <secondary>字体...</secondary>
-      </indexterm><menuchoice> <guimenu>选项</guimenu> <guimenuitem>字体...</guimenuitem> </menuchoice>菜单项可以调出该对话框。该对话框包括：</para>
+      </indexterm><menuchoice>
+        <guimenu>Options</guimenu>
+
+        <guimenuitem>Font...</guimenuitem>
+      </menuchoice> item in the Main menu. The dialog contains:</para>
 
     <itemizedlist>
       <listitem>
@@ -158,7 +215,14 @@
       </listitem>
     </itemizedlist>
 
-    <para><emphasis role="bold">注意：</emphasis>在某些情况下，修改字体设置后 OmegaT 可能需要一些时间来更新显示。特别是在编辑器中打开了一份拥有大量片段的大文件或使用慢速硬件的时候。同时，就某些语言而言，某些字体比另一些的表现更佳。特别是当您在不同的语系/书写系统间进行翻译（例如俄语和日语），请选择一种适用于两者的字体。</para>
+    <para><emphasis role="bold">Note: </emphasis>In some cases it may take
+    quite some time for OmegaT to update the display after the font setting
+    has been changed. This is especially the case when a large file containing
+    many segments is open in the editor, and/or slow hardware is used. Note
+    also that some fonts behave better for some language pairs than for
+    others. In particular, if you are translating between two languages with
+    different alphabets/writing systems (such as Russian and Japanese), select
+    a font that can be used for both.</para>
   </section>
 
   <section id="preventing.data.loss">
@@ -166,9 +230,19 @@
         <primary>杂项</primary> <secondary>防止数据丢失</secondary>
       </indexterm></title>
 
-    <para><application>OmegaT</application> 是健壮的应用程序。然而就像使用其他任何程序一样，使用 <application>OmegaT</application> 时还是应该对数据丢失保持警惕。在翻译文件时，<application>OmegaT</application>在项目的<literal>/omegat </literal>子文件夹的翻译记忆文件<literal>project_save.tmx</literal>中储存您所有的进度信息。</para>
+    <para><application>OmegaT</application> is a robust application. However,
+    you should take precautions against data loss when using
+    <application>OmegaT</application>, just as with any other application.
+    When you translate your files, <application>OmegaT</application> stores
+    all your progress in the translation memory
+    <literal>project_save.tmx</literal> that resides in the project's
+    <literal>/omegat</literal> subfolder.</para>
 
-    <para>OmegaT 在每次打开或重新载入项目时，也将翻译记忆备份到同一子目录下的 project_save.tmx.YEARMMDDHHNN.bak 文件中。YEAR 是 4 位数的年份；MM 是月份；DD 是日期；而 HH 和 NN 是前一份翻译记忆保存时的小时和分钟。</para>
+    <para>OmegaT also backs up the translation memory to
+    project_save.tmx.YEARMMDDHHNN.bak in the same subfolder each time a
+    project is opened or reloaded. YEAR is the 4-digit year, MM is the month,
+    DD the day of the month, and HH and NN are the hours and minutes when the
+    previous translation memory was saved.</para>
 
     <para>如果您觉得丢失了翻译数据，那么可以参照下列步骤恢复项目到最近保存的数据，通常是大约 10 分钟以内：</para>
 
@@ -206,13 +280,20 @@
       </listitem>
 
       <listitem>
-        <para>在项目进行过程中，对<literal>/source</literal>目录中的文件进行修改要特别小心。如果在开始翻译后对源文件进行了修改，<application>OmegaT</application> 也许会找不到您已经翻译的某个片段。</para>
+        <para>Take particular care when making changes to the files in
+        <literal>/source</literal> while in the middle of a project. If the
+        source file is modified after you have begun translating,
+        <application>OmegaT</application> may be unable to find a segment that
+        you have already translated.</para>
       </listitem>
     </itemizedlist>
 
     <itemizedlist>
       <listitem>
-        <para>通过这些帮助来开始使用。如果运行遇到问题，请在<ulink url="https://groups.yahoo.com/neo/groups/OmegaT/info"><application>OmegaT</application> 用户组</ulink>发帖。请使用自我感觉最熟悉的语言发帖。</para>
+        <para>Use these Help texts to get started. Should you run into
+        problems, post a message in the <ulink url="https://groups.yahoo.com/neo/groups/OmegaT/info"><application>OmegaT</application>
+        user group</ulink>. Do not hesitate to post in the language you feel
+        the most familiar with.</para>
       </listitem>
     </itemizedlist>
   </section>

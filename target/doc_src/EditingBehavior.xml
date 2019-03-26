@@ -23,14 +23,24 @@
 
   <para/>
 
-  <para>随着对当前片段的编辑，您从文件的一个片段翻译到另一个片段。在片段之间移动时，您可能希望用现存的译文或源文本来填充正在编辑的区域。在<menuchoice> <guimenu>选项</guimenu> <guimenuitem>编辑行为...</guimenuitem> </menuchoice>菜单中，<application>OmegaT</application> 为您提供了以下选项：</para>
+  <para>You translate your files by moving from segment to segment, editing
+  each current segment in turn. When moving between segments, you may wish to
+  populate the editing field with an existing translation in the fuzzy match
+  pane or with the source text. In <menuchoice>
+      <guimenu>Options</guimenu>
+
+      <guimenuitem>Editing Behavior...</guimenuitem>
+    </menuchoice> <application>OmegaT</application> offers you the following
+  alternatives:</para>
 
   <variablelist>
     <varlistentry>
       <term>源文本</term>
 
       <listitem>
-        <para>您可以将源文本自动插入编辑区域此方式在处理包含许多必须保持原样的商标和专有名词的文本非常有用。</para>
+        <para>You can have the source text inserted automatically into the
+        editing field. This is useful for texts containing many trade marks or
+        other proper nouns you which must be left unchanged.</para>
       </listitem>
     </varlistentry>
 
@@ -40,7 +50,17 @@
         </indexterm></term>
 
       <listitem>
-        <para>OmegaT把编辑字段留空该选项允许您直接输入翻译而无需删除源文本，因此节省了两次按键的时间（<emphasis role="bold">Ctrl+A </emphasis>和 <emphasis role="bold">Del）。</emphasis>现在允许使用译文为空。它们在编辑器中显示为&lt;空&gt;要使用空译文，在片段中点击右键并选择“<emphasis role="bold">设置译文为空</emphasis>”。在相同的弹出菜单中的<emphasis role="bold">移除译文</emphasis>还可以用来删除当前片段的已有译文。通过清楚目标片段并按下<guibutton>回车</guibutton>您可以实现相同的想过。</para>
+        <para>OmegaT leaves the editing field blank. This option allows you to
+        enter the translation without the need to remove the source text, thus
+        saving you two keystrokes (<emphasis role="bold">Ctrl+A </emphasis>and
+        <emphasis role="bold">Del). </emphasis> Empty translations are now
+        allowed. They are displayed as &lt;EMPTY&gt; in the Editor. To create
+        one, right-click in a segment, and select &quot;<emphasis role="bold">Set
+        empty translation</emphasis>&quot;. The entry <emphasis role="bold">Remove
+        translation</emphasis> in the same pop up menu also allows to delete
+        the existing translation of the current segment. You achieve the same
+        by clearing the target segment and pressing
+        <guibutton>Enter.</guibutton></para>
       </listitem>
     </varlistentry>
 
@@ -50,7 +70,12 @@
         </indexterm></term>
 
       <listitem>
-        <para>OmegaT 将插入与当前源文本最相似译文字符串，前提是相似度高于在此对话框中设置的阈值。此时可以使用前缀对通过模糊匹配的译文加上标记。如果您加上了前缀（例如[模糊]），之后您可以找到这些译文并检查是否正确。</para>
+        <para>OmegaT inserts the translation of the string most similar to the
+        current source, if it is above the similarity threshold that you have
+        selected in this dialog. The prefix (per default empty) can be used to
+        tag translations, done via fuzzy matches. If you add a prefix (for
+        instance [fuzzy]), you can trace those translations later to see they
+        are correct.</para>
       </listitem>
     </varlistentry>
   </variablelist>
@@ -64,7 +89,10 @@
         </indexterm></term>
 
       <listitem>
-        <para>选中该选项后，在手动或自动插入模糊匹配时，OmegaT会尝试根据源文本转换模糊匹配中的数字。它有一些限制：</para>
+        <para>If this option is checked, when a fuzzy match is inserted,
+        either manually or automatically, OmegaT attempts to convert the
+        numbers in the fuzzy matches according to the source contents. There
+        are a number of restrictions:</para>
 
         <itemizedlist>
           <listitem>
@@ -90,9 +118,21 @@
         </indexterm></term>
 
       <listitem>
-        <para>要翻译的文档也许包括了一些必须保持原封不动的商标、姓名或其他专有名词。对于只包含不可变文本的片段可以采取两种策略。</para>
+        <para>Documents for translation may contain trade marks, names or
+        other proper nouns that will be the same in translated documents.
+        There are two strategies for segments that contain only such
+        invariable text.</para>
 
-        <para>您可以决定完全不翻译这样的片段。OmegaT 将这些片段报告为未译。这是缺省的情况。另一种方法是输入与原文相同的译文。OmegaT 可以识别出您已经翻译过了。为了做到这一点，前往<menuchoice> <guimenu>选项</guimenu> <guimenuitem>编辑行为...</guimenuitem> </menuchoice> 并选上多选框 <emphasis role="bold">允许译文和原文相同</emphasis>.</para>
+        <para>You can decide not to translate such segments at all. OmegaT
+        will then report these segments as not translated. This is the
+        default. The alternative is to enter a translation that is identical
+        to the source text. OmegaT is able to recognize that you have done
+        this. To make this possible, go to <menuchoice>
+            <guimenu>Options</guimenu>
+
+            <guimenuitem>Editing Behavior...</guimenuitem>
+          </menuchoice> and check the box <emphasis role="bold">Allow
+        translation to be equal to source</emphasis>.</para>
       </listitem>
     </varlistentry>
   </variablelist>
@@ -104,7 +144,10 @@
         </indexterm></term>
 
       <listitem>
-        <para>文本导出功能会把当前<application>OmegaT</application> 项目的内容导出到纯文本文件。打开一个片段时它的内容会被导出。导出的内容会保存到OmegaT用户文件目录的/script子文件夹中的文件，包括：</para>
+        <para>The text export function exports data from within the current
+        <application>OmegaT</application> project to plain text files. The
+        data are exported when the segment is opened. The files appear in the
+        /script subfolder in the OmegaT user files folder, and include:</para>
 
         <itemizedlist>
           <listitem>
@@ -120,7 +163,13 @@
           </listitem>
         </itemizedlist>
 
-        <para>打开新片段（source.txt 和 target.txt）或导出新的选中部分（selection.txt）时，会覆盖该文件的原有内容。这些文件是无格式的纯文本文件。整个过程可以通过基于Tck/Tcl的脚本操纵控制。请参阅<ulink url="http://www.omegat.org/en/howtos/text_export.html">使用OmegaT文本导出功能</ulink>了解细节、示例和建议。</para>
+        <para>The content of the files is overwritten either when a new
+        segment is opened (source.txt and target.txt) or when a new selection
+        is exported (selection.txt). The files are unformatted plain text
+        files. The whole process can be steered and controlled via
+        Tck/Tcl-based scripting. See <ulink url="http://www.omegat.org/en/howtos/text_export.html">Using the
+        OmegaT text export function</ulink> for specifics, examples and
+        suggestions.</para>
       </listitem>
     </varlistentry>
   </variablelist>
@@ -142,7 +191,11 @@
       <term>允许标签编辑</term>
 
       <listitem>
-        <para>取消选中此选项，以防在编辑时对标签有所损坏（比如，部分删除）。在这种情况下删除一个完整的标签仍是可以的，通过使用Ctrl + Backspace / Delete或完全选择（Ctrl + Shift +左/右）然后删除它（Delete或Ctrl + X）.</para>
+        <para>Uncheck this option to prevent any damage on the tags (i.e.,
+        partial deletion) during editing. Removing an entire tag remains
+        possible in that case, by using Ctrl+Backspace/Delete or by selecting
+        it completely (Ctrl+Shift+Left/Right) then deleting it (Delete or
+        Ctrl+X).</para>
       </listitem>
     </varlistentry>
   </variablelist>
@@ -172,7 +225,10 @@
       <term>初始加载多片段</term>
 
       <listitem>
-        <para>默认情况下，编辑器会显示2000个初始段，当你向上滚动或向下滚动时，会逐渐加载更多。如果您有一个强大的设备，并且/或者如果您不喜欢滚动条逐步加载的行为，您可以通过增加数字来实现。.</para>
+        <para>By default the editor displays 2,000 of initial segments, and
+        progressively loads more as you scroll up or down. If you have a
+        powerful machine, and/or if you don't like how the scrollbar behaves
+        during progressive loading, you can increase this number.</para>
       </listitem>
     </varlistentry>
   </variablelist>

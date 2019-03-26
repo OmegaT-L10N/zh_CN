@@ -1,16 +1,16 @@
 <div class="container">
   <p>这篇如何描述如何从源代码编译OmegaT。</p>
-  <p>OmegaT是为许多平台提供的现成编译版本，包括跨平台版本。用户因此不需要自己编译OmegaT。编译OmegaT对希望对自己的代码进行修改的开发人员很重要。 </p>
+  <p>OmegaT is supplied ready-compiled for a number of platforms, including a cross-platform version. Users do not therefore need to compile OmegaT themselves. Compiling OmegaT is relevant for developers who wish to make modifications of their own to its code.  </p>
   <p>
-    <strong>1. 下载并安装Java开发工具包（JDK )</strong>
+    <strong>1. Download and install the Java Development Kit (JDK)</strong>
   </p>
-  <p><a href="http://www.oracle.com/technetwork/java/javase/downloads/index.html"> Java开发工具包</a>是必需的。对于OmegaT 4.0及更高版本，不需要额外的软件。</p>
+  <p>The <a href="http://www.oracle.com/technetwork/java/javase/downloads/index.html">Java Development Kit</a> is required. For OmegaT 4.0 and later, no additional software is required.</p>
   <p>早期版本的OmegaT需要<a href="http://ant.apache.org"> Apache Ant </a>。</p>
   <p>您可能必须将您的<code> JAVA_HOME </code>环境变量设置为指向JDK的位置。</p>
   <p>
-    <strong>2. 编译代码</strong>
+    <strong>2. Compile the code</strong>
   </p>
-  <p>打开命令行窗口（控制台，DOS窗口）。例如，导航到OmegaT源代码的根目录（包含文件<code> build.gradle </code>的文件夹）。</p>
+  <p>Open a command-line window (console, DOS window). Navigate to the root of the OmegaT source code (the folder containing the file <code>build.gradle</code>), e.g.</p>
   <pre>cd C：\ My Documents \ MyOmegat \ OmegaT_ &lt;version&gt; _Beta_Source</pre>
   <p>
     <em>OmegaT 4.0或更高版本</em>
@@ -24,9 +24,9 @@
   <p>
     <em>旧版本的OmegaT</em>
   </p>
-  <p>从根文件夹中，通过输入ant可执行文件来执行Apache Ant。可能需要输入完整路径，例如：</p>
+  <p>From within the root folder, execute Apache Ant by entering the ant executable. It may be necessary to enter the full path, e.g.:</p>
   <pre>C：\ Program Files \ apache-ant-1.7.0-bin \ apache-ant-1.7.0 \ bin \ ant</pre>
-  <p>如果代码编译成功，您将看到<code> BUILD SUCCESSFUL &lt;/ c0&gt;消息。如果没有，则会显示调试消息，它将（希望）提供有关问题出现的一些信息。</p>
+  <p>If the code compiles successfully, you will see the <code>BUILD SUCCESSFUL</code> message. If not, debugging messages will be shown which will (hopefully) provide some idea of where the problem is.</p>
   <p>如果你的代码编译成功，编译后的OmegaT被放入：</p>
   <pre>OmegaT_&lt;version&gt;_Beta_Source\dist</pre>
   <p>仍然在您的命令行窗口中，切换到此文件夹，例如有：</p>
@@ -34,7 +34,7 @@
   <p>并推出OmegaT：</p>
   <pre> java -jar OmegaT.jar</pre>
   <p>
-    <strong>3a. 第一个示例修改：更改段高亮的颜色</strong>
+    <strong>3a. 1st example modification: changing the colour of segment highlighting</strong>
   </p>
   <p>在文件夹<code> src / org / omegat / gui / editor &lt;/ c0&gt;中，在文本编辑器中打开文件<code> SegmentBuilder.java &lt;/ c1&gt;。</p>
   <p>查找到以下行：</p>
@@ -47,7 +47,7 @@
   <pre>public static final Color COLOR_GREEN = new Color（192，255，192）;</pre>
   <p>用<code> 225,225,255 &lt;/ c3&gt;替换<code> COLOR_GREEN &lt;/ c0&gt;与<code> COLOR_BLUE &lt;/ c1&gt;和<code> 192,255,192 &lt;/ c2&gt;。</p>
   <p>
-    <strong>3b. 第二个示例修改：将显示的模糊匹配数量从五个增加到十个</strong>
+    <strong>3b. 2nd example modification: increasing the number of fuzzy matches displayed from five to ten</strong>
   </p>
   <p>在文件夹<code> / src / org / omegat / util &lt;/ c0&gt;中，在文本编辑器中打开文件<code> OConsts.java &lt;/ c1&gt;。</p>
   <p>查找到以下行：</p>

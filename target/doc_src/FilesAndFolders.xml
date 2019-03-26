@@ -7,19 +7,29 @@
 
   <itemizedlist>
     <listitem>
-      <para>翻译项目文件：它们构成了翻译项目。丢失这些文件可能会影响项目的完整性并导致您无法完成翻译工作。项目文件是 <application>OmegaT</application> 最重要的文件。它们是您在翻译时处理文件的日常基础。</para>
+      <para>Translation project files: These constitute a translation project.
+      Losing them may affect the project's integrity and your ability to
+      complete a job. Project files are the most important files in
+      <application>OmegaT</application>. They are the files you deal with on a
+      daily basis while translating.</para>
     </listitem>
   </itemizedlist>
 
   <itemizedlist>
     <listitem>
-      <para>用户设置文件：它们是用户通过首选项改变 OmegaT 的行为时创建的文件。丢失这些文件可能导致 OmegaT 恢复“出厂”设置。如果您正处于翻译工作的中期，这将会导致一个小问题。</para>
+      <para>User settings files: These are created when OmegaT's behavior is
+      modified by user preference settings. Losing them usually results in
+      OmegaT reverting to its &quot;factory settings&quot;. This can sometimes cause a
+      little trouble when you are in the middle of a translation.</para>
     </listitem>
   </itemizedlist>
 
   <itemizedlist>
     <listitem>
-      <para>应用程序文件：它们包含在您下载的安装包中。其中大部分对于 OmegaT 的正常运行来说是必须的。如果出于某种原因丢失或损坏了这些文件，仅需下载并重新安装 OmegaT 以恢复它们。</para>
+      <para>Application files: These are included in the package you download.
+      Most of them are required in order for OmegaT to function properly. If
+      for some reason these files are lost or corrupted, simply download
+      and/or reinstall OmegaT to restore them all.</para>
     </listitem>
   </itemizedlist>
 
@@ -48,9 +58,17 @@
       </mediaobject>
     </figure>
 
-    <para>在项目创建或翻译过程中可对一些目录的位置进行变更。根据您的工作流程和项目管理习惯，可以选择现有目录或创新目录。项目创建之后要改变目录的位置，请打开菜单中的<guimenuitem>项目&gt;属性...</guimenuitem>或使用 <guibutton>Ctrl+E</guibutton> 进行必要的修改。</para>
+    <para>Alternate locations for some of the folders can be chosen at project
+    creation or during the translation. It is therefore possible to select
+    existing folders or create folders in locations that reflect your work
+    flow and project management habits. To change the location of folders
+    after a project has been created, open <guimenuitem>Project &gt;
+    Properties...</guimenuitem> in the menu or with
+    <guibutton>Ctrl+E</guibutton> and make the necessary changes.</para>
 
-    <para>在文件管理器中翻译项目在外观和操作上和其他文件夹一样。下面的例子中<filename>my projects</filename>文件夹包含三个OmegaT项目：</para>
+    <para>In a file manager a translation project looks and acts just like any
+    other folder. In the following example the folder <filename>my
+    projects</filename> contains three OmegaT projects:</para>
 
     <para><figure id="OmegaT.projects.and.subfolders">
         <title>OmegaT项目和子文件夹</title>
@@ -62,26 +80,41 @@
         </mediaobject>
       </figure></para>
 
-    <para>双击以 OmegaT 图标显示的项足以打开这个项目。用缺省设置创建的 <emphasis role="bold">Example_Project</emphasis> 项目将被创建为一个新的子目录，其结构如下：</para>
+    <para>Double clicking the item with the OmegaT icon is sufficient to open
+    the project. A translation project <emphasis role="bold">Example_Project</emphasis> created with the default settings
+    will be created as a new subfolder with the following structure:</para>
 
     <section id="file.omegat.project">
       <title>根文件夹<indexterm class="singular">
           <primary>项目文件</primary> <secondary>文件 omegat.project</secondary>
         </indexterm></title>
 
-      <para>项目的根文件夹总是包含<filename> OmegaT.Project</filename>文件，其内容为项目属性窗口（<guimenuitem>项目&gt;属性</guimenuitem>）中定义的项目参数。在翻译时会在此文件夹中创建（且在翻译过程中更新）附加文件（<emphasis><filename>project_name</filename></emphasis><filename>-omegat.tmx、project_name-level1.tmx和project_name-level2.tmx</filename>）。它们包含了不同形式的相同翻译记忆内容，以用于以后的项目。</para>
+      <para>Top folder of a project always contains the file<filename>
+      OmegaT.Project</filename>, containing project parameters as defined in
+      the Project properties window (<guimenuitem>Project &gt;
+      Properties</guimenuitem>). While the translation is progressing,
+      additional files
+      (<emphasis><filename>project_name</filename></emphasis><filename>-omegat.tmx,
+      project_name-level1.tmx and project_name-level2.tmx</filename>) are
+      created (and updated during the process of translation) in this folder.
+      They contain the one and the same translation memory contents in
+      different forms, to be used in future projects.</para>
     </section>
 
     <section>
       <title>词典子文件夹</title>
 
-      <para>该文件夹初始为空的，它将包含您添加到项目的词典文件。请参阅<link linkend="chapter.dictionaries">词典章节</link>了解关于该主题的更多信息。</para>
+      <para>Initially empty, this folder will contain dictionaries you have
+      added to the project. See <link linkend="chapter.dictionaries">chapter
+      Dictionaries</link> for more on this subject.</para>
     </section>
 
     <section>
       <title>术语表子文件夹</title>
 
-      <para>该文件夹初始为空的。它将包含您在项目中使用的术语表。请参阅<link linkend="chapter.glossaries">术语表章节</link>部分了解关于该主题的更多信息。</para>
+      <para>This folder is initially empty. It will contain glossaries you
+      will be using in the project. See <link linkend="chapter.glossaries">chapter Glossaries</link> for more on this
+      subject.</para>
     </section>
 
     <section id="folder.OmegaT">
@@ -89,7 +122,14 @@
           <primary>项目文件</primary> <secondary>子目录omegat</secondary>
         </indexterm></title>
 
-      <para><emphasis role="bold">omegat</emphasis>子目录至少包含一个或多个其他文件。其中最重要的文件是<filename>project_save.tmx</filename>，它是项目的有效翻译记忆文件。此文件的备份（含扩展名bak）会不断增加到这个子文件夹：在翻译开始时、结束时和过程中。这样可以避免意外丢失数据——请参阅<link linkend="chapter.misc">杂项</link>部分的防止数据丢失。</para>
+      <para>The <emphasis role="bold">omegat</emphasis> subfolder contains at
+      least one and possibly several other files. The most important file here
+      is the <filename>project_save.tmx, </filename>that is the working
+      translation memory for the project. Backups of this file (with extension
+      bak) are added progressively to this subfolder, first at the beginning
+      of the translation session, at its end, and while the translation
+      progresses. This way an inadvertent data loss is averted - see
+      Preventing Data Loss in chapter <link linkend="chapter.misc">Miscellanea.</link></para>
 
       <para>在翻译时还可能会在该子文件夹中创建的附加文件如下</para>
 
@@ -103,7 +143,9 @@
 
                 <entry><indexterm class="singular">
                     <primary>项目文件</primary> <secondary>统计文件</secondary>
-                  </indexterm>包含当前项目的当前统计信息。您可以选择<guimenuitem>工具&gt;统计</guimenuitem>查看该文件</entry>
+                  </indexterm>contains the current statistics of the current
+                project. You can view it by selecting <guimenuitem>Tools &gt;
+                Statistics</guimenuitem></entry>
               </row>
 
               <row>
@@ -111,7 +153,11 @@
 
                 <entry><indexterm class="singular">
                     <primary>项目文件</primary> <secondary>ignored_words和learned_words</secondary>
-                  </indexterm>由拼写检查器创建和使用。如果您已经收集了希望拼写检查器忽略/接受的单词，只需复制相应的两个文件到当前项目的<filename>omegat</filename>子目录。</entry>
+                  </indexterm>are created and used by the spell checker. If
+                you already have collected words you wish the spell checker to
+                ignore / accept, you just need to copy the corresponding two
+                files into the <filename>omegat</filename>subfolder of your
+                current project.</entry>
               </row>
 
               <row>
@@ -147,7 +193,12 @@
           <primary>项目文件</primary> <secondary>源子文件夹</secondary>
         </indexterm></title>
 
-      <para>source子文件夹包含待译文件。之后您也可添加文件到其中。要注意的是source子目录的结构完全由您决定。如果要翻译的文件是结构树的一部分（例如网站上的文件），您只需指定最上级子目录，而 OmegaT 将会保持完整的树形结构和全部内容。</para>
+      <para>The source subfolder contains files to be translated. You can add
+      the files to it later. Note that the structure of the source subfolder
+      may take any form you like. If the files to be translated are parts of a
+      tree structure (as in a website), you need only specify the top-level
+      subfolder and OmegaT will maintain the entire contents, while keeping
+      the tree structure intact.</para>
     </section>
 
     <section id="folder.target">
@@ -155,7 +206,25 @@
           <primary>项目文件</primary> <secondary>目标子目录</secondary>
         </indexterm></title>
 
-      <para>该子文件夹初始为空的。要添加内容到其中，请选择<menuchoice> <shortcut> <keycombo> <keycap>Ctrl</keycap> <keycap>D</keycap> </keycombo> </shortcut><guimenu>项目</guimenu> <guimenuitem>创建已译文档</guimenuitem> </menuchoice>。<filename>source</filename>文件夹中的文件，无论是否已经翻译，都会以相同的层级结构生成到这里。target子文件夹的内容将反映当前的翻译状态，如同在当前<emphasis role="bold">/omegat/project_save.tmx</emphasis>中保存的项目翻译记忆一样。因此未译片段将仍为源语言。</para>
+      <para>This subfolder is initially empty. To add contents to it, select
+      <menuchoice>
+          <shortcut>
+            <keycombo>
+              <keycap>Ctrl</keycap>
+
+              <keycap>D</keycap>
+            </keycombo>
+          </shortcut>
+
+          <guimenu>Project</guimenu>
+
+          <guimenuitem>Create Translated Documents</guimenuitem>
+        </menuchoice>. Files within the <filename>source</filename> folder,
+      whether translated or not, are then generated here, with the same
+      hierarchy as present in the source subfolder. The contents of the target
+      subfolder will reflect the current state of the translation, as present
+      in the project translation memory, saved in the current <emphasis role="bold">/omegat/project_save.tmx</emphasis>. Untranslated segments
+      will hereby remain in the source language.</para>
     </section>
   </section>
 
@@ -174,7 +243,10 @@
           <row>
             <entry>logs/OmegaT.log</entry>
 
-            <entry>该文件记录了 <application>OmegaT</application> 运行时的 Java 错误信息。当 OmegaT 表现异常时，在错误报告中加入这份文件或相关部分是件很重要的事情</entry>
+            <entry>This file records Java error messages while
+            <application>OmegaT</application> is running. Should OmegaT appear
+            to be behaving erratically, it is important to include this file
+            or the relevant part in any bug report</entry>
           </row>
 
           <row>
@@ -210,7 +282,9 @@
       </tgroup>
     </informaltable>
 
-    <para>注意默认的分割规则和文件过滤器可以被项目专用设置所覆盖（见上文）。用户文件的位置取决于当前使用的平台：</para>
+    <para>Note that default segmentation rules and file filters can be
+    overridden by project-specific setup (see above). The location of user
+    files depends upon the platform you use:</para>
 
     <informaltable>
       <tgroup align="left" cols="2" rowsep="1">
@@ -265,9 +339,19 @@
         <primary>项目文件</primary> <secondary>应用程序文件</secondary>
       </indexterm></title>
 
-    <para>OmegaT 是以可以从 SourceForge 下载的安装包的形式提供的。在这里应先考虑的是标准Java形式的平台独立安装包。可选的程序包还有Linux .tar安装包、Windows安装程序（含或不含Java运行环境）、Mac OS X安装程序以及为开发人员准备的源码包。</para>
+    <para>OmegaT is supplied as a package that can be downloaded from
+    SourceForge. Here a platform-independent package in a standard Java form
+    is considered. Alternatives include a Linux .tar package, a Windows
+    installer – with or without a Java Runtime Environment –, a Mac OS X
+    installer, and a source code package for developers.</para>
 
-    <para>该平台独立安装包可在任何运行Java 1.6运行时环境的平台上使用，包括安装有特定包的平台。它是一份压缩文件（zip或tar存档），您需把它们解压缩到您选择的安装目录中。通常可通过双击已下载的安装包来解压缩文件。解压缩后将创建一个包含下列内容的目录：</para>
+    <para>The platform-independent package can be used on any platform with a
+    working Java 1.6 runtime environment, including the platforms for which a
+    specific package also exists. It is provided as a compressed file (zip or
+    tar archive) that you must extract to the folder of your choice for
+    installation. The file can usually be extracted by double-clicking on the
+    downloaded package. Once the archive has been extracted, a folder
+    containing the following contents is created:</para>
 
     <informaltable>
       <tgroup align="left" cols="2" rowsep="1">
@@ -283,7 +367,9 @@
           <row>
             <entry><filename>/docs/</filename></entry>
 
-            <entry>所有的手册文件都在该目录中。您可在网络浏览器中打开它们以访问其外部链接。</entry>
+            <entry>All the user manual files can be found in this folder. You
+            can open them in an Internet browser to obtain access to external
+            links.</entry>
           </row>
 
           <row>
@@ -301,7 +387,13 @@
           <row>
             <entry><filename>join.html</filename></entry>
 
-            <entry>这是个普通的html文件，当在你的Internet浏览器中打开时，其会将你链接至在雅虎上托管的OmegaT用户组。讨论组。不是一定要加入这个讨论组，但加入后可为您提供一些额外的服务，例如可访问某些文件和参与投票以及参加 OmegaT 相关的讨论。该讨论组的存档是公开的，无须订阅该讨论组就可进行查看。</entry>
+            <entry>This is an ordinary html file that, when opened in your
+            Internet browser, directs you to the OmegaT user group hosted on
+            Yahoo! Groups. Joining is not necessary, but will provide you with
+            access to additional services, such as files, questionnaires, and
+            the opportunity to take part in OmegaT-related discussions. The
+            group archives are public and can be viewed without subscription
+            to the group.</entry>
           </row>
 
           <row>
@@ -313,19 +405,31 @@
           <row>
             <entry><filename>license.txt</filename></entry>
 
-            <entry>GNU 通用公共许可证。该许可证允许您对 <application>OmegaT</application> 做某些事情，包括修改和发布。如果您有兴趣修改和发布 <application>OmegaT</application>，请仔细查阅该文档并确保在进行操作前掌握其全部含义。如果有任何疑问，请直接向项目成员请教，可通过 Source Forge 页面给他们发送邮件或向用户讨论组发送一份公开邮件。</entry>
+            <entry>The GNU GENERAL PUBLIC LICENSE. This license allows you to
+            do certain things with <application>OmegaT</application>,
+            including modifying and distributing it. If you are interested in
+            modifying or distributing <application>OmegaT</application>, read
+            this document carefully and ensure you understand its implications
+            before doing anything. If in doubt, don't hesitate to ask project
+            members directly either by sending them an e-mail from the
+            SourceForge page or by sending a public mail to the user
+            group.</entry>
           </row>
 
           <row>
             <entry><filename>doc-license.txt</filename></entry>
 
-            <entry>GNU 通用公共许可证。该许可证包含了文档。参阅上文。</entry>
+            <entry>The GNU GENERAL PUBLIC LICENSE. This license covers the
+            documentation. See above.</entry>
           </row>
 
           <row>
             <entry><filename>readme.txt</filename></entry>
 
-            <entry>该文件非常重要，在启动 OmegaT 之前请务必阅读一遍。它包含了 OmegaT 的一般性信息，如：在哪里可以找到更多信息以及如何提供帮助等等。它被译为了多种语言。</entry>
+            <entry>This file is very important and you should make sure you
+            read it before launching OmegaT. It includes general information
+            on OmegaT, where to find more information, how to contribute, etc.
+            It has been translated into a number of languages.</entry>
           </row>
 
           <row>
@@ -333,19 +437,27 @@
 
             <entry><para>只包含两行的文本文件：</para>
             <programlisting>#!/bin/bash java
-java -jar OmegaT.jar $*</programlisting> <para>Linux和OS X用户可能会发现此文件有用。在确认处于OmegaT程序目录后，从命令行运行<literal>chmod +x OmegaT</literal>来把它转换为可执行文件。从此，您可以从命令行调用该文件来启动 OmegaT 。</para></entry>
+java -jar OmegaT.jar $*</programlisting> <para>Linux and OS X users may find
+            this file useful. Make it executable (<literal>chmod +x
+            OmegaT</literal>) from the command line after making sure you are
+            in the OmegaT application folder. You will then be able to launch
+            OmegaT by executing this file from the command line</para></entry>
           </row>
 
           <row>
             <entry>OmegaT.bat</entry>
 
-            <entry><para>批处理文件，用于从 Windows 命令行启动 <application>OmegaT </application> 。它只包括下面几行：</para> <programlisting>java -jar OmegaT.jar %*</programlisting></entry>
+            <entry><para>A batch file, used to launch
+            <application>OmegaT</application> from the Windows command line.
+            It contains just the following line:</para> <programlisting>java -jar OmegaT.jar %*</programlisting></entry>
           </row>
 
           <row>
             <entry><literal>OmegaT.jar</literal></entry>
 
-            <entry>OmegaT 主程序。要启动 OmegaT，或是从命令行调用该文件，或者通过文件管理器运行它（通常是使用鼠标双击）。</entry>
+            <entry>The main OmegaT application. To launch OmegaT, you must
+            launch this file either from the command line or from your file
+            manager, usually by double-clicking it.</entry>
           </row>
         </tbody>
       </tgroup>

@@ -12,7 +12,11 @@
 
     <para><emphasis role="bold">版权所有</emphasis></para>
 
-    <para>本文档与包含用户手册及readme.txt文档的 <application>OmegaT</application>同时发布。本文档版权所有©2013 Vito Smolej, ©2014-2016 Vincent Bidaux。. <emphasis>五分钟内学会OmegaT！</emphasis>本章的作者是Samuel Murray，版权所有©2005-2012。</para>
+    <para>The documentation distributed with <application>OmegaT</application>
+    includes the User Manual and the readme.txt document. The
+    documentation is Copyright ©2013 Vito Smolej, ©2014-2016 Vincent Bidaux. The author of the Chapter
+    <emphasis>Learn to use OmegaT in 5 minutes!</emphasis> is Samuel Murray,
+    Copyright ©2005-2012.</para>
 
     <para><emphasis role="bold">发布和修改</emphasis></para>
 
@@ -20,7 +24,10 @@
 
     <para><emphasis role="bold">保证</emphasis></para>
 
-    <para>该文档的目的是希望它有用，但没有任何担保，甚至没有适销性或针对特定用途的隐含的担保。请参阅 GNU 通用公共许可证了解更多信息。</para>
+    <para>The documentation is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General
+    Public License for more details.</para>
   </section>
 
   <section id="legal.ntices.for.application">
@@ -38,6 +45,10 @@
 
     <para><emphasis role="bold">保证</emphasis></para>
 
-    <para><emphasis role="bold"> <application>OmegaT</application> </emphasis>发布的目的是希望它有用，但没有任何担保，甚至没有适销性或针对特定用途的隐含的担保。请参阅 GNU 通用公共许可证了解更多信息。</para>
+    <para><emphasis role="bold"> <application>OmegaT</application>
+    </emphasis>is distributed in the hope that it will be useful, but WITHOUT
+    ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or
+    FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for
+    more detail.</para>
   </section>
 </appendix>

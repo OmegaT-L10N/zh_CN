@@ -11,14 +11,27 @@
 
   <para>如果某个 <application>OmegaT</application> 项目包含一个或多个术语表文件，当前片段中出现的任何术语将自动显示在术语表查看器中。</para>
 
-  <para>您可以在项目属性对话框中设定其位置和名称。扩展名必须为<filename>.txt</filename> or <filename>.utf8</filename> （如果不是的话，加上扩展名）. 文件必须保存在 <filename>/glossary</filename>文件夹中，但它可以保存在/glossary的子文件夹中，如, <filename>glossary/sub/glossary.txt</filename>). 在设置时该文件可以不存在，在添加词条时会自动创建该文件（如果需要）。如果该文件已存在，不会对其格式或字符集进行检查：新条目总是以tab分隔并使用UTF-8编码。由于不会操作已有的内容，这样对已有文件的破坏则受到了限制。</para>
+  <para>You define its location and name in the project properties dialog. The
+  extension must be <filename>.txt</filename> or <filename>.utf8</filename>
+  (if not, it will be added). The location of the file must be within the
+  <filename>/glossary</filename> folder, but it can be in a deeper folder
+  (e.g., <filename>glossary/sub/glossary.txt</filename>). The file does not
+  need to exist when setting it, it will be created (if necessary) when adding
+  a glossary entry. If the file already exists, no attempt is done to verify
+  the format or the character set of the file: the new entries will always be
+  in tab-separated format and UTF-8. As the existing content will not be
+  touched, damage to an existing file would be limited.</para>
 
   <section>
     <title>用法</title>
 
-    <para>要使用现有的术语表，只需在创建项目后将它放到<indexterm class="singular">
+    <para>To use an existing glossary, simply place it in the<indexterm class="singular">
         <primary>项目文件</primary> <secondary>术语表子目录</secondary>
-      </indexterm> <filename>/glossary</filename> 目录下。在打开项目时，<application>OmegaT</application> 自动检测该目录下的术语表文件。从术语表中找到当前片段中的术语后，<application>OmegaT</application> 将会在术语表窗格将它们显示出来。</para>
+      </indexterm> <filename>/glossary</filename> folder after creating the
+    project. <application>OmegaT</application> automatically detects glossary
+    files in this folder when a project is opened. Terms in the current
+    segment which <application>OmegaT</application> finds in the glossary
+    file(s) are displayed in the Glossary pane:</para>
 
     <indexterm class="singular">
       <primary>术语表，术语表窗格</primary>
@@ -38,7 +51,13 @@
       </mediaobject>
     </figure>
 
-    <para>等号之前的单词是源术语，其翻译在等号（＝）之后。词条可以有附加的注释。术语表功能只能找到与术语表条目精确匹配的词汇（也就是说不会找到变化的词形）。在翻译时可以手动添加术语到术语表中，比如在文本编辑器中。在文件中新增的术语保存后不会马上被发现。</para>
+    <para>The word before the = sign is the source term, and its translation
+    is (or are) the words after =. The vocabulary entry can have a comment
+    added. The glossary function only finds exact matches with the glossary
+    entry (e.g. does not find inflected forms etc.). New terms can be added
+    manually to the glossary file(s) during translation, for example in a text
+    editor. Newly added terms will not be recognized once the changes in the
+    text file have been saved.</para>
 
     <para>源术语可以不是一个单词，例如：</para>
 
@@ -58,8 +77,16 @@
       </mediaobject>
     </figure>
 
-    <para>添加了下划线的项“pop-up menu”可以在术语表窗格找到并提示“pojavni menu”。在术语表窗格中高亮该项，接着点击右键将其插入到当前目标片段的光标处。<footnote>
-        <para>必须注意在这种情况中，到这里只说到一半（甚至更少），因为目标语言（斯洛文尼亚语）具有词形变化。所以被插入的主格“pojavni meni”需要改变为“pojavnem meniju”，即转变为位置格。因此直接输入术语而不通过术语表及其快捷方式可能会更快。</para>
+    <para>The underlined item &quot;pop-up menu&quot; can be found in the glossary pane
+    as &quot;pojavni menu&quot;. Highlighting it in the Glossary pane and then
+    rightclicking insets at the cursor position in the target
+    segment.<footnote>
+        <para>Note that in the above case, this is just half (or even less) of
+        the story, as the target language (Slovenian) uses declension. So the
+        inserted &quot;pojavni meni&quot; in the nominative form - has to be changed to
+        &quot;pojavnem meniju&quot; , i.e. to the locative. So it is probably faster to
+        type the term correctly right away without bothering with the glossary
+        and its shortcuts.</para>
       </footnote></para>
   </section>
 
@@ -70,22 +97,40 @@
         <primary>项目文件</primary> <secondary>用户文件</secondary> <seealso>术语表</seealso>
       </indexterm></title>
 
-    <para>术语表文件是简单的纯文本文件，包含了以制表符分隔的三列列表，其中第一和第二列分别对应源词汇和目标术语。第三列用来保存附加信息。您可以添加目标列为空的条目，即只包含源术语和注释。</para>
+    <para>Glossary files are simple plain text files containing three-column,
+    tab-delimited lists with the source and target terms in the first and
+    second columns respectively. The third column can be used for additional
+    information. You can have entries with the target column missing, i.e.
+    just containing the source term and the comment.</para>
 
-    <para>术语表的编码是自动决定的。当然，编码必须和术语语言兼容，因此建议使用Unicode码。</para>
+    <para>The encoding of glossaries is determined automatically. Of course,
+    the encoding must be compatible with both the languages contained, so
+    Unicode is recommended.</para>
 
-    <para>还支持 CSV 格式。该格式和 TAB 分隔的相同：源术语，目标术语。注释字段使用逗号 ',' 分隔开来。字符串需要括在引号 &quot; 里面，这样可以在字符串中使用逗号：</para>
+    <para>Also supported is the CSV format. This format is the same as the tab
+    separated one: source term, target term. Comment fields are separated by a
+    comma ','. Strings can be enclosed by quotes &quot;, which allows having a
+    comma inside a string:</para>
 
     <para><literal>&quot;This is a source term, which contains a comma&quot;,&quot;c'est un
     terme, qui contient une virgule&quot;</literal></para>
 
-    <para>除了纯文本格式， <indexterm class="singular">
+    <para>In addition to the plain text format, TBX format <indexterm class="singular">
         <primary>术语表</primary> <secondary>TBX 格式</secondary>
-      </indexterm> 也支持TBX格式的只读术语。<filename>.tbx</filename> 文件的地址必须在 <filename>/glossary</filename>文件夹中，但也能存在其子文件夹下，如 <filename>glossary/sub/MyGlossary.tbx。</filename>).</para>
+      </indexterm> is also supported as a read-only glossary format. The
+    location of the <filename>.tbx</filename> file must be within the
+    <filename>/glossary</filename> folder, but it can be in a deeper folder
+    (e.g., <filename>glossary/sub/MyGlossary.tbx</filename>).</para>
 
-    <para>TBX（Term Base eXchange）是用于交换结构化术语数据的基于 XML 的开放标准，已经被LISA和ISO批准为国际标准。如果你已经有术语处理系统，那它很可能提供通过 TBX格式到处术语数据。. <ulink url="http://www.microsoft.com/Language/en-US/Terminology.aspx">可以下载Microsoft Terminology Collection</ulink> <indexterm class="singular">
+    <para>TBX - Term Base eXchange - is the open, XML-based standard for
+    exchanging structured terminological data, TBX has been approved as an
+    international standard by LISA and ISO. If you have an existing
+    terminology handling system it is quite possible it offers the export of
+    terminology data via TBX format. <ulink url="http://www.microsoft.com/Language/en-US/Terminology.aspx">Microsoft
+    Terminology Collection</ulink> <indexterm class="singular">
         <primary>术语表</primary> <secondary>微软术语集</secondary>
-      </indexterm>它有将近100种语言，可以作为基础的IT词汇表。</para>
+      </indexterm> can be downloaded in nearly 100 languages and can serve as
+    a cornerstone IT glossary.</para>
 
     <para>注意：<filename>MultiTerm导出的.tbx格式</filename>文件似乎不太可靠（2013年11月），建议使用MultiTerm的<filename>.tab</filename>文件。</para>
   </section>
@@ -95,7 +140,11 @@
         <primary>术语表</primary> <secondary>创建术语表</secondary>
       </indexterm></title>
 
-    <para>你可以在项目设置时输入术语表文件的名字来创建可写入术语表（见本章开端）。. 在术语表窗格点击右键或按下<keycap>Ctrl+Shift+G</keycap>来添加新条目。在打开的对话框中可以输入源术语、目标术语及注释。</para>
+    <para>The project setting allows one to enter a name for a writable
+    glossary file (see beginning of this chapter). Right-click in the glossary
+    pane or press <keycap>Ctrl+Shift+G</keycap> to add a new entry. A dialog
+    opens, allowing you to enter the source term, target term and any comments
+    you may have:</para>
 
     <mediaobject role="html">
       <imageobject>
@@ -107,13 +156,26 @@
       </imageobject>
     </mediaobject>
 
-    <para>术语表文件的内容会存放到内存中，在打开或重新载入项目时加载它们。因此更新术语表变得非常简单：按下<keycap>Ctrl+Shift+G</keycap>并输入新术语、其翻译及注释（确保在字段间使用了TAB）并保存文件。因此术语表窗格的内容将会被更新。</para>
+    <para>The contents of glossary files are kept in memory and are loaded
+    when the project is opened or reloaded. Updating a glossary file is thus
+    rather simple: press <keycap>Ctrl+Shift+G</keycap> and enter the new term,
+    its translation and any comments you may have (ensuring you press tab
+    between the fields) and save the file. The contents of the glossary pane
+    will be updated accordingly.</para>
 
     <para><indexterm class="singular">
         <primary>术语表</primary> <secondary>可写术语表的位置</secondary>
-      </indexterm>可写术语表的位置可在<guimenuitem>项目&gt;属性...</guimenuitem>对话框中设定。可识别出的扩展名为<filename>TXT</filename>和<filename>UTF8</filename></para>
+      </indexterm>The location of the writable glossary file can be set in the
+    <guimenuitem>Project &gt; Properties ... </guimenuitem>dialog. The
+    recognized extensions are <filename>TXT</filename> and
+    <filename>UTF8</filename></para>
 
-    <para><emphasis role="bold">注：</emphasis>还有其他创建含TAB分隔条目的简单文件的方法。在Windows平台上使用 Notepad++，在Linux平台上使用 GEdit， 或者用电子表格完成都是可以的：任何能处理 UTF-8 (或者UTF-16 LE) ，以及能能显示空格（你不会漏掉必要的 <keycap>TAB</keycap> 字符）的应用都可以使用。</para>
+    <para><emphasis role="bold">Note: </emphasis>Of course there are other
+    ways and means to create a simple file with tab delimited entries. Nothing
+    speaks against using Notepad++ on Windows, GEdit on Linux for instance or
+    some spreadsheet program for this purpose: any application, that can
+    handle UTF-8 (or UTF-16 LE) and that can show white space (so that you do
+    not miss the required <keycap>TAB</keycap> characters) can be used.</para>
   </section>
 
   <section>
@@ -131,7 +193,12 @@
         <primary>术语表</primary> <secondary>Trados MultiTerm</secondary>
       </indexterm>使用Trados MultiTerm</title>
 
-    <para>在 Trados MultiTerm 导出的数据可以不加修改地用作 <application>OmegaT</application> 术语表，只需以 <filename>.tab</filename>为扩展名，并让对应的源词汇和目标术语分别为头两个字段。如果使用 &quot;Tab-delimited export&quot; 系统选项导出，您必须删除头 5 列（包括编号, 创建日期等等）。</para>
+    <para>Data exported from Trados MultiTerm can be used as
+    <application>OmegaT</application> glossaries without further modification,
+    provided they are given the file extension <filename>.tab</filename> and
+    the source and target term fields are the first two fields respectively.
+    If you export using the system option &quot;Tab-delimited export&quot;, you will
+    need to delete the first 5 columns (Seq. Nr, Date created etc).</para>
   </section>
 
   <section>

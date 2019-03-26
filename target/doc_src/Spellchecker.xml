@@ -5,12 +5,17 @@
       <primary>拼写检查</primary>
     </indexterm></title>
 
-  <para>OmegaT内置有拼写检查器，它基于在Apache OpenOffice、LibreOffice、Firefox和Thunderbird中使用的拼写检查器。因此能使用在这些程序中可用的大量免费的拼写检查词典。</para>
+  <para>OmegaT has a built-in spell checker based on the spelling checker used
+  in Apache OpenOffice, LibreOffice, Firefox and Thunderbird. It is
+  consequently able to use the huge range of free spelling dictionaries
+  available for these applications.</para>
 
   <section>
     <title>安装拼写词典</title>
 
-    <para>在检查拼写前，必须先安装适合的词典（例如用于您的目标语言）。要安装拼写词典，请参照这些步骤：</para>
+    <para>Before the spell check function can be used, a suitable dictionary
+    or dictionaries (i.e. for your target language) must be installed. To
+    install spelling dictionaries, follow this procedure:</para>
 
     <itemizedlist>
       <listitem>
@@ -20,19 +25,34 @@
 
     <itemizedlist>
       <listitem>
-        <para>在 OmegaT，选择<guisubmenu><indexterm class="singular">
+        <para>In OmegaT, select <guisubmenu><indexterm class="singular">
             <primary>菜单选项</primary> <secondary>拼写检查</secondary>
-          </indexterm></guisubmenu><guimenuitem>选项&gt;拼写检查</guimenuitem>，然后点击词典文件夹区域旁<guibutton>选择</guibutton>。浏览到保存词典的文件夹并选中。</para>
+          </indexterm></guisubmenu><guimenuitem>Options &gt; Spell
+        Checking</guimenuitem>, then click <guibutton>Choose
+        </guibutton>beside the Dictionary file folder field. Navigate to and
+        select the folder you created for dictionaries.</para>
       </listitem>
     </itemizedlist>
 
     <itemizedlist>
       <listitem>
-        <para>把要使用的词典文件放到此文件夹。进行这个操作实际分成两步。您可以使用文件管理器从其他位置手动复制文件，或使用 OmegaT 的<emphasis role="bold">“安装”</emphasis>功能来提供可选择的词典列表。请注意“安装”功能需要网络连接。随后选中的语言将会被安装，并出现在拼写检查器窗口中（可能需要一段时间）。</para>
+        <para>Place the dictionary files you wish to use in this folder. There
+        are essentially two ways in which you can do this. You can either copy
+        files manually, i.e. from elsewhere on your system, using your file
+        manager; or you can use OmegaT's <emphasis role="bold">&quot;Install new
+        dictionary&quot;</emphasis> function to provide a list of available
+        dictionaries to select from. Note that the &quot;Install&quot; function requires
+        an Internet connection. The selected languages will then be installed
+        and will eventually appear in your spell checker setup window (this
+        may take a while).</para>
       </listitem>
     </itemizedlist>
 
-    <para>如果您系统中已经有合适的词典，那么可以手动复制，例如在Apache OpenOffice、LibreOffice、Firefox或Thunderbird安装过程中已经安装了。这样简单点，不过如果要查找在线词典，请使用<emphasis role="bold">在线词典的网址</emphasis>字段：</para>
+    <para>Copying the files manually makes sense if you already have suitable
+    dictionary files on your system, for instance as part of your Apache OpenOffice,
+    LibreOffice, Firefox or Thunderbird installation. It is simpler, however, to look for
+    dictionaries online, using the <emphasis role="bold">URL of online
+    dictionaries</emphasis> field:</para>
 
     <figure id="spellchecker.setup">
       <title><indexterm class="singular">
@@ -52,13 +72,26 @@
 
     <para>点击<guibutton>安装新词典</guibutton>按钮将打开词典安装窗口，此处您可选择要安装的词典。</para>
 
-    <para>文件的名称必须与项目属性对话框（<guimenu>项目&gt;属性</guimenu>）中定义的目标语言的代码一致。例如，如果你选择ES-MX（墨西哥式西班牙语）为目标语言，则词典文件必须命名为es_MX.dic和es_MX.aff。如果您只有标准的西班牙语词典（例如文件名为es_es.dic和es_es.aff），您把这些文件改名为es_MX.dic和es_MX.aff也能让拼写检查词典正常工作。请注意，除墨西哥式西班牙语外这时也会检查标准的卡斯提尔语。</para>
+    <para>The names of the files must correspond to the language code of your
+    target language as defined in the project properties dialog
+    (<guimenu>Project &gt; Properties</guimenu>). For example, if you have
+    selected ES-MX (Mexican Spanish) as the target language, the dictionary
+    files must be named es_MX.dic and es_MX.aff. If you only have a standard
+    Spanish dictionary available, with file names es_es.dic and es_es.aff for
+    instance, you can copy these files to es_MX.dic and es_MX.aff, and the
+    spelling dictionary will work. Note that this will of course check for the
+    standard (Castillian) rather than for Mexican Spanish.</para>
   </section>
 
   <section>
     <title>使用拼写词典</title>
 
-    <para>无需告诉 OmegaT 使用特殊的拼写词典，它会根据项目的语言代码来使用正确的语言词典。请确保目标文件的语言代码与字典的语言代码相同：例如，FR-FR 字典在 FR 为目标语言设置下将无法正常使用。必要时可编辑词典文件名或改变项目的语言设置。</para>
+    <para>There is no need to instruct OmegaT to use a particular spelling
+    dictionary; OmegaT will use the correct language dictionary based upon the
+    language codes of your project. Check however that the language codes are
+    exactly the same: an FR-FR dictionary will not work with an FR target
+    setting, for example. If necessary, edit the file names of the dictionary
+    or change your project's language settings.</para>
 
     <para>要启用拼写检查器，请选择<guimenuitem>选项&gt;拼写检查</guimenuitem>并选中<guilabel>自动检查文本拼写</guilabel>的复选框（见上面）。</para>
 
@@ -76,7 +109,10 @@
       </mediaobject>
     </figure>
 
-    <para>右键单击突出显示的词汇（上面图示中的 &quot;Artund&quot;）打开下拉菜单，其中列出了更正建议（Art und）。此外，您也可以要求拼写检查器忽略所有该词的出现，或者把它添加到字典。</para>
+    <para>Right-clicking on an underlined word (Artund in the figure above)
+    opens a drop-down menu listing suggestions for the correction (Art und).
+    You can also instruct the spell checker to ignore all the occurrences of
+    the mis-spelled word, or add it to the dictionary.</para>
   </section>
 
   <section id="hints">
@@ -86,10 +122,28 @@
 
     <para>如果拼写检查器没有运行，首先确保选中了拼写检查器对话框（<guisubmenu>选项&gt;拼写检查...</guisubmenu>）中<guilabel>“自动检查文本拼写”</guilabel>的复选框。</para>
 
-    <para>在设置窗口中对照可用术语表检查项目的目标语言代码。拼写检查器根据目标语言代码来决定要使用的语言：如果目标语言是巴西葡萄牙语 (PT_BR)，存放术语表的目录必须包括两份术语表，名为 <emphasis>pt_br.aff</emphasis> 和 <emphasis>pt_br.dic</emphasis>。</para>
+    <para>Also check that the target language code of your project against the
+    available vocabularies in the setup window. The spell checker uses the
+    target language code to determine the language to be used : if the target
+    language is Brazilian Portuguese (PT_BR), the subfolder with vocabularies
+    must contain the two vocabulary files, called
+    <emphasis>pt_br.aff</emphasis> and <emphasis>pt_br.dic</emphasis>.</para>
 
-    <para>如果已经译了一大段文本，但是才意识到项目的目标语言代码与拼写检查器的语言代码不符（如将pt_BR设为目标语言，但没有pt_BR术语表），您只需复制两份对应的文件并进行重命名（例如把<emphasis>pt_PT.aff</emphasis>和<emphasis>pt_PT.dic</emphasis>改名为<emphasis>pt_BR.aff</emphasis>和<emphasis>pt_BR.dic</emphasis>）。当然，中断一小段时间并下载正确的拼写检查器版本的做法更加理智。</para>
+    <para>If you have already translated a large body of text, and then
+    realize the target language code of the project does not match the spell
+    checker's language code (you specified pt_BR as the language, but there
+    are no pt_BR vocabularies, for instance) you can simply copy the two
+    corresponding files and rename them (e.g. from
+    <emphasis>pt_PT.aff</emphasis> and <emphasis>pt_PT.dic</emphasis> to
+    <emphasis>pt_BR.aff</emphasis> and <emphasis>pt_BR.dic</emphasis>). Of
+    course it is much wiser, to take a short break and download the correct
+    versions of the spell checker.</para>
 
-    <para>注意<filename>删除</filename>实际上只是删除了选择的术语表。如果系统上有其他程序使用它们，则它们也会从那些程序中消失。如果出于某种原因，您必须不时地重复该操作，将这些文件复制到其它目录并为 OmegaT 保留它们是非常有意义的。</para>
+    <para>Note that <filename>Remove</filename> physically removes the
+    selected vocabularies. If they are used by some other application on your
+    system, they will disappear from that application, too. If, for whatever
+    reason, you need to do this from time to time, it may make sense to copy
+    the files involved to a different folder, reserved just for use by
+    OmegaT.</para>
   </section>
 </chapter>

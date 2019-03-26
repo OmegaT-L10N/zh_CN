@@ -10,7 +10,9 @@
         <primary>目标文件</primary> <secondary>文件格式</secondary>
       </indexterm></title>
 
-    <para><application>您可以使用 OmegaT</application> 翻译一些文件格式。最基本的文件类型有两种，纯文本和格式化文本格式。</para>
+    <para><application>You can use OmegaT</application> to translate files in
+    a number of file formats. There are basically two types of file formats,
+    plain text and formatted text.</para>
 
     <section>
       <title>纯文本文件<indexterm class="singular">
@@ -19,7 +21,15 @@
           <primary>源文件</primary> <secondary>纯文本文件</secondary>
         </indexterm></title>
 
-      <para>纯文本文件中只含有文本，因为对它们的翻译工作就像输入翻译一样简单。有多种方法可以指定文件的编码，以确保 <application>OmegaT</application> 打开它们时不会显示乱码。这样的文本除了用于对齐文本、标示段落或插入页面的“空白”之外没有任何格式化信息。它们无法包含或保留关于文本的颜色、字体等的信息。目前，<application>OmegaT</application> 支持以下纯文本格式：<indexterm class="singular">
+      <para>Plain text files contain text only, so their translation is as
+      simple as typing the translation. There are several methods to specify
+      the file's encoding so that its contents are not garbled when opened in
+      <application>OmegaT</application>. Such files do not contain any
+      formatting information beyond the &quot;white space&quot; used to align text,
+      indicate paragraphs or insert page breaks. They are not able to contain
+      or retain information regarding the color, font etc of the text.
+      Currently, <application>OmegaT</application> supports the following
+      plain text formats:<indexterm class="singular">
           <primary>文件格式</primary> <secondary>无格式</secondary> <seealso>源文件</seealso>
         </indexterm></para>
 
@@ -77,9 +87,16 @@
 
       <para><application>OmegaT</application> 可以处理的其它的纯文本文件可以通过将其文件扩展名关联到所支持的文件类型（比方说，.pod 文件可以关联到 ASCII 文本过滤器）并使用特定的分割 规则来进行预处理。</para>
 
-      <para>PO文件<indexterm class="singular">
+      <para>PO files<indexterm class="singular">
           <primary>源文件</primary> <secondary>PO双语文件</secondary>
-        </indexterm>可以同时包含源和目标文本。从这个角度看，它们是纯文本<emphasis>加上</emphasis>翻译记忆。如果一个片段在项目翻译记忆project_save.tmx中还没有译文，则会把当前译文作为默认译文保存到project_save.tmx中。然而如果相同的源片段已经存在不同的翻译，则新译文会被保存为可选译文。</para>
+        </indexterm> can contain both the source and the target text. Seen
+      from this point of view, they are plain text files<emphasis>
+      plus</emphasis> translation memories. If for a given source segment
+      there is as yet no existing translation in the project translation
+      memory (project_save.tmx), the current translation will be saved in the
+      project_save.tmx as the default translation. In case, however, the same
+      source segment already exists with a different translation, the new
+      translation will be saved as an alternative.</para>
     </section>
 
     <section>
@@ -89,7 +106,22 @@
           <primary>源文件</primary> <secondary>格式化文本文件</secondary>
         </indexterm></title>
 
-      <para>格式化文本文件除了包含文本之外，还包括字体类型、大小、颜色等信息。它们通常由文字处理器和 HTML 编辑器创建。这些文件格式是设计用来保持格式信息的。这些格式信息可能就像 “这是粗体”一样简单，也可能是包含了不同的字体大小、颜色和位置等信息的表格数据一样复杂。在大多数翻译工作中，在译文中保留原文的格式信息是很重要的。通过使用易于维护的 TAG 来标记拥有特殊格式的字符或单词，OmegaT 让您能够做到这一点。对源文本格式的简化很大程度上有助于减少标签的数量。如果有可能应该考虑在文档中使用统一的字体、字体大小、颜色等，以此简化翻译工作和减少可能的标签错误。每种文件格式在 OmegaT 中的处理方式都不同。可在文件过滤器设置特定的动作。在写此文档时，OmegaT 支持以下格式化的文本格式：<indexterm class="singular">
+      <para>Formatted text files contain information such as font type, size,
+      color etc. as well as text. They are commonly created in word processors
+      or HTML editors. Such file formats are designed to hold formatting
+      information. The formatting information can be as simple as “this is
+      bold”, or as complex as table data with different font sizes, colors,
+      positions, etc. In most translation jobs, it is considered important for
+      the formatting of the original text to be retained in the translation.
+      OmegaT allows you to do this by marking the characters/words that have a
+      special formatting with easy-to-handle tags. Simplifying the original
+      text formatting greatly contributes to reducing the number of tags.
+      Where possible, unifying the fonts, font sizes, colors, etc. used in the
+      document simplifies the task of translation and reduces the possible
+      number of tag errors. Each file type is handled differently in OmegaT.
+      Specific behavior can be set up in the file filters. At the time of
+      writing, OmegaT supports the following formatted text formats:
+      <indexterm class="singular">
           <primary>文件格式</primary> <secondary>格式化</secondary> <seealso>源文件</seealso>
         </indexterm></para>
 
@@ -189,20 +221,30 @@
         </indexterm><indexterm class="singular">
           <primary>源文件</primary> <secondary>PDF文件</secondary>
         </indexterm></title>
-  <para>PDF文件是一个特殊的例子。其包含文本格式化信息，但这些信息不能被<application>OmegaT</application>重新使用来创建目标文件。因此，PDF文件被当作纯文本文件处理，输出文件是纯文本文件。</para>
+  <para>PDF files are a special case. They contain text formatting
+  information, but such information cannot be reused by
+  <application>OmegaT</application> in order to create target files.
+  Thus, PDF files are handled as plain text files, and output files are
+  plain text files.</para>
   <para>如果您需要在翻译中复制文本格式（以及其他东西，如绘图），有三种方法可以尝试：</para>
   <orderedlist>
     <listitem>
       <para>使用 <application>OmegaT的</application> 默认过滤器 （PDF输入），翻译， 创建目标文件（将会是纯文本文件，手动添加相关的格式和项目</para>
     </listitem>
     <listitem>
-      <para>使用Iceni Infix过滤器。查阅<ulink url="https://omegat.org/howtos/iceni_infix.html ">如何——用Iceni Infix和OmegaT翻译PDF文件</ulink>.</para>
+      <para>Use the Iceni Infix filter.
+      See <ulink url="https://omegat.org/howtos/iceni_infix.html ">Howto - Translating PDF files with Iceni Infix and OmegaT</ulink>.</para>
     </listitem>
     <listitem>
       <para>将源文件导入<ulink url="https://www.libreoffice.org/discover/draw/ ">LibreOffice Draw</ulink>，将其保存为ODG文件，并在需要时将其导出为PDF。</para>
     </listitem>
   </orderedlist>
-  <para><emphasis role="bold">注：以上信息仅适用于带有文字图层的PDF文件。</emphasis>如果您有一个由扫描页面组成的PDF文件（有时这些文件被称为“死”PDF文件），您需要使用OCR（光学字符识别）程序来识别文本并将其转换为可由OmegaT处理的格式。</para>
+  <para><emphasis role="bold">Note:</emphasis> the above information
+  applies only to PDF files with a text layer. If you have a PDF file
+  made of scanned pages (sometimes such files are referred to as ‘dead’
+  PDFs), you need to use an OCR (optical character recognition) program
+  to recognize the text and convert it to a format that can be handled
+  by OmegaT.</para>
     </section>
   </section>
 
@@ -217,7 +259,11 @@
 
     <para><indexterm class="singular">
         <primary>目标文件</primary> <secondary>文件转换工具</secondary>
-      </indexterm>可使用外部工具将文件转换成所支持的格式。译后文件需要被转换回最初的格式。例如，如果您使用无法处理 ODT 格式的过时 Microsoft Word 版本，对于 DOC 格式则需要进行下面这样的来回转换：</para>
+      </indexterm>External tools can be used to convert files to supported
+    formats. The translated files will then need to be converted back to the
+    original format. For example, if you have an outdated Microsoft Word
+    version, that does not handle the ODT format, here's a round trip for Word
+    files with the DOC extension:</para>
 
     <itemizedlist>
       <listitem>
@@ -249,7 +295,10 @@
       </listitem>
     </itemizedlist>
 
-    <para>译后文档中格式信息的质量将取决于来回转换的质量。在进行类似的转换前，必须确保测试过所有选项。请参阅 <ulink url="http://www.omegat.org">OmegaT 主页</ulink>了解最新的辅助转换工具列表。</para>
+    <para>The quality of formatting of the translated file will depend on the
+    quality of the round-trip conversion. Before proceeding with such
+    conversions, be sure to test all options. Check the <ulink url="http://www.omegat.org">OmegaT home page</ulink> for an up-to-date
+    listing of auxiliary translation tools.</para>
   </section>
 
   <section id="right.to.left.languages">
@@ -261,7 +310,22 @@
         <primary>源文件</primary> <secondary>自右向左语言</secondary>
       </indexterm></title>
 
-    <para>原文和译文的区分取决于项目的语言设置。缺省情况下，LTR 语言使用左对齐而 RTL 语言使用右对齐。通过按下 <keycombo> <keycap>Shift</keycap> <keycap>Ctrl</keycap> <keycap>O</keycap> </keycombo>（字母 O 而不是数字 0）来切换不同的显示模式。<keycombo> <keycap>Shift</keycap> <keycap>Ctrl</keycap> <keycap>O</keycap> </keycombo>切换有三种状态：</para>
+    <para>Justification of source and target segments depends upon the project
+    languages. By default, left justification is used for Left-To-Right (LTR)
+    languages and right justification for Right-To-Left (RTL) languages. You
+    can toggle between different display modes by pressing <keycombo>
+        <keycap>Shift</keycap>
+
+        <keycap>Ctrl</keycap>
+
+        <keycap>O</keycap>
+      </keycombo> (this is the letter O and not the numeral 0). The <keycombo>
+        <keycap>Shift</keycap>
+
+        <keycap>Ctrl</keycap>
+
+        <keycap>O</keycap>
+      </keycombo> toggle has three states:</para>
 
     <itemizedlist>
       <listitem>
@@ -281,7 +345,23 @@
       </listitem>
     </itemizedlist>
 
-    <para>在 <application>OmegaT</application> 中使用  RTL 模式对于 <application>OmegaT</application> 中创建的已译文档的显示模式没有任何影响。已译文档的显示模式必须在常用于显示或编辑它们的应用程序（例如 Microsoft Word）中进行修改（查阅相关手册了解详细信息）。使用 <keycombo> <keycap>Shift</keycap> <keycap>Ctrl</keycap> <keycap>O</keycap> </keycombo> 将使得 <application>OmegaT</application> 中文本的输入和显示模式都改变了。通过点击窗格并切换显示模式，该方法也可单独适用于所有三个窗格（编辑器、模糊匹配和术语表）。它还使用于在 <application>OmegaT</application> 中的所有输入字段（搜索窗口、片段分割规则等）。</para>
+    <para>Using the RTL mode in <application>OmegaT</application> has no
+    influence whatsoever on the display mode of the translated documents
+    created in <application>OmegaT</application>. The display mode of the
+    translated documents must be modified within the application (such as
+    Microsoft Word) commonly used to display or modify them (check the
+    relevant manuals for details). Using <keycombo>
+        <keycap>Shift</keycap>
+
+        <keycap>Ctrl</keycap>
+
+        <keycap>O</keycap>
+      </keycombo> causes both text input and display in
+    <application>OmegaT</application> to change. It can be used separately for
+    all three panes (Editor, Fuzzy Matches and Glossary) by clicking on the
+    pane and toggling the display mode. It can also be used in all the input
+    fields found in <application>OmegaT</application> - in the search window,
+    for segmentation rules etc.</para>
 
     <para>对于 Mac OS X 用户，请注意：使用 <keycombo> <keycap>Shift</keycap> <keycap>Ctrl</keycap> <keycap>O</keycap> </keycombo> 快捷键而 <emphasis role="bold">不是</emphasis>cmd+Ctrl+O.</para>
 
@@ -294,7 +374,18 @@
           <primary>源文件</primary> <secondary>混合 RTL 和 LTR 字符串</secondary>
         </indexterm></title>
 
-      <para>在编写纯自右向左文本时，将使用缺省的（自左向右）视图。然而在许多情况下，必须在自右向左文本中嵌入自左向右文本。例如，在 OmegaT 标签中，必须在自左向右源文件中保留产品名称、在本地化文件中保留占位符以及在文本中保留数字。在像这样的情况下，必须转换为自右向左模式，以正确显示自右向左（实际是双向）文本。应当注意，当 <application>OmegaT</application> 处于自右向左模式，源和目标都以自右向左模式显示。这意味着如果源语言是自左向右，而目标语言是自右向左，或者反过来，就可能必须在自右向左和自左向右模式之间来回切换，以轻松地在相应的模式下查看源文件和输入译文。</para>
+      <para>When writing purely RTL text, the default (LTR) view may be used.
+      In many cases, however, it is necessary to embed LTR text in RTL text.
+      For example, in OmegaT tags, product names that must be left in the LTR
+      source language, place holders in localization files, and numbers in
+      text. In cases like these it becomes necessary to switch to RTL mode, so
+      that the RTL (in fact bidirectional) text is displayed correctly. It
+      should be noted that when <application>OmegaT</application> is in RTL
+      mode, both source and target are displayed in RTL mode. This means that
+      if the source language is LTR and the target language is RTL, or vice
+      versa, it may be necessary to toggle back and forth between RTL and LTR
+      modes to view the source and enter the target easily in their respective
+      modes.</para>
     </section>
 
     <section>
@@ -302,9 +393,20 @@
           <primary>自右向左语言</primary> <secondary>自右向左语言中的 OmegaT 标签</secondary>
         </indexterm></title>
 
-      <para>如上所述，OmegaT 标签是自左向右字符串。如需在自右向左和自左向右之间进行翻译工作，为从源文件中正确读取标签以及在目标中正确输入，有可能需要在自左向右和自右向左模式之间来回切换多次。</para>
+      <para>As stated above, OmegaT tags are LTR strings. When translating
+      between RTL and LTR languages, correctly reading the tags from the
+      source and entering them properly in the target may require the
+      translator to toggle between LTR and RTL modes numerous times.</para>
 
-      <para>如果允许，极力倡导翻译人员将原始文档的风格信息删除，以确保在 OmegaT 中尽可能少地显示标签。按照提示中提供的线索进行标签管理. 经常验证标签（见标签验证）和每隔固定时间制作已译文档（见下文及菜单）可以更加轻松地发现导致的问题。提示：先翻译文本的纯文本版本，稍后再通过相应程序添加必须的风格被证明是更少争议的。</para>
+      <para>If the document allows, the translator is strongly encouraged to
+      remove style information from the original document so that as few tags
+      as possible appear in the OmegaT interface. Follow the indications given
+      in Hints for tags management. Frequently validate tags (see Tag
+      validation) and produce translated documents (see below and Menu) at
+      regular intervals to make it easier to catch any problems that arise. A
+      hint: translating a plain text version of the text and adding the
+      necessary style in the relevant application at a later stage may turn
+      out to be less hassle.</para>
     </section>
 
     <section>
@@ -316,7 +418,12 @@
           <primary>自右向左语言</primary> <secondary>创建 RTL 目标文本</secondary>
         </indexterm></title>
 
-      <para>在创建已译文档时，其显示方向将与源文本相同。如果源文档是自左向右的，目标文档的显示方向可以在其查看程序中手动修改为自右向左。每个输出方式都有特定方法来处理自右向左显示，可查阅相关应用程序手册了解更多细节。</para>
+      <para>When the translated document is created, its display direction
+      will be the same as that of the original document. If the original
+      document was LTR, the display direction of the target document must be
+      changed manually to RTL in its viewing application. Each output format
+      has specific ways of dealing with RTL display; check the relevant
+      application manuals for details.</para>
 
       <para>无论如何对于.docx文件会自动进行一些更改：<itemizedlist>
           <listitem>段落、节和表被设为双向</listitem>
@@ -324,7 +431,10 @@
           <listitem>阅读方向（文本元素）被设为RTL</listitem>
         </itemizedlist></para>
 
-      <para>为避免每次打开目标文件时都要改变其显示参数，可能修改源文件的显示参数以确保这些参数被目标文件所继承。举例来说，这样的修改对ODF文件是可行的。</para>
+      <para>To avoid changing the target files display parameters each time
+      the files are opened, it may be possible to change the source file
+      display parameters such that such parameters are inherited by the target
+      files. Such modifications are possible in ODF files for example.</para>
     </section>
   </section>
 </chapter>

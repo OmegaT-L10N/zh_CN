@@ -3,7 +3,10 @@
 <appendix id="appendix.keyboard">
   <title>编辑器中的键盘快捷键</title>
 
-  <para>此简短的文本描述了编辑窗格中的按键行为。在这里“移动到片段内”是指，如果光标原来在此片段前面则移动到片段的开始处，如果在片段后面则移动到片段的末尾。</para>
+  <para>This short text describes key behavior in the editor pane. The term
+  &quot;Move to inside segment&quot; means, that the cursor moves to the beginning of
+  the segment if it was previously before the segment, and to the end of the
+  segment if it was previously after it.</para>
 
   <table>
     <title>编辑器中的按键行为</title>
@@ -187,5 +190,7 @@
   shortcuts <keycap>Ctrl+A</keycap> and <keycap>Ctrl+C</keycap> work in panes,
   allowing to copy all or some of the information to the clipboard.</para>
 
-  <para>请注意，您可以按自己的偏好重新分配快捷键。请参阅<link linkend="ch04.shortcuts.customization">附录自定义快捷键</link></para>
+  <para>Note that you can reassign the shortcuts to your own preferences. See
+  <link linkend="ch04.shortcuts.customization">Appendix ShortCut
+  Customization</link></para>
 </appendix>

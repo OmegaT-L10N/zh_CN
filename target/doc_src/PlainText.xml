@@ -12,7 +12,14 @@
         <primary>源文件</primary> <secondary>编码</secondary>
       </indexterm></title>
 
-    <para>纯文本文件（在大多数情况下扩展名为 txt）只包含了文本信息，目前还没有明确的办法告诉计算机该文件包含了何种语言的内容。在这种情况下，一般 OmegaT 会假设该文本写入时使用了当前计算机所使用相同语言。这对于使用 16 位字符集 Unicode 进行编码的文件不会产生问题。然而，如果文本使用 8 位编码，那么可能会遇到这样困惑的情况：不是显示日文的文本...</para>
+    <para>Plain text files - in most cases files with a txt extension -
+    contain just textual information and offer no clearly defined way to
+    inform the computer which language they contain. The most that OmegaT can
+    do in such a case, is to assume that the text is written in the same
+    language the computer itself uses. This is no problem for files encoded in
+    Unicode using a 16 bit character encoding set. If the text is encoded in 8
+    bits, however, one can be faced with the following awkward situation:
+    instead of displaying the text, for Japanese characters...</para>
 
     <mediaobject>
       <imageobject role="html">
@@ -42,14 +49,21 @@
   <section id="OmegaT.solution">
     <title><application>OmegaT</application> 解决方案</title>
 
-    <para>基本上 <application>OmegaT</application> 中有三种方法解决这个问题。它们都与<emphasis role="bold">选项</emphasis>菜单中的文件过滤器应用程序有关。</para>
+    <para>There are basically three ways to address this problem in
+    <application>OmegaT</application>. They all involve the application of
+    file filters in the<emphasis role="bold"> Options </emphasis>menu.</para>
 
     <variablelist>
       <varlistentry>
         <term>将文件编码改为 Unicode</term>
 
         <listitem>
-          <para>使用能够正确解析编码的文本编辑器打开源文件，并使用 <emphasis role="bold">&quot;UTF-8&quot;</emphasis> 编码保存文件。将文件扩展名由 <literal>.txt</literal> 改为 <literal>.utf8。</literal><application>OmegaT</application> 会自动将文件解析为 UTF-8 文件。这是最常用的有效方案, 可最大程度减少您的问题.</para>
+          <para>open your source file in a text editor that correctly
+          interprets its encoding and save the file in <emphasis role="bold">&quot;UTF-8&quot;</emphasis> encoding. Change the file extension
+          from <literal>.txt</literal> to <literal>.utf8.</literal>
+          <application>OmegaT</application> will automatically interpret the
+          file as a UTF-8 file. This is the most common-sense alternative,
+          sparing you problems in the long run.</para>
         </listitem>
       </varlistentry>
     </variablelist>
@@ -106,6 +120,12 @@
       </listitem>
     </itemizedlist>
 
-    <para>可以通过在<emphasis role="bold">选项</emphasis>菜单中选择<emphasis role="bold">文件过滤器</emphasis>菜单项来检查是不是这样。比方说，当您拿到一份捷克文本文件（非常有可能使用 <emphasis role="bold">ISO-8859-2</emphasis> 编码编写），您仅需将扩展名 <literal>.txt</literal> 修改为 <literal>.txt2</literal>，而 <application>OmegaT</application> 将会正确地解析其内容。当然，如果您希望更加安全，可以将这类文件转换为 Unicode，即 <literal>.utf8</literal> 文件格式。</para>
+    <para>You can check that yourself by selecting the item <emphasis role="bold">File Filters</emphasis> in the menu <emphasis role="bold">Options</emphasis>. For example, when you have a Czech text
+    file (very probably written in the <emphasis role="bold">ISO-8859-2</emphasis> code) you just need to change the
+    extension<literal> .txt</literal> to <literal>.txt2 </literal>and
+    <application>OmegaT</application> will interpret its contents correctly.
+    And of course, if you wish to be on the safe side, consider converting
+    this kind of file to Unicode, i.e. to the <literal>.utf8 </literal>file
+    format.</para>
   </section>
 </chapter>

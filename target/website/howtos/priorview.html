@@ -4,29 +4,29 @@
 
 <h3>背景与原则</h3>
 
-<p>Priorview是一个小工具，提供与OmegaT一起使用的预览功能。背景与原则信息请参考 <a href="preview.html">Preview Howto</a>. 本指南提供了<b>Windows and Linux</b>的Priorview使用说明。 如果你使用的是Mac OSX, 你可以在这里<a href="{{ '/files/priorview_for_mac.zip' | prepend: site.baseurl_root }}">下载Mac版本的Priorview</a>。Mac OSX 版本尚未记录，以下信息不适用于它。 <b>not</b> apply to it.</p>
+<p>Priorview is a small utility that provides a preview function for use with OmegaT. For the background and principles, refer to the <a href="preview.html">Preview Howto</a>. This HowTo describes the use of Priorview for <b>Windows and Linux</b>. If you are using Mac OSX, you can <a href="{{ '/files/priorview_for_mac.zip' | prepend: site.baseurl_root }}">download a version of Priorview for Mac here</a>. The Mac OSX version is not yet documented and the information below does <b>not</b> apply to it.</p>
 
 <h3>所需软件</h3>
 
 <p>在Windows或Linux上使用Priorview，你需要：</p>
 
-<p>1. <b>浏览器</b>，可选择：</p>
+<p>1. <b>A browser</b>, specifically either:</p>
 
 <ul>
 
-<li><a href="http://www.opera.com">Opera</a><br/>或者</li>
+<li><a href="http://www.opera.com">Opera</a><br/>or</li>
 
-<li><a href="http://www.mozilla.org">Firefox</a>以及<a href="http://addons.mozilla.org/de/firefox/addon/reloadevery/">"ReloadEvery"插件</a><br/>首先安装Firefox（如果你尚未安装），然后添加ReloadEvery。</li>
+<li><a href="http://www.mozilla.org">Firefox</a> together with the <a href="http://addons.mozilla.org/de/firefox/addon/reloadevery/">"ReloadEvery" add-on for Firefox</a><br/> Install Firefox first (if you do not already have it installed), then ReloadEvery.</li>
 
 <li><i>（请点击链接下载； Linux用户在可能的情况下更倾向于从其发行版的存储库进行安装）</i></li>
 
 </ul>
 
-<p>2. <b>转换功能</b>，可选择：</p>
+<p>2. <b>A conversion utility</b>, specifically either:</p>
 
 <ul>
 
-<li><a href="http://www.abisource.com/download/">Abiword</a><br/>或者</li>
+<li><a href="http://www.abisource.com/download/">Abiword</a><br/>or</li>
 
 <li><a href="http://www.libreoffice.org/">LibreOffice</a>以及<a href="http://dag.wieers.com/home-made/unoconv/">Unoconv插件</a></li>
 
@@ -38,11 +38,11 @@
 
 <p>4. <b><a href="{{ '/files/priorview.zip' | prepend: site.baseurl_root }}">Priorview</a></b></p>
 
-<p>要安装Priorview，只需将zip压缩包解压到硬盘驱动器上的任何合适位置即可。要启动Priorview，请打开命令提示符/终端/控制台并输入：</p>
+<p>To install Priorview, simply unpack the zip archive at any suitable location on your hard drive. To launch Priorview, open a command prompt/terminal/console and type in:</p>
 
 <p>cd <i>路径</i></p>
 
-<p>其中<i>路径&lt;/ i0&gt;是放置preview.tcl的文件夹的完整路径名。. 然后输入：</p>
+<p>where <i>path</i> is the full pathname of the folder in which you placed preview.tcl. Then type in:</p>
 
 <p>wish priorview.tcl</p>
 
@@ -50,7 +50,7 @@
 
 <h3>使用Priorview</h3>
 
-<p>一切正常的话，Priorview应该按照上述方式启动。在这里，选择：</p>
+<p>All being well, Priorview should appear when launched as described above. On this, select:</p>
 
 <ul>
 
@@ -64,7 +64,7 @@
 
 </ul>
 
-<p>当你选择完毕，就会出现开始按钮。点击它就会启动您的浏览器并显示虚拟页面，指示您设置自动刷新功能，然后在OmegaT中按Ctrl + s和Ctrl + d以启动浏览器的自动更新。</p>
+<p>When you have selected all of these, the Start button appears. When actuated, this launches your browser with a dummy page instructing you to set the automatic refresh function, which you should then do, and then to hit Ctrl+s, Ctrl+d in OmegaT to launch automatic updating of the browser.</p>
 
 <p>运行Priorview时，你可以：</p>
 
@@ -78,13 +78,13 @@
 
 </ul>
 
-<p>Priorview一旦启动，你无法选择其他浏览器或转换实用程序；因此这些选项在启动后隐藏。如需更换浏览器或者转换功能，你必须关闭Priorview并重启。</p>
+<p>Once Priorview has been launched, however, you cannot select a different browser or conversion utility; these options are therefore hidden after launch. To select a different browser or conversion utility, you must close Priorview and relaunch it.</p>
 
-<p>点击停止按钮，关闭Priorview并删除它创建的临时文件。（其他关闭Priorview的方法不会删除临时文件。）</p>
+<p>The Quit button closes Priorview and also deletes the temporary files that it creates. (Other methods of closing Priorview will not delete the temporary files.)</p>
 
 <p><img src="{{ '/img/preview_ss.png' | prepend: site.baseurl_root }}" alt=" preview_ss.png"></img></p>
 
-<p><i>欧洲委员会新闻稿（采用.odt格式）在OmegaT中并在其下方显示Opera中显示的即时目标文本。底部右侧：Priorview实用程序。. 这里显示的布局仅仅是为了举例；你可以按你喜欢的方式排列窗口。</i></p>
+<p><i>A European Commission press release (in .odt format) in OmegaT and below it the instantaneous target text displayed in Opera. Bottom right: the Priorview utility. The layout shown here is just for the sake of example; you can of course arrange the windows as you like.</i></p>
 
 
 <h3>故障排除</h3>
@@ -105,9 +105,17 @@
 
 <ul>
 
-<li>你记得在OmegaT中按Ctrl + s，Ctrl + d。除非你这样做，否则检测/显示将不会发生变化！</li>
+<li>That you are remembering to hit Ctrl+s, Ctrl+d in OmegaT. Until/unless you do, there will be no changes to detect/display!</li>
 
-<li>文件转换实用程序已正确安装并正在运行。你可以在命令行（终端/控制台/ DOS提示符）中使用下面的相关命令对其进行测试。. 在每种情况下，<i>文件&lt;/ i0&gt;是.docx或.odt文件的名称。. 如果一切正常，将生成文件的一个.html版本：<br/>Abiword：<br/><kbd>abiword --to=html <i>file</i></kbd><br/>LibreOffice+Unoconv:<br/><kbd>unoconv -f html <i>file</i></kbd></li>
+<li>That the file conversion utility is installed properly and is working. You can test this with the relevant command below on the command line (terminal/console/DOS prompt). In each case, <i>file</i> is the name of a .docx or .odt file. If all is well, an .html version of the file will be produced:<br/>
+
+For Abiword:<br/>
+
+<kbd>abiword --to=html <i>file</i></kbd><br/>
+
+For LibreOffice+Unoconv:<br/>
+
+<kbd>unoconv -f html <i>file</i></kbd></li>
 
 <li>你已在浏览器中设置自动刷新间隔。</li>
 

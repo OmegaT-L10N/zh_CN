@@ -14,25 +14,51 @@
         <primary>项目菜单</primary> <secondary>新建...</secondary>
       </indexterm>
 
-    <para>开始使用OmegaT时首先要创建项目，用来保存您的所有文件，例如源文件、翻译记忆、术语表及您要翻译的文件。在<guimenu>项目</guimenu>菜单中选择<menuchoice><guimenuitem>新建...</guimenuitem></menuchoice>并输入项目名称。记住您创建项目的位置，之后还需要返回这里。</para>
+    <para>To start using OmegaT, first create a project that will hold all
+    your files, such as your source file, translation memories, glossaries,
+    and eventually your translated file. In the <guimenu>Project</guimenu>
+    menu, select <menuchoice><guimenuitem>New...</guimenuitem></menuchoice> 
+    and type a name for your project. Remember where you are
+    creating the project, because you will need to return to it later.</para>
 
-    <para>给项目命名后将出现<guilabel>创建新项目</guilabel>对话框。在该对话框顶端选择源文件语言和目标语言，并点击<guibutton>OK</guibutton>继续。</para>
+    <para>After you give your project a name, the <guilabel>Create New Project</guilabel> dialog
+    will open. At the top of that dialog, select your source file's language
+    and the language that your translated file will be, and click
+    <guibutton>OK</guibutton> to continue.</para>
 
     <para>如果对该对话框中的其他设置有兴趣，您可在任何时候按下<keycap>Ctrl+E</keycap>来将其打开。</para>
 
-    <para>接着，<guilabel>项目文件</guilabel>对话框出现。点击<guibutton>导入源文件...</guibutton>按钮选择源文件。OmegaT跟着会复制选择的文件到新建项目的<filename>/source/</filename>子文件夹。当<guilabel>编辑器</guilabel>窗格中加载了源文件后，您可以关闭<guilabel>项目文件</guilabel>对话框。</para>
+    <para>Next, the <guilabel>Project Files</guilabel> dialog opens. Click on <guibutton>Copy Files to Source Folder...</guibutton> to select your source files. OmegaT will then copy the selected
+    files to the <filename>/source/</filename> subfolder of your newly created
+    project. After the source files have loaded in the <guilabel>Editor</guilabel> pane, you can
+    close the <guilabel>Project Files</guilabel> dialog.</para>
   </section>
 
   <section id="translate.the.segments.one.by.one">
     <title>翻译文件</title>
 
-    <para>OmegaT每次呈现一个片段供您翻译。翻译一个片段后，按下<keycap>Ctrl+U</keycap>将前往下一个未译片段（或使用<keycap>Ctrl+Shift+U</keycap>前往下一个已译片段）。当您想看看译文的最终格式时，按下<keycap>Ctrl+D</keycap>会生成已译文档，它们在项目文件夹中的<filename>/target/</filename>子文件夹。在翻译过程中使用<guimenu>编辑</guimenu>和<guimenu>前往</guimenu>菜单可以执行多种有用的功能。</para>
+    <para>OmegaT will present one segment at a time for you to translate.
+    After you have translated each segment, press <keycap>Ctrl+U</keycap> to
+    move to the next untranslated segment (or <keycap>Ctrl+Shift+U</keycap> to
+    move to the next translated segment). Whenever you want to see what your
+    translation will look like in its final format, press
+    <keycap>Ctrl+D</keycap> to generate the translated documents, which will be
+    created in the <filename>/target/</filename> subfolder of your project folder. During
+    translation, use the <guimenu>Edit</guimenu> and <guimenu>Go To</guimenu>
+    menus to perform various useful functions.</para>
   </section>
 
   <section>
     <title>检验标签</title>
 
-    <para>如果源文件是格式化文件，如Microsoft Word、LibreOffice Writer或HTML，OmegaT会把待译文本周围的格式转换为标签。经常文档都会含有无需处理的格式标签，但它们对源文件（和已译文件）也很重要。源语言也许类似这样：<mediaobject>
+    <para>If your source files are formatted files, e.g. Microsoft Word,
+    LibreOffice Writer or HTML, OmegaT will convert the formatting into tags
+    that surround the text that you translate. Often documents will also have
+    tags that have nothing to do with formatting, but which are also
+    important in the source files (and in the translated files). A source
+    sentence might look like:
+    
+    <mediaobject>
       <imageobject role="html">
         <imagedata align="justify" fileref="images/InstantGuide_1.png"/>
       </imageobject>
@@ -52,7 +78,12 @@
     </mediaobject>
     </para>
     
-    <para>OmegaT中的标记为灰色，因此很容易识别。这些标签受到保护，这样您无法修改它们的内容，可以删除、手动输入或移动它们在目标语句中的位置。无论如何当您输入了错误的格式标签，那么已译文件可能无法打开。因此，在生成已译文件前请按下<keycap>Ctrl+Shift+V</keycap>以检验标签是否正确。</para>
+    <para>The tags in OmegaT are greyed, so they are easy to recognise. They
+    are protected, so that you cannot modify their contents, but you can delete them, enter them by hand or move
+    them around in the target sentence. However, if you made mistakes when you
+    typed the formatting tags, your translated files might fail to open.
+    Therefore, press <keycap>Ctrl+Shift+V</keycap> before you generate your
+    translated files, to validate that your tags are correct.</para>
   </section>
 
   <section>
@@ -66,7 +97,8 @@
 
     <itemizedlist>
       <listitem>
-        <para>如果某个文件无法加载到<guilabel>编辑器</guilabel>窗格，那么该文件可能是OmegaT无法处理的格式。请参阅<link linkend="chapter.file.filters">文件过滤器</link>了解OmegaT能处理的文件格式列表。</para>
+        <para>If a file does not load into the <guilabel>Editor</guilabel> pane, then it could be that it is in a format that doesn't work in OmegaT. See
+        <link linkend="chapter.file.filters">File Filters</link> for a list of file formats that OmegaT can handle.</para>
       </listitem>
     </itemizedlist>
 
@@ -78,13 +110,23 @@
 
     <itemizedlist>
       <listitem>
-        <para>为了记住项目的初始设置，按下<keycap>Ctrl+E</keycap>打开项目属性对话框。. 要查看项目中文件列表，请按下<keycap>Ctrl+L</keycap>打开<guilabel>项目文件</guilabel>对话框。</para>
+        <para>To remind yourself of the project's initial settings, open the
+        project properties dialog by pressing <keycap>Ctrl+E</keycap>. To see a
+        list of files in the project, open the <guilabel>Project Files</guilabel> dialog by
+        pressing <keycap>Ctrl+L</keycap>.</para>
       </listitem>
     </itemizedlist>
 
     <itemizedlist>
       <listitem>
-        <para>在翻译结束后，OmegaT会导出名称分别为<filename>level1</filename>、<filename>level2</filename>和<filename>omegat</filename>的三种翻译记忆文件到项目文件夹。<filename>level1</filename>和<filename>level2</filename>翻译记忆可以共享给使用其他翻译工具的用户。名称为<filename>omegat</filename>的翻译记忆可被OmegaT自身用于将来创建的项目。如果您把这种翻译记忆文件放在项目的<filename>/tm/</filename>子文件夹，则OmegaT会自动在其中搜索类似的片段（被称为“模糊匹配”）。</para>
+        <para>At the end of your translation, OmegaT exports three translation
+        memories called <filename>level1</filename>, <filename>level2</filename> and <filename>omegat</filename> to your project
+        folder. The <filename>level1</filename> and <filename>level2</filename> memories can be shared with users of
+        other translation programs. The memory named <filename>omegat</filename> can be used by
+        OmegaT itself, in future projects that you create. If you place such
+        translation memory files in the <filename>/tm/</filename> subfolder of a project,
+        OmegaT will automatically search them for similar segments, called
+        &quot;fuzzy matches&quot;.</para>
       </listitem>
     </itemizedlist>
 
@@ -102,7 +144,10 @@
 
     <itemizedlist>
       <listitem>
-        <para>更全面的介绍请参阅Omegat网站上的<ulink url="https://omegat.org/files/OmegaT_for_Beginners.pdf">OmegaT初学者入门</ulink>。如果您需要关于OmegaT某些方面的帮助，可随时加入<ulink url="https://groups.yahoo.com/neo/groups/OmegaT/info">OmegaT用户组</ulink>。</para>
+        <para>For a more comprehensive introduction see <ulink url="https://omegat.org/files/OmegaT_for_Beginners.pdf">OmegaT
+        for beginners</ulink> on the OmegaT web site. If you need assistance
+        with any aspect of OmegaT, feel free to join the <ulink url="https://groups.yahoo.com/neo/groups/OmegaT/info">OmegaT users
+        group.</ulink></para>
       </listitem>
     </itemizedlist>
   </section>

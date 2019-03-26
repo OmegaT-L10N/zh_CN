@@ -10,9 +10,18 @@
         <primary>机器翻译</primary> <secondary>介绍</secondary>
       </indexterm></title>
 
-    <para>与用户生成的翻译记忆（就像 <application>OmegaT</application>）相对的是机器翻译 (MT) 工具，它使用基于规则的语言学工具而不是翻译记忆来创建源片段的翻译。使用根据源和目标文本的统计学习技术来构建翻译模型。机器翻译服务已经在研究评估中实现了较好且稳定的结果改善。</para>
+    <para>As opposed to user-generated translation memories (as in the case of
+    <application>OmegaT</application>) Machine translation (MT) tools use
+    rule-based linguistic tools to create a translation of the source segment
+    without the need for a translation memory. Statistical learning
+    techniques, based on source and target texts, are used to build a
+    translation model. Machine translation services have been achieving good
+    and steadfastly improving results in research evaluations.</para>
 
-    <para>要激活某种机器翻译服务，请前往<guimenuitem>选项&gt;机器翻译...</guimenuitem>，然后激活需要的服务。需要注意的是它们都是基于网络：您必须在线才能使用它们。</para>
+    <para>To activate any of the Machine Translation services, go to
+    <guimenuitem>Options &gt; Machine Translate ...</guimenuitem> and activate
+    the service desired. Note that they are all web-based: you will have to be
+    on-line if you want to use them.</para>
   </section>
 
   <section id="introduction">
@@ -20,17 +29,38 @@
         <primary>机器翻译</primary> <secondary>谷歌翻译</secondary>
       </indexterm></title>
 
-    <para>谷歌翻译是由谷歌提供的付费服务，可用于翻译句子，网站和日益增多的语言的竞争文本。在编写此文档时，其支持的语言超过50多种，从阿尔巴尼亚语到意第绪语，其中当然包括所有主要语言。该服务的当前版本根据使用付费的，在编写此文档时每百万字符 20美元 的价格。<emphasis role="bold"/></para>
+    <para>Google Translate is a payable service offered by Google, for
+    translating sentences, web sites and complete texts between an
+    ever-growing number of languages. At the time of writing the list includes
+    more than 50 languages, from Albanian to Yiddish, including of course all
+    the major languages. The current version of the service is based on usage,
+    with the price of 20 USD per million characters at the time of writing.
+    <emphasis role="bold"/></para>
 
-    <para><emphasis role="bold">重要提示：</emphasis>在您使用谷歌翻译 API v2 的服务前需要所有客户的账单信息（请参阅<ulink url="https://developers.google.com/translate/v2/pricing?hl=en-US">价格和服务条款</ulink>了解更多信息）。为了向谷歌服务表明您是合法用户，您需要使用在注册服务后谷歌发给您的唯一的API Key。请参阅<link linkend="chapter.installing.and.running">安装和运行</link>章节的运行命令参数部分，了解如何添加该API Key到 OmegaT 环境中的详细情况。</para>
+    <para><emphasis role="bold">Important: </emphasis>Google Translate API v2
+    requires billing information for all accounts before you can start using
+    the service (see <ulink url="https://developers.google.com/translate/v2/pricing?hl=en-US">Pricing
+    and Terms of Service</ulink> for more). To identify yourself as a valid
+    user for the Google services, you use your private unique key sent to you
+    by Google, when you have registered for the service. See chapter <link linkend="chapter.installing.and.running">Installing and Running</link>,
+    section Launch command arguments, for details on how to add this key to
+    the OmegaT environment.</para>
 
-    <para>谷歌翻译的质量当然一方面取决于目标语言文本和双语版本的可用性，另一方面取决于所创建模型的质量。有一点可以肯定，在某些情况下，其质量肯定不够好。但翻译质量肯定会在不断提高。</para>
+    <para>The quality of the Google Translate translation depends on one side
+    on the reservoir of target-language texts and the availability of their
+    bilingual versions, on the other hand on the quality of the models built.
+    It is pretty much certain that while the quality may be insufficient in
+    some cases, it will definitely get better with time and not worse.</para>
   </section>
 
   <section>
     <title><application>OmegaT</application> 用户和谷歌翻译</title>
 
-    <para><application>OmegaT</application> 并不强迫用户使用谷歌翻译。如果用了，既不表示用户要接受该译文，更不表示最终译文会提供给谷歌。下面的窗口展示了一个 a) 英文原文 b) 西班牙语 和 c) 斯洛文尼亚语 的谷歌翻译译文。</para>
+    <para>The <application>OmegaT</application> user is not forced to use
+    Google Translate. If used, neither the user's decision to accept the
+    translation nor the final translation are made available to Google. The
+    following window shows an example of a) the English source b) Spanish and
+    c) Slovenian Google Translate translation.</para>
 
     <figure id="moby.dick">
       <title>谷歌翻译 - 示例</title>
@@ -46,15 +76,36 @@
       </mediaobject>
     </figure>
 
-    <para>西班牙语译文要好于斯洛文尼亚语的。注意西班牙语中的 <emphasis>interesar</emphasis> 和 <emphasis> navegar</emphasis> 被正确地翻译成动词 &quot;interest&quot; 和 &quot;sail&quot;。在斯洛文尼亚语版本中，两个词都被译成了名词。很可能西班牙语的翻译至少部分基于实际的书籍译文。</para>
+    <para>The Spanish translation is better than the Slovenian. Note
+    <emphasis>interesar</emphasis> and<emphasis> navegar</emphasis> in
+    Spanish, are correctly translated as the verbs interest and sail
+    respectively. In the Slovenian version both words have been translated as
+    nouns. It is actually quite probable that the Spanish translation is based
+    at least partially on the actual translation of the book.</para>
 
-    <para>当您激活了该服务后，每次打开新的源片段时，其对应的翻译建议将会出现在机器翻译窗格中。如果发现了可接受的建议，按下<keycombo> <keycap><indexterm class="singular">
+    <para>Once you have activated the service, a suggestion for the
+    translation will appear in the Machine Translate pane every time a new
+    source segment is opened. If you find the suggestion acceptable, press
+    <keycombo>
+        <keycap><indexterm class="singular">
             <primary>快捷键</primary> <secondary>机器翻译——Ctrl+M</secondary>
-          </indexterm>Ctrl</keycap> <keycap>M</keycap> </keycombo> 可使用它替换已打开片段的目标部分。例如在上面的片段中，使用 <keycombo> <keycap>Ctrl</keycap> <keycap>M</keycap> </keycombo> 将会用斯洛文尼亚语的建议版本覆盖西班牙语的版本。</para>
+          </indexterm>Ctrl</keycap>
+
+        <keycap>M</keycap>
+      </keycombo> to replace the target part of the opened segment with the
+    suggestion. In the above segment, for instance, <keycombo>
+        <keycap>Ctrl</keycap>
+
+        <keycap>M</keycap>
+      </keycombo> would replace the Spanish version with the Slovenian
+    suggestion.</para>
 
     <para>如果不希望 <application>OmegaT</application> 把源片段发送至谷歌获取译文，请取消选项菜单中的谷歌翻译菜单项。</para>
 
-    <para>提示：除了源片段外，其他任何内容不会发送至机器翻译服务。谷歌翻译的在线版本允许用户纠正翻译建议和发送正确的片段。然而此功能在 OmegaT 中尚未实现。</para>
+    <para>Note that nothing but your source segment is sent to the MT service.
+    The online version of Google Translate allows the user to correct the
+    suggestion and send the corrected segment in. This feature, however, is
+    not implemented in OmegaT.</para>
   </section>
 
   <section>
@@ -70,7 +121,12 @@
         <primary>机器翻译</primary> <secondary>Apertium</secondary>
       </indexterm></title>
 
-    <para><ulink url="http://www.apertium.org/">Apertium</ulink> 是自由、开源的机器翻译平台，最初致力于相关的语言对，例如 CA、ES、GA、PT、OC 以及 FR，不过最近扩展为能够处理更多的其他语言对（例如英语-加泰罗尼亚语）。请参阅网站了解已实现语言对的最新列表。</para>
+    <para><ulink url="http://www.apertium.org/">Apertium</ulink> is a
+    free/open-source machine translation platform, initially aimed at
+    related-language pairs, like CA, ES, GA, PT, OC and FR but recently
+    expanded to deal with more divergent language pairs (such as
+    English-Catalan). Check the web site for the latest list of implemented
+    language pairs.</para>
 
     <para>该平台提供</para>
 
@@ -98,7 +154,9 @@
         <primary>机器翻译</primary> <secondary>MyMemory</secondary>
       </indexterm></title>
 
-    <para>默然情况下，MyMemory每天最多允许发生100条请求。电子邮箱经认证后，每天可发送1000条请求。</para>
+    <para>By default, MyMemory allows a maximum of 100 requests per day. By
+    specifying an email address, it is possible to use 1000 requests per day
+    instead of 100 ones.</para>
 
     <para>邮箱认证方式至少有以下三种</para>
 
@@ -124,9 +182,15 @@
         </listitem>
       </itemizedlist></para>
 
-    <para>MyMemory也提供<emphasis role="bold">人工翻译</emphasis> ，翻译记忆来自专业译员、语言服务供应商、客户以及多语种网站内容。未获得以上来源的翻译记忆，您应将您的源文件上传至 <ulink url="http://mymemory.translated.net/">他们的网站</ulink>，以获得网站生成的TMX文件。随后，您须将TMX文件放入到您OmegaT项目相应的/tm/或/tm/auto/文件夹中。</para>
+    <para>MyMemory provides also <emphasis role="bold">Human
+    translations</emphasis> originating from professional translators, LSPs,
+    customers and multilingual web content. To get these translations, you
+    must upload your source file <ulink url="http://mymemory.translated.net/">on their site</ulink> that generates
+    a TMX file. Then you must put this TMX file in the /tm/ or /tm/auto/
+    folder of your OmegaT project.</para>
 
-    <para>MyMemory 也提供 <emphasis role="bold">私人翻译记忆</emphasis>管理功能。. 提示： OmegaT不能动态与翻译记忆文件关联（您必须手动导入/导出TMX文件）。</para>
+    <para>MyMemory offers also the possibility to manage <emphasis role="bold">private TMs</emphasis>. Note: OmegaT does not interact
+    dynamically with them (you must export/import TMX files manually).</para>
   </section>
 
   <section>
@@ -170,7 +234,10 @@
 
     <para>若需使用OmegaT中的Yandex Translate，您需 <ulink url="http://api.yandex.com/key/form.xml?service=trnsl ">从Yandex获得API Key</ulink>。</para>
 
-    <para>获得的API Key需启动时通过 <code>yandex.api.key</code> 命令行参数传入在OmegaT。为完成上述步骤，需编辑OmegaT启动器或了解如何通过命令行启动OmegaT，见<link linkend="chapter.installing.and.running">安装和运行</link>。</para>
+    <para>The obtained API key needs to be passed to OmegaT at startup through
+    <code>yandex.api.key</code> command-line parameter. To do that edit OmegaT
+    launcher or see chapter <link linkend="chapter.installing.and.running">Installing and Running</link> to
+    learn how to start OmegaT from the command line.</para>
   </section>
 
   <section id="Google.Translate.troubleshooting">
@@ -182,29 +249,41 @@
 
     <itemizedlist>
       <listitem>
-        <para>是否在线？必须处于在线状态才能使用机器翻译。</para>
+        <para>Are you online? You need to be online to be able to use an MT
+        tool.</para>
       </listitem>
     </itemizedlist>
 
     <itemizedlist>
       <listitem>
-        <para>进行翻译的语言对是什么？检查选择的服务是否支持。</para>
+        <para>What is the language pair you need? Check if the selected
+        service offers it.</para>
       </listitem>
 
       <listitem>
-        <para>谷歌翻译无法工作：您申请了<ulink url="https://developers.google.com/translate/v2/faq">翻译API服务</ulink>吗？注意：谷歌翻译服务需要付费，请参阅<link linkend="chapter.installing.and.running">安装和运行</link>章节（运行时参数）了解更多相关信息。</para>
+        <para>Google Translate does not work: have you applied <ulink url="https://developers.google.com/translate/v2/faq">Translate API
+        service</ulink>? Note that Google Translate service is not free of
+        charge, see chapter <link linkend="chapter.installing.and.running">Installing and Running</link>
+        (runtime parameters) for more on that.</para>
       </listitem>
 
       <listitem>
-        <para>&quot;Google Translate returned HTTP response code: 403 ...&quot;：请检查 38 个字符的API Key，输入到 pinfo.list 文件时是否正确。请检查是否激活<ulink url="https://developers.google.com/translate/v2/faq">翻译 API 服务</ulink>。</para>
+        <para>&quot;Google Translate returned HTTP response code: 403 ...&quot;: check
+        that the 38-characters key, entered in the pinfo.list file, is
+        correct. Check that <ulink url="https://developers.google.com/translate/v2/faq">Translate API
+        service </ulink>has been activated.</para>
       </listitem>
 
       <listitem>
-        <para>谷歌翻译无法工作：请在请求时输入谷歌API Key。检查选项&gt;机器翻译中的谷歌翻译V2是否选中。</para>
+        <para>Google Translate does not work: - with the Google API key
+        entered as requested. Check in Options &gt; Machine Translate, that
+        Google Translate V2 is checked.</para>
       </listitem>
 
       <listitem>
-        <para>翻译 V2报告“Bad request”——请检查项目的源和目标语言。包含未定义的语言会引起此类响应。</para>
+        <para>Google Translate V2 reports &quot;Bad request&quot; - check the source and
+        target languages for your project. Having no languages defined elicits
+        this kind or a response.</para>
       </listitem>
     </itemizedlist>
   </section>

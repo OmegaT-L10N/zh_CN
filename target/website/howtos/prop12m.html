@@ -7,25 +7,25 @@
 
 <h3>传播</h3>
 
-<p>默认情况下，OmegaT使用自动匹配传播。这意味着只要翻译了一个片段，相同的翻译就会自动插入到所有相同的语段中。如果一个已译片段在下文更改了译法，则较早的片段将与最新修改的片段保持一致。OmegaT将多次出现的片段描述为“非唯一片段“。</p>
+<p>By default, OmegaT uses automatic match propagation. This means that as soon as a segment is translated, the same translation is automatically inserted into all identical segments. If a segment has already been translated and an identical segment later on in the text is then changed, the earlier segment will be brought into line with the changed segment. Segments which occur more than once are described in OmegaT as "non-unique segments".</p>
 
-<p>选择 视图 &gt; 标记 非唯一片段 将导致只显示非唯一片段的第一个实例显示为黑色，并且第二个和后续实例显示为灰色. 这个功能很实用，翻译校对时只需要检查相同段的第一个实例。. 因此用户很快就可以看到灰色而非黑色的语段已经检查完毕。 （如果选项&gt;浏览&gt;“标记非唯一片段时包含第一个非唯一片段”被选中，所有非唯一片段包括第一个非唯一片段将均按此方式标记）</p>
+<p>Selecting View &gt; Mark Non-Unique Segments causes only the first instance of a non-unique segment to be displayed in black, and second and subsequent instances to be displayed in grey. This is useful when a translation is being checked, since only the first instance of identical segments may need to be checked. The user can therefore see immediately that a segment in grey, rather than black, has already been checked. (If Options &gt; View &gt; "Include the first non-unique segment when marking non-unique segments" is selected, all non-unique segments including the first are marked in this way.)</p>
 
-<p>你可以通过项目&gt;属性&gt;取消勾选“翻译自动传输”选框，停用自动传输功能。该操作可以为所有非唯一片段实例制作可选翻译（见下方“一对多匹配”）。</p>
+<p>You can disable the auto-propagation function with Project &gt; Properties &gt; uncheck the "Auto-propagation of Translations" box. This has the effect of making all instances of non-unique segments alternative translations (see "One-to-many matching" below).</p>
 
 <h3>一对多匹配</h3>
 
-<p>大多数情况下，译员希望将一个项目里的相同片段以同样方式翻译。对于两处或更多相同片段需要不同译文的情况，OmegaT提供“一对多匹配”功能。</p>
+<p>In most cases, the translator will wish to translate identical segments within a project in the same way. For cases where two or more identical segments require different translations, OmegaT offers "one-to-many matching".</p>
 
-<p>OmegaT的一对多匹配功能首先默认相同片段应以同样方式翻译。这种译文被称为“默认翻译”。要产生不同于“默认译文”的翻译，在片段中右击鼠标，选择“创建可选翻译”。现在，这一片段可以按期望的方式翻译，且其他相同的实例不会自动变更成与它一致的译文。</p>
+<p>OmegaT's one-to-many matching function first assumes that identical segments are to be translated in the same way. This translation is described as the "default translation". To produce a translation that is different from the "default translation", right-click with the mouse within the segment and select "Create Alternative Translation". This segment can be now translated as desired without other instances of it automatically being made identical to it.</p>
 
 <p>你可以为相同片段设置多种“可选翻译”，但只能有一种默认翻译（或完全没有）。</p>
 
-<p>若要将一种可选翻译设置成默认翻译，鼠标右击译文，选择“用做默认翻译”。这将使当下译文成为“默认翻译”。. 使用之前“默认翻译”的相同片段的其他所有实例，现在都与当下译文保持一直。</p>
+<p>To make an alternative translation the default translation, right-click with the mouse and select "Use as Default Translation". This will make the current translation the default translation. All other instances of the same segment that were previously the "default translation" will now be brought into line with this translation.</p>
 
 <p>如果你已经翻译过一例非唯一片段，并且希望为这非唯一片段制作一种不同的默认翻译，同时还不想改变已经翻译过的实例的译文，你必须先用“创建可选翻译”将已翻译片段设定为“可选翻译”状态，</p>
 
-<p>要撤销一个片段的“可选翻译”状态，并使其与“默认翻译”保持一致，仅需删除掉这一片段的内容即可。该操作同时还有删除“可选翻译”状态的效果；因此该片段的译文又变回了默认翻译。可以通过使用键盘快捷键Ctrl+A &gt; Ctrl+X &gt; Enter，或鼠标右击片段，选择移除翻译菜单选项，再或重复使用删除键，均可实现完全删除一条片段的内容</p>
+<p>To remove the "alternative translation" status of a single segment and bring it back into line with the "default translation", simply delete the content of the segment. This has the effect of deleting the "alternative translation" status at the same time; the translation of the segment will therefore revert to that of the default translation. The content of a segment can be deleted completely either by means of the keyboard shortcuts Ctrl+A &gt; Ctrl+X &gt; Enter, by right-clicking with the mouse and the Remove Translation menu item, or simply by using the delete key (repeatedly).</p>
 
 
 <h3>传输摘要与一对多匹配指令</h3>
@@ -34,7 +34,7 @@
 
 <p><b>标记非唯一片段</b>：相同片段都用灰色标记（改变显示，而非行为）。</p>
 
-<p><b>创建可选译文</b>：让片段变得独特。当前片段的改动或“默认翻译”的改变，对其他片段均无影响，</p>
+<p><b>Create Alternative Translation</b>: makes the segment unique. Changes to this segment have no effect upon other segments, nor do changes to the "default translation" affect it.</p>
 
 <p><b>撤销翻译</b>删掉片段内容，（当按下Enter键后）会插入默认翻译。</p>
 
@@ -44,11 +44,11 @@
 
 <h3>指向说明</h3>
 
-<p>对于一些文件类型，OmegaT通过参考他们的前后片段来区别相同片段。相同片段通过创建“可选翻译”而得到不同的前/后片段。有些情况，两个片段也会拥有相同的前后片段，（例如，当一整页内容在一篇文章中出现两次），在OmegaT中这两页无法被译成不同的版本，即无法为其中一页设置“可选译文”。</p>
+<p>For some file types, OmegaT differentiates between identical segments by referring to their preceding and following segments. Creating an "alternative translation" therefore relies upon identical segments having different preceding or following segments. Where two segments also have identical preceding and following segments (for example when an entire page appears twice in the text), they cannot be translated differently from each other in OmegaT, i.e. it is not possible to make one of them an "alternative translation".</p>
 
-<p>“非唯一片段”包含默认和可选翻译因此，（用灰色字体）标记为非独特的片段，无论可选翻译是否被创建均被标记为非唯一片段。</p>
+<p>"Non-unique segment" covers both default and alternative translations. Consequently, segments that are marked (with the grey font) as being non-unique are marked as non-unique irrespective of whether alternative translations have been created or not.</p>
 
-<p>默认地，前往下一未翻译片段指令（Ctrl+U）跳转到下一条未翻译的片段，过程中跳过已传输的翻译。如果选项&gt;编辑行为&gt;“当至少有一种可选翻译时前往下一未翻译片段”被选中，并且一个非唯一片段至少创建了一种可选翻译，该功能将该片段的所有实例（不管是默认翻译还是可选翻译）视为未翻译，即不会跳过这些片段。</p>
+<p>By default, the Go To Next Untranslated Segment command (Ctrl+U) skips to the next untranslated segment, skipping propagated translations in the process. If Options &gt; Editing Behaviour &gt; "Go To Next Untranslated Segment stops when there is at least one alternative translation" is selected however and at least one alternative translation of a non-unique segment has been created, this function treats all instances of that segment (whether default or alternative translations) as untranslated, i.e. does not skip them.</p>
 
 
 <p>版权归属于Marc Prior 2014</p>

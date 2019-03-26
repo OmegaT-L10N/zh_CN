@@ -7,7 +7,14 @@
       <primary>源文件</primary> <secondary>格式化文本</secondary>
     </indexterm></title>
 
-  <para>在源文件中表示的格式化信息通常需要在目标文中重新创建。在OmegaT中，由所支持格式（尤其是在写入DocBook、HTML、XHTML、开放文档格式（ODF）和 Office 开放 XML（MS Office 2007及更高版本）的时候）产生的内部格式化信息以标签的形式出现。一般情况下，为匹配目的而比较不同文本的相似性时将忽略标签。在已译片段中重新创建的标签将会出现在译后文档中。</para>
+  <para>Formatting information present in the source file usually needs to be
+  reproduced in the target file. The in-line formatting information made
+  possible by the supported formats (in particular DocBook, HTML, XHTML, Open
+  Document Format(ODF) and Office Open XML (MS Office 2007 and later) at the
+  time of writing) is presented as tags in OmegaT. Normally tags are ignored
+  when considering the similarity between different texts for matching
+  purposes. Tags reproduced in the translated segment will be present in the
+  translated document.</para>
 
   <section id="formatting.tags">
     <title>格式化标签<indexterm class="singular">
@@ -18,27 +25,49 @@
         <primary>标记</primary> <secondary>命名</secondary>
       </indexterm><emphasis role="bold">标签的命名：</emphasis></para>
 
-    <para>标签由一到三个字符和一个数字组成。唯一的编号允许我们将彼此相对应的标签组织在一起，不同的标签允许有相同的快捷字符，但实际上并不一样。使用的快捷字符尝试反映标签所代表的格式含义（例如 b 表示粗体，i 表示斜体）。</para>
+    <para>The tags consist of one to three characters and a number. Unique
+    numbering allows tags, corresponding to each other to be grouped together
+    and differentiates between tags, that have the same shortcut character,
+    but are in fact different. The shortcut characters used try to reflect the
+    underlying meaning of the tag (e.g. b for bold, i for italics,
+    etc.)</para>
 
     <para><indexterm class="singular">
         <primary>标签</primary> <secondary>编号</secondary>
       </indexterm><emphasis role="bold">标签的编号：</emphasis></para>
 
-    <para>标签以标签组自增长方式进行编号。在这里“标签组”是单个标签（例如 &lt;i0&gt; 和 &lt;/i0&gt;）。在片段中，第一个组（成对或单个的）获得编号 0，第二个编号为 1，以此类推。下面的第一个例子中有3个标签组（一组成对的，一组单个，另一组成对的），第二个例子中只有一组（成对的）。</para>
+    <para>Tags are numbered incrementally by tag group. &quot;Tag groups&quot; in this
+    context are a single tag (such as &lt;i0&gt; and &lt;/i0&gt;). Within a
+    segment, the first group (pair or single) receives the number 0, the
+    second the number 1 etc. The first example below has 3 tag groups (a pair,
+    a single, and then another pair), the second example has one group only (a
+    pair).</para>
 
     <para><indexterm class="singular">
         <primary>标签</primary> <secondary>成对的和单个的</secondary>
       </indexterm><emphasis role="bold">成对的和单个的：</emphasis></para>
 
-    <para>标签不是单个的就是成对的。单个标签指的是对周边文本没有影响的格式化信息（例如：额外的空格或者行终止）。</para>
+    <para>Tags are always either singles or paired. Single tags indicate
+    formatting information that does not affect the surrounding text (an extra
+    space or line break for example).</para>
 
-    <para><literal>&lt;b0&gt;&lt;Ctr+N&gt;&lt;/b0&gt;, &lt;br1&gt;&lt;b2&gt;&lt;Enter&gt;&lt;/b2&gt;&lt;片段 2132&gt;</literal></para>
+    <para><literal>&lt;b0&gt;&lt;Ctr+N&gt;&lt;/b0&gt;,
+    &lt;br1&gt;&lt;b2&gt;&lt;Enter&gt;&lt;/b2&gt;&lt;segment 2132&gt;
+    </literal></para>
 
-    <para>&lt;br1&gt;是单个标签，对周围的文本不产生任何影响。成对标签通常指对开标签和闭标签之间的文本使用格式信息的标签对。下面的 &lt;b0&gt; 和 &lt;/b0&gt; 是成对的且影响文本 log.txt。请注意开标签总是出现在闭标签的前面：</para>
+    <para>&lt;br1&gt; is a single tag and does not affect any surrounding
+    text. Paired tags usually indicate style information that applies to the
+    text between the opening tag and the closing tag of a pair. &lt;b0&gt; and
+    &lt;/b0&gt; below are paired and affect the text log.txt. Note that the
+    opening tag must always come before the corresponding closing tag:</para>
 
     <para>&lt;<literal>记录文件(&lt;b0&gt;log.txt&lt;/b0&gt;) for tracking operations and errors.&lt;片段 3167&gt;</literal></para>
 
-    <para><application>OmegaT</application> 在分割句子之前就进行标签创建工作。根据分割规则，标签对可能会被分成两部分并出现在两个连续的片段，而标签检验会检查到这两处的部分标签并提示这两个片段出现错误。</para>
+    <para><application>OmegaT</application> creates its tags before the
+    process of sentence segmenting. Depending upon the segmenting rules, the
+    pair of tags may get separated into two consecutive segments and the tag
+    validation will err on the side of caution and mark the two
+    segments.</para>
   </section>
 
   <section id="tag.operations">
@@ -46,13 +75,20 @@
         <primary>标签</primary> <secondary>操作</secondary>
       </indexterm></title>
 
-    <para>对于标签的操作必须谨慎。如果它们被意外地改变，最终的文件格式也许会被破坏。基本的做法是标签序列必须保持相同的顺序。然而，在可能的情况下，如果必须严格遵循某些规则，则不必拘泥于这个基本做法。</para>
+    <para>Care must be exercised with tags. If they are accidentally changed,
+    the formatting of the final file may be corrupted. The basic rule is that
+    the sequence of tags must be preserved in the same order. However, it is
+    possible, if certain rules are strictly followed, to deviate from this
+    basic rule.</para>
 
     <para><emphasis role="bold"><indexterm class="singular">
         <primary>标签</primary> <secondary>复制</secondary>
       </indexterm>标签的复制：</emphasis></para>
 
-    <para>要复制标签组，只需将它们复制到您选择的位置。但请记住：成对的标签组中，开标签必须出现在闭标签之前。您复制的标签组所代表的格式将会应用到原标签和复制标签的两个部分。</para>
+    <para>To duplicate tag groups, just copy them in the position of your
+    choice. Keep in mind that in a pair group, the opening tag must come
+    before the closing tag. The formatting represented by the group you have
+    duplicated will be applied to both sections.</para>
 
     <para>例如：</para>
 
@@ -66,7 +102,12 @@
         <primary>标签</primary> <secondary>组删除</secondary>
       </indexterm>标签组删除：</emphasis></para>
 
-    <para>要删除标签组，仅需将它们从片段中移除。请记住：必须同时删去一个标签组的开标签和闭标签，以确保它们所进行的格式化操作被完全清除，否则译后文件可能遭破坏而无法打开。删除一个标签组的同时，您将会从已译文件中删除相关的格式。</para>
+    <para>To delete tag groups, just remove them from the segment. Keep in
+    mind that a pair group must have both its opening and its closing tag
+    deleted to ensure that all traces of the formatting are properly erased,
+    otherwise the translated file may become corrupted. By deleting a tag
+    group you will remove the related formatting from the translated
+    file.</para>
 
     <para>例如：</para>
 
@@ -82,7 +123,12 @@
         <primary>标签</primary> <secondary>组嵌套</secondary>
       </indexterm></title>
 
-    <para>对标签组的顺序进行修改也许会导致一个标签组嵌套在另一个标签组中。当封闭的组完全将另一个封闭组封装在里面时，这是可行的。换句话说，在移动成对标签时请确保开标签和闭标签同时被移动到其他标签对的内部或外部，否则译后文件可能遭破坏而无法打开。</para>
+    <para>Modifying tag group order may result in the nesting of a tag group
+    within another tag group. This is acceptable, provided the enclosing group
+    totally encloses the enclosed group. In other words, when moving paired
+    tags, ensure that both the opening and the closing tag are both either
+    inside or outside other tag pairs, or the translated file may be corrupted
+    and fail to open.</para>
 
     <para>例如：</para>
 
@@ -126,7 +172,10 @@
       <listitem>
         <para><emphasis role="bold">Printf变量——不检查、简单检查、全检查</emphasis></para>
 
-        <para>OmegaT可以检查源文本中的程序变量如（%s）在译文中是否存在。您可以决定是否检查、检查简单的printf变量（如%s %d等）或检查所有类型的printf变量。</para>
+        <para>OmegaT can check that programming variables (like %s for
+        instance) in the source exist in the translation. You can decide not
+        to check at all, check for simple printf variables (like %s %d etc) or
+        for print variables of all types.</para>
       </listitem>
     </itemizedlist>
 
@@ -142,7 +191,10 @@
       <listitem>
         <para><emphasis role="bold">自定义标签正则表达式：</emphasis></para>
 
-        <para>此处输入的正则表达式会让OmegaT把它的匹配实例视为客户标签。它会检查标签的编号和顺序是否一致，就如同检查omegat标签一样。</para>
+        <para>A regular expression entered here will cause OmegaT treat the
+        detected instances as customer tags. It checks that the number of tags
+        and their order is identical, just like it is the case for
+        omegat-tags.</para>
       </listitem>
     </itemizedlist>
 
@@ -150,7 +202,12 @@
       <listitem>
         <para><emphasis role="bold">应从译文中移除的碎片正则表达式</emphasis></para>
 
-        <para>可以输入表示希望在目标删除的内容的正则表达式。之后在目标片段中的任何匹配将显示为红色，这样就很容易发现和纠正。寻找模糊匹配时，会忽略移除模式。. 如果被移除的部分与其它片段不匹配，罚分为五分，因此匹配不为100%。</para>
+        <para>One can enter a regular expression for unwanted contents in the
+        target. Any matches in the target segment will then be painted red,
+        i.e. easy to identify and correct. When looking for fuzzy matches, the
+        remove pattern is ignored. A fixed penalty of 5 is added if the
+        removed part does not match some other segment, so the match does not
+        show up as 100%.</para>
       </listitem>
     </itemizedlist>
   </section>
@@ -160,9 +217,17 @@
         <primary>标签</primary> <secondary>组检验</secondary>
       </indexterm></title>
 
-    <para>验证标签功能检测发生变化的标签序列（无论是有意的还是无意的），并显示受影响的片段。启动这一功能 – <guimenuitem>Ctrl+Shift+V<indexterm class="singular">
+    <para>The validate tags function detects changes to tag sequences (whether
+    deliberate or accidental), and shows the affected segments. Launching this
+    function – <guimenuitem>Ctrl+Shift+V<indexterm class="singular">
         <primary>快捷键</primary> <secondary>标签验证——Ctrl+T</secondary>
-      </indexterm></guimenuitem> -打开包含文件所有片段的窗口，这些片段中包括翻译中碎片标签或者坏的标签. 通过标签检验功能可以轻松地修正标签和重新创建目标文档。按住 <guimenuitem>Ctrl+Shift+V</guimenuitem>后，窗口将打开，并出现一个表格，三列表格分别为该片段的链接，原始片段以及目标片段</para>
+      </indexterm></guimenuitem> - opens a window containing all segments in
+    the file containing suspected broken or bad tags in the translation.
+    Repairing the tags and recreating the target documents is easy with the
+    validate tags function. The window that opens when
+    <guimenuitem>Ctrl+Shift+V</guimenuitem> is pressed features a 3-column
+    table with a link to the segment, the original segment and the target
+    segment.</para>
 
     <figure id="tag.validation">
       <title>标签检验条目</title>
@@ -178,7 +243,16 @@
       </mediaobject>
     </figure>
 
-    <para>标签用加粗蓝色突出显示，以便于对源内容和译后内容进行比较。点击链接可在编辑器中激活该片段。如果有必要的话，更正错误（上例为缺失对）&lt;i2&gt;&lt;/i2&gt; 按下 <guimenuitem>Ctrl+Shift+V</guimenuitem> 返回标签验证窗口更正其它错误。. 标签错误指的是译文中的标签序列没有完全按照源片段中的标签顺序和数量复制。某些标签操作是必要的和良性的，但有些在创建已译文档时会导致问题。</para>
+    <para>The tags are highlighted in bold blue for easy comparison between
+    the original and the translated contents. Click on the link to activate
+    the segment in the Editor. Correct the error if necessary (in the case
+    above it is the missing &lt;i2&gt;&lt;/i2&gt; pair) and press
+    <guimenuitem>Ctrl+Shift+V</guimenuitem> to return to the tag validation
+    window to correct other errors. Tag errors are tag sequences in the
+    translation in which the same tag order and number as in the original
+    segment is not reproduced. Some tag manipulations are necessary and are
+    benign, others will cause problems when the translated document is
+    created.</para>
   </section>
 
   <section id="hints.for.tag.management">
@@ -188,12 +262,31 @@
 
     <para><emphasis role="bold">简化源文本</emphasis></para>
 
-    <para>标签通常代表了原始文本中的某种格式。对源文本格式的简化很大程度上有助于减少标签的数量。如果有可能，应该尽可能考虑使用统一的字体、字体大小、颜色等，以此简化翻译工作和减少可能的标签错误。查阅标签操作部分了解可以对标签做哪些处理。记住：如果标签问题困扰着您，而格式又不是当前翻译工作最至关紧要的事情的话，删除标签将会是解决问题的最简单途径。</para>
+    <para>Tags generally represent formatting in some form of the original
+    text. Simplifying the original formatting greatly contributes to reducing
+    the number of tags. Where circumstances permit, unifying used fonts, font
+    sizes, colors, etc. should be considered, as it could simplify the
+    translation and reduce the potential for tag errors. Read the tag
+    operations section to see what can be done with tags. Remember that if you
+    find tags a problem in OmegaT and formatting is not extremely relevant for
+    the current translation, removing tags may be the easiest way out of
+    problems.</para>
 
     <para><emphasis role="bold">对标签对应特别小心</emphasis></para>
 
-    <para>如果需要在 OmegaT 中看到标签，但是却不需要在已译文档中保留绝大多数格式的话，可以不向译文中添加任何标签。在这种情况下，要对标签对格外小心，因为删除成对标签中的一个而忘记了删除另一个的话，肯定将破坏文档格式。因为标签包含在文本自身里面，因此可以使用片段规则来创建包含更含更少标签的片段。这是一种高级功能，如果想正确使用必须具备一些经验。</para>
+    <para>If you need to see tags in OmegaT but do not need to retain most of
+    the formatting in the translated document you are free not to include tags
+    in the translation. In this case pay extra attention to tag pairs since
+    deleting one side of the pair but forgetting to delete the other is
+    guaranteed to corrupt your document's formatting. Since tags are included
+    in the text itself, it is possible to use segmentation rules to create
+    segments with fewer tags. This is an advanced feature and some experience
+    is required in order for it to be applied properly.</para>
 
-    <para>OmegaT 目前还无法自动检测格式错误，因此如果犯了错误或者改变格式以更好适应您使用的目标语言时，它不会对您作任何提示。然而有时，这些错误会导致译出的文件看起来不正常，在最坏的情况中甚至可能无法打开。</para>
+    <para>OmegaT is not yet able to detect mistakes in formatting fully
+    automatically, so it will not prompt you if you make an error or change
+    formatting to fit your target language better. Sometimes, however, your
+    translated file may look strange, and – in the worst case – may even
+    refuse to open.</para>
   </section>
 </chapter>

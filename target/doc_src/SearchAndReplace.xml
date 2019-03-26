@@ -20,7 +20,10 @@
         </listitem>
       </itemizedlist><itemizedlist>
         <listitem>
-          <para><emphasis role="bold">替换：:</emphasis> 通过点击编辑窗格顶部按钮对内容进行“逐个”替换</emphasis>。点击 <emphasis>替换下一个</emphasis> 或 <emphasis>跳过</emphasis>，然后点击<emphasis>结束</emphasis>终止替换操作.</para>
+          <para><emphasis role="bold">Replace:</emphasis> operates a &quot;one by
+          one&quot; replacement, by the mean of buttons in the <emphasis role="bold">header of the Editor pane</emphasis>. Click
+          <emphasis>Replace Next</emphasis> or <emphasis>Skip</emphasis>, then
+          end the replacement session with <emphasis>Finish</emphasis>.</para>
         </listitem>
       </itemizedlist><itemizedlist>
         <listitem>

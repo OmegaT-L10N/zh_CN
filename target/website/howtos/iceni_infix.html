@@ -5,34 +5,38 @@
   <p>A "scanned" PDF file is a file in which the PDF format merely serves as a convenient container for scans of hardcopy pages. Often, these scans contain text for translation. There is no way of translating a scanned PDF file other than to recreate the text, either by typing it out again or by OCR (optical character recognition), and to recreate the file layout from scratch. Scanned PDFs are not the subject of this HowTo.</p>
   <p>True PDF files (sometimes called "native" or "distilled" PDF files, though "distilled" has a more precise meaning) are PDF files that have been exported from another application, usually a desktop publishing (DTP) program. For a true PDF file to be translated, the correct procedure is usually to produce the translation in the original (DTP) application, and then to follow the same procedure for production of the PDF that was followed for the original. Translating the PDF file by editing it directly is not usually a practical proposition. For translation of PDF files "for information", translators often resort to converting the PDF file to some other file format before translation, such as RTF; the results may be adequate for this purpose, but will not meet the professional standards of the original DTP process.</p>
   <h3>Iceni Infix</h3>
-  <p>Iceni Infix offers a further option. Infix is a PDF editor, i.e. the text in the PDF can be edited directly. 至于Infix的转换结果是否能和在DTP中二次导出PDF格式的译文相媲美，虽然结论仍有争议，但它应该能比直接转换为RTF等完全不同的格式文件要好得多。</p>
-  <p>Infix Professional有一个吸引译者的进阶功能：XML文本输出。这使得文本能以XML格式导出，从而可以使用CAT工具来翻译。之后已译文本能被重新导入Infix Professional。与众多CAT工具相比，OmegaT的一个特色就是具有上述文本转换的功能。本操作将介绍这一过程。</p><!--
+  <p>Iceni Infix offers a further option. Infix is a PDF editor, i.e. the text in the PDF can be edited directly. Although it is debatable whether the results of this procedure will be comparable to re-layouting of the translation by a DTP professional, they are likely to be much better than conversion to completely different formats (such as RTF).</p>
+  <p>The "Professional" version of Infix has a further function of interest to translators: XML text export. This enables the text to be exported to an XML file which can be translated in a CAT tool. The translated text can then be re-imported into Infix Professional. OmegaT is among the CAT tools for which this process can be used. The procedure is described in this HowTo.</p><!--
   <h3>Platforms</h3>
   <p>Although Infix is a Windows application, Iceni has made efforts to cater for Linux and Macintosh users. Infix Professional can be used on these platforms in conjunction with Crossover Linux and Crossover Macintosh respectively. Crossover Linux and Crossover Macintosh cost approximately &#x20AC;40. Again, free demonstration versions are available. Crossover Linux and Crossover Macintosh can be obtained from the <a href="http://www.codeweavers.com/products/crossover/">Codeweavers' website</a>. <a href="http://www.iceni.com/infixmaclinux.htm">Specific information on running Iceni Infix on Crossover Linux or Crossover Macintosh</a> is also available.</p>
   -->
   
   <h3>翻译一个PDF格式的文件：步骤</h3>
-  <p>从<a href="http://www.iceni.com/infix.htm">Iceni webpage</a> 获取和安装Iceni Infix Professional。您可以获取其演示版本。在本文写作时，购买该软件的完整版本需要大约150美元。如果您使用的是Linux或Macintosh平台，请先获取和安装相关版本的 Crossover，再安装Iceni Infix Professional。（据研究Infix也可以在WINE上运作。）</p>
-  <p>安装Iceni Infix 并打开您想要翻译的PDF文件。截图中的示例是<a href="http://bookshop.europa.eu/hu/az-j-kkv-meghat-roz-s-pbNB6004773/?CatalogCategoryID=2QcKABstE4IAAAEjwJAY4e5L">European Commission's SME user guide in Hungarian</a>.</p>
+  <p>Obtain and install Iceni Infix Professional from the <a href="http://www.iceni.com/infix.htm">Iceni webpage</a>. A demonstration version is available; at the time of writing, the full version costs around US$150. If you are using Linux or Macintosh, obtain and install the relevant Crossover version before installing Iceni Infix Professional. (Infix is also reported to work on WINE.)</p>
+  <p>Launch Iceni Infix and open the PDF file you wish to translate. The example in the screenshot is the <a href="http://bookshop.europa.eu/hu/az-j-kkv-meghat-roz-s-pbNB6004773/?CatalogCategoryID=2QcKABstE4IAAAEjwJAY4e5L">European Commission's SME user guide in Hungarian</a>.</p>
   <img src="{{ '/img/infix1.png' | prepend: site.baseurl_root }}" alt=" infix1.png"/>
-  <p>按照文件&gt;翻译&gt;导出XML，从PDF中导出Infix XML格式的文本。保存PDF。这很重要：当您从PDF中导出XML格式的文件时，Infix会在文件中做一个标记以指示这些文本的片段来自何处从哪里来的（“来历”)，所以当重新导入已译好的XML文件时您必须使用这一版本的文件。</p>
+  <p>Export the text from the PDF in Infix's XML format with Document &gt; Translate &gt; Export XML. Save the PDF. This is important: when you export the XML file from the PDF, Infix makes a note in the file of where all the pieces of text ("stories") belong, so you must use this version of the file when re-importing the translated XML file.</p>
   <p>以常规方式创建一个OmegaT项目。</p>
   <p>如果您正在使用的是OmegaT 2.3或更新的版本，您只要把如上描述的从 Infix中导出的XML文件放在您 OmegaT项目的 /source文件夹内。</p>
   <p>
-    <i>如果您使用的是更早版本的OmegaT，我们推荐升级您的OmegaT 安装程序。或者，您也可以借助HTML过滤器来帮助更早版本的OmegaT很好地完成Infix XML格式文件的翻译。要使用该过滤器，您只需要将从Infix中导出的XML文件的扩展名由.xml修改为.html即可。</i>
+    <i>If you are using an earlier version of OmegaT, upgrading your OmegaT installation is recommended. Alternatively, you should be able to translate the Infix XML file with good results using earlier versions of OmegaT by means of the HTML filter. To use this filter, simply change the file extension of the XML file exported by Infix from .xml to .html.</i>
   </p>
-  <p>重载您的OmegaT项目。现在您就可以翻译文本了(参见截图)。</p>
+  <p>Reload your OmegaT project. You can now translate the text (see screenshot).</p>
   <img src="{{ '/img/infix2.png' | prepend: site.baseurl_root }}" alt=" infix2.png"/>
-  <p>提示：OmegaT的Infix过滤器会把Infix的&lt;BR/&gt;标签映射到&lt;brx/&gt;标签。这样就能应用HTML的分割规则来选择是否应该在这些点上进行分割。 </p>
-  <p>当您翻译完成后，以常规方式(Ctrl+S, Ctrl+D)创建已译文档。在OmegaT项目的/目标文件夹中查找已译的XML文件。<i>如果您已把文件扩展名修改为.html，则需要将已译文件的扩展名修改回.xml。</i></p>
-  <p>返回Iceni Infix，将已译的XML文件导回到 <i>the PDF from which you exported it</i>。保存修改。</p>
-  <p>如果一切顺利，您的翻译就会呈现出来。它看似没变，但其实已经译好。（参见截图：只有前三段已被翻译。）</p>
-  <p>注意如果您在该过程中使用的是演示版本的Iceni Infix，您已译好的PDF文件将会带一个Iceni的水印。对于以此来“获取信息”的翻译工作，这也许不是一个问题。Iceni Infix也允许您以RTF格式保存PDF文件，但本演示版的案例由于包含随机的字符替换，故而只适用于演示目的。</p>
+  <p>Note: OmegaT's Infix filter maps the &lt;BR/&gt; of Infix to &lt;brx/&gt; tags. This enables the HTML segmentation rule to be used to choose whether or not segmentation should occur at these points.</p>
+  <p>After completing your translation, create the translated document in the usual way (Ctrl+S, Ctrl+D). Locate the translated XML file in the OmegaT project's /target folder. <i>If you changed the file extension to .html, change the extension of the translated file back to .xml.</i></p>
+  <p>Back in Iceni Infix, import the translated XML file back into <i>the PDF from which you exported it</i>. Save the changes.</p>
+  <p>All being well, your translation will come out looking like the original, but translated. (See screenshot: only the first three segments have been translated.)</p>
+  <p>Note that if you use the demonstration version of Iceni Infix in this procedure, your translated PDF file will bear an Iceni watermark. For translations intended "for information", this may not be a problem. Iceni Infix also enables you to save PDF files in RTF format, but in this case the demonstration version really is only suitable for demonstration purposes, as it contains random character substitutions.</p>
   <img src="{{ '/img/infix3.png' | prepend: site.baseurl_root }}" alt=" infix3.png"/>
   <p>由于在技术（和翻译）方面经常出现这种情况，因此常见一些问题。</p>
-  <p>您也许发现PDF中的内嵌字体并未囊括所有你需要的字体。您也许可以通过获取和安装必要的字体来解决这一问题；或者您可以根据目的选择一个不同的字体——这有可能或也可能不是一个妥善的办法。</p>
-  <p>在某些时候您的翻译常常要比原始文本要长。这就需要用Infix来处理，例如可以扩展容纳文本的盒子大小。Infix具备一些能处理本操作指南涵盖范围之外的各种问题的功能。</p>
-  <p>您也许发现一些片段在不方便的地方被强行断开。如果您在OmegaT或其他CAT工具中翻译过Powerpoint文件，那么这一情况您或许不会陌生。要解决它，只需要在Infix中重新打开原始PDF文件。选择工具&gt;文本工具。点击存疑的文本将会显示一个文本框和格式标记。截图中是一个范例： <img src="{{ '/img/infix4.png' | prepend: site.baseurl_root }}" alt=" infix4.png"/> 删除换行符。然后保存更改，重新导出PDF为XML文件（然后更改文件扩展名等等），之后您的OmegaT项目。如果您的文件里含有大量此类不方便的中断，通过在OmegaT和Infix之间切换来找到它们的位置并一次性删除它们将会更加高效。</p>
-  <p>一些不方便的换行符也许有助于正确地定位文本。这种情况下，在导出文件为XML格式之前就删除它们会更实用。这样您可以获得结合紧密的翻译片段，然后将它们最终重新插入到Infix里。</p>
+  <p>You may find that the embedded fonts in the PDF do not contain all the characters you need. You can presumably resolve this by obtaining and installing the necessary fonts; or you can select a different font for this purpose – which may or may not be an adequate solution.</p>
+  <p>There is a strong possibility that at some points, your translation will be longer than the original. This needs to be dealt with in Infix, for example by enlarging the box containing the text. Infix has functions for dealing with this and other problems that are beyond the scope of this HowTo.</p>
+  <p>You may find that segments are broken by hard line breaks at inconvenient places. This situation will probably be familiar to you if you have translated Powerpoint files in OmegaT, or for that matter other CAT tools. To resolve this, open the original PDF file again in Infix. Select Tools &gt; Text tool. Clicking on the text in question will display a text box and formatting marks. The screenshot shows an example: 
+
+<img src="{{ '/img/infix4.png' | prepend: site.baseurl_root }}" alt=" infix4.png"/>
+
+Remove the line break. Then save the changes and re-export the PDF to the XML file (and change the file extension etc.), and reload your OmegaT project. If your file contains lots of such inconvenient breaks, it is more efficient to remove them all at once, toggling between OmegaT and Infix to see where they are.</p>
+  <p>Some inconvenient line breaks may be required for correct positioning of the text. In these cases, it is practical to remove them before exporting the file to XML, so that you are presented with cohesive segments for translation, and then to re-insert them in Infix at the end of the process.</p>
   <p>版权归属于Marc Prior 2011</p>
 </div>

@@ -3,15 +3,43 @@
 <chapter id="chapter.segmentation">
   <title>源片段分割规则</title>
 
-  <para>翻译记忆工具的使用以叫做片段的文本为单位。<application>OmegaT</application> 使用两种方式对文本进行片段分割：段落分割或句子分割（也被称为“基于分割的规则”）。要选择分割类型，请从主菜单选择<menuchoice> <guimenu><indexterm class="singular">
+  <para>Translation memory tools work with textual units called segments.
+  <application>OmegaT</application> has two ways to segment a text: by
+  paragraph or by sentence segmentation (also referred to as “rule-based
+  segmentation”). In order to select the type of segmentation, select
+  <menuchoice>
+      <guimenu><indexterm class="singular">
           <primary>项目</primary> <secondary>属性</secondary>
-        </indexterm>项目</guimenu> <guimenuitem>属性...</guimenuitem> </menuchoice>，然后选用选中或取消选中相应的复选框。在某些情况中使用段落分割是有好处的，例如在与创造性和文学性高度相关的翻译中，译员可能需要改变整个段落的顺序；然而，对于大多数项目，应优先选择句子分割，因为这样可以与以前的翻译实现更好的匹配。如果选用了句子分割，可通过从主菜单选择<menuchoice> <guimenu><indexterm class="singular">
+        </indexterm>Project</guimenu>
+
+      <guimenuitem>Properties...</guimenuitem>
+    </menuchoice> from the main menu and tick or untick the check box
+  provided. Paragraph segmentation is advantageous in certain cases, such as
+  highly creative or stylistic translations in which the translator may wish
+  to change the order of entire sentences; for the majority of projects,
+  however, sentence segmentation is a choice to be preferred, since it
+  delivers better matches from previous translations. If sentence segmentation
+  has been selected, you can setup the rules by selecting <menuchoice>
+      <guimenu><indexterm class="singular">
           <primary>项目</primary> <secondary>选项</secondary>
-        </indexterm>选项</guimenu> <guimenuitem>片段分割...</guimenuitem> </menuchoice>以设置规则。</para>
+        </indexterm>Options</guimenu>
 
-  <para>许多语言中已经包含了可靠的分割规则，所以很可能您不需要自己编写分割规则。另一方面，该功能在特殊情况下可能非常有用，您可以针对需要翻译的文本设置分割规则来提高生产力。</para>
+      <guimenuitem>Segmentation...</guimenuitem>
+    </menuchoice>from the main menu.</para>
 
-  <para><emphasis role="bold">警告：</emphasis>由于在改变过滤器选项后将对文本进行不同的分割，所以您可能需要从原文开始进行翻译。同时，在项目翻译记忆中原来有效的片段将变成孤立片段。如果您在项目打开的时候改变分割规则选项，您必须重新载入项目以使改变生效。</para>
+  <para>Dependable segmentation rules are already available for many
+  languages, so it is likely that you will not need to get involved with
+  writing your own segmentation rules. On the other hand this functionality
+  can be very useful in special cases, where you can increase your
+  productivity by tuning the segmentation rules to the text to be
+  translated.</para>
+
+  <para><emphasis role="bold">Warning: </emphasis>because the text will
+  segment differently after filter options have been changed, so you may have
+  to start translating from scratch. At the same time the previous valid
+  segments in the project translation memory will turn into orphan segments.
+  If you change segmentation options when a project is open, you must reload
+  the project in order for the changes to take effect.</para>
 
   <para><application>OmegaT</application> 使用下列步骤：</para>
 
@@ -22,9 +50,15 @@
         </indexterm>结构层片段分割</term>
 
       <listitem>
-        <para><application>OmegaT</application> 首先将文本分割成结构级别的片段。在这个过程中，只有源文本的结构被用于创建片段。</para>
+        <para><application>OmegaT</application> first parses the text for
+        structure-level segmentation. During this process it is only the
+        structure of the source file that is used to produce segments.</para>
 
-        <para>例如：文本文件可能会在行终止、空行进行片段分割或根本进行分割。格式化文件（ODF文档、HTML 文档等等）在块级别（段落）标签处进行分割。XHTML 或 HTML 文件的可翻译对象属性可以被提取为独立的片段。</para>
+        <para>For example, text files may be segmented on line breaks, empty
+        lines, or not be segmented at all. Files containing formatting
+        (ODF documents, HTML documents, etc.) are segmented on the
+        block-level (paragraph) tags. Translatable object attributes in XHTML
+        or HTML files can be extracted as separate segments.</para>
       </listitem>
     </varlistentry>
 
@@ -44,7 +78,16 @@
         <primary>片段分割</primary> <secondary>规则</secondary>
       </indexterm></title>
 
-    <para>片段分割过程可描绘如下：光标沿着文本移动，每次一个字符。在每个光标位置，由 <emphasis role="bold">之前</emphasis>和<emphasis role="bold">之后</emphasis>的模式组成的规则以指定的顺序应用，即对左边的文本使用<emphasis role="bold">之前</emphasis>模式同时对光标右边的文本使用 <emphasis role="bold">之后</emphasis> 模式。如果规则匹配，光标继续移动而不进行分割（对于例外规则）或者创建一个新片段（为中断规则）。</para>
+    <para>The process of segmenting can be pictured as follows: the cursor
+    moves along the text, one character at a time. At each cursor position
+    rules, consisting of a <emphasis role="bold">Before </emphasis>and
+    <emphasis role="bold">After </emphasis>pattern, are applied in their given
+    order to see if any of the<emphasis role="bold"> Before</emphasis>
+    patterns are valid for the text on the left and the corresponding
+    <emphasis role="bold">After</emphasis> pattern for the text on the right
+    of the cursor. If the rule matches, either the cursor moves on without
+    inserting a segment break (for an exception rule) or a new segment break
+    is created at the current cursor position (for the break rule).</para>
 
     <para>两种类型的规则表现如下：</para>
 
@@ -55,7 +98,12 @@
           </indexterm>中断规则</term>
 
         <listitem>
-          <para>将源文本分割为片段。例如，&quot;<emphasis>Did it make sense?I was not sure</emphasis>.&quot; 应该分割成两个句子。要实现这样的目的，应该在 &quot;?&quot; 后跟着空格和大写字符时进行中断的规则。要定义一个中断规则，请选中中断/例外复选框。</para>
+          <para>Separates the source text into segments. For example,
+          &quot;<emphasis>Did it make sense? I was not sure</emphasis>.&quot; should be
+          split into two segments. For this to happen, there should be a break
+          rule for &quot;?&quot;, when followed by spaces and a capitalized word. To
+          define a rule as a break rule, tick the Break/Exception check
+          box.</para>
         </listitem>
       </varlistentry>
     </variablelist>
@@ -67,12 +115,20 @@
           </indexterm>例外规则</term>
 
         <listitem>
-          <para>指定哪部分文本不应该被分开。不考虑句点的话， <emphasis>&quot;Mrs. Dalloway &quot;</emphasis> 不应被分割成两个片段，因此应该为后面跟着句点的 Mrs (以及 Mr 和 Dr 、prof 等等) 创建例外规则。要定义例外规则，请取消选中中断/例外复选框。</para>
+          <para>specify what parts of text should NOT be separated. In spite
+          of the period, <emphasis>&quot;Mrs. Dalloway &quot;</emphasis> should not be
+          split in two segments, so an exception rule should be established
+          for Mrs (and for Mr, for Dr, for prof etc), followed by a period. To
+          define a rule as an exception rule, leave the Break/Exception check
+          box unticked.</para>
         </listitem>
       </varlistentry>
     </variablelist>
 
-    <para>对于绝大多数欧洲语言和日语来说，预定义的中断规则已经够用了。从灵活性的角度看，您可能考虑为要翻译的语种定义更多的例外规则，以获取语意更完整也更连贯的片段。</para>
+    <para>The predefined break rules should be sufficient for most European
+    languages and Japanese. In view of the flexibility, you may consider
+    defining more exception rules for your source language in order to provide
+    more meaningful and coherent segments.</para>
   </section>
 
   <section id="rules.priority">
@@ -80,7 +136,14 @@
         <primary>片段分割</primary> <secondary>规则优先级</secondary>
       </indexterm></title>
 
-    <para>为匹配的语言模式定义的所有片段分割规则会按照规定的优先级别得到应用，因此为特定语言定义的规则优先级会比缺省规则要高。例如，为加拿大法语 (FR-CA) 创建的规则优先级应该比为法语 (FR.*) 创建规则的优先级要高，也比缺省规则(.*) 要高。因此，在翻译加拿大法语时，会首先应用加拿大法语规则（如果存在的话），接着是法语规则，最后为缺省规则。</para>
+    <para>All segmentation rule sets for a matching language pattern are
+    active and are applied in the given order of priority, so rules for
+    specific language should be higher than default ones. For example, rules
+    for Canadian French (FR-CA) should be set higher than rules for French
+    (FR.*), and higher than Default (.*) ones. Thus, when translating from
+    Canadian French the rules for Canadian French - if any - will be applied
+    first, followed by the rules for French and lastly, by the Default
+    rules.</para>
   </section>
 
   <section id="creating.new.rule">
@@ -90,11 +153,24 @@
 
     <para>一般应避免对分割规则进行大幅调整，尤其在开始翻译后，但进行细微修正，例如加上识别的缩略语，可能会有好处。</para>
 
-    <para>要编辑或扩展现有规则集合，仅需在上面的表格中打开它。规则集合将出现在窗口的下半部分。</para>
+    <para>In order to edit or expand an existing set of rules, simply click on
+    it in the top table. The rules for that set will appear in the bottom half
+    of the window.</para>
 
-    <para>要为某新语种模式创建空的规则集合，在对话框的上半部分点击<emphasis role="bold">新增</emphasis>。上方表格的底部将出现一条空行（您可能需要向下滚动才能看到它）。修改规则集的名称和语言模式到相关的语言及其代码（请参阅<xref linkend="appendix.languages"/>语言代码列表）。语言模式的语法遵循正则表达式的语法规则。如果您设置了规则集来处理语言——国家对，我们建议您使用<emphasis role="bold">上移</emphasis>按钮将它移到顶部。</para>
+    <para>In order to create an empty set of rules for a new language pattern
+    click <emphasis role="bold">Add </emphasis>in the upper half of the
+    dialog. An empty line will appear at the bottom of the upper table (you
+    may have to scroll down to see it). Change the name of the rule set and
+    the language pattern to the language concerned and its code (see <xref linkend="appendix.languages"/> for a list of language codes). The syntax
+    of the language pattern conforms to regular expression syntax. If your set
+    of rules handles a language-country pair, we advise you to move it to the
+    top using the <emphasis role="bold">Move Up</emphasis> button.</para>
 
-    <para>添加<emphasis role="bold">之前</emphasis>和<emphasis role="bold">之后</emphasis>模式。要检查它们的语法和适用性，建议使用工具来直接查看效果。请参阅<link linkend="chapter.regexp">正则表达式</link>章节。了解现有的规则总是个很好的起点。</para>
+    <para>Add the <emphasis role="bold">Before</emphasis> and<emphasis role="bold"> After</emphasis> patterns. To check their syntax and their
+    applicability, it is advisable to use tools which allow you to see their
+    effect directly. See the chapter on <link linkend="chapter.regexp">Regular
+    expressions</link>. A good starting point will always be the existing
+    rules.</para>
   </section>
 
   <section id="few.simple.examples">
@@ -132,7 +208,8 @@
 
             <entry align="center">\s</entry>
 
-            <entry>“\.”表示句点字符。“\s”表示任意空白字符（空格、Tab、新行符等）。</entry>
+            <entry>&quot;\.&quot; stands for the period character. &quot;\s&quot; means any white
+            space character (space, tab, new page etc.)</entry>
           </row>
 
           <row>
@@ -162,7 +239,8 @@
 
             <entry align="center">\s</entry>
 
-            <entry>例外规则——请查阅?在正则表达式中的用途</entry>
+            <entry>Exception rule - see the use of ? in regular
+            expressions</entry>
           </row>
         </tbody>
       </tgroup>

@@ -8,9 +8,23 @@
         <primary>菜单</primary>
       </indexterm>主菜单</title>
 
-    <para>OmegaT 的所有功能均可通过编辑器窗口顶部的菜单栏来调用。多数功能也可以通过键盘快捷方式调用。快捷键通过按 <keycap>Ctrl</keycap> 和字母键来激活。某些快捷键还包含其他按键。为了增强可读性，本手册中这些字母以大写形式出现。<keycap>Ctrl</keycap> 在 Windows 系统中使用，UNIX 和类 UNIX 操作系统使用 <keycap>Ctrl</keycap> 或 <keycap>Control</keycap> 键。Mac 用户应该使用 <keycombo> <keycap>cmd</keycap> <keycap>键</keycap> </keycombo> 来代替它。&quot;Cmd&quot; 键就是在苹果键盘上印有 &quot;command&quot; 或“苹果”符号的那个键。</para>
+    <para>All of OmegaT's functions are available through the menu bar at the
+    top of the Editor window. Most functions are also available via keyboard
+    shortcuts. Shortcuts are activated by pressing <keycap>Ctrl</keycap> and a
+    letter. Some shortcuts involve other keys. For readability purposes,
+    letters are written in uppercase here. <keycap>Ctrl</keycap> is used on
+    Windows, UNIX and UNIX-like operating systems with keyboards featuring a
+    <keycap>Ctrl</keycap> or <keycap>Control</keycap> key. Mac users should
+    instead use <keycombo>
+        <keycap>Cmd</keycap>
 
-    <para>您可以根据自己的需要自定义现有的或增加新的快捷键。<link linkend="ch04.shortcuts.customization">请参阅附录——自定义快捷键</link></para>
+        <keycap>key</keycap>
+      </keycombo> instead. The &quot;Cmd&quot; key either has a &quot;command&quot; label or an
+    apple symbol on Apple keyboards.</para>
+
+    <para>You can customize existing shortcuts or add new ones according to
+    your needs. <link linkend="ch04.shortcuts.customization">See Appendix -
+    Shortcuts Customization</link></para>
 
     <table colsep="1" id="table.main.menu">
       <title>主菜单</title>
@@ -61,7 +75,8 @@
                   <keycap>N</keycap>
                 </keycombo></entry>
 
-              <entry>创建并打开一个新项目。创建项目的对话框与编辑项目属性的相同。请参阅<xref linkend="chapter.project.properties"/></entry>
+              <entry>Creates and opens a new project. The dialog to create a
+              project is the same as to edit the project. See <xref linkend="chapter.project.properties"/></entry>
             </row>
 
             <row>
@@ -89,7 +104,9 @@
 
               <entry/>
 
-              <entry>获取最后编辑的5个文档. 点击可以保存当前项目、关闭它或打开其他项目</entry>
+              <entry>Give access to the five last edited projects. Clicking on
+              one will save the current project, close it and open the other
+              project.</entry>
             </row>
 
             <row>
@@ -139,7 +156,9 @@
                   <keycap>S</keycap>
                 </keycombo></entry>
 
-              <entry>将内部的翻译记忆保存到硬盘。OmegaT 每十分钟自动保存一次翻译，且在关闭项目或退出程序前自动保存。</entry>
+              <entry>Saves the internal translation memory to the hard disk.
+              OmegaT automatically saves translations every 10 minutes as well
+              as when you close the project or quit OmegaT.</entry>
             </row>
 
             <row>
@@ -151,7 +170,9 @@
                   <keycap>D</keycap>
                 </keycombo></entry>
 
-              <entry>根据您对文档文本的翻译创建目标文档。创建的目标文档放置在<filename>目标</filename>文件夹中。</entry>
+              <entry>Creates the target documents based on your translation of
+              the documents' text. The created target documents are located in
+              the <filename>target</filename> folder.</entry>
             </row>
 
             <row>
@@ -199,7 +220,12 @@
                   <keycap/>
                 </keycombo></entry>
 
-              <entry>访问项目文件夹。<para>另外，两个菜单条目可直接打开源文档、目标文档以及可写术语表。文档以操作系统选定的应用打开。如果文件不可用，该菜单条目为灰。</para></entry>
+              <entry>访问项目文件夹。<para>In addition,
+              two menu entries allow opening directly the current source and
+              target documents and the writable glossary. The documents are
+              opened by the application chosen by the operating system. If the
+              documents are not available, the entry is greyed
+              out.</para></entry>
             </row>
 
             <row>
@@ -211,7 +237,10 @@
                   <keycap>Q</keycap>
                 </keycombo></entry>
 
-              <entry>保存项目并退出 <application>OmegaT</application>。如果您未手动保存项目，系统将会让您确认是否退出。</entry>
+              <entry>Saves the project and quits
+              <application>OmegaT</application>. If you haven't yet saved the
+              project, this manually confirms whether you really wish to
+              quit.</entry>
             </row>
           </tbody>
         </tgroup>
@@ -223,7 +252,9 @@
           <primary>菜单</primary> <secondary>编辑</secondary>
         </indexterm></title>
 
-      <para>注意：在多数程序中可以找到的（复制/剪切/粘贴）条目没有出现在这个菜单中，但是您可以通过系统快捷键使用。例如：</para>
+      <para>Note: Items that are found in most applications (copy/cut/paste)
+      are not displayed in this menu, but are available using your system
+      shortcuts. For example:</para>
 
       <table colsep="1">
         <title>复制/剪切/粘贴快捷键</title>
@@ -293,7 +324,9 @@
                   <keycap>Z</keycap>
                 </keycombo></entry>
 
-              <entry>恢复前一个编辑操作发生之前的状态。如所修改的片段已经确认，则该操作无效。</entry>
+              <entry>Restores the status before the last editing action was
+              taken. This command does not work once the modified segment has
+              been validated.</entry>
             </row>
 
             <row>
@@ -305,7 +338,9 @@
                   <keycap>Y</keycap>
                 </keycombo></entry>
 
-              <entry>恢复前一个编辑操作取消之前的状态。如所修改的片段已经确认，则该操作无效。</entry>
+              <entry>Restores the status before the last editing action was
+              cancelled. This command does not work once the modified segment
+              has been validated.</entry>
             </row>
 
             <row>
@@ -329,7 +364,9 @@
                   <keycap>I</keycap>
                 </keycombo></entry>
 
-              <entry>将当前选中的模糊匹配插入到光标位置。如果已选中了目标片段的某个部分，则此功能会覆盖此部分。<para>如果某段文字被选为模糊匹配，那么被选择的部分会在光标处插入。</para></entry>
+              <entry>Inserts the currently selected fuzzy match at the cursor
+              position. If part of the target segment has been selected, this
+              function overwrites the selected portion.<para>如果某段文字被选为模糊匹配，那么被选择的部分会在光标处插入。</para></entry>
             </row>
 
             <row>
@@ -341,7 +378,10 @@
                   <keycap>M</keycap>
                 </keycombo></entry>
 
-              <entry>使用选择的机器翻译服务提供的译文替换目标片段。如果未激活机器翻译服务（参阅下面的 菜单 &gt; 选项），将不会有任何动作。</entry>
+              <entry>Replaces the target segment with the translation,
+              provided by the selected Machine Translation service. No action
+              is taken, if no Machine Translation service has been activated
+              (see Menu &gt; Options below).</entry>
             </row>
 
             <row>
@@ -413,7 +453,14 @@
                   <keycap>C</keycap>
                 </keycombo></entry>
 
-              <entry>将当前选中内容导出至文本文件进行处理。如果未选中文本，将导出当前的源片段至该文件。当用户退出 <application>OmegaT</application> 时，为了与通常的剪贴板行为一致，该文件不会清空。导出的内容被复制到位于用户偏好设置文件的文件夹（请参阅<xref linkend="chapter.files.and.folders"/>）的 <filename>selection.txt</filename> 文件中。</entry>
+              <entry>Exports the current selection to a text file for
+              processing. If no text has been selected, the current source
+              segment is written to this file. When the user exits
+              <application>OmegaT</application>, this file is not emptied, in
+              order to be consistent with usual clipboard behavior. The
+              exported contents are copied to the file
+              <filename>selection.txt</filename> located in the User's
+              preference files folder (see <xref linkend="chapter.files.and.folders"/>).</entry>
             </row>
 
             <row>
@@ -459,9 +506,14 @@
 
               <entry><keycombo> <keycap>Shift</keycap> <keycap>F3</keycap> </keycombo>（查阅文本）</entry>
 
-              <entry>改变目标片段中高亮文本的大小写改变为选择项（全部小写、全部大写、首字母大写或句首字母大写）使用Shift + F3 <indexterm>
+              <entry>Changes the case of the highlighted text in the target
+              segment to the selected option (Lower case, Upper case, Title
+              case or Sentence case). Use Shift+F3 <indexterm>
                   <primary>快捷键</primary> <secondary>大小写选择——Shift+F3</secondary>
-                </indexterm>循环选择上述四种选项。如果未选中文本， <application>OmegaT</application> 将选中包含了紧挨着光标右边字母的单词。</entry>
+                </indexterm>to cycle through the four alternatives. If no text
+              is selected, <application>OmegaT</application> selects the word
+              that contains the letter immediately to the right of the
+              cursor.</entry>
             </row>
 
             <row>
@@ -473,7 +525,10 @@
                   <keycap>#N</keycap>
                 </keycombo></entry>
 
-              <entry>(#N 为 1 至 5 之间的数字) - 选择在匹配查看器中列出的第 N 个模糊匹配项，并将其替代或插入该段中。<xref linkend="match.viewer"/> 描述了关于颜色代码的细节。</entry>
+              <entry>(#N is a digit from 1 to 5) - Selects the Nth fuzzy match
+              displayed in the match viewer to replace or insert it to the
+              segment. The <xref linkend="match.viewer"/> describes the color
+              coding in detail.</entry>
             </row>
 
             <row>
@@ -481,7 +536,10 @@
 
               <entry/>
 
-              <entry>如果当前片段有多个可选译文，您可以标记所选择的译文为缺省译文。如果仅有一个可用译文，则该条目会显示为灰色。</entry>
+              <entry>If there's several alternative translations available for
+              the active segment, you can label the alternative selected as
+              the default translation. The entry will be greyed, if there's
+              just one translation available.</entry>
             </row>
 
             <row>
@@ -489,7 +547,10 @@
 
               <entry/>
 
-              <entry>同样的片段在不同的语境中可能会使用不同的译文。如果当前译文不适合，则选择该菜单项并输入可选译文。</entry>
+              <entry>The one and the same segment may, depending on the
+              context, require different translations. Select this menu item,
+              if the current translation does not apply and enter the
+              alternative translation.</entry>
             </row>
 
             <row>
@@ -505,7 +566,9 @@
 
               <entry/>
 
-              <entry>将译文片段定义为空在目标文件中，此片段不会显示任何内容。在编辑器中，此译文片段显示为&lt;EMPTY&gt;</entry>
+              <entry>Define the translation as being empty. In the target
+              document, nothing will appear for this segment. In the Editor,
+              the translation is displayed as &lt;EMPTY&gt;</entry>
             </row>
 
             <row>
@@ -575,7 +638,9 @@
                   <keycap>N</keycap>
                 </keycombo> or <keycap>Enter</keycap></entry>
 
-              <entry>移动到后一片段。如果当前片段是文件中的最后一个片段，将移动到下个文件的第一个片段。</entry>
+              <entry>Moves to the next segment. If the current segment is the
+              last segment in a file, it moves to the first segment of the
+              next file.</entry>
             </row>
 
             <row>
@@ -591,7 +656,9 @@
                   <keycap>Enter</keycap>
                 </keycombo></entry>
 
-              <entry>移动到前一片段。如果当前片段是文件中的第一个片段，将移动到前个文件的最后一个片段。</entry>
+              <entry>Moves to the previous segment. If the current segment is
+              the first one in a file, it moves to the last segment of the
+              previous file.</entry>
             </row>
 
             <row>
@@ -647,7 +714,10 @@
                   <keycap>N</keycap>
                 </keycombo></entry>
 
-              <entry><application>OmegaT</application> 会记住执行时所在的片段。使用该命令可以前进到使用<guimenuitem>在编辑历史中回退...</guimenuitem>命令之前所处片段。</entry>
+              <entry><application>OmegaT</application> remembers the segments
+              executed. With this command you can step forward to the segment,
+              you have previously left by the <guimenuitem>Back in
+              history</guimenuitem>...command.</entry>
             </row>
 
             <row>
@@ -695,7 +765,9 @@
             <row>
               <entry><guimenuitem>显示源片段</guimenuitem></entry>
 
-              <entry>如果选中该选项，将会显示源片段并标记为绿色。如果未选中，将不会显示源片段。</entry>
+              <entry>If checked, source segments will be shown and marked in
+              green. If not checked, source segments will not be
+              shown.</entry>
             </row>
 
             <row>
@@ -707,7 +779,9 @@
             <row>
               <entry><guimenuitem>标记含笔记片段</guimenuitem></entry>
 
-              <entry>如果选中该选项，则含笔记片段会被标记为青绿色。该标记优先于标记已译片段和标记未译片段功能。</entry>
+              <entry>If checked, segments with notes will be marked in cyan.
+              This marking has priority over Mark Translated Segments and Mark
+              Untranslated Segments.</entry>
             </row>
 
             <row>
@@ -731,19 +805,38 @@
             <row>
               <entry><guimenuitem>标记自动填充片段</guimenuitem></entry>
 
-              <entry>如果选中该选项，所有（例如根据/tm/auto路径下的TMX文件）自动填充的片段背景将标记有颜色。只要（在选项/编辑操作中）“保存自动填充状态”选项，背景颜色将会一直显示。来自“auto”文件夹中的常规翻译会以橙色显示。其它在TMX中独有的翻译会以不同的颜色显示。更多技术细节，见<ulink url="http://sourceforge.net/p/omegat/feature-requests/963/">增强需求</ulink></entry>
+              <entry>If checked, the background of all segments where the
+              target segment has been auto-populated (from TMXs placed in
+              /tm/auto for example) are displayed in colour. The colours are
+              displayed as long as the &quot;Save auto-populated status&quot; (in
+              Options/Editing behaviour..) option is checked. Usual
+              translations inserted from the auto folder are displayed in
+              orange. Other translations, identified specifically in the TMX,
+              can be displayed using different colours. For technical details,
+              see the <ulink url="http://sourceforge.net/p/omegat/feature-requests/963/">Request
+              For Enhancement</ulink></entry>
             </row>
 
             <row>
               <entry><guimenuitem>突出后备字体</guimenuitem></entry>
 
-              <entry>选中此选项以防止OmegaT不能正确显示某些字形（即使相关字体已在您的计算机中安装）。注意：Windows操作系统中手动突出后备字体可能会影响标准后备字体，导致不理想的字体替换。基于这个原因，此选项默认关闭。</entry>
+              <entry>Check this option in case OmegaT does not display some
+              glyphs properly (even if the fonts containing the relevant
+              glyphs are installed on your machine). Note: on Windows it seems
+              that this manual font fallback mechanism can interfere with
+              standard font fallback, causing undesirable font substitution.
+              For that reason, it is OFF by default.</entry>
             </row>
 
             <row>
               <entry><guimenuitem>修改信息</guimenuitem></entry>
 
-              <entry>设定将显示修改选项应用于<emphasis>当前片段</emphasis> 可显示当前片段上次修改者和修改时间。将此选项设置为 <emphasis>所有片段</emphasis> 显示所有片段信息，设置为<emphasis>无</emphasis> 以关闭此选项。</entry>
+              <entry>Setting the Display Modification option to
+              <emphasis>Current segment</emphasis> will display the time and
+              the author of the last change in the current segment. Setting it
+              to <emphasis>All segments</emphasis> shows this information for
+              all segments and <emphasis>None</emphasis> turns this option
+              off.</entry>
             </row>
           </tbody>
         </tgroup>
@@ -779,7 +872,9 @@
             <row>
               <entry><guimenuitem>检验标签</guimenuitem></entry>
 
-              <entry><guimenu>Ctrl+Shift+V</guimenu>：寻找格式化文件中丢失或错置的标签。将会显示一份含有错误和可能不一致标签的片段清单。请参阅<link linkend="section.tag.validation">标签验证</link>和<xref linkend="chapter.formatted.text"/>。</entry>
+              <entry><guimenu>Ctrl+Shift+V</guimenu>: Checks for missing or
+              displaced tags in formatted files. Will display a list of
+              segments with tag errors and possible inconsistencies. See <link linkend="section.tag.validation">Tag Validation</link> and <xref linkend="chapter.formatted.text"/>.</entry>
             </row>
 
             <row>
@@ -831,7 +926,10 @@
             <row>
               <entry><guimenuitem>使用 Tab 前进</guimenuitem></entry>
 
-              <entry>设置片段检验键为 <guimenuitem>Tab</guimenuitem>来代替缺省的<guimenuitem>Enter</guimenuitem>。该选项对于一些中文、日文、韩文字符输入系统非常有用。</entry>
+              <entry>Sets segment validation key to
+              <guimenuitem>Tab</guimenuitem> instead of the default
+              <guimenuitem>Enter</guimenuitem>. This option is useful for some
+              Chinese, Japanese or Korean character input systems.</entry>
             </row>
 
             <row>
@@ -843,19 +941,80 @@
             <row>
               <entry><guimenuitem>机器翻译</guimenuitem></entry>
 
-              <entry>允许您激活/取消激活程序提供的机器翻译工具。激活后，使用 <keycombo> <keycap>Ctrl</keycap> <keycap>M</keycap> </keycombo> 可将翻译建议插入到当前片段的目标部分。<para>由于保密原因，您可能不想将所有的片段上传至机器翻译工具。关闭<emphasis role="bold">自动获取翻译</emphasis>选项，程序只会在按下<keycombo> <keycap>Ctrl</keycap> <keycap>M</keycap> </keycombo> （在OS X操作系统中为<keycombo> <keycap>Cmd</keycap> <keycap>M</keycap> </keycombo>）后获取当前片段的机器翻译。随后，您必须再次使用 <keycombo> <keycap>Ctrl</keycap> <keycap>M</keycap> </keycombo> 以插入建议。</para><para>选择<emphasis role="bold">仅未翻译片段</emphasis>选项为已翻译片段关闭机器翻译工具。提示：在上述情况中，<keycombo> <keycap>Ctrl</keycap> <keycap>M</keycap> </keycombo>仍可用来为已翻片段获取机器翻译。</para></entry>
+              <entry>Allows you to activate/deactivate the Machine Translation
+              tools offered. When active, <keycombo>
+                  <keycap>Ctrl</keycap>
+
+                  <keycap>M</keycap>
+                </keycombo> will insert the suggestion into the target part of
+              the current segment.<para>For confidentiality reasons, you may
+              want to not send all the segments to the Machine Translation
+              tool. By unchecking <emphasis role="bold">Automatically Fetch
+              Translations</emphasis> option, machine translations will be
+              fetched only upon invoking <keycombo>
+                  <keycap>Ctrl</keycap>
+
+                  <keycap>M</keycap>
+                </keycombo> (<keycombo>
+                  <keycap>Cmd</keycap>
+
+                  <keycap>M</keycap>
+                </keycombo> on OS X) on the current segment. Then you must use
+              <keycombo>
+                  <keycap>Ctrl</keycap>
+
+                  <keycap>M</keycap>
+                </keycombo> a second time, to insert the
+              suggestion.</para><para>Check <emphasis role="bold">Untranslated
+              Segments Only</emphasis> option to deactivate Machine
+              Translation tools on already translated segments. Note: in that
+              case, <keycombo>
+                  <keycap>Ctrl</keycap>
+
+                  <keycap>M</keycap>
+                </keycombo> can still be used, to force a Machine Translation
+              call on an already translated segment.</para></entry>
             </row>
 
             <row>
               <entry><guimenuitem>词汇表</guimenuitem></entry>
 
-              <entry><guimenuitem>展示TBX术语表文本描述</guimenuitem> 选项可在术语表窗口展示或隐藏术语文本信息（来自TBX术语表中的<filename>glossary</filename> 文件夹）。<para>如果 <guimenuitem>源文件中使用分开出现的术语</guimenuitem>选项开启，术语条目 &quot;itema itemb&quot; 会在源文件 &quot;itema other word itemb&quot; 中显示。如果关闭此选项，上述术语条目将不会显示。</para><para>如果<guimenuitem>使用词干提取自术语条目</guimenuitem>选项开启，英文原文中若存在 &quot;elements&quot;，术语条目 &quot;element&quot; 将会显示。如果关闭此选项，上述术语条目将不会显示。</para><para><emphasis>插入原文时替换匹配术语表中的术语</emphasis> 选项可插入原文时，程序自动替换匹配表中的术语。此选项于<emphasis>编辑 &gt; 以原语替换</emphasis>、<emphasis>编辑 &gt; 插入原语</emphasis>和（在<emphasis>选项 &gt; 编辑操作 &gt; [I插入] 源文本</emphasis>开启时键入片段时生效。 当多个目标术语可用时，（在术语表窗格中显示的）第一条术语会被使用。术语表匹配不使用词干提取或停用词，但大小写不敏感。大写的原词语也会尝试匹配。</para><para>其它三种选项在关于<link linkend="section.TaaS.options.access">TaaS</link> （术语即服务）的页面中介绍。</para></entry>
+              <entry><guimenuitem>展示TBX术语表文本描述</guimenuitem> 选项可在术语表窗口展示或隐藏术语文本信息（来自TBX术语表中的<filename>glossary</filename> 文件夹）。<para>If <guimenuitem>Use Terms Appearing
+              Separately in the Source Text</guimenuitem> option is ON, the
+              glossary entry &quot;itema itemb&quot; will be found in the source text
+              &quot;itema other word itemb&quot;. If the option is OFF, the glossary
+              entry above will not be found.</para><para>If <guimenuitem>Use
+              Stemming for Glossary Entries</guimenuitem> option is ON, with
+              an English source text, the glossary entry &quot;element&quot; will be
+              found if the source text contains &quot;elements&quot;. If the option is
+              OFF, the glossary entry above will not be found.</para><para>The
+              <emphasis>Replace Glossary Hits when Inserting Source
+              Text</emphasis> option allows to replace automatically glossary
+              hits with the target term when source text is inserted. This is
+              effective upon <emphasis>Edit &gt; Replace with
+              Source</emphasis>, <emphasis>Edit &gt; Insert Source</emphasis>,
+              and when entering a segment when <emphasis>Options &gt; Editing
+              Behavior &gt; [Insert] The source text</emphasis> is enabled.
+              When multiple target terms are available, the first one (as
+              shown in the Glossary pane) will be used. Glossary matching does
+              not use stemming or stop words, but is case-insensitive. An
+              attempt is made to match the capitalization of the source
+              word.</para><para>其它三种选项在关于<link linkend="section.TaaS.options.access">TaaS</link> （术语即服务）的页面中介绍。</para></entry>
             </row>
 
             <row>
               <entry><guimenuitem>翻译提示</guimenuitem></entry>
 
-              <entry>可以让您激活/取消激活<emphasis>翻译提示</emphasis>功能，并设置<emphasis>精确匹配</emphasis>选项。激活<emphasis>翻译提示</emphasis>后，在原文中突出显示的单词上右击，可显示含有术语表条目的弹出菜单。接着可以点击喜欢的翻译来将其插入目标片段的当前位置。选中<emphasis>翻译提示/精确匹配</emphasis>时只检查完整的单词，否则也会匹配部分单词。</entry>
+              <entry>Allows you to activate/deactivate <emphasis>TransTips
+              </emphasis>feature and set its option<emphasis> Exact
+              Match.</emphasis> With <emphasis>TransTips</emphasis> activated
+              a right click on a highlighted word in the source will open a
+              pop up menu with the glossary entries for the word you clicked.
+              You can then click on the preferred translation to insert it
+              into the target segment at the current position. With
+              <emphasis>TransTips/Exact Match </emphasis> checked, only
+              complete words will be checked, otherwise parts of words will be
+              matched as well.</entry>
             </row>
 
             <row>
@@ -867,13 +1026,17 @@
             <row>
               <entry><guimenuitem>字体...</guimenuitem></entry>
 
-              <entry>显示对话框以修改文本显示字体。调整窗口尺寸大小非常缓慢的旧款计算机的用户可以尝试改变字体。请参阅<link linkend="chapter.misc">杂项</link>中的字体设置</entry>
+              <entry>Shows the dialog to modify the text display font. Users
+              of old computers who feel window resizing is very slow can try
+              changing the font. See font settings in <link linkend="chapter.misc">Miscellanea</link></entry>
             </row>
 
             <row>
               <entry><guimenuitem>自定义颜色...</guimenuitem></entry>
 
-              <entry><para>您可以为每个用户界面选择不同的颜色。</para>预定义主题可用脚本设置。默认脚本为“替换颜色主题”，“深黑”为默认选项。</entry>
+              <entry><para>您可以为每个用户界面选择不同的颜色。</para>Pre-defined themes can be set
+              through a script. A default script called Switch Colour Themes
+              provides a default &quot;Dark&quot;.</entry>
             </row>
 
             <row>
@@ -903,7 +1066,10 @@
             <row>
               <entry><guimenuitem>标签处理</guimenuitem></entry>
 
-              <entry>在翻译与软件关联的文件时：您可以通过标签验证器检验程序中的（%...）变量。同样可以设定多种选项与标签验证和定义自定义标签关联。</entry>
+              <entry>When translating software-related files: Allows you to
+              configure the Tag Validator options to check also programming
+              (%...) variables. It also allows to define various options
+              related to tag validation and to define custom tags.</entry>
             </row>
 
             <row>
@@ -915,7 +1081,11 @@
             <row>
               <entry><guimenuitem>外部 TMX ...</guimenuitem></entry>
 
-              <entry>用户可决定如何处理外部TMX文件（即不是由OmegaT生成的）中的标签。<para>模糊匹配可以按两种方式排序 （仅用于显示；不影响统计）。也可在匹配显示模板区域中可使用预设置变量修改模糊匹配如何显示。</para></entry>
+              <entry>用户可决定如何处理外部TMX文件（即不是由OmegaT生成的）中的标签。<para>The fuzzy
+              matches can be also sorted in different ways (for displaying
+              only; no influence on statistics). The Match Display Template
+              area also allows changing how fuzzy matches are displayed,
+              through the use of pre-configured variables.</para></entry>
             </row>
 
             <row>
@@ -927,7 +1097,9 @@
             <row>
               <entry><guimenuitem>保存和输出...</guimenuitem></entry>
 
-              <entry>用户可选择自动保存项目的间隔（分钟数和秒数）。最小间隔为10秒。<para>对话框也可以设定外部后期处理命令（会在点击 <guimenuitem>创建已译文档</guimenuitem> 命令后执行）。</para></entry>
+              <entry>Allows the user select the interval - in minutes and
+              seconds - between consecutive automatic saves of the project.
+              The minimum is 10 seconds.<para>对话框也可以设定外部后期处理命令（会在点击 <guimenuitem>创建已译文档</guimenuitem> 命令后执行）。</para></entry>
             </row>
 
             <row>
@@ -939,7 +1111,11 @@
             <row>
               <entry><guimenuitem>恢复主窗口</guimenuitem></entry>
 
-              <entry>将 OmegaT 窗口的组件恢复到缺省状态。在对一个或多个组件进行了分离、移动或隐藏操作后无法还原时可以使用这个功能。它还可用于更新 OmegaT 后窗格显示异常的情况。</entry>
+              <entry>Restores the components of the main OmegaT window to
+              their default state. Use this feature when you have undocked,
+              moved, or hidden one or more components and you are unable to
+              restore the desired arrangement. It can also be used when panes
+              do not appear as expected following an OmegaT upgrade.</entry>
             </row>
 
             <row>
@@ -985,7 +1161,9 @@
             <row>
               <entry><guimenuitem>登陆...</guimenuitem></entry>
 
-              <entry>显示当前日志文件。对话框的标题显示真正使用的文件（取决于OmegaT同时开启多个实例）</entry>
+              <entry>Displays the current log file. The title of the dialog
+              reflects the file actually used (which depends on how many
+              instances of OmegaT are running concurrently).</entry>
             </row>
           </tbody>
         </tgroup>
@@ -998,11 +1176,21 @@
         <primary>键盘快捷键</primary>
       </indexterm></title>
 
-    <para>在主窗口中可以使用以下快捷方式。当其他窗口挡在前面时，点击主窗口使它位于前方，或者按 <keycap>Esc</keycap> 键关闭当前窗口。</para>
+    <para>The following shortcuts are available from the main window. When
+    another window is on the foreground, click on the main window to bring it
+    to the foreground or press <keycap>Esc</keycap> to close the other
+    window.</para>
 
-    <para>快捷键通过按 <keycap>Ctrl</keycap> 和字母键来激活。某些快捷键还包含其他按键。为了增强可读性，本手册中这些字母以大写形式出现。</para>
+    <para>Shortcuts are activated by pressing <keycap>Ctrl</keycap> and a
+    letter. Some shortcuts involve other keys. For readability purposes,
+    letters are written in uppercase here.</para>
 
-    <para>Ctrl 键在 Windows 系统中使用，UNIX 和类 UNIX 操作系统使用 <keycap>Ctrl</keycap> / <keycap>Control 键</keycap>。Mac 用户则使用 <guimenuitem>cmd+key。</guimenuitem><guimenuitem>Cmd</guimenuitem> 键就是在苹果键盘上印有 &quot;command&quot; 或“苹果”符号的那个键。</para>
+    <para>Ctrl is used on Windows, UNIX and UNIX-like operating systems with
+    keyboards featuring a <keycap>Ctrl</keycap> / <keycap>Control
+    key</keycap>. Mac users should instead use the
+    <guimenuitem>cmd+key.</guimenuitem> On Apple keyboards the
+    <guimenuitem>cmd</guimenuitem> key either has a command label or an Apple
+    icon on it.</para>
 
     <itemizedlist>
       <listitem>
@@ -1165,7 +1353,9 @@
                   <keycap>#N</keycap>
                 </keycombo></entry>
 
-              <entry>#N 为 1 至 5 之间的数字. 选中匹配窗口中显示的第 N 个匹配内容（缺省情况下选中第一个匹配）</entry>
+              <entry>#N is a digit from 1 to 5. The shortcut selects the Nth
+              match displayed in the match window (the first match is selected
+              by default)</entry>
             </row>
 
             <row>
@@ -1249,7 +1439,9 @@
                   <keycap>M</keycap>
                 </keycombo></entry>
 
-              <entry>使用原文的机器翻译的译文取代目标片段。如果未激活机器翻译服务（参阅下面的 菜单 &gt; 选项 &gt; 机器翻译），将不会有任何动作。</entry>
+              <entry>Replaces the target segment with the machine translation
+              of the source. No action, if machine tools are deactivated (see
+              Menu &gt; Options &gt; Machine Translate)</entry>
             </row>
 
             <row>
@@ -1417,7 +1609,9 @@
                   <keycap>Ctrl+C</keycap>
                 </keycombo></entry>
 
-              <entry>输出当前选中内容，如果未选中文本则输出当前原文。该文本被导出到纯文本文件。</entry>
+              <entry>Exports the current selection or the current source, if
+              no text has been selected. The text is exported to a plain text
+              file.</entry>
             </row>
 
             <row>

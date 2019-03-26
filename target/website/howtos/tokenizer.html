@@ -1,47 +1,51 @@
 <div class="container">
 
 
-<p><strong>分词器插件已集成到3.0.0版的OmegaT中。以下信息仅当你使用早于3.0.0的OmegaT版本时才适用。<br/>如果你曾经使用OmegaT的早期版本的分词器插件，并现在已升级到OmegaT的3.0.0版或更高版本，请从插件文件夹中删除分词器插件文件。</strong></p>
+<p><strong>The tokenizer plug-in was integrated into OmegaT in version 3.0.0. The following information is therefore applicable only if you are using a version of OmegaT earlier than 3.0.0.<br/>
 
-<p>OmegaT tokenizer是OmegaT的一个插件。它通过计算源词的词根（“词干”）来为OmegaT提供更好的模糊匹配和术语表匹配。例如，即使词汇表条目仅包含单词的原型，它也会识别文本中的变形词并显示相应的词汇表条目。
-</p>
+If you have been using the tokenizer plug-in with an earlier version of OmegaT and have upgraded to version 3.0.0 or later of OmegaT, delete the tokenizer plug-in files from your plug-in folder.</strong></p>
+
+<p>The OmegaT tokenizer is a plugin for OmegaT. It provides better fuzzy and glossary matches in OmegaT, by computing the roots ("stemming") of the source words. For example, it will recognize inflected words in texts and display the corresponding glossary entry, even if the glossary entry contains only the uninflected form of a word.</p>
 
 <h3>准备</h3>
 
 <p>在使用OmegaT的分词器之前，你必须首先确保你的OmegaT版本适配分词器，并已经做好了准备。</p>
 
-<p><strong> Webstart版本的OmegaT</strong>:：分词器与Webstart版本的OmegaT不兼容。如果你希望使用分词器，请为你的系统安装标准版本的OmegaT（最新测试版）。 </p>
+<p><strong>Webstart version of OmegaT</strong>: the tokenizer is not compatible with the Webstart version of OmegaT. If you wish to use the tokenizer, install the standard version of OmegaT (latest beta version) for your system.</p>
 
-<p><strong>OmegaT 2.1.0 及之前版本</strong>：当前的分词器不适配这些版本（分词器可以与版本2.0.x和2.1.0一起使用，但这需要不同版本的分词器以及不同的安装过程。）建议用户升级到OmegaT的最新测试版。</p>
+<p><strong>OmegaT version 2.1.0 and older</strong>: the current tokenizer is not compatible with these versions. (The tokenizer can be used with versions 2.0.x and 2.1.0, but this requires both a different version of the tokenizer, and a different installation procedure.) Users are advised to upgrade to the latest beta version of OmegaT.</p>
 
-<p><strong>Windows版本的 OmegaT</strong>：为了使OmegaT（任何版本）可以与分词器一起使用，它必须从启动脚本文件启动。Windows 版本的OmegaT不提供启动脚本文件。如果你使用的是有JRE环境的Windows，下载名为<a href="{{ '/files/OmegaT_with_JRE.bat' | prepend: site.baseurl_root }}">OmegaT_with_JRE.bat</a>的文件; 如果你使用的是没有JRE环境的Windows， 下载名为<a href="{{ '/files/OmegaT_without_JRE.bat' | prepend: site.baseurl_root }}">OmegaT_without_JRE.bat</a>的文件. 下载完成后，将文件放在OmegaT主文件夹（包含文件OmegaT.jar的文件夹）中。</p>
+<p><strong>Windows versions of OmegaT</strong>: in order for OmegaT (any version) to be used with the tokenizer, it must be launched from a launch script file. A launch script file is not supplied with the Windows OmegaT versions. If you are using the Windows version with JRE, download the file <a href="{{ '/files/OmegaT_with_JRE.bat' | prepend: site.baseurl_root }}">OmegaT_with_JRE.bat</a>; If you are using the Windows version without JRE, download the file <a href="{{ '/files/OmegaT_without_JRE.bat' | prepend: site.baseurl_root }}">OmegaT_without_JRE.bat</a>. After downloading, place the file in the main OmegaT folder (the folder containing the file OmegaT.jar).</p>
 
 <p><strong>平台中立版本（Windows系统）</strong>: 找到OmegaT启动脚本文件（OmegaT.bat）。</p>
 
 <p><strong>Linux 版本/系统</strong>：找到你的OmegaT启动脚本文件（OmegaT或OmegaT.sh）。</p>
 
-<p>在执行启动脚本文件时检查是否启动了OmegaT<br/>-在Linux系统上，使用命令行<br/>- 在Windows系统上，点击启动脚本文件</p>
+<p>Check that OmegaT is launched when you execute the launch script file:<br/>
+- On Linux, on the command line<br/>
+- On Windows, by clicking on the launch script file</p>
 
 
 <h3>安装分词器</h3>
 
 <p>做好安装准备工作之后（见上文），按照如下步骤安装分词器：</p>
 
-<p>1. 下载 <a href="http://sourceforge.net/projects/omegat-plugins/files/OmegaT-tokenizers/OmegaT%202.1.1%20and%20later/0.5-2.1/OmegaT-tokenizers_0.5-2.1.zip/download">分词器压缩包 (OmegaT 2.1.1 及之后版本适用）</a>.</p>
+<p>1. Download the 
+<a href="http://sourceforge.net/projects/omegat-plugins/files/OmegaT-tokenizers/OmegaT%202.1.1%20and%20later/0.5-2.1/OmegaT-tokenizers_0.5-2.1.zip/download">tokenizer zip package (for OmegaT version 2.1.1 and later)</a>.</p>
 
-<p>2. 从分词器压缩包中解压文件</p>
+<p>2. Unzip the files from the tokenizer zip package.</p>
 
-<p>3. 在OmegaT主程序文件夹（即包含文件OmegaT.jar的文件夹）中，如果尚未存在名为“plugins”的子文件夹，则创建一个名为“plugins”的子文件夹。把你从分词器压缩包中解压缩的文件直接复制到此子文件夹中。</p>
+<p>3. In the main OmegaT program folder (i.e. the folder containing the file OmegaT.jar), create a sub-folder called "plugins", if a sub-folder with this name does not already exist. Copy the files that you have unzipped from the tokenizer package directly into this sub-folder.</p>
 
-<p>4. 在文本编辑器中打开启动脚本文件。（特别是）Windows用户： <strong>不要</strong> 直接点击此文件。相反，启动文本编辑器（例如记事本或写字板），然后使用“文件&gt;打开”打开启动脚本文件。你也可以在文件上单击鼠标右键，然后选择一个文本编辑器打开它。</p>
+<p>4. Open your launch script file in a text editor. Windows users (in particular): do <strong>not</strong> simply click on this file. Instead, launch a text editor (such as Notepad or Wordpad), then open the launch script file with File &gt; Open. You may also be able to right-click with the mouse on the file, then select a text editor in which to open it.</p>
 
-<p>5. 启动文件脚本包含OmegaT启动命令。该命令的基本形式为：</p>
+<p>5. The launch file script contains the OmegaT launch command. The basic form of this command is:</p>
 
 <p> java -jar OmegaT.jar</p>
 
 <p>根据您的系统配置，启动命令可能会稍有不同。</p>
 
-<p>6. 根据你的 <strong>源</strong> 语言，从以下列表中选择一个分词器：</p>
+<p>6. Choose a tokenizer from the following list, according to your <strong>source</strong> language:</p>
 
 <p>org.omegat.plugins.tokenizer.LuceneArabicTokenizer<br/>
 org.omegat.plugins.tokenizer.LuceneBrazilianTokenizer<br/>
@@ -87,20 +91,20 @@ org.omegat.plugins.tokenizer.SnowballTurkishTokenizer</p>
 
 <p>注意：这整个命令必须是一行（即使它在你正在阅读的显示器上可能显示为两行）。</p>
 
-<p>7. 执行这个文件，现在再打开OmegaT ，应该就能使用分词功能了。若要验证这一点，请检查在当前OmegaT片段中包含术语表中词汇的变形的情况下，词汇表术语是否仍能显示。</p>
+<p>7. Execute this file, and OmegaT should now launch with the tokenizer function. To test, check whether glossary entries are displayed even when the current OmegaT segment contains a term in an inflected form from that in the glossary.</p>
 
-<p>8. 如果你要从多种源语言进行翻译，因此你希望使用不同的分词器，请为你希望使用的每个分词器创建单独的OmegaT启动脚本文件。为启动脚本文件进行合适的命名，例如，把包含英语分词器命令的启动脚本文件命名为“OmegaT-EN.bat”,把包含土耳其语分词器命令的启动脚本文件命名为“OmegaT-TR.bat”</p>
+<p>8. If you wish to use different tokenizers because you translate from more than one language, create a separate OmegaT launch script file for each tokenizer you wish to use. Name the launch script files appropriately, for example "OmegaT-EN.bat" for the launch script file containing the command with the English tokenizer and "OmegaT-TR.bat" for the launch script file containing the command with the Turkish tokenizer.</p>
 
-<p>9. 在某些情况下，你可能会发现源语言标记器会干扰目标语言拼写检查器。你可以通过也为目标语言指定一个分词器（如果可用），并使用参数--ITokenizerTarget =来消除此问题。</p>
+<p>9. In some cases, you may find that the source-language tokenizer interferes with the target-language spelling checker. You can eliminate this problem by specifying a tokenizer for the target language as well (where available), with the argument --ITokenizerTarget=.</p>
 
 <p>例如，如果你要从汉语翻译成荷兰语，尝试：</p>
 
 <p>java -jar OmegaT.jar %* --ITokenizer=org.omegat.plugins.tokenizer.LuceneChineseTokenizer --ITokenizerTarget=org.omegat.plugins.tokenizer.LuceneDutchTokenizer</p>
 
-<p>10. 在如上所述创建启动脚本之后，您可以配置你的系统以便更方便地启动OmegaT，例如创建快捷方式。在Windows中创建快捷方式：</p>
+<p>10. After creating a launch script as described above, you can configure your system so that OmegaT is launched more conveniently, for example by creating a shortcut. To create a shortcut in Windows:</p>
 
-<p>右键单击启动脚本（OmegaT.bat），然后按住鼠标右键，将脚本拖到方便的位置，例如桌面。当你释放右键时，会打开一个对话框，其中包含多个选项。选择“在此创建快捷方式”。</p>
-<p>或者，右键单击启动脚本。选择：“发送到”，然后选择“桌面（创建快捷方式）”。</p>
+<p>Right-click on the launch script (OmegaT.bat), then keeping the right mouse button depressed, drag the script to a convenient location, such as your desktop. When you release the right click, a dialog opens with a number of options. Choose "Create Shortcuts Here".</p>
+<p>Alternatively, right-click on the launch script. Select: "Send to", then select "Desktop (create shortcut)".</p>
 <p>在创建并测试快捷方式之后，你可以将其拖动到“开始”菜单，这样就可以将其添加到“开始”菜单中。</p>
 <p>版权归属于Marc Prior 2010-2011</p>
 

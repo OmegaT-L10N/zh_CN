@@ -6,7 +6,10 @@
   <section id="user.interface.items">
     <title>OmegaT主窗口、其他窗口及对话框</title>
 
-    <para>OmegaT主窗口包括主菜单、状态栏和几个窗格。还有另外的用来改变OmegaT项目设置的窗口和对话框。下面的信息概述了它们的用途和调用方式：</para>
+    <para>OmegaT main window contains the main menu, status bar and several
+    panes. Additional windows are available, as well as dialogs, used to
+    change OmegaT project settings. The information below summarizes their use
+    and how they are invoked:</para>
 
     <table colsep="0" rowsep="0">
       <title>OmegaT主窗口<indexterm class="singular">
@@ -186,7 +189,11 @@
       </mediaobject>
     </figure>
 
-    <para>主窗口由几个窗格、主菜单和状态栏组成。您可以改变任何窗格的位置，甚至可以通过点击和拖动窗格的名称将其变成独立的窗口。根据窗格的不同状态，在它的右上角可能会显示不同的标志：</para>
+    <para>The main window consists of several panes, the main menu and a
+    status bar. You can change the position of any pane or even undock it to a
+    separate window by clicking and dragging the pane by its name. Depending
+    on the pane status, different signs can appear at its top right
+    corner:</para>
 
     <note>
       <para>如果您无法看到所有窗格（处于打开或最小化状态），按下<guisubmenu>选项&gt;恢复主窗口</guisubmenu>将把它们恢复为原始状态。</para>
@@ -274,15 +281,23 @@
       </tgroup>
     </table>
 
-    <para>需要时您可以重叠窗格。重叠后的窗格将在顶部显示一个标签。窗格之间的分割线可以拖动来改变窗格的尺寸。当您忘记了对用户界面进行哪些调整后，可在任何时候使用<guimenuitem><indexterm class="singular">
+    <para>You can overlap panes if desired. When this is done the panes
+    display a tab at the top. The separators between the panes can be dragged
+    to resize panes. Should you lose track of your changes to the user
+    interface, you can use <guimenuitem><indexterm class="singular">
         <primary>OmegaT 窗口</primary> <seealso>OmegaT 窗口和窗格</seealso>
       </indexterm> <indexterm class="singular">
         <primary>OmegaT 窗口</primary> <secondary>恢复原始设置</secondary>
-      </indexterm>选项→恢复主窗口</guimenuitem>来恢复原始布局。</para>
+      </indexterm>Options → Restore the main window</guimenuitem> any time to
+    return to the original layout.</para>
 
     <para>可以将文件拖放到每个窗格，窗格将作出相应反应。<itemizedlist>
         <listitem>
-          <para>编辑窗格：如果一个OmegaT项目文件（<filename>omegat.project</filename>）被拖放至该窗格内，当前打开的任何项目将先被关闭，相应的被拖放项目将被打开。其他被拖放文件将被复制到<filename>源&lt;/ f1&gt;文件夹。此操作也适用于<link linkend="section.project.files">项目文件</link>窗口。</para>
+          <para>Editor pane: If an OmegaT project file
+          (<filename>omegat.project</filename>) is dropped on this pane, the
+          corresponding project will be opened, closing first any opened
+          project. Other dropped files will be copied to the
+          <filename>source</filename> folder. This applies also to the <link linkend="section.project.files">Project files</link> window.</para>
         </listitem>
 
         <listitem>
@@ -332,28 +347,85 @@
       </tgroup>
     </table>
 
-    <para>在实际中，最重要的数字是第二对，它告诉您总的有多少，到现在已经做了多少。在这个例子中显然项目已经完成了，因为已经翻译了所有的唯一片段。</para>
+    <para>From a practical point of view, the most important pair of numbers
+    is the second pair: it tells, how much you have done so far, in relation
+    to the total or second number. The project in the example is evidently
+    finished, as all the unique segments have been translated.</para>
 
     <section id="editor.pane">
       <title>编辑器窗格<indexterm class="singular">
           <primary>OmegaT 窗口和窗格</primary> <secondary>编辑器窗格</secondary>
         </indexterm></title>
 
-      <para>这是输入和编辑译文的地方。编辑窗格显示部分被翻译的文本：已经被翻译好的文本将会显示为已翻译，而未翻译的文本以原始语言显示。显示的文本被分成片段，您可以在文档中上下移动或者双击某个片段进行编辑。在上面的情况中，已译片段显示为黄色。</para>
+      <para>This is where you type and edit your translation. The Editor pane
+      displays the text of the partially translated document: the text already
+      translated is displayed in translation while the untranslated text is
+      displayed in the original language. The displayed text is split into
+      segments and you may scroll through the document and double-click on any
+      segment to open and edit it. In the above case, the segments already
+      translated are shown in yellow.</para>
 
-      <para>其中某个片段是激活状态的片段。这是那个显示为两部分的片段。上面部分是源语言，使用绿色背景并加粗字体显示；下面部分是编辑区域，以标记结尾：<indexterm class="singular">
+      <para>One of the above segments is the current segment. It is the
+      segment that is displayed in two parts. The upper part is in the source
+      language, in bold characters with a green background color, the lower
+      part is the editing field, ended by a marker: <indexterm class="singular">
           <primary>片段标记</primary>
-        </indexterm>这里的标记是 <literal>&lt;segment nnnn&gt;</literal>，其中 nnnn 为当前片段在项目中的编号。您可以使用上面部分作为参考，覆盖或者修改编辑区域的内容以使它包括译文。</para>
+        </indexterm>the marker is <literal>&lt;segment nnnn&gt;</literal>
+      where nnnn is a number of the segment in the project. Use the upper part
+      as a reference and replace or modify the contents of the editing field
+      with your translation.</para>
 
-      <para>提示：片段不唯一时，片段标记将显示<literal>&lt;段nnnn + yy 更多&gt;。这种情况下，yy是该项目中出现的片段总数。</literal></para>
+      <para>Note: the segment marker displays <literal>&lt;segment
+      nnnn +yy more&gt; when the segment is non-unique. In that case, yy is
+      the number of other occurrences of the segment in the
+      project.</literal></para>
 
-      <para>根据不同的首选编辑行为，未译片段的编辑区域可能是空的、可能包含源文本或者与待译内容最接近的字符串的译文。移动到另一个片段时，译文将被确认并保存。如果您想让译文等同于原文，只需简单地删除所有文本使编辑区域为空（<keycap>Ctrl+A</keycap> 然后用 <keycap>Del</keycap> 删除）。OmegaT 会保存等同于原文的译文。该功能对翻译包含商标、姓名或专用名词以及不须翻译的第三方语言的文档非常有用。请参阅<emphasis>译文编辑</emphasis>了解更多信息。</para>
+      <para>Depending upon the preferred editing behavior, the editing field
+      for the untranslated segment may be empty, contain the source text, or
+      contain the translation of the string most similar to the one to be
+      translated. When you move to another segment, the translation is
+      validated and stored. If you want the translation to be the same as the
+      source, simply make the editing field empty by removing all the text
+      (select all with <keycap>Ctrl+A</keycap> and delete with
+      <keycap>Del</keycap>). OmegaT is able to store translations that are
+      identical to the source. This is useful for documents that contain trade
+      marks, names or other proper nouns, or parts in a third language that do
+      not require translation. See <emphasis>Translation editing</emphasis>
+      for more details.</para>
 
-      <para>如果在编辑窗格中点击右键，会打开弹出菜单，其中提供了<emphasis role="bold">剪切、复制、粘贴</emphasis>（即功能等同于 <keycombo> <keycap>Ctrl</keycap> <keycap>X</keycap> </keycombo>, <keycombo> <keycap>Ctrl</keycap> <keycap>C</keycap> </keycombo> 和 <keycombo> <keycap>Ctrl</keycap> <keycap>V</keycap> </keycombo>）；<emphasis role="bold">转到片段</emphasis>功能和<emphasis role="bold">添加术语表入口</emphasis>功能。另外，在打开的片段上右击，会出现<emphasis role="bold">替换译文</emphasis>的选项，例如跳转到若干片段中的另一个实例。</para>
+      <para>If you right click on the Editor pane, a pop-up menu opens,
+      offering<emphasis role="bold"> Cut, Copy, Paste</emphasis> (i.e. same
+      functions as <keycombo>
+          <keycap>Ctrl</keycap>
 
-      <para>可以从主窗口中的任何位置拖动文本并将其放入片段内。从目标片段之外拖动的文本将被复制，而目标片段内部拖动的文本将被移动。</para>
+          <keycap>X</keycap>
+        </keycombo>, <keycombo>
+          <keycap>Ctrl</keycap>
 
-      <para>默认情况下，如果不使用鼠标而使用键盘，无法在源片段中选择单词。按下<keycap>F2</keycap>键可以使用键盘箭头在源片段（或编辑器中的任何位置）中移动光标。在此模式下，窗格底部会显示“<guilabel>光标解锁</guilabel>”。要回到标准模式“<guilabel>光标锁定</guilabel>”，再次按<keycap>F2</keycap>。</para>
+          <keycap>C</keycap>
+        </keycombo> and <keycombo>
+          <keycap>Ctrl</keycap>
+
+          <keycap>V</keycap>
+        </keycombo>), <emphasis role="bold">GoTo segment</emphasis> and
+      <emphasis role="bold">Add glossary entry</emphasis> functions. In
+      addition, when the right click occurs on an opened segment, other
+      options concerning <emphasis role="bold">Alternative
+      translations</emphasis> are proposed, for example to to jump to another
+      instance of non-unique segments.</para>
+
+      <para>It is possible to drag text from anywhere in the main window and
+      to drop it within the segment. Texted dragged from outside the target
+      segment is copied, while text dragged from within the segment is
+      moved.</para>
+
+      <para>By default, it is not possible to select words in the source
+      segment using the keyboard rather than the mouse. Pressing
+      <keycap>F2</keycap> key allows to move the cursor into the source
+      segment (or anywhere in the editor) with the keyboard arrows. In this
+      mode, &quot;<guilabel>Cursor lock off</guilabel>&quot; is displayed at the bottom
+      of the pane. To come back to the standard mode &quot;<guilabel>Cursor lock
+      on</guilabel>&quot;, press <keycap>F2</keycap> again.</para>
     </section>
 
     <section id="match.viewer">
@@ -381,21 +453,43 @@
 
       <para>匹配查看器中显示译法记忆中最相似的片段，包括您在项目翻译过程中创建的项目翻译记忆，也包括从您早前工作中导入的辅助记忆，或者是您从客户或翻译代理那里得到得到的。</para>
 
-      <para>当您进入下一片段，第一个模糊匹配（拥有最高匹配百分比的那个）自动被选中。您可以使用 <guimenuitem>Ctrl+2, 3, 4 或 5</guimenuitem>选择另一个。<indexterm>
+      <para>When you move to the next segment, the first fuzzy match (the one
+      with the best matching percentage) is automatically selected. You may
+      select a different match by pressing <guimenuitem>Ctrl+2, 3, 4, or
+      5</guimenuitem>.<indexterm>
           <primary>快捷键</primary> <secondary>选择匹配——Ctrl+N</secondary>
-        </indexterm>当然，如果没有第 5 号匹配，按下<keycombo> <keycap>Ctrl</keycap> <keycap>5</keycap> </keycombo>是没有效果的。要在译文中使用选中的匹配，请使用 <guimenuitem>Ctrl+R</guimenuitem><indexterm class="singular">
+        </indexterm> Of course, pressing <keycombo>
+          <keycap>Ctrl</keycap>
+
+          <keycap>5</keycap>
+        </keycombo> will have no effect, if there is no match #5. To use the
+      selected match in your translation, use
+      <guimenuitem>Ctrl+R</guimenuitem><indexterm class="singular">
           <primary>快捷键</primary> <secondary>替换文本——Ctrl+R</secondary>
-        </indexterm> 以用匹配替换目标区域，或使用 <guimenuitem>Ctrl+I <indexterm class="singular">
+        </indexterm> to replace the target field with the match or use
+      <guimenuitem>Ctrl+I <indexterm class="singular">
           <primary>快捷键</primary> <secondary>插入——Ctrl+I</secondary>
-        </indexterm></guimenuitem> 以将匹配插入到当前光标位置。</para>
+        </indexterm></guimenuitem> to insert it at the cursor position.</para>
 
-      <para>匹配率大体上相当于匹配片段和被匹配片段中相同的单词数量，并除以两者单词数量中较大者。被选中的模糊匹配会以粗体突出显示，对正在翻译片段中缺少的单词显示为蓝色，而在缺少单词旁边的单词显示为绿色。在上述示例中源片段为<emphasis role="bold">Context menu command</emphasis>。第一个匹配度是100%，因为所有的单词都相同。而接下来的两个匹配和第4个匹配是类似的，但不同。在显示匹配率的这一行还显示了包含该匹配的翻译记忆的名称<indexterm class="singular">
+      <para>The matching percentage is roughly equivalent to taking the number
+      of common words in the matched and the matching segment and dividing by
+      the number of words in the longer of the two. The selected fuzzy match
+      is highlighted in bold, words that are missing in the segment you are
+      translating are colored blue and words adjacent to the missing parts
+      green. In the above example the source segment is <emphasis role="bold">Context menu command</emphasis>. The top match is 100%,
+      because all words match. So do the next two matches, and the match #4 is
+      similar, but different. The line with the matching percentage also
+      includes the name of the translation memory <indexterm class="singular">
           <primary>翻译记忆</primary> <secondary>匹配</secondary>
-        </indexterm>。如果未显示文件名，则发现匹配的源为缺省项目的翻译记忆。孤立片段<indexterm class="singular">
+        </indexterm> containing the match. If there's no file name displayed,
+      the source is the internal project translation memory. Orphan
+      segments<indexterm class="singular">
           <primary>翻译记忆</primary> <secondary>孤立片段</secondary>
-        </indexterm>（第2个匹配）表示该片段存在默认项目的翻译记忆中，但不存在于项目的源片段。</para>
+        </indexterm> (the match #2) describe segments in the default project
+      translation memory that have no corresponding source segment.</para>
 
-      <para>实际上还有三个可用的匹配估计（在上面第4个匹配中为66/66/30）。它们的含义如下：</para>
+      <para>There are actually three match estimates available (66/66/30 in
+      the case of the match #4 above). They are defined as follows:</para>
 
       <itemizedlist>
         <listitem>
@@ -442,7 +536,8 @@
           </mediaobject>
         </figure>
 
-        <para>上图显示了默认的匹配显示模板。可以下列变量定制该内容：</para>
+        <para>The figure above shows the default match display template. The
+        contents can be customized using following variables:</para>
 
         <table colsep="0" rowsep="0">
           <title>匹配窗格设置<indexterm class="singular">
@@ -560,7 +655,13 @@
           <primary>OmegaT 窗口和窗格</primary> <secondary>术语表窗格</secondary>
         </indexterm></title>
 
-      <para>术语表窗格允许您使用个人收集的词汇和专业术语，这些词汇都存放在术语表文件中。它显示当前片段中找到的术语。下面例子中源片段为“<emphasis>Context menu command</emphasis>”（就像上面例子中模糊匹配显示的一样），显示出在可用的术语表（微软术语集和斯洛文尼亚语Linux用户组术语表）中找到的术语。</para>
+      <para>The Glossary pane allows you to access your own collection of
+      expressions and specialist terminology which you have built up in your
+      glossary files. It shows translation of terms found in the current
+      segment. The source segment in the example below was “<emphasis>Context
+      menu command</emphasis>”, as in the Fuzzy Matches example above, and the
+      terms shown were found in the glossaries, available (Microsoft's Term
+      collection and Slovenian Linux User group Glossary).</para>
 
       <figure id="multiword.pane">
         <title><indexterm class="singular">
@@ -578,7 +679,13 @@
         </mediaobject>
       </figure>
 
-      <para>如果您激活<guimenuitem>选项→翻译提示</guimenuitem>中的翻译提示，那么可在源片段中突出显示的单词上点击右键来打开包含由术语表提供的可选译文的弹出菜单。选择其中一个可将其插入到目标片段的当前光标位置。您可以让术语表窗格中的首选译文突出显示，并通过右键点击选区来将它插入目标片段中。</para>
+      <para>If you have TransTips option activated (<guimenuitem>Options →
+      TransTips</guimenuitem>), you can right click on the highlighted word in
+      the source segment to open a pop-up menu with suggested translation, as
+      offered by your glossary. Selecting one of them will insert it at the
+      current cursor position into the target segment. You can also highlight
+      your preferred alternative in the glossary pane and insert it into the
+      target by right clicking on the selection.</para>
     </section>
 
     <section id="dictionaries">
@@ -586,7 +693,9 @@
           <primary>OmegaT 窗口和窗格</primary> <secondary>词典窗格</secondary>
         </indexterm></title>
 
-      <para>词典是等同于 Merriam Webster、Duden、Larousse 等桌面上的印刷词典的电子版本。请在<link linkend="chapter.dictionaries">词典</link>章节中了解关于它们的更多信息</para>
+      <para>Dictionaries are the electronic equivalents of printed
+      dictionaries like Merriam Webster, Duden, Larousse etc., that you may
+      have on your desk. See more about them in the chapter on <link linkend="chapter.dictionaries">Dictionaries</link></para>
     </section>
 
     <section id="Multiple.Translations">
@@ -594,19 +703,35 @@
           <primary>OmegaT窗口和窗格</primary> <secondary>多选译文窗格</secondary>
         </indexterm></title>
 
-      <para>特定的源片段在不同的语境中可能需要集中不同的翻译。如果片段的当前译文不适合，则用户可选择<guisubmenu>编辑→创建可选译文</guisubmenu>。之后输入的目标文本会被视为当前源片段的可选译文。您可以通过<guisubmenu>编辑→用作默认译文</guisubmenu>指定某个可选译文（例如其中可能性最大的译文）为默认译文。</para>
+      <para>A given source segment may require several different translations,
+      depending on the context. If the current translation of the segment does
+      not fit, the user can select <guisubmenu>Edit → Create Alternative
+      Translation</guisubmenu>. The target text entered after that will be
+      treated as an alternative translation of the source segment. You can
+      define one of the alternative - for instance the most probable among
+      them - as default translation by selecting <guisubmenu>Edit → Use as
+      Default Translation</guisubmenu></para>
     </section>
 
     <section>
       <title>笔记窗格</title>
 
-      <para>译员可添加笔记到打开的片段（例如之后返回该片段并撤销译文、检查可选译文是否正确或询问同事的看法。您可通过<guisubmenu>前往→后一笔记</guisubmenu>和<guisubmenu>前往→前一笔记</guisubmenu>以浏览笔记。</para>
+      <para>The translator can add notes to the opened segment, for instance
+      to come back later to the segment and redo the translation, check that
+      alternative translations are correct or to ask colleagues for their
+      opinion. You can browse through notes using <guisubmenu>GoTo → Next
+      Note</guisubmenu> and <guisubmenu>GoTo → Previous
+      Note</guisubmenu>.</para>
     </section>
 
     <section>
       <title>注解面板</title>
 
-      <para>某些专门用于翻译工作的文件格式（例如PO）允许包含注释。这样就为译者提供了待译片段的相关信息。在下面的示例中，包含为译者提供警告的PO文件可用于其作者检查译文的长度：</para>
+      <para>Some of the file formats, specialized for translation work, for
+      instance PO, allow the inclusion of comments. This way the translator
+      can be provided the context about the segment to be translated. In the
+      example below, the author of the PO file included a warning for the
+      translator to check the length of the translation:</para>
 
       <figure id="comments.pane">
         <title>注解面板<indexterm class="singular">
@@ -630,19 +755,31 @@
           <primary>OmegaT窗口和窗格</primary> <secondary>机器翻译窗格</secondary>
         </indexterm></title>
 
-      <para>在机器翻译窗格中，打开后其中会包含由机器翻译工具为当前片段提供的翻译建议。按 <keysym>Ctrl+M </keysym>可使用建议译文替换当前片段的译文。请到<link linkend="chapter.machine.translate">机器翻译</link>章节了解更多</para>
+      <para>The machine translation pane, when opened, contains the
+      suggestions by machine translation tools for the current segment. Press
+      <keysym>Ctrl+M</keysym> to replace the translation of the current
+      segment with the suggested translation. More in the chapter <link linkend="chapter.machine.translate">Machine translation</link></para>
     </section>
 
     <section>
       <title id="main.menu">主菜单</title>
 
-      <para>通过主菜单可访问 <application>OmegaT</application> 的所有功能。参阅<emphasis>主菜单</emphasis>附录了解所有菜单和菜单项的完整描述。最常用的功能可以使用键盘快捷键访问，因此当您习惯了使用它们之后，在翻译的时候根本不需要使用菜单。请参阅<link linkend="chapter.menu">菜单和键盘快捷键</link>了解细节。</para>
+      <para>The main menu provides access to all
+      <application>OmegaT</application> functions. See the <emphasis>Main
+      Menu</emphasis> appendix for a full description of all menus and menu
+      items. The most frequently used functions are accessible with keyboard
+      shortcuts, so once you become accustomed to them, you will no longer
+      need to browse through the menus while translating. See chapter <link linkend="chapter.menu">Menu and Keyboard shortcuts</link> for
+      details.</para>
     </section>
 
     <section id="status.bar">
       <title>状态栏</title>
 
-      <para>在主窗口底部的状态栏显示和工作流相关的信息。该栏目向用户给出仅在进行的某个操作的反馈。它也会显示和当前片段匹配的模糊和术语的数量。</para>
+      <para>The status bar displays work-flow related messages at the bottom
+      of the main window. This bar gives the user feedback on specific
+      operations that are in progress. It also displays the number of fuzzy
+      and glossary matches for the current segment.</para>
     </section>
   </section>
 
@@ -654,25 +791,38 @@
           <primary>OmegaT 窗口和窗格</primary> <secondary>项目文件</secondary>
         </indexterm></title>
 
-      <para>项目文件窗口显示所有的项目文件和其他项目的信息。当 OmegaT 载入项目时这个窗口自动出现。</para>
+      <para>The Project Files window lists the project files and displays
+      other project information. It is displayed automatically when OmegaT
+      loads a project.</para>
 
       <para><remark>提示：</remark>可以通过在<filename>omegat.prefs</filename>文件中将<emphasis>project_files_show_on_load</emphasis>设置为<emphasis>false</emphasis>来禁止显示此项目文件窗口（文件仍可通过选项/访问配置文件夹菜单访问）。</para>
 
-      <para>使用 <guimenuitem>Ctrl+L<indexterm class="singular">
+      <para>Use <guimenuitem>Ctrl+L<indexterm class="singular">
           <primary>快捷键</primary> <secondary>项目文件列表——Ctrl+L</secondary>
-        </indexterm></guimenuitem> 打开，使用 <keycap>Esc</keycap> 关闭。项目文件窗口显示了下列信息：</para>
+        </indexterm></guimenuitem> to open and <keycap>Esc</keycap> to close
+      it. The Project Files Window displays the following information:</para>
 
       <itemizedlist>
         <listitem>
-          <para>项目中可翻译文件总数。这些是指以OmegaT能够识别的格式存储于/source文件夹中的文件。该数据显示在“项目文件”标题旁边的括号内。</para>
+          <para>the total number of translatable files in the project. These
+          are the files present in the /source folder in a format that OmegaT
+          is able to recognize. This number is displayed in brackets, next to
+          the &quot;Project file&quot; title</para>
         </listitem>
 
         <listitem>
-          <para>项目中所有待译文件组成的列表。点击任何一份文件将打开它用于翻译</para>
+          <para>the list of all translatable files in the project. Clicking on
+          any file will open it for translation.</para>
 
-          <para>输入任何文本都会打开一个Filter字段，其中可以输入部分文件名。您可以使用<keycap>Up</keycap>和<keycap>Down</keycap>选择文件，然后按<keycap> Enter</keycap>打开此文件开始翻译。</para>
+          <para>Typing any text will open a Filter field where parts of
+          filenames can be entered. You can select a file with
+          <keycap>Up</keycap> and <keycap>Down</keycap> keys, and open it for
+          translation by pressing <keycap>Enter</keycap></para>
 
-          <para>提示：单击标题可将文件名（第一列）按字母顺序排序。也可以通过单击并长按<emphasis>移动...</emphasis>按钮来更改文件名的位置。</para>
+          <para>Note: filenames (in first column) can be sorted alphabetically
+          by clicking in the header. It also possible to change the position
+          of a filename, by clicking on it and pressing <emphasis>Move
+          ...</emphasis> buttons.</para>
 
           <para>右键单击文件名将打开一个弹出窗口，允许打开源文件（如果源文件存在）和目标文件。</para>
         </listitem>
@@ -690,15 +840,37 @@
         </listitem>
       </itemizedlist>
 
-      <para><emphasis role="bold">唯一</emphasis>片段数目的计算方法为统计所有的片段并去除所有重复片段。（“唯一” 的判断方法是区分大小写的：&quot;Run&quot; 和 &quot;run&quot; 被看作是不同的片段）</para>
+      <para>The set of <emphasis role="bold">Unique </emphasis>segments is
+      computed by taking all the segments and removing all duplicate segments.
+      (The definition of “unique” is case-sensitive: &quot;Run&quot; and &quot;run&quot; are
+      treated as being different)</para>
 
-      <para>通过“片段数”和“唯一片段数”的差异可粗略估算出文本中有多少重复内容。但是请注意：该数字并未透露这些重复的相关性，它们可能是多次重复的相当长的句子（此时是幸运的）或关键字表格（不那么幸运了）。项目 omegat 文件夹中的 <filename>project_stats.txt</filename> 提供了每份文件更多的片段细节信息。</para>
+      <para>The difference between &quot;Number of segments&quot; and &quot;Number of unique
+      segments&quot; provides an approximate idea of the number of repetitions in
+      the text. Note however that the numbers do not indicate how relevant the
+      repetitions are: they could mean relatively long sentences repeated a
+      number of times (in which case you are fortunate) or it could describe a
+      table of keywords (not so fortunate). The
+      <filename>project_stats.txt</filename> located in the omegat folder of
+      your project contains more detailed segment information, broken down by
+      file.</para>
 
-      <para>修改分割规则可能改变片段数和唯一片段数。然而，一旦启动项目的翻译工作，就应该避免发生这样的事情。请参阅<emphasis>分割规则</emphasis>章节了解更多信息。</para>
+      <para>Modifying the segmentation rules may have the effect of modifying
+      the number of segments/unique segments. This, however, should generally
+      be avoided once you have started translating the project. See the
+      chapter <emphasis>Segmentation rules</emphasis> for more
+      information.</para>
 
       <para><emphasis role="bold"><indexterm class="singular">
           <primary>源文件</primary> <secondary>添加文件到项目</secondary>
-        </indexterm>添加文件到项目：</emphasis>您可以通过点击<guimenuitem>“导入源文件”</guimenuitem>按钮将源文件添加到项目中。它将选中的文件拷贝到 <filename>/source</filename> 目录并重新载入项目以导入新文件。通过点击<guimenuitem>“从 MediaWiki 导入”</guimenuitem>按钮并输入相应的网址，您还可以添加互联网页中用MediaWiki编写的源文件。</para>
+        </indexterm>Adding files to the project: </emphasis>You can add source
+      files to the project by clicking on the &quot;<guimenuitem>Import Source
+      Files...&quot;</guimenuitem> button. This copies the selected files to the
+      <filename>source</filename> folder and reloads the project to import the
+      new files. You can also add source files from Internet pages, written in
+      MediaWiki, by clicking on<guimenuitem> &quot;Import from
+      MediaWiki&quot;</guimenuitem> button and providing the corresponding
+      URL.</para>
     </section>
 
     <section id="section.search.window">
@@ -706,7 +878,17 @@
           <primary>OmegaT 窗口和窗格</primary> <secondary>搜索面板</secondary>
         </indexterm></title>
 
-      <para>您可以用使用搜索窗口查找项目中的某个片段。可以同时打开多个搜索窗口。在主窗口中使用<keycombo> <keycap>Ctrl</keycap> <keycap>F</keycap> </keycombo>可打开一个新的搜索窗口。搜索窗口由三个部分组成：用于输入搜索字符串或关键字的文本框、用于设置搜索的标志和单选按钮、包含搜索结果的显示区域。请参阅<emphasis> <link linkend="chapter.user.interface">搜索</link> </emphasis>章节来了解关于搜索窗口的更多信息。</para>
+      <para>You can use the search window to find specific segments in a
+      project. You can also have several search windows open simultaneously.
+      To open a new search window, use <keycombo>
+          <keycap>Ctrl</keycap>
+
+          <keycap>F</keycap>
+        </keycombo> in the Main window. The search window consists of a text
+      field for search strings or keywords, flags and radio buttons for
+      setting up the search and a display area containing the results of the
+      search. See the chapter<emphasis> <link linkend="chapter.user.interface">Searches</link> </emphasis>for more
+      information about the search window.</para>
     </section>
 
     <section id="section.tag.validation">
@@ -716,7 +898,10 @@
           <primary>OmegaT 窗口和窗格</primary> <secondary>标签验证</secondary> <seealso>标签</seealso>
         </indexterm></title>
 
-      <para>标签检验窗口检测译文中出现的所有标签错误和不一致并列出来。使用<guimenuitem>Ctrl+T 打开该窗口。</guimenuitem>该窗口显示了一个三列表格，其中列出了指向出错片段的链接及其原文和译文内容：</para>
+      <para>The tag validation window detects and lists any tag errors and
+      inconsistencies in the translation. Open the window with
+      <guimenuitem>Ctrl+T. </guimenuitem>The window features a 3 column table
+      with a link to the segment and its source and target contents:</para>
 
       <para><figure id="tag.validator.window">
           <title><indexterm class="singular">
@@ -734,9 +919,22 @@
           </mediaobject>
         </figure></para>
 
-      <para>标签用加粗蓝色突出显示，以便于对源内容和译后内容进行比较。点击该链接可在编辑器窗格中跳转至该片段。如果必要的话，修正错误然后按<guimenuitem>Ctrl+T</guimenuitem> 键返回标签验证窗口以修正其它错误。在上述的第一和第三种情况中，标签的错误成对出现，而在第二种情况中开始标记缺失了 &lt; 标记。</para>
+      <para>Tags are highlighted in bold blue for easy comparison between the
+      original and the translated contents. Click on the link to jump to the
+      segment in the Editor pane. Correct the error if necessary and press
+      <guimenuitem>Ctrl+T</guimenuitem> to return to the tag validation window
+      to correct other errors. In the first and third case above tags are
+      paired incorrectly, and in the second case the &lt; sign is missing from
+      the starting tag.</para>
 
-      <para>标签错误是指译文中标签的顺序和数目与源片段不一致。在标签验证窗口中包含的某些情况的标签是必要的和良性的，但有些在创建已译文档时会导致问题。标签通常代表了原始文本中的某种格式。开始翻译前对源文本格式的简化很大程度上有助于减少标签的数目。</para>
+      <para>Tag errors are cases in which the tags in the translation do not
+      correspond in order and number to the original segment. Some tag
+      scenarios flagged in the tag validation window are necessary and are
+      benign, others will cause problems when the translated document is
+      created. Tags generally represent some kind of formatting in the
+      original text. Simplifying the original text formatting in the source
+      file before commencing translation greatly contributes to reducing the
+      number of tags.</para>
     </section>
 
     <section>
@@ -744,13 +942,19 @@
           <primary>统计</primary> <seealso>菜单工具</seealso>
         </indexterm></title>
 
-      <para>统计窗口（通过<emphasis role="bold">工具&gt;统计</emphasis>打开）显示了OmegaT当前项目的统计信息，包括整个项目的总的统计信息和其中每个待译文件的详细情况。这里显示的统计信息是tab分隔的<filename>project_stats.txt</filename>文件（在<filename>omegat</filename>子文件夹），方便用户加载到电子表格程序。您可用<guimenuitem>Ctrl+A <indexterm class="singular">
+      <para>The statistics window - accessed via <emphasis role="bold">Tools&gt;Statistics </emphasis>- shows the statistics of the
+      current OmegaT project, both in the summary form as well as in detail
+      for every file to be translated. The statistics shown is available as a
+      tab-separated <filename>project_stats.txt</filename> file (subfolder
+      <filename>omegat</filename>), ready to be loaded into a spreadsheet
+      program for the user's convenience. You can use <guimenuitem>Ctrl+A
+      <indexterm class="singular">
           <primary>快捷键</primary> <secondary>选择所有——Ctrl+A</secondary>
-        </indexterm></guimenuitem><guimenuitem>、Ctrl+C <indexterm class="singular">
+        </indexterm></guimenuitem><guimenuitem>, Ctrl+C <indexterm class="singular">
           <primary>快捷键</primary> <secondary>复制文本——Ctrl+C</secondary>
-        </indexterm></guimenuitem>、<guimenuitem>Ctrl+V <indexterm class="singular">
+        </indexterm></guimenuitem>, <guimenuitem>Ctrl+V <indexterm class="singular">
           <primary>快捷键</primary> <secondary>粘贴文本——Ctrl+V</secondary>
-        </indexterm></guimenuitem>复制/粘贴其中的内容。<figure id="ProjectStatistic.Window">
+        </indexterm></guimenuitem> to copy/paste the contents. <figure id="ProjectStatistic.Window">
           <title>项目统计</title>
 
           <mediaobject>
@@ -770,7 +974,16 @@
           <primary>匹配统计</primary> <seealso>工具菜单</seealso>
         </indexterm></title>
 
-      <para>通过<guimenuitem>工具/匹配统计</guimenuitem>可访问统计信息。该统计需要CPU进行繁重的运算而耗时较多，所以在计算时会显示进度条。至于相关的分类，下面这些组的分类符合工业标准：重复率、精确匹配、95%-100%、85%-94%、75%-84%、50%-74%和无匹配。这些信息是针对片段、文字和字符（不包括空格）计算的。请注意，由其他CAT工具提供的数据同OmegaT提供的数据之间可能存在细微差异。<figure>
+      <para>The match statistics are accessed via<guimenuitem>Tools&gt;Match
+      Statistics.</guimenuitem> The evaluation is rather CPU intensive and can
+      be time-consuming, so a progress bar is shown during the calculation. As
+      far as categories are concerned, the de facto industry standard of
+      classifying matches into the following groups is used: Repetitions,
+      Exact match, 95%-100%, 85%-94%, 75%-84%, 50%-74% and No match. This
+      information is computed for segments as well as for words and for
+      characters (without and including spaces). Note that there could be
+      minor differences between the OmegaT counts and the numbers, provided by
+      other CAT tools.<figure>
           <title>匹配统计</title>
 
           <mediaobject>
@@ -786,17 +999,42 @@
 
       <para>请注意，这些数据是对项目中所涉及工作的较好（或尽可能好的）估计，因此可以作为您估算成本和价格的基础。</para>
 
-      <para>在最后一列片段间的空格无需考虑。重复表示多次出现在文本中的相同片段。第一个片段及其内容将被归类到“无匹配”中，而剩余片段则被视为第一个的重复。如果在项目的翻译记忆中存在多个相同源片段的译文，这些及其他已译唯一片段将被归类为“精确匹配”。在需要时，标准统计窗口中会显示唯一片段数，不论它们是否已经翻译。</para>
+      <para>Spaces between segments are not taken into account in the last
+      column. Repetitions stand for identical segments present several times
+      in the text. The first segment and its contents will be classified as
+      &quot;no match&quot;, and the rest of them as a repetition of the first. If the
+      translation for several identical source segments already exists in the
+      translation memory of the project, these segments, together with other,
+      already translated unique segments, will be classified as an &quot;Exact
+      match&quot;. The number of unique segments, if needed, is provided in the
+      standard statistics window, regardless of whether they have been
+      translated or not.</para>
 
-      <para>分类中的其他部分 (50-100%) 包含了具有模糊匹配的未译片段。在统计重复和精确匹配时模糊匹配不仅可以来自 <filename>/omegaT</filename>，也可以可以来自 <filename>/tm</filename> 文件夹。与 <filename>project_save</filename> 翻译记忆的匹配的唯一区别是外部 TM 中的统计不会得到精确匹配，而只是 100%。如果不想使用外部翻译记忆参与统计，可以让 /tm 文件夹为空或临时改变项目设置以让 /tm 指向其他地方。</para>
+      <para>The rest of the categories (50-100%) involves untranslated
+      segments with a fuzzy match. Fuzzy matches can come from the
+      <filename>/tm</filename> folder as well - and not just from the internal
+      translation memory in <filename>/omegaT,</filename> as is the case for
+      repetitions and exact matches. The only difference with matches from the
+      <filename>project_save</filename> translation memory is that external
+      TMs cannot give exact matches, only 100%. If one does not wish to use
+      external TMs for counting, one will either have to empty the /tm folder
+      or change the project setup (temporarily) so that the value for /tm
+      points to a different location.</para>
 
-      <para>该匹配统计是 tab 分割的，您可用 <guimenuitem>Ctrl+A <indexterm class="singular">
+      <para>The Match Statistics are tab-separated and you can use
+      <guimenuitem>Ctrl+A <indexterm class="singular">
           <primary>快捷键</primary> <secondary>选择所有——Ctrl+A</secondary>
         </indexterm></guimenuitem><guimenuitem>, Ctrl+C <indexterm class="singular">
           <primary>快捷键</primary> <secondary>复制文本——Ctrl+C</secondary>
         </indexterm></guimenuitem>, <guimenuitem>Ctrl+V <indexterm class="singular">
           <primary>快捷键</primary> <secondary>粘贴文本——Ctrl+V</secondary>
-        </indexterm></guimenuitem> 来复制/粘贴它们，例如到工作表或费用统计程序中。在计算后，该数据还可以在 <filename>omegat/project_stats_match.txt</filename> 中找到。需要注意的是该文件是有时间戳记录的，因为计算不是瞬时的（相对于统计），所以可能很快过时。</para>
+        </indexterm></guimenuitem> to copy/paste them, for instance into a
+      spreadsheet or into your cost-accounting application. Once computed, the
+      data also available in
+      <filename>omegat/project_stats_match.txt.</filename> Note that the file
+      is time-stamped, as the calculation (contrary to the standard
+      statistics) is not instantaneous and can thus quickly become
+      obsolete.</para>
     </section>
 
     <section>
@@ -804,13 +1042,23 @@
           <primary>帮助菜单</primary> <secondary>帮助浏览器</secondary>
         </indexterm></title>
 
-      <para>帮助浏览器（显示本手册）可通过按 <keycap><indexterm class="singular">
+      <para>The help browser (which displays this manual) can be opened by
+      pressing <keycap><indexterm class="singular">
           <primary>快捷键</primary> <secondary>F1——帮助</secondary>
-        </indexterm>F1</keycap> 或调用主菜单中的<guimenuitem><indexterm class="singular">
+        </indexterm>F1</keycap> or navigating to <guimenuitem><indexterm class="singular">
           <primary>帮助菜单</primary> <secondary>用户手册...</secondary>
-        </indexterm>帮助→用户手册...</guimenuitem>条目来打开。在该窗口中会显示手册和两个按钮：退后和内容。用户手册是一份包含各个不同章节链接的 HTML 文档。像在网页浏览器中那样点击一个链接将会打开要看的页面。</para>
+        </indexterm>Help → User Manual...</guimenuitem> in the main menu. In
+      the window, the manual and two buttons are displayed: Back and Contents.
+      The user manual is an HTML document with links to different chapters.
+      Clicking on a link as you would do in a web browser brings the desired
+      page to the front.</para>
 
-      <para>用户手册存放在 OmegaT 安装目录的 doc 子目录中，因此可在浏览器中打开 <filename>doc/en/index.hmtl</filename> 文件来查看英文文档。用这种方法，您也可以打开外部的链接，因为内建的帮助浏览器并不接受外部互联网链接。</para>
+      <para>The user manual is located in the docs subfolder under the OmegaT
+      installation folder, so you may can, for instance, view the English
+      documentation by opening the <filename>docs/en/index.html
+      </filename>file in your browser. Opening the user manual in this way
+      also enables you to follow external links, as the built-in help browser
+      does not accept external Internet links.</para>
     </section>
   </section>
 </chapter>
