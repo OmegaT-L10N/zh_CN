@@ -9224,8 +9224,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>Alex Buloichik (lead developer)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120220T123601Z">
-        <seg>Alex Buloichik (开发人员主管)</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T160153Z">
+        <seg>Alex Buloichik（首席开发人员）</seg>
       </tuv>
     </tu>
     <tu>
@@ -10106,6 +10106,14 @@ The TMX file will not be loaded.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T113134Z" creationid="Wyndy" creationdate="20180418T113134Z">
         <seg>另外一个可能导致兼容性问题的原因是三位的语言编码，OmegaT 完全不支持这种编码。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Anthony Baldwin (localisation manager)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T160022Z" creationid="WynnChen" creationdate="20190326T160022Z">
+        <seg>Anthony Baldwin（本地化经理）</seg>
       </tuv>
     </tu>
     <tu>
@@ -11373,6 +11381,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131101T070757Z" creationid="Fu Rhong" creationdate="20131101T070757Z">
         <seg>Briac Pilpré</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Briac Pilpré (webmaster)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T155840Z" creationid="WynnChen" creationdate="20190326T155840Z">
+        <seg>Briac Pilpré（网站管理员）</seg>
       </tuv>
     </tu>
     <tu>
@@ -13292,6 +13308,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Concepción Martin (Facebook community manager)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T155806Z" creationid="WynnChen" creationdate="20190326T155806Z">
+        <seg>Concepción Martin（Facebook 社区经理）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Confirm</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -13578,8 +13602,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Contributions to the code are documented in /docs/contributors.txt.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T110150Z" creationid="xulihang" creationdate="20180408T110150Z">
-        <seg>为代码做出贡献的名单在这里：/docs/contributors.txt。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T155938Z" creationid="xulihang" creationdate="20180408T110150Z">
+        <seg>对代码的贡献记录在 /docs/contributors.txt 中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14669,6 +14693,16 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Current team:
+(alphabetical order)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T155528Z" creationid="WynnChen" creationdate="20190326T155528Z">
+        <seg>当前团队：
+（按字母顺序）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Currently, &lt;a1&gt;OmegaT&lt;/a1&gt; supports the following plain text formats:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120202T113047Z">
@@ -15297,6 +15331,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131127T120251Z" creationid="Fu Rhong" creationdate="20131127T120251Z">
         <seg>词典窗格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Didier Briel (project manager)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T160027Z" creationid="WynnChen" creationdate="20190326T160027Z">
+        <seg>Didier Briel（项目经理）</seg>
       </tuv>
     </tu>
     <tu>
@@ -20196,6 +20238,14 @@ script provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Henry Pijffers (release manager)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T160251Z" creationid="WynnChen" creationdate="20190326T160251Z">
+        <seg>Henry Pijffers（发布经理）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Here a platform-independent package in a standard Java form is considered.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131116T032215Z" creationid="Fu Rhong" creationdate="20131116T031922Z">
@@ -20912,8 +20962,8 @@ script provided (omegat.kaptn).</seg>
         <seg>If Java is installed at system level and is in the command path, the full path
 need not be entered.)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T110052Z" creationid="xulihang" creationdate="20180408T110052Z">
-        <seg>如果系统上安装了Java且处于命令行路径中，则无需输入它的完整路径。）</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T155441Z" creationid="xulihang" creationdate="20180408T110052Z">
+        <seg>如果 Java 是在系统级安装的且处于命令行路径中，则无需输入完整路径。）</seg>
       </tuv>
     </tu>
     <tu>
@@ -25399,10 +25449,26 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Jean-Christophe Helary (Twitter community manager)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T155751Z" creationid="WynnChen" creationdate="20190326T155751Z">
+        <seg>Jean-Christophe Helary（Twitter 社区经理）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Jean-Christophe Helary (localization manager)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120127T054158Z">
         <seg>Jean-Christophe Helary（本地化管理员）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Jean-Christophe Helary (support group owner, localisation manager)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T160238Z" creationid="WynnChen" creationdate="20190326T160238Z">
+        <seg>Jean-Christophe Helary（支持小组组长，本地化经理）</seg>
       </tuv>
     </tu>
     <tu>
@@ -25723,6 +25789,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
         <seg>韩语</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Kos Ivantsof (localisation manager)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T155801Z" creationid="WynnChen" creationdate="20190326T155801Z">
+        <seg>Kos Ivantsof（本地化经理）</seg>
       </tuv>
     </tu>
     <tu>
@@ -26817,6 +26891,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Lucie Vecerova (Facebook community manager)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T155853Z" creationid="WynnChen" creationdate="20190326T155853Z">
+        <seg>Lucie Vecerova（Facebook 社区经理）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Luganda</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131108T025921Z" creationid="Fu Rhong" creationdate="20131108T025921Z">
@@ -27257,6 +27339,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Marc Prior (project co-ordinator, webmaster)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T160309Z" creationid="WynnChen" creationdate="20190326T160309Z">
+        <seg>Marc Prior（project co-ordinator、网站管理员）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Marc Prior (webmaster)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T110245Z" creationid="xulihang" creationdate="20180408T110245Z">
@@ -27277,6 +27367,15 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131102T025034Z" creationid="Fu Rhong" creationdate="20131102T024910Z">
         <seg>Marc Prior：由于热爱 OmegaT 和英语而改正我最初的草稿。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Telegram 是一个特定的应用名称（https://web.telegram.org/ ），不翻译。</note>
+      <tuv lang="EN">
+        <seg>Marco Cevoli (Telegram community manager)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T155746Z" creationid="WynnChen" creationdate="20190326T155746Z">
+        <seg>Marco Cevoli（Telegram 社区经理）</seg>
       </tuv>
     </tu>
     <tu>
@@ -27653,6 +27752,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190322T053738Z" creationid="wynnc" creationdate="20190320T045507Z">
         <seg>已达到最大查找数量（{0}）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Maxym Mykhalchuk (lead developper)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T160245Z" creationid="WynnChen" creationdate="20190326T160245Z">
+        <seg>Maxym Mykhalchuk（首席开发人员）</seg>
       </tuv>
     </tu>
     <tu>
@@ -33344,8 +33451,9 @@ project without team functionality.</seg>
         <seg>Previous contributors include:
 (alphabetical order)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
-        <seg>之前做过贡献的人还包括（姓名字母排序）：</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T160013Z" creationid="WynnChen" creationdate="20190326T160013Z">
+        <seg>以前的贡献者包括：
+（按字母顺序）</seg>
       </tuv>
     </tu>
     <tu>
@@ -49468,8 +49576,8 @@ searchable without subscription:</seg>
       <tuv lang="EN">
         <seg>Vincent Bidaux (documentation manager)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T110217Z" creationid="xulihang" creationdate="20180408T110205Z">
-        <seg>Vincent Bidaux (文档管理员)</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T155602Z" creationid="xulihang" creationdate="20180408T110205Z">
+        <seg>Vincent Bidaux（文档经理）</seg>
       </tuv>
     </tu>
     <tu>
