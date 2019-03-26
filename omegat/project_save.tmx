@@ -1888,6 +1888,16 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(If you think you have significantly contributed to the OmegaT Project but you
+(don't see your name on the lists, feel free to contact us.)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T160812Z" creationid="WynnChen" creationdate="20190326T160812Z">
+        <seg>（如果您认为您对 OmegaT 项目做出了重大贡献但名字没有出现在列表中，
+　请随时与我们联系。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(If you wish to launch OmegaT with a user interface language other than English, make the same change in the relevant localized Bundle.properties file.)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="anton" changedate="20180416T090736Z" creationid="anton" creationdate="20180416T090736Z">
@@ -11459,8 +11469,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Bug reports (in English), at the SourceForge site:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130514T151540Z">
-        <seg>在 SourceForge 的下列网址可以（用英语）报告 Bug：</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T161200Z">
+        <seg>在 SourceForge 网站可以（用英语）报告 Bug：</seg>
       </tuv>
     </tu>
     <tu>
@@ -25467,8 +25477,8 @@ itself on the first run.</seg>
       <tuv lang="EN">
         <seg>Jean-Christophe Helary (support group owner, localisation manager)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T160238Z" creationid="WynnChen" creationdate="20190326T160238Z">
-        <seg>Jean-Christophe Helary（支持小组组长，本地化经理）</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T160316Z" creationid="WynnChen" creationdate="20190326T160238Z">
+        <seg>Jean-Christophe Helary（支持小组组长、本地化经理）</seg>
       </tuv>
     </tu>
     <tu>
@@ -27341,8 +27351,8 @@ itself on the first run.</seg>
       <tuv lang="EN">
         <seg>Marc Prior (project co-ordinator, webmaster)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T160309Z" creationid="WynnChen" creationdate="20190326T160309Z">
-        <seg>Marc Prior（project co-ordinator、网站管理员）</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T160408Z" creationid="WynnChen" creationdate="20190326T160309Z">
+        <seg>Marc Prior（项目调度员、网站管理员）</seg>
       </tuv>
     </tu>
     <tu>
@@ -35334,8 +35344,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Requests for Enhancements (in English), at the SourceForge site:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130514T151525Z">
-        <seg>在 SourceForge 网站的下列网址可以（用英语）提出改进建议：</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T161123Z">
+        <seg>在 SourceForge 网站可以（用英语）提出改进建议与意见：</seg>
       </tuv>
     </tu>
     <tu>
@@ -42640,8 +42650,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>The most current info about OmegaT can be found at:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T110313Z" creationid="xulihang" creationdate="20180408T110313Z">
-        <seg>可从下列网址获取 OmegaT 的最新信息：</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T160852Z" creationid="xulihang" creationdate="20180408T110313Z">
+        <seg>关于 OmegaT 的最新信息，请访问：</seg>
       </tuv>
     </tu>
     <tu>
@@ -48958,8 +48968,8 @@ on line {1}, column {2}.</seg>
         <seg>User support, at the Yahoo user group (multilingual), where the archives are
 searchable without subscription:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T110506Z">
-        <seg>在 Yahoo 用户组可以获得（多语种）用户支持，无需订阅也可以对归档进行搜索，网址是：</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T160941Z">
+        <seg>在 Yahoo 用户组可以获得（多语种）用户支持，无需订阅也可以对归档进行搜索：</seg>
       </tuv>
     </tu>
     <tu>
@@ -49616,8 +49626,8 @@ searchable without subscription:</seg>
       <tuv lang="EN">
         <seg>Vito Smolej (documentation manager)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120220T123650Z">
-        <seg>Vito Smolej（文档管理员）</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T160415Z">
+        <seg>Vito Smolej（文档经理）</seg>
       </tuv>
     </tu>
     <tu>
@@ -52751,8 +52761,8 @@ create its configuration folder.</seg>
       <tuv lang="EN">
         <seg>and many, many more very helpful people</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
-        <seg>以及非常、非常多的提供了帮助的人们。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T160638Z">
+        <seg>还有很多、很多很有帮助的人</seg>
       </tuv>
     </tu>
     <tu>
@@ -54874,6 +54884,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T032144Z" creationid="Fu Rhong" creationdate="20131117T032144Z">
         <seg>https://developers.google.com/translate/v2/pricing?hl=en-US</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://groups.yahoo.com/neo/groups/OmegaT/info</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T160944Z" creationid="WynnChen" creationdate="20190326T160944Z">
+        <seg>https://groups.yahoo.com/neo/groups/OmegaT/info</seg>
       </tuv>
     </tu>
     <tu>
