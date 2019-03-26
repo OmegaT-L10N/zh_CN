@@ -1,101 +1,105 @@
 @TRANSLATION_NOTICE@
 
 
-什么是OmegaT？
+OmegaT 是什么？
 ===============
 
-OmegaT 是一种免费开源的跨平台计算机辅助翻译工具软件，包含模糊匹配、翻译记忆、关键词搜索、术语表和协作翻译等功能
+OmegaT 是自由且开源的多平台计算机辅助翻译工具，具有模糊匹配、翻译记忆、
+关键字查找、词汇表、以及为更新后的项目自动套用翻译等特性。
 
 
 
 许可信息
 =====================
 
-该程序是免费软件，遵循 FSF 的 GNU General Public License v3或者更高版本，你可以对它进行编辑或者重新发布。你可以在此找到证书的文本：
-/docs/OmegaT-license.txt.
+OmegaT 根据自由软件基金会发布的 GNU 通用公共许可证许第 3 版或（根据您的选择）任何更高版本的条款提供。你可以在此找到许可证的文本：
+/docs/OmegaT-license.txt
 
-OmegaT使用了许多类库。每个类库的许可证书在以下文本中都有提到：/lib/licenses/Licenses.txt。
+OmegaT使用了许多库。各个库的许可证在此处提及：
+/lib/licenses/Licenses.txt
 
 
 
-安装OmegaT的要求
+安装 OmegaT 的先决条件
 ===================================
 
-OmegaT需要您的系统安装了Java运行环境（JRE）1.8或者更高的版本。
+OmegaT 需要您的系统安装了 Java 运行环境（JRE）1.8 或者更高版本。
 
-我们推荐使用自带JRE的OmegaT安装包，免去您安装JRE的麻烦。
+我们推荐使用包含 JRE 的 OmegaT 软件包，以避免选择、获取、与安装 JRE 的麻烦。
 
 
 
-在Windows上安装
+安装 OmegaT（Windows）
 ===========================
 
 启动安装程序。
 
 
 
-在Mac上安装
+安装 OmegaT（Mac）
 =======================
 
-解压OmegaT.zip文件，获得一个包含OmegaT程序及其文档文件的文件夹。将该文件夹移动到合适的地方，比如应用程序文件夹。
+解压 OmegaT 的 .zip 压缩包以获得包含文档文件和 OmegaT 应用程序的文件夹。将该文件夹移动到合适的地方，比如 Applications 文件夹。
 
 
 
-在Linux上安装OmegaT
+安装 OmegaT（Linux）
 =========================
 
-将压缩包放在任何合适的文件夹解压你有可以运行OmegaT了。
+将压缩包放在任何合适的文件夹中并解压之。然后 OmegaT 就已就位，可以运行了。
 
-不过您可以使用安装脚本（linux-install.sh）进行更整洁和友好的安装。要使用此脚本，请打开终端窗口（控制台），进入包含OmegaT.jar和linux-install.sh的目录并执行./linux-install.sh。
+不过，您可以使用安装脚本（linux-install.sh）获得更整洁、更友好的安装。要使用此脚本，请打开终端窗口（控制台），进入包含 OmegaT.jar 和 linux-install.sh 脚本
+的文件夹，然后用 ./linux-install.sh 执行脚本。
 
 
 
-在Solaris, FreeBSD等系统安装
+安装 OmegaT（Solaris、FreeBSD、...）
 =========================================
 
-将压缩包放在任何合适的文件夹解压你有可以运行OmegaT了。
+将压缩包放在任何合适的文件夹中并解压之。然后 OmegaT 就已就位，可以运行了。
 
 
 
-使用Java Web Start安装OmegaT（适合任何平台）
+用 Java Web Start 安装 OmegaT（所有平台）
 ===========================================================
 
-如果已经装了 Java，安装 OmegaT 的途径之一是使用 Java Web Start。
+如果已在系统中安装了 Java，安装 OmegaT 的方法之一是使用 Java Web Start。
 
-为此，需要下载下面的文件并运行它：
+为此，需要下载以下文件并运行之：
 
    http://omegat.sourceforge.net/webstart/OmegaT.jnlp
 
-它将在第一次运行时给您的计算机安装正确的环境和应用程序本身。之后再运行的话无需处于在线状态。
+它将在第一次运行时为您的计算机与应用程序自身安装正确的环境。以后再调用就无需处于在线状态。
 
 
 
-在Windows上启动OmegaT
+启动 OmegaT（Windows）
 ==========================
 
-* Windows用户：
-若在安装时您选择创建了桌面快捷方式，那么双击它。
+如果在安装过程中已经在桌面上创建了快捷方式，双击此快捷方式。
 
-* Windows用户：
-安装程序可以在开始菜单、桌面和快速启动栏创建快捷方式。您也可以手动将 OmegaT.exe 文件拖动到开始菜单、桌面或快速启动栏，以将其链接到该处。
+安装程序可以在开始菜单、桌面和快速启动栏中创建快捷方式。您也可以将 OmegaT.exe 文件手工拖动到开始菜单、桌面或快速启动栏
+来将其链接到那些地方。
 
-如果您能在文件管理器（Windows资源管理器）中看到OmegaT但没有OmegaT.exe文件，请修改此设置以显示文件扩展名。
-
-
-
-在Mac上启动OmegaT
-=======================
-
-双击OmegaT应用
-
-拖动OmegaT.app到dock面板或Finder窗口的工具栏以便从任意位置启动此程序。您还可以在Spotlight搜索区域中进行调用。
+如果您在文件管理器（Windows 资源管理器）中能看到文件 OmegaT 但看不到
+OmegaT.exe，请修改设置以显示文件扩展名。
 
 
 
-在Linux上启动OmegaT
+启动 OmegaT（Mac）
+======================
+
+双击 OmegaT 应用程序。
+
+你可以将 OmegaT 应用程序拖动到 dock 面板或 Finder 窗口的工具栏
+以便从任意位置启动它。您还可以从 Spotlight 搜索区中启动它。
+
+
+
+启动 OmegaT（Linux）
 ========================
 
-如果您用所提供的脚本实施安装，那么可以这样启动OmegaT：
+如果您用了 linux-install.sh 脚本，你应当可以这样启动 OmegaT：
 
   Alt+F2
 
@@ -103,8 +107,8 @@ OmegaT需要您的系统安装了Java运行环境（JRE）1.8或者更高的版�
 
   omegat
 
-要更友好地启动OmegaT，您可以使用一起提供的Kaptain脚本（omegat.kaptn）。To use this script you must first install
-Kaptain. 然后您可以这样运行Kaptain启动脚本：
+要以对用户更友好的方式启动 OmegaT，您可以使用所提供的 Kaptain
+脚本（omegat.kaptn）。要使用此脚本，必须先安装 Kaptain。然后，可以这样启动 Kaptain 启动脚本：
 
   Alt+F2
 
@@ -114,7 +118,7 @@ Kaptain. 然后您可以这样运行Kaptain启动脚本：
 
 
 
-从命令行启动OmegaT（支持所有系统）
+从命令行启动 OmegaT（所有平台）
 ====================================================
 
 启动OmegaT的命令是：
