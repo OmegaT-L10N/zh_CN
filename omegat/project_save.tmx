@@ -4774,6 +4774,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Terminology management&lt;/e0&gt;: Terminology management is important for translation consistency. OmegaT uses glossaries containing translations of single words or small phrases: a simplified bilingual dictionary for a specific domain. For your reference, OmegaT displays the translation of any word that is both present in the segment and registered in the glossary.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T163047Z" creationid="WynnChen" creationdate="20190326T163047Z">
+        <seg>&lt;e0&gt;术语管理&lt;/e0&gt;：术语管理对于译文的一致性至关重要。OmegaT 的术语表包含单词或短语的翻译，即，术语表就是特定领域中的简易双语词典。当前句段中的单词如果存在于术语表中，OmegaT 就会显示出这个单词的译文，以供翻译参考。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;The user interface&lt;/e0&gt;,&lt;e1&gt;Main Menu and Keyboard Shortcuts&lt;/e1&gt;: these two chapters are likely to be heavily consulted, since they explain the user interface of OmegaT and the functions available via the main menu and the keyboard shortcuts.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yujun Yin" changedate="20131007T081143Z" creationid="Yujun Yin" creationdate="20131007T081008Z">
@@ -4806,10 +4814,26 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Translation memory:&lt;/e0&gt;&lt;a1&gt; OmegaT&lt;/a1&gt; stores your translations in a translation memory file. At the same time, it can use memories files from previous translations for reference. Translation memories can be very useful in a translation where there are numerous repetitions or reasonably similar segments of text. OmegaT uses translation memories to store your previous translations and then suggest likely translations for the text you are currently working on.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T163039Z" creationid="WynnChen" creationdate="20190326T163039Z">
+        <seg>&lt;e0&gt;译法记忆：&lt;/e0&gt;&lt;a1&gt; OmegaT&lt;/a1&gt;将译文存储在译法记忆文件中。同时，OmegaT可以使用此前翻译的译法记忆文件作为翻译参考。如果译文中存在大量重复，或相似的句段，译法记忆文件可以有效提高效率。OmegaT 使用译法记忆文件存储完成的翻译，然后根据您当前翻译的文本，给您提供相似的译文作为参考。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Translation process:&lt;/e0&gt; Imagine having to translate something; from a single file to a folder containing subfolders each with a number of files in a variety of formats.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yujun Yin" changedate="20131007T075344Z" creationid="Yujun Yin" creationdate="20131007T075344Z">
         <seg>&lt;e0&gt;翻译处理：&lt;/e0&gt;设想您需要进行翻译，需要翻译的可能是单个文件，也可能是一个文件夹，其中包含子文件夹以及许多种不同格式的文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Translation process:&lt;/e0&gt; Imagine having to translate something; from a single file to a folder containing subfolders each with a number of files in a variety of formats. When you let OmegaT know the files that you need to translate, it looks for the files it understands based on file filtering rules, recognizes the textual parts within them, splits up the text groups according to the segmentation rules, and displays the segments one by one so that you can proceed with the translation. OmegaT stores your translations and proposes possible translations from similar segments registered in the translation memory files. When you are ready to view the final product, you can export the translated files, open them in the appropriate application and view the translation in the final format...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T163155Z" creationid="WynnChen" creationdate="20190326T163155Z">
+        <seg>&lt;e0&gt;翻译处理：&lt;/e0&gt;设想您需要进行翻译，需要翻译的可能是单个文件，也可能是一个文件夹，其中包含子文件夹以及许多种不同格式的文件。您可以通过设置选择需要翻译的文件，OmegaT可以通过文件过滤规则对文件进行查找，辨认文件中的文本部分，根据片段分割规则对文本进行分割，然后在编辑器中显示出待翻译的片段以供翻译。OmegaT 保存译文，并根据译法记忆文件中已有的相似片段给出可能的译文，以供参考。如果您需要查看最终翻译成果，您可以导出已译文件，在相应的应用程序中打开，查看导出为最终格式的译文...</seg>
       </tuv>
     </tu>
     <tu>
@@ -10380,6 +10404,14 @@ to determine the source of the error and try again.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190324T043551Z" creationid="wynnc" creationdate="20190324T043551Z">
         <seg>您确定要重置主密码吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Are you sure you want to reset the master password? All preferences protected by the master password will be reset.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T163026Z" creationid="WynnChen" creationdate="20190326T163026Z">
+        <seg>您确定要重置主密码吗？所有由主密码保护的首选项都将被重置。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25474,6 +25506,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Item has neither URLs nor commands. Name: {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T163032Z" creationid="WynnChen" creationdate="20190326T163032Z">
+        <seg>项目既没有网址也没有命令。名称：{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Item is missing scope</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190324T045226Z" creationid="wynnc" creationdate="20190324T045226Z">
@@ -31595,6 +31635,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT {0} is now available. You currently have {1}.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T163034Z" creationid="WynnChen" creationdate="20190326T163034Z">
+        <seg>OmegaT {0} 现已推出。您目前使用的是 {1}。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT's developers, who are all volunteers, may be more willing to implement an RFE if the development work is funded by the requester.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="18261" changedate="20180413T012715Z" creationid="18261" creationdate="20180413T012715Z">
@@ -34207,6 +34255,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190324T045025Z" creationid="wynnc" creationdate="20190324T045025Z">
         <seg>出于安全原因禁用项目命令。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project commands are disabled for security reasons. Go to Preferences &gt; External Search to enable.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T163030Z" creationid="WynnChen" creationdate="20190326T163030Z">
+        <seg>出于安全原因禁用项目命令。前往 首选项 &gt; 外部搜索 来启用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37705,6 +37761,14 @@ When using regular expressions, the replacement string supports references to gr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select issue types to check. If issue checking is slow, try disabling some of the optional checks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T163019Z" creationid="WynnChen" creationdate="20190326T163019Z">
+        <seg>选择要检查的问题类型。如果问题检查很慢，请尝试禁用某些可选检查。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select it and confirm with OK.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
@@ -37957,6 +38021,14 @@ When using regular expressions, the replacement string supports references to gr
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190324T041106Z" creationid="wynnc" creationdate="20190324T041106Z">
         <seg>设置主密码以保护您的私人数据。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Set a master password to protect your private data. You will be prompted to enter this password every time you launch OmegaT.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T163021Z" creationid="WynnChen" creationdate="20190326T163021Z">
+        <seg>设置主密码以保护您的私人数据。每次启动 OmegaT 时，系统都会提示您输入此密码。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43361,6 +43433,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The passwords don't match. Please double-check.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T163022Z" creationid="WynnChen" creationdate="20190326T163022Z">
+        <seg>两次密码不一致。请仔细检查。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The penalty applies to all three match percentages: matches 75, 80, 90 will in this case be lowered to 45, 50, 60.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131128T001411Z" creationid="Fu Rhong" creationdate="20131126T104542Z">
@@ -45086,6 +45166,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yujun Yin" changedate="20131007T074015Z" creationid="Yujun Yin" creationdate="20131007T074015Z">
         <seg>如果您需要对已译文档进行更新，这些译法记忆可以有效提高效率。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These translation memories can be very useful when a document that has already been translated needs to be updated. Unchanged sentences are automatically translated, while updated sentences are shown with the translation of the most similar, older sentence. Modifications to the original document are thus handled with greater ease. If you are supplied with previously created translation memories , for example by your translation agency or your client, OmegaT is able to use these as reference memories.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T163042Z" creationid="WynnChen" creationdate="20190326T163042Z">
+        <seg>如果您需要对已译文档进行更新，这些译法记忆可以有效提高效率。文本中未发生变化的句子会进行自动翻译，而更新后的句子则会提供最相似的原有句段的译文以供参考。这样，您可以轻松处理原文档中更新变化后的部分。如果您手头有事先创建好的译法记忆文件，比如说是翻译公司或客户提供给您的译法记忆，OmegaT 也可以使用这些文件作为翻译参考。</seg>
       </tuv>
     </tu>
     <tu>
