@@ -384,8 +384,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Align Files...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190324T030821Z" creationid="wynnc" creationdate="20190320T095332Z">
-        <seg>校准文件(&amp;A)...</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T145620Z" creationid="wynnc" creationdate="20190320T095332Z">
+        <seg>对齐文件(&amp;A)...</seg>
       </tuv>
     </tu>
     <tu>
@@ -9240,56 +9240,56 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>Align</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190324T030821Z" creationid="wynnc" creationdate="20190324T030506Z">
-        <seg>校准</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T145813Z" creationid="wynnc" creationdate="20190324T030506Z">
+        <seg>对齐</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Align Files</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190324T030821Z" creationid="wynnc" creationdate="20190324T025455Z">
-        <seg>校准文件</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T145753Z" creationid="wynnc" creationdate="20190324T025455Z">
+        <seg>对齐文件</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Align project against {0}</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190324T030821Z" creationid="wynnc" creationdate="20190320T045507Z">
-        <seg>为 {0} 校准项目</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T145645Z" creationid="wynnc" creationdate="20190320T045507Z">
+        <seg>为 {0} 对齐项目</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Aligner "Accepted" Group</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190324T030821Z" creationid="wynnc" creationdate="20190323T170429Z">
-        <seg>校准器“已接受”分组</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T145734Z" creationid="wynnc" creationdate="20190323T170429Z">
+        <seg>对齐器“已接受”分组</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Aligner "Needs Review" Group</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190324T030821Z" creationid="wynnc" creationdate="20190323T170458Z">
-        <seg>校准器“需要审查”分组</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T145738Z" creationid="wynnc" creationdate="20190323T170458Z">
+        <seg>对齐器“需要审查”分组</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Aligner Highlight</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190324T030821Z" creationid="wynnc" creationdate="20190323T170349Z">
-        <seg>校准器高亮部分</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T145741Z" creationid="wynnc" creationdate="20190323T170349Z">
+        <seg>对齐器高亮部分</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Aligner Table Row Highlight</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190324T030821Z" creationid="wynnc" creationdate="20190323T170542Z">
-        <seg>校准器表格行高亮部分</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T145746Z" creationid="wynnc" creationdate="20190323T170542Z">
+        <seg>对齐器表格行高亮部分</seg>
       </tuv>
     </tu>
     <tu>
@@ -11747,8 +11747,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Cancel Pinpoint Align</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190324T030821Z" creationid="wynnc" creationdate="20190324T030334Z">
-        <seg>取消精确校准</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T145807Z" creationid="wynnc" creationdate="20190324T030334Z">
+        <seg>取消精确对齐</seg>
       </tuv>
     </tu>
     <tu>
@@ -16819,8 +16819,8 @@ project_save.tmx 未真正上传，SVN 切换到不稳定状态。</seg>
       <tuv lang="EN">
         <seg>End Pinpoint Align</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190324T030821Z" creationid="wynnc" creationdate="20190324T030302Z">
-        <seg>结束精确校准</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T145803Z" creationid="wynnc" creationdate="20190324T030302Z">
+        <seg>结束精确对齐</seg>
       </tuv>
     </tu>
     <tu>
@@ -32593,8 +32593,8 @@ installed on your system.</seg>
       <tuv lang="EN">
         <seg>Pinpoint Align: Select corresponding cell</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190324T030821Z" creationid="wynnc" creationdate="20190324T030641Z">
-        <seg>精确校准：选择相应的单元格</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T145822Z" creationid="wynnc" creationdate="20190324T030641Z">
+        <seg>精确对齐：选择相应的单元格</seg>
       </tuv>
     </tu>
     <tu>
@@ -34256,8 +34256,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Realign Pending</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190324T030821Z" creationid="wynnc" creationdate="20190324T030153Z">
-        <seg>重新校准修正</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T145657Z" creationid="wynnc" creationdate="20190324T030153Z">
+        <seg>重新对齐修正</seg>
       </tuv>
     </tu>
     <tu>
@@ -35858,8 +35858,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Save Alignment Results</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190324T030821Z" creationid="wynnc" creationdate="20190324T030747Z">
-        <seg>保存校准结果</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T145826Z" creationid="wynnc" creationdate="20190324T030747Z">
+        <seg>保存对齐结果</seg>
       </tuv>
     </tu>
     <tu>
@@ -38028,8 +38028,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Some alignments still need review.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190324T032148Z" creationid="wynnc" creationdate="20190324T032148Z">
-        <seg>一些校准依然需要审查。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T145831Z" creationid="wynnc" creationdate="20190324T032148Z">
+        <seg>一些对齐依然需要审查。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38694,8 +38694,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Start Pinpoint Align</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190324T030821Z" creationid="wynnc" creationdate="20190324T030301Z">
-        <seg>开始精确校准</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T145759Z" creationid="wynnc" creationdate="20190324T030301Z">
+        <seg>开始精确对齐</seg>
       </tuv>
     </tu>
     <tu>
@@ -38790,8 +38790,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="EN">
         <seg>Step 1: Adjust alignment parameters</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190324T030821Z" creationid="wynnc" creationdate="20190324T030629Z">
-        <seg>第1步：调整校准参数</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T145818Z" creationid="wynnc" creationdate="20190324T030629Z">
+        <seg>第1步：调整对齐参数</seg>
       </tuv>
     </tu>
     <tu>
