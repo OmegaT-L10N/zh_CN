@@ -9512,6 +9512,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Allows to view, add, remove or edit a note in the active segment. A note is just a comment regarding this set of source text and translation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T162531Z" creationid="WynnChen" creationdate="20190326T162531Z">
+        <seg>允许查看、添加、删除或编辑活动片段中的备注。备注就是关于这一组原文与译文的注释。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Allows you to activate/deactivate &lt;e0&gt;TransTips &lt;/e0&gt;feature and set its option&lt;e1&gt; Exact Match.&lt;/e1&gt; With &lt;e2&gt;TransTips&lt;/e2&gt; activated a right click on a highlighted word in the source will open a pop up menu with the glossary entries for the word you clicked.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Andrew" changedate="20180414T153514Z" creationid="Fu Rhong" creationdate="20131117T133842Z">
@@ -9816,6 +9824,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An error occurred while downloading the dictionary. Please try again.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T162642Z" creationid="WynnChen" creationdate="20190326T162642Z">
+        <seg>下载字典时发生错误。请再试一次。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An error occurred while opening the item.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190324T024330Z" creationid="wynnc" creationdate="20190324T024330Z">
@@ -9944,6 +9960,22 @@ The TMX file will not be loaded.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An exception occurred while parsing the TMX file
+{0}
+The TMX file will not be loaded. Please consult the log
+({1})
+to determine the source of the error and try again.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T162324Z" creationid="WynnChen" creationdate="20190326T162324Z">
+        <seg>解析以下 TMX 文件时出现异常：
+{0}
+此 TMX 文件不会被载入。请浏览日志
+（{1}）
+来确定错误原因后重新尝试。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An exception occurred while parsing the TMX file\n{0}\n\</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -9956,6 +9988,14 @@ The TMX file will not be loaded.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190324T024454Z" creationid="wynnc" creationdate="20190324T024454Z">
         <seg>现有翻译已更改为与您选择的内容不同的内容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An existing translation was changed to something different from what you chose. Which version do you want to keep?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T162801Z" creationid="WynnChen" creationdate="20190326T162801Z">
+        <seg>现有翻译已更改为与您选择的内容不同的内容。你想保留哪个版本？</seg>
       </tuv>
     </tu>
     <tu>
@@ -10024,10 +10064,26 @@ The TMX file will not be loaded.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An item named "{0}" already exists in this location. Do you want to replace it with the one you're moving?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T162756Z" creationid="WynnChen" creationdate="20190326T162756Z">
+        <seg>名为“{0}”的内容已存在于此位置。你想用你正在移动的那个取而代之吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An item of the name "{0}" already exists at this location.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190324T030902Z" creationid="wynnc" creationdate="20190324T030902Z">
         <seg>名为“{0}”的内容已存在于此位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An item of the name "{0}" already exists at this location. Do you want to overwrite it?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T162804Z" creationid="WynnChen" creationdate="20190326T162804Z">
+        <seg>名为“{0}”的内容已存在于此位置。是否要覆盖？</seg>
       </tuv>
     </tu>
     <tu>
@@ -11863,6 +11919,18 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190323T054251Z" creationid="wynnc" creationdate="20190323T054251Z">
         <seg>无法将过滤器重置为默认模式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cannot reset the filter to default patterns.
+ 
+Exception occurred:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T162439Z" creationid="WynnChen" creationdate="20190326T162439Z">
+        <seg>无法将过滤器重置为默认模式。
+
+发生异常：</seg>
       </tuv>
     </tu>
     <tu>
@@ -14889,6 +14957,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>DeepL Api key not available. See OmegaT manual for instructions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T162651Z" creationid="WynnChen" creationdate="20190326T162651Z">
+        <seg>DeepL API 密钥不可用。有关说明，请参阅 OmegaT 手册。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Default</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190323T054341Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -15666,6 +15742,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Displays the glossary entries found in the glossary files located in the /glossary/ folder if they are present in the source segment. You can create glossary entries with Create Glossary Entry in the Edit menu. Entries from the writeable glossary are in bold.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T162528Z" creationid="WynnChen" creationdate="20190326T162528Z">
+        <seg>显示出现于原文片段中词汇表条目。词汇表条目位于 /glossary/ 目录下的词汇表文件中。你可以用编辑菜单中的创建词汇表条目功能来创建词汇表条目。来自可写词汇表的条目会以粗体显示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Displays the list of new functionalities, enhancements and bug fixes for each new release.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Kaname Madokami☆!" changedate="20180414T161210Z" creationid="Kaname Madokami☆!" creationdate="20180414T161011Z">
@@ -15686,6 +15770,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190325T090433Z" creationid="wynnc" creationdate="20190323T090106Z">
         <seg>显示与原文片段匹配的翻译记忆片段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Displays the translation memories segments that match the source segment. Matches can be found in your current translation or in the TMX files that you have put in the /tm/ folder.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T162500Z" creationid="WynnChen" creationdate="20190326T162500Z">
+        <seg>显示与原文片段匹配的翻译记忆片段。匹配结果可来自当前翻译或放在 /tm/ 文件夹中的 TMX 文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16328,6 +16420,32 @@ project_save.tmx was not really uploaded and SVN switched to unstable status.</s
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190323T130126Z" creationid="wynnc" creationdate="20190323T130126Z">
         <seg>在 SVN 错误（{0}）期间，
 project_save.tmx 未真正上传，SVN 切换到不稳定状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>During SVN error({0}),
+project_save.tmx was not really uploaded and SVN switched to unstable status.
+ 
+To be sure that no translation will be lost, you need to:
+1. Copy &lt;project&gt;/omegat/project_save.tmx file into a safe location
+2. Close the current OmegaT instance
+3. Remove the project folder manually. WARNING: all unsaved data will be lost
+4. Start OmegaT again, download the team project, close OmegaT
+5. Replace &lt;project&gt;/omegat/project_save.tmx in the newly downloaded project with the file saved in a safe location
+6. Start OmegaT and continue to translate</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T162710Z" creationid="WynnChen" creationdate="20190326T162710Z">
+        <seg>在 SVN 错误（{0}）期间，
+project_save.tmx 未真正上传，SVN 切换到不稳定状态。
+
+要确保不丢失任何翻译，你需要：
+1. 将 &lt;project&gt;/omegat/project_save.tmx 文件复制到安全的位置
+2. 关闭当前 OmegaT 实例
+3. 手工删除项目文件夹。警告：会丢失所有未保存的数据
+4. 再次打开 OmegaT，下载团队项目，关闭 OmegaT
+5. 用保存在安全位置的文件替换掉新下载的项目中的 &lt;project&gt;/omegat/project_save.tmx
+6. 打开 OmegaT，继续翻译</seg>
       </tuv>
     </tu>
     <tu>
@@ -17953,6 +18071,18 @@ project_save.tmx 未真正上传，SVN 切换到不稳定状态。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190320T164959Z" creationid="wynnc" creationdate="20190320T164959Z">
         <seg>遇到致命错误 - 正在使用“.recover”备份扩展名保存项目文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fatal error encountered - saving project file with '.recover' backup extension.
+Please consult the documentation about your recovery options and
+return the information below to the software manufacturer with
+a description of how this error was produced.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T162232Z" creationid="WynnChen" creationdate="20190326T162232Z">
+        <seg>遇到致命错误 - 正在使用“.recover”备份扩展名保存项目文件。
+请参阅文档来获取恢复方法，并请将以下信息配上错误描述回报给软件制造商。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20095,6 +20225,58 @@ script provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>HTMLParser 1.6 by Somik Raha, Derrick Oswald and others (LGPL License)
+  VLDocking Framework (LGPL License)
+  Jmyspell (LGPL License)
+  SVNKit (TMate License)
+  Sequence Library (Sequence Library License)
+  ANTLR (ANTLR 3 License)
+  SQLJet (GPL License)
+  JGit (Eclipse Distribution License)
+  JSch (JSch License)
+  jsch-agent-proxy (jsch-agent-proxy License)
+  Diff (GPL)
+  trilead-ssh2 (Trilead SSH license)
+  Lucene (Apache License 2.0)
+  Apache Commons (Apache License 2.0)
+  LanguageTool (LGPL License and others)
+  PDFBox (Apache License 2.0)
+  SuperTMXMerge (Apache License 2.0)
+  Groovy (Apache Licence 2.0)
+  slf4j (MIT License)
+  juniversalchardet (GPL)
+  DictZip from JDict (GPL)
+  mALIGNa (MIT License)
+  trie4j (Apache License 2.0)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T162423Z" creationid="WynnChen" creationdate="20190326T162423Z">
+        <seg>Somik Raha、Derrick Oswald 等人的 HTMLParser 1.6 (LGPL 许可证)
+  VLDocking Framework (LGPL 许可证)
+  Jmyspell (LGPL 许可证)
+  SVNKit (TMate 许可证)
+  Sequence Library (Sequence Library 许可证)
+  ANTLR (ANTLR 3 许可证)
+  SQLJet (GPL 许可证)
+  JGit (Eclipse 分发许可证)
+  JSch (JSch 许可证)
+  jsch-agent-proxy (jsch-agent-proxy 许可证)
+  Diff (GPL)
+  trilead-ssh2 (Trilead SSH 许可证)
+  Lucene (Apache 许可证 2.0)
+  Apache Commons (Apache 许可证 2.0)
+  LanguageTool (LGPL 许可证及其他)
+  PDFBox (Apache 许可证 2.0)
+  SuperTMXMerge (Apache 许可证 2.0)
+  Groovy (Apache 许可证 2.0)
+  slf4j (MIT 许可证)
+  juniversalchardet (GPL)
+  DictZip from JDict (GPL)
+  mALIGNa (MIT 许可证)
+  trie4j (Apache 许可证 2.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>HTTP(S)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190320T181029Z" creationid="wynnc" creationdate="20190320T181029Z">
@@ -20308,6 +20490,16 @@ script provided (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190323T054728Z" creationid="wynnc" creationdate="20190323T054728Z">
         <seg>在此你可以设置过滤器将处理的文件的原文文件名模式、自定义译文文件的文件名、并选择载入文件与保存其对应译文时使用的编码。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Here you may setup the source filename patterns of files the filter will process, customize the filenames of translated files, and select what encodings it will use for loading the file and saving its translated counterpart.
+Note: not all filters allow you to select an encoding.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T162440Z" creationid="WynnChen" creationdate="20190326T162440Z">
+        <seg>在此你可以设置过滤器将处理的文件的原文文件名模式、自定义译文文件的文件名、并选择载入文件与保存其对应译文时使用的编码。
+注：并非所有过滤器都允许选择编码。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20756,6 +20948,14 @@ script provided (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190323T121820Z" creationid="wynnc" creationdate="20190323T121820Z">
         <seg>IBM Watson 不可用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>IBM Watson not available. See OmegaT manual for instructions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T162652Z" creationid="WynnChen" creationdate="20190326T162652Z">
+        <seg>IBM Watson 不可用。有关说明，请参阅 OmegaT 手册。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23172,6 +23372,16 @@ click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In order for the changes to take effect OmegaT needs to close and then open the project. 
+Reopen the project now?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T162222Z" creationid="WynnChen" creationdate="20190326T162222Z">
+        <seg>为了使更改生效，OmegaT 需要关闭然后打开项目。
+是否现在重新打开项目？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In order for the changes to take effect \</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -23939,6 +24149,17 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190325T160733Z" creationid="wynnc" creationdate="20190320T084827Z">
         <seg>已初始化 {0}-{1} 团队项目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Initialized {0}-{1} team project. Place source files in ./source and supplemental
+material in ./tm, ./glossary, and ./dictionary as required, then commit
+everything.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T162133Z" creationid="WynnChen" creationdate="20190326T162133Z">
+        <seg>已初始化 {0}-{1} 团队项目。根据需要将原文文件放在 ./source 中、补充资料放在
+./tm、./glossary、和 ./dictionary 中，然后提交所有内容。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25146,6 +25367,16 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It was not possible to create the script folder
+inside the configuration folder. The configuration folder will be used
+instead.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T162632Z" creationid="WynnChen" creationdate="20190326T162632Z">
+        <seg>无法在配置文件夹中创建脚本文件夹。将改用配置文件夹。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It was not possible to create the script folder\n\</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -25955,6 +26186,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LanguageTool is misconfigured. Switching to built-in version.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T162644Z" creationid="WynnChen" creationdate="20190326T162644Z">
+        <seg>LanguageTool 配置错误。切换至内建版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LanguageTool is not available for your target language.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190323T114346Z" creationid="wynnc" creationdate="20190323T114341Z">
@@ -26043,6 +26282,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LanguageTool: An error occurred during check. LanguageTool will be disabled until the project is closed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T162650Z" creationid="WynnChen" creationdate="20190326T162650Z">
+        <seg>LanguageTool：检查期间发生错误。LanguageTool 将被禁用至项目关闭。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LanguageTool: Bad URL</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190323T113348Z" creationid="wynnc" creationdate="20190323T113348Z">
@@ -26079,6 +26326,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190323T113256Z" creationid="wynnc" creationdate="20190323T113256Z">
         <seg>LanguageTool：服务器在预期 JSON 的情况下返回了 XML。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool: server returned XML when JSON was expected. Ensure you are specifying the right API version (the URL should include "/v2/").</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T162649Z" creationid="WynnChen" creationdate="20190326T162649Z">
+        <seg>LanguageTool：服务器在预期 JSON 的情况下返回了 XML。确保你指定了正确的 API 版本（网址中应当包含“/v2/”）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27902,6 +28157,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Microsoft Translator Subscription Key not available. See OmegaT manual for instructions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T162654Z" creationid="WynnChen" creationdate="20190326T162654Z">
+        <seg>Microsoft Translator 订阅密钥不可用。有关说明，请参阅 OmegaT 手册。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Microsoft Translator's Client ID or Client Secret not available.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T165309Z">
@@ -29574,6 +29837,16 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note: All of the segmentation rule sets with a matching Language Pattern are applied in the given order.
+Thus, for example, rules for Canadian French (FR-CA) should be higher than rules for French (FR.*), and higher than Default (.*) ones. Then while translating from Canadian French your project will use all the rules defined for all the language chain in the correct order.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T162453Z" creationid="WynnChen" creationdate="20190326T162453Z">
+        <seg>注：具有匹配语言模式的所有分割规则集按给定顺序应用。
+因此，例如，加拿大法语（FR-CA）的规则应当高于法语（FR.*）规则，而后者又高于默认（.*）规则。这样，当从加拿大法语进行翻译时，你的项目就会按照正确顺序应用整个语言链条上所定义的所有规则。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note: All of the segmentation rule sets with a matching \</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -29630,6 +29903,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note: Source File Encoding setting affects only the HHC and HHK files that do not contain an encoding declaration. If a HHC or HHK file has an encoding declaration, it will be used regardless of any value you specify in this dialog.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T162448Z" creationid="WynnChen" creationdate="20190326T162448Z">
+        <seg>注：原文文件编码设置只会影响不包含编码声明的 HHC 和 HHK 文件。如果 HHC 和 HHK 文件中有编码声明，则将使用之，忽略你在此处设置的值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note: Source File Encoding setting affects only the HTML files that \</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -29642,6 +29923,14 @@ appropriate location such as the Applications folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190323T062046Z" creationid="wynnc" creationdate="20190323T062000Z">
         <seg>注：原文文件编码设置只会影响内部没有编码声明的 HTML 文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note: Source File Encoding setting affects only the HTML files that have no encoding declaration inside. If HTML file has the encoding declaration, it will be used disregarding any value you set in this dialog.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T162443Z" creationid="WynnChen" creationdate="20190326T162443Z">
+        <seg>注：原文文件编码设置只会影响内部没有编码声明的 HTML 文件。如果 HTML 文件中有编码声明，则将使用之，忽略你在此处设置的值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30248,6 +30537,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT can also check for programming variables (printf-function variables) like '%s'. Please select which behaviour is appropriate. Full checking can lead to false positives in normal texts.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T162457Z" creationid="WynnChen" creationdate="20190326T162457Z">
+        <seg>OmegaT 还能检查如 %s 之类的程序变量（printf 函数变量）。请选择适当的行为。完整检查可能导致正常文本出现误报。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT can also check for programming variables (printf-function variables) like '%s'. \</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -30332,6 +30629,14 @@ appropriate location such as the Applications folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190320T181515Z" creationid="wynnc" creationdate="20190320T181515Z">
         <seg>OmegaT 对此文件夹无读写权限。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT does not have read and write permissions to this folder. Please select a different folder.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T162250Z" creationid="WynnChen" creationdate="20190326T162250Z">
+        <seg>OmegaT 对此文件夹无读写权限。请另选一个文件夹。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30456,6 +30761,28 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT has detected a 3.6-style team project.
+ 
+Press 'OK' to convert the project into a 4.x-style team project. This
+will delete your local data and re-download the project contents from
+the server.
+ 
+Press 'Cancel' to leave the project unmodified and load it as a local
+project without team functionality. (You will still able to use OmegaT
+3.6 to edit this project as a team project.)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T162733Z" creationid="WynnChen" creationdate="20190326T162733Z">
+        <seg>OmegaT 已探测到 3.6 风格的团队项目。
+
+按“确定”将此项目转换为 4.x 风格的团队项目。
+这将删除你的本地数据并从服务器重新下载项目内容。
+
+按“取消”将保持项目不变，并将其作为没有团队功能的本地项目加载。
+（你依然可以用 OmegaT 3.6 来将此项目作为团队项目编辑。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT has file filters for both Open Document Format and for the Star Office format which it replaced.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T075152Z" creationid="Wyndy" creationdate="20180418T075152Z">
@@ -30543,6 +30870,36 @@ translation leveraging into updated projects.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190325T163022Z" creationid="wynnc" creationdate="20190322T083638Z">
         <seg>OmegaT 是自由且开源的多平台计算机辅助翻译工具，具有模糊匹配、翻译记忆、关键字查找、词汇表、以及为更新后的项目自动套用翻译等特性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT is a free and open source multiplatform Computer Assisted Translation tool with fuzzy matching, translation memory, keyword search, glossaries, and translation leveraging into updated projects.
+ 
+OmegaT is the original work of Keith Godfrey.
+Aaron Madlon-Kay is the OmegaT project manager.
+ 
+Code has been contributed by:
+{0}
+ 
+Other contributions are detailed in the readme.txt file
+ 
+OmegaT uses the following libraries:
+{1}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T162413Z" creationid="WynnChen" creationdate="20190326T162413Z">
+        <seg>OmegaT 是自由且开源的多平台计算机辅助翻译工具，具有模糊匹配、翻译记忆、关键字查找、词汇表、以及为更新后的项目自动套用翻译等特性。
+
+OmegaT 最初的工作由 Keith Godfrey 完成。
+Aaron Madlon-Kay 是 OmegaT 的项目经理。
+
+以下人士贡献了代码：
+{0}
+ 
+readme.txt 文件中详细记录了其他贡献
+ 
+OmegaT 使用了以下库：
+{1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -30668,6 +31025,24 @@ your home folder.</seg>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190323T110739Z" creationid="wynnc" creationdate="20190323T110739Z">
         <seg>OmegaT 无法访问包含操作系统名称的系统属性和/或
 包含你的主文件夹的系统属性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT is refused access to the system property containing
+the name of your OS and/or the system property containing
+your home folder. Therefore, the location of OmegaT's
+configuration folder cannot be reliably determined. The
+current folder will be used instead. As a result of this,
+all settings will be at their defaults, due to which you
+may experience unexpected, but correct behaviour.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T162616Z" creationid="WynnChen" creationdate="20190326T162616Z">
+        <seg>OmegaT 无法访问包含操作系统名称的系统属性和/或
+包含你的主文件夹的系统属性。因此，无法可靠地确定
+ OmegaT 的配置文件夹位置。将改用当前文件夹。
+这样的结果是所有设置都将处于其默认值，因此你可能
+会遇到意外但正确的行为。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30829,6 +31204,38 @@ to be launched.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190320T085605Z" creationid="wynnc" creationdate="20190320T085605Z">
         <seg>OmegaT 耗尽了内存，点击确定后将会退出。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT ran out of memory, and will quit when you press OK.
+You may try to solve this problem in one of the following ways:
+ 
+1) Reduce the number of source files and translate in batches;
+ 
+2) Increase the amount of memory available to OmegaT, by
+specifying "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" on the
+command line or in the OmegaT start script;
+The current setting is {0}MB;
+ 
+See "Chapter 3. Installing and running OmegaT" in the User Manual.
+ 
+OmegaT will now terminate.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T162156Z" creationid="WynnChen" creationdate="20190326T162156Z">
+        <seg>OmegaT 耗尽了内存，点击确定后将会退出。
+您可以尝试使用下列方法之一来解决此问题：
+ 
+1) 减少原文文件数量，分批翻译；
+ 
+2) 在命令行或 OmegaT 启动脚本中指定
+“java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar”
+来增加 OmegaT 的可用内存量；
+当前设置为 {0}MB；
+ 
+参见用户手册的“第三章 安装与运行 OmegaT”。
+
+OmegaT 现在将终止。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33059,6 +33466,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190320T180511Z" creationid="wynnc" creationdate="20190320T180511Z">
         <seg>请选择原文语言与打算翻译成的译文语言。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please select the language of your source files and the target language you would like to translate to. Here you may also specify custom location of project folders.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T162246Z" creationid="WynnChen" creationdate="20190326T162246Z">
+        <seg>请选择原文语言与打算翻译成的译文语言。你也可以在此指定项目各文件夹的自定义位置。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36160,6 +36575,48 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Scope:
+The scope of a search is by default the project and can be set to be any files located in a specified folder hierarchy.
+Project searches are by default performed on the source and target, reference TMs, glossaries, notes and comments of the project.
+ 
+Types:
+Exact searches match the whole search string.
+Keyword searches match all the space-separated keywords regardless of their order.
+Regular expression searches match Java regular expressions as documented in the user manual.
+ 
+Wildcards:
+Both exact and keyword searches support the wildcard characters * and ?.
+'*' matches zero or more characters ('run*' matches 'run', 'runs', and'running', etc.)
+'?' matches exactly one character ('run?' matches 'runs' and 'rung', but not 'run' or 'running').
+ 
+Text Replace:
+The scope of a text replacement is the target segments of the project, whether they already have contents or not.
+Keyword searches are not available in the search string.
+When using regular expressions, the replacement string supports references to groups defined in the search string. Use $n to refer to the nth group.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T162312Z" creationid="WynnChen" creationdate="20190326T162312Z">
+        <seg>范围：
+默认情况下，查找范围是整个项目，但可以设置为位于指定文件夹层次结构中的所有文件。
+默认情况下，项目查找是在项目的原文、译文、参考翻译记忆库、词汇表、备注、和注释中进行的。
+
+类型：
+精确查找完全匹配整个查找字符串。
+关键字查找会匹配以空格分隔的所有关键字，无视顺序。
+正则表达式查找则以用户手册中所记载的 Java 正则表达式来进行匹配。
+
+通配符：
+精确查找和关键字查找都支持通配符 * 和 ?。
+“*” 匹配零个或若干个字符（“run*”匹配“run”、“runs”、和“running”，等等）
+“?” 匹配单个字符（“run?”匹配“runs”和“rung”，但不匹配“run”或“running”）。
+
+文本替换：
+文本替换的范围是项目的译文片段，无论这些片段是否已经有了译文。
+在查找字符串中关键字查找不可用。
+当使用正则表达式时，替换字符串支持引用查找字符串中所定义的组。用 $n 来引用第 n 个组。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Scope:\n\</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -38152,6 +38609,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Some alignments still need review. Continue anyway?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T162811Z" creationid="WynnChen" creationdate="20190326T162811Z">
+        <seg>一些对齐依然需要审查。仍要继续？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Some inconvenient line breaks may be required for correct positioning of the text.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="think" changedate="20180416T065544Z" creationid="think" creationdate="20180416T065544Z">
@@ -38188,6 +38653,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190320T180340Z" creationid="wynnc" creationdate="20190320T180340Z">
         <seg>某些项目文件夹似乎已被移走。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Some project folders seem to have been moved. You should specify their new location or recreate them.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T162236Z" creationid="WynnChen" creationdate="20190326T162236Z">
+        <seg>某些项目文件夹似乎已被移走。你应当指定它们的新位置或重新创建它们。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38508,6 +38981,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190322T061500Z" creationid="wynnc" creationdate="20190322T061500Z">
         <seg>无法定位某些翻译单元的原文片段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source segment could not be located for certain translation units. These units have been skipped.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T162339Z" creationid="WynnChen" creationdate="20190326T162339Z">
+        <seg>无法定位某些翻译单元的原文片段。已跳过这些单元。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39495,6 +39976,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190323T160059Z" creationid="wynnc" creationdate="20190323T160059Z">
         <seg>未设置 TaaS API 密钥。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TaaS API key not set. Create your own key then input it below.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T162751Z" creationid="WynnChen" creationdate="20190326T162751Z">
+        <seg>未设置 TaaS API 密钥。创建你自己的密钥然后在下方输入。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40997,6 +41486,14 @@ Please try to correct the error and reload the project.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190322T061604Z" creationid="wynnc" creationdate="20190322T061604Z">
         <seg>TMX 原文语言（{0}）与项目的原文语言（{1}）不同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The TMX source language ({0}) is different from the project source language ({1}). The TMX file will continue to be loaded.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T162341Z" creationid="WynnChen" creationdate="20190326T162341Z">
+        <seg>TMX 原文语言（{0}）与项目的原文语言（{1}）不同。将继续载入 TMX 文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42720,6 +43217,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The new colours have been saved. Please restart the application to correctly display the new colours.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T162752Z" creationid="WynnChen" creationdate="20190326T162752Z">
+        <seg>新颜色已保存。请重新启动应用程序以正确显示新颜色。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The new format can also serve as a useful way of handling the legacy .doc, .xls and .ppt formats, since they can be converted to their MS Office 2007 counterparts, translated in OmegaT, and converted back again.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="liufang" changedate="20180416T122830Z" creationid="liufang" creationdate="20180416T122830Z">
@@ -43060,6 +43565,19 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190323T140800Z" creationid="wynnc" creationdate="20190323T140800Z">
         <seg>此项目已成功转换。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The project was converted successfully.
+ 
+Please contact your project administrator to find out if any
+additional steps need to be taken.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T162738Z" creationid="WynnChen" creationdate="20190326T162738Z">
+        <seg>此项目已成功转换。
+
+请联系你的项目管理员来了解是否需要采取其他步骤。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43560,6 +44078,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The specified dictionary folder does not exist. Do you want to create it?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T162638Z" creationid="WynnChen" creationdate="20190326T162638Z">
+        <seg>指定的词典文件夹不存在。要创建吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The specified files are not supported.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190324T025536Z" creationid="wynnc" creationdate="20190324T025536Z">
@@ -43572,6 +44098,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190323T140215Z" creationid="wynnc" creationdate="20190323T140215Z">
         <seg>指定项目是 OmegaT 3.6 风格的团队项目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The specified project is an OmegaT 3.6-style team project. It needs to be converted to a new team project, but this cannot be done in console mode. The project will be loaded as a local project without team functionality. To convert it into a new team project, open it in the OmegaT GUI.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T162715Z" creationid="WynnChen" creationdate="20190326T162715Z">
+        <seg>指定项目是 OmegaT 3.6 风格的团队项目。它需要转换为新的团队项目，但这无法在控制台模式下完成。此项目将作为没有团队功能的本地项目加载。要将其转换为新的团队项目，请在 OmegaT 图形界面中打开它。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44911,6 +45445,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This URL appears to be invalid. Please double-check it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T162740Z" creationid="WynnChen" creationdate="20190326T162740Z">
+        <seg>此网站似乎无效。请仔细检查一下。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This allows them for instance to check at any moment, whether the target version for the complete project is still OK</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120217T150239Z">
@@ -45857,6 +46399,20 @@ This program is free software; you can redistribute it and/or modify it under th
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (at your option) any later version.
+ 
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T162436Z" creationid="WynnChen" creationdate="20190326T162436Z">
+        <seg>本程序是自由软件；您可以根据自由软件基金会发布的 GNU 通用公共许可证许第 3 版或（根据您的选择）任何更高版本的条款重新分发和/或修改它。
+This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (at your option) any later version.
+
+本程序怀揣有所帮助之期望而发布，但不提供任何保证；亦不对适销性或特定用途适用性的提供任何暗示性保证。
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This project</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190323T120951Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -46045,6 +46601,14 @@ This program is free software; you can redistribute it and/or modify it under th
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190324T031507Z" creationid="wynnc" creationdate="20190324T031507Z">
         <seg>这将放弃您目前所做的所有更改。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This will discard all changes you have made so far. Continue?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T162808Z" creationid="WynnChen" creationdate="20190326T162808Z">
+        <seg>这将放弃您目前所做的所有更改。继续？</seg>
       </tuv>
     </tu>
     <tu>
@@ -48005,6 +48569,14 @@ Exact searches match the whole search string.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unauthorized request to TaaS service. Something went wrong, please visit Tilde Terminology for details.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T162750Z" creationid="WynnChen" creationdate="20190326T162750Z">
+        <seg>未经授权的 TaaS 服务请求。出了点问题，请访问 Tilde Terminology 以了解详情。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unchanged sentences are automatically translated, while updated sentences are shown with the translation of the most similar, older sentence.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yujun Yin" changedate="20131007T074117Z" creationid="Yujun Yin" creationdate="20131007T074102Z">
@@ -48274,6 +48846,24 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unrecoverable error while parsing TMX file
+{0}
+on line {1}, column {2}.
+ 
+The TMX file will not be loaded
+Please try to correct the error and reload the project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T162336Z" creationid="WynnChen" creationdate="20190326T162336Z">
+        <seg>解析 TMX 文件
+{0}
+时在第 {1} 行第 {2} 列出现不可回复的错误。
+
+此 TMX 文件不会被载入
+请尝试修正错误并重新载入项目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unrecoverable error while parsing TMX file\n{0}\n\</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -48498,10 +49088,155 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Usage: java -jar OmegaT.jar [&lt;options&gt;] [&lt;project path&gt;]
+ 
+Options:
+	None: Launch GUI
+	Project path only: Launch GUI and load specified project
+	team
+		Team project tool. Invoke `team -h` for details.
+	-h, --help
+		Show usage information.
+	--remote-project
+		Download an omegat.project file from the URL given as &lt;project
+		path&gt; and load the project.
+	--mode=[console-translate|console-pseudotranslatetmx|console-align]
+		Specify a mode other than default (GUI). See below for details.
+	--config-file=&lt;path&gt;
+		A Java .properties file from which to load default settings.
+	--resource-bundle=&lt;path&gt;
+		A Java .properties file to use for interface text
+	--config-dir=&lt;path&gt;
+		The directory to read/write OmegaT configuration files from/to.
+	--disable-project-locking
+		Do not attempt to lock the project's omegat.project file.
+	--disable-location-save
+		Do not remember the last directory opened in the file picker.
+	--no-team
+		Disable team project functionality.
+	--ITokenizer=&lt;classname&gt;
+	--ITokenizerTarget=&lt;classname&gt;
+		Source- or target-language tokenizer to use (overrides project
+		settings). See OmegaT.jar/META-INF/MANIFEST.MF for valid values.
+ 
+Non-GUI mode options:
+	--quiet
+		Reduce output to command line stdout.
+	--script=&lt;path&gt;
+		A script file to be executed on project events.
+	--tag-validation=[abort|warn]
+		Validate tags. Abort: Exit with an error if tags invalid.
+		Warn: Report invalid tags to stdout.
+ 
+Console-translate mode:
+	--source-pattern=&lt;pattern&gt;
+		A regex whitelist of source files to process.
+ 
+Console-pseudotranslatetmx mode:
+	--pseudotranslatetmx=&lt;path&gt;
+		The output pseudotranslated TMX file.
+	--pseudotranslatetype=[equal|empty]
+		What to fill the pseudotranslated TMX with.
+ 
+Console-align mode:
+	--alignDir=&lt;path&gt;
+		A directory containing the translated files.
+ 
+See Help &gt; User's Manual for more information.
+ 
+{0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T162045Z" creationid="WynnChen" creationdate="20190326T162045Z">
+        <seg>用法：java -jar OmegaT.jar [&lt;选项&gt;] [&lt;项目路径&gt;]
+ 
+选项：
+	无：启动图形界面
+	仅有项目路径：启动图形界面并载入指定项目
+	team
+		团队项目工具。有关详细信息，请调用 `team -h`。
+	-h, --help
+		显示用法信息。
+	--remote-project
+		从作为&lt;项目路径&gt;给出的网址下载 omegat.project 文件并载入此项目。
+	--mode=[console-translate|console-pseudotranslatetmx|console-align]
+		指定默认模式（图形界面）之外的其他模式。请参阅下文了解详情。
+	--config-file=&lt;path&gt;
+		用于加载默认设置的 Java .properties 文件。
+	--resource-bundle=&lt;path&gt;
+		用于界面文本的 Java .properties 文件
+	--config-dir=&lt;path&gt;
+		用于读取/写入 OmegaT 配置文件的目录。
+	--disable-project-locking
+		不要尝试锁定项目的 omegat.project 文件。
+	--disable-location-save
+		不要记忆最后一次在文件选择器中打开的目录。
+	--no-team
+		禁用团队项目功能。
+	--ITokenizer=&lt;类名&gt;
+	--ITokenizerTarget=&lt;类名&gt;
+		原文语言或译文语言所使用的分词器（会覆盖项目设置）。有关所有有效的值，参见 OmegaT.jar/META-INF/MANIFEST.MF。
+
+非图形界面模式选项：
+	--quiet
+		减少输出到命令行 stdout 的输出量。
+	--script=&lt;path&gt;
+		在项目事件时执行的脚本文件。
+	--tag-validation=[abort|warn]
+		校验标签。Abort：当标签无效时退出并显示错误。
+		Warn：将无效的标签记录到 stdout。
+
+Console-translate 模式:
+	--source-pattern=&lt;模式&gt;
+		要处理的原文文件的正则表达式白名单。
+
+Console-pseudotranslatetmx 模式:
+	--pseudotranslatetmx=&lt;path&gt;
+		输出伪翻译的 TMX 文件。
+	--pseudotranslatetype=[equal|empty]
+		用什么来填充伪翻译的 TMX。
+
+Console-align 模式:
+	--alignDir=&lt;path&gt;
+		包含译文文件的目录。
+
+更多信息，参见 帮助 &gt; 用户手册。
+
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Usage: java -jar OmegaT.jar team &lt;command&gt; [&lt;options&gt;]]</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190325T160438Z" creationid="wynnc" creationdate="20190320T084656Z">
         <seg>用法：java -jar OmegaT.jar team &lt;命令&gt; [&lt;选项&gt;]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Usage: java -jar OmegaT.jar team &lt;command&gt; [&lt;options&gt;]]
+ 
+Commands:
+	-h, --help
+		Show usage information.
+	init &lt;source language&gt; &lt;target language&gt;
+		Initialize a minimal team project with the specified languages.
+		If invoked in a git working tree or svn checkout, the results
+		will be staged/added.
+ 
+{0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T162119Z" creationid="WynnChen" creationdate="20190326T162119Z">
+        <seg>用法：java -jar OmegaT.jar team &lt;命令&gt; [&lt;选项&gt;]]
+ 
+命令：
+	-h, --help
+		显示用法信息。
+	init &lt;原文语言&gt; &lt;译文语言&gt;
+		用指定初始化一个最小化的团队项目。
+		如果在 git 工作树或 svn 检出中调用，其结果会被 stage/add。
+
+{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -49568,6 +50303,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>View or edit file filters. To edit what files in what encodings the filter will process, select the filter from the list and click Edit. If the filter has any options, you may change them by clicking Options.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T162442Z" creationid="WynnChen" creationdate="20190326T162442Z">
+        <seg>查看或编辑文件过滤器。要编辑过滤器将处理的文件及使用的编码，请从列表中选中该过滤器然后点击编辑按钮。如果过滤器有任何可选项，你可以通过点击选项按钮来更改之。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>View or edit file filters. \</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -49694,6 +50437,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
         <seg>警告！您正试图在{0}语言中使用HunspellTokenizer，但该语言没有安装拼写词典。要使它生效，请通过选项&gt;拼写检查 安装适用的词典。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Warning! You are trying to use the HunspellTokenizer with the language {0}, but no spelling dictionaries are installed for this language. For best results, please install the appropriate dictionaries via Preferences &gt; Spell Checking.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T162747Z" creationid="WynnChen" creationdate="20190326T162747Z">
+        <seg>警告！你正试图在 {0} 语言中使用 HunspellTokenizer，但没有为该语言安装拼写词典。为获得最佳效果，请通过 首选项 &gt; 拼写检查器 安装相应的词典。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51104,6 +51855,14 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You are going to modify {0} segments. Do you want to continue?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T162257Z" creationid="WynnChen" creationdate="20190326T162257Z">
+        <seg>你将修改 {0} 个片段。确定要继续吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You are running OmegaT version {0}.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T121645Z" creationid="xulihang" creationdate="20180408T121645Z">
@@ -52110,6 +52869,14 @@ them.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Your current project uses sentence segmentation, but TMX file was created using paragraph segmentation. OmegaT will try to resegment the TMX file...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T162353Z" creationid="WynnChen" creationdate="20190326T162353Z">
+        <seg>你的当前项目使用的是语句分割，但 TMX 文件创建时用的是段落分割。OmegaT 将尝试分割 TMX 文件...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Your documents and translation memories remain on your computer, and the &lt;a2&gt;OmegaT&lt;/a2&gt; project will have no access to your work or information.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120207T121901Z">
@@ -52143,6 +52910,20 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Your operating system refused to let OmegaT
+create its configuration folder. The current folder will be used
+instead. If later access to the desired location is granted
+that location will be used and all settings will return to
+their defaults as a result of the location change.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T162627Z" creationid="WynnChen" creationdate="20190326T162627Z">
+        <seg>你的操作系统拒绝让 OmegaT 创建其配置文件夹。
+将改用当前文件夹。如果稍后给予了访问所需位置的权限，
+则将使用该位置，并且所有设置将因位置更改而恢复为其默认值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Your operating system refused to let OmegaT\n\</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -52155,6 +52936,18 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190320T090617Z" creationid="wynnc" creationdate="20190320T090617Z">
         <seg>您的项目不包含任何所支持格式的文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Your project does not contain any files in a supported file format.
+(In the user's manual, see 'Files to translate' &gt; 'File formats' for a list of supported file formats.)
+To add files to the project, click on the Copy Files to Source Folder... button in the Project Files window or call this action from the Project menu and select the source files you want to copy. You may also copy the files to your project's 'source' folder using your favorite file manager and reload the project by calling Reload from the Project menu.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T162216Z" creationid="WynnChen" creationdate="20190326T162216Z">
+        <seg>您的项目不包含任何所支持格式的文件。
+（在用户手册中，参见“待翻译文件” &gt; “文件格式”来了解支持的文件格式。）
+要添加文件到项目中，在项目文件窗口中点击复制文件到源文件夹...按钮或从项目菜单中调用此功能，并选定你想要复制的源文件。你也可以用偏爱的文件管理器将文件复制到项目的“source”文件夹然后通过调用项目菜单中的重新载入项目命令来重新载入项目。</seg>
       </tuv>
     </tu>
     <tu>
@@ -58991,6 +59784,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190324T040708Z" creationid="wynnc" creationdate="20190324T040708Z">
         <seg>{0}。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0}. {1}: &lt;b&gt;{2}&lt;/b&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T163012Z" creationid="WynnChen" creationdate="20190326T163012Z">
+        <seg>{0}. {1}：&lt;b&gt;{2}&lt;/b&gt;</seg>
       </tuv>
     </tu>
     <tu>
