@@ -121,14 +121,14 @@ OmegaT.exe，请修改设置以显示文件扩展名。
 从命令行启动 OmegaT（所有平台）
 ====================================================
 
-启动OmegaT的命令是：
+启动 OmegaT 的命令是：
 
-cd <OmegaT.jar 文件所在文件夹>
+cd <OmegaT.jar 文件所在的文件夹>
 
 <Java 可执行文件的路径和名称> -jar OmegaT.jar
 
-（Java 可执行文件即 Linux 系统中的 java 文件和 Windows 系统中的 java.exe 文件。
-如果系统上安装了Java且处于命令行路径中，则无需输入它的完整路径。）
+（所谓 Java 可执行文件，在 Linux 下是 java 文件，在 Windows 下则是 java.exe 文件。
+如果 Java 是在系统级安装的且处于命令行路径中，则无需输入完整路径。）
 
 
 
@@ -139,54 +139,55 @@ OmegaT 最初的工作由 Keith Godfrey 完成。
 
 Aaron Madlon-Kay 是 OmegaT 的项目经理。
 
-Current team:
-(alphabetical order)
+当前团队：
+（按字母顺序）
 
-  Vincent Bidaux (文档管理员)
-  Marco Cevoli (Telegram community manager)
-  Jean-Christophe Helary (Twitter community manager)
-  Kos Ivantsof (localisation manager)
-  Concepción Martin (Facebook community manager)
-  Briac Pilpré (webmaster)
-  Lucie Vecerova (Facebook community manager)
+  Vincent Bidaux（文档经理）
+  Marco Cevoli（Telegram 社区经理）
+  Jean-Christophe Helary（Twitter 社区经理）
+  Kos Ivantsof（本地化经理）
+  Concepción Martin（Facebook 社区经理）
+  Briac Pilpré（网站管理员）
+  Lucie Vecerova（Facebook 社区经理）
 
-为代码做出贡献的名单在这里：/docs/contributors.txt。
+对代码的贡献记录在 /docs/contributors.txt 中。
 
-之前做过贡献的人还包括（姓名字母排序）：
+以前的贡献者包括：
+（按字母顺序）
 
-  Anthony Baldwin (localisation manager)
-  Didier Briel (project manager)
-  Alex Buloichik (开发人员主管)
+  Anthony Baldwin（本地化经理）
+  Didier Briel（项目经理）
+  Alex Buloichik（首席开发人员）
   Sabine Cretella
   Dmitri Gabinski
-  Jean-Christophe Helary (support group owner, localisation manager)
-  Maxym Mykhalchuk (lead developper)
+  Jean-Christophe Helary（支持小组组长、本地化经理）
+  Maxym Mykhalchuk（首席开发人员）
   Samuel Murray
-  Henry Pijffers (release manager)
-  Marc Prior (project co-ordinator, webmaster)
-  Vito Smolej（文档管理员）
-  以及非常、非常多的提供了帮助的人们。
+  Henry Pijffers（发布经理）
+  Marc Prior（项目调度员、网站管理员）
+  Vito Smolej（文档经理）
+  还有很多、很多很有帮助的人
 
-(If you think you have significantly contributed to the OmegaT Project but you
-(don't see your name on the lists, feel free to contact us.)
+（如果您认为您对 OmegaT 项目做出了重大贡献但名字没有出现在列表中，
+　请随时与我们联系。）
 
 
 
 有用的链接
 ============
 
-可从下列网址获取 OmegaT 的最新信息：
+关于 OmegaT 的最新信息，请访问：
 
    http://www.omegat.org/
 
-在 Yahoo 用户组可以获得（多语种）用户支持，无需订阅也可以对归档进行搜索，网址是：
+在 Yahoo 用户组可以获得（多语种）用户支持，无需订阅也可以对归档进行搜索：
 
    https://groups.yahoo.com/neo/groups/OmegaT/info
 
-在 SourceForge 网站的下列网址可以（用英语）提出改进建议：
+在 SourceForge 网站可以（用英语）提出改进建议与意见：
 
    https://sourceforge.net/p/omegat/feature-requests/
 
-在 SourceForge 的下列网址可以（用英语）报告 Bug：
+在 SourceForge 网站可以（用英语）报告 Bug：
 
    https://sourceforge.net/p/omegat/bugs/
