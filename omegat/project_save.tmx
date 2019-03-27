@@ -11694,32 +11694,33 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>By Sheila Gomes (in Brasilian Portuguese).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T135358Z" creationid="cpeishan" creationdate="20180407T135358Z">
-        <seg>By Sheila Gomes (葡萄牙语).</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190327T174559Z" creationid="cpeishan" creationdate="20180407T135358Z">
+        <seg>作者：Sheila Gomes（巴西葡萄牙语）。</seg>
       </tuv>
     </tu>
     <tu>
+      <note>.odt 应当是“OpenDocument Format”，OpenDocument 是一个专有名词。</note>
       <tuv lang="EN">
         <seg>By Susan Welsh (Open Document Format).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T134831Z" creationid="cpeishan" creationdate="20180407T134831Z">
-        <seg>By Susan Welsh (开放文档格式).</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190327T174246Z" creationid="cpeishan" creationdate="20180407T134831Z">
+        <seg>作者：Susan Welsh（OpenDocument 格式）。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>By Susan Welsh (PDF format).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T134936Z" creationid="cpeishan" creationdate="20180407T134936Z">
-        <seg>By Susan Welsh (PDF格式).</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190327T174252Z" creationid="cpeishan" creationdate="20180407T134936Z">
+        <seg>作者：Susan Welsh（PDF 格式）。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>By Vladimir Zhdanov (in Russian).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T135142Z" creationid="cpeishan" creationdate="20180407T135142Z">
-        <seg>By Vladimir Zhdanov (俄语).</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190327T174518Z" creationid="cpeishan" creationdate="20180407T135142Z">
+        <seg>作者：Vladimir Zhdanov（俄语）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20280,8 +20281,8 @@ Kaptain. You can then launch the Kaptain launch script with:</seg>
       <tuv lang="EN">
         <seg>HOWTOs</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T135456Z" creationid="cpeishan" creationdate="20180407T135456Z">
-        <seg>操作文档</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190327T174901Z" creationid="cpeishan" creationdate="20180407T135456Z">
+        <seg>指南</seg>
       </tuv>
     </tu>
     <tu>
@@ -20328,8 +20329,8 @@ Kaptain. You can then launch the Kaptain launch script with:</seg>
       <tuv lang="EN">
         <seg>HTML user manual online</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T134416Z" creationid="cpeishan" creationdate="20180407T134416Z">
-        <seg>在线用户手册是HTML语言写的</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190327T173914Z" creationid="cpeishan" creationdate="20180407T134416Z">
+        <seg>在线 HTML 用户手册</seg>
       </tuv>
     </tu>
     <tu>
@@ -30875,8 +30876,8 @@ Thus, for example, rules for Canadian French (FR-CA) should be higher than rules
       <tuv lang="EN">
         <seg>OmegaT for Beginners tutorial</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T134651Z" creationid="cpeishan" creationdate="20180407T134651Z">
-        <seg>OmegaT初学者教程</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190327T174059Z" creationid="cpeishan" creationdate="20180407T134651Z">
+        <seg>OmegaT 初学者教程</seg>
       </tuv>
     </tu>
     <tu>
@@ -35077,8 +35078,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Recursos do OmegaT: primeiros passos</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T135248Z" creationid="cpeishan" creationdate="20180407T135248Z">
-        <seg>OmegaT 资源: 第一步</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190327T174543Z" creationid="cpeishan" creationdate="20180407T135248Z">
+        <seg>OmegaT 功能：入门</seg>
       </tuv>
     </tu>
     <tu>
@@ -41434,8 +41435,8 @@ current folder will be used instead.</seg>
       <tuv lang="EN">
         <seg>The HTML user manual for OmegaT standard version.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T134528Z" creationid="cpeishan" creationdate="20180407T134528Z">
-        <seg>OmegaT标准版的用户手册用HTML语言编写 </seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190327T173950Z" creationid="cpeishan" creationdate="20180407T134528Z">
+        <seg>HTML 格式的 OmegaT 标准版用户手册。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42902,8 +42903,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The following tutorials are available online/for download:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T134630Z" creationid="cpeishan" creationdate="20180407T134630Z">
-        <seg>下列教程可供在线查阅或下载</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190327T174036Z" creationid="cpeishan" creationdate="20180407T134630Z">
+        <seg>以下教程可供在线查阅或下载：</seg>
       </tuv>
     </tu>
     <tu>
@@ -44870,8 +44871,8 @@ additional steps need to be taken.</seg>
       <tuv lang="EN">
         <seg>The user manual for OmegaT in PDF format ({{ site.data.versions.standard.name }}).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T134159Z" creationid="cpeishan" creationdate="20180407T134159Z">
-        <seg>OmegaT用户手册是PDF格式({{ site.data.versions.standard.name }}).</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190327T173851Z" creationid="cpeishan" creationdate="20180407T134159Z">
+        <seg>PDF 格式的 OmegaT 用户手册（{{ site.data.versions.standard.name }}）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52359,8 +52360,8 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       <tuv lang="EN">
         <seg>You can also call up the user manual supplied with OmegaT without launching OmegaT itself. It can be found in the "docs" folder in your OmegaT program folder.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190327T173632Z" creationid="WynnChen" creationdate="20190327T173632Z">
-        <seg>你也可以在不启动 OmegaT 本身的情况下调出 OmegaT 提供 向用户也能在OmegaT未启动时调用用户手册。用户可在OmegaT项目文件夹的docs文件夹中找到用户手册。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190327T173820Z" creationid="WynnChen" creationdate="20190327T173632Z">
+        <seg>你也可以在不启动 OmegaT 本身的情况下调出附带的用户手册。可以在 OmegaT 程序文件夹中的 docs 文件夹内找到用户手册。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60349,8 +60350,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>В помощь переводчику: 10 советов по OmegaT</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T135101Z" creationid="cpeishan" creationdate="20180407T135101Z">
-        <seg>帮助译者:OmegaT10条提示</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190327T174448Z" creationid="WynnChen" creationdate="20190327T174448Z">
+        <seg>助力译者：10 个 OmegaT 的小贴士</seg>
       </tuv>
     </tu>
     <tu>
