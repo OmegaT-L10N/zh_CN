@@ -44,3 +44,4 @@ Lead developer	首席开发人员
 Bug	Bug	特定名词无特别好的中译干脆不翻译，注意大小写。
 feature request	功能建议
 Tracking system	跟踪系统
+social network	社交网络
