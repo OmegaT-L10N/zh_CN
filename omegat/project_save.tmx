@@ -15360,8 +15360,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Developers</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T105303Z" creationid="cpeishan" creationdate="20180407T105303Z">
-        <seg>开发者们</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190327T170119Z" creationid="cpeishan" creationdate="20180407T105303Z">
+        <seg>开发人员</seg>
       </tuv>
     </tu>
     <tu>
@@ -26177,6 +26177,14 @@ itself on the first run. Later calls do not need to be online.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Kos Ivantsov</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190327T165735Z" creationid="WynnChen" creationdate="20190327T165735Z">
+        <seg>Kos Ivantsov</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Kurdish</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
@@ -30860,6 +30868,14 @@ Thus, for example, rules for Canadian French (FR-CA) should be higher than rules
       </tuv>
       <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T110005Z" creationid="cpeishan" creationdate="20180407T105909Z">
         <seg> OmegaT拥有非常活跃，热情的多语言用户组&lt;a0&gt;这里&lt;/a0&gt;, 强烈鼓励用户加入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT has a very active, supportive and multilingual user group. This is the &lt;a0&gt;recommended support channel&lt;/a0&gt;, which users are strongly encouraged to join.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190327T170726Z" creationid="WynnChen" creationdate="20190327T170726Z">
+        <seg>OmegaT 拥有非常活跃、极为支持的、多语言的用户组。强烈建议用户加入&lt;a0&gt;推荐的支持渠道&lt;/a0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38594,8 +38610,8 @@ When using regular expressions, the replacement string supports references to gr
       <tuv lang="EN">
         <seg>Since the project's inception, it has received the support of dozens of other contributors, too numerous to mention here, but for whose help we are very grateful.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T105518Z" creationid="cpeishan" creationdate="20180407T105518Z">
-        <seg>自项目成立以来，已经得到了几十个其他贡献者的支持，太多而不能在这里提到，但对他们的帮助，我们非常感谢。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190327T170340Z" creationid="cpeishan" creationdate="20180407T105518Z">
+        <seg>自项目启动以来，它已经得到了许多其他贡献者的支持，人数太多在此无法全部列出，但我们非常感激他们的帮助。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43631,8 +43647,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>The philosophy of the project is described &lt;a0&gt;here&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T105408Z" creationid="cpeishan" creationdate="20180407T105408Z">
-        <seg>描述项目理念 &lt;a0&gt;这里&lt;/a0&gt;.</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190327T170154Z" creationid="cpeishan" creationdate="20180407T105408Z">
+        <seg>项目理念在&lt;a0&gt;此处&lt;/a0&gt;有所描述。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49861,8 +49877,8 @@ Commands:
       <tuv lang="EN">
         <seg>User group</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T105553Z" creationid="cpeishan" creationdate="20180407T105553Z">
-        <seg>用户群体</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190327T170420Z" creationid="cpeishan" creationdate="20180407T105553Z">
+        <seg>用户组</seg>
       </tuv>
     </tu>
     <tu>
