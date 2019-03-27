@@ -8973,8 +8973,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>Administration</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T112507Z" creationid="cpeishan" creationdate="20180407T112507Z">
-        <seg>管理部门</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190327T172307Z" creationid="cpeishan" creationdate="20180407T112507Z">
+        <seg>管理</seg>
       </tuv>
     </tu>
     <tu>
@@ -18076,6 +18076,14 @@ project_save.tmx 未真正上传，SVN 切换到不稳定状态。
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Facebook group</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190327T172224Z" creationid="WynnChen" creationdate="20190327T172224Z">
+        <seg>Facebook 群组</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Failed to back up preferences file.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190322T060100Z" creationid="wynnc" creationdate="20190322T060009Z">
@@ -18210,8 +18218,8 @@ a description of how this error was produced.</seg>
       <tuv lang="EN">
         <seg>Feature requests tracking system</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T112354Z" creationid="cpeishan" creationdate="20180407T112354Z">
-        <seg>功能请求跟踪系统</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190327T172126Z" creationid="cpeishan" creationdate="20180407T112354Z">
+        <seg>功能建议跟踪系统</seg>
       </tuv>
     </tu>
     <tu>
@@ -24931,8 +24939,8 @@ everything.</seg>
       <tuv lang="EN">
         <seg>Issues/bugs tracking system</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T112327Z" creationid="cpeishan" creationdate="20180407T112327Z">
-        <seg>bug跟踪系统</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190327T172118Z" creationid="cpeishan" creationdate="20180407T112327Z">
+        <seg>问题/Bug 跟踪系统</seg>
       </tuv>
     </tu>
     <tu>
@@ -30881,6 +30889,14 @@ Thus, for example, rules for Canadian French (FR-CA) should be higher than rules
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT has a presence on various social networks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190327T172216Z" creationid="WynnChen" creationdate="20190327T172216Z">
+        <seg>OmegaT 在各种社交网络上都有存在。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT has a very active, supportive and multilingual user group &lt;a0&gt;here&lt;/a0&gt;, which users are strongly encouraged to join.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T110005Z" creationid="cpeishan" creationdate="20180407T105909Z">
@@ -33464,6 +33480,14 @@ to determine the source of the error and try again.</seg>
         <seg>请浏览日志
 （{1}）
 来确定错误原因后重新尝试。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please contact the &lt;a0&gt;OmegaT project manager&lt;/a0&gt; regarding any point not covered above. For support requests, use the &lt;a1&gt;recommended support channel&lt;/a1&gt;.&lt;br2/&gt; Please contact the &lt;a3&gt;webmaster&lt;/a3&gt; for any point regarding specifically the website.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190327T172725Z" creationid="WynnChen" creationdate="20190327T172725Z">
+        <seg>任何上面未覆盖的点，请联系&lt;a0&gt; OmegaT 项目经理&lt;/a0&gt;。对于支持请求，请使用&lt;a1&gt;推荐的支持渠道&lt;/a1&gt;。&lt;br2/&gt;关于网站有任何问题请联系&lt;a3&gt;网站管理员&lt;/a3&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38785,6 +38809,14 @@ When using regular expressions, the replacement string supports references to gr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Social Networks</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190327T172136Z" creationid="WynnChen" creationdate="20190327T172136Z">
+        <seg>社交网络</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Software required</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T102219Z" creationid="lenovo" creationdate="20180416T102219Z">
@@ -40784,6 +40816,14 @@ When using regular expressions, the replacement string supports references to gr
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120203T125143Z">
         <seg>从技术上说，PO 目标文件（如果创建了）中的 &lt;c0&gt;msgstr&lt;/c0&gt; 片段将为空的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Telegram</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190327T172230Z" creationid="WynnChen" creationdate="20190327T172230Z">
+        <seg>Telegram</seg>
       </tuv>
     </tu>
     <tu>
@@ -48560,6 +48600,14 @@ install.sh.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131108T101700Z" creationid="Fu Rhong" creationdate="20131108T101700Z">
         <seg>Twi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Twitter</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190327T172225Z" creationid="WynnChen" creationdate="20190327T172225Z">
+        <seg>Twitter</seg>
       </tuv>
     </tu>
     <tu>
