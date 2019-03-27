@@ -4256,6 +4256,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;-Duser.country=XX&lt;/e0&gt;&lt;i1/&gt; Besides the language, you can also specify the country, for example CN or TW in case of the Chinese language. To display the instant start guide in the desired language, you need to specify both the language and the country. This is necessary even if there's only one combination available, like pt_BR in case of Portuguese / Brazil.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190327T173055Z" creationid="WynnChen" creationdate="20190327T173055Z">
+        <seg>&lt;e0&gt;-Duser.country=XX&lt;/e0&gt;&lt;i1/&gt; Besides the language, you can also specify the country, for example CN or TW in case of the Chinese language. To display the instant start guide in the desired language, you need to specify both the language and the country. This is necessary even if there's only one combination available, like pt_BR in case of Portuguese / Brazil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;-Duser.language=XX&lt;/e0&gt;&lt;i1/&gt; Normally, i.e. when &lt;a2&gt;OmegaT&lt;/a2&gt; is launched without any arguments, the program first detects the language of the user's operating system.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120208T035926Z">
@@ -9781,8 +9789,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>An Instant Start Guide, which guides you through the main procedures and functions of OmegaT, is displayed in the OmegaT user interface by default.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T133531Z" creationid="cpeishan" creationdate="20180407T133458Z">
-        <seg>默认情况下,  OmegaT 用户界面上显示的 "即时启动向导"指导用户完成 OmegaT 的主要步骤和功能。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190327T173531Z" creationid="cpeishan" creationdate="20180407T133458Z">
+        <seg>默认情况下，OmegaT 用户界面上会显示带你全面了解 OmegaT 主要操作和功能的《快速入门指南》。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31276,6 +31284,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT is supplied with a comprehensive user manual. To call up the manual from within OmegaT, simply select Help &gt; Users manual, or press F1.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190327T173732Z" creationid="WynnChen" creationdate="20190327T172904Z">
+        <seg>OmegaT 附带有全面详细的用户手册。要从 OmegaT 中调出手册，只需选择“帮助 &amp;gt; 用户手册”即可，或按 F1。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT is the original work of Keith Godfrey.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190323T053547Z" creationid="wynnc" creationdate="20190322T083710Z">
@@ -52337,6 +52353,14 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T133726Z" creationid="cpeishan" creationdate="20180407T133726Z">
         <seg>用户也能在OmegaT未启动时调用用户手册。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also call up the user manual supplied with OmegaT without launching OmegaT itself. It can be found in the "docs" folder in your OmegaT program folder.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190327T173632Z" creationid="WynnChen" creationdate="20190327T173632Z">
+        <seg>你也可以在不启动 OmegaT 本身的情况下调出 OmegaT 提供 向用户也能在OmegaT未启动时调用用户手册。用户可在OmegaT项目文件夹的docs文件夹中找到用户手册。</seg>
       </tuv>
     </tu>
     <tu>
