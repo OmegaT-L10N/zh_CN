@@ -40,8 +40,8 @@
       <tuv lang="EN">
         <seg>"How to" documents on this site, containing information on certain procedures and features of OmegaT for advanced users which are not covered by the manual.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T135915Z" creationid="cpeishan" creationdate="20180407T135915Z">
-        <seg>本网站上的操作文档适用于高级用户，包含有关 OmegaT 的具体步骤和功能的信息, 这些内容用户手册上没有。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190327T175206Z" creationid="cpeishan" creationdate="20180407T135915Z">
+        <seg>本网站上的指南文档中包含了手册中未涵盖的某些针对进阶用户的 OmegaT 操作和功能。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13406,8 +13406,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Compatibility HowTos</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T140010Z" creationid="cpeishan" creationdate="20180407T135944Z">
-        <seg>操作的兼容性</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190327T175213Z" creationid="cpeishan" creationdate="20180407T135944Z">
+        <seg>兼容性指南</seg>
       </tuv>
     </tu>
     <tu>
@@ -33503,8 +33503,8 @@ to determine the source of the error and try again.</seg>
       <tuv lang="EN">
         <seg>Please contact the &lt;a0&gt;OmegaT project manager&lt;/a0&gt; regarding any point not covered above. For support requests, use the &lt;a1&gt;recommended support channel&lt;/a1&gt;.&lt;br2/&gt; Please contact the &lt;a3&gt;webmaster&lt;/a3&gt; for any point regarding specifically the website.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190327T172725Z" creationid="WynnChen" creationdate="20190327T172725Z">
-        <seg>任何上面未覆盖的点，请联系&lt;a0&gt; OmegaT 项目经理&lt;/a0&gt;。对于支持请求，请使用&lt;a1&gt;推荐的支持渠道&lt;/a1&gt;。&lt;br2/&gt;关于网站有任何问题请联系&lt;a3&gt;网站管理员&lt;/a3&gt;。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190327T175024Z" creationid="WynnChen" creationdate="20190327T172725Z">
+        <seg>任何上面未涵盖的点，请联系&lt;a0&gt; OmegaT 项目经理&lt;/a0&gt;。对于支持请求，请使用&lt;a1&gt;推荐的支持渠道&lt;/a1&gt;。&lt;br2/&gt;关于网站有任何问题请联系&lt;a3&gt;网站管理员&lt;/a3&gt;。</seg>
       </tuv>
     </tu>
     <tu>
