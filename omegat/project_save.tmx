@@ -9005,8 +9005,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>Advanced feature HowTos</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T142415Z" creationid="cpeishan" creationdate="20180407T142415Z">
-        <seg>操作的高级功能</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190330T064909Z" creationid="cpeishan" creationdate="20180407T142415Z">
+        <seg>高级功能指南</seg>
       </tuv>
     </tu>
     <tu>
@@ -15281,8 +15281,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Describes OmegaT's propagation and one-to-many matching features.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T142012Z" creationid="cpeishan" creationdate="20180407T142012Z">
-        <seg>描述 OmegaT 的传送和一对多的匹配功能。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190330T064431Z" creationid="cpeishan" creationdate="20180407T142012Z">
+        <seg>描述 OmegaT 的翻译传播和一对多匹配功能。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31585,8 +31585,8 @@ installed on your system.</seg>
       <tuv lang="EN">
         <seg>OmegaT tokenizer plugin</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T142440Z" creationid="cpeishan" creationdate="20180407T142440Z">
-        <seg>OmegaT 标记器插件</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190330T070833Z" creationid="cpeishan" creationdate="20180407T142440Z">
+        <seg>OmegaT 分词器插件</seg>
       </tuv>
     </tu>
     <tu>
@@ -34262,8 +34262,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Procedure for configuring Microsoft Translator.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T142247Z" creationid="cpeishan" creationdate="20180407T142247Z">
-        <seg>配置微软翻译的步骤</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190330T064803Z" creationid="cpeishan" creationdate="20180407T142247Z">
+        <seg>配置微软翻译的步骤。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38324,8 +38324,8 @@ When using regular expressions, the replacement string supports references to gr
       <tuv lang="EN">
         <seg>Setting up a preview function for use with OmegaT.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T142342Z" creationid="cpeishan" creationdate="20180407T142342Z">
-        <seg>设置 OmegaT 的预览功能</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190330T064859Z" creationid="cpeishan" creationdate="20180407T142342Z">
+        <seg>设置用于 OmegaT 的预览功能。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50242,8 +50242,8 @@ searchable without subscription:</seg>
       <tuv lang="EN">
         <seg>Using OmegaT in conjunction with Google Translate.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T142116Z" creationid="cpeishan" creationdate="20180407T142116Z">
-        <seg>OmegaT 与谷歌翻译结合.</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190330T064646Z" creationid="cpeishan" creationdate="20180407T142116Z">
+        <seg>将OmegaT 与谷歌翻译结合使用。</seg>
       </tuv>
     </tu>
     <tu>
