@@ -8989,8 +8989,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>Administrative and technical procedure for localizating OmegaT.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T144029Z" creationid="cpeishan" creationdate="20180407T144029Z">
-        <seg>OmegaT 本地化的管理和技术程序.</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190330T072322Z" creationid="cpeishan" creationdate="20180407T144029Z">
+        <seg>OmegaT 的本地化的管理和技术流程。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13446,8 +13446,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Compiling OmegaT from source</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T143158Z" creationid="cpeishan" creationdate="20180407T143158Z">
-        <seg>从源代码编译OmegaT </seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190330T071714Z" creationid="cpeishan" creationdate="20180407T143158Z">
+        <seg>从源代码编译 OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -14431,8 +14431,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Creating a new file filter</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T143336Z" creationid="cpeishan" creationdate="20180407T143336Z">
-        <seg>创建新的文件筛选器</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190330T071852Z" creationid="cpeishan" creationdate="20180407T143336Z">
+        <seg>创建新的文件过滤器</seg>
       </tuv>
     </tu>
     <tu>
@@ -17823,16 +17823,16 @@ project_save.tmx 未真正上传，SVN 切换到不稳定状态。
       <tuv lang="EN">
         <seg>Explains how to compile OmegaT from the source code.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T143307Z" creationid="cpeishan" creationdate="20180407T143307Z">
-        <seg>解释如何从源代码编译OmegaT</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190330T071724Z" creationid="cpeishan" creationdate="20180407T143307Z">
+        <seg>解说如何从源代码编译 OmegaT。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Explains how to create a filter for a new file format to be translated by OmegaT.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T143849Z" creationid="cpeishan" creationdate="20180407T143849Z">
-        <seg>解释如何为OmegaT 翻译创建新的文件格式筛选器。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190330T072238Z" creationid="cpeishan" creationdate="20180407T143849Z">
+        <seg>解释如何为要用 OmegaT 翻译的新文件格式创建过滤器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24772,8 +24772,8 @@ everything.</seg>
       <tuv lang="EN">
         <seg>Intended in particular for users who are new to Linux.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T144218Z" creationid="cpeishan" creationdate="20180407T144218Z">
-        <seg>专门针对 Linux 新手的用户。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190330T072346Z" creationid="cpeishan" creationdate="20180407T144218Z">
+        <seg>专门针对 Linux 新手用户。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27238,8 +27238,8 @@ itself on the first run. Later calls do not need to be online.</seg>
       <tuv lang="EN">
         <seg>Localizing OmegaT</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T143901Z" creationid="cpeishan" creationdate="20180407T143901Z">
-        <seg>OmegaT本地化</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190330T072243Z" creationid="cpeishan" creationdate="20180407T143901Z">
+        <seg>本地化 OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -50250,8 +50250,8 @@ searchable without subscription:</seg>
       <tuv lang="EN">
         <seg>Using OmegaT on Linux</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T144150Z" creationid="cpeishan" creationdate="20180407T144150Z">
-        <seg>Linux版OmegaT</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190330T072329Z" creationid="cpeishan" creationdate="20180407T144150Z">
+        <seg>在 Linux 上使用 OmegaT</seg>
       </tuv>
     </tu>
     <tu>
