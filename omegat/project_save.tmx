@@ -192,8 +192,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>$ &lt;s0&gt;java -version&lt;/s0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T132429Z" creationid="Zenobia Fang" creationdate="20180423T132429Z">
-        <seg>$ &lt;s0&gt;java—版本&lt;/s0&gt;</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190330T080412Z" creationid="WynnChen" creationdate="20190330T080412Z">
+        <seg>$ &lt;s0&gt;java -version&lt;/s0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3642,8 +3642,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;User Home&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T123041Z">
-        <seg>&lt;用户之家&gt;</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190330T075853Z">
+        <seg>&lt;用户主目录&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -19156,24 +19156,24 @@ Kaptain. You can then launch the Kaptain launch script with:</seg>
       <tuv lang="EN">
         <seg>For installation on Linux.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T130051Z" creationid="Zenobia Fang" creationdate="20180423T130051Z">
-        <seg>安装在 Linux 系统上。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190330T075557Z" creationid="Zenobia Fang" creationdate="20180423T130051Z">
+        <seg>用于在 Linux 系统上安装。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>For installation on Mac OS X.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T130022Z" creationid="Zenobia Fang" creationdate="20180423T130022Z">
-        <seg>安装在 Mac OS X 上。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190330T075554Z" creationid="Zenobia Fang" creationdate="20180423T130022Z">
+        <seg>用于在 Mac OS X 上安装。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>For installation on Windows System.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T130006Z" creationid="Zenobia Fang" creationdate="20180423T130006Z">
-        <seg>安装在 Windows系统上。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190330T075549Z" creationid="Zenobia Fang" creationdate="20180423T130006Z">
+        <seg>用于在 Windows系统上安装。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19182,6 +19182,14 @@ Kaptain. You can then launch the Kaptain launch script with:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T130625Z" creationid="Zenobia Fang" creationdate="20180423T130625Z">
         <seg>安装在其他操作系统上（如 FreeBSD 和 Solaris 系统）。&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For installation on other operating systems (such as FreeBSD and Solaris).&lt;br0/&gt; &lt;i1&gt;OmegaT can be installed on any operating system capable of running version 1.6 of the Java runtime environment.&lt;/i1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190330T080139Z" creationid="WynnChen" creationdate="20190330T080043Z">
+        <seg>用于在其他操作系统（例如 FreeBSD 和 Solaris）上安装。&lt;br0/&gt; &lt;i1&gt;OmegaT 可以安装在任何能够运行 Java 运行时环境 1.6 版的操作系统上。&lt;/i1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -27036,6 +27044,14 @@ itself on the first run. Later calls do not need to be online.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Linux</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190330T075554Z" creationid="WynnChen" creationdate="20190330T075554Z">
+        <seg>Linux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Linux (Intel) Users</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120206T121140Z">
@@ -27432,6 +27448,14 @@ itself on the first run. Later calls do not need to be online.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T142130Z" creationid="cpeishan" creationdate="20180407T142130Z">
         <seg>微软翻译</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mac OS X</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190330T075549Z" creationid="WynnChen" creationdate="20190330T075549Z">
+        <seg>Mac OS X</seg>
       </tuv>
     </tu>
     <tu>
@@ -32853,8 +32877,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>Other</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190324T024731Z" creationid="wynnc" creationdate="20190324T024714Z">
-        <seg>其他人的</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190330T075708Z" creationid="wynnc" creationdate="20190324T024714Z">
+        <seg>其他</seg>
       </tuv>
     </tu>
     <tu>
@@ -38110,6 +38134,14 @@ When using regular expressions, the replacement string supports references to gr
       </tuv>
       <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T131433Z" creationid="Zenobia Fang" creationdate="20180423T131433Z">
         <seg>选择下载是否包含 Java 运行环境（JRE）的 OmegaT。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select whether to download OmegaT with or without the Java Runtime Environment (JRE) included. If a suitable JRE is already installed on your Windows system, select "Without JRE". If not, or if you are not sure, select "with JRE".</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190330T080402Z" creationid="WynnChen" creationdate="20190330T080135Z">
+        <seg>选择下载自带 Java 运行时环境（JRE）的 OmegaT 还是不带 JRE 的 OmegaT。如果在 Windows 系统上已经安装了合适的 JRE，选择“不带 JRE”。如果没有安装，或者你不确定，选择“带 JRE”。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51663,6 +51695,14 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Windows</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190330T075518Z" creationid="WynnChen" creationdate="20190330T075518Z">
+        <seg>Windows</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Windows 2000 and XP</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120202T060139Z">
@@ -51745,8 +51785,8 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       <tuv lang="EN">
         <seg>With 64-bit JRE</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T134118Z" creationid="Zenobia Fang" creationdate="20180423T134118Z">
-        <seg>包含 64-bit JRE</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190330T080428Z" creationid="Zenobia Fang" creationdate="20180423T134118Z">
+        <seg>带 64-bit JRE</seg>
       </tuv>
     </tu>
     <tu>
@@ -51761,8 +51801,8 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       <tuv lang="EN">
         <seg>With JRE</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T132723Z" creationid="Zenobia Fang" creationdate="20180423T132723Z">
-        <seg>包含 JRE</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190330T080418Z" creationid="Zenobia Fang" creationdate="20180423T132723Z">
+        <seg>带 JRE</seg>
       </tuv>
     </tu>
     <tu>
@@ -51865,8 +51905,8 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       <tuv lang="EN">
         <seg>Without JRE</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T134205Z" creationid="Zenobia Fang" creationdate="20180423T134205Z">
-        <seg>不包含 JRE</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190330T080511Z" creationid="Zenobia Fang" creationdate="20180423T134205Z">
+        <seg>不带 JRE</seg>
       </tuv>
     </tu>
     <tu>
@@ -60504,6 +60544,16 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <prop type="file">Bundle.properties</prop>
+      <prop type="id">CONFLICT_DIALOG_LABEL_THEIRS</prop>
+      <tuv lang="EN">
+        <seg>Other</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190330T075716Z" creationid="WynnChen" creationdate="20190330T075702Z">
+        <seg>其他人的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Bundle.properties</prop>
       <prop type="id">EXTERNALFINDER_EDITOR_COLUMN_TARGET</prop>
       <tuv lang="EN">
         <seg>Target</seg>
@@ -60530,6 +60580,17 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190323T162907Z" creationid="wynnc" creationdate="20190323T162907Z">
         <seg>纯文本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">doc_src/FilesAndFolders.xml</prop>
+      <prop type="prev">&lt;User Home&gt;/Library/Preferences/&lt;a0&gt;OmegaT&lt;/a0&gt;</prop>
+      <prop type="next">&lt;User Home&gt;</prop>
+      <tuv lang="EN">
+        <seg>Other</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190330T075638Z" creationid="WynnChen" creationdate="20190330T075638Z">
+        <seg>其他</seg>
       </tuv>
     </tu>
     <tu>
