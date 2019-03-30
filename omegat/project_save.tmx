@@ -8973,8 +8973,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>Adds recognition of inflected forms to OmegaT glossary and fuzzy match functions.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T142943Z" creationid="cpeishan" creationdate="20180407T142943Z">
-        <seg>增加 OmegaT 词汇表和模糊匹配功能对变形词汇的识别。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190330T071030Z" creationid="cpeishan" creationdate="20180407T142943Z">
+        <seg>为 OmegaT 词汇表和模糊匹配功能增加对词形变化的识别能力。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31569,8 +31569,8 @@ installed on your system.</seg>
       <tuv lang="EN">
         <seg>OmegaT text export function</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T143019Z" creationid="cpeishan" creationdate="20180407T143019Z">
-        <seg>OmegaT 文本输出功能</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190330T071037Z" creationid="cpeishan" creationdate="20180407T143019Z">
+        <seg>OmegaT 文本导出功能</seg>
       </tuv>
     </tu>
     <tu>
@@ -32813,8 +32813,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>Other HowTos</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T143118Z" creationid="cpeishan" creationdate="20180407T143118Z">
-        <seg>其他操作</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190330T071439Z" creationid="cpeishan" creationdate="20180407T143118Z">
+        <seg>其他指南</seg>
       </tuv>
     </tu>
     <tu>
@@ -50322,8 +50322,8 @@ searchable without subscription:</seg>
       <tuv lang="EN">
         <seg>Using the OmegaT text export function (scripting interface).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T143103Z" creationid="cpeishan" creationdate="20180407T143103Z">
-        <seg>使用OmegaT 文本输出功能 (脚本界面).</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190330T071104Z" creationid="cpeishan" creationdate="20180407T143103Z">
+        <seg>使用 OmegaT 的文本导出功能 (脚本界面)。</seg>
       </tuv>
     </tu>
     <tu>
