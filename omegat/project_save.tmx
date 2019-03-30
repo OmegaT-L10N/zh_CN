@@ -10109,8 +10109,8 @@ to determine the source of the error and try again.</seg>
       <tuv lang="EN">
         <seg>An introductory video to OmegaT in English by John Moran.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T150215Z" creationid="cpeishan" creationdate="20180407T150215Z">
-        <seg>John Moran的OmegaT 简介的英语视频。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190330T074028Z" creationid="cpeishan" creationdate="20180407T150215Z">
+        <seg>John Moran 的英文 OmegaT 介绍视频。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11694,8 +11694,16 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>By Marco Cevoli and Sergio Alasia.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T124144Z" creationid="cpeishan" creationdate="20180407T151120Z">
-        <seg>Marco Cevoli 和 Sergio Alasia.</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190330T074505Z" creationid="cpeishan" creationdate="20180407T151120Z">
+        <seg>作者： Marco Cevoli 和 Sergio Alasia。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By Marco Cevoli and Sergio Alasia. (In Italian)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190330T074348Z" creationid="WynnChen" creationdate="20190330T074348Z">
+        <seg>作者：Marco Cevoli 和 Sergio Alasia。（意大利语）</seg>
       </tuv>
     </tu>
     <tu>
@@ -19639,8 +19647,8 @@ Kaptain. You can then launch the Kaptain launch script with:</seg>
       <tuv lang="EN">
         <seg>From the YouTube OmegaT series by Miguel Navarro (in Spanish).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T150445Z" creationid="cpeishan" creationdate="20180407T150445Z">
-        <seg>YouTube OmegaT 系列：Miguel Navarro (西班牙语)</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190330T074218Z" creationid="cpeishan" creationdate="20180407T150445Z">
+        <seg>Miguel Navarro 的 OmegaT 系列，来自 YouTube（西班牙语）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20273,8 +20281,8 @@ Kaptain. You can then launch the Kaptain launch script with:</seg>
       <tuv lang="EN">
         <seg>Guida completa a OmegaT: tecniche, trucchi e consigli per traduttori e project manager</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T150946Z" creationid="cpeishan" creationdate="20180407T150946Z">
-        <seg>OmegaT 完整指南: 翻译人员和项目经理的技术、技巧</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190330T074329Z" creationid="cpeishan" creationdate="20180407T150946Z">
+        <seg>OmegaT 完全指南：翻译人员和项目经理的技巧、提示和建议</seg>
       </tuv>
     </tu>
     <tu>
@@ -31058,8 +31066,8 @@ project without team functionality. (You will still able to use OmegaT
       <tuv lang="EN">
         <seg>OmegaT introduction tutorial</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T150101Z" creationid="cpeishan" creationdate="20180407T150101Z">
-        <seg>OmegaT简介教程</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190330T073906Z" creationid="cpeishan" creationdate="20180407T150101Z">
+        <seg>OmegaT 入门教程</seg>
       </tuv>
     </tu>
     <tu>
@@ -31725,8 +31733,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>OmegaT videos on the Qabiria YouTube channel.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T150034Z" creationid="cpeishan" creationdate="20180407T150034Z">
-        <seg>OmegaT 视频在 Qabiria YouTube 频道。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190330T073724Z" creationid="cpeishan" creationdate="20180407T150034Z">
+        <seg>Qabiria YouTube 频道上的 OmegaT 视频。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38140,8 +38148,8 @@ When using regular expressions, the replacement string supports references to gr
       <tuv lang="EN">
         <seg>Self-paced online training course in English (for purchase)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T151236Z" creationid="cpeishan" creationdate="20180407T151236Z">
-        <seg>随到随看的英语在线培训课程 (购买)</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190330T074427Z" creationid="cpeishan" creationdate="20180407T151236Z">
+        <seg>英语自学在线培训教程（付费）</seg>
       </tuv>
     </tu>
     <tu>
@@ -50594,24 +50602,24 @@ searchable without subscription:</seg>
       <tuv lang="EN">
         <seg>Video 1</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T150233Z" creationid="cpeishan" creationdate="20180407T150233Z">
-        <seg>视频1</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190330T074030Z" creationid="cpeishan" creationdate="20180407T150233Z">
+        <seg>视频 1</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Video 2</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T150522Z" creationid="cpeishan" creationdate="20180407T150522Z">
-        <seg>视频2</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190330T074205Z" creationid="cpeishan" creationdate="20180407T150522Z">
+        <seg>视频 2</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Video 3</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T150544Z" creationid="cpeishan" creationdate="20180407T150544Z">
-        <seg>视频3</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190330T074223Z" creationid="cpeishan" creationdate="20180407T150544Z">
+        <seg>视频 3</seg>
       </tuv>
     </tu>
     <tu>
