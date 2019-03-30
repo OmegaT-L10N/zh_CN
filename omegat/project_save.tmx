@@ -8395,6 +8395,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A step-by-step guide on how to use the Text Extraction and the Text Merging utilities from Rainbow to pre- and post-process files to be translated using OmegaT. These utilities enable OmegaT to be used to translate file formats for which XLIFF conversion filters are available.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190330T073633Z" creationid="WynnChen" creationdate="20190330T073633Z">
+        <seg>关于如何用 Rainbow 的文本提取和文本合并功能来对要用 OmegaT 翻译的文件进行预处理和后处理的详细指南。这些功能让 OmegaT 可用于翻译那些 XLIFF 转换过滤器可用的文件格式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A text file containing two lines:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120202T070734Z">
@@ -20808,8 +20816,8 @@ Note: not all filters allow you to select an encoding.</seg>
       <tuv lang="EN">
         <seg>How to translate Magento</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T144916Z" creationid="cpeishan" creationdate="20180407T144916Z">
-        <seg>如何翻译Magento</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190330T073146Z" creationid="cpeishan" creationdate="20180407T144916Z">
+        <seg>如何翻译 Magento</seg>
       </tuv>
     </tu>
     <tu>
@@ -24289,8 +24297,8 @@ Reopen the project now?</seg>
       <tuv lang="EN">
         <seg>Information on procedures and features of OmegaT for advanced users which can be found on other sites.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T144357Z" creationid="cpeishan" creationdate="20180407T144357Z">
-        <seg>有关高级用户的 OmegaT 程序和功能的信息, 可在其他网站上找到。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190330T073043Z" creationid="cpeishan" creationdate="20180407T144357Z">
+        <seg>针对高级用户的 OmegaT 操作和功能的信息可在其他网站上找到。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34270,24 +34278,24 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Procedure for using OmegaT to localize Magento.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T144953Z" creationid="cpeishan" creationdate="20180407T144953Z">
-        <seg>使用 OmegaT使Magento本地化 的步骤</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190330T073207Z" creationid="cpeishan" creationdate="20180407T144953Z">
+        <seg>用 OmegaT 本地化 Magento 的流程。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Procedure for using OmegaT to localize XLIFF files exported from Wordpress.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T145108Z" creationid="cpeishan" creationdate="20180407T145108Z">
-        <seg>使用 OmegaT使Wordpress XLIFF 文件本地化 的步骤</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190330T073235Z" creationid="cpeishan" creationdate="20180407T145108Z">
+        <seg>用 OmegaT 本地化从 Wordpress 导出的 XLIFF 文件的流程。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Procedure for using OmegaT to localize the NetBeans IDE.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T144807Z" creationid="cpeishan" creationdate="20180407T144807Z">
-        <seg>使用 OmegaT使Netbeans集成开发环境本地化 的步骤。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190330T073141Z" creationid="cpeishan" creationdate="20180407T144807Z">
+        <seg>用 OmegaT 本地化 Netbeans IDE 的流程。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48359,8 +48367,8 @@ install.sh.</seg>
       <tuv lang="EN">
         <seg>Translating NetBeans IDE</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T144600Z" creationid="cpeishan" creationdate="20180407T144600Z">
-        <seg>转换java(NetBeans软件)开发环境</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190330T073108Z" creationid="cpeishan" creationdate="20180407T144600Z">
+        <seg>翻译 NetBeans IDE</seg>
       </tuv>
     </tu>
     <tu>
@@ -48383,8 +48391,8 @@ install.sh.</seg>
       <tuv lang="EN">
         <seg>Translating with Rainbow and OmegaT</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T145345Z" creationid="cpeishan" creationdate="20180407T145345Z">
-        <seg>利用Rainbow和OmegaT翻译</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190330T073251Z" creationid="cpeishan" creationdate="20180407T145345Z">
+        <seg>用 Rainbow 和 OmegaT 进行翻译</seg>
       </tuv>
     </tu>
     <tu>
