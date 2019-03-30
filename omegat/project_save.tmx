@@ -11444,6 +11444,22 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Blog pages on OmegaT. (In English)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190330T074627Z" creationid="WynnChen" creationdate="20190330T074627Z">
+        <seg>关于 OmegaT 的博客页面。（英语）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Blog pages on OmegaT. (In Russian)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190330T074642Z" creationid="WynnChen" creationdate="20190330T074642Z">
+        <seg>关于 OmegaT 的博客页面。（俄语）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Blogs</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T123430Z" creationid="Zenobia Fang" creationdate="20180423T123430Z">
@@ -25746,6 +25762,14 @@ itself on the first run. Later calls do not need to be online.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>JRE</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190330T074756Z" creationid="WynnChen" creationdate="20190330T074756Z">
+        <seg>JRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>JSch (JSch License)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190323T053746Z" creationid="wynnc" creationdate="20190323T052843Z">
@@ -27000,6 +27024,14 @@ itself on the first run. Later calls do not need to be online.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T124315Z" creationid="Zenobia Fang" creationdate="20180423T124315Z">
         <seg>提供旧版本的 OmegaT 链接.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Links are provided below to the various versions of OmegaT. If you are confused about which version to download, you can use the &lt;a0&gt;Download selector&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190330T074752Z" creationid="WynnChen" creationdate="20190330T074645Z">
+        <seg>下面提供了各种版本的 OmegaT 的链接。如果你不确定应当下载哪个版本，可以使用&lt;a0&gt;下载选择器&lt;/a0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30628,8 +30660,8 @@ Thus, for example, rules for Canadian French (FR-CA) should be higher than rules
       <tuv lang="EN">
         <seg>OmegaT Download Selector</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T124547Z" creationid="Zenobia Fang" creationdate="20180423T124526Z">
-        <seg>OmegaT 下载选择</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190330T074801Z" creationid="Zenobia Fang" creationdate="20180423T124526Z">
+        <seg>OmegaT 下载选择器</seg>
       </tuv>
     </tu>
     <tu>
@@ -41891,6 +41923,14 @@ Please try to correct the error and reload the project.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Web Start version is the "install and forget" version.&lt;br0/&gt; &lt;s1&gt;The benefit&lt;/s1&gt;: once launched, future updates of the Web Start version will be installed automatically on your computer.&lt;br2/&gt; &lt;s3&gt;The drawback&lt;/s3&gt;: at present, this version cannot be used in conjunction with plug-ins, so not all functions are available.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190330T075516Z" creationid="WynnChen" creationdate="20190330T075516Z">
+        <seg>Web Start 版本是“安装后不管（install and forget）”版本。&lt;br0/&gt; &lt;s1&gt;优点&lt;/s1&gt;：一旦启动，Web Start 版本未来的更新都会自动安装到你的计算机上。&lt;br2/&gt; &lt;s3&gt;缺点&lt;/s3&gt;：目前，这个版本不能和插件一起使用，因此并非所有功能都可用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Web Start version offers an alternative means of installing OmegaT on your computer.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180424T130948Z" creationid="Zenobia Fang" creationdate="20180424T130948Z">
@@ -44953,6 +44993,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T125036Z" creationid="Zenobia Fang" creationdate="20180423T125036Z">
         <seg>用户安装的版本， OmegaT 现有用户较为熟悉。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The version for installation by the user, familiar to existing OmegaT users. If in doubt, select this version.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190330T075116Z" creationid="WynnChen" creationdate="20190330T075116Z">
+        <seg>现有的 OmegaT 用户熟悉的由用户安装的版本。如果不确定，请选择此版本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48133,8 +48181,8 @@ install.sh.</seg>
       <tuv lang="EN">
         <seg>Traditional</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T124655Z" creationid="Zenobia Fang" creationdate="20180423T124655Z">
-        <seg>传统的</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190330T075022Z" creationid="Zenobia Fang" creationdate="20180423T124655Z">
+        <seg>传统</seg>
       </tuv>
     </tu>
     <tu>
@@ -50544,6 +50592,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Velior's corporate blog &lt;br0/&gt;on translation and the &lt;br1/&gt;translation industry</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190330T074604Z" creationid="WynnChen" creationdate="20190330T074604Z">
+        <seg>Velior 关于翻译和翻译行业&lt;br0/&gt;的企业博客</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Venda</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
@@ -50926,11 +50982,12 @@ trouble of selecting, obtaining and installing it.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>java的有关专有名词，维持原文。</note>
       <tuv lang="EN">
         <seg>Web Start</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T125611Z" creationid="Zenobia Fang" creationdate="20180423T125127Z">
-        <seg>网页启动</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190330T075144Z" creationid="WynnChen" creationdate="20190330T075144Z">
+        <seg>Web Start</seg>
       </tuv>
     </tu>
     <tu>
