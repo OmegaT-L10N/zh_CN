@@ -48,3 +48,4 @@ social network	社交网络
 Instant Start Guide	快速入门指南
 HOWTO	指南
 Howto	指南
+file filter	文件过滤器
