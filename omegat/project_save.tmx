@@ -59012,11 +59012,12 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
     </tu>
     <tu>
+      <note>占位符，可能需要用于程序替换，维持不变。</note>
       <tuv lang="EN">
         <seg>some version</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T134953Z" creationid="Zenobia Fang" creationdate="20180423T134953Z">
-        <seg>部分版本</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190330T080602Z" creationid="WynnChen" creationdate="20190330T080602Z">
+        <seg>some version</seg>
       </tuv>
     </tu>
     <tu>
