@@ -15271,6 +15271,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Describes OmegaT's compatibility with selected other software products. With links to more detailed HOWTOs.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190330T063630Z" creationid="WynnChen" creationdate="20190330T063630Z">
+        <seg>描述 OmegaT 与所选其他软件产品的兼容性。并有链接指向更详细的指南。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Describes OmegaT's propagation and one-to-many matching features.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="cpeishan" changedate="20180407T142012Z" creationid="cpeishan" creationdate="20180407T142012Z">
