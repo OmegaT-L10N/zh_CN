@@ -46,3 +46,4 @@ feature request	功能建议
 Tracking system	跟踪系统
 social network	社交网络
 Instant Start Guide	快速入门指南
+HOWTO	指南
