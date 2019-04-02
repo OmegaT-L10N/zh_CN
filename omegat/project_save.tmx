@@ -31899,6 +31899,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT will usually run on any Linux system on which a suitable version of the Java Runtime Environment (JRE) can be be installed. OmegaT currently requires version 1.6 of the JRE or later. To check what version of the JRE, if any, is installed on your Linux system, open a console (command-line window) and type:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190402T030444Z" creationid="WynnChen" creationdate="20190402T030444Z">
+        <seg>OmegaT 通常可以在任何能安装合适版本的 Java 运行环境（JRE）的 Linux 系统上运行。OmegaT 目前需要 JRE 1.6 或更高版本。要检查你的 Linux 系统上安装了哪个版本的 JRE（如果有），请打开控制台（命令行窗口）并输入：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT {0} is now available.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190324T044652Z" creationid="wynnc" creationdate="20190324T044652Z">
