@@ -11300,6 +11300,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Before proceeding</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190402T041658Z" creationid="WynnChen" creationdate="20190402T041658Z">
+        <seg>在继续之前</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Before proceeding with such conversions, be sure to test all options.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120202T123911Z">
@@ -18506,6 +18514,14 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Files in Microsoft Office XML format can be translated directly in OmegaT. Files in older MS Word, Excel and Powerpoint formats can be translated following conversion to the equivalent current Microsoft Office formats, or alternatively to the Office Open XML format, which can be done in OpenOffice.org or LibreOffice (also free). To obtain OpenOffice.org or LibreOffice, follow the link from "Third-party software" button on the left.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190402T041502Z" creationid="WynnChen" creationdate="20190402T041502Z">
+        <seg>Microsoft Office XML 格式的文件可以直接在 OmegaT 中翻译。旧的 Microsoft Word、Excel 和 Powerpoint 格式的文件可以在转换到对等的当前 Microsoft Office 格式后翻译，或者也可在 OpenOffice.org 或 LibreOffice（同样免费）中转换成 Office Open XML 格式后进行翻译。要获取 OpenOffice.org 或 LibreOffice，请点击左方“第三方软件”按钮链接到相应网站。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Files in older MS Word, Excel and Powerpoint formats can be translated following conversion to the equivalent current Microsoft Office formats, or alternatively to the Office Open XML format, which can be done in OpenOffice.org or LibreOffice (also free).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T141921Z" creationid="Zenobia Fang" creationdate="20180423T141921Z">
@@ -20495,6 +20511,14 @@ Kaptain. You can then launch the Kaptain launch script with:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131107T150118Z" creationid="Fu Rhong" creationdate="20131107T150118Z">
         <seg>豪撒语</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Have you considered donating to OmegaT? Even though this software is free, if you find OmegaT useful and would like to express your gratitude, you can make a donation on our Paypal account.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190402T041823Z" creationid="WynnChen" creationdate="20190402T041823Z">
+        <seg>你有没有考虑过向 OmegaT 捐款？虽然这个软件是免费的，但如果你觉得 OmegaT 很有用并且想表达你的感谢，你可以向我们的 Paypal 账户捐款。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31312,6 +31336,14 @@ published by the Free Software Foundation, either version 3 of the License, or
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT is not particularly difficult to install or use, but it does require a willingness to read and follow the instructions. If you have a natural aversion to reading instructions, and your approach to new software is to click on every button you see until something resembling the desired effect occurs, then OmegaT is probably not suitable for you.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190402T041635Z" creationid="WynnChen" creationdate="20190402T041635Z">
+        <seg>OmegaT 的安装或使用并不是特别困难，但确实需要阅读并遵循说明。如果您对阅读说明有一种天生的厌恶，并且您对新软件的处理方法是点击您看到的每个按钮，直到出现类似于所需效果的东西，那么 OmegaT 可能不适合您。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT is not yet able to detect mistakes in formatting fully automatically, so it will not prompt you if you make an error or change formatting to fit your target language better.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120205T121924Z">
@@ -31863,6 +31895,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T135234Z" creationid="Zenobia Fang" creationdate="20180423T135234Z">
         <seg>OmegaT 可在任何能或已安装 JRE（Java 运行环境）的系统上运行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT will run on any system on which the appropriate JRE (Java Runtime Environment) has been or can be installed. The JRE is now supplied with OmegaT and need not be obtained separately. OmegaT has been successfully installed on Windows (all versions from 98 onwards), Macintosh OS X and Linux.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190402T041158Z" creationid="WynnChen" creationdate="20190402T041158Z">
+        <seg>OmegaT 可在任何已安装或可安装相应 JRE（Java 运行环境）的系统上运行。OmegaT 现在自带 JRE，无需单独获取。OmegaT 已在 Windows（从 98 开始的所有版本）、Micintosh OS X 及 Linux 上成功安装。</seg>
       </tuv>
     </tu>
     <tu>
