@@ -10630,8 +10630,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>As its name suggests, the "Latest" version of Omegat is more up to date. However, the user manual may no longer be up to date (and therefore possibly confusing), and some minor bugs are possible. Nevertheless, the "Latest" versions of OmegaT are usually very stable and are recommended for any users who already have some experience with OmegaT.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190402T033105Z" creationid="WynnChen" creationdate="20190402T033105Z">
-        <seg>顾名思义，“最新”的 Omegat 版本要更时新一些。但是，用户手册可能不再是最新的（因此可能会让人困惑），并且可能会出现小 Bug。尽管如此，“最新”的 OmegaT 版本ertheless, the "Latest" versions of OmegaT are usually very stable and are recommended for any users who already have some experience with OmegaT。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190402T033345Z" creationid="WynnChen" creationdate="20190402T033105Z">
+        <seg>顾名思义，Omegat 的“最新”版本要更时新一些。但是，用户手册可能不再是最新的（因此可能会让人困惑），并且可能会出现小 Bug。尽管如此，OmegaT 的“最新”版本通常非常稳定，推荐任何已经拥有 OmegaT 经验的用户使用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41258,8 +41258,8 @@ current folder will be used instead.</seg>
       <tuv lang="EN">
         <seg>The "Standard" version of OmegaT includes a full user manual (at least in English) and will usually have been tested for some time to eliminate any bugs. It is the recommended version for first-time users.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190402T032807Z" creationid="WynnChen" creationdate="20190402T032807Z">
-        <seg>“标准”的 OmegaT 版本，包含完整的用户手册（至少有英语版本）并且通常已经过一段时间测试来消除各种 Bug。首次使用的用户推荐使用此版本。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190402T033121Z" creationid="WynnChen" creationdate="20190402T032807Z">
+        <seg>OmegaT的“标准”版本包含完整的用户手册（至少有英语版本）并且通常已经过一段时间测试来消除各种 Bug。首次使用的用户推荐使用此版本。</seg>
       </tuv>
     </tu>
     <tu>
