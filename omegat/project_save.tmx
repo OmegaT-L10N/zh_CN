@@ -22389,6 +22389,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you are unsure whether a suitable JRE is already installed on your system, you can still download and install an OmegaT version with JRE. This version of the JRE will only be used locally for OmegaT, will not conflict with, override or uninstall any other JRE installations, and is therefore safe to use.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190402T030916Z" creationid="WynnChen" creationdate="20190402T030916Z">
+        <seg>如果你不确定系统上是否已经安装有合适的 JRE，你依然可以下载并安装 OmegaT 的带 JRE 版本。此版本的 JRE 将仅由 OmegaT 局部使用，不会出现冲突、覆盖、或卸载任何其他 JRE 安装的情况，因此可以安装使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are unsure whether or not you have a suitable version of the JRE, select a version with JRE (or the Default version).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180424T121548Z" creationid="Zenobia Fang" creationdate="20180424T121548Z">
