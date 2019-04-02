@@ -16628,6 +16628,14 @@ project_save.tmx 未真正上传，SVN 切换到不稳定状态。
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>During installation, depending on your operating system, you may receive several security warnings.&lt;br0/&gt;The certificate is signed by &lt;a1&gt;PnS Concept Sarl&lt;/a1&gt;, a French registered company.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190402T044526Z" creationid="WynnChen" creationdate="20190402T044526Z">
+        <seg>在安装过程中，根据操作系统不同，您可能会收到若干安全警告。&lt;br0/&gt;证书由法国注册公司&lt;a1&gt;PnS Concept Sarl &lt;/a1&gt;签署。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>During the installation, depending on your operating system, you may receive several security warnings.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Puzzlist" changedate="20130922T041315Z" creationid="Puzzlist" creationdate="20130922T041315Z">
@@ -23694,8 +23702,8 @@ Reopen the project now?</seg>
       <tuv lang="EN">
         <seg>In order to install the Web start version, you must already have Java version 1.3 or later installed on your computer.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180417T110024Z" creationid="Wyndy" creationdate="20180417T102241Z">
-        <seg>欲安装 Web start 版，您的电脑需要先安装1.3 以上版本的 Java。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190402T044711Z" creationid="Wyndy" creationdate="20180417T102241Z">
+        <seg>要安装 Web start 版本，电脑上需要已安装有 Java 1.3 或更高版本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27552,6 +27560,14 @@ itself on the first run. Later calls do not need to be online.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180424T122903Z" creationid="Zenobia Fang" creationdate="20180424T122903Z">
         <seg>Mac OS X 有一个叫做 Gatekeeper 的功能，该功能通过增加运行未签字程序的难度来增加安全性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mac OS X has a feature called Gatekeeper that increases security by making it difficult to run unsigned programs. OmegaT for Mac OS X is available in both signed and unsigned versions; they are functionally identical, but the signed version is preferred as it is recognized by the system as being published by a known developer.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190402T044139Z" creationid="WynnChen" creationdate="20190402T044044Z">
+        <seg>Mac OS X 有一个叫做 Gatekeeper 的功能，该功能通过增加运行未签字程序的难度来增加安全性。适用于 Mac OS X 的 OmegaT 有签名和未签名两种版本；它们在功能上是完全相同的，但首选签名版本，因为系统会将其识别为由已知开发者发布。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38748,8 +38764,8 @@ When using regular expressions, the replacement string supports references to gr
       <tuv lang="EN">
         <seg>Signed/Unsigned</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180424T123047Z" creationid="Zenobia Fang" creationdate="20180424T122145Z">
-        <seg>已签名/未签名</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190402T044046Z" creationid="Zenobia Fang" creationdate="20180424T122145Z">
+        <seg>签名/未签名</seg>
       </tuv>
     </tu>
     <tu>
@@ -42109,8 +42125,8 @@ Please try to correct the error and reload the project.</seg>
       <tuv lang="EN">
         <seg>The Web Start version offers an alternative means of installing OmegaT on your computer.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180424T130948Z" creationid="Zenobia Fang" creationdate="20180424T130948Z">
-        <seg>网页启动版本提供了在您电脑上安装 OmegaT 的另一种方法。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190402T044400Z" creationid="Zenobia Fang" creationdate="20180424T130948Z">
+        <seg>Web Start 版本提供了另一种在电脑上安装 OmegaT 的方法。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43961,8 +43977,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>The permissions you give to this version (which may be described as "unrestricted access to the computer") are no different from the permissions you assign to the local version, i.e., an access to the hard drive of your computer.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180424T131745Z" creationid="Zenobia Fang" creationdate="20180424T131745Z">
-        <seg>您赋予该版本的权限（可能会被描述为“对计算机的无限制访问”）与您赋予本地版本的权限相同，比如，可访问您电脑的硬盘。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190402T044629Z" creationid="Zenobia Fang" creationdate="20180424T131745Z">
+        <seg>您给予该版本的权限（可能会被描述为“对计算机的无限制访问”）与您赋予本地版本的权限并无不同，即，可访问计算机的硬盘驱动器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45539,6 +45555,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180424T124234Z" creationid="Zenobia Fang" creationdate="20180424T124234Z">
         <seg>在发布签名版本时可能会有延迟。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There may be a delay in publishing signed versions. Users in a hurry can use the unsigned version instead; if you have difficulty launching the app, see &lt;a0&gt;how to open an app from an unidentified developer&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190402T044253Z" creationid="WynnChen" creationdate="20190402T044253Z">
+        <seg>发布签名版本可能会有延迟。着急的用户也可改用未签名版本；如果您在启动应用时遇到问题，请参考&lt;a0&gt;如何打开未认证开发者的应用&lt;/a0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52025,8 +52049,8 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       <tuv lang="EN">
         <seg>With this version, future updates will be installed automatically.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180424T131017Z" creationid="Zenobia Fang" creationdate="20180424T131017Z">
-        <seg>这一版本下，后续更新将自动安装。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190402T044432Z" creationid="Zenobia Fang" creationdate="20180424T131017Z">
+        <seg>使用此版本，将自动安装后续的更新。</seg>
       </tuv>
     </tu>
     <tu>
