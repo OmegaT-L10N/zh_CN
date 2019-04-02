@@ -26916,8 +26916,8 @@ itself on the first run. Later calls do not need to be online.</seg>
       <tuv lang="EN">
         <seg>Legacy versions</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T160501Z" creationid="Zenobia Fang" creationdate="20180423T160501Z">
-        <seg>历史版本</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190402T042644Z" creationid="Zenobia Fang" creationdate="20180423T160501Z">
+        <seg>过往版本</seg>
       </tuv>
     </tu>
     <tu>
@@ -26926,6 +26926,14 @@ itself on the first run. Later calls do not need to be online.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T161655Z" creationid="Zenobia Fang" creationdate="20180423T161655Z">
         <seg>历史版本是已经被取代的旧版本。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Legacy versions are older versions that have been superseded. For most users, these are not of interest. However, some users may face restrictions (imposed by their operating systems or Java version) that may result in a preference for an older version.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190402T042858Z" creationid="WynnChen" creationdate="20190402T042858Z">
+        <seg>过往版本是已被取代的旧版本。对于大多数用户来说，这些并不重要。但是，某些用户可能会面临某些限制（由其操作系统或 Java 版本强加）从而导致首选某个旧版本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29437,6 +29445,14 @@ appropriate location such as the Applications folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T005628Z" creationid="Fu Rhong" creationdate="20131117T005628Z">
         <seg>接着，&lt;g0&gt;项目文件&lt;/g0&gt;对话框出现。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Nightly Builds</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190402T042607Z" creationid="WynnChen" creationdate="20190402T042607Z">
+        <seg>Nightly Builds</seg>
       </tuv>
     </tu>
     <tu>
@@ -41256,6 +41272,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The "/trunk" version is a cutting-edge, "alpha" version, still in development. Pre-built binaries, are available as Nightly Builds.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190402T042537Z" creationid="WynnChen" creationdate="20190402T042537Z">
+        <seg>“/trunk”版本是前沿的“alpha”版本，仍处于开发中。预构建的二进制文件以 Nightly Builds 的形式呈现。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The "Cmd" key either has a "command" label or an apple symbol on Apple keyboards.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120209T124817Z">
@@ -41681,6 +41705,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Latest version requires Java {{site.data.versions.latest.java_version}}. It is a more recent version than the Standard version and includes new features not present in the latter. The Latest version will usually be reasonably stable and usable, but may have some bugs. Documentation, particularly of new features, will be less comprehensive than that of the Standard version. Users who already have some experience with OmegaT often prefer the Latest version.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190402T042343Z" creationid="WynnChen" creationdate="20190402T042212Z">
+        <seg>最新版本需要Java {{site.data.versions.latest.java_version}}。它是比标准版本更新的版本，包括后者中不存在的新功能。最新版本通常相当稳定可用，但可能会有一些 Bug。文档，尤其是新功能的文档，将不如标准版本中那么全面。已经拥有 OmegaT 经验的用户往往更喜欢最新版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Latest version will usually be reasonably stable and usable, but may have some bugs.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T155154Z" creationid="Zenobia Fang" creationdate="20180423T155154Z">
@@ -41933,6 +41965,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T154636Z" creationid="Zenobia Fang" creationdate="20180423T154636Z">
         <seg>标准版通常已经使用了一段时间，已经被证明可用。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Standard version requires Java {{site.data.versions.standard.java_version}}. It has usually been in use for some time and is therefore proven. Its documentation, at least in English, is usually reasonably up to date. It will however lack some of the features of the "Latest" version.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190402T042220Z" creationid="WynnChen" creationdate="20190402T042058Z">
+        <seg>标准版本需要 Java {{site.data.versions.standard.java_version}}。它通常已投入使用一段时间，因此已得以验证。它的文档，至少英文文档，通常是足够新的。但是它缺少“最新”版本的一些功能。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48759,8 +48799,8 @@ install.sh.</seg>
       <tuv lang="EN">
         <seg>Trunk</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T160409Z" creationid="Zenobia Fang" creationdate="20180423T160409Z">
-        <seg>主干</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190402T042544Z" creationid="WynnChen" creationdate="20190402T042544Z">
+        <seg>Trunk</seg>
       </tuv>
     </tu>
     <tu>
@@ -48987,6 +49027,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T140644Z" creationid="Zoe" creationdate="20180411T140644Z">
         <seg>拼写字典仓库的 URL：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>USD &lt;a0&gt;Donate&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190402T041842Z" creationid="WynnChen" creationdate="20190402T041842Z">
+        <seg>美金 &lt;a0&gt;捐款&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -53090,8 +53138,8 @@ linux-install.sh 脚本的文件夹，然后用 ./linux-install.sh 执行脚本�
       <tuv lang="EN">
         <seg>You can still find &lt;a0&gt;older, superseded versions&lt;/a0&gt; of OmegaT.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T160605Z" creationid="Zenobia Fang" creationdate="20180423T160605Z">
-        <seg>您仍可获取 &lt;a0&gt;较老的、已被取代的版本&lt;/a0&gt;的 OmegaT。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190402T042721Z" creationid="Zenobia Fang" creationdate="20180423T160605Z">
+        <seg>您仍可获取 OmegaT 的&lt;a0&gt;较旧、已被取代的版本&lt;/a0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
