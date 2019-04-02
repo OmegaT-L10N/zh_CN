@@ -7859,6 +7859,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;s0&gt;Linux users&lt;/s0&gt;: most Linux distributions are supplied with a Java Runtime Environment, but some open-source implementations do not work properly with OmegaT (although this may not be immediately apparent). If you are relatively new to Linux, we advise you to select an OmegaT version with the JRE included. More experienced Linux users may prefer to install the Oracle (formerly Sun) JRE at system level.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190402T043919Z" creationid="WynnChen" creationdate="20190402T043919Z">
+        <seg>&lt;s0&gt;Linux 用户&lt;/s0&gt;：大多数 Linux 发行版都提供了 Java 运行环境，但是一些开源实现无法正常地和 OmegaT 一起运行（尽管这可能不会立即出现）。如果您不熟悉 Linux，我们建议您选择带 JRE 的 OmegaT 版本。更有经验的 Linux 用户可能更喜欢在系统级安装 Oracle（之前是 Sun）JRE。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;s0&gt;Linux versions/systems&lt;/s0&gt;: locate your OmegaT launch script file (OmegaT or OmegaT.sh).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="10353" changedate="20180414T095900Z" creationid="10353" creationdate="20180414T095900Z">
@@ -7869,8 +7877,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;s0&gt;Mac OS X users&lt;/s0&gt;: the JRE is installed on Mac OS X by default; there is therefore no version for Mac OS X with the JRE.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180424T121737Z" creationid="Zenobia Fang" creationdate="20180424T121728Z">
-        <seg>&lt;s0&gt;Mac OS X 用户&lt;/s0&gt;：Mac OS X 上已默认安装 JRE；因此，不提供 Mac OS X 上的包含 JRE 版本。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190402T043542Z" creationid="Zenobia Fang" creationdate="20180424T121728Z">
+        <seg>&lt;s0&gt;Mac OS X 用户&lt;/s0&gt;：Mac OS X 上已默认安装有 JRE；因此，不对 Mac OS X 提供带 JRE 的版本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22309,6 +22317,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you are confident that a suitable version of the JRE is already installed on your computer, you can download a version of OmegaT without the JRE. The download will be faster, and the installation will require less space on your hard drive. In this case, do not select the Default version; select a different version (e.g. Standard or Latest), then select a version marked "Java not included".</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190402T043438Z" creationid="WynnChen" creationdate="20190402T043133Z">
+        <seg>如果您确信计算机上已安装了合适版本的 JRE，则可以下载不带 JRE 的 OmegaT 版本。下载会更快，安装需要的硬盘空间会更少。在这种情况下，请不要选择默认版本；选择不同的版本（例如标准版或最新版），然后选择标记为“不包含 Java”的版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are confused about which version to download, you can use the &lt;a0&gt;Download selector&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T124530Z" creationid="Zenobia Fang" creationdate="20180423T124451Z">
@@ -22789,6 +22805,14 @@ is to use Java Web Start.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180424T121343Z" creationid="Zenobia Fang" creationdate="20180424T121343Z">
         <seg>如果您在电脑上已安装 JRE 的情况下下载了包含 JRE 的 OmegaT 版本，OmegaT 的 JRE 会独立安装，不会与已有的 JRE 冲突</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you install the OmegaT version with JRE even though the JRE is already installed on your computer, OmegaT's JRE will be installed separately and will not conflict with it. It is therefore always safe to install the version of OmegaT with JRE. If you are unsure whether or not you have a suitable version of the JRE, select a version with JRE (or the Default version).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190402T043457Z" creationid="WynnChen" creationdate="20190402T043435Z">
+        <seg>如果您的计算机上已经安装了 JRE 而您又安装带 JRE 的 OmegaT 版本，OmegaT 的 JRE 会单独安装，不会与之冲突。因此，安装带 JRE 的 OmegaT 版本总是安全的。如果您不确定是否具有合适版本的 JRE，请选择具有 JRE 的版本（或默认版本）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23686,8 +23710,8 @@ Reopen the project now?</seg>
       <tuv lang="EN">
         <seg>In order to run, OmegaT requires the Java Runtime Environment (JRE) to be installed on your computer.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180424T120848Z" creationid="Zenobia Fang" creationdate="20180424T120848Z">
-        <seg>要想运行 OmegaT，电脑上必须安装 Java 运行环境（JRE）。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190402T042948Z" creationid="Zenobia Fang" creationdate="20180424T120848Z">
+        <seg>OmegaT 需要你的电脑上已安装 Java 运行环境（JRE）才能运行。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52009,8 +52033,8 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       <tuv lang="EN">
         <seg>With/without JRE</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T162649Z" creationid="Zenobia Fang" creationdate="20180423T162649Z">
-        <seg>包含/不包含 JRE</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190402T042903Z" creationid="Zenobia Fang" creationdate="20180423T162649Z">
+        <seg>带/不带 JRE</seg>
       </tuv>
     </tu>
     <tu>
