@@ -33515,6 +33515,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Periodic builds are available on Sourceforge.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T141010Z" creationid="WynnChen" creationdate="20190403T141010Z">
+        <seg>Sourceforge 上提供了定期构建。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Persian</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131108T030802Z" creationid="Fu Rhong" creationdate="20131108T030802Z">
@@ -34392,6 +34400,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180417T235928Z" creationid="Wyndy" creationdate="20180417T105958Z">
         <seg>隐私信息：OmegaT Java Web Start 不会收集您的任何信息上传至 OmegaT 的 网络服务器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Privacy information: OmegaT Java Web Start does not save any of your information to OmegaT's web servers. The application runs on your machine. Your documents and translation memories remain on your computer, and the OmegaT project will have no access to your work or information.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T140811Z" creationid="WynnChen" creationdate="20190403T140610Z">
+        <seg>隐私信息：OmegaT Java Web Start 不会将您的任何信息保存到 OmegaT 的 Web 服务器。应用程序在您的计算机上运行。您的文档和翻译记忆库都保留在您的计算机上，OmegaT 项目无法访问您的作品或信息。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39386,6 +39402,14 @@ When using regular expressions, the replacement string supports references to gr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source code packages are not required by users and are intended for developers only. They can be found in the folders of the corresponding compiled versions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T141114Z" creationid="WynnChen" creationdate="20190403T141114Z">
+        <seg>用户并不需要源代码包，它仅供开发人员使用。可在相应编译版本的文件夹中找到源代码包。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Source count</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190323T155138Z" creationid="wynnc" creationdate="20190323T155138Z">
@@ -41460,6 +41484,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T033339Z" creationid="Wyndy" creationdate="20180418T033339Z">
         <seg>主开发（trunk）版本（即内部测试版本 Alpha）展示了最新开发状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The /trunk (alpha) version reflects the very latest state of development. It is recommended for serious developers and testers only. It can also be obtained using the subversion command:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T140945Z" creationid="WynnChen" creationdate="20190403T140945Z">
+        <seg>/ trunk（alpha）版本反映了最新的开发状态。只推荐专业开发人员和测试人员使用。它也可以用 subversion 命令获取：</seg>
       </tuv>
     </tu>
     <tu>
@@ -59346,6 +59378,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131108T101149Z" creationid="Fu Rhong" creationdate="20131108T101149Z">
         <seg>sv</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>svn checkout svn://svn.code.sf.net/p/omegat/svn/trunk omegat-svn</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T140946Z" creationid="WynnChen" creationdate="20190403T140946Z">
+        <seg>svn checkout svn://svn.code.sf.net/p/omegat/svn/trunk omegat-svn</seg>
       </tuv>
     </tu>
     <tu>
