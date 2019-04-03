@@ -12443,8 +12443,8 @@ Exception occurred:</seg>
       <tuv lang="EN">
         <seg>Check for inconsistent numbers</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T153553Z" creationid="xulihang" creationdate="20180408T114327Z">
-        <seg>检查数字是否不一致</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T153613Z" creationid="xulihang" creationdate="20180408T114327Z">
+        <seg>检查不一致的数字</seg>
       </tuv>
     </tu>
     <tu>
@@ -17735,8 +17735,8 @@ project_save.tmx 未真正上传，SVN 切换到不稳定状态。
       <tuv lang="EN">
         <seg>Example - Search and Replace</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T114953Z" creationid="xulihang" creationdate="20180408T114953Z">
-        <seg>示例 - 搜索与替换</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T153758Z" creationid="xulihang" creationdate="20180408T114953Z">
+        <seg>示例 - 查找与替换</seg>
       </tuv>
     </tu>
     <tu>
@@ -21232,8 +21232,8 @@ Note: not all filters allow you to select an encoding.</seg>
       <tuv lang="EN">
         <seg>IGNORED:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T115151Z" creationid="xulihang" creationdate="20180408T115151Z">
-        <seg>忽略：</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T154224Z" creationid="WynnChen" creationdate="20190403T154224Z">
+        <seg>已忽略：</seg>
       </tuv>
     </tu>
     <tu>
@@ -23236,8 +23236,8 @@ click on that shortcut.</seg>
       <tuv lang="EN">
         <seg>Ignore glossary case</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T115237Z" creationid="xulihang" creationdate="20180408T115237Z">
-        <seg>忽略术语大小写</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T154328Z" creationid="xulihang" creationdate="20180408T115237Z">
+        <seg>忽略词汇表大小写</seg>
       </tuv>
     </tu>
     <tu>
@@ -26404,8 +26404,8 @@ itself on the first run. Later calls do not need to be online.</seg>
       <tuv lang="EN">
         <seg>LEARNED:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T115156Z" creationid="xulihang" creationdate="20180408T115156Z">
-        <seg>学习到：</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T154230Z" creationid="xulihang" creationdate="20180408T115156Z">
+        <seg>已学习：</seg>
       </tuv>
     </tu>
     <tu>
@@ -28735,8 +28735,8 @@ itself on the first run. Later calls do not need to be online.</seg>
       <tuv lang="EN">
         <seg>Modified Segments:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T115035Z" creationid="xulihang" creationdate="20180408T115021Z">
-        <seg>修改过的片段：</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T154012Z" creationid="xulihang" creationdate="20180408T115021Z">
+        <seg>修改的片段：</seg>
       </tuv>
     </tu>
     <tu>
@@ -35814,8 +35814,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Remove OmegaT tags which have &lt;br&gt;lower case letter before and after it</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T115548Z" creationid="xulihang" creationdate="20180408T115548Z">
-        <seg>去除被小写字母保卫的标签。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T154529Z" creationid="xulihang" creationdate="20180408T115548Z">
+        <seg>删除前后都有小写字母的OmegaT 标签</seg>
       </tuv>
     </tu>
     <tu>
@@ -35926,8 +35926,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Remove mnemonics</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T115621Z" creationid="xulihang" creationdate="20180408T115621Z">
-        <seg>删除mnemonics</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T154752Z" creationid="xulihang" creationdate="20180408T115621Z">
+        <seg>删除助记符</seg>
       </tuv>
     </tu>
     <tu>
@@ -36046,7 +36046,7 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Replace</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190323T164954Z" creationid="wynnc" creationdate="20190323T164954Z">
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T153841Z" creationid="wynnc" creationdate="20190323T164954Z">
         <seg>替换</seg>
       </tuv>
     </tu>
@@ -36128,16 +36128,16 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Replace custom tags with space</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T115457Z" creationid="xulihang" creationdate="20180408T115457Z">
-        <seg>使用空行替换自定义标签</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T154417Z" creationid="xulihang" creationdate="20180408T115457Z">
+        <seg>自定义标签替换为空格</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Replace escaped sequences with space</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T115503Z" creationid="xulihang" creationdate="20180408T115441Z">
-        <seg>使用空行替换转义字符</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T154347Z" creationid="xulihang" creationdate="20180408T115441Z">
+        <seg>转义序列替换为空格</seg>
       </tuv>
     </tu>
     <tu>
@@ -37348,8 +37348,8 @@ When using regular expressions, the replacement string supports references to gr
       <tuv lang="EN">
         <seg>Search</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T115006Z" creationid="xulihang" creationdate="20180408T115006Z">
-        <seg>搜索</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T153835Z" creationid="xulihang" creationdate="20180408T115006Z">
+        <seg>查找</seg>
       </tuv>
     </tu>
     <tu>
@@ -37388,8 +37388,8 @@ When using regular expressions, the replacement string supports references to gr
       <tuv lang="EN">
         <seg>Search and Replace</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T115013Z" creationid="xulihang" creationdate="20180408T115013Z">
-        <seg>搜索与替换</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T153847Z" creationid="xulihang" creationdate="20180408T115013Z">
+        <seg>查找与替换</seg>
       </tuv>
     </tu>
     <tu>
@@ -38876,8 +38876,8 @@ When using regular expressions, the replacement string supports references to gr
       <tuv lang="EN">
         <seg>Simple search and replace script</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T115004Z" creationid="xulihang" creationdate="20180408T115004Z">
-        <seg>简单的搜索与替换脚本</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T153805Z" creationid="xulihang" creationdate="20180408T115004Z">
+        <seg>简单的查找与替换脚本</seg>
       </tuv>
     </tu>
     <tu>
@@ -50164,8 +50164,8 @@ Commands:
       <tuv lang="EN">
         <seg>Use glossary</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T115230Z" creationid="xulihang" creationdate="20180408T115230Z">
-        <seg>使用术语表</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T154312Z" creationid="xulihang" creationdate="20180408T115230Z">
+        <seg>使用词汇表</seg>
       </tuv>
     </tu>
     <tu>
