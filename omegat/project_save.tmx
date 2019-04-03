@@ -19548,6 +19548,14 @@ Kaptain. You can then launch the Kaptain launch script with:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For users of Microsoft Office who do not (yet) have the 2007 version, conversion between Office Open XML and Microsoft Office 98-2003 can be achieved using a free plug-in converter available &lt;a0&gt;here&lt;/a0&gt; from Microsoft. This converter is available for Windows and Mac.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T144249Z" creationid="WynnChen" creationdate="20190403T144249Z">
+        <seg>对于尚未拥有 2007 版本的 Microsoft Office 的用户，可以使用 Microsoft 在&lt;a0&gt;此处&lt;/a0&gt;提供的免费插件转换器来实现 Office Open XML 和 Microsoft Office 98-2003 之间的转换。此转换器适用于 Windows 和 Mac。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For users who do not have MS Office 2007 or 2010 and do not wish to buy it, Microsoft provides a &lt;a0&gt;compatibility plug-in&lt;/a0&gt; for earlier versions.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="liufang" changedate="20180416T122935Z" creationid="liufang" creationdate="20180416T122935Z">
@@ -19600,6 +19608,14 @@ Kaptain. You can then launch the Kaptain launch script with:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
         <seg>在源文件中表示的格式化信息通常需要在目标文中重新创建。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Formatting information present in the source file usually needs to be reproduced in the target file. The in-line formatting information made possible by the supported formats (in particular DocBook, HTML, XHTML, Open Document Format(ODF) and Office Open XML (MS Office 2007 and later) at the time of writing) is presented as tags in OmegaT. Normally tags are ignored when considering the similarity between different texts for matching purposes. Tags reproduced in the translated segment will be present in the translated document.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T144404Z" creationid="WynnChen" creationdate="20190403T144404Z">
+        <seg>Formatting information present in the source file usually needs to be reproduced in the target file. The in-line formatting information made possible by the supported formats (in particular DocBook, HTML, XHTML, Open Document Format(ODF) and Office Open XML (MS Office 2007 and later) at the time of writing) is presented as tags in OmegaT. Normally tags are ignored when considering the similarity between different texts for matching purposes. Tags reproduced in the translated segment will be present in the translated document.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28469,6 +28485,14 @@ itself on the first run. Later calls do not need to be online.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Microsoft Office 2007-2010 (Word, Excel, PowerPoint 2007-2010); Office Open XML:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T143554Z" creationid="WynnChen" creationdate="20190403T143554Z">
+        <seg>Microsoft Office 2007-2010（Word、Excel、PowerPoint 2007-2010）；Office Open XML：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Microsoft Office Open XML (*.docx, *.dotx, *.xlsx, *.xltx, *.pptx)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120202T114544Z">
@@ -30681,6 +30705,14 @@ Thus, for example, rules for Canadian French (FR-CA) should be higher than rules
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Office Open XML can be converted directly to Open Document Format and back by means of the ODF converter, available &lt;a0&gt;here&lt;/a0&gt;. This utility requires a version of MS Office (XP/2003/2007).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T144601Z" creationid="WynnChen" creationdate="20190403T144318Z">
+        <seg>Office Open XML 可以直接转换为开放文档格式（ODF），然后通过可在&lt;a0&gt;此处&lt;/a0&gt;获得的 ODF 转换器转回。此工具需要有某个版本的 MS Office（XP / 2003/2007）才能用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Often documents will also have tags that have nothing to do with formatting, but which are also important in the source files (and in the translated files).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T024058Z" creationid="Fu Rhong" creationdate="20131117T024058Z">
@@ -31362,8 +31394,8 @@ published by the Free Software Foundation, either version 3 of the License, or
       <tuv lang="EN">
         <seg>OmegaT is capable of handling the current Microsoft Office formats directly, without conversion to or from other formats.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T054034Z" creationid="Wyndy" creationdate="20180418T054034Z">
-        <seg>OmegaT 现在能直接处理当前的 Microsoft office 文件格式，不能处理从其他格式转换而来的Microsoft office 文件格式。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T143647Z" creationid="Wyndy" creationdate="20180418T054034Z">
+        <seg>OmegaT 能够直接处理当前的 Microsoft Office 格式，而无需转换为其他格式或从其他格式转换。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41869,6 +41901,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T054353Z" creationid="Wyndy" creationdate="20180418T054353Z">
         <seg>Microsoft Office 2007-2010 文件格式 (也称 Office Open XML, 以及该文件的拓展格式 .docx, .xlsx and .pptx)与其继承的 Office 97-2003 文件格式由本质区别。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Microsoft Office 2007-2010 file formats (also known as Office Open XML, and with the file extensions .docx, .xlsx and .pptx) is radically different to the Office 97-2003 formats which they supersede. In fact, their structure is very similar to that of OpenOffice.org files: they consists of a zip archive containing multiple files, and the files containing the text are based upon the XML standard. This makes it much easier for CAT tools to support it and edit it directly. The Microsoft Office 2007-2010 file formats can be processed directly in OmegaT; more information can be found &lt;a0&gt;here&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T144017Z" creationid="WynnChen" creationdate="20190403T144017Z">
+        <seg>Microsoft Office 2007-2010 文件格式（也称为 Office Open XML，文件扩展名为 .docx、.xlsx 和 .pptx）与被它们所取代的Office 97-2003 格式完全不同。实际上，它们的结构与 OpenOffice.org 文件的结构非常相似：它们由包含多个文件的 zip 档案所构成，而其中那些包含文本的文件基于 XML 标准。这让 CAT 工具更容易支持并直接编辑它。 Microsoft Office 2007-2010 文件格式可以直接在 OmegaT 中处理；更多信息可以在&lt;a0&gt;此处&lt;/a0&gt;找到。</seg>
       </tuv>
     </tu>
     <tu>
