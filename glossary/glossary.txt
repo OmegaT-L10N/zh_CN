@@ -50,3 +50,4 @@ HOWTO	指南
 Howto	指南
 file filter	文件过滤器
 Web Start	Web Start	java的专有名词，不翻译。
+Open Document Format	开放文档格式	缩写为 ODF，一般需要附带缩写。
