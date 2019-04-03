@@ -1,8 +1,8 @@
 segment	片段
 History Completion	历史完成
 History Prediction	历史预测
-term	术语	原来的版本翻译为词语，译为术语更加合适
-Glossary	术语表	glossary of terms，意为术语表。term是glossary的一个entry
+term	词汇	词汇表中的条目
+Glossary	词汇表
 shortcut	缩略词	在autotext功能中出现，可以输入缩略词，自动补全单词。比如输入ad.补全为advertisement
 shortcut	快捷方式	快捷键相关处使用。
 shortcut	快捷键
@@ -50,4 +50,4 @@ HOWTO	指南
 Howto	指南
 file filter	文件过滤器
 Web Start	Web Start	java的专有名词，不翻译。
-Open Document Format	开放文档格式	缩写为 ODF，一般需要附带缩写。
+Open Document Format	OpenDocument 格式	统一专有名词的呈现。
