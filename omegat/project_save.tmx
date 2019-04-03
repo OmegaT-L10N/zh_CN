@@ -9387,6 +9387,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All DOCX files in the project</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T160229Z" creationid="WynnChen" creationdate="20190403T160221Z">
+        <seg>项目中的所有 DOCX 文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All HTML files will be translated - note that the period in the usual *.html has to be escaped (\.) as specified by the rules for regular expressions</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120208T065708Z">
@@ -11188,6 +11196,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Backup</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T160140Z" creationid="WynnChen" creationdate="20190403T160140Z">
+        <seg>备份</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Backups of this file (with extension bak) are added progressively to this subfolder, first at the beginning of the translation session, at its end, and while the translation progresses.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131114T131409Z" creationid="Fu Rhong" creationdate="20131114T131409Z">
@@ -11296,6 +11312,22 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120214T030521Z">
         <seg>必须要记住：修改语言可能会导致当前使用的翻译记忆变得不可用，由于它的语言对不再与新语言相匹配。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Beautify</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T160136Z" creationid="WynnChen" creationdate="20190403T160136Z">
+        <seg>美化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Beautify resulting DOCX</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T160213Z" creationid="WynnChen" creationdate="20190403T160213Z">
+        <seg>美化结果的 DOCX</seg>
       </tuv>
     </tu>
     <tu>
@@ -12874,6 +12906,14 @@ Exception occurred:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Cleaning entry '{0}'...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T160031Z" creationid="WynnChen" creationdate="20190403T160031Z">
+        <seg>正在清理条目“{0}”...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Clear</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190324T043819Z" creationid="wynnc" creationdate="20190324T043819Z">
@@ -13882,6 +13922,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Convert</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T160138Z" creationid="WynnChen" creationdate="20190403T160138Z">
+        <seg>转换</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Convert Old Team Project</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190323T140359Z" creationid="wynnc" creationdate="20190323T140359Z">
@@ -13902,6 +13950,22 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T121047Z" creationid="lenovo" creationdate="20180416T121047Z">
         <seg>将文件从RTF转换为OpenOffice.org格式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Converting all .DOCX in the project...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T155924Z" creationid="WynnChen" creationdate="20190403T155924Z">
+        <seg>正在转换项目中的所有 .DOCX...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Converting current .DOCX...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T155937Z" creationid="WynnChen" creationdate="20190403T155937Z">
+        <seg>正在转换当前 .DOCX...</seg>
       </tuv>
     </tu>
     <tu>
@@ -14396,6 +14460,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Create backup files of original DOCX</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T160241Z" creationid="WynnChen" creationdate="20190403T160241Z">
+        <seg>创建原始 DOCX 的备份文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Create pseudo-translate TMX</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -14537,6 +14609,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T134312Z" creationid="Zoe" creationdate="20180411T131754Z">
         <seg>相同片段通过创建“可选翻译”而得到不同的前/后片段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creating output file '{0}'</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T160019Z" creationid="WynnChen" creationdate="20190403T160019Z">
+        <seg>创建输出文件“{0}”</seg>
       </tuv>
     </tu>
     <tu>
@@ -14921,6 +15001,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131110T021806Z" creationid="Fu Rhong" creationdate="20131110T021806Z">
         <seg>Ctrl+Z</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Current DOCX file</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T160226Z" creationid="WynnChen" creationdate="20190403T160226Z">
+        <seg>当前 DOCX 文件</seg>
       </tuv>
     </tu>
     <tu>
@@ -27026,10 +27114,34 @@ itself on the first run. Later calls do not need to be online.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Level</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T160131Z" creationid="WynnChen" creationdate="20190403T160131Z">
+        <seg>级别</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Level 0:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T160245Z" creationid="WynnChen" creationdate="20190403T160245Z">
+        <seg>级别 0：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Level 1 TMX files contain no formatting information.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T082458Z" creationid="Wyndy" creationdate="20180418T082403Z">
         <seg>Level 1 TMX 文件不包含任何格式信息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Level 1:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T160251Z" creationid="WynnChen" creationdate="20190403T160251Z">
+        <seg>级别 1：</seg>
       </tuv>
     </tu>
     <tu>
@@ -27050,10 +27162,74 @@ itself on the first run. Later calls do not need to be online.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Level 2:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T160253Z" creationid="WynnChen" creationdate="20190403T160253Z">
+        <seg>级别 2：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Level 3 TMX files contain formatting information in a form that can be read by other CAT tools.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T084845Z" creationid="Wyndy" creationdate="20180418T084845Z">
         <seg>而 Level 3 TMX 文件所包含的格式信息，能被生成该文件的 CAT 工具之外的其他 CAT 工具读取。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Level 3:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T160254Z" creationid="WynnChen" creationdate="20190403T160254Z">
+        <seg>级别 3：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Level 4:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T160255Z" creationid="WynnChen" creationdate="20190403T160255Z">
+        <seg>级别 4：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Level 5:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T160255Z" creationid="WynnChen" creationdate="20190403T160255Z">
+        <seg>级别 5：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Level 6:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T160256Z" creationid="WynnChen" creationdate="20190403T160256Z">
+        <seg>级别 6：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Level 7:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T160257Z" creationid="WynnChen" creationdate="20190403T160257Z">
+        <seg>级别 7：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Level 8:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T160258Z" creationid="WynnChen" creationdate="20190403T160258Z">
+        <seg>级别 8：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Level 9:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T160306Z" creationid="WynnChen" creationdate="20190403T160306Z">
+        <seg>级别 9：</seg>
       </tuv>
     </tu>
     <tu>
@@ -29128,6 +29304,22 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Moving cleaned '{0}' to '{1}'</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T160124Z" creationid="WynnChen" creationdate="20190403T160124Z">
+        <seg>正在将已清理的“{0}”移动到“{1}”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moving original '{0}' to '{1}'</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T160105Z" creationid="WynnChen" creationdate="20190403T160105Z">
+        <seg>正在将原始“{0}”移动到“{1}”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mozilla DTD</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -29553,6 +29745,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>No .DOCX files to clean.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T155948Z" creationid="WynnChen" creationdate="20190403T155948Z">
+        <seg>没有 .DOCX 文件要清理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>No Issues Found</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190324T033423Z" creationid="wynnc" creationdate="20190324T033413Z">
@@ -29629,6 +29829,14 @@ appropriate location such as the Applications folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190323T115119Z" creationid="wynnc" creationdate="20190320T045507Z">
         <seg>远程服务器上没有新词典可用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No project loaded.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T155747Z" creationid="WynnChen" creationdate="20190403T155747Z">
+        <seg>未载入项目。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32787,6 +32995,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Opening input file '{0}'</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T160012Z" creationid="WynnChen" creationdate="20190403T160012Z">
+        <seg>打开输入文件“{0}”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Opening team project</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190323T143252Z" creationid="wynnc" creationdate="20190323T143252Z">
@@ -34789,6 +35005,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Project contains no files.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T155751Z" creationid="WynnChen" creationdate="20190403T155751Z">
+        <seg>项目不包含文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Project creating end</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -35949,6 +36173,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove tags from DOCX documents</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T155730Z" creationid="WynnChen" creationdate="20190403T155730Z">
+        <seg>从 DOCX 文档中删除标签</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove tags in the current target</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T114904Z" creationid="xulihang" creationdate="20180408T114904Z">
@@ -36707,6 +36939,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120206T093750Z">
         <seg>运行 &lt;a0&gt;OmegaT&lt;i1/&gt;&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Running Tagwipe for file '{0}'</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T155809Z" creationid="WynnChen" creationdate="20190403T155809Z">
+        <seg>对文件“{0}”运行 Tagwipe</seg>
       </tuv>
     </tu>
     <tu>
@@ -38407,6 +38647,14 @@ When using regular expressions, the replacement string supports references to gr
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
         <seg>选择的引擎：{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Selected options:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T155905Z" creationid="WynnChen" creationdate="20190403T155905Z">
+        <seg>选择的选项：</seg>
       </tuv>
     </tu>
     <tu>
@@ -40946,6 +41194,22 @@ When using regular expressions, the replacement string supports references to gr
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
         <seg>在已译片段中重新创建的标签将会出现在译后文档中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tagwipe</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T155718Z" creationid="WynnChen" creationdate="20190403T155718Z">
+        <seg>Tagwipe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tagwipe finished, reloading project...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T160003Z" creationid="WynnChen" creationdate="20190403T160003Z">
+        <seg>Tagwipe 完成，重新载入项目...</seg>
       </tuv>
     </tu>
     <tu>
