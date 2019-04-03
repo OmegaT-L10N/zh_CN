@@ -12005,6 +12005,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Canceled</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T155357Z" creationid="WynnChen" creationdate="20190403T155357Z">
+        <seg>已取消</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cancelled creating new team project</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -12796,8 +12804,8 @@ Exception occurred:</seg>
       <tuv lang="EN">
         <seg>Choose SVN repository to perform cleanup</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T121418Z" creationid="xulihang" creationdate="20180408T121418Z">
-        <seg>选择进行清理的SVN仓库</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T155349Z" creationid="xulihang" creationdate="20180408T121418Z">
+        <seg>选择要执行 cleanup 的 SVN 存储库</seg>
       </tuv>
     </tu>
     <tu>
@@ -27366,8 +27374,8 @@ itself on the first run. Later calls do not need to be online.</seg>
       <tuv lang="EN">
         <seg>Local working copies cleaned up: {0}</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T121742Z" creationid="xulihang" creationdate="20180408T121628Z">
-        <seg>本地工作副本已清理完成{0}</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T155523Z" creationid="xulihang" creationdate="20180408T121628Z">
+        <seg>本地工作副本已清理：{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -33554,11 +33562,12 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>SVN cleanup 是命令名，维持原样。</note>
       <tuv lang="EN">
         <seg>Perform SVN cleanup on current project or any local SVN repository</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T121138Z" creationid="xulihang" creationdate="20180408T121127Z">
-        <seg>在当前项目或任意远程SVN仓库执行SVN Cleanup</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T155329Z" creationid="xulihang" creationdate="20180408T121127Z">
+        <seg>在当前项目或任意本地 SVN 存储库执行 SVN cleanup</seg>
       </tuv>
     </tu>
     <tu>
@@ -36814,6 +36823,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SVN - Cleanup (recursive)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T155222Z" creationid="WynnChen" creationdate="20190403T155222Z">
+        <seg>SVN - 清理（递归）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>SVNKit (TMate License)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190323T053736Z" creationid="wynnc" creationdate="20190323T052316Z">
@@ -39068,8 +39085,8 @@ When using regular expressions, the replacement string supports references to gr
       <tuv lang="EN">
         <seg>Skip segments where source=target</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T115703Z" creationid="xulihang" creationdate="20180408T115703Z">
-        <seg>跳过原文译文相同的片段</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T154852Z" creationid="xulihang" creationdate="20180408T115703Z">
+        <seg>跳过原文和译文相同的片段</seg>
       </tuv>
     </tu>
     <tu>
@@ -40069,10 +40086,18 @@ When using regular expressions, the replacement string supports references to gr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Strip BiDi Marks</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T154923Z" creationid="WynnChen" creationdate="20190403T154923Z">
+        <seg>剥除双向标记</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Strip BiDi marks in current segment</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T115834Z" creationid="xulihang" creationdate="20180408T115834Z">
-        <seg>剥除当前片段中的BiDi记号</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T155128Z" creationid="xulihang" creationdate="20180408T115834Z">
+        <seg>剥除当前片段中的双向标记</seg>
       </tuv>
     </tu>
     <tu>
@@ -45595,6 +45620,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T121738Z" creationid="xulihang" creationdate="20180408T121547Z">
         <seg>在{0}中没有本地工作副本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There are no local working copies in {0}. The script will quit now.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T155506Z" creationid="WynnChen" creationdate="20190403T155506Z">
+        <seg>{0} 中没有本地工作副本。脚本现在将退出。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52699,6 +52732,14 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T121645Z" creationid="xulihang" creationdate="20180408T121645Z">
         <seg>你在运行OmegaT版本{0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You are running OmegaT version {0}. This script is intended to run in OmegaT 3.6 and newer.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T155606Z" creationid="WynnChen" creationdate="20190403T155606Z">
+        <seg>你正在运行 OmegaT 版本 {0}。此脚本适用于 OmegaT 3.6 及更高版本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60600,8 +60641,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>{0} is not a local working copy, skipping.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T121734Z" creationid="xulihang" creationdate="20180408T121502Z">
-        <seg>{0}不是一个本地工作副本，跳过</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T155437Z" creationid="xulihang" creationdate="20180408T121502Z">
+        <seg>{0} 不是本地工作副本，跳过。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60688,8 +60729,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>{0}:	cleanup done!!</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T121432Z" creationid="xulihang" creationdate="20180408T121432Z">
-        <seg>{0}:	清理完成!!</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T155417Z" creationid="xulihang" creationdate="20180408T121432Z">
+        <seg>{0}:	清理完成！！</seg>
       </tuv>
     </tu>
     <tu>
