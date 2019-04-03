@@ -12395,8 +12395,8 @@ Exception occurred:</seg>
       <tuv lang="EN">
         <seg>Check LanguageTools rules</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T114141Z" creationid="xulihang" creationdate="20180408T114141Z">
-        <seg>检查语言工具规则</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T151900Z" creationid="xulihang" creationdate="20180408T114141Z">
+        <seg>检查 LanguageTool 规则</seg>
       </tuv>
     </tu>
     <tu>
@@ -12419,16 +12419,16 @@ Exception occurred:</seg>
       <tuv lang="EN">
         <seg>Check for doubled blanks</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T114156Z" creationid="xulihang" creationdate="20180408T114156Z">
-        <seg>检查双空白</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T152330Z" creationid="xulihang" creationdate="20180408T114156Z">
+        <seg>检查重复空白</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Check for doubled words</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T114202Z" creationid="xulihang" creationdate="20180408T114202Z">
-        <seg>检查双字</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T152333Z" creationid="xulihang" creationdate="20180408T114202Z">
+        <seg>检查重复词</seg>
       </tuv>
     </tu>
     <tu>
@@ -12451,16 +12451,16 @@ Exception occurred:</seg>
       <tuv lang="EN">
         <seg>Check for leading whitespace</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T114133Z" creationid="xulihang" creationdate="20180408T114133Z">
-        <seg>检查左边的空行</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T152120Z" creationid="xulihang" creationdate="20180408T114133Z">
+        <seg>检查开头的空白字符</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Check for longer target</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T114218Z" creationid="xulihang" creationdate="20180408T114218Z">
-        <seg>检查更长的译文</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T152409Z" creationid="xulihang" creationdate="20180408T114218Z">
+        <seg>检查较长的译文</seg>
       </tuv>
     </tu>
     <tu>
@@ -12483,16 +12483,16 @@ Exception occurred:</seg>
       <tuv lang="EN">
         <seg>Check for shorter target</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T114210Z" creationid="xulihang" creationdate="20180408T114210Z">
-        <seg>检查更短的译文</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T152344Z" creationid="xulihang" creationdate="20180408T114210Z">
+        <seg>检查较短的译文</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Check for trailing whitespace</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T114150Z" creationid="xulihang" creationdate="20180408T114150Z">
-        <seg>检查右边的空行</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T152250Z" creationid="xulihang" creationdate="20180408T114150Z">
+        <seg>检查末尾的空白字符</seg>
       </tuv>
     </tu>
     <tu>
@@ -15641,16 +15641,16 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Different punctuation</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T114104Z" creationid="xulihang" creationdate="20180408T113129Z">
-        <seg>不同的标点。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T151700Z" creationid="xulihang" creationdate="20180408T113129Z">
+        <seg>标点不同</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Different start case</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T113143Z" creationid="xulihang" creationdate="20180408T113143Z">
-        <seg>不同的首字大写。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T151744Z" creationid="xulihang" creationdate="20180408T113143Z">
+        <seg>首字母大小写不同</seg>
       </tuv>
     </tu>
     <tu>
@@ -24361,8 +24361,8 @@ Reopen the project now?</seg>
       <tuv lang="EN">
         <seg>Inconsistent numbers</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T113347Z" creationid="xulihang" creationdate="20180408T113347Z">
-        <seg>不一致的数字</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T151816Z" creationid="xulihang" creationdate="20180408T113347Z">
+        <seg>数字不一致</seg>
       </tuv>
     </tu>
     <tu>
@@ -35790,8 +35790,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Remove &amp;leading and trailing tags</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190323T055152Z" creationid="wynnc" creationdate="20190320T045507Z">
-        <seg>删除前导和尾随的标签(&amp;L)</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T152039Z" creationid="wynnc" creationdate="20190320T045507Z">
+        <seg>删除开头和末尾的标签(&amp;L)</seg>
       </tuv>
     </tu>
     <tu>
@@ -35886,8 +35886,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Remove leading and trailing &amp;whitespace in non-segmented projects</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190323T055146Z" creationid="wynnc" creationdate="20190320T045507Z">
-        <seg>删除非分割项目中前导和尾随的空白字符(&amp;W)</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T152102Z" creationid="wynnc" creationdate="20190320T045507Z">
+        <seg>删除非分割项目中开头和末尾的空白字符(&amp;W)</seg>
       </tuv>
     </tu>
     <tu>
@@ -39836,8 +39836,8 @@ When using regular expressions, the replacement string supports references to gr
       <tuv lang="EN">
         <seg>Spelling errors(s)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T114119Z" creationid="xulihang" creationdate="20180408T114119Z">
-        <seg>拼写错误(s)</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T151828Z" creationid="xulihang" creationdate="20180408T114119Z">
+        <seg>拼写错误</seg>
       </tuv>
     </tu>
     <tu>
@@ -40871,8 +40871,8 @@ When using regular expressions, the replacement string supports references to gr
       <tuv lang="EN">
         <seg>Tags - spaces</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T113247Z" creationid="xulihang" creationdate="20180408T113247Z">
-        <seg>标签 - 空行</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T151805Z" creationid="xulihang" creationdate="20180408T113247Z">
+        <seg>标签 - 空格</seg>
       </tuv>
     </tu>
     <tu>
@@ -40999,16 +40999,16 @@ When using regular expressions, the replacement string supports references to gr
       <tuv lang="EN">
         <seg>Target longer</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T113219Z" creationid="xulihang" creationdate="20180408T113123Z">
-        <seg>译文更长</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T151646Z" creationid="xulihang" creationdate="20180408T113123Z">
+        <seg>译文较长</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Target shorter</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T113215Z" creationid="xulihang" creationdate="20180408T113115Z">
-        <seg>译文更短</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T151643Z" creationid="xulihang" creationdate="20180408T113115Z">
+        <seg>译文较短</seg>
       </tuv>
     </tu>
     <tu>
@@ -51919,16 +51919,16 @@ trouble of selecting, obtaining and installing it.</seg>
       <tuv lang="EN">
         <seg>Whitespace - leading</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T151313Z" creationid="xulihang" creationdate="20180408T113022Z">
-        <seg>空白字符 - 前导</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T152110Z" creationid="xulihang" creationdate="20180408T113022Z">
+        <seg>空白字符 - 开头</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Whitespace - trailing</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T151332Z" creationid="xulihang" creationdate="20180408T113032Z">
-        <seg>空白字符 - 尾随</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T152113Z" creationid="xulihang" creationdate="20180408T113032Z">
+        <seg>空白字符 - 末尾</seg>
       </tuv>
     </tu>
     <tu>
