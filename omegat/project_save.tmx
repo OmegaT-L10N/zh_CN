@@ -12443,8 +12443,8 @@ Exception occurred:</seg>
       <tuv lang="EN">
         <seg>Check for inconsistent numbers</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T114327Z" creationid="xulihang" creationdate="20180408T114327Z">
-        <seg>检查不一致的数字</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T153553Z" creationid="xulihang" creationdate="20180408T114327Z">
+        <seg>检查数字是否不一致</seg>
       </tuv>
     </tu>
     <tu>
@@ -12547,8 +12547,8 @@ Exception occurred:</seg>
       <tuv lang="EN">
         <seg>Check number of tags</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T114308Z" creationid="xulihang" creationdate="20180408T114308Z">
-        <seg>检查数字标签</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T153335Z" creationid="xulihang" creationdate="20180408T114308Z">
+        <seg>检查标签的数量</seg>
       </tuv>
     </tu>
     <tu>
@@ -12563,8 +12563,8 @@ Exception occurred:</seg>
       <tuv lang="EN">
         <seg>Check sequence of tags</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T114320Z" creationid="xulihang" creationdate="20180408T114320Z">
-        <seg>检查标签顺序</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T153532Z" creationid="xulihang" creationdate="20180408T114320Z">
+        <seg>检查标签的顺序</seg>
       </tuv>
     </tu>
     <tu>
@@ -12595,8 +12595,8 @@ Exception occurred:</seg>
       <tuv lang="EN">
         <seg>Check spaces around tags</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T114315Z" creationid="xulihang" creationdate="20180408T114315Z">
-        <seg>检查空行标签</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T153525Z" creationid="xulihang" creationdate="20180408T114315Z">
+        <seg>检查标签旁边的空格</seg>
       </tuv>
     </tu>
     <tu>
@@ -24361,8 +24361,8 @@ Reopen the project now?</seg>
       <tuv lang="EN">
         <seg>Inconsistent numbers</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T151816Z" creationid="xulihang" creationdate="20180408T113347Z">
-        <seg>数字不一致</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T153236Z" creationid="xulihang" creationdate="20180408T113347Z">
+        <seg>数量不一致</seg>
       </tuv>
     </tu>
     <tu>
@@ -28623,8 +28623,8 @@ itself on the first run. Later calls do not need to be online.</seg>
       <tuv lang="EN">
         <seg>Missing</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190323T151515Z" creationid="wynnc" creationdate="20190320T045507Z">
-        <seg>缺失的</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T153343Z" creationid="wynnc" creationdate="20190320T045507Z">
+        <seg>缺失</seg>
       </tuv>
     </tu>
     <tu>
@@ -33053,8 +33053,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>Orphaned</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
-        <seg>孤立的</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T153510Z" creationid="wynnc" creationdate="20190320T045507Z">
+        <seg>不成对</seg>
       </tuv>
     </tu>
     <tu>
@@ -40855,8 +40855,8 @@ When using regular expressions, the replacement string supports references to gr
       <tuv lang="EN">
         <seg>Tags - number</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T113237Z" creationid="xulihang" creationdate="20180408T113237Z">
-        <seg>标签 - 数字</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T153224Z" creationid="xulihang" creationdate="20180408T113237Z">
+        <seg>标签 - 数量</seg>
       </tuv>
     </tu>
     <tu>
@@ -58256,6 +58256,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120130T052939Z">
         <seg>移到一个单词右边，但不超过片段的末尾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>open Auto-completer dialog box with contextual suggestions (Mac: &lt;e0&gt;Esc&lt;/e0&gt;). Once Auto-completer is open, use &lt;e1&gt;Ctrl+Space&lt;/e1&gt; again to switch successively from &lt;e2&gt;Glossaries entries&lt;/e2&gt;, &lt;e3&gt;Auto-text entries,&lt;/e3&gt; &lt;e4&gt;Missing tags&lt;/e4&gt; and &lt;e5&gt;Character table&lt;/e5&gt; options.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T153137Z" creationid="WynnChen" creationdate="20190403T153137Z">
+        <seg>open Auto-completer dialog box with contextual suggestions (Mac: &lt;e0&gt;Esc&lt;/e0&gt;). Once Auto-completer is open, use &lt;e1&gt;Ctrl+Space&lt;/e1&gt; again to switch successively from &lt;e2&gt;Glossaries entries&lt;/e2&gt;, &lt;e3&gt;Auto-text entries,&lt;/e3&gt; &lt;e4&gt;Missing tags&lt;/e4&gt; and &lt;e5&gt;Character table&lt;/e5&gt; options.</seg>
       </tuv>
     </tu>
     <tu>
