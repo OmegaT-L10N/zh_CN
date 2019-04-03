@@ -31074,6 +31074,14 @@ Thus, for example, rules for Canadian French (FR-CA) should be higher than rules
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT does not support these formats directly. Instead, they must first be converted manually to Office Open XML (MS Office 2007/2010) or Open Document format (LibreOffice or OpenOffice.org) before they can be handled in OmegaT. (OmegaT is far from unique in this respect: many other CAT tools convert source files to a different format, in some cases in the background without the translator being aware of the fact, before they are translated.)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T150539Z" creationid="WynnChen" creationdate="20190403T150539Z">
+        <seg>OmegaT 不直接支持这些文件格式。相反，必须先将这些文件手动转换成 Office Open XML（MS Office 2007/2010）或者 OpenDocument 格式（LibreOffice 或 OpenOffice.org）才能在 OmegaT 中处理。（OmegaT 在这方面远非独一无二：许多其他 CAT 工具在翻译人员进行翻译之前会将源文件转换为另一种格式，某些情况下这个过程是在后台进行的，翻译人员并不会意识到这一事实。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT encrypts sensitive passwords and API keys with a master password.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190324T043331Z" creationid="wynnc" creationdate="20190324T043331Z">
@@ -35214,8 +35222,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>RTF (Rich Text Format):</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T072055Z" creationid="Wyndy" creationdate="20180418T072055Z">
-        <seg>RTF (Rich Text Format 富文本格式):</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T150120Z" creationid="Wyndy" creationdate="20180418T072055Z">
+        <seg>RTF（Rich Text Format，富文本格式）：</seg>
       </tuv>
     </tu>
     <tu>
@@ -39156,8 +39164,8 @@ When using regular expressions, the replacement string supports references to gr
       <tuv lang="EN">
         <seg>Some CAT tools solve this problem, at least for MS Word, by working within Word itself; most other CAT tools convert to RTF and back, often invisibly for the translator.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T071527Z" creationid="Wyndy" creationdate="20180418T071527Z">
-        <seg>有些 CAT 工具能克服这个问题，至少在 MS Word 软件自身内工作时可以处理 Word 文件；其他大部分 CAT 工具只能先将其转换成富文本格式处理再转回，不过译员通常见不到该过程。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T150134Z" creationid="Wyndy" creationdate="20180418T071527Z">
+        <seg>有些 CAT 工具通过在 Word 软件自身内工作来克服这个问题，至少对于 MS Word 而言克服了；大部分其他 CAT 工具只能先将其转换成 RTF 处理再转回，此过程通常对于翻译人员是不可见的。</seg>
       </tuv>
     </tu>
     <tu>
