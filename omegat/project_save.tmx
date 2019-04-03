@@ -8187,6 +8187,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A general observation: "compatibility" is rarely a black and white, "yes" or "no" issue. Where the vendor of a software product claims that his product is compatible with another piece of software, this compatibility is seldom 100%. Conversely, where products are clearly not directly compatible, it is often possible to find procedures by which they can work together. The question which must be answered is whether these procedures are acceptable in terms of the result and the effort involved, and the answer is likely to vary from one user to another. In other words, "compatibility" is not only about products, but also about workflows.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T142812Z" creationid="WynnChen" creationdate="20190403T142812Z">
+        <seg>一般而言：“兼容性”并不是一个非黑即白的问题。如果软件产品供应商声称其产品与其他软件兼容，则这种兼容性很少是完美的。反过来，在产品显然不能直接兼容的情况下，也往往能找到让它们能协同运作的操作流程。效果及所需的投入是否可接受才是必答题，但这又仁者见仁，智者见智。换句话说，“兼容性”不仅涉及产品本身，还与工作流程有关。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A given source segment may require several different translations, depending on the context.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131127T141616Z" creationid="Fu Rhong" creationdate="20131127T141616Z">
@@ -19879,8 +19887,8 @@ Kaptain. You can then launch the Kaptain launch script with:</seg>
       <tuv lang="EN">
         <seg>General comments</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T044445Z" creationid="Wyndy" creationdate="20180418T044438Z">
-        <seg>一般性评论</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T141953Z" creationid="Wyndy" creationdate="20180418T044438Z">
+        <seg>整体评论</seg>
       </tuv>
     </tu>
     <tu>
@@ -38886,6 +38894,14 @@ When using regular expressions, the replacement string supports references to gr
       </tuv>
       <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T082632Z" creationid="Wyndy" creationdate="20180418T044750Z">
         <seg>按照标准流程，专业译员收发的是电子形式的文本，所以 OmegaT 用户很关心它与其他软件产品的兼容性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Since it is standard procedure for professional translators to receive and deliver texts in digital form, users of OmegaT are naturally interested in its compatibility with other software products. This HOWTO aims to provide information in this area.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T142209Z" creationid="WynnChen" creationdate="20190403T142209Z">
+        <seg>对于专业翻译人员而言，以数字形式收发文本是标准流程，因此 OmegaT 的用户自然会关心其与其他软件产品的兼容性。本指南旨在提供该领域的信息。</seg>
       </tuv>
     </tu>
     <tu>
