@@ -11767,7 +11767,7 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>By Susan Welsh (Open Document Format).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190327T174246Z" creationid="cpeishan" creationdate="20180407T134831Z">
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T145025Z" creationid="cpeishan" creationdate="20180407T134831Z">
         <seg>作者：Susan Welsh（OpenDocument 格式）。</seg>
       </tuv>
     </tu>
@@ -27190,8 +27190,8 @@ itself on the first run. Later calls do not need to be online.</seg>
       <tuv lang="EN">
         <seg>Linux users can use this version of the standalone &lt;a0&gt;conversion utility&lt;/a0&gt; to convert directly between Office Open XML and OpenDocument Format.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T064427Z" creationid="Wyndy" creationdate="20180418T064427Z">
-        <seg>Linux 用户可通过这个版本的 &lt;a0&gt;conversion utility&lt;/a0&gt; 独立应用程序直接进行 Office Open XML 与 OpenDocument Format 的互相转换。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T145003Z" creationid="Wyndy" creationdate="20180418T064427Z">
+        <seg>Linux 用户可以用这个版本的独立&lt;a0&gt;转换工具&lt;/a0&gt;直接进行 Office Open XML 与 OpenDocument 格式的互相转换。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27598,8 +27598,8 @@ itself on the first run. Later calls do not need to be online.</seg>
       <tuv lang="EN">
         <seg>Mac OS X users can convert directly from Office Open XML to OpenDocument Format and back in &lt;a0&gt;NeoOffice&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T073351Z" creationid="Wyndy" creationdate="20180418T063955Z">
-        <seg>Mac OS X 用户可通过 &lt;a0&gt;NeoOffice&lt;/a0&gt;将 Office Open XML 与开放文档格式（ODF）互相转换。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T145130Z" creationid="Wyndy" creationdate="20180418T063955Z">
+        <seg>Mac OS X 用户可在 &lt;a0&gt;NeoOffice&lt;/a0&gt; 中将 Office Open XML 与 OpenDocument 格式互相转换。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28489,6 +28489,14 @@ itself on the first run. Later calls do not need to be online.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T143554Z" creationid="WynnChen" creationdate="20190403T143554Z">
         <seg>Microsoft Office 2007-2010（Word、Excel、PowerPoint 2007-2010）；Office Open XML：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Microsoft Office 97-2003 (Microsoft Word/Excel/Powerpoint 2003):</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T145431Z" creationid="WynnChen" creationdate="20190403T145431Z">
+        <seg>Microsoft Office 97-2003（Microsoft Word/Excel/Powerpoint 2003）：</seg>
       </tuv>
     </tu>
     <tu>
@@ -30707,8 +30715,8 @@ Thus, for example, rules for Canadian French (FR-CA) should be higher than rules
       <tuv lang="EN">
         <seg>Office Open XML can be converted directly to Open Document Format and back by means of the ODF converter, available &lt;a0&gt;here&lt;/a0&gt;. This utility requires a version of MS Office (XP/2003/2007).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T144601Z" creationid="WynnChen" creationdate="20190403T144318Z">
-        <seg>Office Open XML 可以直接转换为开放文档格式（ODF），然后通过可在&lt;a0&gt;此处&lt;/a0&gt;获得的 ODF 转换器转回。此工具需要有某个版本的 MS Office（XP / 2003/2007）才能用。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T145044Z" creationid="WynnChen" creationdate="20190403T144318Z">
+        <seg>Office Open XML 可以直接转换为 OpenDocument 格式，然后通过可在&lt;a0&gt;此处&lt;/a0&gt;获得的 ODF 转换器转回。此工具需要有某个版本的 MS Office（XP / 2003/2007）才能用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35326,8 +35334,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Recent versions of OpenOffice.org are able to convert between Microsoft Office 2007 and Open Document Format.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T073535Z" creationid="Wyndy" creationdate="20180418T064510Z">
-        <seg>最新版的 OpenOffice.org 能将 Microsoft Office 2007 与开放文档格式（ODF）互相转换。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T145421Z" creationid="Wyndy" creationdate="20180418T064510Z">
+        <seg>最新版的 OpenOffice.org 能将 Microsoft Office 2007 与 Open Document 格式互相转换。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41907,8 +41915,8 @@ current folder will be used instead.</seg>
       <tuv lang="EN">
         <seg>The Microsoft Office 2007-2010 file formats (also known as Office Open XML, and with the file extensions .docx, .xlsx and .pptx) is radically different to the Office 97-2003 formats which they supersede. In fact, their structure is very similar to that of OpenOffice.org files: they consists of a zip archive containing multiple files, and the files containing the text are based upon the XML standard. This makes it much easier for CAT tools to support it and edit it directly. The Microsoft Office 2007-2010 file formats can be processed directly in OmegaT; more information can be found &lt;a0&gt;here&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T144017Z" creationid="WynnChen" creationdate="20190403T144017Z">
-        <seg>Microsoft Office 2007-2010 文件格式（也称为 Office Open XML，文件扩展名为 .docx、.xlsx 和 .pptx）与被它们所取代的Office 97-2003 格式完全不同。实际上，它们的结构与 OpenOffice.org 文件的结构非常相似：它们由包含多个文件的 zip 档案所构成，而其中那些包含文本的文件基于 XML 标准。这让 CAT 工具更容易支持并直接编辑它。 Microsoft Office 2007-2010 文件格式可以直接在 OmegaT 中处理；更多信息可以在&lt;a0&gt;此处&lt;/a0&gt;找到。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T145059Z" creationid="WynnChen" creationdate="20190403T144017Z">
+        <seg>Microsoft Office 2007-2010 文件格式（也称为 Office Open XML，文件扩展名为 .docx、.xlsx 和 .pptx）与被它们所取代的Office 97-2003 格式完全不同。实际上，它们的结构与 OpenOffice.org 文件的结构非常相似：它们由包含多个文件的 zip 档案所构成，而其中那些包含文本的文件基于 XML 标准。这让 CAT 工具更容易支持并直接编辑它。Microsoft Office 2007-2010 文件格式可以直接在 OmegaT 中处理；更多信息可以在&lt;a0&gt;此处&lt;/a0&gt;找到。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45746,8 +45754,8 @@ configuration folder cannot be reliably determined.</seg>
       <tuv lang="EN">
         <seg>These file formats are proprietary, binary, and until recently were not publicly documented, all characteristics which make them extremely difficult to handle in a CAT tool.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T070928Z" creationid="Wyndy" creationdate="20180418T070921Z">
-        <seg>这些二进制文件格式有专利权，而且目前为止还未以文件形式公开，以上特点都让这些文件格式难以用 CAT工具处理。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T145711Z" creationid="Wyndy" creationdate="20180418T070921Z">
+        <seg>这些文件格式是专有的、二进制的，且至今尚未公布相应文档，这些特性使得它们极难用 CAT 工具处理。</seg>
       </tuv>
     </tu>
     <tu>
