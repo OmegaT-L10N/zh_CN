@@ -51,3 +51,6 @@ Howto	指南
 file filter	文件过滤器
 Web Start	Web Start	java的专有名词，不翻译。
 Open Document Format	OpenDocument 格式	统一专有名词的呈现。
+leading	开头
+trailing	末尾
+LanguageTools	LanguageTool	软件名称，后面多了s应当是笔误？
