@@ -8373,8 +8373,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>A simple set of QA checks for current OmegaT project</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T112916Z" creationid="xulihang" creationdate="20180408T112916Z">
-        <seg>一套简单的QA检查</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T151048Z" creationid="xulihang" creationdate="20180408T112916Z">
+        <seg>针对当前 OmegaT 项目的一套简单的 QA 检查</seg>
       </tuv>
     </tu>
     <tu>
@@ -16330,16 +16330,16 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Doubled blanks</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T113059Z" creationid="xulihang" creationdate="20180408T113059Z">
-        <seg>双空白</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T151433Z" creationid="xulihang" creationdate="20180408T113059Z">
+        <seg>重复空白</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Doubled words</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T113105Z" creationid="xulihang" creationdate="20180408T113105Z">
-        <seg>双字</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T151557Z" creationid="xulihang" creationdate="20180408T113105Z">
+        <seg>重复词</seg>
       </tuv>
     </tu>
     <tu>
@@ -20451,6 +20451,14 @@ Kaptain. You can then launch the Kaptain launch script with:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190323T065918Z" creationid="wynnc" creationdate="20190320T045507Z">
         <seg>HTML、XHTML、ODF 和 Infix 分割</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>HTML; XHTML:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T150904Z" creationid="WynnChen" creationdate="20190403T150904Z">
+        <seg>HTML、XHTML：</seg>
       </tuv>
     </tu>
     <tu>
@@ -26668,8 +26676,8 @@ itself on the first run. Later calls do not need to be online.</seg>
       <tuv lang="EN">
         <seg>LanguageTools Rules</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T113004Z" creationid="xulihang" creationdate="20180408T113004Z">
-        <seg>语言工具规则</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T151238Z" creationid="xulihang" creationdate="20180408T113004Z">
+        <seg>LanguageTool 规则</seg>
       </tuv>
     </tu>
     <tu>
@@ -28487,8 +28495,8 @@ itself on the first run. Later calls do not need to be online.</seg>
       <tuv lang="EN">
         <seg>Microsoft Office 2007-2010 (Word, Excel, PowerPoint 2007-2010); Office Open XML:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T143554Z" creationid="WynnChen" creationdate="20190403T143554Z">
-        <seg>Microsoft Office 2007-2010（Word、Excel、PowerPoint 2007-2010）；Office Open XML：</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T150803Z" creationid="WynnChen" creationdate="20190403T143554Z">
+        <seg>Microsoft Office 2007-2010（Word、Excel、PowerPoint 2007-2010）、Office Open XML：</seg>
       </tuv>
     </tu>
     <tu>
@@ -32541,8 +32549,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>Open Document Format: LibreOffice/OpenOffice.org/NeoOffice Writer/Calc/Impress</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T073629Z" creationid="Wyndy" creationdate="20180418T073629Z">
-        <seg>开放文档格式（Open Document Format，简称 ODF）: LibreOffice/OpenOffice.org/NeoOffice Writer/Calc/Impress</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T150752Z" creationid="Wyndy" creationdate="20180418T073629Z">
+        <seg>OpenDocument 格式：LibreOffice/OpenOffice.org/NeoOffice Writer/Calc/Impress</seg>
       </tuv>
     </tu>
     <tu>
@@ -34041,8 +34049,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Please try again after you open a project.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T112940Z" creationid="xulihang" creationdate="20180408T112940Z">
-        <seg>请在打开一个项目后重试。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T151111Z" creationid="xulihang" creationdate="20180408T112940Z">
+        <seg>请在打开项目后重试。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35134,7 +35142,7 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>QA - Check Rules</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T112857Z" creationid="xulihang" creationdate="20180408T112857Z">
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T151020Z" creationid="xulihang" creationdate="20180408T112857Z">
         <seg>QA - 检查规则</seg>
       </tuv>
     </tu>
@@ -35230,8 +35238,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>RTF is structurally quite different from the Microsoft Office 98-2003 file format, but with regard to OmegaT, the same applies: it is not supported directly and must first be converted to .docx (MS Office 2007/2010) or Open Document format (LibreOffice/OpenOffice.org).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T073609Z" creationid="Wyndy" creationdate="20180418T073228Z">
-        <seg>RTF 文件的结构与 Microsoft Office 98-2003 文件格式结构截然不同，但对于 OmegaT 而言，以下情况相同： OmegaT 不能直接支持这两种文件格式，只能先将它们转换成 .docx (MS Office 2007/2010) 格式或者开放文档格式(LibreOffice/OpenOffice.org).</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T150712Z" creationid="Wyndy" creationdate="20180418T073228Z">
+        <seg>RTF 在结构上与 Microsoft Office 98-2003 文件格式完全不同，但是对于 OmegaT 而言状况是一样的：不直接支持，必须首先转换为 .docx（MS Office 2007/2010）或 OpenDocument 格式（ LibreOffice/OpenOffice.org）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51911,16 +51919,16 @@ trouble of selecting, obtaining and installing it.</seg>
       <tuv lang="EN">
         <seg>Whitespace - leading</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T113036Z" creationid="xulihang" creationdate="20180408T113022Z">
-        <seg>左边的空行</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T151313Z" creationid="xulihang" creationdate="20180408T113022Z">
+        <seg>空白字符 - 前导</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Whitespace - trailing</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T113032Z" creationid="xulihang" creationdate="20180408T113032Z">
-        <seg>右边的空行</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T151332Z" creationid="xulihang" creationdate="20180408T113032Z">
+        <seg>空白字符 - 尾随</seg>
       </tuv>
     </tu>
     <tu>
