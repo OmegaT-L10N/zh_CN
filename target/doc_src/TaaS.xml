@@ -2,7 +2,7 @@
 <!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "../../../docbook-xml-4.5/docbookx.dtd">
 <chapter id="chapter.TaaS">
   <title>在OmegaT中使用TaaS<indexterm class="singular">
-      <primary>搜索</primary>
+      <primary>查找</primary>
     </indexterm></title>
 
   <section id="section.TaaS.generalities">

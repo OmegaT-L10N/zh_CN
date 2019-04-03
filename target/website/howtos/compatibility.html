@@ -4,71 +4,67 @@
 
 <p>这篇 HOWTO 描述了 OmegaT 与其他软件产品的兼容性。</p>
 
-<h3>一般性评论</h3>
+<h3>整体评论</h3>
 
-<p>Since it is standard procedure for professional translators to receive and deliver texts in digital form, users of OmegaT are naturally interested in its compatibility with other software products. This HOWTO aims to provide information in this area.</p>
+<p>对于专业翻译人员而言，以数字形式收发文本是标准流程，因此 OmegaT 的用户自然会关心其与其他软件产品的兼容性。本指南旨在提供该领域的信息。</p>
 
-<p>A general observation: "compatibility" is rarely a black and white, "yes" or "no" issue. Where the vendor of a software product claims that his product is compatible with another piece of software, this compatibility is seldom 100%. Conversely, where products are clearly not directly compatible, it is often possible to find procedures by which they
-can&nbsp;work together. The question which must be answered is whether these procedures are acceptable in terms of the result and the effort involved, and the answer is likely to vary from one user to another. In other words, "compatibility" is not only about products, but also about workflows.<br/>
+<p>一般而言：“兼容性”并不是一个非黑即白的问题。如果软件产品供应商声称其产品与其他软件兼容，则这种兼容性很少是完美的。反过来，在产品显然不能直接兼容的情况下，也往往能找到让它们能协同运作的操作流程。效果及所需的投入是否可接受才是必答题，但这又仁者见仁，智者见智。换句话说，“兼容性”不仅涉及产品本身，还与工作流程有关。<br/>
 
 </p>
 
 
 <h3>操作系统</h3>
 
-<p>OmegaT runs on any operating system on which a suitable version of the Java Runtime Environment (JRE) can be run. At the present time, this includes all versions of Microsoft Windows from Windows 98 onwards, Mac OS X, and most Linux distributions.  </p>
+<p>OmegaT 可在任何可以运行合适版本的 Java 运行环境（JRE）的操作系统上运行。目前，这包括从 Windows 98 开始的所有版本的Microsoft Windows、Mac OS X 和大多数 Linux 发行版。 </p>
 
-<h3>源文本（待翻译文件）</h3>
+<h3>原文文本（待翻译文件）</h3>
 
-<p>Refer to the OmegaT user manual for an up-to-date list of all supported file formats. The list below is <strong>not</strong> an exhaustive list of all file formats supported by OmegaT, but is limited to those of particular interest to typical users.</p>
+<p>有关所有支持的文件格式的最新列表，请参阅 OmegaT 用户手册。以下列表仅限于典型用户特别感兴趣的那些格式，<strong>并非</strong> OmegaT 支持的所有文件格式的详尽列表。</p>
 
 <ul>
 
   <li>
     
-    <p><strong>Microsoft Office 2007-2010 (Word, Excel, PowerPoint 2007-2010); Office Open XML:</strong></p>
+    <p><strong>Microsoft Office 2007-2010（Word、Excel、PowerPoint 2007-2010）、Office Open XML：</strong></p>
 
-    <p>OmegaT 现在能直接处理当前的 Microsoft office 文件格式，不能处理从其他格式转换而来的Microsoft office 文件格式。</p>
+    <p>OmegaT 能够直接处理当前的 Microsoft Office 格式，而无需转换为其他格式或从其他格式转换。</p>
 
-<p>The Microsoft Office 2007-2010 file formats (also known as Office Open XML, and with the file extensions .docx, .xlsx and .pptx) is radically different to the Office 97-2003 formats which they supersede. In fact, their structure is very similar to that of OpenOffice.org files: they consists of a zip archive containing multiple files, and the files containing the text are based upon the XML standard. This makes it much easier for CAT tools to support it and edit it directly. The Microsoft Office 2007-2010 file formats can be processed directly in OmegaT; more information can be found <a href="./docx.html">here</a>.</p>
+<p>Microsoft Office 2007-2010 文件格式（也称为 Office Open XML，文件扩展名为 .docx、.xlsx 和 .pptx）与被它们所取代的Office 97-2003 格式完全不同。实际上，它们的结构与 OpenOffice.org 文件的结构非常相似：它们由包含多个文件的 zip 档案所构成，而其中那些包含文本的文件基于 XML 标准。这让 CAT 工具更容易支持并直接编辑它。Microsoft Office 2007-2010 文件格式可以直接在 OmegaT 中处理；更多信息可以在<a href="./docx.html">此处</a>找到。</p>
     
-    <p>For users of&nbsp;Microsoft Office who do not (yet) have the
-2007 version, conversion between Office Open XML and Microsoft Office 98-2003 can be
-achieved using a free plug-in converter available <a href="http://www.download.com/Microsoft-Open-XML-Converter/3000-18483_4-146736.html">here</a> from Microsoft. This
-converter is available for Windows and Mac.</p>
+    <p>对于尚未拥有 2007 版本的 Microsoft Office 的用户，可以使用 Microsoft 在<a href="http://www.download.com/Microsoft-Open-XML-Converter/3000-18483_4-146736.html">此处</a>提供的免费插件转换器来实现 Office Open XML 和 Microsoft Office 98-2003 之间的转换。此转换器适用于 Windows 和 Mac。</p>
   
-    <p>Office Open XML can be converted directly to Open Document Format and back by means of the ODF converter, available <a href="http://odf-converter.sourceforge.net/download.html">here</a>. This utility requires a version of MS Office (XP/2003/2007).<br/></p>
+    <p>Office Open XML 可以直接转换为 OpenDocument 格式，然后通过可在<a href="http://odf-converter.sourceforge.net/download.html">此处</a>获得的 ODF 转换器转回。此工具需要有某个版本的 MS Office（XP / 2003/2007）才能用。<br/></p>
 
-    <p>Mac OS X 用户可通过 <a href="http://www.neooffice.org/">NeoOffice</a>将 Office Open XML 与开放文档格式（ODF）互相转换。</p>
+    <p>Mac OS X 用户可在 <a href="http://www.neooffice.org/">NeoOffice</a> 中将 Office Open XML 与 OpenDocument 格式互相转换。</p>
 
-    <p>Linux 用户可通过这个版本的 <a href="http://www.oooninja.com/2008/01/convert-openxml-docx-etc-in-linux-using.html">conversion utility</a> 独立应用程序直接进行 Office Open XML 与 OpenDocument Format 的互相转换。</p>
+    <p>Linux 用户可以用这个版本的独立<a href="http://www.oooninja.com/2008/01/convert-openxml-docx-etc-in-linux-using.html">转换工具</a>直接进行 Office Open XML 与 OpenDocument 格式的互相转换。</p>
 
-    <p>最新版的 OpenOffice.org 能将 Microsoft Office 2007 与开放文档格式（ODF）互相转换。</p>
+    <p>最新版的 OpenOffice.org 能将 Microsoft Office 2007 与 Open Document 格式互相转换。</p>
 
   </li>
 
   <li>
 
-    <p><strong>Microsoft Office 97-2003 (Microsoft Word/Excel/Powerpoint 2003):</strong></p>
+    <p><strong>Microsoft Office 97-2003（Microsoft Word/Excel/Powerpoint 2003）：</strong></p>
 
-    <p>这些二进制文件格式有专利权，而且目前为止还未以文件形式公开，以上特点都让这些文件格式难以用 CAT工具处理。&nbsp;</p>
+    <p>这些文件格式是专有的、二进制的，且至今尚未公布相应文档，这些特性使得它们极难用 CAT 工具处理。&nbsp;</p>
     
-    <p>有些 CAT 工具能克服这个问题，至少在 MS Word 软件自身内工作时可以处理 Word 文件；其他大部分 CAT 工具只能先将其转换成富文本格式处理再转回，不过译员通常见不到该过程。</p>
+    <p>有些 CAT 工具通过在 Word 软件自身内工作来克服这个问题，至少对于 MS Word 而言克服了；大部分其他 CAT 工具只能先将其转换成 RTF 处理再转回，此过程通常对于翻译人员是不可见的。</p>
 
-    <p>OmegaT does not support these formats directly. Instead, they must first be converted manually to Office Open XML (MS Office 2007/2010) or Open Document format (LibreOffice or OpenOffice.org) before they can be handled in OmegaT. (OmegaT is far from unique in this respect: many other CAT tools convert source files to a different format, in some cases in the background without the translator being aware of the fact, before they are translated.)</p>
+    <p>OmegaT 不直接支持这些文件格式。相反，必须先将这些文件手动转换成 Office Open XML（MS Office 2007/2010）或者 OpenDocument 格式（LibreOffice 或 OpenOffice.org）才能在 OmegaT 中处理。（OmegaT 在这方面远非独一无二：许多其他 CAT 工具在翻译人员进行翻译之前会将源文件转换为另一种格式，某些情况下这个过程是在后台进行的，翻译人员并不会意识到这一事实。）</p>
 
   </li>
 
   <li>
         
-    <p><strong>RTF (Rich Text Format 富文本格式):</strong></p>
+    <p><strong>RTF（Rich Text Format，富文本格式）：</strong></p>
 
-    <p>RTF 文件的结构与 Microsoft Office 98-2003 文件格式结构截然不同，但对于 OmegaT 而言，以下情况相同： OmegaT 不能直接支持这两种文件格式，只能先将它们转换成 .docx (MS Office 2007/2010) 格式或者开放文档格式(LibreOffice/OpenOffice.org).</p>
+    <p>RTF 在结构上与 Microsoft Office 98-2003 文件格式完全不同，但是对于 OmegaT 而言状况是一样的：不直接支持，必须首先转换为 .docx（MS Office 2007/2010）或 OpenDocument 格式（ LibreOffice/OpenOffice.org）。</p>
 
   </li>
 
   <li>
-    <p><strong>开放文档格式（Open Document Format，简称 ODF）: LibreOffice/OpenOffice.org/NeoOffice Writer/Calc/Impress</strong></p>
+    <p><strong>OpenDocument 格式：LibreOffice/OpenOffice.org/NeoOffice Writer/Calc/Impress</strong></p>
     
     <p>These file formats are the equivalent of Microsoft Office's
 formats. The Open Document Format is an international standard and has
@@ -78,7 +74,7 @@ replaced the former proprietary (but open) Star Office file format (two differen
 
   <li>
     
-    <p><strong>HTML; XHTML:</strong></p>
+    <p><strong>HTML、XHTML：</strong></p>
 
     <p>HTML and XHTML, its XML equivalent, are the most common file
 format for web pages. Again, OmegaT has excellent file filters for

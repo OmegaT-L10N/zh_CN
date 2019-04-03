@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "../../../docbook-xml-4.5/docbookx.dtd">
 <chapter id="chapter.searchandreplace">
-  <title>搜索与替换<indexterm class="singular">
-      <primary>搜索</primary>
+  <title>查找与替换<indexterm class="singular">
+      <primary>查找</primary>
     </indexterm></title>
 
   <section id="section.searchreplace.window">

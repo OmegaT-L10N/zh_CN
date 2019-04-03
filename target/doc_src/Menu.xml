@@ -1218,7 +1218,7 @@
 
     <itemizedlist>
       <listitem>
-        <para>其他人的</para>
+        <para>其他</para>
       </listitem>
     </itemizedlist>
 
@@ -1565,7 +1565,7 @@
     <section id="keyboard.other">
       <title><indexterm class="singular">
           <primary>键盘快捷键</primary> <secondary>其他</secondary>
-        </indexterm>其他人的</title>
+        </indexterm>其他</title>
 
       <table colsep="1">
         <title>其他快捷键</title>
