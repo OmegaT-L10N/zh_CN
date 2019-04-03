@@ -55,3 +55,4 @@ leading	开头
 trailing	末尾
 LanguageTools	LanguageTool	软件名称，后面多了s应当是笔误？
 space	空格	针对字符场景时。
+BiDi	双向	即 bidirectional 的缩写。
