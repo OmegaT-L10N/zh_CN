@@ -31687,6 +31687,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT runs on any operating system on which a suitable version of the Java Runtime Environment (JRE) can be run. At the present time, this includes all versions of Microsoft Windows from Windows 98 onwards, Mac OS X, and most Linux distributions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T143002Z" creationid="WynnChen" creationdate="20190403T143002Z">
+        <seg>OmegaT 可在任何可以运行合适版本的 Java 运行环境（JRE）的操作系统上运行。目前，这包括从 Windows 98 开始的所有版本的Microsoft Windows、Mac OS X 和大多数 Linux 发行版。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT setting</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="anton" changedate="20180416T081214Z" creationid="anton" creationdate="20180416T081214Z">
@@ -35336,6 +35344,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Kaname Madokami☆!" changedate="20180414T162317Z">
         <seg>重做当前目标片段中的上一个编辑操作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Refer to the OmegaT user manual for an up-to-date list of all supported file formats. The list below is &lt;s0&gt;not&lt;/s0&gt; an exhaustive list of all file formats supported by OmegaT, but is limited to those of particular interest to typical users.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T143510Z" creationid="WynnChen" creationdate="20190403T143510Z">
+        <seg>有关所有支持的文件格式的最新列表，请参阅 OmegaT 用户手册。以下列表仅限于典型用户特别感兴趣的那些格式，&lt;s0&gt;并非&lt;/s0&gt; OmegaT 支持的所有文件格式的详尽列表。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39572,8 +39588,8 @@ When using regular expressions, the replacement string supports references to gr
       <tuv lang="EN">
         <seg>Source texts (files for translation)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T051954Z" creationid="Wyndy" creationdate="20180418T051954Z">
-        <seg>源文本（待翻译文件）</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T143027Z" creationid="Wyndy" creationdate="20180418T051954Z">
+        <seg>原文文本（待翻译文件）</seg>
       </tuv>
     </tu>
     <tu>
