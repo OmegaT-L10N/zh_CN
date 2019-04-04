@@ -14,6 +14,28 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>"Additional permissions" are terms that supplement the terms of this
+License by making exceptions from one or more of its conditions.
+Additional permissions that are applicable to the entire Program shall
+be treated as though they were included in this License, to the extent
+that they are valid under applicable law.  If additional permissions
+apply only to part of the Program, that part may be used separately
+under those permissions, but the entire Program remains governed by
+this License without regard to the additional permissions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012338Z" creationid="WynnChen" creationdate="20190404T012338Z">
+        <seg>"Additional permissions" are terms that supplement the terms of this
+License by making exceptions from one or more of its conditions.
+Additional permissions that are applicable to the entire Program shall
+be treated as though they were included in this License, to the extent
+that they are valid under applicable law.  If additional permissions
+apply only to part of the Program, that part may be used separately
+under those permissions, but the entire Program remains governed by
+this License without regard to the additional permissions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>"Aligner" aligner utility</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T024307Z" creationid="chloechao" creationdate="20180412T024307Z">
@@ -30,6 +52,16 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>"Copyright" also means copyright-like laws that apply to other kinds of
+works, such as semiconductor masks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012327Z" creationid="WynnChen" creationdate="20190404T012327Z">
+        <seg>"Copyright" also means copyright-like laws that apply to other kinds of
+works, such as semiconductor masks.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>"Google Translate returned HTTP response code: 403 ...": check that the 38-characters key, entered in the pinfo.list file, is correct.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="weiyi" changedate="20180420T082146Z">
@@ -42,6 +74,26 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190327T175206Z" creationid="cpeishan" creationdate="20180407T135915Z">
         <seg>本网站上的指南文档中包含了手册中未涵盖的某些针对进阶用户的 OmegaT 操作和功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>"Installation Information" for a User Product means any methods,
+procedures, authorization keys, or other information required to install
+and execute modified versions of a covered work in that User Product from
+a modified version of its Corresponding Source.  The information must
+suffice to ensure that the continued functioning of the modified object
+code is in no case prevented or interfered with solely because
+modification has been made.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012335Z" creationid="WynnChen" creationdate="20190404T012335Z">
+        <seg>"Installation Information" for a User Product means any methods,
+procedures, authorization keys, or other information required to install
+and execute modified versions of a covered work in that User Product from
+a modified version of its Corresponding Source.  The information must
+suffice to ensure that the continued functioning of the modified object
+code is in no case prevented or interfered with solely because
+modification has been made.</seg>
       </tuv>
     </tu>
     <tu>
@@ -74,6 +126,26 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120203T121053Z">
         <seg>在这里“标签组”是单个标签（例如 &lt;i0&gt; 和 &lt;/i0&gt;）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>"The Program" refers to any copyrightable work licensed under this
+License.  Each licensee is addressed as "you".  "Licensees" and
+"recipients" may be individuals or organizations.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012327Z" creationid="WynnChen" creationdate="20190404T012327Z">
+        <seg>"The Program" refers to any copyrightable work licensed under this
+License.  Each licensee is addressed as "you".  "Licensees" and
+"recipients" may be individuals or organizations.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>"This License" refers to version 3 of the GNU General Public License.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012327Z" creationid="WynnChen" creationdate="20190404T012327Z">
+        <seg>"This License" refers to version 3 of the GNU General Public License.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3306,6 +3378,14 @@ need not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>0. Definitions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012326Z" creationid="WynnChen" creationdate="20190404T012326Z">
+        <seg>0. Definitions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>1 conflict</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190323T153913Z" creationid="wynnc" creationdate="20190323T153913Z">
@@ -3338,6 +3418,14 @@ need not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>1. Source Code.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012328Z" creationid="WynnChen" creationdate="20190404T012328Z">
+        <seg>1. Source Code.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>1.5 or higher to be installed on your system.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130911T114926Z">
@@ -3354,10 +3442,74 @@ need not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>10. Automatic Licensing of Downstream Recipients.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012343Z" creationid="WynnChen" creationdate="20190404T012343Z">
+        <seg>10. Automatic Licensing of Downstream Recipients.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>103/114</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131127T123000Z" creationid="Fu Rhong" creationdate="20131127T123000Z">
         <seg>103/114</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>11. Patents.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012344Z" creationid="WynnChen" creationdate="20190404T012344Z">
+        <seg>11. Patents.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>12. No Surrender of Others' Freedom.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012414Z" creationid="WynnChen" creationdate="20190404T012414Z">
+        <seg>12. No Surrender of Others' Freedom.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>13. Use with the GNU Affero General Public License.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012414Z" creationid="WynnChen" creationdate="20190404T012414Z">
+        <seg>13. Use with the GNU Affero General Public License.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>14. Revised Versions of this License.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012415Z" creationid="WynnChen" creationdate="20190404T012415Z">
+        <seg>14. Revised Versions of this License.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>15. Disclaimer of Warranty.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012415Z" creationid="WynnChen" creationdate="20190404T012415Z">
+        <seg>15. Disclaimer of Warranty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>16. Limitation of Liability.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012416Z" creationid="WynnChen" creationdate="20190404T012416Z">
+        <seg>16. Limitation of Liability.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>17. Interpretation of Sections 15 and 16.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012416Z" creationid="WynnChen" creationdate="20190404T012416Z">
+        <seg>17. Interpretation of Sections 15 and 16.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3408,6 +3560,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>2. Basic Permissions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012329Z" creationid="WynnChen" creationdate="20190404T012329Z">
+        <seg>2. Basic Permissions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>27/27</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131127T122835Z" creationid="Fu Rhong" creationdate="20131127T122835Z">
@@ -3428,6 +3588,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130514T152511Z">
         <seg>3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3. Protecting Users' Legal Rights From Anti-Circumvention Law.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012330Z" creationid="WynnChen" creationdate="20190404T012330Z">
+        <seg>3. Protecting Users' Legal Rights From Anti-Circumvention Law.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3472,10 +3640,26 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>4. Conveying Verbatim Copies.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012330Z" creationid="WynnChen" creationdate="20190404T012330Z">
+        <seg>4. Conveying Verbatim Copies.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>5.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120220T123209Z">
         <seg>5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>5. Conveying Modified Source Versions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012331Z" creationid="WynnChen" creationdate="20190404T012331Z">
+        <seg>5. Conveying Modified Source Versions.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3496,6 +3680,22 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>6. Conveying Non-Source Forms.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012332Z" creationid="WynnChen" creationdate="20190404T012332Z">
+        <seg>6. Conveying Non-Source Forms.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>7. Additional Terms.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012337Z" creationid="WynnChen" creationdate="20190404T012337Z">
+        <seg>7. Additional Terms.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>75%-84%:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190320T172249Z" creationid="wynnc" creationdate="20190320T172249Z">
@@ -3512,6 +3712,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>8. Termination.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012341Z" creationid="WynnChen" creationdate="20190404T012341Z">
+        <seg>8. Termination.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>85%-94%:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190320T172247Z" creationid="wynnc" creationdate="20190320T172247Z">
@@ -3524,6 +3732,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180417T025140Z" creationid="lenovo" creationdate="20180417T025140Z">
         <seg>9.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>9. Acceptance Not Required for Having Copies.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012342Z" creationid="WynnChen" creationdate="20190404T012342Z">
+        <seg>9. Acceptance Not Required for Having Copies.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3802,8 +4018,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; is a free multi platform Computer Aided Translation tool, with the following highlights:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yujun Yin" changedate="20131007T072321Z" creationid="Yujun Yin" creationdate="20131007T072321Z">
-        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt;是一种免费的多平台计算机辅助翻译工具软件，具有以下特色功能：</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012810Z" creationid="Yujun Yin" creationdate="20131007T072321Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt;是一款免费的多平台计算机辅助翻译工具，具有以下亮点：</seg>
       </tuv>
     </tu>
     <tu>
@@ -4587,8 +4803,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Learn to use OmegaT in 5 minutes!:&lt;/e0&gt; this chapter is intended as a quick tutorial for beginners as well as people who already know CAT tools, showing the complete procedure from opening a new translation project through to completing the translation.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yujun Yin" changedate="20131007T080632Z" creationid="Yujun Yin" creationdate="20131007T080507Z">
-        <seg>&lt;e0&gt;5 分钟入门 OmegaT！：&lt;/e0&gt;本章为针对初学者和已经了解 CAT 工具的用户的快速教程，本章中展示了完整的翻译过程，从打开一个全新的翻译项目，一直到完成整个翻译工作。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T015722Z" creationid="Yujun Yin" creationdate="20131007T080507Z">
+        <seg>&lt;e0&gt;5 分钟内学会使用 OmegaT！：&lt;/e0&gt;本章旨在作为初学者以及已经了解 CAT 工具的人的快速教程，展示从打开新的翻译项目到完成翻译的完整过程。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4795,8 +5011,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Terminology management&lt;/e0&gt;: Terminology management is important for translation consistency. OmegaT uses glossaries containing translations of single words or small phrases: a simplified bilingual dictionary for a specific domain. For your reference, OmegaT displays the translation of any word that is both present in the segment and registered in the glossary.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T163047Z" creationid="WynnChen" creationdate="20190326T163047Z">
-        <seg>&lt;e0&gt;术语管理&lt;/e0&gt;：术语管理对于译文的一致性至关重要。OmegaT 的术语表包含单词或短语的翻译，即，术语表就是特定领域中的简易双语词典。当前句段中的单词如果存在于术语表中，OmegaT 就会显示出这个单词的译文，以供翻译参考。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T014340Z" creationid="WynnChen" creationdate="20190326T163047Z">
+        <seg>&lt;e0&gt;术语管理&lt;/e0&gt;：术语管理对于翻译的一致性非常重要。OmegaT 的术语表包含单个单词或小短语的翻译，即，术语表就是特定领域中的简易双语词典。当前片段中的单词如果存在于术语表中，OmegaT 就会显示出其翻译以供参考。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4835,8 +5051,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Translation memory:&lt;/e0&gt;&lt;a1&gt; OmegaT&lt;/a1&gt; stores your translations in a translation memory file. At the same time, it can use memories files from previous translations for reference. Translation memories can be very useful in a translation where there are numerous repetitions or reasonably similar segments of text. OmegaT uses translation memories to store your previous translations and then suggest likely translations for the text you are currently working on.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T163039Z" creationid="WynnChen" creationdate="20190326T163039Z">
-        <seg>&lt;e0&gt;译法记忆：&lt;/e0&gt;&lt;a1&gt; OmegaT&lt;/a1&gt;将译文存储在译法记忆文件中。同时，OmegaT可以使用此前翻译的译法记忆文件作为翻译参考。如果译文中存在大量重复，或相似的句段，译法记忆文件可以有效提高效率。OmegaT 使用译法记忆文件存储完成的翻译，然后根据您当前翻译的文本，给您提供相似的译文作为参考。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T013136Z" creationid="WynnChen" creationdate="20190326T163039Z">
+        <seg>&lt;e0&gt;翻译记忆：&lt;/e0&gt;&lt;a1&gt; OmegaT&lt;/a1&gt; 将您的翻译存储在翻译记忆库文件中。同时，它可以用过往翻译的翻译记忆库文件作为参考。如果译文中存在大量重复或相当相似的片段，翻译记忆库文件在翻译中会非常有用。OmegaT 使用翻译记忆文件存储您过往的翻译，然后为您当前正在处理的文本建议可能的翻译。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4851,8 +5067,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Translation process:&lt;/e0&gt; Imagine having to translate something; from a single file to a folder containing subfolders each with a number of files in a variety of formats. When you let OmegaT know the files that you need to translate, it looks for the files it understands based on file filtering rules, recognizes the textual parts within them, splits up the text groups according to the segmentation rules, and displays the segments one by one so that you can proceed with the translation. OmegaT stores your translations and proposes possible translations from similar segments registered in the translation memory files. When you are ready to view the final product, you can export the translated files, open them in the appropriate application and view the translation in the final format...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T163155Z" creationid="WynnChen" creationdate="20190326T163155Z">
-        <seg>&lt;e0&gt;翻译处理：&lt;/e0&gt;设想您需要进行翻译，需要翻译的可能是单个文件，也可能是一个文件夹，其中包含子文件夹以及许多种不同格式的文件。您可以通过设置选择需要翻译的文件，OmegaT可以通过文件过滤规则对文件进行查找，辨认文件中的文本部分，根据片段分割规则对文本进行分割，然后在编辑器中显示出待翻译的片段以供翻译。OmegaT 保存译文，并根据译法记忆文件中已有的相似片段给出可能的译文，以供参考。如果您需要查看最终翻译成果，您可以导出已译文件，在相应的应用程序中打开，查看导出为最终格式的译文...</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T015203Z" creationid="WynnChen" creationdate="20190326T163155Z">
+        <seg>&lt;e0&gt;翻译流程：&lt;/e0&gt;设想您需要翻译一些东西，可以是单个文件一直到有多个包含许多各种格式文件的子文件夹的文件夹。当您让 OmegaT 知道哪些文件需要翻译之后，它会根据文件过滤规则查找所能理解的文件、识别文件中的文本部分、根据分割规则拆分文本组、并逐个显示片段以供您进行翻译。OmegaT 存储您的翻译并提供翻译记忆库文件中注册的类似片段的可能翻译供参考。当准备查看最终成果时，可以导出译文文件，在相应的应用程序中打开并以最终格式查看译文...</seg>
       </tuv>
     </tu>
     <tu>
@@ -5815,6 +6031,16 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
         <seg>&lt;无&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;one line to give the program's name and a brief idea of what it does.&gt;
+    Copyright (C) &lt;year&gt;  &lt;name of author&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012433Z" creationid="WynnChen" creationdate="20190404T012433Z">
+        <seg>&lt;one line to give the program's name and a brief idea of what it does.&gt;
+    Copyright (C) &lt;year&gt;  &lt;name of author&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7819,6 +8045,20 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;program&gt;  Copyright (C) &lt;year&gt;  &lt;name of author&gt;
+    This program comes with ABSOLUTELY NO WARRANTY; for details type `show w'.
+    This is free software, and you are welcome to redistribute it
+    under certain conditions; type `show c' for details.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012438Z" creationid="WynnChen" creationdate="20190404T012438Z">
+        <seg>&lt;program&gt;  Copyright (C) &lt;year&gt;  &lt;name of author&gt;
+    This program comes with ABSOLUTELY NO WARRANTY; for details type `show w'.
+    This is free software, and you are welcome to redistribute it
+    under certain conditions; type `show c' for details.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;r0&gt;Note:&lt;/r0&gt; On an Apple Mac, use the &lt;k1&gt;Command&lt;/k1&gt; key instead of the &lt;k2&gt;Control&lt;/k2&gt; key.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T004638Z" creationid="Fu Rhong" creationdate="20131117T004638Z">
@@ -8035,6 +8275,72 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A "Standard Interface" means an interface that either is an official
+standard defined by a recognized standards body, or, in the case of
+interfaces specified for a particular programming language, one that
+is widely used among developers working in that language.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012328Z" creationid="WynnChen" creationdate="20190404T012328Z">
+        <seg>A "Standard Interface" means an interface that either is an official
+standard defined by a recognized standards body, or, in the case of
+interfaces specified for a particular programming language, one that
+is widely used among developers working in that language.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A "User Product" is either (1) a "consumer product", which means any
+tangible personal property which is normally used for personal, family,
+or household purposes, or (2) anything designed or sold for incorporation
+into a dwelling.  In determining whether a product is a consumer product,
+doubtful cases shall be resolved in favor of coverage.  For a particular
+product received by a particular user, "normally used" refers to a
+typical or common use of that class of product, regardless of the status
+of the particular user or of the way in which the particular user
+actually uses, or expects or is expected to use, the product.  A product
+is a consumer product regardless of whether the product has substantial
+commercial, industrial or non-consumer uses, unless such uses represent
+the only significant mode of use of the product.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012335Z" creationid="WynnChen" creationdate="20190404T012335Z">
+        <seg>A "User Product" is either (1) a "consumer product", which means any
+tangible personal property which is normally used for personal, family,
+or household purposes, or (2) anything designed or sold for incorporation
+into a dwelling.  In determining whether a product is a consumer product,
+doubtful cases shall be resolved in favor of coverage.  For a particular
+product received by a particular user, "normally used" refers to a
+typical or common use of that class of product, regardless of the status
+of the particular user or of the way in which the particular user
+actually uses, or expects or is expected to use, the product.  A product
+is a consumer product regardless of whether the product has substantial
+commercial, industrial or non-consumer uses, unless such uses represent
+the only significant mode of use of the product.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A "contributor" is a copyright holder who authorizes use under this
+License of the Program or a work on which the Program is based.  The
+work thus licensed is called the contributor's "contributor version".</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012345Z" creationid="WynnChen" creationdate="20190404T012345Z">
+        <seg>A "contributor" is a copyright holder who authorizes use under this
+License of the Program or a work on which the Program is based.  The
+work thus licensed is called the contributor's "contributor version".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A "covered work" means either the unmodified Program or a work based
+on the Program.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012327Z" creationid="WynnChen" creationdate="20190404T012327Z">
+        <seg>A "covered work" means either the unmodified Program or a work based
+on the Program.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A "translated" External View file is produced by entering the translation in the target column.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T121022Z" creationid="lenovo" creationdate="20180416T121022Z">
@@ -8091,10 +8397,58 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A compilation of a covered work with other separate and independent
+works, which are not by their nature extensions of the covered work,
+and which are not combined with it such as to form a larger program,
+in or on a volume of a storage or distribution medium, is called an
+"aggregate" if the compilation and its resulting copyright are not
+used to limit the access or legal rights of the compilation's users
+beyond what the individual works permit.  Inclusion of a covered work
+in an aggregate does not cause this License to apply to the other
+parts of the aggregate.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012332Z" creationid="WynnChen" creationdate="20190404T012332Z">
+        <seg>A compilation of a covered work with other separate and independent
+works, which are not by their nature extensions of the covered work,
+and which are not combined with it such as to form a larger program,
+in or on a volume of a storage or distribution medium, is called an
+"aggregate" if the compilation and its resulting copyright are not
+used to limit the access or legal rights of the compilation's users
+beyond what the individual works permit.  Inclusion of a covered work
+in an aggregate does not cause this License to apply to the other
+parts of the aggregate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A comprehensive suite of utilities for preparing files for translation in a CAT tool.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T095041Z" creationid="chloechao" creationdate="20180412T095041Z">
         <seg>实用工具套件，可进行CAT工具翻译前的文档准备。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A contributor's "essential patent claims" are all patent claims
+owned or controlled by the contributor, whether already acquired or
+hereafter acquired, that would be infringed by some manner, permitted
+by this License, of making, using, or selling its contributor version,
+but do not include claims that would be infringed only as a
+consequence of further modification of the contributor version.  For
+purposes of this definition, "control" includes the right to grant
+patent sublicenses in a manner consistent with the requirements of
+this License.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012346Z" creationid="WynnChen" creationdate="20190404T012346Z">
+        <seg>A contributor's "essential patent claims" are all patent claims
+owned or controlled by the contributor, whether already acquired or
+hereafter acquired, that would be infringed by some manner, permitted
+by this License, of making, using, or selling its contributor version,
+but do not include claims that would be infringed only as a
+consequence of further modification of the contributor version.  For
+purposes of this definition, "control" includes the right to grant
+patent sublicenses in a manner consistent with the requirements of
+this License.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8315,6 +8669,40 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A patent license is "discriminatory" if it does not include within
+the scope of its coverage, prohibits the exercise of, or is
+conditioned on the non-exercise of one or more of the rights that are
+specifically granted under this License.  You may not convey a covered
+work if you are a party to an arrangement with a third party that is
+in the business of distributing software, under which you make payment
+to the third party based on the extent of your activity of conveying
+the work, and under which the third party grants, to any of the
+parties who would receive the covered work from you, a discriminatory
+patent license (a) in connection with copies of the covered work
+conveyed by you (or copies made from those copies), or (b) primarily
+for and in connection with specific products or compilations that
+contain the covered work, unless you entered into that arrangement,
+or that patent license was granted, prior to 28 March 2007.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012413Z" creationid="WynnChen" creationdate="20190404T012413Z">
+        <seg>A patent license is "discriminatory" if it does not include within
+the scope of its coverage, prohibits the exercise of, or is
+conditioned on the non-exercise of one or more of the rights that are
+specifically granted under this License.  You may not convey a covered
+work if you are a party to an arrangement with a third party that is
+in the business of distributing software, under which you make payment
+to the third party based on the extent of your activity of conveying
+the work, and under which the third party grants, to any of the
+parties who would receive the covered work from you, a discriminatory
+patent license (a) in connection with copies of the covered work
+conveyed by you (or copies made from those copies), or (b) primarily
+for and in connection with specific products or compilations that
+contain the covered work, unless you entered into that arrangement,
+or that patent license was granted, prior to 28 March 2007.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A project's tmx will be upgraded only once, and will be written in upgraded form into the &lt;f0&gt;project-save.tmx&lt;/f0&gt;; legacy tmx files will be upgraded on the fly each time the project is loaded.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120218T071406Z">
@@ -8367,6 +8755,18 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T120113Z" creationid="lenovo" creationdate="20180416T120113Z">
         <seg>最近（2008年）开发了一个脚本（仅适用于Windows）和程序，使OmegaT用户能够在其翻译阶段结束时生成Trados未清理的RTF文件以供交付</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A separable portion of the object code, whose source code is excluded
+from the Corresponding Source as a System Library, need not be
+included in conveying the object code work.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012334Z" creationid="WynnChen" creationdate="20190404T012334Z">
+        <seg>A separable portion of the object code, whose source code is excluded
+from the Corresponding Source as a System Library, need not be
+included in conveying the object code work.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8971,6 +9371,18 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Additional terms, permissive or non-permissive, may be stated in the
+form of a separately written license, or stated as exceptions;
+the above requirements apply either way.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012341Z" creationid="WynnChen" creationdate="20190404T012341Z">
+        <seg>Additional terms, permissive or non-permissive, may be stated in the
+form of a separately written license, or stated as exceptions;
+the above requirements apply either way.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Additional variants are available for variables ${nameOnly} and ${Extension}.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131113T125104Z" creationid="Fu Rhong" creationdate="20131113T125104Z">
@@ -9459,10 +9871,54 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All other non-permissive additional terms are considered "further
+restrictions" within the meaning of section 10.  If the Program as you
+received it, or any part of it, contains a notice stating that it is
+governed by this License along with a term that is a further
+restriction, you may remove that term.  If a license document contains
+a further restriction but permits relicensing or conveying under this
+License, you may add to a covered work material governed by the terms
+of that license document, provided that the further restriction does
+not survive such relicensing or conveying.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012340Z" creationid="WynnChen" creationdate="20190404T012340Z">
+        <seg>All other non-permissive additional terms are considered "further
+restrictions" within the meaning of section 10.  If the Program as you
+received it, or any part of it, contains a notice stating that it is
+governed by this License along with a term that is a further
+restriction, you may remove that term.  If a license document contains
+a further restriction but permits relicensing or conveying under this
+License, you may add to a covered work material governed by the terms
+of that license document, provided that the further restriction does
+not survive such relicensing or conveying.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All preferences protected by the master password will be reset.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190324T043606Z" creationid="wynnc" creationdate="20190324T043606Z">
         <seg>所有由主密码保护的首选项都将被重置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All rights granted under this License are granted for the term of
+copyright on the Program, and are irrevocable provided the stated
+conditions are met.  This License explicitly affirms your unlimited
+permission to run the unmodified Program.  The output from running a
+covered work is covered by this License only if the output, given its
+content, constitutes a covered work.  This License acknowledges your
+rights of fair use or other equivalent, as provided by copyright law.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012329Z" creationid="WynnChen" creationdate="20190404T012329Z">
+        <seg>All rights granted under this License are granted for the term of
+copyright on the Program, and are irrevocable provided the stated
+conditions are met.  This License explicitly affirms your unlimited
+permission to run the unmodified Program.  The output from running a
+covered work is covered by this License only if the output, given its
+content, constitutes a covered work.  This License acknowledges your
+rights of fair use or other equivalent, as provided by copyright law.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9643,6 +10099,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Also add information on how to contact you by electronic and paper mail.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012436Z" creationid="WynnChen" creationdate="20190404T012436Z">
+        <seg>Also add information on how to contact you by electronic and paper mail.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Also allow per-project external commands</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130504T152636Z">
@@ -9799,6 +10263,30 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
         <seg>阿姆哈拉语</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An "entity transaction" is a transaction transferring control of an
+organization, or substantially all assets of one, or subdividing an
+organization, or merging organizations.  If propagation of a covered
+work results from an entity transaction, each party to that
+transaction who receives a copy of the work also receives whatever
+licenses to the work the party's predecessor in interest had or could
+give under the previous paragraph, plus a right to possession of the
+Corresponding Source of the work from the predecessor in interest, if
+the predecessor has it or can get it with reasonable efforts.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012344Z" creationid="WynnChen" creationdate="20190404T012344Z">
+        <seg>An "entity transaction" is a transaction transferring control of an
+organization, or substantially all assets of one, or subdividing an
+organization, or merging organizations.  If propagation of a covered
+work results from an entity transaction, each party to that
+transaction who receives a copy of the work also receives whatever
+licenses to the work the party's predecessor in interest had or could
+give under the previous paragraph, plus a right to possession of the
+Corresponding Source of the work from the predecessor in interest, if
+the predecessor has it or can get it with reasonable efforts.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10111,6 +10599,28 @@ to determine the source of the error and try again.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T093932Z" creationid="chloechao" creationdate="20180412T093932Z">
         <seg>智能化命令行对齐工具，可对齐传统文本及其译文生成翻译记忆。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An interactive user interface displays "Appropriate Legal Notices"
+to the extent that it includes a convenient and prominently visible
+feature that (1) displays an appropriate copyright notice, and (2)
+tells the user that there is no warranty for the work (except to the
+extent that warranties are provided), that licensees may convey the
+work under this License, and how to view a copy of this License.  If
+the interface presents a list of user commands or options, such as a
+menu, a prominent item in the list meets this criterion.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012328Z" creationid="WynnChen" creationdate="20190404T012328Z">
+        <seg>An interactive user interface displays "Appropriate Legal Notices"
+to the extent that it includes a convenient and prominently visible
+feature that (1) displays an appropriate copyright notice, and (2)
+tells the user that there is no warranty for the work (except to the
+extent that warranties are provided), that licensees may convey the
+work under this License, and how to view a copy of this License.  If
+the interface presents a list of user commands or options, such as a
+menu, a prominent item in the list meets this criterion.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13986,6 +14496,18 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Conveying under any other circumstances is permitted solely under
+the conditions stated below.  Sublicensing is not allowed; section 10
+makes it unnecessary.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012330Z" creationid="WynnChen" creationdate="20190404T012330Z">
+        <seg>Conveying under any other circumstances is permitted solely under
+the conditions stated below.  Sublicensing is not allowed; section 10
+makes it unnecessary.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cop&amp;y Files to Source Folder...</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190320T174308Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -14112,6 +14634,18 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
         <seg>版权所有</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copyright (C) 2007 Free Software Foundation, Inc. &lt;http://fsf.org/&gt;
+ Everyone is permitted to copy and distribute verbatim copies
+ of this license document, but changing it is not allowed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012320Z" creationid="WynnChen" creationdate="20190404T012320Z">
+        <seg>Copyright (C) 2007 Free Software Foundation, Inc. &lt;http://fsf.org/&gt;
+ Everyone is permitted to copy and distribute verbatim copies
+ of this license document, but changing it is not allowed.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14248,6 +14782,22 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120219T125250Z">
         <seg>如果必要的话，修正错误然后按&lt;g0&gt;Ctrl+T&lt;/g0&gt; 键返回标签验证窗口以修正其它错误。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Corresponding Source conveyed, and Installation Information provided,
+in accord with this section must be in a format that is publicly
+documented (and with an implementation available to the public in
+source code form), and must require no special password or key for
+unpacking, reading or copying.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012337Z" creationid="WynnChen" creationdate="20190404T012337Z">
+        <seg>Corresponding Source conveyed, and Installation Information provided,
+in accord with this section must be in a format that is publicly
+documented (and with an implementation available to the public in
+source code form), and must require no special password or key for
+unpacking, reading or copying.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15547,6 +16097,18 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190327T170119Z" creationid="cpeishan" creationdate="20180407T105303Z">
         <seg>开发人员</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Developers that use the GNU GPL protect your rights with two steps:
+(1) assert copyright on the software, and (2) offer you this License
+giving you legal permission to copy, distribute and/or modify it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012322Z" creationid="WynnChen" creationdate="20190404T012322Z">
+        <seg>Developers that use the GNU GPL protect your rights with two steps:
+(1) assert copyright on the software, and (2) offer you this License
+giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16852,6 +17414,14 @@ project_save.tmx 未真正上传，SVN 切换到不稳定状态。
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>END OF TERMS AND CONDITIONS</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012417Z" creationid="WynnChen" creationdate="20190404T012417Z">
+        <seg>END OF TERMS AND CONDITIONS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ERROR: (declaring bean)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190323T123240Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -16868,6 +17438,20 @@ project_save.tmx 未真正上传，SVN 切换到不稳定状态。
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Each contributor grants you a non-exclusive, worldwide, royalty-free
+patent license under the contributor's essential patent claims, to
+make, use, sell, offer for sale, import and otherwise run, modify and
+propagate the contents of its contributor version.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012350Z" creationid="WynnChen" creationdate="20190404T012350Z">
+        <seg>Each contributor grants you a non-exclusive, worldwide, royalty-free
+patent license under the contributor's essential patent claims, to
+make, use, sell, offer for sale, import and otherwise run, modify and
+propagate the contents of its contributor version.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Each file type is handled differently in OmegaT.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120202T114428Z">
@@ -16880,6 +17464,42 @@ project_save.tmx 未真正上传，SVN 切换到不稳定状态。
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120202T133036Z">
         <seg>每个输出方式都有特定方法来处理自右向左显示，可查阅相关应用程序手册了解更多细节。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Each time you convey a covered work, the recipient automatically
+receives a license from the original licensors, to run, modify and
+propagate that work, subject to this License.  You are not responsible
+for enforcing compliance by third parties with this License.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012343Z" creationid="WynnChen" creationdate="20190404T012343Z">
+        <seg>Each time you convey a covered work, the recipient automatically
+receives a license from the original licensors, to run, modify and
+propagate that work, subject to this License.  You are not responsible
+for enforcing compliance by third parties with this License.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Each version is given a distinguishing version number.  If the
+Program specifies that a certain numbered version of the GNU General
+Public License "or any later version" applies to it, you have the
+option of following the terms and conditions either of that numbered
+version or of any later version published by the Free Software
+Foundation.  If the Program does not specify a version number of the
+GNU General Public License, you may choose any version ever published
+by the Free Software Foundation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012415Z" creationid="WynnChen" creationdate="20190404T012415Z">
+        <seg>Each version is given a distinguishing version number.  If the
+Program specifies that a certain numbered version of the GNU General
+Public License "or any later version" applies to it, you have the
+option of following the terms and conditions either of that numbered
+version or of any later version published by the Free Software
+Foundation.  If the Program does not specify a version number of the
+GNU General Public License, you may choose any version ever published
+by the Free Software Foundation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18706,6 +19326,24 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Finally, every program is threatened constantly by software patents.
+States should not allow patents to restrict development and use of
+software on general-purpose computers, but in those that do, we wish to
+avoid the special danger that patents applied to a free program could
+make it effectively proprietary.  To prevent this, the GPL assures that
+patents cannot be used to render the program non-free.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012322Z" creationid="WynnChen" creationdate="20190404T012322Z">
+        <seg>Finally, every program is threatened constantly by software patents.
+States should not allow patents to restrict development and use of
+software on general-purpose computers, but in those that do, we wish to
+avoid the special danger that patents applied to a free program could
+make it effectively proprietary.  To prevent this, the GPL assures that
+patents cannot be used to render the program non-free.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Finally, insert the content using the "Unformatted Unicode text" option.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T192133Z" creationid="Mac Pro" creationdate="20180425T192133Z">
@@ -19169,6 +19807,22 @@ Kaptain. You can then launch the Kaptain launch script with:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, if you distribute copies of such a program, whether
+gratis or for a fee, you must pass on to the recipients the same
+freedoms that you received.  You must make sure that they, too, receive
+or can get the source code.  And you must show them these terms so they
+know their rights.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012322Z" creationid="WynnChen" creationdate="20190404T012322Z">
+        <seg>For example, if you distribute copies of such a program, whether
+gratis or for a fee, you must pass on to the recipients the same
+freedoms that you received.  You must make sure that they, too, receive
+or can get the source code.  And you must show them these terms so they
+know their rights.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, if you have an outdated Microsoft Word version, that does not handle the ODT format, here's a round trip for Word files with the DOC extension:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120202T123649Z">
@@ -19502,6 +20156,22 @@ Kaptain. You can then launch the Kaptain launch script with:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T092620Z" creationid="lenovo" creationdate="20180416T092620Z">
         <seg>背景与原则信息请参考 &lt;a0&gt;Preview Howto&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For the developers' and authors' protection, the GPL clearly explains
+that there is no warranty for this free software.  For both users' and
+authors' sake, the GPL requires that modified versions be marked as
+changed, so that their problems will not be attributed erroneously to
+authors of previous versions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012322Z" creationid="WynnChen" creationdate="20190404T012322Z">
+        <seg>For the developers' and authors' protection, the GPL clearly explains
+that there is no warranty for this free software.  For both users' and
+authors' sake, the GPL requires that modified versions be marked as
+changed, so that their problems will not be attributed erroneously to
+authors of previous versions.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19969,6 +20639,16 @@ Kaptain. You can then launch the Kaptain launch script with:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180405T033444Z">
         <seg>GNU GENERAL PUBLIC LICENSE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>GNU GENERAL PUBLIC LICENSE
+                       Version 3, 29 June 2007</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012317Z" creationid="WynnChen" creationdate="20190404T012317Z">
+        <seg>GNU GENERAL PUBLIC LICENSE
+                       Version 3, 29 June 2007</seg>
       </tuv>
     </tu>
     <tu>
@@ -20998,6 +21678,14 @@ Note: not all filters allow you to select an encoding.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>How to Apply These Terms to Your New Programs</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012417Z" creationid="WynnChen" creationdate="20190404T012417Z">
+        <seg>How to Apply These Terms to Your New Programs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>How to create glossaries</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021248Z">
@@ -21050,6 +21738,24 @@ Note: not all filters allow you to select an encoding.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120218T065717Z">
         <seg>然而，OmegaT 不完全支持导入级别 2 tmx 文件（同时保存了译文和格式）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However, if you cease all violation of this License, then your
+license from a particular copyright holder is reinstated (a)
+provisionally, unless and until the copyright holder explicitly and
+finally terminates your license, and (b) permanently, if the copyright
+holder fails to notify you of the violation by some reasonable means
+prior to 60 days after the cessation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012341Z" creationid="WynnChen" creationdate="20190404T012341Z">
+        <seg>However, if you cease all violation of this License, then your
+license from a particular copyright holder is reinstated (a)
+provisionally, unless and until the copyright holder explicitly and
+finally terminates your license, and (b) permanently, if the copyright
+holder fails to notify you of the violation by some reasonable means
+prior to 60 days after the cessation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21338,6 +22044,30 @@ Note: not all filters allow you to select an encoding.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190322T072715Z" creationid="wynnc" creationdate="20190322T072715Z">
         <seg>ILIAS 语言文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING
+WILL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MODIFIES AND/OR CONVEYS
+THE PROGRAM AS PERMITTED ABOVE, BE LIABLE TO YOU FOR DAMAGES, INCLUDING ANY
+GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE
+USE OR INABILITY TO USE THE PROGRAM (INCLUDING BUT NOT LIMITED TO LOSS OF
+DATA OR DATA BEING RENDERED INACCURATE OR LOSSES SUSTAINED BY YOU OR THIRD
+PARTIES OR A FAILURE OF THE PROGRAM TO OPERATE WITH ANY OTHER PROGRAMS),
+EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF
+SUCH DAMAGES.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012416Z" creationid="WynnChen" creationdate="20190404T012416Z">
+        <seg>IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING
+WILL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MODIFIES AND/OR CONVEYS
+THE PROGRAM AS PERMITTED ABOVE, BE LIABLE TO YOU FOR DAMAGES, INCLUDING ANY
+GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE
+USE OR INABILITY TO USE THE PROGRAM (INCLUDING BUT NOT LIMITED TO LOSS OF
+DATA OR DATA BEING RENDERED INACCURATE OR LOSSES SUSTAINED BY YOU OR THIRD
+PARTIES OR A FAILURE OF THE PROGRAM TO OPERATE WITH ANY OTHER PROGRAMS),
+EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF
+SUCH DAMAGES.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21744,6 +22474,30 @@ need not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If conditions are imposed on you (whether by court order, agreement or
+otherwise) that contradict the conditions of this License, they do not
+excuse you from the conditions of this License.  If you cannot convey a
+covered work so as to satisfy simultaneously your obligations under this
+License and any other pertinent obligations, then as a consequence you may
+not convey it at all.  For example, if you agree to terms that obligate you
+to collect a royalty for further conveying from those to whom you convey
+the Program, the only way you could satisfy both those terms and this
+License would be to refrain entirely from conveying the Program.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012414Z" creationid="WynnChen" creationdate="20190404T012414Z">
+        <seg>If conditions are imposed on you (whether by court order, agreement or
+otherwise) that contradict the conditions of this License, they do not
+excuse you from the conditions of this License.  If you cannot convey a
+covered work so as to satisfy simultaneously your obligations under this
+License and any other pertinent obligations, then as a consequence you may
+not convey it at all.  For example, if you agree to terms that obligate you
+to collect a royalty for further conveying from those to whom you convey
+the Program, the only way you could satisfy both those terms and this
+License would be to refrain entirely from conveying the Program.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If every single word in OmegaT is enclosed within tags, it is possible that Word has attempted to spell-check the text without access to a suitable spelling dictionary, and has therefore marked each word as mis-spelt.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="liufang" changedate="20180416T123250Z" creationid="liufang" creationdate="20180416T123250Z">
@@ -22060,6 +22814,20 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the Program specifies that a proxy can decide which future
+versions of the GNU General Public License can be used, that proxy's
+public statement of acceptance of a version permanently authorizes you
+to choose that version for the Program.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012415Z" creationid="WynnChen" creationdate="20190404T012415Z">
+        <seg>If the Program specifies that a proxy can decide which future
+versions of the GNU General Public License can be used, that proxy's
+public statement of acceptance of a version permanently authorizes you
+to choose that version for the Program.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the appropriate filter is found, the file is assigned to it for processing.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120201T112127Z">
@@ -22112,6 +22880,24 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131127T141734Z" creationid="Fu Rhong" creationdate="20131127T141734Z">
         <seg>如果片段的当前译文不适合，则用户可选择&lt;g0&gt;编辑→创建可选译文&lt;/g0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the disclaimer of warranty and limitation of liability provided
+above cannot be given local legal effect according to their terms,
+reviewing courts shall apply local law that most closely approximates
+an absolute waiver of all civil liability in connection with the
+Program, unless a warranty or assumption of liability accompanies a
+copy of the Program in return for a fee.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012416Z" creationid="WynnChen" creationdate="20190404T012416Z">
+        <seg>If the disclaimer of warranty and limitation of liability provided
+above cannot be given local legal effect according to their terms,
+reviewing courts shall apply local law that most closely approximates
+an absolute waiver of all civil liability in connection with the
+Program, unless a warranty or assumption of liability accompanies a
+copy of the Program in return for a fee.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22217,6 +23003,16 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T112022Z" creationid="lenovo" creationdate="20180416T112022Z">
         <seg>如果beforeview.tcl位置的路径包含空格，请将其放在引号中，例如：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the program does terminal interaction, make it output a short
+notice like this when it starts in an interactive mode:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012436Z" creationid="WynnChen" creationdate="20190404T012436Z">
+        <seg>If the program does terminal interaction, make it output a short
+notice like this when it starts in an interactive mode:</seg>
       </tuv>
     </tu>
     <tu>
@@ -22417,6 +23213,20 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120203T124646Z">
         <seg>如果您加上了前缀（例如[模糊]），之后您可以找到这些译文并检查是否正确。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you add terms to a covered work in accord with this section, you
+must place, in the relevant source files, a statement of the
+additional terms that apply to those files, or a notice indicating
+where to find the applicable terms.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012340Z" creationid="WynnChen" creationdate="20190404T012340Z">
+        <seg>If you add terms to a covered work in accord with this section, you
+must place, in the relevant source files, a statement of the
+additional terms that apply to those files, or a notice indicating
+where to find the applicable terms.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22707,6 +23517,76 @@ OmegaT.exe，请修改设置以显示文件扩展名。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131116T123035Z" creationid="Fu Rhong" creationdate="20131116T122813Z">
         <seg>如果您选中了相应的复选框，则会修改OmegaT.l4J.ini文件以使用选择的语言（请参阅下一部分了解详情）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you convey a covered work, knowingly relying on a patent license,
+and the Corresponding Source of the work is not available for anyone
+to copy, free of charge and under the terms of this License, through a
+publicly available network server or other readily accessible means,
+then you must either (1) cause the Corresponding Source to be so
+available, or (2) arrange to deprive yourself of the benefit of the
+patent license for this particular work, or (3) arrange, in a manner
+consistent with the requirements of this License, to extend the patent
+license to downstream recipients.  "Knowingly relying" means you have
+actual knowledge that, but for the patent license, your conveying the
+covered work in a country, or your recipient's use of the covered work
+in a country, would infringe one or more identifiable patents in that
+country that you have reason to believe are valid.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012413Z" creationid="WynnChen" creationdate="20190404T012413Z">
+        <seg>If you convey a covered work, knowingly relying on a patent license,
+and the Corresponding Source of the work is not available for anyone
+to copy, free of charge and under the terms of this License, through a
+publicly available network server or other readily accessible means,
+then you must either (1) cause the Corresponding Source to be so
+available, or (2) arrange to deprive yourself of the benefit of the
+patent license for this particular work, or (3) arrange, in a manner
+consistent with the requirements of this License, to extend the patent
+license to downstream recipients.  "Knowingly relying" means you have
+actual knowledge that, but for the patent license, your conveying the
+covered work in a country, or your recipient's use of the covered work
+in a country, would infringe one or more identifiable patents in that
+country that you have reason to believe are valid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you convey an object code work under this section in, or with, or
+specifically for use in, a User Product, and the conveying occurs as
+part of a transaction in which the right of possession and use of the
+User Product is transferred to the recipient in perpetuity or for a
+fixed term (regardless of how the transaction is characterized), the
+Corresponding Source conveyed under this section must be accompanied
+by the Installation Information.  But this requirement does not apply
+if neither you nor any third party retains the ability to install
+modified object code on the User Product (for example, the work has
+been installed in ROM).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012336Z" creationid="WynnChen" creationdate="20190404T012336Z">
+        <seg>If you convey an object code work under this section in, or with, or
+specifically for use in, a User Product, and the conveying occurs as
+part of a transaction in which the right of possession and use of the
+User Product is transferred to the recipient in perpetuity or for a
+fixed term (regardless of how the transaction is characterized), the
+Corresponding Source conveyed under this section must be accompanied
+by the Installation Information.  But this requirement does not apply
+if neither you nor any third party retains the ability to install
+modified object code on the User Product (for example, the work has
+been installed in ROM).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you develop a new program, and you want it to be of the greatest
+possible use to the public, the best way to achieve this is to make it
+free software which everyone can redistribute and change under these terms.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012417Z" creationid="WynnChen" creationdate="20190404T012417Z">
+        <seg>If you develop a new program, and you want it to be of the greatest
+possible use to the public, the best way to achieve this is to make it
+free software which everyone can redistribute and change under these terms.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23294,6 +24174,26 @@ click on that shortcut.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120217T122542Z">
         <seg>如果出于某种原因，您必须不时地重复该操作，将这些文件复制到其它目录并为 OmegaT 保留它们是非常有意义的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If, pursuant to or in connection with a single transaction or
+arrangement, you convey, or propagate by procuring conveyance of, a
+covered work, and grant a patent license to some of the parties
+receiving the covered work authorizing them to use, propagate, modify
+or convey a specific copy of the covered work, then the patent license
+you grant is automatically extended to all recipients of the covered
+work and works based on it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012413Z" creationid="WynnChen" creationdate="20190404T012413Z">
+        <seg>If, pursuant to or in connection with a single transaction or
+arrangement, you convey, or propagate by procuring conveyance of, a
+covered work, and grant a patent license to some of the parties
+receiving the covered work authorizing them to use, propagate, modify
+or convey a specific copy of the covered work, then the patent license
+you grant is automatically extended to all recipients of the covered
+work and works based on it.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24179,6 +25079,24 @@ Reopen the project now?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131114T074330Z" creationid="Fu Rhong" creationdate="20131114T074330Z">
         <seg>下面的例子中&lt;f0&gt;my projects&lt;/f0&gt;文件夹包含三个OmegaT项目：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the following three paragraphs, a "patent license" is any express
+agreement or commitment, however denominated, not to enforce a patent
+(such as an express permission to practice a patent or covenant not to
+sue for patent infringement).  To "grant" such a patent license to a
+party means to make such an agreement or commitment not to enforce a
+patent against the party.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012412Z" creationid="WynnChen" creationdate="20190404T012412Z">
+        <seg>In the following three paragraphs, a "patent license" is any express
+agreement or commitment, however denominated, not to enforce a patent
+(such as an express permission to practice a patent or covenant not to
+sue for patent infringement).  To "grant" such a patent license to a
+party means to make such an agreement or commitment not to enforce a
+patent against the party.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26850,6 +27768,20 @@ itself on the first run. Later calls do not need to be online.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Later license versions may give you additional or different
+permissions.  However, no additional obligations are imposed on any
+author or copyright holder as a result of your choosing to follow a
+later version.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012415Z" creationid="WynnChen" creationdate="20190404T012415Z">
+        <seg>Later license versions may give you additional or different
+permissions.  However, no additional obligations are imposed on any
+author or copyright holder as a result of your choosing to follow a
+later version.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Later, after you have accepted the license agreement, the setup program asks you whether you wish to create a folder in the &lt;e0&gt;start&lt;/e0&gt; menu, and whether you wish to create a shortcut on the desktop and in the quick launch bar - you can create these shortcuts later by dragging &lt;e1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt;.exe&lt;/e1&gt; to the desktop or to the start menu to link it from there.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131116T123327Z" creationid="Fu Rhong" creationdate="20131116T123327Z">
@@ -29029,6 +29961,24 @@ itself on the first run. Later calls do not need to be online.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Moreover, your license from a particular copyright holder is
+reinstated permanently if the copyright holder notifies you of the
+violation by some reasonable means, this is the first time you have
+received notice of violation of this License (for any work) from that
+copyright holder, and you cure the violation prior to 30 days after
+your receipt of the notice.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012342Z" creationid="WynnChen" creationdate="20190404T012342Z">
+        <seg>Moreover, your license from a particular copyright holder is
+reinstated permanently if the copyright holder notifies you of the
+violation by some reasonable means, this is the first time you have
+received notice of violation of this License (for any work) from that
+copyright holder, and you cure the violation prior to 30 days after
+your receipt of the notice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Moses</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190323T121526Z" creationid="wynnc" creationdate="20190323T121526Z">
@@ -29789,6 +30739,22 @@ appropriate location such as the Applications folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190323T133725Z" creationid="wynnc" creationdate="20190320T045507Z">
         <seg>没有可用连接，项目处于离线模式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No covered work shall be deemed part of an effective technological
+measure under any applicable law fulfilling obligations under article
+11 of the WIPO copyright treaty adopted on 20 December 1996, or
+similar laws prohibiting or restricting circumvention of such
+measures.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012330Z" creationid="WynnChen" creationdate="20190404T012330Z">
+        <seg>No covered work shall be deemed part of an effective technological
+measure under any applicable law fulfilling obligations under article
+11 of the WIPO copyright treaty adopted on 20 December 1996, or
+similar laws prohibiting or restricting circumvention of such
+measures.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30640,6 +31606,18 @@ Thus, for example, rules for Canadian French (FR-CA) should be higher than rules
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Nothing in this License shall be construed as excluding or limiting
+any implied license or other defenses to infringement that may
+otherwise be available to you under applicable patent law.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012414Z" creationid="WynnChen" creationdate="20190404T012414Z">
+        <seg>Nothing in this License shall be construed as excluding or limiting
+any implied license or other defenses to infringement that may
+otherwise be available to you under applicable patent law.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Nothing speaks against using Notepad++ on Windows, GEdit on Linux for instance or some spreadsheet program for this purpose: any application, that can handle UTF-8 (or UTF-16 LE) and that can show white space (so that you do not miss the required &lt;k1&gt;TAB&lt;/k1&gt; characters) can be used.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="17012" changedate="20180405T025711Z" creationid="17012" creationdate="20180405T025711Z">
@@ -30740,6 +31718,40 @@ Thus, for example, rules for Canadian French (FR-CA) should be higher than rules
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190323T105537Z" creationid="wynnc" creationdate="20190323T105526Z">
         <seg>片段有备注时通知我</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Notwithstanding any other provision of this License, for material you
+add to a covered work, you may (if authorized by the copyright holders of
+that material) supplement the terms of this License with terms:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012338Z" creationid="WynnChen" creationdate="20190404T012338Z">
+        <seg>Notwithstanding any other provision of this License, for material you
+add to a covered work, you may (if authorized by the copyright holders of
+that material) supplement the terms of this License with terms:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Notwithstanding any other provision of this License, you have
+permission to link or combine any covered work with a work licensed
+under version 3 of the GNU Affero General Public License into a single
+combined work, and to convey the resulting work.  The terms of this
+License will continue to apply to the part which is the covered work,
+but the special requirements of the GNU Affero General Public License,
+section 13, concerning interaction through a network will apply to the
+combination as such.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012415Z" creationid="WynnChen" creationdate="20190404T012415Z">
+        <seg>Notwithstanding any other provision of this License, you have
+permission to link or combine any covered work with a work licensed
+under version 3 of the GNU Affero General Public License into a single
+combined work, and to convey the resulting work.  The terms of this
+License will continue to apply to the part which is the covered work,
+but the special requirements of the GNU Affero General Public License,
+section 13, concerning interaction through a network will apply to the
+combination as such.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31458,8 +32470,8 @@ project without team functionality. (You will still able to use OmegaT
       <tuv lang="EN">
         <seg>OmegaT highlights</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130911T123204Z">
-        <seg>OmegaT 特色</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012612Z">
+        <seg>OmegaT 亮点</seg>
       </tuv>
     </tu>
     <tu>
@@ -32133,8 +33145,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>OmegaT uses the standard tmx file format to store and access translation memories, which guarantees that you can exchange your translation material with other CAT applications supporting this file format.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yujun Yin" changedate="20131007T074716Z" creationid="Yujun Yin" creationdate="20131007T074716Z">
-        <seg>OmegaT 使用标准 TMX 文件格式存储和访问译法记忆，保证您同其他支持 TMX 文件格式的 CAT 工具进行译法记忆交互。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T013811Z" creationid="Yujun Yin" creationdate="20131007T074716Z">
+        <seg>OmegaT 使用标准 TMX 文件格式存储和存取翻译记忆库，这确保了您可以将翻译材料与其他支持此文件格式的 CAT 工具进行交换。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34396,6 +35408,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Andrew" changedate="20180414T155236Z" creationid="weiyi" creationdate="20180406T065840Z">
         <seg>预定义主题可用脚本设置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Preamble</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012321Z" creationid="WynnChen" creationdate="20190404T012321Z">
+        <seg>Preamble</seg>
       </tuv>
     </tu>
     <tu>
@@ -39483,6 +40503,32 @@ When using regular expressions, the replacement string supports references to gr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Some devices are designed to deny users access to install or run
+modified versions of the software inside them, although the manufacturer
+can do so.  This is fundamentally incompatible with the aim of
+protecting users' freedom to change the software.  The systematic
+pattern of such abuse occurs in the area of products for individuals to
+use, which is precisely where it is most unacceptable.  Therefore, we
+have designed this version of the GPL to prohibit the practice for those
+products.  If such problems arise substantially in other domains, we
+stand ready to extend this provision to those domains in future versions
+of the GPL, as needed to protect the freedom of users.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012322Z" creationid="WynnChen" creationdate="20190404T012322Z">
+        <seg>Some devices are designed to deny users access to install or run
+modified versions of the software inside them, although the manufacturer
+can do so.  This is fundamentally incompatible with the aim of
+protecting users' freedom to change the software.  The systematic
+pattern of such abuse occurs in the area of products for individuals to
+use, which is precisely where it is most unacceptable.  Therefore, we
+have designed this version of the GPL to prohibit the practice for those
+products.  If such problems arise substantially in other domains, we
+stand ready to extend this provision to those domains in future versions
+of the GPL, as needed to protect the freedom of users.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Some inconvenient line breaks may be required for correct positioning of the text.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="think" changedate="20180416T065544Z" creationid="think" creationdate="20180416T065544Z">
@@ -40536,8 +41582,8 @@ When using regular expressions, the replacement string supports references to gr
       <tuv lang="EN">
         <seg>Summary of chapters</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yujun Yin" changedate="20131007T080239Z" creationid="Yujun Yin" creationdate="20131007T080239Z">
-        <seg>章节摘要</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T015353Z" creationid="Yujun Yin" creationdate="20131007T080239Z">
+        <seg>各章节概要</seg>
       </tuv>
     </tu>
     <tu>
@@ -40722,6 +41768,36 @@ When using regular expressions, the replacement string supports references to gr
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131116T120432Z" creationid="Fu Rhong" creationdate="20131116T120432Z">
         <seg>TBX（Term Base eXchange）是用于交换结构化术语数据的基于 XML 的开放标准，已经被LISA和ISO批准为国际标准。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TERMS AND CONDITIONS</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012326Z" creationid="WynnChen" creationdate="20190404T012326Z">
+        <seg>TERMS AND CONDITIONS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>THERE IS NO WARRANTY FOR THE PROGRAM, TO THE EXTENT PERMITTED BY
+APPLICABLE LAW.  EXCEPT WHEN OTHERWISE STATED IN WRITING THE COPYRIGHT
+HOLDERS AND/OR OTHER PARTIES PROVIDE THE PROGRAM "AS IS" WITHOUT WARRANTY
+OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO,
+THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR
+PURPOSE.  THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE PROGRAM
+IS WITH YOU.  SHOULD THE PROGRAM PROVE DEFECTIVE, YOU ASSUME THE COST OF
+ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012416Z" creationid="WynnChen" creationdate="20190404T012416Z">
+        <seg>THERE IS NO WARRANTY FOR THE PROGRAM, TO THE EXTENT PERMITTED BY
+APPLICABLE LAW.  EXCEPT WHEN OTHERWISE STATED IN WRITING THE COPYRIGHT
+HOLDERS AND/OR OTHER PARTIES PROVIDE THE PROGRAM "AS IS" WITHOUT WARRANTY
+OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO,
+THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR
+PURPOSE.  THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE PROGRAM
+IS WITH YOU.  SHOULD THE PROGRAM PROVE DEFECTIVE, YOU ASSUME THE COST OF
+ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41478,6 +42554,22 @@ When using regular expressions, the replacement string supports references to gr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Termination of your rights under this section does not terminate the
+licenses of parties who have received copies or rights from you under
+this License.  If your rights have been terminated and not permanently
+reinstated, you do not qualify to receive new licenses for the same
+material under section 10.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012342Z" creationid="WynnChen" creationdate="20190404T012342Z">
+        <seg>Termination of your rights under this section does not terminate the
+licenses of parties who have received copies or rights from you under
+this License.  If your rights have been terminated and not permanently
+reinstated, you do not qualify to receive new licenses for the same
+material under section 10.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Terminology</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190323T165030Z" creationid="wynnc" creationdate="20190323T165030Z">
@@ -41729,6 +42821,36 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The "Corresponding Source" for a work in object code form means all
+the source code needed to generate, install, and (for an executable
+work) run the object code and to modify the work, including scripts to
+control those activities.  However, it does not include the work's
+System Libraries, or general-purpose tools or generally available free
+programs which are used unmodified in performing those activities but
+which are not part of the work.  For example, Corresponding Source
+includes interface definition files associated with source files for
+the work, and the source code for shared libraries and dynamically
+linked subprograms that the work is specifically designed to require,
+such as by intimate data communication or control flow between those
+subprograms and other parts of the work.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012329Z" creationid="WynnChen" creationdate="20190404T012329Z">
+        <seg>The "Corresponding Source" for a work in object code form means all
+the source code needed to generate, install, and (for an executable
+work) run the object code and to modify the work, including scripts to
+control those activities.  However, it does not include the work's
+System Libraries, or general-purpose tools or generally available free
+programs which are used unmodified in performing those activities but
+which are not part of the work.  For example, Corresponding Source
+includes interface definition files associated with source files for
+the work, and the source code for shared libraries and dynamically
+linked subprograms that the work is specifically designed to require,
+such as by intimate data communication or control flow between those
+subprograms and other parts of the work.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The "Latest" version is recommended.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="think" changedate="20180416T084046Z" creationid="think" creationdate="20180416T084046Z">
@@ -41777,6 +42899,32 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The "System Libraries" of an executable work include anything, other
+than the work as a whole, that (a) is included in the normal form of
+packaging a Major Component, but which is not part of that Major
+Component, and (b) serves only to enable use of the work with that
+Major Component, or to implement a Standard Interface for which an
+implementation is available to the public in source code form.  A
+"Major Component", in this context, means a major essential component
+(kernel, window system, and so on) of the specific operating system
+(if any) on which the executable work runs, or a compiler used to
+produce the work, or an object code interpreter used to run it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012328Z" creationid="WynnChen" creationdate="20190404T012328Z">
+        <seg>The "System Libraries" of an executable work include anything, other
+than the work as a whole, that (a) is included in the normal form of
+packaging a Major Component, but which is not part of that Major
+Component, and (b) serves only to enable use of the work with that
+Major Component, or to implement a Standard Interface for which an
+implementation is available to the public in source code form.  A
+"Major Component", in this context, means a major essential component
+(kernel, window system, and so on) of the specific operating system
+(if any) on which the executable work runs, or a compiler used to
+produce the work, or an object code interpreter used to run it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The "batteries included" version of OmegaT, with its own Java Runtime Environment.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T132914Z" creationid="Zenobia Fang" creationdate="20180423T132914Z">
@@ -41805,6 +42953,18 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T123842Z" creationid="Wyndy" creationdate="20180418T123808Z">
         <seg>而“准备就绪”的文件通常是该工具的双语文件格式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The "source code" for a work means the preferred form of the work
+for making modifications to it.  "Object code" means any non-source
+form of a work.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012328Z" creationid="WynnChen" creationdate="20190404T012328Z">
+        <seg>The "source code" for a work means the preferred form of the work
+for making modifications to it.  "Object code" means any non-source
+form of a work.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42034,6 +43194,28 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Corresponding Source for a work in source code form is that
+same work.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012329Z" creationid="WynnChen" creationdate="20190404T012329Z">
+        <seg>The Corresponding Source for a work in source code form is that
+same work.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Corresponding Source need not include anything that users
+can regenerate automatically from other parts of the Corresponding
+Source.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012329Z" creationid="WynnChen" creationdate="20190404T012329Z">
+        <seg>The Corresponding Source need not include anything that users
+can regenerate automatically from other parts of the Corresponding
+Source.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Déjà Vu "External View" file format is a feature of Déjà Vu DVX.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T120619Z" creationid="lenovo" creationdate="20180416T120619Z">
@@ -42066,10 +43248,52 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Free Software Foundation may publish revised and/or new versions of
+the GNU General Public License from time to time.  Such new versions will
+be similar in spirit to the present version, but may differ in detail to
+address new problems or concerns.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012415Z" creationid="WynnChen" creationdate="20190404T012415Z">
+        <seg>The Free Software Foundation may publish revised and/or new versions of
+the GNU General Public License from time to time.  Such new versions will
+be similar in spirit to the present version, but may differ in detail to
+address new problems or concerns.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The GNU GENERAL PUBLIC LICENSE.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120202T070400Z">
         <seg>GNU 通用公共许可证。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The GNU General Public License does not permit incorporating your program
+into proprietary programs.  If your program is a subroutine library, you
+may consider it more useful to permit linking proprietary applications with
+the library.  If this is what you want to do, use the GNU Lesser General
+Public License instead of this License.  But first, please read
+&lt;http://www.gnu.org/philosophy/why-not-lgpl.html&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012446Z" creationid="WynnChen" creationdate="20190404T012446Z">
+        <seg>The GNU General Public License does not permit incorporating your program
+into proprietary programs.  If your program is a subroutine library, you
+may consider it more useful to permit linking proprietary applications with
+the library.  If this is what you want to do, use the GNU Lesser General
+Public License instead of this License.  But first, please read
+&lt;http://www.gnu.org/philosophy/why-not-lgpl.html&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The GNU General Public License is a free, copyleft license for
+software and other kinds of works.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012321Z" creationid="WynnChen" creationdate="20190404T012321Z">
+        <seg>The GNU General Public License is a free, copyleft license for
+software and other kinds of works.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43758,6 +44982,18 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The hypothetical commands `show w' and `show c' should show the appropriate
+parts of the General Public License.  Of course, your program's commands
+might be different; for a GUI interface, you would use an "about box".</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012438Z" creationid="WynnChen" creationdate="20190404T012438Z">
+        <seg>The hypothetical commands `show w' and `show c' should show the appropriate
+parts of the General Public License.  Of course, your program's commands
+might be different; for a GUI interface, you would use an "about box".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The in-line formatting information made possible by the supported formats (in particular DocBook, HTML, XHTML, Open Document Format(ODF) and Office Open XML (MS Office 2007 and later) at the time of writing) is presented as tags in OmegaT.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131116T075547Z" creationid="Fu Rhong" creationdate="20131116T075547Z">
@@ -43940,6 +45176,28 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190325T163655Z" creationid="WynnChen" creationdate="20190325T163436Z">
         <seg>各个库的许可证在此处提及：
 /lib/licenses/Licenses.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The licenses for most software and other practical works are designed
+to take away your freedom to share and change the works.  By contrast,
+the GNU General Public License is intended to guarantee your freedom to
+share and change all versions of a program--to make sure it remains free
+software for all its users.  We, the Free Software Foundation, use the
+GNU General Public License for most of our software; it applies also to
+any other work released this way by its authors.  You can apply it to
+your programs, too.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012321Z" creationid="WynnChen" creationdate="20190404T012321Z">
+        <seg>The licenses for most software and other practical works are designed
+to take away your freedom to share and change the works.  By contrast,
+the GNU General Public License is intended to guarantee your freedom to
+share and change all versions of a program--to make sure it remains free
+software for all its users.  We, the Free Software Foundation, use the
+GNU General Public License for most of our software; it applies also to
+any other work released this way by its authors.  You can apply it to
+your programs, too.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44448,6 +45706,16 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The precise terms and conditions for copying, distribution and
+modification follow.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012323Z" creationid="WynnChen" creationdate="20190404T012323Z">
+        <seg>The precise terms and conditions for copying, distribution and
+modification follow.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The predefined break rules should be sufficient for most European languages and Japanese.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
@@ -44681,6 +45949,26 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131111T114406Z" creationid="Fu Rhong" creationdate="20131111T114406Z">
         <seg>此时版本库是空的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The requirement to provide Installation Information does not include a
+requirement to continue to provide support service, warranty, or updates
+for a work that has been modified or installed by the recipient, or for
+the User Product in which it has been modified or installed.  Access to a
+network may be denied when the modification itself materially and
+adversely affects the operation of the network or violates the rules and
+protocols for communication across the network.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012336Z" creationid="WynnChen" creationdate="20190404T012336Z">
+        <seg>The requirement to provide Installation Information does not include a
+requirement to continue to provide support service, warranty, or updates
+for a work that has been modified or installed by the recipient, or for
+the User Product in which it has been modified or installed.  Access to a
+network may be denied when the modification itself materially and
+adversely affects the operation of the network or violates the rules and
+protocols for communication across the network.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46123,8 +47411,8 @@ configuration folder cannot be reliably determined.</seg>
       <tuv lang="EN">
         <seg>These translation memories can be very useful when a document that has already been translated needs to be updated. Unchanged sentences are automatically translated, while updated sentences are shown with the translation of the most similar, older sentence. Modifications to the original document are thus handled with greater ease. If you are supplied with previously created translation memories , for example by your translation agency or your client, OmegaT is able to use these as reference memories.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T163042Z" creationid="WynnChen" creationdate="20190326T163042Z">
-        <seg>如果您需要对已译文档进行更新，这些译法记忆可以有效提高效率。文本中未发生变化的句子会进行自动翻译，而更新后的句子则会提供最相似的原有句段的译文以供参考。这样，您可以轻松处理原文档中更新变化后的部分。如果您手头有事先创建好的译法记忆文件，比如说是翻译公司或客户提供给您的译法记忆，OmegaT 也可以使用这些文件作为翻译参考。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T013624Z" creationid="WynnChen" creationdate="20190326T163042Z">
+        <seg>当已翻译的文档需要更新时，这些这些翻译记忆库会非常有用。未发生变化的句子会自动完成翻译，而更新过的句子则会提供最相似的旧有句子的翻译作为参考。因此，对原始文档的修改进行处理变得更加容易。如果您手头有过往创建的翻译记忆库，比如说由您的翻译机构或客户所提供，OmegaT 也把它们作为参考记忆库使用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46696,6 +47984,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yujun Yin" changedate="20131007T080322Z" creationid="Yujun Yin" creationdate="20131007T080322Z">
         <seg>本文档为 OmegaT 的简易教程和参考指南。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This documentation is intended both as a tutorial and as a reference guide. Here is a short summary of the chapters and their contents.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T015430Z" creationid="WynnChen" creationdate="20190404T015430Z">
+        <seg>本文档既可作为教程，也可作为参考指南。以下是各章节及其内容的简短概要。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47420,11 +48716,39 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012434Z" creationid="WynnChen" creationdate="20190404T012434Z">
+        <seg>This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190323T054410Z" creationid="wynnc" creationdate="20190323T054202Z">
         <seg>本程序怀揣有所帮助之期望而发布，但不提供任何保证；亦不对适销性或特定用途适用性的提供任何暗示性保证。
 This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012434Z" creationid="WynnChen" creationdate="20190404T012434Z">
+        <seg>This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47756,6 +49080,50 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To "convey" a work means any kind of propagation that enables other
+parties to make or receive copies.  Mere interaction with a user through
+a computer network, with no transfer of a copy, is not conveying.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012328Z" creationid="WynnChen" creationdate="20190404T012328Z">
+        <seg>To "convey" a work means any kind of propagation that enables other
+parties to make or receive copies.  Mere interaction with a user through
+a computer network, with no transfer of a copy, is not conveying.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To "modify" a work means to copy from or adapt all or part of the work
+in a fashion requiring copyright permission, other than the making of an
+exact copy.  The resulting work is called a "modified version" of the
+earlier work or a work "based on" the earlier work.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012327Z" creationid="WynnChen" creationdate="20190404T012327Z">
+        <seg>To "modify" a work means to copy from or adapt all or part of the work
+in a fashion requiring copyright permission, other than the making of an
+exact copy.  The resulting work is called a "modified version" of the
+earlier work or a work "based on" the earlier work.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To "propagate" a work means to do anything with it that, without
+permission, would make you directly or secondarily liable for
+infringement under applicable copyright law, except executing it on a
+computer or modifying a private copy.  Propagation includes copying,
+distribution (with or without modification), making available to the
+public, and in some countries other activities as well.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012328Z" creationid="WynnChen" creationdate="20190404T012328Z">
+        <seg>To "propagate" a work means to do anything with it that, without
+permission, would make you directly or secondarily liable for
+infringement under applicable copyright law, except executing it on a
+computer or modifying a private copy.  Propagation includes copying,
+distribution (with or without modification), making available to the
+public, and in some countries other activities as well.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To access &lt;a0&gt;&lt;e1&gt;Configuration.properties&lt;/e1&gt;&lt;/a0&gt;, right-click on &lt;e2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt;.app&lt;/e2&gt; and select "Show Package Contents", then open the file in Contents/Resources by right-clicking on it and selecting your text editor of choice.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="17012" changedate="20180405T103207Z" creationid="17012" creationdate="20180405T103027Z">
@@ -48018,6 +49386,20 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120208T051745Z">
         <seg>要使用期望的语言显示即时入门指南，您必须同时指定语言和国家。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To do so, attach the following notices to the program.  It is safest
+to attach them to the start of each source file to most effectively
+state the exclusion of warranty; and each file should have at least
+the "copyright" line and a pointer to where the full notice is found.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012418Z" creationid="WynnChen" creationdate="20190404T012418Z">
+        <seg>To do so, attach the following notices to the program.  It is safest
+to attach them to the start of each source file to most effectively
+state the exclusion of warranty; and each file should have at least
+the "copyright" line and a pointer to where the full notice is found.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48323,6 +49705,20 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
       </tuv>
       <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T134048Z" creationid="Zoe" creationdate="20180411T121526Z">
         <seg>要产生不同于“默认译文”的翻译，在片段中右击鼠标，选择“创建可选翻译”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To protect your rights, we need to prevent others from denying you
+these rights or asking you to surrender the rights.  Therefore, you have
+certain responsibilities if you distribute copies of the software, or if
+you modify it: responsibilities to respect the freedom of others.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012322Z" creationid="WynnChen" creationdate="20190404T012322Z">
+        <seg>To protect your rights, we need to prevent others from denying you
+these rights or asking you to surrender the rights.  Therefore, you have
+certain responsibilities if you distribute copies of the software, or if
+you modify it: responsibilities to respect the freedom of others.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51972,6 +53368,24 @@ trouble of selecting, obtaining and installing it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When we speak of free software, we are referring to freedom, not
+price.  Our General Public Licenses are designed to make sure that you
+have the freedom to distribute copies of free software (and charge for
+them if you wish), that you receive source code or can get it if you
+want it, that you can change the software or use pieces of it in new
+free programs, and that you know you can do these things.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012321Z" creationid="WynnChen" creationdate="20190404T012321Z">
+        <seg>When we speak of free software, we are referring to freedom, not
+price.  Our General Public Licenses are designed to make sure that you
+have the freedom to distribute copies of free software (and charge for
+them if you wish), that you receive source code or can get it if you
+want it, that you can change the software or use pieces of it in new
+free programs, and that you know you can do these things.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When writing purely RTL text, the default (LTR) view may be used.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120202T125248Z">
@@ -51992,6 +53406,44 @@ trouble of selecting, obtaining and installing it.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120218T065243Z">
         <seg>当您为同一主题或者客户启动一个新项目时，在&lt;g0&gt;项目 &gt; 属性 &gt; 编辑项目&lt;/g0&gt;对话框找到该仓库文件夹，将其选中为翻译记忆文件夹。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you convey a copy of a covered work, you may at your option
+remove any additional permissions from that copy, or from any part of
+it.  (Additional permissions may be written to require their own
+removal in certain cases when you modify the work.)  You may place
+additional permissions on material, added by you to a covered work,
+for which you have or can give appropriate copyright permission.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012338Z" creationid="WynnChen" creationdate="20190404T012338Z">
+        <seg>When you convey a copy of a covered work, you may at your option
+remove any additional permissions from that copy, or from any part of
+it.  (Additional permissions may be written to require their own
+removal in certain cases when you modify the work.)  You may place
+additional permissions on material, added by you to a covered work,
+for which you have or can give appropriate copyright permission.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you convey a covered work, you waive any legal power to forbid
+circumvention of technological measures to the extent such circumvention
+is effected by exercising rights under this License with respect to
+the covered work, and you disclaim any intention to limit operation or
+modification of the work as a means of enforcing, against the work's
+users, your or third parties' legal rights to forbid circumvention of
+technological measures.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012330Z" creationid="WynnChen" creationdate="20190404T012330Z">
+        <seg>When you convey a covered work, you waive any legal power to forbid
+circumvention of technological measures to the extent such circumvention
+is effected by exercising rights under this License with respect to
+the covered work, and you disclaim any intention to limit operation or
+modification of the work as a means of enforcing, against the work's
+users, your or third parties' legal rights to forbid circumvention of
+technological measures.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52992,6 +54444,28 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You are not required to accept this License in order to receive or
+run a copy of the Program.  Ancillary propagation of a covered work
+occurring solely as a consequence of using peer-to-peer transmission
+to receive a copy likewise does not require acceptance.  However,
+nothing other than this License grants you permission to propagate or
+modify any covered work.  These actions infringe copyright if you do
+not accept this License.  Therefore, by modifying or propagating a
+covered work, you indicate your acceptance of this License to do so.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012343Z" creationid="WynnChen" creationdate="20190404T012343Z">
+        <seg>You are not required to accept this License in order to receive or
+run a copy of the Program.  Ancillary propagation of a covered work
+occurring solely as a consequence of using peer-to-peer transmission
+to receive a copy likewise does not require acceptance.  However,
+nothing other than this License grants you permission to propagate or
+modify any covered work.  These actions infringe copyright if you do
+not accept this License.  Therefore, by modifying or propagating a
+covered work, you indicate your acceptance of this License to do so.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You are running OmegaT version {0}.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T121645Z" creationid="xulihang" creationdate="20180408T121645Z">
@@ -53809,6 +55283,62 @@ linux-install.sh 脚本的文件夹，然后用 ./linux-install.sh 执行脚本�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You may charge any price or no price for each copy that you convey,
+and you may offer support or warranty protection for a fee.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012330Z" creationid="WynnChen" creationdate="20190404T012330Z">
+        <seg>You may charge any price or no price for each copy that you convey,
+and you may offer support or warranty protection for a fee.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may convey a covered work in object code form under the terms
+of sections 4 and 5, provided that you also convey the
+machine-readable Corresponding Source under the terms of this License,
+in one of these ways:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012333Z" creationid="WynnChen" creationdate="20190404T012333Z">
+        <seg>You may convey a covered work in object code form under the terms
+of sections 4 and 5, provided that you also convey the
+machine-readable Corresponding Source under the terms of this License,
+in one of these ways:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may convey a work based on the Program, or the modifications to
+produce it from the Program, in the form of source code under the
+terms of section 4, provided that you also meet all of these conditions:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012331Z" creationid="WynnChen" creationdate="20190404T012331Z">
+        <seg>You may convey a work based on the Program, or the modifications to
+produce it from the Program, in the form of source code under the
+terms of section 4, provided that you also meet all of these conditions:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may convey verbatim copies of the Program's source code as you
+receive it, in any medium, provided that you conspicuously and
+appropriately publish on each copy an appropriate copyright notice;
+keep intact all notices stating that this License and any
+non-permissive terms added in accord with section 7 apply to the code;
+keep intact all notices of the absence of any warranty; and give all
+recipients a copy of this License along with the Program.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012330Z" creationid="WynnChen" creationdate="20190404T012330Z">
+        <seg>You may convey verbatim copies of the Program's source code as you
+receive it, in any medium, provided that you conspicuously and
+appropriately publish on each copy an appropriate copyright notice;
+keep intact all notices stating that this License and any
+non-permissive terms added in accord with section 7 apply to the code;
+keep intact all notices of the absence of any warranty; and give all
+recipients a copy of this License along with the Program.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You may drag the OmegaT application to your dock or to the tool bar of a
 Finder window to be able to launch it from any location.</seg>
       </tuv>
@@ -53866,6 +55396,68 @@ it from the Spotlight search field.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180420T022006Z" creationid="liufang" creationdate="20180416T121657Z">
         <seg>您可能必须将您的&lt;c0&gt; JAVA_HOME &lt;/c0&gt;环境变量设置为指向JDK的位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may make, run and propagate covered works that you do not
+convey, without conditions so long as your license otherwise remains
+in force.  You may convey covered works to others for the sole purpose
+of having them make modifications exclusively for you, or provide you
+with facilities for running those works, provided that you comply with
+the terms of this License in conveying all material for which you do
+not control copyright.  Those thus making or running the covered works
+for you must do so exclusively on your behalf, under your direction
+and control, on terms that prohibit them from making any copies of
+your copyrighted material outside their relationship with you.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012329Z" creationid="WynnChen" creationdate="20190404T012329Z">
+        <seg>You may make, run and propagate covered works that you do not
+convey, without conditions so long as your license otherwise remains
+in force.  You may convey covered works to others for the sole purpose
+of having them make modifications exclusively for you, or provide you
+with facilities for running those works, provided that you comply with
+the terms of this License in conveying all material for which you do
+not control copyright.  Those thus making or running the covered works
+for you must do so exclusively on your behalf, under your direction
+and control, on terms that prohibit them from making any copies of
+your copyrighted material outside their relationship with you.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may not impose any further restrictions on the exercise of the
+rights granted or affirmed under this License.  For example, you may
+not impose a license fee, royalty, or other charge for exercise of
+rights granted under this License, and you may not initiate litigation
+(including a cross-claim or counterclaim in a lawsuit) alleging that
+any patent claim is infringed by making, using, selling, offering for
+sale, or importing the Program or any portion of it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012344Z" creationid="WynnChen" creationdate="20190404T012344Z">
+        <seg>You may not impose any further restrictions on the exercise of the
+rights granted or affirmed under this License.  For example, you may
+not impose a license fee, royalty, or other charge for exercise of
+rights granted under this License, and you may not initiate litigation
+(including a cross-claim or counterclaim in a lawsuit) alleging that
+any patent claim is infringed by making, using, selling, offering for
+sale, or importing the Program or any portion of it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may not propagate or modify a covered work except as expressly
+provided under this License.  Any attempt otherwise to propagate or
+modify it is void, and will automatically terminate your rights under
+this License (including any patent licenses granted under the third
+paragraph of section 11).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012341Z" creationid="WynnChen" creationdate="20190404T012341Z">
+        <seg>You may not propagate or modify a covered work except as expressly
+provided under this License.  Any attempt otherwise to propagate or
+modify it is void, and will automatically terminate your rights under
+this License (including any patent licenses granted under the third
+paragraph of section 11).</seg>
       </tuv>
     </tu>
     <tu>
@@ -53938,6 +55530,30 @@ it from the Spotlight search field.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131112T114341Z" creationid="Fu Rhong" creationdate="20131112T114341Z">
         <seg>您应该将文件的副本、部分日志、屏幕截图以及其他任何可以帮助开发人员找到并处理您所遇到的Bug的内容添加到报告中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You should also get your employer (if you work as a programmer) or school,
+if any, to sign a "copyright disclaimer" for the program, if necessary.
+For more information on this, and how to apply and follow the GNU GPL, see
+&lt;http://www.gnu.org/licenses/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012440Z" creationid="WynnChen" creationdate="20190404T012440Z">
+        <seg>You should also get your employer (if you work as a programmer) or school,
+if any, to sign a "copyright disclaimer" for the program, if necessary.
+For more information on this, and how to apply and follow the GNU GPL, see
+&lt;http://www.gnu.org/licenses/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You should have received a copy of the GNU General Public License
+    along with this program.  If not, see &lt;http://www.gnu.org/licenses/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012435Z" creationid="WynnChen" creationdate="20190404T012435Z">
+        <seg>You should have received a copy of the GNU General Public License
+    along with this program.  If not, see &lt;http://www.gnu.org/licenses/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54586,6 +56202,40 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>a) Convey the object code in, or embodied in, a physical product
+    (including a physical distribution medium), accompanied by the
+    Corresponding Source fixed on a durable physical medium
+    customarily used for software interchange.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012333Z" creationid="WynnChen" creationdate="20190404T012333Z">
+        <seg>a) Convey the object code in, or embodied in, a physical product
+    (including a physical distribution medium), accompanied by the
+    Corresponding Source fixed on a durable physical medium
+    customarily used for software interchange.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>a) Disclaiming warranty or limiting liability differently from the
+    terms of sections 15 and 16 of this License; or</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012339Z" creationid="WynnChen" creationdate="20190404T012339Z">
+        <seg>a) Disclaiming warranty or limiting liability differently from the
+    terms of sections 15 and 16 of this License; or</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>a) The work must carry prominent notices stating that you modified
+    it, and giving a relevant date.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012331Z" creationid="WynnChen" creationdate="20190404T012331Z">
+        <seg>a) The work must carry prominent notices stating that you modified
+    it, and giving a relevant date.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>a, b, or c (simple class)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120214T034827Z">
@@ -54874,6 +56524,60 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>b) Convey the object code in, or embodied in, a physical product
+    (including a physical distribution medium), accompanied by a
+    written offer, valid for at least three years and valid for as
+    long as you offer spare parts or customer support for that product
+    model, to give anyone who possesses the object code either (1) a
+    copy of the Corresponding Source for all the software in the
+    product that is covered by this License, on a durable physical
+    medium customarily used for software interchange, for a price no
+    more than your reasonable cost of physically performing this
+    conveying of source, or (2) access to copy the
+    Corresponding Source from a network server at no charge.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012333Z" creationid="WynnChen" creationdate="20190404T012333Z">
+        <seg>b) Convey the object code in, or embodied in, a physical product
+    (including a physical distribution medium), accompanied by a
+    written offer, valid for at least three years and valid for as
+    long as you offer spare parts or customer support for that product
+    model, to give anyone who possesses the object code either (1) a
+    copy of the Corresponding Source for all the software in the
+    product that is covered by this License, on a durable physical
+    medium customarily used for software interchange, for a price no
+    more than your reasonable cost of physically performing this
+    conveying of source, or (2) access to copy the
+    Corresponding Source from a network server at no charge.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>b) Requiring preservation of specified reasonable legal notices or
+    author attributions in that material or in the Appropriate Legal
+    Notices displayed by works containing it; or</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012339Z" creationid="WynnChen" creationdate="20190404T012339Z">
+        <seg>b) Requiring preservation of specified reasonable legal notices or
+    author attributions in that material or in the Appropriate Legal
+    Notices displayed by works containing it; or</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>b) The work must carry prominent notices stating that it is
+    released under this License and any conditions added under section
+    7.  This requirement modifies the requirement in section 4 to
+    "keep intact all notices".</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012331Z" creationid="WynnChen" creationdate="20190404T012331Z">
+        <seg>b) The work must carry prominent notices stating that it is
+    released under this License and any conditions added under section
+    7.  This requirement modifies the requirement in section 4 to
+    "keep intact all notices".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ba</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131107T142626Z" creationid="Fu Rhong" creationdate="20131107T142626Z">
@@ -55047,6 +56751,54 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131107T142652Z" creationid="Fu Rhong" creationdate="20131107T142652Z">
         <seg>bul</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>c) Convey individual copies of the object code with a copy of the
+    written offer to provide the Corresponding Source.  This
+    alternative is allowed only occasionally and noncommercially, and
+    only if you received the object code with such an offer, in accord
+    with subsection 6b.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012333Z" creationid="WynnChen" creationdate="20190404T012333Z">
+        <seg>c) Convey individual copies of the object code with a copy of the
+    written offer to provide the Corresponding Source.  This
+    alternative is allowed only occasionally and noncommercially, and
+    only if you received the object code with such an offer, in accord
+    with subsection 6b.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>c) Prohibiting misrepresentation of the origin of that material, or
+    requiring that modified versions of such material be marked in
+    reasonable ways as different from the original version; or</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012339Z" creationid="WynnChen" creationdate="20190404T012339Z">
+        <seg>c) Prohibiting misrepresentation of the origin of that material, or
+    requiring that modified versions of such material be marked in
+    reasonable ways as different from the original version; or</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>c) You must license the entire work, as a whole, under this
+    License to anyone who comes into possession of a copy.  This
+    License will therefore apply, along with any applicable section 7
+    additional terms, to the whole of the work, and all its parts,
+    regardless of how they are packaged.  This License gives no
+    permission to license the work in any other way, but it does not
+    invalidate such permission if you have separately received it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012331Z" creationid="WynnChen" creationdate="20190404T012331Z">
+        <seg>c) You must license the entire work, as a whole, under this
+    License to anyone who comes into possession of a copy.  This
+    License will therefore apply, along with any applicable section 7
+    additional terms, to the whole of the work, and all its parts,
+    regardless of how they are packaged.  This License gives no
+    permission to license the work in any other way, but it does not
+    invalidate such permission if you have separately received it.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55387,10 +57139,64 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>d) Convey the object code by offering access from a designated
+    place (gratis or for a charge), and offer equivalent access to the
+    Corresponding Source in the same way through the same place at no
+    further charge.  You need not require recipients to copy the
+    Corresponding Source along with the object code.  If the place to
+    copy the object code is a network server, the Corresponding Source
+    may be on a different server (operated by you or a third party)
+    that supports equivalent copying facilities, provided you maintain
+    clear directions next to the object code saying where to find the
+    Corresponding Source.  Regardless of what server hosts the
+    Corresponding Source, you remain obligated to ensure that it is
+    available for as long as needed to satisfy these requirements.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012334Z" creationid="WynnChen" creationdate="20190404T012334Z">
+        <seg>d) Convey the object code by offering access from a designated
+    place (gratis or for a charge), and offer equivalent access to the
+    Corresponding Source in the same way through the same place at no
+    further charge.  You need not require recipients to copy the
+    Corresponding Source along with the object code.  If the place to
+    copy the object code is a network server, the Corresponding Source
+    may be on a different server (operated by you or a third party)
+    that supports equivalent copying facilities, provided you maintain
+    clear directions next to the object code saying where to find the
+    Corresponding Source.  Regardless of what server hosts the
+    Corresponding Source, you remain obligated to ensure that it is
+    available for as long as needed to satisfy these requirements.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>d) If the work has interactive user interfaces, each must display</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180405T033408Z" creationid="weiyi" creationdate="20180404T162154Z">
         <seg>d) If the work has interactive user interfaces, each must display</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>d) If the work has interactive user interfaces, each must display
+    Appropriate Legal Notices; however, if the Program has interactive
+    interfaces that do not display Appropriate Legal Notices, your
+    work need not make them do so.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012331Z" creationid="WynnChen" creationdate="20190404T012331Z">
+        <seg>d) If the work has interactive user interfaces, each must display
+    Appropriate Legal Notices; however, if the Program has interactive
+    interfaces that do not display Appropriate Legal Notices, your
+    work need not make them do so.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>d) Limiting the use for publicity purposes of names of licensors or
+    authors of the material; or</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012339Z" creationid="WynnChen" creationdate="20190404T012339Z">
+        <seg>d) Limiting the use for publicity purposes of names of licensors or
+    authors of the material; or</seg>
       </tuv>
     </tu>
     <tu>
@@ -55583,6 +57389,30 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131107T145527Z" creationid="Fu Rhong" creationdate="20131107T145527Z">
         <seg>dzo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>e) Convey the object code using peer-to-peer transmission, provided
+    you inform other peers where the object code and Corresponding
+    Source of the work are being offered to the general public at no
+    charge under subsection 6d.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012334Z" creationid="WynnChen" creationdate="20190404T012334Z">
+        <seg>e) Convey the object code using peer-to-peer transmission, provided
+    you inform other peers where the object code and Corresponding
+    Source of the work are being offered to the general public at no
+    charge under subsection 6d.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>e) Declining to grant rights under trademark law for use of some
+    trade names, trademarks, or service marks; or</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012340Z" creationid="WynnChen" creationdate="20190404T012340Z">
+        <seg>e) Declining to grant rights under trademark law for use of some
+    trade names, trademarks, or service marks; or</seg>
       </tuv>
     </tu>
     <tu>
@@ -55927,6 +57757,22 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120215T115101Z">
         <seg>在行尾，句点后跟着额外的空格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>f) Requiring indemnification of licensors and authors of that
+    material by anyone who conveys the material (or modified versions of
+    it) with contractual assumptions of liability to the recipient, for
+    any liability that these contractual assumptions directly impose on
+    those licensors and authors.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012340Z" creationid="WynnChen" creationdate="20190404T012340Z">
+        <seg>f) Requiring indemnification of licensors and authors of that
+    material by anyone who conveys the material (or modified versions of
+    it) with contractual assumptions of liability to the recipient, for
+    any liability that these contractual assumptions directly impose on
+    those licensors and authors.</seg>
       </tuv>
     </tu>
     <tu>
