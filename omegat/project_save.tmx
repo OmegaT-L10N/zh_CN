@@ -44535,6 +44535,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The documentation distributed with &lt;a0&gt;OmegaT&lt;/a0&gt; includes the User Manual and the readme.txt document. The documentation is Copyright ©2013 Vito Smolej, ©2014-2016 Vincent Bidaux. The author of the Chapter &lt;e1&gt;Learn to use OmegaT in 5 minutes!&lt;/e1&gt; is Samuel Murray, Copyright ©2005-2012.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T115618Z" creationid="WynnChen" creationdate="20190405T115618Z">
+        <seg>随 &lt;a0&gt;OmegaT&lt;/a0&gt; 分发的文档包括用户手册与 readme.txt 文档。该文档版权所有 ©2013 Vito Smolej、©2014-2016 Vincent Bidaux。章节《&lt;e1&gt;五分钟内学会使用 OmegaT！&lt;/e1&gt;》的作者是 Samuel Murray，版权所有 ©2005-2012。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The documentation is Copyright ©2013 Vito Smolej, ©2014-2016 Vincent Bidaux.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T084314Z" creationid="lenovo" creationdate="20180411T084314Z">
