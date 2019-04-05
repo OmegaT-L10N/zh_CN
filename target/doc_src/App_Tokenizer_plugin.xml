@@ -6,7 +6,7 @@
     </indexterm></title>
 
   <section>
-    <title>介绍<indexterm class="singular">
+    <title>引言<indexterm class="singular">
         <primary>Lucene</primary> <see>解析器</see>
       </indexterm><indexterm class="singular">
         <primary>Stemmer</primary> <see>解析器</see>

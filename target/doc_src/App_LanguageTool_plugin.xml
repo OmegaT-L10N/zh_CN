@@ -1,23 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "../../../docbook-xml-4.5/docbookx.dtd">
 <appendix id="appendix.LanguageToolPlugin.inOmegaT">
-  <title>LanguageTool插件<indexterm class="singular">
+  <title>LanguageTool 插件<indexterm class="singular">
       <primary>插件</primary> <secondary>LanguageTool</secondary>
     </indexterm></title>
 
   <section>
-    <title>介绍</title>
+    <title>引言</title>
 
-    <para><ulink url="http://www.languagetool.org">LanguageTool</ulink>是开源的语法校对软件，适用于英语、法语、德语、波兰语、荷兰语、罗马尼亚语等语言（请参阅<ulink url="http://www.languagetool.org/languages/">支持语言列表</ulink>）。</para>
+    <para><ulink url="http://www.languagetool.org">LanguageTool</ulink> 是开源的文体与语法校对软件，适用于英语、法语、德语、波兰语、荷兰语、罗马尼亚语和许多其它语言（请参阅<ulink url="http://www.languagetool.org/languages/">支持的语言列表</ulink>）。</para>
 
-    <para>You can think of LanguageTool as a software to detect errors that a
-    simple spell checker cannot detect, e.g. mixing up there/their, no/now
-    etc. It can also detect some grammar mistakes. It does not include spell
-    checking. LanguageTool will find errors for which a rule has been defined
-    in its language-specific configuration files.</para>
+    <para>您可以将 LanguageTool 视为一种用于检测简单拼写检查程序无法检测到的错误（例如：弄混了 there/their、no/now 之类）的软件。它也可以检测一些语法错误。但它不包括拼写检查。 LanguageTool 将查找在其特定于语言的配置文件中已定义规则的错误。</para>
 
     <figure>
-      <title>OmegaT中的LanguageTool</title>
+      <title>OmegaT 中的 LanguageTool</title>
 
       <screenshot>
         <mediaobject>
@@ -32,17 +28,11 @@
   <section>
     <title>安装和使用</title>
 
-    <para>The LanguageTool plugin is included in OmegaT. It will be used automatically by OmegaT if <guimenuitem>Options &gt; Language Checker</guimenuitem> is checked. The
-    rules applied (if any) will depend on the source and target language of
-    the project. When a rule is triggered, the corresponding phrase will be
-    underlined in blue in the Editor (see <emphasis>also </emphasis>and
-    <emphasis>I didn't do nothing</emphasis> in the picture above). When
-    hovering the mouse over the underlined phrase, an explanation will
-    appear.</para>
+    <para>OmegaT 中 已包含了 LanguageTool 插件。如果已勾选了 <guimenuitem>选项 &gt; 语言检查器</guimenuitem>，OmegaT 会自动使用它。所应用的规则（如果有）取决于项目的原文语言和译文语言。当有规则被触发时，编辑器中相应短语会标上蓝色下划线（请参阅上图中的 <emphasis>also</emphasis> 和 <emphasis>I didn't do nothing</emphasis>）。将鼠标放在下划线短语上时，会出现相应说明。</para>
     
 	<warning>
 		<title>不兼容性</title>
-		<para>LanguageTool will not work properly if an old version is found in the /plugin folder. Remove LanguageTool from the /plugin folder before starting OmegaT.</para>
+		<para>/plugin 文件夹中有旧版本时 LanguageTool 无法正常工作。请在启动 OmegaT 前从 /plugin 文件夹中删除 LanguageTool。</para>
 	</warning>
 
   </section>

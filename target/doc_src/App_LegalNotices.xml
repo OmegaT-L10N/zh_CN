@@ -6,11 +6,11 @@
     </indexterm>法律声明</title>
 
   <section id="legal.notices.for.documentation">
-    <title>关于本文档<indexterm class="singular">
-        <primary>法律声明</primary> <secondary>关于本文档</secondary>
+    <title>对于文档<indexterm class="singular">
+        <primary>法律声明</primary> <secondary>对于文档</secondary>
       </indexterm></title>
 
-    <para><emphasis role="bold">版权所有</emphasis></para>
+    <para><emphasis role="bold">版权</emphasis></para>
 
     <para>The documentation distributed with <application>OmegaT</application>
     includes the User Manual and the readme.txt document. The
@@ -31,11 +31,11 @@
   </section>
 
   <section id="legal.ntices.for.application">
-    <title>关于应用程序<indexterm class="singular">
-        <primary>法律声明</primary> <secondary>关于本文档</secondary>
+    <title>对于应用程序<indexterm class="singular">
+        <primary>法律声明</primary> <secondary>对于应用程序</secondary>
       </indexterm></title>
 
-    <para><emphasis role="bold">版权所有</emphasis></para>
+    <para><emphasis role="bold">版权</emphasis></para>
 
     <para><emphasis role="bold"><application>OmegaT</application> </emphasis> 版权所有 © 2000-2016 Keith Godfrey, Lev Abashkin, Zoltan Bartko, Volker Berlin, Didier Briel, Kim Bruning, Alex Buloichik, Thomas Cordonnier, Sandra Jean Chua, Enrique Estévez Fernández, Martin Fleurke, Wildrich Fourie, Tony Graham, Phillip Hall, Jean-Christophe Helary, Chihiro Hio, Thomas Huriaux, Hans-Peter Jacobs, Kyle Katarn, Piotr Kulik, Ibai Lakunza Velasco, Guido Leenders, Aaron Madlon-Kay, Fabián Mandelbaum, Manfred Martin, Adiel Mittmann, Hiroshi Miura, John Moran, Maxym Mykhalchuk, Arno Peters, Henry Pijffers, Briac Pilpré, Tiago Saboga, Andrzej Sawuła, Benjamin Siband, Yu Tang, Rashid Umarov, Antonio Vilei, Ilia Vinogradov, Martin Wunderlich and Michael Zakharov.</para>
 

@@ -6,48 +6,37 @@
   <section>
     <title>感谢各位！</title>
 
-    <para>Whatever the inconsistencies, omissions and straightforward errors
-    you may find in the present version, I declare them all my own. This
-    manual, however, would not be possible without the help and support from a
-    number of people. Explicit thanks to:</para>
+    <para>在当前版本中的任何不一致、遗漏或直接错误，均完全归因于我。但是，如果没有许多人的帮助和支持，本手册是不可能问世的。明确感谢：</para>
 
     <itemizedlist>
       <listitem>
-        <para>Marc Prior：由于热爱 OmegaT 和英语而改正我最初的草稿。</para>
+        <para>Marc Prior：出于对 OmegaT 和英语的热爱改正我的初稿。</para>
       </listitem>
     </itemizedlist>
 
     <itemizedlist>
       <listitem>
-        <para>Didier Briel: I could not do without Didier's patient and
-        persistent help with DocBook intricacies. Not to mention his care and
-        diligence, keeping repositories intact and in good order.</para>
+        <para>Didier Briel：如果没有 Didier 的耐心和持续地帮助，我处理不了 DocBook 的复杂情况。更不用说他的细心与勤奋，保持存储库的完整和良好的秩序。</para>
       </listitem>
 
       <listitem>
-        <para>Samuel Murray：写了“五分钟内学会OmegaT”入门篇章。</para>
+        <para>Samuel Murray：写了《五分钟内学会使用 OmegaT》入门篇章。</para>
       </listitem>
     </itemizedlist>
 
     <itemizedlist>
       <listitem>
-        <para>Will Helton: his final reading of the draft has spared me a lot
-        of embarrassment. One could only wonder, how many the and a
-        prepositions would still be missing without his invaluable
-        help.</para>
+        <para>Will Helton：他对草稿的最终审阅使我免于很多尴尬。如果没有他那宝贵的帮助，天知道要缺失多少 the 和 a 介词。</para>
       </listitem>
     </itemizedlist>
 
     <itemizedlist>
       <listitem>
-        <para>Jean-Christophe Helary：特别感谢 JC 对 OmegaT 运行和命令行参数及我注意到的所有其他细节的简洁说明。</para>
+        <para>Jean-Christophe Helary：特别感谢 JC 对 OmegaT 的运行、命令行参数、和所有其他细节的简要描述，我都没有注意到。</para>
       </listitem>
 
       <listitem>
-        <para>Last but not least: my thanks to all the contributors to<ulink url="https://sourceforge.net/p/omegat/documentation/">
-        OmegaT documentation tracker</ulink> for all the inconsistencies found
-        in the previous versions of the documentation. Keep up your good
-        work!</para>
+        <para>最后但同样重要的：感谢所有找出 OmegaT 文档的前一版本中所有不一致之处 <ulink url="https://sourceforge.net/p/omegat/documentation/">OmegaT 文档跟踪器</ulink>贡献者。继续你们那出色的工作！</para>
       </listitem>
     </itemizedlist>
   </section>
