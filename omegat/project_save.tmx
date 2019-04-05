@@ -12429,8 +12429,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>By default, scripts are stored in the "scripts" folder located in OmegaT installation folder (the folder that contains the OmegaT.jar).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T120655Z" creationid="lenovo" creationdate="20180411T120655Z">
-        <seg>默认情况下，脚本存储在位于OmegaT安装文件夹（包含OmegaT.jar的文件夹）中的“scripts”文件夹里。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T140832Z" creationid="lenovo" creationdate="20180411T120655Z">
+        <seg>默认情况下，脚本存储在 OmegaT 安装文件夹（包含 OmegaT.jar 的文件夹）中的“scripts”文件夹里。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40594,8 +40594,8 @@ When using regular expressions, the replacement string supports references to gr
       <tuv lang="EN">
         <seg>Some additional scripts can be found here: &lt;u0&gt;OmegaT Scripts&lt;/u0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T120907Z" creationid="lenovo" creationdate="20180411T120907Z">
-        <seg>一些附带脚本可以写这里找到： &lt;u0&gt;OmegaT Scripts&lt;/u0&gt;</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T141014Z" creationid="lenovo" creationdate="20180411T120907Z">
+        <seg>这里可以找到一些其他脚本：&lt;u0&gt;OmegaT 脚本&lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -44929,8 +44929,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The following scripting languages have been implemented:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131108T122849Z" creationid="Fu Rhong" creationdate="20131108T122849Z">
-        <seg>目前已支持下列脚本语言：</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T141600Z" creationid="Fu Rhong" creationdate="20131108T122849Z">
+        <seg>已实现以下脚本语言：</seg>
       </tuv>
     </tu>
     <tu>
@@ -54717,8 +54717,8 @@ covered work, you indicate your acceptance of this License to do so.</seg>
       <tuv lang="EN">
         <seg>You can add new scripts there, so they will appear in the list of available scripts in the Scripting window.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T120758Z" creationid="lenovo" creationdate="20180411T120758Z">
-        <seg>您可以在这里添加新的脚本，这些脚本会出现在脚本窗口里的可用脚本列表里。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T140936Z" creationid="lenovo" creationdate="20180411T120758Z">
+        <seg>您可以在那里添加新脚本，它们会出现在脚本窗口中的可用脚本列表里。</seg>
       </tuv>
     </tu>
     <tu>
@@ -58950,6 +58950,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131111T105748Z" creationid="Fu Rhong" creationdate="20131111T105748Z">
         <seg>https://sourceforge.net/projects/macsvn/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://sourceforge.net/projects/omegatscripts/</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T140939Z" creationid="WynnChen" creationdate="20190405T140939Z">
+        <seg>https://sourceforge.net/projects/omegatscripts/</seg>
       </tuv>
     </tu>
     <tu>
