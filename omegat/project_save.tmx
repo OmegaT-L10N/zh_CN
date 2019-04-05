@@ -13690,8 +13690,8 @@ Exception occurred:</seg>
       <tuv lang="EN">
         <seg>Clicking &lt;g0&gt;Tools &gt; &lt;/g0&gt;&lt;g1&gt;Scripting&lt;/g1&gt; opens the Scripting window:&lt;s2&gt; &lt;s3&gt;Scripting window&lt;/s3&gt; &lt;m4&gt; &lt;i5&gt; &lt;i6/&gt; &lt;/i5&gt; &lt;/m4&gt; &lt;/s2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T084727Z" creationid="lenovo" creationdate="20180411T084727Z">
-        <seg>点击 &lt;g0&gt;工具 &gt; &lt;/g0&gt;&lt;g1&gt;脚本&lt;/g1&gt; o打开脚本窗口:&lt;s2&gt; &lt;s3&gt;脚本窗口&lt;/s3&gt; &lt;m4&gt; &lt;i5&gt; &lt;i6/&gt; &lt;/i5&gt; &lt;/m4&gt; &lt;/s2&gt;</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T135927Z" creationid="lenovo" creationdate="20180411T084727Z">
+        <seg>点击 &lt;g0&gt;工具 &gt; &lt;/g0&gt;&lt;g1&gt;脚本&lt;/g1&gt; 打开脚本窗口：&lt;s2&gt;&lt;s3&gt;脚本窗口&lt;/s3&gt; &lt;m4&gt; &lt;i5&gt; &lt;i6/&gt; &lt;/i5&gt; &lt;/m4&gt; &lt;/s2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -28483,8 +28483,8 @@ later version.</seg>
       <tuv lang="EN">
         <seg>Load a script into the editor by clicking on its name in the list on the left panel.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131108T122011Z" creationid="Fu Rhong" creationdate="20131108T122011Z">
-        <seg>点击左面板列表中的脚本名称加载脚本到编辑器中。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T140151Z" creationid="Fu Rhong" creationdate="20131108T122011Z">
+        <seg>通过单击左侧面板列表中的脚本名称将它加载到编辑器中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32225,8 +32225,8 @@ combination as such.</seg>
       <tuv lang="EN">
         <seg>OmegaT allows to run scripts written in different scripting languages.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T084630Z" creationid="lenovo" creationdate="20180411T084630Z">
-        <seg>OmegaT 允许运行使用不同脚本语言发布的脚本.</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T135839Z" creationid="lenovo" creationdate="20180411T084630Z">
+        <seg>OmegaT 允许运行用不同脚本语言编写的脚本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37904,6 +37904,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131123T104535Z" creationid="Fu Rhong" creationdate="20131123T104535Z">
         <seg>右键点击底面板中的“&lt;1&gt;”到“&lt;12&gt;”按钮并选择“添加”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Right-click on a button from "&lt;1&gt;" to "&lt;12&gt;" in the bottom panel and select "Add". In the above example, two scripts (position 1 and 2) have already been added.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T140239Z" creationid="WynnChen" creationdate="20190405T140239Z">
+        <seg>右键点击底部面板中的“&lt;1&gt;”到“&lt;12&gt;”按钮并选择“添加”。在上面的例子中，已添加了两个脚本（位置 1 和 2）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43751,6 +43759,14 @@ software and other kinds of works.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T085003Z" creationid="lenovo" creationdate="20180411T085003Z">
         <seg>您可以在脚本窗口的文本区加载一个已存在的脚本并且再次运行当前打开的程序.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Scripting window allows you to load an existing script into the text area and run it against the current opened project. To customize the script feature, do the following:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T140105Z" creationid="WynnChen" creationdate="20190405T140105Z">
+        <seg>在脚本窗口中，可以将已存在的脚本加载到文本区中并对当前打开的项目运行此脚本。要定制脚本功能，请执行以下操作：</seg>
       </tuv>
     </tu>
     <tu>
@@ -51850,8 +51866,8 @@ Commands:
       <tuv lang="EN">
         <seg>Use</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T084643Z" creationid="lenovo" creationdate="20180411T084643Z">
-        <seg>用</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T135841Z" creationid="lenovo" creationdate="20180411T084643Z">
+        <seg>使用</seg>
       </tuv>
     </tu>
     <tu>
@@ -53638,6 +53654,14 @@ technological measures.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131108T122534Z" creationid="Fu Rhong" creationdate="20131108T122225Z">
         <seg>当您左键点击数字时，将运行选择的脚本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you left-click on the number, the selected script will run. You can start the selected macros from the main menu as well by using their entries in the &lt;g0&gt;Tools &lt;/g0&gt;menu or by pressing&lt;k1&gt; Ctrl+Alt+F#&lt;/k1&gt; (# 1 to 12).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T140808Z" creationid="WynnChen" creationdate="20190405T140718Z">
+        <seg>当您左键点击数字时，将运行所选脚本。您还可以在主菜单中点击 &lt;g0&gt;工具&lt;/g0&gt; 菜单下的脚本条目或按 &lt;k1&gt;Ctrl+Alt+F#&lt;/k1&gt;（#表示1到12）组合键来运行所选的宏。</seg>
       </tuv>
     </tu>
     <tu>
