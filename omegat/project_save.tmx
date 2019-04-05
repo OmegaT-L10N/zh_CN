@@ -16700,8 +16700,8 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="EN">
         <seg>Distribution and modifications</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
-        <seg>发布和修改</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T115629Z">
+        <seg>分发和修改</seg>
       </tuv>
     </tu>
     <tu>
@@ -44553,8 +44553,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The documentation is a free document; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (if you prefer) any later version.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131108T120616Z" creationid="Fu Rhong" creationdate="20131108T120248Z">
-        <seg>本文档是自由文档，在遵守自由软件基金会（FSF）发布的的 GNU 通用公共许可证的版本3或者更高版本的前提下，您可以对它进行修改或者重新发布。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T115734Z" creationid="Fu Rhong" creationdate="20131108T120248Z">
+        <seg>本文档是自由文档，您可以根据自由软件基金会发布的 GNU 通用公共许可证的第 3 版或（如果你愿意）任何更高版本的条款重新分发和/或修改它。</seg>
       </tuv>
     </tu>
     <tu>
