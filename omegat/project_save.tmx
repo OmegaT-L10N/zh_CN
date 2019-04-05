@@ -2282,8 +2282,8 @@ need not be entered.)</seg>
       <tuv lang="EN">
         <seg>* These keys behave differently when the cursor is outside the editable segment:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120130T053540Z">
-        <seg>* 当光标在可编辑片段外面时这些按键的行为会不相同：</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T021509Z">
+        <seg>* 当光标在可编辑片段之外时这些按键的行为会有所不同：</seg>
       </tuv>
     </tu>
     <tu>
@@ -4571,8 +4571,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Any char key,&lt;/e0&gt; if clicked outside editable segment, will be ignored.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120130T053825Z">
-        <seg>&lt;e0&gt;任意字符键&lt;/e0&gt; 在可编辑片段外面被按下时都会被忽略。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T021703Z">
+        <seg>&lt;e0&gt;任意字符键&lt;/e0&gt;：在可编辑片段之外按下会被忽略。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4587,8 +4587,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Backspace: &lt;/e0&gt;nothing</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120130T053630Z">
-        <seg>&lt;e0&gt;Backspace: &lt;/e0&gt;不起作用</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T021610Z">
+        <seg>&lt;e0&gt;Backspace：&lt;/e0&gt;无任何效果</seg>
       </tuv>
     </tu>
     <tu>
@@ -4619,8 +4619,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Delete: &lt;/e0&gt;nothing</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120130T053637Z">
-        <seg>&lt;e0&gt;Delete: &lt;/e0&gt;不起作用</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T021616Z">
+        <seg>&lt;e0&gt;Delete：&lt;/e0&gt;无任何效果</seg>
       </tuv>
     </tu>
     <tu>
@@ -4629,6 +4629,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021248Z" creationid="Yujun Yin" creationdate="20131007T084720Z">
         <seg>&lt;e0&gt;字典和术语表&lt;/e0&gt;、&lt;e1&gt;机器翻译&lt;/e1&gt;、&lt;e2&gt;拼写检查和语言工具：&lt;/e2&gt; OmegaT 支持字典和术语表工具。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Dictionaries, Glossaries&lt;/e0&gt;, &lt;e1&gt;Machine translation&lt;/e1&gt; , &lt;e2&gt;Spellchecker, LanguageTool:&lt;/e2&gt; OmegaT supports an extensive use of dictionaries and glossaries. If an Internet connection is available, various MT services such as Google Translate and Microsoft Translator can be used from within OmegaT. If spell checking is activated, spelling mistakes and typos are recognized and can be corrected during translation. The open source LanguageTool can be used to correct common grammatical and stylistic mistakes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T110636Z" creationid="WynnChen" creationdate="20190404T110636Z">
+        <seg>&lt;e0&gt;字典、词汇表&lt;/e0&gt;、&lt;e1&gt;机器翻译&lt;/e1&gt;、&lt;e2&gt;拼写检查、LanguageTool：&lt;/e2&gt;OmegaT 支持广泛使用字典和词汇表。如果有因特网连接，可以在 OmegaT 中使用各种机器翻译服务，诸如 Google Translate 和 Microsoft Translator。如果激活了拼写检查，在翻译期间会识别出拼写错误和错别字并可以进行更正。开源的 LanguageTool 可以用于纠正常见的语法与文体错误。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4651,16 +4659,16 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Editing field behavior:&lt;/e0&gt; a short chapter describing how to set up the editing behavior of the segment being translated.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yujun Yin" changedate="20131007T081700Z" creationid="Yujun Yin" creationdate="20131007T081700Z">
-        <seg>&lt;e0&gt;编辑域行为：&lt;/e0&gt; 本章简要地介绍了如何设置正在翻译片段的编辑行为。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T104542Z" creationid="Yujun Yin" creationdate="20131007T081700Z">
+        <seg>&lt;e0&gt;编辑区行为：&lt;/e0&gt;一个简短的章节，介绍了如何设置正在翻译的片段的编辑行为。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;e0&gt;End: &lt;/e0&gt; cursor to the end of the active segment</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120130T053624Z">
-        <seg>&lt;e0&gt;End: &lt;/e0&gt; 将光标移到活动片段的末尾</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T021558Z">
+        <seg>&lt;e0&gt;End：&lt;/e0&gt;将光标移到活动片段的末尾</seg>
       </tuv>
     </tu>
     <tu>
@@ -4715,8 +4723,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Home: &lt;/e0&gt; cursor to the beginning of the active segment</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120130T053610Z">
-        <seg>&lt;e0&gt;Home: &lt;/e0&gt; 将光标移到活动片段的开始处</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T021530Z">
+        <seg>&lt;e0&gt;Home：&lt;/e0&gt;将光标移到活动片段的开始处</seg>
       </tuv>
     </tu>
     <tu>
@@ -4769,6 +4777,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Installing and running OmegaT: &lt;/e0&gt;this chapter is useful when you first begin using OmegaT. It contains the specific instructions on how to install OmegaT and run it on Windows, Mac OS X and Linux. For advanced users, the chapter describes the command line mode and its possibilities.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T103229Z" creationid="WynnChen" creationdate="20190404T103229Z">
+        <seg>&lt;e0&gt;安装和运行 OmegaT：&lt;/ e0&gt;当您第一次开始使用 OmegaT 时，本章会很有用。它包含有关如何安装 OmegaT 并在 Windows、Mac OS X 和 Linux 上运行它的具体说明。对于高级用户，本章介绍命令行模式及其可能性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;JavaScript&lt;/e0&gt; (sometimes abbreviated JS, not to be confused with Java): is a prototype-based scripting language that is dynamic, weakly typed and has first-class functions.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131109T022321Z" creationid="Fu Rhong" creationdate="20131109T021519Z">
@@ -4779,24 +4795,24 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Keyboard shortcuts in the editor&lt;/e0&gt;: the list of shortcuts used in the editor</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yujun Yin" changedate="20131007T085907Z" creationid="Yujun Yin" creationdate="20131007T085907Z">
-        <seg>&lt;e0&gt;编辑器中的键盘快捷键&lt;/e0&gt;：编辑器中可用的快捷键列表</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T111003Z" creationid="Yujun Yin" creationdate="20131007T085907Z">
+        <seg>&lt;e0&gt;编辑器中的键盘快捷键&lt;/e0&gt;：编辑器中用到的快捷键列表</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Keyword index:&lt;/e0&gt; an extensive keyword index is provided to help the reader find the relevant information.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yujun Yin" changedate="20131007T090244Z" creationid="Yujun Yin" creationdate="20131007T090244Z">
-        <seg>&lt;e0&gt;关键词索引：&lt;/e0&gt;详细的关键词索引，帮助读者迅速找到相关信息。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T111238Z" creationid="Yujun Yin" creationdate="20131007T090244Z">
+        <seg>&lt;e0&gt;关键词索引：&lt;/e0&gt;提供丰富的关键词索引，以帮助读者找到相关信息。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Languages:&lt;/e0&gt; the ISO list of languages and language codes is provided</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yujun Yin" changedate="20131007T085836Z" creationid="Yujun Yin" creationdate="20131007T085753Z">
-        <seg>&lt;e0&gt;语言：&lt;/e0&gt;语言和对应代码的 ISO 列表</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T110918Z" creationid="Yujun Yin" creationdate="20131007T085753Z">
+        <seg>&lt;e0&gt;语言：&lt;/e0&gt;提供 ISO 语言和语言代码列表</seg>
       </tuv>
     </tu>
     <tu>
@@ -4811,8 +4827,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Miscellanea&lt;/e0&gt;: deals with other issues of interest, such as how to avoid losing data.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yujun Yin" changedate="20131007T085613Z" creationid="Yujun Yin" creationdate="20131007T085613Z">
-        <seg>&lt;e0&gt;杂项&lt;/e0&gt;：介绍其他相关事项，如何避免丢失数据，等。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T110808Z" creationid="Yujun Yin" creationdate="20131007T085613Z">
+        <seg>&lt;e0&gt;其他&lt;/e0&gt;：处理其他相关事项，例如如何避免丢失数据。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4875,8 +4891,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;OmegaT on the web:&lt;/e0&gt; information regarding on-line OmegaT resources</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yujun Yin" changedate="20131007T085839Z" creationid="Yujun Yin" creationdate="20131007T085745Z">
-        <seg>&lt;e0&gt;OmegaT 网络资源：&lt;/e0&gt;介绍有关 OmegaT 在线资源的信息</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T110856Z" creationid="Yujun Yin" creationdate="20131007T085745Z">
+        <seg>&lt;e0&gt;网络上的 OmegaT：&lt;/e0&gt;有关在线 OmegaT 资源的信息</seg>
       </tuv>
     </tu>
     <tu>
@@ -4909,6 +4925,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yujun Yin" changedate="20131007T081315Z" creationid="Yujun Yin" creationdate="20131007T081227Z">
         <seg>&lt;e0&gt;项目属性&lt;/e0&gt;、&lt;e1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt; 文件和目录：&lt;/e1&gt; 在 OmegaT 中，项目是指 OmegaT 作为一款 CAT 工具能够处理的工作单位。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Project properties&lt;/e0&gt;, &lt;e1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt; Files and Folders:&lt;/e1&gt; a project in the context of OmegaT is the piece of work that OmegaT as a CAT tool is able to handle. This chapter describes the project properties, such as the source and target languages. The second of these chapters describes the various subfolders and files in a translation project and their role as well as other user and application files associated with OmegaT.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T104429Z" creationid="WynnChen" creationdate="20190404T104429Z">
+        <seg>&lt;e0&gt;项目属性&lt;/e0&gt;、&lt;e1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt; 文件和目录：&lt;/e1&gt; 在 OmegaT 中，项目是指 OmegaT 作为一款 CAT 工具能够处理的工件。本章介绍项目的各种属性，如原文语言和译文语言等。后面那一章介绍了翻译项目中的各种子文件夹和文件以及它们各自的角色，还有其他 OmegaT 相关的用户和应用程序文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4953,6 +4977,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Searches&lt;/e0&gt; and&lt;e1&gt; &lt;/e1&gt;&lt;e2&gt;Regular expressions&lt;/e2&gt;: Searches in OmegaT can be as simple as "&lt;e3&gt;list segments with &lt;/e3&gt;&lt;e4&gt;the word 'kangaroo' ". &lt;/e4&gt; They can also be complex, allowing for instance to search for segments with two or more consecutive spaces. In this case the regular expression ^s^s+ would be used to find and list the offending segments. Regular expressions are also used extensively in the segmentation rules.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T110048Z" creationid="WynnChen" creationdate="20190404T110048Z">
+        <seg>&lt;e0&gt;查找&lt;/e0&gt;和&lt;e1&gt;&lt;/e1&gt;&lt;e2&gt;正则表达式&lt;/e2&gt;：OmegaT 中的查找可以简单得像“列出含有单词‘袋鼠’的&lt;e3&gt;片段&lt;/e3&gt;&lt;e4&gt;“。&lt;/e4&gt;也可以很复杂，例如可以查找具有两个或更多连续空格的片段。在这种情况下，需要用正则表达式 ^s^s+ 来查找并列出有问题的片段。正则表达式也广泛用于分割规则中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Segmentation&lt;/e0&gt;:translation memory tools work with textual units called segments.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yujun Yin" changedate="20131007T082945Z" creationid="Yujun Yin" creationdate="20131007T082945Z">
@@ -4961,10 +4993,18 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Segmentation&lt;/e0&gt;:translation memory tools work with textual units called segments. In OmegaT, segments can be based on paragraphs or on segmentation rules. Paragraph segmentation is less frequently used, but can be useful in cases of so-called "creative" texts. The rule-based segmentation is usually synonymous with sentence-based segmentation. A number of rule sets are provided while additional rules can be defined by the user, as described in this chapter.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T105435Z" creationid="WynnChen" creationdate="20190404T105435Z">
+        <seg>&lt;e0&gt;片段分割&lt;/e0&gt;：翻译记忆库工具使用称作片段的文本单元。在 OmegaT 中，片段可根据段落或片段分割规则进行划分。段落分割使用得较少，但在所谓“创造性”文本的情况下可能很有用。基于规则的分割通常就是指基于句子的分割。软件中已经提供了许多规则集，与此同时用户还可自定义其他规则，如本章所述。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Shortcuts customization:&lt;/e0&gt; shortcuts can be customized to your personal preferences</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yujun Yin" changedate="20131007T090002Z" creationid="Yujun Yin" creationdate="20131007T085940Z">
-        <seg>&lt;e0&gt;快捷键自定义：&lt;/e0&gt;可根据用户个人偏好对快捷键进行自定义</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T111105Z" creationid="Yujun Yin" creationdate="20131007T085940Z">
+        <seg>&lt;e0&gt;快捷键自定义：&lt;/e0&gt;可根据您的个人偏好对快捷键进行自定义</seg>
       </tuv>
     </tu>
     <tu>
@@ -5019,8 +5059,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;The user interface&lt;/e0&gt;,&lt;e1&gt;Main Menu and Keyboard Shortcuts&lt;/e1&gt;: these two chapters are likely to be heavily consulted, since they explain the user interface of OmegaT and the functions available via the main menu and the keyboard shortcuts.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yujun Yin" changedate="20131007T081143Z" creationid="Yujun Yin" creationdate="20131007T081008Z">
-        <seg>&lt;e0&gt;用户界面&lt;/e0&gt;、&lt;e1&gt;主菜单和键盘快捷键&lt;/e1&gt;：使用过程中主要查询的为这两章，其中介绍了 OmegaT 的用户界面，以及通过主菜单和键盘快捷键可调用的功能。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T103420Z" creationid="Yujun Yin" creationdate="20131007T081008Z">
+        <seg>&lt;e0&gt;用户界面&lt;/e0&gt;、&lt;e1&gt;主菜单和键盘快捷键&lt;/e1&gt;：这两章很可能会被大量查阅，因为它们解说了 OmegaT 的用户界面，以及可通过主菜单和键盘快捷键调用的功能。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5035,8 +5075,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Translation memories: &lt;/e0&gt; explains the role of the various subfolders containing translation memories, and provides information on other important aspects relating to translation memories.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yujun Yin" changedate="20131007T082805Z" creationid="Yujun Yin" creationdate="20131007T082726Z">
-        <seg>&lt;e0&gt;译法记忆：&lt;/e0&gt; 本章介绍了包含译法记忆的各个子目录的作用，阐述了与译法记忆相关的其他重要信息。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T105010Z" creationid="Yujun Yin" creationdate="20131007T082726Z">
+        <seg>&lt;e0&gt;翻译记忆库：&lt;/e0&gt;解释了各个包含翻译记忆库的子文件夹的作用，并提供了其他与翻译记忆库有关的重要方面的信息。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5115,8 +5155,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Working with plain text&lt;/e0&gt; and &lt;e1&gt;Working with formatted text&lt;/e1&gt;: these two chapters explain certain important points concerning texts to be translated, such as the encoding set (in the case of plain text files) and tag handling (in the case of formatted text).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yujun Yin" changedate="20131007T082700Z" creationid="Yujun Yin" creationdate="20131007T082549Z">
-        <seg>&lt;e0&gt;使用纯文本&lt;/e0&gt;和&lt;e1&gt;使用格式文本&lt;/e1&gt;： 这两章节介绍了有关待翻译文本的重要事项，如编码集（纯文本文件）和标签处理（格式文本）。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T104733Z" creationid="Yujun Yin" creationdate="20131007T082549Z">
+        <seg>&lt;e0&gt;使用纯文本&lt;/e0&gt;和&lt;e1&gt;使用格式化文本&lt;/e1&gt;：这两章解释了有关待翻译文本的一些要点，例如编码集（在纯文本文件的情况下）和标签处理（在格式化文本的情况下）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6367,16 +6407,16 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Legal notices&lt;/p0&gt; &lt;s1&gt;For the application&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120130T070207Z">
-        <seg>&lt;p0&gt;法律声明&lt;/p0&gt; &lt;s1&gt;关于本文档&lt;/s1&gt;</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T110826Z">
+        <seg>&lt;p0&gt;法律声明&lt;/p0&gt; &lt;s1&gt;对于应用程序&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Legal notices&lt;/p0&gt; &lt;s1&gt;For the documentation&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120130T065144Z">
-        <seg>&lt;p0&gt;法律声明&lt;/p0&gt; &lt;s1&gt;关于本文档&lt;/s1&gt;</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T110756Z">
+        <seg>&lt;p0&gt;法律声明&lt;/p0&gt; &lt;s1&gt;对于文档&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8237,8 +8277,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;u0&gt;LanguageTool&lt;/u0&gt; is an Open Source style and grammar proofreading software for English, French, German, Polish, Dutch, Romanian, and a number of other languages - see the &lt;u1&gt;list of supported languages&lt;/u1&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T085045Z" creationid="Fu Rhong" creationdate="20131108T102825Z">
-        <seg>&lt;u0&gt;LanguageTool&lt;/u0&gt;是开源的语法校对软件，适用于英语、法语、德语、波兰语、荷兰语、罗马尼亚语等语言（请参阅&lt;u1&gt;支持语言列表&lt;/u1&gt;）。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T103814Z" creationid="Fu Rhong" creationdate="20131108T102825Z">
+        <seg>&lt;u0&gt;LanguageTool&lt;/u0&gt; 是开源的文体与语法校对软件，适用于英语、法语、德语、波兰语、荷兰语、罗马尼亚语和许多其它语言（请参阅&lt;u1&gt;支持的语言列表&lt;/u1&gt;）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8997,8 +9037,8 @@ included in conveying the object code work.</seg>
       <tuv lang="EN">
         <seg>Abkhaz</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131107T142957Z">
-        <seg>阿布卡兹语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T031031Z">
+        <seg>阿布哈兹语（Abkhaz）</seg>
       </tuv>
     </tu>
     <tu>
@@ -9465,16 +9505,16 @@ the above requirements apply either way.</seg>
       <tuv lang="EN">
         <seg>Afar</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T113159Z">
-        <seg>阿法尔语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T031040Z">
+        <seg>阿法尔语（Afar）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Afrikaans</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
-        <seg>南非荷兰语（斐语）</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T031048Z">
+        <seg>阿非利堪斯语（Afrikaans）</seg>
       </tuv>
     </tu>
     <tu>
@@ -9697,16 +9737,16 @@ the above requirements apply either way.</seg>
       <tuv lang="EN">
         <seg>Akan</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131107T143244Z">
-        <seg>库阿语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T031053Z">
+        <seg>阿坎语（Akan）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Albanian</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
-        <seg>阿尔巴尼亚语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T031059Z">
+        <seg>阿尔巴尼亚语（Albanian）</seg>
       </tuv>
     </tu>
     <tu>
@@ -10261,8 +10301,8 @@ rights of fair use or other equivalent, as provided by copyright law.</seg>
       <tuv lang="EN">
         <seg>Amharic</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
-        <seg>阿姆哈拉语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T031108Z">
+        <seg>阿姆哈拉语（Amharic）</seg>
       </tuv>
     </tu>
     <tu>
@@ -10953,16 +10993,16 @@ menu, a prominent item in the list meets this criterion.</seg>
       <tuv lang="EN">
         <seg>Arabic</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
-        <seg>阿拉伯语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T031113Z">
+        <seg>阿拉伯语（Arabic）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Aragonese</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131107T143328Z" creationid="Fu Rhong" creationdate="20131107T142616Z">
-        <seg>阿拉贡语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T031117Z" creationid="Fu Rhong" creationdate="20131107T142616Z">
+        <seg>阿拉贡语（Aragonese）</seg>
       </tuv>
     </tu>
     <tu>
@@ -11033,8 +11073,8 @@ menu, a prominent item in the list meets this criterion.</seg>
       <tuv lang="EN">
         <seg>Armenian</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131107T143503Z" creationid="Fu Rhong" creationdate="20131107T142617Z">
-        <seg>亚美尼亚语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T031132Z" creationid="Fu Rhong" creationdate="20131107T142617Z">
+        <seg>亚美尼亚语（Armenian）</seg>
       </tuv>
     </tu>
     <tu>
@@ -11252,8 +11292,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Assamese</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131107T143522Z" creationid="Fu Rhong" creationdate="20131107T142618Z">
-        <seg>阿萨姆语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T031137Z" creationid="Fu Rhong" creationdate="20131107T142618Z">
+        <seg>阿萨姆语（Assamese）</seg>
       </tuv>
     </tu>
     <tu>
@@ -11580,8 +11620,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Avaric</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T113239Z" creationid="Fu Rhong" creationdate="20131107T142619Z">
-        <seg>阿瓦尔语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T031141Z" creationid="Fu Rhong" creationdate="20131107T142619Z">
+        <seg>阿瓦尔语（Avaric）</seg>
       </tuv>
     </tu>
     <tu>
@@ -11596,8 +11636,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Avestan</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131107T145154Z" creationid="Fu Rhong" creationdate="20131107T142621Z">
-        <seg>阿维斯陀语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T052738Z" creationid="Fu Rhong" creationdate="20131107T142621Z">
+        <seg>阿维斯陀语（Avestan）</seg>
       </tuv>
     </tu>
     <tu>
@@ -11612,16 +11652,16 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Aymara</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T113304Z" creationid="Fu Rhong" creationdate="20131107T142622Z">
-        <seg>艾马拉语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T031149Z" creationid="Fu Rhong" creationdate="20131107T142622Z">
+        <seg>艾马拉语（Aymara）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Azerbaijani</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
-        <seg>阿塞拜疆语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T031155Z">
+        <seg>阿塞拜疆语（Azerbaijani）</seg>
       </tuv>
     </tu>
     <tu>
@@ -11756,8 +11796,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Bambara</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T113323Z" creationid="Fu Rhong" creationdate="20131107T142625Z">
-        <seg>班巴拉语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T031206Z" creationid="Fu Rhong" creationdate="20131107T142625Z">
+        <seg>班巴拉语（Bambara）</seg>
       </tuv>
     </tu>
     <tu>
@@ -11788,16 +11828,16 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Bashkir</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T113415Z" creationid="Fu Rhong" creationdate="20131107T142626Z">
-        <seg>巴什基尔语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T031210Z" creationid="Fu Rhong" creationdate="20131107T142626Z">
+        <seg>巴什基尔语（Bashkir）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Basque</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
-        <seg>巴斯克语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T031219Z">
+        <seg>巴斯克语（Basque）</seg>
       </tuv>
     </tu>
     <tu>
@@ -11908,8 +11948,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Belarusian</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
-        <seg>白俄罗斯语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T031223Z">
+        <seg>白俄罗斯语（Belarusian）</seg>
       </tuv>
     </tu>
     <tu>
@@ -11956,8 +11996,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Bengali</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
-        <seg>孟加拉语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T031227Z">
+        <seg>孟加拉语（Bengali）</seg>
       </tuv>
     </tu>
     <tu>
@@ -11988,8 +12028,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Bihari</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131107T144926Z" creationid="Fu Rhong" creationdate="20131107T142647Z">
-        <seg>比尔哈语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T031231Z" creationid="Fu Rhong" creationdate="20131107T142647Z">
+        <seg>比哈尔语（Bihari）</seg>
       </tuv>
     </tu>
     <tu>
@@ -12004,8 +12044,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Bislama</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131107T144011Z" creationid="Fu Rhong" creationdate="20131107T142648Z">
-        <seg>比斯拉马语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T031234Z" creationid="Fu Rhong" creationdate="20131107T142648Z">
+        <seg>比斯拉玛语（Bislama）</seg>
       </tuv>
     </tu>
     <tu>
@@ -12068,8 +12108,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Bosnian</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
-        <seg>波斯尼亚语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T031238Z">
+        <seg>波斯尼亚语（Bosnian）</seg>
       </tuv>
     </tu>
     <tu>
@@ -12124,8 +12164,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Breton</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
-        <seg>布里多尼语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T031242Z">
+        <seg>布列塔尼语（Breton）</seg>
       </tuv>
     </tu>
     <tu>
@@ -12244,16 +12284,16 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Bulgarian</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
-        <seg>保加利亚语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T031246Z">
+        <seg>保加利亚语（Bulgarian）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Burmese</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131107T144034Z" creationid="Fu Rhong" creationdate="20131107T142652Z">
-        <seg>缅甸语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T031250Z" creationid="Fu Rhong" creationdate="20131107T142652Z">
+        <seg>缅甸语（Burmese）</seg>
       </tuv>
     </tu>
     <tu>
@@ -12657,8 +12697,8 @@ Exception occurred:</seg>
       <tuv lang="EN">
         <seg>Catalan</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190323T065649Z" creationid="wynnc" creationdate="20190320T045507Z">
-        <seg>加泰罗尼亚语（Catalan）</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T031020Z" creationid="wynnc" creationdate="20190320T045507Z">
+        <seg>加泰隆语（Catalan）</seg>
       </tuv>
     </tu>
     <tu>
@@ -12673,8 +12713,8 @@ Exception occurred:</seg>
       <tuv lang="EN">
         <seg>Chamorro</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131107T144858Z" creationid="Fu Rhong" creationdate="20131107T142654Z">
-        <seg>查莫罗语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T031311Z" creationid="Fu Rhong" creationdate="20131107T142654Z">
+        <seg>查莫罗语（Chamorro）</seg>
       </tuv>
     </tu>
     <tu>
@@ -12881,8 +12921,8 @@ Exception occurred:</seg>
       <tuv lang="EN">
         <seg>Chechen</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T113502Z" creationid="Fu Rhong" creationdate="20131107T142655Z">
-        <seg>车臣语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T031321Z" creationid="Fu Rhong" creationdate="20131107T142655Z">
+        <seg>车臣语（Chechen）</seg>
       </tuv>
     </tu>
     <tu>
@@ -13306,16 +13346,16 @@ Exception occurred:</seg>
       <tuv lang="EN">
         <seg>Chichewa, Chewa, Nyanja</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T100942Z" creationid="Fu Rhong" creationdate="20131107T142657Z">
-        <seg>奇契瓦语、切瓦语、尼安哈语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T031515Z" creationid="Fu Rhong" creationdate="20131107T142657Z">
+        <seg>尼扬贾语（Chichewa、Chewa、Nyanja）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Chinese</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190323T065854Z" creationid="wynnc" creationdate="20190323T065854Z">
-        <seg>中文（Chinese）</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T053228Z" creationid="wynnc" creationdate="20190323T065854Z">
+        <seg>汉语（Chinese）</seg>
       </tuv>
     </tu>
     <tu>
@@ -13410,8 +13450,8 @@ Exception occurred:</seg>
       <tuv lang="EN">
         <seg>Chuvash</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131107T144649Z" creationid="Fu Rhong" creationdate="20131107T142714Z">
-        <seg>楚瓦什语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T042905Z" creationid="Fu Rhong" creationdate="20131107T142714Z">
+        <seg>楚瓦什语（Chuvash）</seg>
       </tuv>
     </tu>
     <tu>
@@ -14632,8 +14672,8 @@ makes it unnecessary.</seg>
       <tuv lang="EN">
         <seg>Copyright</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
-        <seg>版权所有</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T110821Z">
+        <seg>版权</seg>
       </tuv>
     </tu>
     <tu>
@@ -14764,8 +14804,8 @@ makes it unnecessary.</seg>
       <tuv lang="EN">
         <seg>Cornish</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131107T144616Z" creationid="Fu Rhong" creationdate="20131107T142715Z">
-        <seg>凯尔特语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T042922Z" creationid="Fu Rhong" creationdate="20131107T142715Z">
+        <seg>康沃尔语（Cornish）</seg>
       </tuv>
     </tu>
     <tu>
@@ -14804,8 +14844,8 @@ unpacking, reading or copying.</seg>
       <tuv lang="EN">
         <seg>Corsican</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T100732Z" creationid="Fu Rhong" creationdate="20131107T142716Z">
-        <seg>科西嘉文</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T042931Z" creationid="Fu Rhong" creationdate="20131107T142716Z">
+        <seg>科西嘉语（Corsican）</seg>
       </tuv>
     </tu>
     <tu>
@@ -15213,16 +15253,16 @@ unpacking, reading or copying.</seg>
       <tuv lang="EN">
         <seg>Cree</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131107T145328Z" creationid="Fu Rhong" creationdate="20131107T142718Z">
-        <seg>克里语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T042938Z" creationid="Fu Rhong" creationdate="20131107T142718Z">
+        <seg>克里语（Cree）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Croatian</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
-        <seg>克罗地亚语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T042947Z">
+        <seg>克罗地亚语（Croatian）</seg>
       </tuv>
     </tu>
     <tu>
@@ -15357,8 +15397,8 @@ unpacking, reading or copying.</seg>
       <tuv lang="EN">
         <seg>Ctrl+Enter</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120203T124019Z">
-        <seg>Ctrl+Enter</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T141037Z">
+        <seg>Ctrl+回车</seg>
       </tuv>
     </tu>
     <tu>
@@ -15405,8 +15445,8 @@ unpacking, reading or copying.</seg>
       <tuv lang="EN">
         <seg>Ctrl+Left:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120203T124009Z">
-        <seg>Ctrl+Left:</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T141054Z">
+        <seg>Ctrl+左箭头键</seg>
       </tuv>
     </tu>
     <tu>
@@ -15461,8 +15501,8 @@ unpacking, reading or copying.</seg>
       <tuv lang="EN">
         <seg>Ctrl+Right:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120203T124010Z">
-        <seg>Ctrl+Right:</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T141106Z">
+        <seg>Ctrl+右箭头键</seg>
       </tuv>
     </tu>
     <tu>
@@ -15519,6 +15559,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T120611Z">
         <seg>Ctrl+Shift+W</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+Space</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T141008Z" creationid="WynnChen" creationdate="20190404T141008Z">
+        <seg>Ctrl+空格键</seg>
       </tuv>
     </tu>
     <tu>
@@ -15719,8 +15767,8 @@ unpacking, reading or copying.</seg>
       <tuv lang="EN">
         <seg>Danish</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
-        <seg>丹麦语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T043001Z">
+        <seg>丹麦语（Danish）</seg>
       </tuv>
     </tu>
     <tu>
@@ -16281,6 +16329,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Didier Briel: I could not do without Didier's patient and persistent help with DocBook intricacies. Not to mention his care and diligence, keeping repositories intact and in good order.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T131022Z" creationid="WynnChen" creationdate="20190404T131022Z">
+        <seg>Didier Briel：如果没有 Didier 的耐心和持续地帮助，我处理不了 DocBook 的复杂情况。更不用说他的细心与勤奋，保持存储库的完整和良好的秩序。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Diego Merino - Translator EN &gt; ES</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="18261" changedate="20180412T095015Z" creationid="18261" creationdate="20180412T094358Z">
@@ -16652,8 +16708,8 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="EN">
         <seg>Divehi, Dhivehi, Maldivian</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T100853Z" creationid="Fu Rhong" creationdate="20131107T142838Z">
-        <seg>地维希语、迪维希语、马尔代夫语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T043026Z" creationid="Fu Rhong" creationdate="20131107T142838Z">
+        <seg>迪维希语（Divehi、Dhivehi、Maldivian）</seg>
       </tuv>
     </tu>
     <tu>
@@ -17352,8 +17408,8 @@ project_save.tmx 未真正上传，SVN 切换到不稳定状态。
       <tuv lang="EN">
         <seg>Dzongkha</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
-        <seg>不丹语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T043040Z">
+        <seg>不丹语（Dzongkha）</seg>
       </tuv>
     </tu>
     <tu>
@@ -18339,8 +18395,8 @@ by the Free Software Foundation.</seg>
       <tuv lang="EN">
         <seg>Esperanto</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
-        <seg>世界语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T043052Z">
+        <seg>世界语（Esperanto）</seg>
       </tuv>
     </tu>
     <tu>
@@ -18355,8 +18411,8 @@ by the Free Software Foundation.</seg>
       <tuv lang="EN">
         <seg>Estonian</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
-        <seg>爱沙尼亚语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T043111Z">
+        <seg>爱沙尼亚语（Estonian）</seg>
       </tuv>
     </tu>
     <tu>
@@ -18427,8 +18483,8 @@ by the Free Software Foundation.</seg>
       <tuv lang="EN">
         <seg>Ewe</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131107T145554Z" creationid="Fu Rhong" creationdate="20131107T145554Z">
-        <seg>埃维语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T043126Z" creationid="Fu Rhong" creationdate="20131107T145554Z">
+        <seg>埃维语（Ewe）</seg>
       </tuv>
     </tu>
     <tu>
@@ -18963,8 +19019,8 @@ by the Free Software Foundation.</seg>
       <tuv lang="EN">
         <seg>Faroese</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131107T145622Z" creationid="Fu Rhong" creationdate="20131107T145622Z">
-        <seg>法罗语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T043140Z" creationid="Fu Rhong" creationdate="20131107T145622Z">
+        <seg>法罗斯语（Faroese）</seg>
       </tuv>
     </tu>
     <tu>
@@ -19040,8 +19096,8 @@ a description of how this error was produced.</seg>
       <tuv lang="EN">
         <seg>Fijian</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131107T145656Z" creationid="Fu Rhong" creationdate="20131107T145656Z">
-        <seg>飞济群岛语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T043148Z" creationid="Fu Rhong" creationdate="20131107T145656Z">
+        <seg>斐济语（Fijian）</seg>
       </tuv>
     </tu>
     <tu>
@@ -20146,8 +20202,8 @@ know their rights.</seg>
       <tuv lang="EN">
         <seg>For the application</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
-        <seg>关于应用程序</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T110833Z">
+        <seg>对于应用程序</seg>
       </tuv>
     </tu>
     <tu>
@@ -20178,8 +20234,8 @@ authors of previous versions.</seg>
       <tuv lang="EN">
         <seg>For the documentation</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
-        <seg>关于本文档</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T110742Z">
+        <seg>对于文档</seg>
       </tuv>
     </tu>
     <tu>
@@ -20517,8 +20573,8 @@ authors of previous versions.</seg>
       <tuv lang="EN">
         <seg>Fula, Fulah, Pulaar, Pular</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T101142Z" creationid="Fu Rhong" creationdate="20131107T145712Z">
-        <seg>弗拉语、富拉语、弗拉尼语、普拉尔语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T043222Z" creationid="Fu Rhong" creationdate="20131107T145712Z">
+        <seg>富拉语（Fula、Fulah、Pulaar、Pular）</seg>
       </tuv>
     </tu>
     <tu>
@@ -20663,8 +20719,8 @@ authors of previous versions.</seg>
       <tuv lang="EN">
         <seg>Galician</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
-        <seg>加利西亚语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T043234Z">
+        <seg>加利西亚语（Galician）</seg>
       </tuv>
     </tu>
     <tu>
@@ -20703,8 +20759,8 @@ authors of previous versions.</seg>
       <tuv lang="EN">
         <seg>Georgian</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T101300Z" creationid="Fu Rhong" creationdate="20131107T145750Z">
-        <seg>格鲁吉亚语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T043242Z" creationid="Fu Rhong" creationdate="20131107T145750Z">
+        <seg>格鲁吉亚语（Georgian）</seg>
       </tuv>
     </tu>
     <tu>
@@ -21105,8 +21161,8 @@ authors of previous versions.</seg>
       <tuv lang="EN">
         <seg>Greek, Modern</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131107T150005Z" creationid="Fu Rhong" creationdate="20131107T145847Z">
-        <seg>希腊语（现代）</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T053457Z" creationid="Fu Rhong" creationdate="20131107T145847Z">
+        <seg>希腊语，现代（Greek, Modern）</seg>
       </tuv>
     </tu>
     <tu>
@@ -21137,8 +21193,8 @@ authors of previous versions.</seg>
       <tuv lang="EN">
         <seg>Guaraní</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T101349Z" creationid="Fu Rhong" creationdate="20131107T150038Z">
-        <seg>瓜拉尼语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T043310Z" creationid="Fu Rhong" creationdate="20131107T150038Z">
+        <seg>瓜拉尼语（Guaraní）</seg>
       </tuv>
     </tu>
     <tu>
@@ -21153,8 +21209,8 @@ authors of previous versions.</seg>
       <tuv lang="EN">
         <seg>Gujarati</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
-        <seg>古吉拉特语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T043320Z">
+        <seg>古吉拉特语（Gujarati）</seg>
       </tuv>
     </tu>
     <tu>
@@ -21309,8 +21365,8 @@ authors of previous versions.</seg>
       <tuv lang="EN">
         <seg>Haitian, Haitian Creole</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T101434Z" creationid="Fu Rhong" creationdate="20131107T150050Z">
-        <seg>海地语、海地克里奥尔语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T043346Z" creationid="Fu Rhong" creationdate="20131107T150050Z">
+        <seg>海地克里奥尔语（Haitian、Haitian Creole）</seg>
       </tuv>
     </tu>
     <tu>
@@ -21333,8 +21389,8 @@ authors of previous versions.</seg>
       <tuv lang="EN">
         <seg>Hausa</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131107T150118Z" creationid="Fu Rhong" creationdate="20131107T150118Z">
-        <seg>豪撒语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T043405Z" creationid="Fu Rhong" creationdate="20131107T150118Z">
+        <seg>豪萨语（Hausa）</seg>
       </tuv>
     </tu>
     <tu>
@@ -21390,8 +21446,8 @@ authors of previous versions.</seg>
       <tuv lang="EN">
         <seg>Hebrew (modern)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131107T150143Z" creationid="Fu Rhong" creationdate="20131107T150143Z">
-        <seg>希伯来语（现代）</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T043430Z" creationid="Fu Rhong" creationdate="20131107T150143Z">
+        <seg>希伯来语（Hebrew (modern)）</seg>
       </tuv>
     </tu>
     <tu>
@@ -21544,8 +21600,8 @@ Note: not all filters allow you to select an encoding.</seg>
       <tuv lang="EN">
         <seg>Herero</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131107T150223Z" creationid="Fu Rhong" creationdate="20131107T150223Z">
-        <seg>赫勒娄语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T043442Z" creationid="Fu Rhong" creationdate="20131107T150223Z">
+        <seg>赫雷罗语（Herero）</seg>
       </tuv>
     </tu>
     <tu>
@@ -21592,8 +21648,8 @@ Note: not all filters allow you to select an encoding.</seg>
       <tuv lang="EN">
         <seg>Hindi</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
-        <seg>印地语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T043452Z">
+        <seg>印地语（Hindi）</seg>
       </tuv>
     </tu>
     <tu>
@@ -21616,8 +21672,8 @@ Note: not all filters allow you to select an encoding.</seg>
       <tuv lang="EN">
         <seg>Hiri Motu</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T101516Z" creationid="Fu Rhong" creationdate="20131107T150300Z">
-        <seg>希里莫图语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T043500Z" creationid="Fu Rhong" creationdate="20131107T150300Z">
+        <seg>希里莫图语（Hiri Motu）</seg>
       </tuv>
     </tu>
     <tu>
@@ -21938,8 +21994,8 @@ prior to 60 days after the cessation.</seg>
       <tuv lang="EN">
         <seg>Hungarian</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
-        <seg>匈牙利语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T043513Z">
+        <seg>匈牙利语（Hungarian）</seg>
       </tuv>
     </tu>
     <tu>
@@ -22114,16 +22170,16 @@ SUCH DAMAGES.</seg>
       <tuv lang="EN">
         <seg>ISO language codes</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131122T070306Z">
-        <seg>ISO语言代码</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T024222Z">
+        <seg>ISO 语言代码</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Icelandic</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131108T025340Z" creationid="Fu Rhong" creationdate="20131108T025340Z">
-        <seg>冰岛语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T043658Z" creationid="Fu Rhong" creationdate="20131108T025340Z">
+        <seg>冰岛语（Icelandic）</seg>
       </tuv>
     </tu>
     <tu>
@@ -22194,8 +22250,8 @@ SUCH DAMAGES.</seg>
       <tuv lang="EN">
         <seg>Ido</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131108T025248Z" creationid="Fu Rhong" creationdate="20131108T025248Z">
-        <seg>伊多语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T043651Z" creationid="Fu Rhong" creationdate="20131108T025248Z">
+        <seg>伊多语（Ido）</seg>
       </tuv>
     </tu>
     <tu>
@@ -24200,8 +24256,8 @@ work and works based on it.</seg>
       <tuv lang="EN">
         <seg>Igbo</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131107T150518Z" creationid="Fu Rhong" creationdate="20131107T150518Z">
-        <seg>伊博语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T043631Z" creationid="Fu Rhong" creationdate="20131107T150518Z">
+        <seg>伊博语（Igbo）</seg>
       </tuv>
     </tu>
     <tu>
@@ -25399,8 +25455,8 @@ patent against the party.</seg>
       <tuv lang="EN">
         <seg>Indonesian</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131107T150420Z" creationid="Fu Rhong" creationdate="20131107T150420Z">
-        <seg>印尼语群</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T043558Z" creationid="Fu Rhong" creationdate="20131107T150420Z">
+        <seg>印尼语（Indonesian）</seg>
       </tuv>
     </tu>
     <tu>
@@ -25954,24 +26010,24 @@ everything.</seg>
       <tuv lang="EN">
         <seg>Interlingua</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131107T150339Z" creationid="Fu Rhong" creationdate="20131107T150339Z">
-        <seg>国际语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T054057Z" creationid="Fu Rhong" creationdate="20131107T150339Z">
+        <seg>国际语 A（Interlingua）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Interlingue</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T101552Z" creationid="Fu Rhong" creationdate="20131107T150450Z">
-        <seg>国际语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T054049Z" creationid="Fu Rhong" creationdate="20131107T150450Z">
+        <seg>国际语 E（Interlingue）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Introduction</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
-        <seg>介绍</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T103330Z">
+        <seg>引言</seg>
       </tuv>
     </tu>
     <tu>
@@ -25984,18 +26040,26 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Introduction to tokenizers and scripts</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T111137Z" creationid="WynnChen" creationdate="20190404T111137Z">
+        <seg>分词器和脚本简介</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Inuktitut</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131108T025446Z" creationid="Fu Rhong" creationdate="20131108T025446Z">
-        <seg>伊努伊特语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T043712Z" creationid="Fu Rhong" creationdate="20131108T025446Z">
+        <seg>伊努伊特语（Inuktitut）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Inupiaq</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T101655Z" creationid="Fu Rhong" creationdate="20131107T150653Z">
-        <seg>依努皮亚语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T043643Z" creationid="Fu Rhong" creationdate="20131107T150653Z">
+        <seg>依努庇克语（Inupiaq）</seg>
       </tuv>
     </tu>
     <tu>
@@ -26042,8 +26106,8 @@ everything.</seg>
       <tuv lang="EN">
         <seg>Irish</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
-        <seg>爱尔兰语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T043623Z">
+        <seg>爱尔兰语（Irish）</seg>
       </tuv>
     </tu>
     <tu>
@@ -26429,6 +26493,14 @@ everything.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
         <seg>可以在翻译进行的过程中对项目的属性进行修改。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is possible to move from one pane to another (for instance, from the Editor to the Fuzzy Matches pane) using &lt;k0&gt;Ctrl+Tab&lt;/k0&gt;. &lt;k1&gt;Ctrl+Shift+Tab&lt;/k1&gt; moves back to the previous pane. The shortcuts &lt;k2&gt;Ctrl+A&lt;/k2&gt; and &lt;k3&gt;Ctrl+C&lt;/k3&gt; work in panes, allowing to copy all or some of the information to the clipboard.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T023844Z" creationid="WynnChen" creationdate="20190405T023442Z">
+        <seg>可以用 &lt;k0&gt;Ctrl+Tab&lt;/k0&gt; 从一个窗格移动到另一个窗格（例如，从编辑器移动到模糊匹配窗格）。&lt;k1&gt;Ctrl+Shift+Tab&lt;/k1&gt; 移回上一个窗格。快捷方式 &lt;k2&gt;Ctrl+A&lt;/k2&gt; 和 &lt;k3&gt;Ctrl+C&lt;/k3&gt;在窗格中也有效，允许将全部或部分信息复制到剪贴板。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27018,8 +27090,8 @@ itself on the first run. Later calls do not need to be online.</seg>
       <tuv lang="EN">
         <seg>Javanese</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131108T025510Z" creationid="Fu Rhong" creationdate="20131108T025510Z">
-        <seg>爪哇语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T043724Z" creationid="Fu Rhong" creationdate="20131108T025510Z">
+        <seg>爪哇语（Javanese）</seg>
       </tuv>
     </tu>
     <tu>
@@ -27050,8 +27122,8 @@ itself on the first run. Later calls do not need to be online.</seg>
       <tuv lang="EN">
         <seg>Jean-Christophe Helary: special thanks to JC for his concise description of OmegaT run, command line parameters and all other details, I have yet to notice.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131102T030310Z" creationid="Fu Rhong" creationdate="20131102T030310Z">
-        <seg>Jean-Christophe Helary：特别感谢 JC 对 OmegaT 运行和命令行参数及我注意到的所有其他细节的简洁说明。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T131622Z" creationid="Fu Rhong" creationdate="20131102T030310Z">
+        <seg>Jean-Christophe Helary：特别感谢 JC 对 OmegaT 的运行、命令行参数、和所有其他细节的简要描述，我都没有注意到。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27114,40 +27186,40 @@ itself on the first run. Later calls do not need to be online.</seg>
       <tuv lang="EN">
         <seg>Kalaallisut, Greenlandic</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T101804Z" creationid="Fu Rhong" creationdate="20131108T025519Z">
-        <seg>格陵兰语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T043740Z" creationid="Fu Rhong" creationdate="20131108T025519Z">
+        <seg>格陵兰语（Kalaallisut、Greenlandic）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Kannada</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
-        <seg>卡纳塔克语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T043748Z">
+        <seg>坎纳达语（Kannada）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Kanuri</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131108T025559Z" creationid="Fu Rhong" creationdate="20131108T025559Z">
-        <seg>卡努里语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T043755Z" creationid="Fu Rhong" creationdate="20131108T025559Z">
+        <seg>卡努里语（Kanuri）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Kashmiri</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131108T025617Z" creationid="Fu Rhong" creationdate="20131108T025617Z">
-        <seg>克什米尔语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T043802Z" creationid="Fu Rhong" creationdate="20131108T025617Z">
+        <seg>克什米尔语（Kashmiri）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Kazakh</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T101824Z" creationid="Fu Rhong" creationdate="20131108T025650Z">
-        <seg>哈萨克语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T043813Z" creationid="Fu Rhong" creationdate="20131108T025650Z">
+        <seg>哈萨克语（Kazakh）</seg>
       </tuv>
     </tu>
     <tu>
@@ -27314,64 +27386,64 @@ itself on the first run. Later calls do not need to be online.</seg>
       <tuv lang="EN">
         <seg>Khmer</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131108T025717Z" creationid="Fu Rhong" creationdate="20131108T025717Z">
-        <seg>高棉语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T043822Z" creationid="Fu Rhong" creationdate="20131108T025717Z">
+        <seg>高棉语（Khmer）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Kikuyu, Gikuyu</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T101854Z" creationid="Fu Rhong" creationdate="20131108T025727Z">
-        <seg>吉库犹语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T043844Z" creationid="Fu Rhong" creationdate="20131108T025727Z">
+        <seg>基库尤语（Kikuyu、Gikuyu）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Kinyarwanda</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
-        <seg>卢旺达语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T043857Z">
+        <seg>基尼阿万达语（Kinyarwanda）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Kirghiz, Kyrgyz</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T101946Z" creationid="Fu Rhong" creationdate="20131108T025736Z">
-        <seg>吉尔吉斯语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T043907Z" creationid="Fu Rhong" creationdate="20131108T025736Z">
+        <seg>吉尔吉斯语（Kirghiz、Kyrgyz）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Kirundi</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131108T065800Z" creationid="Fu Rhong" creationdate="20131108T030914Z">
-        <seg>基隆迪语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T050653Z" creationid="Fu Rhong" creationdate="20131108T030914Z">
+        <seg>基隆迪语（Kirundi）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Komi</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131108T025757Z" creationid="Fu Rhong" creationdate="20131108T025757Z">
-        <seg>科米语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T043916Z" creationid="Fu Rhong" creationdate="20131108T025757Z">
+        <seg>科米语（Komi）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Kongo</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131108T025815Z" creationid="Fu Rhong" creationdate="20131108T025815Z">
-        <seg>刚果语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T045616Z" creationid="Fu Rhong" creationdate="20131108T025815Z">
+        <seg>刚果语（Kongo）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Korean</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
-        <seg>韩语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T045627Z">
+        <seg>朝鲜语（Korean）</seg>
       </tuv>
     </tu>
     <tu>
@@ -27394,16 +27466,16 @@ itself on the first run. Later calls do not need to be online.</seg>
       <tuv lang="EN">
         <seg>Kurdish</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
-        <seg>库尔德语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T045651Z">
+        <seg>库尔德语（Kurdish）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Kwanyama, Kuanyama</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T102123Z" creationid="Fu Rhong" creationdate="20131108T025826Z">
-        <seg>库瓦亚马语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T045702Z" creationid="Fu Rhong" creationdate="20131108T025826Z">
+        <seg>宽亚玛语（Kwanyama、Kuanyama）</seg>
       </tuv>
     </tu>
     <tu>
@@ -27471,6 +27543,7 @@ itself on the first run. Later calls do not need to be online.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>语言中文名称参照中华人民共和国国家标准 GB/T 4880.2-2000。</note>
       <tuv lang="EN">
         <seg>Language name</seg>
       </tuv>
@@ -27562,8 +27635,8 @@ itself on the first run. Later calls do not need to be online.</seg>
       <tuv lang="EN">
         <seg>LanguageTool plugin</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T084551Z" creationid="Fu Rhong" creationdate="20131108T102350Z">
-        <seg>LanguageTool插件</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T103234Z" creationid="Fu Rhong" creationdate="20131108T102350Z">
+        <seg>LanguageTool 插件</seg>
       </tuv>
     </tu>
     <tu>
@@ -27612,6 +27685,14 @@ itself on the first run. Later calls do not need to be online.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Lenovo" changedate="20180418T085738Z" creationid="Fu Rhong" creationdate="20131108T113341Z">
         <seg>如果/plugin文件夹中有旧版本的LanguageTool，则无法正常工作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LanguageTool will not work properly if an old version is found in the /plugin folder. Remove LanguageTool from the /plugin folder before starting OmegaT.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T110407Z" creationid="WynnChen" creationdate="20190405T030344Z">
+        <seg>/plugin 文件夹中有旧版本时 LanguageTool 无法正常工作。请在启动 OmegaT 前从 /plugin 文件夹中删除 LanguageTool。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27722,8 +27803,8 @@ itself on the first run. Later calls do not need to be online.</seg>
       <tuv lang="EN">
         <seg>Lao</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
-        <seg>老挝语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T045814Z">
+        <seg>老挝语（Lao）</seg>
       </tuv>
     </tu>
     <tu>
@@ -27740,6 +27821,14 @@ itself on the first run. Later calls do not need to be online.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131102T030524Z" creationid="Fu Rhong" creationdate="20131102T030524Z">
         <seg>最后但同样重要的：感谢所有找出OmegaT 前一版本文档不一致性的&lt;u0&gt;OmegaT 文档跟踪器&lt;/u0&gt;贡献者。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Last but not least: my thanks to all the contributors to&lt;u0&gt; OmegaT documentation tracker&lt;/u0&gt; for all the inconsistencies found in the previous versions of the documentation. Keep up your good work!</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T132044Z" creationid="WynnChen" creationdate="20190404T132044Z">
+        <seg>最后但同样重要的：感谢所有找出 OmegaT 文档的前一版本中所有不一致之处 &lt;u0&gt;OmegaT 文档跟踪器&lt;/u0&gt;贡献者。继续你们那出色的工作！</seg>
       </tuv>
     </tu>
     <tu>
@@ -27808,16 +27897,16 @@ later version.</seg>
       <tuv lang="EN">
         <seg>Latin</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131108T025838Z" creationid="Fu Rhong" creationdate="20131108T025838Z">
-        <seg>拉丁语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T045710Z" creationid="Fu Rhong" creationdate="20131108T025838Z">
+        <seg>拉丁语（Latin）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Latvian</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
-        <seg>拉脱维亚语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T045840Z">
+        <seg>拉脱维亚语（Latvian）</seg>
       </tuv>
     </tu>
     <tu>
@@ -28000,8 +28089,8 @@ later version.</seg>
       <tuv lang="EN">
         <seg>Left:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120131T114144Z">
-        <seg>Left:</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T141044Z">
+        <seg>左箭头键</seg>
       </tuv>
     </tu>
     <tu>
@@ -28040,8 +28129,8 @@ later version.</seg>
       <tuv lang="EN">
         <seg>Legal notices and Acknowledgements</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Yujun Yin" changedate="20131007T090158Z" creationid="Yujun Yin" creationdate="20131007T090158Z">
-        <seg>法律通知和鸣谢</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T111148Z" creationid="Yujun Yin" creationdate="20131007T090158Z">
+        <seg>法律声明和致谢</seg>
       </tuv>
     </tu>
     <tu>
@@ -28226,8 +28315,8 @@ later version.</seg>
       <tuv lang="EN">
         <seg>Limburgish, Limburgan, Limburger</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T102334Z" creationid="Fu Rhong" creationdate="20131108T025923Z">
-        <seg>林堡语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T045756Z" creationid="Fu Rhong" creationdate="20131108T025923Z">
+        <seg>林堡语（Limburgish、Limburgan、Limburger）</seg>
       </tuv>
     </tu>
     <tu>
@@ -28242,8 +28331,8 @@ later version.</seg>
       <tuv lang="EN">
         <seg>Lingala</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131108T030029Z" creationid="Fu Rhong" creationdate="20131108T025957Z">
-        <seg>林加拉语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T045806Z" creationid="Fu Rhong" creationdate="20131108T025957Z">
+        <seg>林加拉语（Lingala）</seg>
       </tuv>
     </tu>
     <tu>
@@ -28370,8 +28459,8 @@ later version.</seg>
       <tuv lang="EN">
         <seg>Lithuanian</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
-        <seg>立陶宛语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T045821Z">
+        <seg>立陶宛语（Lithuanian）</seg>
       </tuv>
     </tu>
     <tu>
@@ -28618,8 +28707,8 @@ later version.</seg>
       <tuv lang="EN">
         <seg>Luba-Katanga</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T102444Z" creationid="Fu Rhong" creationdate="20131108T030131Z">
-        <seg>卢巴-加丹加语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T100809Z" creationid="Fu Rhong" creationdate="20131108T030131Z">
+        <seg>卢巴—加丹加语（Luba-Katanga）</seg>
       </tuv>
     </tu>
     <tu>
@@ -28642,16 +28731,16 @@ later version.</seg>
       <tuv lang="EN">
         <seg>Luganda</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131108T025921Z" creationid="Fu Rhong" creationdate="20131108T025921Z">
-        <seg>卢干达语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T045741Z" creationid="Fu Rhong" creationdate="20131108T025921Z">
+        <seg>干达语（Luganda）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Luxembourgish, Letzeburgesch</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T102223Z" creationid="Fu Rhong" creationdate="20131108T025841Z">
-        <seg>卢森堡语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T045720Z" creationid="Fu Rhong" creationdate="20131108T025841Z">
+        <seg>卢森堡语（Luxembourgish、Letzeburgesch）</seg>
       </tuv>
     </tu>
     <tu>
@@ -28778,8 +28867,8 @@ later version.</seg>
       <tuv lang="EN">
         <seg>Macedonian</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
-        <seg>马其顿语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T045900Z">
+        <seg>马其顿语（Macedonian）</seg>
       </tuv>
     </tu>
     <tu>
@@ -28994,32 +29083,32 @@ later version.</seg>
       <tuv lang="EN">
         <seg>Malagasy</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131108T030224Z" creationid="Fu Rhong" creationdate="20131108T030224Z">
-        <seg>马达加斯加语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T045909Z" creationid="Fu Rhong" creationdate="20131108T030224Z">
+        <seg>马达加斯加语（Malagasy）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Malay</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
-        <seg>马来语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T045920Z">
+        <seg>马来语（Malay）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Malayalam</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
-        <seg>马拉亚拉姆语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T045927Z">
+        <seg>马拉亚拉姆语（Malayalam）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Maltese</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131108T030248Z" creationid="Fu Rhong" creationdate="20131108T030248Z">
-        <seg>马其他语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T045943Z" creationid="Fu Rhong" creationdate="20131108T030248Z">
+        <seg>马耳他语（Maltese）</seg>
       </tuv>
     </tu>
     <tu>
@@ -29042,8 +29131,8 @@ later version.</seg>
       <tuv lang="EN">
         <seg>Manx</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131108T030157Z" creationid="Fu Rhong" creationdate="20131108T030157Z">
-        <seg>马恩岛语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T045852Z" creationid="Fu Rhong" creationdate="20131108T030157Z">
+        <seg>马恩岛语（Manx）</seg>
       </tuv>
     </tu>
     <tu>
@@ -29082,8 +29171,8 @@ later version.</seg>
       <tuv lang="EN">
         <seg>Marathi (Marāṭhī)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131108T030309Z" creationid="Fu Rhong" creationdate="20131108T030309Z">
-        <seg>马拉地语（Marāṭhī）</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T050004Z" creationid="Fu Rhong" creationdate="20131108T030309Z">
+        <seg>马拉提语（Marathi (Marāṭhī)）</seg>
       </tuv>
     </tu>
     <tu>
@@ -29122,8 +29211,8 @@ later version.</seg>
       <tuv lang="EN">
         <seg>Marc Prior: correcting my first draft was an act of love for OmegaT and the English language.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131102T025034Z" creationid="Fu Rhong" creationdate="20131102T024910Z">
-        <seg>Marc Prior：由于热爱 OmegaT 和英语而改正我最初的草稿。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T130538Z" creationid="Fu Rhong" creationdate="20131102T024910Z">
+        <seg>Marc Prior：出于对 OmegaT 和英语的热爱改正我的初稿。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29307,8 +29396,8 @@ later version.</seg>
       <tuv lang="EN">
         <seg>Marshallese</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T102552Z" creationid="Fu Rhong" creationdate="20131108T030345Z">
-        <seg>马绍尔语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T050012Z" creationid="Fu Rhong" creationdate="20131108T030345Z">
+        <seg>马绍尔语（Marshallese）</seg>
       </tuv>
     </tu>
     <tu>
@@ -29875,8 +29964,8 @@ later version.</seg>
       <tuv lang="EN">
         <seg>Mongolian</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
-        <seg>蒙古语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T050018Z">
+        <seg>蒙古语（Mongolian）</seg>
       </tuv>
     </tu>
     <tu>
@@ -30376,8 +30465,8 @@ appropriate location such as the Applications folder.</seg>
       <tuv lang="EN">
         <seg>Māori</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T102503Z" creationid="Fu Rhong" creationdate="20131108T030255Z">
-        <seg>毛利语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T045951Z" creationid="Fu Rhong" creationdate="20131108T030255Z">
+        <seg>毛利语（Māori）</seg>
       </tuv>
     </tu>
     <tu>
@@ -30432,16 +30521,16 @@ appropriate location such as the Applications folder.</seg>
       <tuv lang="EN">
         <seg>Nauru</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T102613Z" creationid="Fu Rhong" creationdate="20131108T030408Z">
-        <seg>瑙鲁语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T050025Z" creationid="Fu Rhong" creationdate="20131108T030408Z">
+        <seg>瑙鲁语（Nauru）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Navajo, Navaho</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T102632Z" creationid="Fu Rhong" creationdate="20131108T030409Z">
-        <seg>纳瓦伙语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T050042Z" creationid="Fu Rhong" creationdate="20131108T030409Z">
+        <seg>纳瓦霍语（Navajo、Navaho）</seg>
       </tuv>
     </tu>
     <tu>
@@ -30472,8 +30561,8 @@ appropriate location such as the Applications folder.</seg>
       <tuv lang="EN">
         <seg>Ndonga</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T102712Z" creationid="Fu Rhong" creationdate="20131108T030510Z">
-        <seg>恩敦加语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T050129Z" creationid="Fu Rhong" creationdate="20131108T030510Z">
+        <seg>恩敦加语（Ndonga）</seg>
       </tuv>
     </tu>
     <tu>
@@ -30496,8 +30585,8 @@ appropriate location such as the Applications folder.</seg>
       <tuv lang="EN">
         <seg>Nepali</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
-        <seg>尼泊尔语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T050122Z">
+        <seg>尼泊尔语（Nepali）</seg>
       </tuv>
     </tu>
     <tu>
@@ -30965,40 +31054,40 @@ measures.</seg>
       <tuv lang="EN">
         <seg>North Ndebele</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131108T030644Z" creationid="Fu Rhong" creationdate="20131108T030446Z">
-        <seg>北恩德贝勒语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T050112Z" creationid="Fu Rhong" creationdate="20131108T030446Z">
+        <seg>北恩德贝勒语（North Ndebele）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Northern Sami</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131108T070036Z" creationid="Fu Rhong" creationdate="20131108T070036Z">
-        <seg>北萨米语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T050748Z" creationid="Fu Rhong" creationdate="20131108T070036Z">
+        <seg>北萨米语（Northern Sami）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Norwegian</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131108T030533Z" creationid="Fu Rhong" creationdate="20131108T030533Z">
-        <seg>挪威语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T050153Z" creationid="Fu Rhong" creationdate="20131108T030533Z">
+        <seg>挪威语（Norwegian）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Norwegian Bokmål</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
-        <seg>挪威博克马尔语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T050059Z">
+        <seg>挪威布克莫尔语（Norwegian Bokmål）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Norwegian Nynorsk</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
-        <seg>挪威尼诺斯克语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T050144Z">
+        <seg>新挪威语（Norwegian Nynorsk）</seg>
       </tuv>
     </tu>
     <tu>
@@ -31391,6 +31480,14 @@ measures.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131107T142447Z" creationid="Fu Rhong" creationdate="20131107T142447Z">
         <seg>请注意，您可以按自己的偏好重新分配快捷键。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note that you can reassign the shortcuts to your own preferences. See &lt;l0&gt;Appendix ShortCut Customization&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T024007Z" creationid="WynnChen" creationdate="20190405T024007Z">
+        <seg>请注意，您可以根据自己的偏好重新分配快捷键。参见《&lt;l0&gt;附录 快捷键自定义&lt;/l0&gt;》</seg>
       </tuv>
     </tu>
     <tu>
@@ -31847,8 +31944,8 @@ combination as such.</seg>
       <tuv lang="EN">
         <seg>Nuosu</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T102809Z" creationid="Fu Rhong" creationdate="20131108T030606Z">
-        <seg>彝语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T050247Z" creationid="Fu Rhong" creationdate="20131108T030606Z">
+        <seg>四川彝语（Nuosu）</seg>
       </tuv>
     </tu>
     <tu>
@@ -31911,8 +32008,8 @@ combination as such.</seg>
       <tuv lang="EN">
         <seg>Occitan</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T102916Z" creationid="Fu Rhong" creationdate="20131108T030707Z">
-        <seg>奥西坦语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T050259Z" creationid="Fu Rhong" creationdate="20131108T030707Z">
+        <seg>奥克西唐语（Occitan）</seg>
       </tuv>
     </tu>
     <tu>
@@ -31967,8 +32064,8 @@ combination as such.</seg>
       <tuv lang="EN">
         <seg>Ojibwe, Ojibwa</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T104926Z" creationid="Fu Rhong" creationdate="20131108T030708Z">
-        <seg>欧吉布瓦语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T050319Z" creationid="Fu Rhong" creationdate="20131108T030708Z">
+        <seg>奥吉布瓦语（Ojibwe、Ojibwa）</seg>
       </tuv>
     </tu>
     <tu>
@@ -31991,8 +32088,8 @@ combination as such.</seg>
       <tuv lang="EN">
         <seg>Old Church Slavonic, Church Slavic, Church Slavonic, Old Bulgarian, Old Slavonic</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T105214Z" creationid="Fu Rhong" creationdate="20131108T030711Z">
-        <seg>古教会斯拉夫语、教会斯拉夫语、古斯拉夫语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T050351Z" creationid="Fu Rhong" creationdate="20131108T030711Z">
+        <seg>教会斯拉夫语（Old Church Slavonic、Church Slavic、Church Slavonic、Old Bulgarian、Old Slavonic）</seg>
       </tuv>
     </tu>
     <tu>
@@ -34257,16 +34354,16 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>Oriya</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
-        <seg>奥里亚语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T050412Z">
+        <seg>奥利亚语（Oriya）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Oromo</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T105339Z" creationid="Fu Rhong" creationdate="20131108T030734Z">
-        <seg>库希特语言</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T100609Z" creationid="Fu Rhong" creationdate="20131108T030734Z">
+        <seg>奥洛莫语（Oromo）</seg>
       </tuv>
     </tu>
     <tu>
@@ -34297,8 +34394,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>Ossetian, Ossetic</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T105357Z" creationid="Fu Rhong" creationdate="20131108T030739Z">
-        <seg>奥塞特语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T050517Z" creationid="Fu Rhong" creationdate="20131108T030739Z">
+        <seg>奥塞梯语（Ossetian、Ossetic）</seg>
       </tuv>
     </tu>
     <tu>
@@ -34585,8 +34682,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>Panjabi, Punjabi</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T105417Z" creationid="Fu Rhong" creationdate="20131108T030748Z">
-        <seg>旁遮普语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T050528Z" creationid="Fu Rhong" creationdate="20131108T030748Z">
+        <seg>旁遮普语（Panjabi、Punjabi）</seg>
       </tuv>
     </tu>
     <tu>
@@ -34657,8 +34754,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>Pashto, Pushto</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T105518Z" creationid="Fu Rhong" creationdate="20131108T030805Z">
-        <seg>普什图语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T050558Z" creationid="Fu Rhong" creationdate="20131108T030805Z">
+        <seg>普什图语（Pashto、Pushto）</seg>
       </tuv>
     </tu>
     <tu>
@@ -34834,24 +34931,24 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>Persian</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131108T030802Z" creationid="Fu Rhong" creationdate="20131108T030802Z">
-        <seg>波斯语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T050544Z" creationid="Fu Rhong" creationdate="20131108T030802Z">
+        <seg>波斯语（Persian）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>PgDn:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120203T124011Z">
-        <seg>PgDn:</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T135955Z">
+        <seg>PgDn</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>PgUp:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120203T124011Z">
-        <seg>PgUp:</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T135916Z">
+        <seg>PgUp</seg>
       </tuv>
     </tu>
     <tu>
@@ -34990,8 +35087,8 @@ to be launched.</seg>
       <tuv lang="EN">
         <seg>Please check the &lt;u0&gt;ISO 639 Code Tables&lt;/u0&gt; for further and up-to-date information about language codes.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="puleiying" changedate="20180414T183556Z" creationid="puleiying" creationdate="20180414T183556Z">
-        <seg>请参阅 &lt;u0&gt;ISO 639 代码列表&lt;/u0&gt;了解最新的语言代码。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T024423Z" creationid="puleiying" creationdate="20180414T183556Z">
+        <seg>有关语言代码的更多和最新信息，请查看 &lt;u0&gt;ISO 639 代码列表&lt;/u0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35374,8 +35471,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Portuguese</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
-        <seg>葡萄牙语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T050604Z">
+        <seg>葡萄牙语（Portuguese）</seg>
       </tuv>
     </tu>
     <tu>
@@ -36387,8 +36484,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Pāli</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T105443Z" creationid="Fu Rhong" creationdate="20131108T030754Z">
-        <seg>巴利语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T050535Z" creationid="Fu Rhong" creationdate="20131108T030754Z">
+        <seg>巴利语（Pāli）</seg>
       </tuv>
     </tu>
     <tu>
@@ -36419,8 +36516,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Quechua</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131108T030835Z" creationid="Fu Rhong" creationdate="20131108T030835Z">
-        <seg>盖丘亚语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T050617Z" creationid="Fu Rhong" creationdate="20131108T030835Z">
+        <seg>凯楚亚语（Quechua）</seg>
       </tuv>
     </tu>
     <tu>
@@ -36499,8 +36596,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>RTL-LTR switch</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120130T053452Z">
-        <seg>RTL-LTR 开关</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T140955Z">
+        <seg>在从左到右（LTR）和从右到左（RTL）之间切换</seg>
       </tuv>
     </tu>
     <tu>
@@ -37853,8 +37950,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Right:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120203T124009Z">
-        <seg>Right:</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T141050Z">
+        <seg>右箭头键</seg>
       </tuv>
     </tu>
     <tu>
@@ -37869,16 +37966,16 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Romanian, Moldavian, Moldovan</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T105639Z" creationid="Fu Rhong" creationdate="20131108T065814Z">
-        <seg>罗马尼亚语、摩尔达维亚语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T050705Z" creationid="Fu Rhong" creationdate="20131108T065814Z">
+        <seg>罗马尼亚语（Romanian、Moldavian、Moldovan）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Romansh</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T105608Z" creationid="Fu Rhong" creationdate="20131108T030901Z">
-        <seg>罗曼斯语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T100753Z" creationid="Fu Rhong" creationdate="20131108T030901Z">
+        <seg>利托—罗曼语（Romansh）</seg>
       </tuv>
     </tu>
     <tu>
@@ -38141,8 +38238,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Samoan</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131108T070057Z" creationid="Fu Rhong" creationdate="20131108T070057Z">
-        <seg>萨摩亚语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T050759Z" creationid="Fu Rhong" creationdate="20131108T070057Z">
+        <seg>萨摩亚语（Samoan）</seg>
       </tuv>
     </tu>
     <tu>
@@ -38189,32 +38286,32 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Samuel Murray: for the introductory chapter "Learn to use OmegaT in 5 minutes".</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131108T120028Z" creationid="Fu Rhong" creationdate="20131102T025158Z">
-        <seg>Samuel Murray：写了“五分钟内学会OmegaT”入门篇章。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T131142Z" creationid="Fu Rhong" creationdate="20131102T025158Z">
+        <seg>Samuel Murray：写了《五分钟内学会使用 OmegaT》入门篇章。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Sango</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131108T070120Z" creationid="Fu Rhong" creationdate="20131108T070120Z">
-        <seg>桑戈语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T050804Z" creationid="Fu Rhong" creationdate="20131108T070120Z">
+        <seg>桑戈语（Sango）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Sanskrit (Saṁskṛta)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131108T065835Z" creationid="Fu Rhong" creationdate="20131108T065835Z">
-        <seg>梵语（Saṁskṛta）</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T050718Z" creationid="Fu Rhong" creationdate="20131108T065835Z">
+        <seg>梵语（Sanskrit (Saṁskṛta)）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Sardinian</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T112201Z" creationid="Fu Rhong" creationdate="20131108T065905Z">
-        <seg>撒丁语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T050727Z" creationid="Fu Rhong" creationdate="20131108T065905Z">
+        <seg>撒丁语（Sardinian）</seg>
       </tuv>
     </tu>
     <tu>
@@ -38465,8 +38562,8 @@ When using regular expressions, the replacement string supports references to gr
       <tuv lang="EN">
         <seg>Scottish Gaelic, Gaelic</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131108T070154Z" creationid="Fu Rhong" creationdate="20131108T070154Z">
-        <seg>苏格兰盖尔语, Gaelic</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T050826Z" creationid="Fu Rhong" creationdate="20131108T070154Z">
+        <seg>苏格兰盖尔语（Scottish Gaelic、Gaelic）</seg>
       </tuv>
     </tu>
     <tu>
@@ -39745,8 +39842,8 @@ When using regular expressions, the replacement string supports references to gr
       <tuv lang="EN">
         <seg>Serbian</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
-        <seg>塞尔维亚语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T050813Z">
+        <seg>塞尔维亚语（Serbian）</seg>
       </tuv>
     </tu>
     <tu>
@@ -39985,8 +40082,8 @@ When using regular expressions, the replacement string supports references to gr
       <tuv lang="EN">
         <seg>Shona</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131108T100952Z" creationid="Fu Rhong" creationdate="20131108T100952Z">
-        <seg>修纳语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T050835Z" creationid="Fu Rhong" creationdate="20131108T100952Z">
+        <seg>绍纳语（Shona）</seg>
       </tuv>
     </tu>
     <tu>
@@ -40297,8 +40394,8 @@ When using regular expressions, the replacement string supports references to gr
       <tuv lang="EN">
         <seg>Sindhi</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T112247Z" creationid="Fu Rhong" creationdate="20131108T065927Z">
-        <seg>信德语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T050734Z" creationid="Fu Rhong" creationdate="20131108T065927Z">
+        <seg>信德语（Sindhi）</seg>
       </tuv>
     </tu>
     <tu>
@@ -40313,8 +40410,8 @@ When using regular expressions, the replacement string supports references to gr
       <tuv lang="EN">
         <seg>Sinhala, Sinhalese</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T112306Z" creationid="Fu Rhong" creationdate="20131108T100954Z">
-        <seg>锡兰语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T050859Z" creationid="Fu Rhong" creationdate="20131108T100954Z">
+        <seg>僧加罗语（Sinhala, Sinhalese）</seg>
       </tuv>
     </tu>
     <tu>
@@ -40393,8 +40490,8 @@ When using regular expressions, the replacement string supports references to gr
       <tuv lang="EN">
         <seg>Slovene</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131108T101036Z" creationid="Fu Rhong" creationdate="20131108T101036Z">
-        <seg>斯洛文尼亚语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T050926Z" creationid="Fu Rhong" creationdate="20131108T101036Z">
+        <seg>斯洛文尼亚语（Slovene）</seg>
       </tuv>
     </tu>
     <tu>
@@ -40449,8 +40546,8 @@ When using regular expressions, the replacement string supports references to gr
       <tuv lang="EN">
         <seg>Somali</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131108T101116Z" creationid="Fu Rhong" creationdate="20131108T101116Z">
-        <seg>索马利语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T050933Z" creationid="Fu Rhong" creationdate="20131108T101116Z">
+        <seg>索马里语（Somali）</seg>
       </tuv>
     </tu>
     <tu>
@@ -40979,16 +41076,16 @@ of the GPL, as needed to protect the freedom of users.</seg>
       <tuv lang="EN">
         <seg>South Ndebele</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131108T030627Z" creationid="Fu Rhong" creationdate="20131108T030627Z">
-        <seg>南恩德贝勒语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T050240Z" creationid="Fu Rhong" creationdate="20131108T030627Z">
+        <seg>南恩德贝勒语（South Ndebele）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Southern Sotho</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
-        <seg>南索托语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T101423Z">
+        <seg>南部索托语（Southern Sotho）</seg>
       </tuv>
     </tu>
     <tu>
@@ -41011,8 +41108,8 @@ of the GPL, as needed to protect the freedom of users.</seg>
       <tuv lang="EN">
         <seg>Spanish, Castilian</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T112340Z" creationid="Fu Rhong" creationdate="20131108T101121Z">
-        <seg>西班牙语、卡斯提语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T051004Z" creationid="Fu Rhong" creationdate="20131108T101121Z">
+        <seg>西班牙语（Spanish、Castilian）</seg>
       </tuv>
     </tu>
     <tu>
@@ -41598,8 +41695,8 @@ of the GPL, as needed to protect the freedom of users.</seg>
       <tuv lang="EN">
         <seg>Sundanese</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T112354Z" creationid="Fu Rhong" creationdate="20131108T101144Z">
-        <seg>巽他语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T051012Z" creationid="Fu Rhong" creationdate="20131108T101144Z">
+        <seg>巽他语（Sundanese）</seg>
       </tuv>
     </tu>
     <tu>
@@ -41638,16 +41735,16 @@ of the GPL, as needed to protect the freedom of users.</seg>
       <tuv lang="EN">
         <seg>Swahili</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
-        <seg>斯瓦希里语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T051020Z">
+        <seg>斯瓦希里语（Swahili）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Swati</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
-        <seg>斯瓦特语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T101454Z">
+        <seg>斯瓦特语（Swati）</seg>
       </tuv>
     </tu>
     <tu>
@@ -41752,6 +41849,14 @@ of the GPL, as needed to protect the freedom of users.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T135133Z" creationid="Zenobia Fang" creationdate="20180423T135133Z">
         <seg>系统要求</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>System-wide commands Select All (&lt;k0&gt;Ctrl+A&lt;/k0&gt;), Paste (&lt;e1&gt;Ctrl+V&lt;/e1&gt;), Cut (&lt;e2&gt;Ctrl+X&lt;/e2&gt;), copy (&lt;e3&gt;Ctrl+C)&lt;/e3&gt;, Insert Match or Selection &lt;e4&gt;(Ctrl+I&lt;/e4&gt;) and Insert source (&lt;e5&gt;Ctrl+Shift+I&lt;/e5&gt;) act in principle on the text within the currently open segment only.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T023318Z" creationid="WynnChen" creationdate="20190405T023318Z">
+        <seg>系统范围的命令全选（&lt;k0&gt;Ctrl+A&lt;/k0&gt;）、粘贴（&lt;e1&gt;Ctrl+V&lt;/e1&gt;）、剪切（&lt;e2&gt;Ctrl+X&lt;/e2&gt;）、复制（&lt;e3&gt;Ctrl+C&lt;/e3&gt;），插入匹配或选区&lt;e4&gt;（Ctrl+I&lt;/e4&gt;）和插入原文（&lt;e5&gt;Ctrl+Shift+I&lt;/e5&gt;）原则上仅对当前打开的片段内的文本起作用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42188,8 +42293,8 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       <tuv lang="EN">
         <seg>Tagalog</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131108T101324Z" creationid="Fu Rhong" creationdate="20131108T101324Z">
-        <seg>塔加拉族语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T101907Z" creationid="Fu Rhong" creationdate="20131108T101324Z">
+        <seg>他加禄语（Tagalog）</seg>
       </tuv>
     </tu>
     <tu>
@@ -42292,16 +42397,16 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       <tuv lang="EN">
         <seg>Tahitian</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131108T101735Z" creationid="Fu Rhong" creationdate="20131108T101735Z">
-        <seg>大溪地语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T102333Z" creationid="Fu Rhong" creationdate="20131108T101735Z">
+        <seg>塔西提语（Tahitian）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Tajik</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
-        <seg>塔吉克语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T051102Z">
+        <seg>塔吉克语（Tajik）</seg>
       </tuv>
     </tu>
     <tu>
@@ -42316,8 +42421,8 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       <tuv lang="EN">
         <seg>Tamil</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
-        <seg>泰米尔语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T051050Z">
+        <seg>泰米尔语（Tamil）</seg>
       </tuv>
     </tu>
     <tu>
@@ -42404,8 +42509,8 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       <tuv lang="EN">
         <seg>Tatar</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131108T101559Z" creationid="Fu Rhong" creationdate="20131108T101559Z">
-        <seg>鞑靼语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T102224Z" creationid="Fu Rhong" creationdate="20131108T101559Z">
+        <seg>塔塔尔语（Tatar）</seg>
       </tuv>
     </tu>
     <tu>
@@ -42540,8 +42645,8 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       <tuv lang="EN">
         <seg>Telugu</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131108T101207Z" creationid="Fu Rhong" creationdate="20131108T101207Z">
-        <seg>泰卢固语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T051056Z" creationid="Fu Rhong" creationdate="20131108T101207Z">
+        <seg>泰卢固语（Telugu）</seg>
       </tuv>
     </tu>
     <tu>
@@ -42718,8 +42823,8 @@ The scope of a text replacement is the target segments of the project, whether t
       <tuv lang="EN">
         <seg>Thai</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
-        <seg>泰语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T051150Z">
+        <seg>泰语（Thai）</seg>
       </tuv>
     </tu>
     <tu>
@@ -42869,8 +42974,8 @@ subprograms and other parts of the work.</seg>
       <tuv lang="EN">
         <seg>The "Shift" key doesn't exhibit any special behavior per se: when the "Shift" key is pressed, all keys move the cursor in their usual manner, except in the case of the &lt;l0&gt;Shift+Enter&lt;/l0&gt; combination, that inserts a line break into the text.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131107T141949Z" creationid="Fu Rhong" creationdate="20131102T030628Z">
-        <seg>“Shift”键不会表现出特殊的行为：在按下 "Shift" 时使用上面快捷键也会以相同的方式移动，唯一的例外是&lt;l0&gt;Shift+Enter&lt;/l0&gt;组合键会在文本中插入新行符。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T023026Z" creationid="Fu Rhong" creationdate="20131102T030628Z">
+        <seg>“Shift”键本身没有任何特殊行为：当按下“Shift”键时，所有键都以其正常的方式移动光标，唯一的例外是 &lt;l0&gt;Shift + Enter &lt;/l0&gt; 组合键，它会在文本中插入一个换行符。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43356,8 +43461,8 @@ software and other kinds of works.</seg>
       <tuv lang="EN">
         <seg>The LanguageTool in OmegaT</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131108T110424Z" creationid="Fu Rhong" creationdate="20131108T110424Z">
-        <seg>OmegaT中的LanguageTool</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T105506Z" creationid="Fu Rhong" creationdate="20131108T110424Z">
+        <seg>OmegaT 中的 LanguageTool</seg>
       </tuv>
     </tu>
     <tu>
@@ -43366,6 +43471,14 @@ software and other kinds of works.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131108T110449Z" creationid="Fu Rhong" creationdate="20131108T110449Z">
         <seg>LanguageTool插件包含在OmegaT中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The LanguageTool plugin is included in OmegaT. It will be used automatically by OmegaT if &lt;g0&gt;Options &gt; Language Checker&lt;/g0&gt; is checked. The rules applied (if any) will depend on the source and target language of the project. When a rule is triggered, the corresponding phrase will be underlined in blue in the Editor (see &lt;e1&gt;also &lt;/e1&gt;and &lt;e2&gt;I didn't do nothing&lt;/e2&gt; in the picture above). When hovering the mouse over the underlined phrase, an explanation will appear.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T110222Z" creationid="WynnChen" creationdate="20190405T030341Z">
+        <seg>OmegaT 中 已包含了 LanguageTool 插件。如果已勾选了 &lt;g0&gt;选项 &gt; 语言检查器&lt;/g0&gt;，OmegaT 会自动使用它。所应用的规则（如果有）取决于项目的原文语言和译文语言。当有规则被触发时，编辑器中相应短语会标上蓝色下划线（请参阅上图中的 &lt;e1&gt;also&lt;/e1&gt; 和 &lt;e2&gt;I didn't do nothing&lt;/e2&gt;）。将鼠标放在下划线短语上时，会出现相应说明。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48840,6 +48953,14 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This short text describes key behavior in the editor pane. The term "Move to inside segment" means, that the cursor moves to the beginning of the segment if it was previously before the segment, and to the end of the segment if it was previously after it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T135607Z" creationid="WynnChen" creationdate="20190404T135607Z">
+        <seg>此简短文本描述了编辑窗格中的按键行为。术语“移动到片段内”是指，如果光标原来在此片段之前则移动到片段的开始处，如果之前在此片段之后则移动到片段的末尾。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This situation will probably be familiar to you if you have translated Powerpoint files in OmegaT, or for that matter other CAT tools.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="think" changedate="20180416T063726Z" creationid="think" creationdate="20180416T063644Z">
@@ -49050,16 +49171,16 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
       <tuv lang="EN">
         <seg>Tibetan Standard, Tibetan, Central</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T112617Z" creationid="Fu Rhong" creationdate="20131108T101226Z">
-        <seg>标准藏语、西藏语、主要的</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T101844Z" creationid="Fu Rhong" creationdate="20131108T101226Z">
+        <seg>藏语（Tibetan Standard, Tibetan, Central）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Tigrinya</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131108T101224Z" creationid="Fu Rhong" creationdate="20131108T101224Z">
-        <seg>蒂格里亚语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T052019Z" creationid="Fu Rhong" creationdate="20131108T101224Z">
+        <seg>提格里尼亚语（Tigrinya）</seg>
       </tuv>
     </tu>
     <tu>
@@ -50034,8 +50155,8 @@ install.sh.</seg>
       <tuv lang="EN">
         <seg>Tonga (Tonga Islands)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T112802Z" creationid="Fu Rhong" creationdate="20131108T101332Z">
-        <seg>汤加语（汤加群岛）</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T101954Z" creationid="Fu Rhong" creationdate="20131108T101332Z">
+        <seg>汤加语（汤加岛）（Tonga (Tonga Islands)）</seg>
       </tuv>
     </tu>
     <tu>
@@ -50676,32 +50797,32 @@ install.sh.</seg>
       <tuv lang="EN">
         <seg>Tsonga</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
-        <seg>宗加语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T102146Z">
+        <seg>宗加语（Tsonga）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Tswana</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
-        <seg>塞茨瓦纳语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T101923Z">
+        <seg>塞茨瓦纳语（Tswana）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Turkish</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
-        <seg>土耳其语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T102133Z">
+        <seg>土耳其语（Turkish）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Turkmen</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131108T101255Z" creationid="Fu Rhong" creationdate="20131108T101255Z">
-        <seg>土库曼语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T101849Z" creationid="Fu Rhong" creationdate="20131108T101255Z">
+        <seg>土库曼语（Turkmen）</seg>
       </tuv>
     </tu>
     <tu>
@@ -50716,8 +50837,8 @@ install.sh.</seg>
       <tuv lang="EN">
         <seg>Twi</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131108T101700Z" creationid="Fu Rhong" creationdate="20131108T101700Z">
-        <seg>Twi</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T102305Z" creationid="Fu Rhong" creationdate="20131108T101700Z">
+        <seg>特威语（Twi）</seg>
       </tuv>
     </tu>
     <tu>
@@ -50910,16 +51031,16 @@ Exact searches match the whole search string.</seg>
       <tuv lang="EN">
         <seg>Uighur, Uyghur</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T112822Z" creationid="Fu Rhong" creationdate="20131108T101737Z">
-        <seg>维吾尔语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T102342Z" creationid="Fu Rhong" creationdate="20131108T101737Z">
+        <seg>维吾尔语（Uighur, Uyghur）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Ukrainian</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
-        <seg>乌克兰语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T102347Z">
+        <seg>乌克兰语（Ukrainian）</seg>
       </tuv>
     </tu>
     <tu>
@@ -51504,8 +51625,8 @@ Please try to correct the error and reload the project.</seg>
       <tuv lang="EN">
         <seg>Urdu</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131108T101747Z" creationid="Fu Rhong" creationdate="20131108T101747Z">
-        <seg>乌尔都语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T102356Z" creationid="Fu Rhong" creationdate="20131108T101747Z">
+        <seg>乌尔都语（Urdu）</seg>
       </tuv>
     </tu>
     <tu>
@@ -52503,8 +52624,8 @@ searchable without subscription:</seg>
       <tuv lang="EN">
         <seg>Uzbek</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131108T101826Z" creationid="Fu Rhong" creationdate="20131108T101826Z">
-        <seg>乌兹别克语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T102403Z" creationid="Fu Rhong" creationdate="20131108T101826Z">
+        <seg>乌兹别克语（Uzbek）</seg>
       </tuv>
     </tu>
     <tu>
@@ -52631,8 +52752,8 @@ searchable without subscription:</seg>
       <tuv lang="EN">
         <seg>Venda</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
-        <seg>文达语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T102410Z">
+        <seg>文达语（Venda）</seg>
       </tuv>
     </tu>
     <tu>
@@ -52727,8 +52848,8 @@ searchable without subscription:</seg>
       <tuv lang="EN">
         <seg>Vietnamese</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
-        <seg>越南语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T102417Z">
+        <seg>越南语（Vietnamese）</seg>
       </tuv>
     </tu>
     <tu>
@@ -52875,8 +52996,8 @@ searchable without subscription:</seg>
       <tuv lang="EN">
         <seg>Volapük</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T112843Z" creationid="Fu Rhong" creationdate="20131108T101833Z">
-        <seg>沃拉卜克语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T102428Z" creationid="Fu Rhong" creationdate="20131108T101833Z">
+        <seg>沃拉普克语（Volapük）</seg>
       </tuv>
     </tu>
     <tu>
@@ -52893,8 +53014,8 @@ searchable without subscription:</seg>
       <tuv lang="EN">
         <seg>Walloon</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131108T101907Z" creationid="Fu Rhong" creationdate="20131108T101907Z">
-        <seg>瓦隆语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T102501Z" creationid="Fu Rhong" creationdate="20131108T101907Z">
+        <seg>沃伦语（Walloon）</seg>
       </tuv>
     </tu>
     <tu>
@@ -53079,16 +53200,16 @@ trouble of selecting, obtaining and installing it.</seg>
       <tuv lang="EN">
         <seg>Welsh</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
-        <seg>威尔士语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T102510Z">
+        <seg>威尔士语（Welsh）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Western Frisian</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T112941Z" creationid="Fu Rhong" creationdate="20131108T101941Z">
-        <seg>西弗里斯兰语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T102710Z" creationid="Fu Rhong" creationdate="20131108T101941Z">
+        <seg>弗里西亚语（Western Frisian）</seg>
       </tuv>
     </tu>
     <tu>
@@ -53139,6 +53260,14 @@ trouble of selecting, obtaining and installing it.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120205T085343Z">
         <seg>不论您可能在当前版本中发现不一致、遗漏或简单的错误，我宣布我们自己的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Whatever the inconsistencies, omissions and straightforward errors you may find in the present version, I declare them all my own. This manual, however, would not be possible without the help and support from a number of people. Explicit thanks to:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T130421Z" creationid="WynnChen" creationdate="20190404T130421Z">
+        <seg>在当前版本中的任何不一致、遗漏或直接错误，均完全归因于我。但是，如果没有许多人的帮助和支持，本手册是不可能问世的。明确感谢：</seg>
       </tuv>
     </tu>
     <tu>
@@ -53724,6 +53853,14 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Will Helton: his final reading of the draft has spared me a lot of embarrassment. One could only wonder, how many the and a prepositions would still be missing without his invaluable help.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T131506Z" creationid="WynnChen" creationdate="20190404T131506Z">
+        <seg>Will Helton：他对草稿的最终审阅使我免于很多尴尬。如果没有他那宝贵的帮助，天知道要缺失多少 the 和 a 介词。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Will be synchronized next time.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190323T125827Z" creationid="wynnc" creationdate="20190323T125827Z">
@@ -53982,8 +54119,8 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       <tuv lang="EN">
         <seg>Wolof</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T112910Z" creationid="Fu Rhong" creationdate="20131108T101925Z">
-        <seg>沃洛夫语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T102516Z" creationid="Fu Rhong" creationdate="20131108T101925Z">
+        <seg>沃洛夫语（Wolof）</seg>
       </tuv>
     </tu>
     <tu>
@@ -54334,8 +54471,8 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       <tuv lang="EN">
         <seg>Xhosa</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
-        <seg>科萨语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T102719Z">
+        <seg>科萨语（Xhosa）</seg>
       </tuv>
     </tu>
     <tu>
@@ -54382,16 +54519,16 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       <tuv lang="EN">
         <seg>Yiddish</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131108T102006Z" creationid="Fu Rhong" creationdate="20131108T102006Z">
-        <seg>意第续语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T102744Z" creationid="Fu Rhong" creationdate="20131108T102006Z">
+        <seg>依地语（Yiddish）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Yoruba</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131108T102314Z" creationid="Fu Rhong" creationdate="20131108T102314Z">
-        <seg>约鲁巴语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T102751Z" creationid="Fu Rhong" creationdate="20131108T102314Z">
+        <seg>约鲁巴语（Yoruba）</seg>
       </tuv>
     </tu>
     <tu>
@@ -55155,6 +55292,14 @@ linux-install.sh 脚本的文件夹，然后用 ./linux-install.sh 执行脚本�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can think of LanguageTool as a software to detect errors that a simple spell checker cannot detect, e.g. mixing up there/their, no/now etc. It can also detect some grammar mistakes. It does not include spell checking. LanguageTool will find errors for which a rule has been defined in its language-specific configuration files.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T104744Z" creationid="WynnChen" creationdate="20190405T024913Z">
+        <seg>您可以将 LanguageTool 视为一种用于检测简单拼写检查程序无法检测到的错误（例如：弄混了 there/their、no/now 之类）的软件。它也可以检测一些语法错误。但它不包括拼写检查。 LanguageTool 将查找在其特定于语言的配置文件中已定义规则的错误。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can thus select a word anywhere in &lt;a2&gt;OmegaT&lt;/a2&gt; and use Services to check this word, for instance in Spotlight or in Google.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120207T113519Z">
@@ -55772,16 +55917,16 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>Zhuang, Chuang</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T113104Z" creationid="Fu Rhong" creationdate="20131108T102315Z">
-        <seg>藏语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T102809Z" creationid="Fu Rhong" creationdate="20131108T102315Z">
+        <seg>状语（Zhuang, Chuang）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Zulu</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
-        <seg>祖鲁语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T102818Z">
+        <seg>祖鲁语（Zulu）</seg>
       </tuv>
     </tu>
     <tu>
@@ -59973,32 +60118,48 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>move to the beginning of the line in the segment</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120130T053115Z">
-        <seg>移到当前片段中当前行的开始处</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T140509Z">
+        <seg>移动到片段中当前行的行首</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>move to the end of the line in the segment</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120130T053111Z">
-        <seg>移到当前片段中当前行的末尾</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T140512Z">
+        <seg>移动到片段中当前行的行末</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>move to the end of the segment</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120130T053100Z">
-        <seg>移到当前片段的末尾</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T140516Z">
+        <seg>移动到片段的末尾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>move to the first segment of the document (Mac: &lt;e0&gt;Cmd+PgUp&lt;/e0&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T140551Z" creationid="WynnChen" creationdate="20190404T140507Z">
+        <seg>移动到文档的第一个片段（Mac：&lt;e0&gt;Cmd+PgUp&lt;/e0&gt;）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>move to the last segment of the document (Mac: &lt;e0&gt;Cmd+PgDn&lt;/e0&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T140555Z" creationid="WynnChen" creationdate="20190404T140541Z">
+        <seg>移动到文档的最后一个片段（Mac：&lt;e0&gt;Cmd+PgDn&lt;/e0&gt;）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>move to the start of the segment</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120130T053105Z">
-        <seg>移到当前片段的开始处</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T140513Z">
+        <seg>移动到片段的开头</seg>
       </tuv>
     </tu>
     <tu>
@@ -60381,48 +60542,48 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>one char left, but not further than the beginning of segment</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120130T052953Z">
-        <seg>移到一个字符左边，但不超过片段的开始处</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T135735Z">
+        <seg>向左移动一个字符，但不会越过片段的开头</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>one char right, but not further than the end of segment</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120130T052947Z">
-        <seg>移到一个字符右边，但不超过片段的末尾</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T135826Z">
+        <seg>向右移动一个字符，但不会越过片段的末尾</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>one word left, but not further than the beginning of segment</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120130T052943Z">
-        <seg>移到一个单词左边，但不超过片段的开始处</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T135854Z">
+        <seg>向左移动一个单词，但不会越过片段的开头</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>one word right, but not further than the end of segment</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120130T052939Z">
-        <seg>移到一个单词右边，但不超过片段的末尾</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T135906Z">
+        <seg>向右移动一个单词，但不会越过片段的末尾</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>open Auto-completer dialog box with contextual suggestions (Mac: &lt;e0&gt;Esc&lt;/e0&gt;). Once Auto-completer is open, use &lt;e1&gt;Ctrl+Space&lt;/e1&gt; again to switch successively from &lt;e2&gt;Glossaries entries&lt;/e2&gt;, &lt;e3&gt;Auto-text entries,&lt;/e3&gt; &lt;e4&gt;Missing tags&lt;/e4&gt; and &lt;e5&gt;Character table&lt;/e5&gt; options.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T153137Z" creationid="WynnChen" creationdate="20190403T153137Z">
-        <seg>open Auto-completer dialog box with contextual suggestions (Mac: &lt;e0&gt;Esc&lt;/e0&gt;). Once Auto-completer is open, use &lt;e1&gt;Ctrl+Space&lt;/e1&gt; again to switch successively from &lt;e2&gt;Glossaries entries&lt;/e2&gt;, &lt;e3&gt;Auto-text entries,&lt;/e3&gt; &lt;e4&gt;Missing tags&lt;/e4&gt; and &lt;e5&gt;Character table&lt;/e5&gt; options.</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T021431Z" creationid="WynnChen" creationdate="20190403T153137Z">
+        <seg>打开带有上下文建议的自动完成器对话框（Mac：&lt;e0&gt;Esc&lt;/e0&gt;）。打开自动完成器后，再次使用 &lt;e1&gt;Ctrl+Space&lt;/e1&gt; 可以挨个地在&lt;e2&gt;词汇表条目&lt;/e2&gt;、&lt;e3&gt;自动文本条目&lt;/e3&gt;、&lt;e4&gt;缺失的标签&lt;/e4&gt;和&lt;e5&gt;字符表&lt;/e5&gt;选项之间切换。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>open previous segment (Mac: &lt;e0&gt;Cmd+Enter&lt;/e0&gt;)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131110T023433Z">
-        <seg>打开前一个片段（Mac：&lt;e0&gt;Cmd+Enter&lt;/e0&gt;）</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T140756Z">
+        <seg>打开上一个片段（Mac：&lt;e0&gt;Cmd+Enter&lt;/e0&gt;）</seg>
       </tuv>
     </tu>
     <tu>
@@ -60637,8 +60798,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>or</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T102340Z" creationid="Fu Rhong" creationdate="20131108T030737Z">
-        <seg>或者</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T050507Z" creationid="WynnChen" creationdate="20190405T050507Z">
+        <seg>or</seg>
       </tuv>
     </tu>
     <tu>
@@ -61053,32 +61214,32 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>remove char after cursor</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120130T053230Z">
-        <seg>移除光标后字符</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T140616Z">
+        <seg>删除光标后的字符</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>remove char before cursor</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120130T053235Z">
-        <seg>移除光标前字符</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T140619Z">
+        <seg>删除光标前的字符</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>remove chars up to the start of next word (Mac: &lt;e0&gt;Alt+Delete&lt;/e0&gt;)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120130T053354Z">
-        <seg>移除从当前位置到下一个单词开始处的字符 (Mac: &lt;e0&gt;Alt+Delete&lt;/e0&gt;)</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T140740Z">
+        <seg>删除到下一单词开头处为止的所有字符（Mac：&lt;e0&gt;Alt+Delete&lt;/e0&gt;）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>remove chars up to the start of the current word (Mac: &lt;e0&gt;Alt+Backspace&lt;/e0&gt;)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120130T053318Z">
-        <seg>移除从当前位置到当前单词开始处的字符 (Mac: &lt;e0&gt;Alt+Backspace&lt;/e0&gt;)</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T140723Z">
+        <seg>删除到当前单词开头处为止的所有字符（Mac：&lt;e0&gt;Alt+Backspace&lt;/e0&gt;）</seg>
       </tuv>
     </tu>
     <tu>
@@ -61318,8 +61479,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>select complete segment (Mac: &lt;e0&gt;Cmd+A&lt;/e0&gt;)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120130T053427Z">
-        <seg>全选当前片段 (Mac: &lt;e0&gt;Cmd+A&lt;/e0&gt;)</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T140825Z">
+        <seg>全选当前片段（Mac：&lt;e0&gt;Cmd+A&lt;/e0&gt;）</seg>
       </tuv>
     </tu>
     <tu>
@@ -61983,8 +62144,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>to</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="anton" changedate="20180416T085056Z" creationid="Fu Rhong" creationdate="20131108T101333Z">
-        <seg>跳转到</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T102001Z" creationid="WynnChen" creationdate="20190405T102001Z">
+        <seg>to</seg>
       </tuv>
     </tu>
     <tu>
