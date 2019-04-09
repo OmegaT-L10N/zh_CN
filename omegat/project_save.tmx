@@ -7327,8 +7327,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Customization&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T011737Z">
-        <seg>自定义快捷键&gt;&lt;p0&gt;快捷键&lt;/p0&gt; &lt;s1&gt;自定义&lt;/s1&gt;</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T035918Z">
+        <seg>&lt;p0&gt;快捷键&lt;/p0&gt; &lt;s1&gt;自定义&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -30156,6 +30156,14 @@ your receipt of the notice.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Most of the items that appear in the main menu can have a new shortcut assigned. You can change the already assigned shortcuts and add new shortcuts by putting a shortcut definition file in your OmegaT preferences folder (see &lt;l0&gt;User files location&lt;/l0&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T041544Z" creationid="WynnChen" creationdate="20190409T041544Z">
+        <seg>主菜单中的大多数菜单项都可以指定新的快捷键。您可以通过将快捷键定义文件放在 OmegaT 首选项文件夹（参见&lt;l0&gt;用户文件位置&lt;/l0&gt;）中来更改已分配的快捷方式并添加新快捷方式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Most of them are required in order for OmegaT to function properly.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120201T123229Z">
@@ -40154,8 +40162,8 @@ When using regular expressions, the replacement string supports references to gr
       <tuv lang="EN">
         <seg>Shortcuts customization</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180412T011259Z">
-        <seg>自定义快捷键&gt;</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T035901Z">
+        <seg>快捷键自定义</seg>
       </tuv>
     </tu>
     <tu>
