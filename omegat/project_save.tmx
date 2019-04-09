@@ -46464,8 +46464,8 @@ protocols for communication across the network.</seg>
       <tuv lang="EN">
         <seg>The shortcut definition syntax is the following: &lt;c0&gt;&lt;menu item code&gt;=&lt;shortcut&gt;&lt;/c0&gt;, where &lt;e1&gt;&lt;menu item code&gt;&lt;/e1&gt; is a code taken from the tables below and &lt;e2&gt;&lt;shortcut&gt;&lt;/e2&gt; is a combination of pressed keys specified by the user</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131109T025243Z" creationid="Fu Rhong" creationdate="20131109T025243Z">
-        <seg>快捷键定义的语法如下：&lt;c0&gt;&lt;menu item code&gt;=&lt;shortcut&gt;&lt;/c0&gt;，其中&lt;e1&gt;&lt;menu item code&gt;&lt;/e1&gt;取自下表，而&lt;e2&gt;&lt;shortcut&gt;&lt;/e2&gt;是用户指定的按键组合</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T042827Z" creationid="Fu Rhong" creationdate="20131109T025243Z">
+        <seg>快捷键定义语法如下：&lt;c0&gt;&lt;菜单项代码&gt;=&lt;快捷键&gt;&lt;/c0&gt;，其中&lt;e1&gt;&lt;菜单项代码&gt;&lt;/e1&gt;见下文的各个表格，而&lt;e2&gt;&lt;快捷键&gt;&lt;/e2&gt;是用户指定的按键组合</seg>
       </tuv>
     </tu>
     <tu>
