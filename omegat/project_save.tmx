@@ -33666,8 +33666,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>Once the &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; file is modified, &lt;a1&gt;OmegaT&lt;/a1&gt; must be relaunched to take the new shortcuts into account.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T122028Z">
-        <seg>修改 &lt;f0&gt;项目编译菜单项.properties&lt;/f0&gt; 文件后，必须重新运行 &lt;a1&gt;OmegaT&lt;/a1&gt; 才能让新的快捷键生效。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T041803Z">
+        <seg>修改 &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; 文件后，必须重新启动 &lt;a1&gt;OmegaT&lt;/a1&gt; 才能让新的快捷键生效。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46450,6 +46450,14 @@ protocols for communication across the network.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T122006Z">
         <seg>快捷键定义文件名称必须为 &lt;f0&gt;主菜单截图..properties&lt;/f0&gt;，同时每行最多包含一个快捷键的定义。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The shortcut definition file must be named &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; and must contain at most one shortcut definition per line. Empty lines are accepted and comment lines should start with "//". Anything after the "//" will be ignored.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T041721Z" creationid="WynnChen" creationdate="20190409T041721Z">
+        <seg>快捷键定义文件必须命名为 &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt;，每行最多包含一个快捷键的定义。可接受空行，而注释行应以“//”开头。在“//”后的所有内容将被忽略。</seg>
       </tuv>
     </tu>
     <tu>
