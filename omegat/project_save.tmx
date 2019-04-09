@@ -10325,8 +10325,8 @@ rights of fair use or other equivalent, as provided by copyright law.</seg>
       <tuv lang="EN">
         <seg>Always Confirm Quit</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
-        <seg>退出前总是确认</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T135810Z">
+        <seg>退出前确认</seg>
       </tuv>
     </tu>
     <tu>
@@ -11532,32 +11532,32 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Auto-completion/Auto-text...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180412T004139Z" creationid="lenovo" creationdate="20180412T004139Z">
-        <seg>自动填写/自动文本...</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T140523Z" creationid="lenovo" creationdate="20180412T004139Z">
+        <seg>自动完成/自动文本...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Auto-completion/Character Table...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180412T004051Z" creationid="lenovo" creationdate="20180412T004051Z">
-        <seg>自动填充/字符表...</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T140530Z" creationid="lenovo" creationdate="20180412T004051Z">
+        <seg>自动完成/字符表...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Auto-completion/Glossary...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180412T004225Z" creationid="lenovo" creationdate="20180412T004225Z">
-        <seg>自动填充/术语表...</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T140516Z" creationid="lenovo" creationdate="20180412T004225Z">
+        <seg>自动完成/词汇表...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Auto-completion/Show Relevant Suggestions Automatically</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180412T004339Z" creationid="lenovo" creationdate="20180412T004339Z">
-        <seg>自动填充/自动显示相关建议</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T140458Z" creationid="lenovo" creationdate="20180412T004339Z">
+        <seg>自动完成/自动显示相关建议</seg>
       </tuv>
     </tu>
     <tu>
@@ -21159,16 +21159,16 @@ authors of previous versions.</seg>
       <tuv lang="EN">
         <seg>Glossary/Display Context Description for TBX Glossaries</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T135759Z" creationid="lenovo" creationdate="20180411T135759Z">
-        <seg>词汇表/TBX词汇表的显示上下文描述</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T135835Z" creationid="lenovo" creationdate="20180411T135759Z">
+        <seg>词汇表/显示 TBX 词汇表的上下文描述</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Glossary/Use Stemming for Glossary Entries</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T140051Z" creationid="lenovo" creationdate="20180411T140051Z">
-        <seg>词汇表/使用词干词汇表词条</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T140424Z" creationid="lenovo" creationdate="20180411T140051Z">
+        <seg>词汇表/对词汇表条目使用词干提取</seg>
       </tuv>
     </tu>
     <tu>
@@ -36556,8 +36556,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Proxy Login...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T140448Z" creationid="lenovo" creationdate="20180411T140448Z">
-        <seg>代理登陆...</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T140748Z" creationid="lenovo" creationdate="20180411T140448Z">
+        <seg>代理服务器登录...</seg>
       </tuv>
     </tu>
     <tu>
@@ -39554,8 +39554,8 @@ When using regular expressions, the replacement string supports references to gr
       <tuv lang="EN">
         <seg>Segmentation...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
-        <seg>分割规则...</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T140614Z">
+        <seg>片段分割...</seg>
       </tuv>
     </tu>
     <tu>
@@ -42317,8 +42317,8 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       <tuv lang="EN">
         <seg>Tag Processing...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T064624Z" creationid="weiyi" creationdate="20180406T064624Z">
-        <seg>标签处理</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T140630Z" creationid="weiyi" creationdate="20180406T064624Z">
+        <seg>标签处理...</seg>
       </tuv>
     </tu>
     <tu>
@@ -52146,16 +52146,16 @@ Commands:
       <tuv lang="EN">
         <seg>Use TAB To Advance</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
-        <seg>使用 Tab 前进</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T135758Z">
+        <seg>用 Tab 前进</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Use Terms Appearing Separately in the Source Text</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T135957Z" creationid="lenovo" creationdate="20180411T135957Z">
-        <seg>使用在源文本中单独出现的术语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T140415Z" creationid="lenovo" creationdate="20180411T135957Z">
+        <seg>使用分开出现在原文文本中的词条</seg>
       </tuv>
     </tu>
     <tu>
@@ -53136,8 +53136,8 @@ searchable without subscription:</seg>
       <tuv lang="EN">
         <seg>View...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
-        <seg>查看...</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T140733Z">
+        <seg>视图...</seg>
       </tuv>
     </tu>
     <tu>
@@ -60904,88 +60904,88 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>optionsAlwaysConfirmQuitCheckBoxMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T135548Z">
-        <seg>选项始终确认退出复选框菜单项</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T135812Z" creationid="WynnChen" creationdate="20190409T135812Z">
+        <seg>optionsAlwaysConfirmQuitCheckBoxMenuItem</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>optionsAutoCompleteAutoTextMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180412T004122Z" creationid="lenovo" creationdate="20180412T004122Z">
-        <seg>选项自动填充自动文本菜单项</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T140526Z" creationid="WynnChen" creationdate="20190409T140526Z">
+        <seg>optionsAutoCompleteAutoTextMenuItem</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>optionsAutoCompleteCharTableMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180412T004000Z" creationid="lenovo" creationdate="20180412T004000Z">
-        <seg>选项自动填充表格菜单项</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T140538Z" creationid="WynnChen" creationdate="20190409T140538Z">
+        <seg>optionsAutoCompleteCharTableMenuItem</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>optionsAutoCompleteGlossaryMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180412T004207Z" creationid="lenovo" creationdate="20180412T004207Z">
-        <seg>选项自动填充术语表菜单项</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T140518Z" creationid="WynnChen" creationdate="20190409T140518Z">
+        <seg>optionsAutoCompleteGlossaryMenuItem</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>optionsAutoCompleteShowAutomaticallyItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180412T004303Z" creationid="lenovo" creationdate="20180412T004303Z">
-        <seg>选项自动填充自动显示项目</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T140459Z" creationid="WynnChen" creationdate="20190409T140459Z">
+        <seg>optionsAutoCompleteShowAutomaticallyItem</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>optionsColorsSelectionMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180412T003753Z" creationid="lenovo" creationdate="20180412T003753Z">
-        <seg>选项颜色部分菜单项</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T140548Z" creationid="WynnChen" creationdate="20190409T140548Z">
+        <seg>optionsColorsSelectionMenuItem</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>optionsExtTMXMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T140557Z">
-        <seg>选项登出菜单项</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T140716Z" creationid="WynnChen" creationdate="20190409T140716Z">
+        <seg>optionsExtTMXMenuItem</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>optionsFontSelectionMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180412T003710Z">
-        <seg>选项字体选择菜单项</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T140541Z" creationid="WynnChen" creationdate="20190409T140541Z">
+        <seg>optionsFontSelectionMenuItem</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>optionsGlossaryExactMatchCheckBoxMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T140030Z" creationid="lenovo" creationdate="20180411T140030Z">
-        <seg>选项词汇表完全匹配复选框菜单项</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T140417Z" creationid="WynnChen" creationdate="20190409T140417Z">
+        <seg>optionsGlossaryExactMatchCheckBoxMenuItem</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>optionsGlossaryStemmingCheckBoxMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T140125Z" creationid="lenovo" creationdate="20180411T140125Z">
-        <seg>现象词汇表词干复选框菜单项</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T140426Z" creationid="WynnChen" creationdate="20190409T140426Z">
+        <seg>optionsGlossaryStemmingCheckBoxMenuItem</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>optionsGlossaryTBXDisplayContextCheckBoxMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T135824Z" creationid="lenovo" creationdate="20180411T135824Z">
-        <seg>选项词汇表TBX显示上下文复选框菜单项</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T140329Z" creationid="WynnChen" creationdate="20190409T140329Z">
+        <seg>optionsGlossaryTBXDisplayContextCheckBoxMenuItem</seg>
       </tuv>
     </tu>
     <tu>
@@ -61000,72 +61000,72 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>optionsSaveOptionsMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T140509Z" creationid="Fu Rhong" creationdate="20131110T030306Z">
-        <seg>选项保存选项菜单项</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T140739Z" creationid="WynnChen" creationdate="20190409T140739Z">
+        <seg>optionsSaveOptionsMenuItem</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>optionsSentsegMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180412T003648Z">
-        <seg>选项</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T140616Z" creationid="WynnChen" creationdate="20190409T140616Z">
+        <seg>optionsSentsegMenuItem</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>optionsSetupFileFiltersMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180412T003735Z">
-        <seg>悬念启动文件夹菜单项</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T140550Z" creationid="WynnChen" creationdate="20190409T140550Z">
+        <seg>optionsSetupFileFiltersMenuItem</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>optionsSpellCheckMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T140744Z">
-        <seg>选项拼写检查菜单项</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T140621Z" creationid="WynnChen" creationdate="20190409T140621Z">
+        <seg>optionsSpellCheckMenuItem</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>optionsTabAdvanceCheckBoxMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T135310Z">
-        <seg>选项卡高级复选框菜单项</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T135800Z" creationid="WynnChen" creationdate="20190409T135800Z">
+        <seg>optionsTabAdvanceCheckBoxMenuItem</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>optionsTagValidationMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T140652Z">
-        <seg>选项标签验证菜单项</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T140632Z" creationid="WynnChen" creationdate="20190409T140632Z">
+        <seg>optionsTagValidationMenuItem</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>optionsTeamMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T140618Z">
-        <seg>选项团队菜单项</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T140641Z" creationid="WynnChen" creationdate="20190409T140641Z">
+        <seg>optionsTeamMenuItem</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>optionsTransTipsEnableMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180412T004520Z">
-        <seg>选项转换提示启用菜单项</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T140440Z" creationid="WynnChen" creationdate="20190409T140440Z">
+        <seg>optionsTransTipsEnableMenuItem</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>optionsViewOptionsMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T140536Z">
-        <seg>选项查看选项菜单项</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T140734Z" creationid="WynnChen" creationdate="20190409T140734Z">
+        <seg>optionsViewOptionsMenuItem</seg>
       </tuv>
     </tu>
     <tu>
@@ -61080,8 +61080,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>optionsWorkflowMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T140726Z">
-        <seg>选项工作流程菜单项</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T140626Z" creationid="WynnChen" creationdate="20190409T140626Z">
+        <seg>optionsWorkflowMenuItem</seg>
       </tuv>
     </tu>
     <tu>
