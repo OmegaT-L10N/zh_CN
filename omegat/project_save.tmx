@@ -2330,8 +2330,8 @@ need not be entered.)</seg>
       <tuv lang="EN">
         <seg>, one can find:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T120011Z">
-        <seg>，其中可以看到：</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T044246Z">
+        <seg>，人们可以找到：</seg>
       </tuv>
     </tu>
     <tu>
@@ -4426,8 +4426,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;c0&gt;projectOpenMenuItem=shift ctrl O&lt;/c0&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T123156Z" creationid="Fu Rhong" creationdate="20131109T025808Z">
-        <seg>&lt;c0&gt;打开程序菜单项=shift ctrl O&lt;/c0&gt;.</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T044502Z" creationid="WynnChen" creationdate="20190409T044502Z">
+        <seg>&lt;c0&gt;projectOpenMenuItem=shift ctrl O&lt;/c0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23401,8 +23401,8 @@ where to find the applicable terms.</seg>
       <tuv lang="EN">
         <seg>If you are on a Mac and you want to add a &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Command&lt;/k2&gt; &lt;k3&gt;S&lt;/k3&gt; &lt;/k0&gt; shortcut to &lt;m4&gt; &lt;g5&gt;Tools&lt;/g5&gt; &lt;g6&gt;Statistics&lt;/g6&gt; &lt;/m4&gt;, add the following line to your &lt;f7&gt;MainMenuShortcuts.properties&lt;/f7&gt;:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T122111Z" creationid="Fu Rhong" creationdate="20131109T025820Z">
-        <seg>如果您用Mac且想设置&lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Command&lt;/k2&gt; &lt;k3&gt;S&lt;/k3&gt; &lt;/k0&gt;为&lt;m4&gt; &lt;g5&gt;工具&lt;/g5&gt; &lt;g6&gt;统计&lt;/g6&gt; &lt;/m4&gt;的快捷方式，请在&lt;f7&gt;项目编译菜单项.properties&lt;/f7&gt;中添加此行：</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T044728Z" creationid="Fu Rhong" creationdate="20131109T025820Z">
+        <seg>如果用的是 Mac 且要将&lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Command&lt;/k2&gt; &lt;k3&gt;S&lt;/k3&gt; &lt;/k0&gt;设置为&lt;m4&gt; &lt;g5&gt;工具&lt;/g5&gt; &lt;g6&gt;统计&lt;/g6&gt; &lt;/m4&gt;的快捷键，将下面这行添加到 &lt;f7&gt;MainMenuShortcuts.properties&lt;/f7&gt; 中：</seg>
       </tuv>
     </tu>
     <tu>
@@ -24107,8 +24107,8 @@ is to use Java Web Start.</seg>
       <tuv lang="EN">
         <seg>If you want to use &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; to open a project, modify your &lt;f4&gt;MainMenuShortcuts.properties&lt;/f4&gt; as follows:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T123448Z" creationid="Fu Rhong" creationdate="20131109T025605Z">
-        <seg>如果想用&lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt;来打开项目，请把&lt;f4&gt;项目编译菜单项.properties&lt;/f4&gt;修改成这样：</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T044620Z" creationid="Fu Rhong" creationdate="20131109T025605Z">
+        <seg>如果要使用&lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt;来打开项目，修改 &lt;f4&gt;MainMenuShortcuts.properties&lt;/f4&gt; 如下：</seg>
       </tuv>
     </tu>
     <tu>
@@ -26531,8 +26531,8 @@ everything.</seg>
       <tuv lang="EN">
         <seg>It is possible to move from one pane to another (for instance, from the Editor to the Fuzzy Matches pane) using &lt;k0&gt;Ctrl+Tab&lt;/k0&gt;. &lt;k1&gt;Ctrl+Shift+Tab&lt;/k1&gt; moves back to the previous pane. The shortcuts &lt;k2&gt;Ctrl+A&lt;/k2&gt; and &lt;k3&gt;Ctrl+C&lt;/k3&gt; work in panes, allowing to copy all or some of the information to the clipboard.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T023844Z" creationid="WynnChen" creationdate="20190405T023442Z">
-        <seg>可以用 &lt;k0&gt;Ctrl+Tab&lt;/k0&gt; 从一个窗格移动到另一个窗格（例如，从编辑器移动到模糊匹配窗格）。&lt;k1&gt;Ctrl+Shift+Tab&lt;/k1&gt; 移回上一个窗格。快捷方式 &lt;k2&gt;Ctrl+A&lt;/k2&gt; 和 &lt;k3&gt;Ctrl+C&lt;/k3&gt;在窗格中也有效，允许将全部或部分信息复制到剪贴板。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T044818Z" creationid="WynnChen" creationdate="20190405T023442Z">
+        <seg>可以用 &lt;k0&gt;Ctrl+Tab&lt;/k0&gt; 从一个窗格移动到另一个窗格（例如，从编辑器移动到模糊匹配窗格）。&lt;k1&gt;Ctrl+Shift+Tab&lt;/k1&gt; 移回上一个窗格。快捷键 &lt;k2&gt;Ctrl+A&lt;/k2&gt; 和 &lt;k3&gt;Ctrl+C&lt;/k3&gt;在窗格中也有效，允许将全部或部分信息复制到剪贴板。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30158,8 +30158,8 @@ your receipt of the notice.</seg>
       <tuv lang="EN">
         <seg>Most of the items that appear in the main menu can have a new shortcut assigned. You can change the already assigned shortcuts and add new shortcuts by putting a shortcut definition file in your OmegaT preferences folder (see &lt;l0&gt;User files location&lt;/l0&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T041544Z" creationid="WynnChen" creationdate="20190409T041544Z">
-        <seg>主菜单中的大多数菜单项都可以指定新的快捷键。您可以通过将快捷键定义文件放在 OmegaT 首选项文件夹（参见&lt;l0&gt;用户文件位置&lt;/l0&gt;）中来更改已分配的快捷方式并添加新快捷方式。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T044809Z" creationid="WynnChen" creationdate="20190409T041544Z">
+        <seg>主菜单中的大多数菜单项都可以指定新的快捷键。您可以通过将快捷键定义文件放在 OmegaT 首选项文件夹（参见&lt;l0&gt;用户文件位置&lt;/l0&gt;）中来更改已分配的快捷键并添加新快捷键。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38460,6 +38460,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Save then the file and relaunch &lt;a0&gt;OmegaT&lt;/a0&gt;. Your new shortcuts should now appear next to the menu items you have modified. If they do not conflict with system shortcuts, they should be available from within OmegaT.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T044755Z" creationid="WynnChen" creationdate="20190409T044724Z">
+        <seg>然后保存文件并重新启动&lt;a0&gt;OmegaT &lt;/a0&gt;。您的新快捷键现在应该会显示在已修改的菜单项旁边。如果它们与系统快捷键不冲突，则它们在 OmegaT 中应当可用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Save with Ctrl+S, and close the macro editing window.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T195059Z" creationid="Mac Pro" creationdate="20180425T195059Z">
@@ -44481,16 +44489,16 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The default OmegaT shortcuts are available from Sourceforge: &lt;u0&gt;Default OmegaT Shortcuts&lt;/u0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T115821Z">
-        <seg>缺省的 OmegaT 快捷键设置可从 Sourceforge 获取：&lt;u0&gt;缺省的 OmegaT 快捷键&lt;/u0&gt;</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T044220Z">
+        <seg>可从 Sourceforge 获取默认 OmegaT 快捷键设置：&lt;u0&gt;默认 OmegaT 快捷键&lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>The default OmegaT shortcuts for the Mac are also available from Sourceforge, they all use "meta" instead of "ctrl": &lt;u0&gt;Default OmegaT Shortcuts for the Mac&lt;/u0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131109T025638Z">
-        <seg>在Mac系统中缺省的OmegaT快捷键同样可从Sourceforge获取，其中把所有的“ctrl”都被替换为“meta”：&lt;u0&gt;Mac 系统上缺省的OmegaT快捷键&lt;/u0&gt;</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T044208Z">
+        <seg>Mac 的默认 OmegaT 快捷键同样可从 Sourceforge 获取，它们全都使用“meta”来代替“ctrl”：&lt;u0&gt;Mac 的默认 OmegaT 快捷键&lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -44849,8 +44857,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The first is the shortcut for &lt;g0&gt;Open Project&lt;/g0&gt;, the second for &lt;g1&gt;Create Glossary Entry&lt;/g1&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021035Z">
-        <seg>第一个是&lt;g0&gt;打开项目&lt;/g0&gt;的快捷键，第二个为&lt;g1&gt;创建术语表条目&lt;/g1&gt;。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T044331Z">
+        <seg>第一个是&lt;g0&gt;打开项目&lt;/g0&gt;的快捷键，第二个则是&lt;g1&gt;创建术语表条目&lt;/g1&gt;的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -57660,8 +57668,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>editCreateGlossaryEntryMenuItem=ctrl shift G</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T122228Z">
-        <seg>编辑创建单词条目菜单项=ctrl shift G</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T044301Z" creationid="WynnChen" creationdate="20190409T044301Z">
+        <seg>editCreateGlossaryEntryMenuItem=ctrl shift G</seg>
       </tuv>
     </tu>
     <tu>
@@ -59008,6 +59016,22 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131031T121601Z" creationid="Administrator" creationdate="20131031T121601Z">
         <seg>https://sourceforge.net/p/omegat/feature-requests/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/trunk/src/org/omegat/gui/main/MainMenuShortcuts.mac.properties</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T044037Z" creationid="WynnChen" creationdate="20190409T044037Z">
+        <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/trunk/src/org/omegat/gui/main/MainMenuShortcuts.mac.properties</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/trunk/src/org/omegat/gui/main/MainMenuShortcuts.properties</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T043824Z" creationid="WynnChen" creationdate="20190409T043824Z">
+        <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/trunk/src/org/omegat/gui/main/MainMenuShortcuts.properties</seg>
       </tuv>
     </tu>
     <tu>
@@ -61208,8 +61232,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>projectOpenMenuItem=ctrl O</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T122141Z">
-        <seg>项目打开菜单项=ctrl O</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T044252Z" creationid="WynnChen" creationdate="20190409T044252Z">
+        <seg>projectOpenMenuItem=ctrl O</seg>
       </tuv>
     </tu>
     <tu>
@@ -62330,8 +62354,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>toolsShowStatisticsStandardMenuItem=shift meta S</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T122851Z" creationid="Fu Rhong" creationdate="20131110T021339Z">
-        <seg>工具显示统计标准菜单项=shift meta S</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T044631Z" creationid="WynnChen" creationdate="20190409T044631Z">
+        <seg>toolsShowStatisticsStandardMenuItem=shift meta S</seg>
       </tuv>
     </tu>
     <tu>
