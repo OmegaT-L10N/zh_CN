@@ -4713,6 +4713,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Groovy&lt;/e0&gt; (http://groovy.codehaus.org): is a dynamic language for the Java Virtual machine. It builds upon the strengths of Java but has additional power features inspired by languages like Python, Ruby and Smalltalk.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T035257Z" creationid="WynnChen" creationdate="20190409T035257Z">
+        <seg>&lt;e0&gt;Groovy&lt;/e0&gt;（http://groovy.codehaus.org）：是一种针对 Java 虚拟机的动态语言。它建立在 Java 的优势上，但具有受 Python、Ruby 和 Smalltalk 等语言启发的额外功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Hint:&lt;/e0&gt; the set of file filters for a given project is stored as &lt;f1&gt;project/omegat/filters.xml.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131118T120440Z" creationid="Fu Rhong" creationdate="20131118T120440Z">
@@ -4797,6 +4805,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131109T022321Z" creationid="Fu Rhong" creationdate="20131109T021519Z">
         <seg>&lt;e0&gt;JavaScript&lt;/e0&gt;（不会与Java混淆时简写为JS）：是动态、弱类型且具有一类函数的基于原型的脚本语言。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;JavaScript&lt;/e0&gt; (sometimes abbreviated JS, not to be confused with Java): is a prototype-based scripting language that is dynamic, weakly typed and has first-class functions. It is a multi-paradigm language, supporting object-oriented, imperative, and functional programming styles. Being the language behind popular software such as Firefox it is a familiar and preferred programming tool in the open-source domain.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T035634Z" creationid="WynnChen" creationdate="20190409T035634Z">
+        <seg>&lt;e0&gt;JavaScript&lt;/e0&gt;（有时缩写为 JS，不要与 Java 混淆）：是一种基于原型的脚本语言，它是动态的、弱类型的、并且具有上等函数。它是多范式语言，支持面向对象、命令式和函数式编程风格。作为 Firefox 等流行软件背后的语言，它是开源领域中常见且首选的编程工具。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9983,6 +9999,14 @@ rights of fair use or other equivalent, as provided by copyright law.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131109T022934Z" creationid="Fu Rhong" creationdate="20131109T022934Z">
         <seg>所有的语言都能访问OmegaT对象模型，其中的顶级对象为项目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All the languages have access to the OmegaT object model, with the project as the top object. The following code snippet in groovy for instance scans through all the segments in all files in the current project and, if the translation exists, prints out the source and the target of the segment:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T035739Z" creationid="WynnChen" creationdate="20190409T035739Z">
+        <seg>所有的语言都能访问 OmegaT 对象模型，其中的顶级对象为项目。例如下面的 groovy 代码片段扫描当前项目中所有文件内的所有片段，且当某个片段的翻译存在时打印出它的原文和译文：</seg>
       </tuv>
     </tu>
     <tu>
@@ -58030,6 +58054,40 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131109T023355Z" creationid="Fu Rhong" creationdate="20131109T023355Z">
         <seg>files = project.projectFiles;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>files = project.projectFiles;
+    for (i in 0 ..&lt; files.size())
+    {
+        for (j in 0 ..&lt; files[i].entries.size())
+        {
+            currSegment = files[i].entries[j];
+            if (project.getTranslationInfo(currSegment))
+            {
+                source = currSegment.getSrcText();
+                target = project.getTranslationInfo(currSegment).translation;
+                console.println(source + " &gt;&gt;&gt;&gt; " + target);
+            }     
+        }
+    }</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T035122Z" creationid="WynnChen" creationdate="20190409T035122Z">
+        <seg>files = project.projectFiles;
+    for (i in 0 ..&lt; files.size())
+    {
+        for (j in 0 ..&lt; files[i].entries.size())
+        {
+            currSegment = files[i].entries[j];
+            if (project.getTranslationInfo(currSegment))
+            {
+                source = currSegment.getSrcText();
+                target = project.getTranslationInfo(currSegment).translation;
+                console.println(source + " &gt;&gt;&gt;&gt; " + target);
+            }     
+        }
+    }</seg>
       </tuv>
     </tu>
     <tu>
