@@ -59,3 +59,4 @@ BiDi	双向	即 bidirectional 的缩写。
 folder	文件夹	即文件系统中的目录。
 style	文体	针对文字方面的，常与grammer并列。
 default	默认	他处亦有翻译为“缺省”的，本项目中统一使用更常见的“默认”
+login	登录	注意不要写成“登陆”！！
