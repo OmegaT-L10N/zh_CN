@@ -9141,16 +9141,16 @@ included in conveying the object code work.</seg>
       <tuv lang="EN">
         <seg>Access Project Contents/Current Source Document</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T125441Z" creationid="lenovo" creationdate="20180411T125441Z">
-        <seg>访问项目内容/当前源文件</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T045418Z" creationid="lenovo" creationdate="20180411T125441Z">
+        <seg>访问项目内容/当前原文文档</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Access Project Contents/Current Target Document</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T130530Z" creationid="lenovo" creationdate="20180411T130530Z">
-        <seg>访问项目内容/当前目标文档</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T045424Z" creationid="lenovo" creationdate="20180411T130530Z">
+        <seg>访问项目内容/当前译文文档</seg>
       </tuv>
     </tu>
     <tu>
@@ -9165,32 +9165,32 @@ included in conveying the object code work.</seg>
       <tuv lang="EN">
         <seg>Access Project Contents/Glossaries</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T124310Z" creationid="lenovo" creationdate="20180411T124310Z">
-        <seg>访问项目文件/词汇表</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T045338Z" creationid="lenovo" creationdate="20180411T124310Z">
+        <seg>访问项目内容/词汇表</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Access Project Contents/Root</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T124049Z" creationid="lenovo" creationdate="20180411T124049Z">
-        <seg>访问项目内容/根</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T045319Z" creationid="lenovo" creationdate="20180411T124049Z">
+        <seg>访问项目内容/根目录</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Access Project Contents/Source Files</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T124417Z" creationid="lenovo" creationdate="20180411T124417Z">
-        <seg>访问呢项目内容/源文件</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T045352Z" creationid="lenovo" creationdate="20180411T124417Z">
+        <seg>访问项目内容/原文文件</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Access Project Contents/Target Files</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T124453Z" creationid="lenovo" creationdate="20180411T124453Z">
-        <seg>访问项目内容/目标文件</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T045356Z" creationid="lenovo" creationdate="20180411T124453Z">
+        <seg>访问项目内容/译文文件</seg>
       </tuv>
     </tu>
     <tu>
@@ -14980,8 +14980,8 @@ unpacking, reading or copying.</seg>
       <tuv lang="EN">
         <seg>Create Current Translated Documents</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T121832Z" creationid="lenovo" creationdate="20180411T121815Z">
-        <seg>创建已译文档档</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T045222Z" creationid="lenovo" creationdate="20180411T121815Z">
+        <seg>创建当前译文文档</seg>
       </tuv>
     </tu>
     <tu>
@@ -15012,8 +15012,8 @@ unpacking, reading or copying.</seg>
       <tuv lang="EN">
         <seg>Create Translated Documents</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
-        <seg>创建已译文档</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T045042Z">
+        <seg>创建译文文档</seg>
       </tuv>
     </tu>
     <tu>
@@ -15563,6 +15563,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl+Shift+D</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T045224Z" creationid="WynnChen" creationdate="20190409T045224Z">
+        <seg>Ctrl+Shift+D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl+Shift+N</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T123918Z">
@@ -15879,8 +15887,8 @@ unpacking, reading or copying.</seg>
       <tuv lang="EN">
         <seg>Default shortcut</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T120544Z">
-        <seg>缺省快捷键</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T044844Z">
+        <seg>默认快捷键</seg>
       </tuv>
     </tu>
     <tu>
@@ -17132,8 +17140,8 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="EN">
         <seg>Download MediaWiki Page...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T064706Z" creationid="weiyi" creationdate="20180405T152418Z">
-        <seg>下载MediaWiki页...</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T045007Z" creationid="weiyi" creationdate="20180405T152418Z">
+        <seg>下载 MediaWiki 页面...</seg>
       </tuv>
     </tu>
     <tu>
@@ -25618,8 +25626,8 @@ everything.</seg>
       <tuv lang="EN">
         <seg>Insert Match or Selection</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T020618Z" creationid="weiyi" creationdate="20180406T020618Z">
-        <seg>插入匹配或选择</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T045635Z" creationid="weiyi" creationdate="20180406T020618Z">
+        <seg>插入匹配或所选内容</seg>
       </tuv>
     </tu>
     <tu>
@@ -36772,8 +36780,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Redo Last Action</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131110T023423Z">
-        <seg>重做前一操作</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T045520Z">
+        <seg>恢复前一操作</seg>
       </tuv>
     </tu>
     <tu>
@@ -37510,8 +37518,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Replace With Match or Selection</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T020424Z" creationid="weiyi" creationdate="20180406T020424Z">
-        <seg>替换成匹配或选择</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T045608Z" creationid="weiyi" creationdate="20180406T020424Z">
+        <seg>用匹配或所选内容替换译文</seg>
       </tuv>
     </tu>
     <tu>
@@ -37558,8 +37566,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Replace with Machine Translation</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131110T022348Z">
-        <seg>用机器翻译替换</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T045657Z">
+        <seg>替换为机器翻译</seg>
       </tuv>
     </tu>
     <tu>
@@ -51271,8 +51279,8 @@ Exact searches match the whole search string.</seg>
       <tuv lang="EN">
         <seg>Undo Last Action</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131110T023427Z">
-        <seg>取消前一操作</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T045509Z">
+        <seg>撤销前一操作</seg>
       </tuv>
     </tu>
     <tu>
@@ -57700,8 +57708,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>editInsertTranslationMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T130843Z">
-        <seg>编辑插入翻译菜单项m</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T045644Z" creationid="WynnChen" creationdate="20190409T045644Z">
+        <seg>editInsertTranslationMenuItem</seg>
       </tuv>
     </tu>
     <tu>
@@ -57724,8 +57732,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>editOverwriteMachineTranslationMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T131009Z">
-        <seg>编辑覆盖机器翻译菜单项</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T045703Z" creationid="WynnChen" creationdate="20190409T045703Z">
+        <seg>editOverwriteMachineTranslationMenuItem</seg>
       </tuv>
     </tu>
     <tu>
@@ -57740,16 +57748,16 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>editOverwriteTranslationMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T130950Z">
-        <seg>编辑覆盖翻译菜单项</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T045627Z" creationid="WynnChen" creationdate="20190409T045627Z">
+        <seg>editOverwriteTranslationMenuItem</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>editRedoMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T130820Z">
-        <seg>编辑重做菜单项</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T045528Z" creationid="WynnChen" creationdate="20190409T045528Z">
+        <seg>editRedoMenuItem</seg>
       </tuv>
     </tu>
     <tu>
@@ -57860,8 +57868,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>editUndoMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T130912Z" creationid="Fu Rhong" creationdate="20131110T021807Z">
-        <seg>编辑未完成菜单项</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T045515Z" creationid="WynnChen" creationdate="20190409T045515Z">
+        <seg>editUndoMenuItem</seg>
       </tuv>
     </tu>
     <tu>
@@ -61112,120 +61120,120 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>projectAccessCurrentSourceDocumentMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T130501Z" creationid="lenovo" creationdate="20180411T130501Z">
-        <seg>项目访问当前源文件菜单项</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T045420Z" creationid="WynnChen" creationdate="20190409T045420Z">
+        <seg>projectAccessCurrentSourceDocumentMenuItem</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>projectAccessCurrentTargetDocumentMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T130627Z" creationid="lenovo" creationdate="20180411T130627Z">
-        <seg>项目访问当前目标文档菜单项</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T045428Z" creationid="WynnChen" creationdate="20190409T045428Z">
+        <seg>projectAccessCurrentTargetDocumentMenuItem</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>projectAccessDictionaryMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T124203Z" creationid="lenovo" creationdate="20180411T124203Z">
-        <seg>项目访问词典菜单项</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T045331Z" creationid="WynnChen" creationdate="20190409T045331Z">
+        <seg>projectAccessDictionaryMenuItem</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>projectAccessGlossaryMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T124337Z" creationid="lenovo" creationdate="20180411T124337Z">
-        <seg>项目访问词汇表菜单项</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T045340Z" creationid="WynnChen" creationdate="20190409T045340Z">
+        <seg>projectAccessGlossaryMenuItem</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>projectAccessRootMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T124116Z" creationid="lenovo" creationdate="20180411T124116Z">
-        <seg>项目访问根菜单项</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T045324Z" creationid="WynnChen" creationdate="20190409T045324Z">
+        <seg>projectAccessRootMenuItem</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>projectAccessSourceMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T124434Z" creationid="lenovo" creationdate="20180411T124434Z">
-        <seg>项目访问原菜单项</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T045353Z" creationid="WynnChen" creationdate="20190409T045353Z">
+        <seg>projectAccessSourceMenuItem</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>projectAccessTargetMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T124511Z" creationid="lenovo" creationdate="20180411T124511Z">
-        <seg>项目访问目标菜单项</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T045404Z" creationid="WynnChen" creationdate="20190409T045404Z">
+        <seg>projectAccessTargetMenuItem</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>projectAccessWriteableGlossaryMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T130726Z" creationid="lenovo" creationdate="20180411T130726Z">
-        <seg>项目访问科协词汇表菜单项</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T045447Z" creationid="WynnChen" creationdate="20190409T045447Z">
+        <seg>projectAccessWriteableGlossaryMenuItem</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>projectCloseMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T123838Z">
-        <seg>项目关闭菜单项</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T045027Z" creationid="WynnChen" creationdate="20190409T045027Z">
+        <seg>projectCloseMenuItem</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>projectCompileMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T121728Z">
-        <seg>项目编译菜单项</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T045148Z" creationid="WynnChen" creationdate="20190409T045148Z">
+        <seg>projectCompileMenuItem</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>projectEditMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T124002Z">
-        <seg>项目编译菜单项</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T045234Z" creationid="WynnChen" creationdate="20190409T045234Z">
+        <seg>projectEditMenuItem</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>projectExitMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T130748Z">
-        <seg>项目退出菜单项</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T045452Z" creationid="WynnChen" creationdate="20190409T045452Z">
+        <seg>projectExitMenuItem</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>projectImportMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T123726Z">
-        <seg>项目输入菜单项</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T044956Z" creationid="WynnChen" creationdate="20190409T044956Z">
+        <seg>projectImportMenuItem</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>projectNewMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T123314Z">
-        <seg>新项目菜单项m</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T044907Z" creationid="WynnChen" creationdate="20190409T044907Z">
+        <seg>projectNewMenuItem</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>projectOpenMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T121942Z">
-        <seg>项目编译菜单项</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T044939Z" creationid="WynnChen" creationdate="20190409T044939Z">
+        <seg>projectOpenMenuItem</seg>
       </tuv>
     </tu>
     <tu>
@@ -61240,48 +61248,48 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>projectOpenRecentMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T123652Z" creationid="lenovo" creationdate="20180411T123652Z">
-        <seg>项目编译菜单项m</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T044951Z" creationid="WynnChen" creationdate="20190409T044951Z">
+        <seg>projectOpenRecentMenuItem</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>projectReloadMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T123823Z">
-        <seg>项目重载菜单项</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T045022Z" creationid="WynnChen" creationdate="20190409T045022Z">
+        <seg>projectReloadMenuItem</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>projectSaveMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T123900Z">
-        <seg>项目保存菜单项</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T045032Z" creationid="WynnChen" creationdate="20190409T045032Z">
+        <seg>projectSaveMenuItem</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>projectSingleCompileMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T123948Z" creationid="lenovo" creationdate="20180411T123948Z">
-        <seg>项目单一编译菜单项</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T045226Z" creationid="WynnChen" creationdate="20190409T045226Z">
+        <seg>projectSingleCompileMenuItem</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>projectTeamNewMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T123620Z" creationid="Fu Rhong" creationdate="20131110T021737Z">
-        <seg>项目团队新菜单项</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T044914Z" creationid="WynnChen" creationdate="20190409T044914Z">
+        <seg>projectTeamNewMenuItem</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>projectWikiImportMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T123755Z">
-        <seg>项目wiki输入菜单项m</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T045012Z" creationid="WynnChen" creationdate="20190409T045012Z">
+        <seg>projectWikiImportMenuItem</seg>
       </tuv>
     </tu>
     <tu>
@@ -62698,8 +62706,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>viewFileListMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T124026Z">
-        <seg>查看文件列表菜单项</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T045308Z" creationid="WynnChen" creationdate="20190409T045308Z">
+        <seg>viewFileListMenuItem</seg>
       </tuv>
     </tu>
     <tu>
