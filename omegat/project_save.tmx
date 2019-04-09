@@ -2322,8 +2322,8 @@ need not be entered.)</seg>
       <tuv lang="EN">
         <seg>, &lt;e0&gt;alt&lt;/e0&gt;, &lt;e1&gt;altGraph&lt;/e1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T115437Z">
-        <seg>, &lt;e0&gt;alt&lt;/e0&gt;, &lt;e1&gt;altGraph&lt;/e1&gt;</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T043611Z">
+        <seg>、&lt;e0&gt;alt&lt;/e0&gt;、&lt;e1&gt;altGraph&lt;/e1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4410,16 +4410,16 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;c0&gt;&lt;event&gt;&lt;/c0&gt; can be: &lt;e1&gt;typed&lt;/e1&gt;, &lt;e2&gt;pressed&lt;/e2&gt;, &lt;e3&gt;released&lt;/e3&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T115448Z">
-        <seg>&lt;c0&gt;&lt;event&gt;&lt;/c0&gt; 可以为：&lt;e1&gt;typed&lt;/e1&gt;, &lt;e2&gt;pressed&lt;/e2&gt;, &lt;e3&gt;released&lt;/e3&gt;</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T043621Z">
+        <seg>&lt;c0&gt;&lt;事件&gt;&lt;/c0&gt; 可以为：&lt;e1&gt;typed&lt;/e1&gt;、&lt;e2&gt;pressed&lt;/e2&gt;、&lt;e3&gt;released&lt;/e3&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;c0&gt;&lt;modifier&gt;&lt;/c0&gt; can be: &lt;e1&gt;shift&lt;/e1&gt;, &lt;e2&gt;control&lt;/e2&gt;, &lt;e3&gt;ctrl&lt;/e3&gt;, &lt;e4&gt;meta&lt;/e4&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T115405Z">
-        <seg>&lt;c0&gt;&lt;modifier&gt;&lt;/c0&gt; 可以为：&lt;e1&gt;shift&lt;/e1&gt;, &lt;e2&gt;control&lt;/e2&gt;, &lt;e3&gt;ctrl&lt;/e3&gt;, &lt;e4&gt;meta&lt;/e4&gt;</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T043535Z">
+        <seg>&lt;c0&gt;&lt;修饰键&gt;&lt;/c0&gt; 可以为：&lt;e1&gt;shift&lt;/e1&gt;、&lt;e2&gt;control&lt;/e2&gt;、&lt;e3&gt;ctrl&lt;/e3&gt;、&lt;e4&gt;meta&lt;/e4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8261,8 +8261,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;shortcut&gt; must be of the following form: 0 or more &lt;c0&gt;&lt;modifier&gt;&lt;/c0&gt; followed by 0 or 1 &lt;c1&gt;&lt;event&gt;&lt;/c1&gt; followed by 1 &lt;c2&gt;&lt;key&gt;&lt;/c2&gt;, where:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131109T025530Z" creationid="Fu Rhong" creationdate="20131109T025530Z">
-        <seg>&lt;shortcut&gt;必须为下面的形式：0或多个&lt;c0&gt;&lt;modifier&gt;&lt;/c0&gt;后跟着0或1个&lt;c1&gt;&lt;event&gt;&lt;/c1&gt;后跟着1个&lt;c2&gt;&lt;key&gt;&lt;/c2&gt;，其中：</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T043521Z" creationid="Fu Rhong" creationdate="20131109T025530Z">
+        <seg>&lt;shortcut&gt;必须是如下格式：0 个或更多&lt;c0&gt;&lt;修饰键&gt;&lt;/c0&gt;后跟着 0 个或 1 个&lt;c1&gt;&lt;事件&gt;&lt;/c1&gt;后跟着1个&lt;c2&gt;&lt;按键&gt;&lt;/c2&gt;，其中：</seg>
       </tuv>
     </tu>
     <tu>
@@ -19953,8 +19953,8 @@ know their rights.</seg>
       <tuv lang="EN">
         <seg>For example, in the default OmegaT shortcuts</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131109T025552Z" creationid="Fu Rhong" creationdate="20131109T025552Z">
-        <seg>例如，缺省的OmegaT快捷键</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T043819Z" creationid="Fu Rhong" creationdate="20131109T025552Z">
+        <seg>例如，在默认 的 OmegaT 快捷键中</seg>
       </tuv>
     </tu>
     <tu>
@@ -33586,8 +33586,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>On the Mac, the modifier &lt;e0&gt;meta&lt;/e0&gt; must be used to specify the &lt;e1&gt;command&lt;/e1&gt; key.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T115435Z">
-        <seg>在 Mac 系统中，必须使用 &lt;e0&gt;meta&lt;/e0&gt; 修饰符来指定 &lt;e1&gt;command&lt;/e1&gt; 键。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T043559Z">
+        <seg>在 Mac 系统中，必须用 &lt;e0&gt;meta&lt;/e0&gt; 来指定 &lt;e1&gt;command&lt;/e1&gt; 修饰键。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45089,8 +45089,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The full syntax for keystrokes (shortcuts) is defined in the following Java 1.6 documentation from Oracle (bottom of page): &lt;u0&gt;Java 1.6 keystrokes shortcuts&lt;/u0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T115610Z">
-        <seg>按键（快捷键）的全部语法的定义在来自 Oracle Java 1.6 文档（页面底部）：&lt;u0&gt;Java 1.6 快捷键&lt;/u0&gt;</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T042928Z">
+        <seg>按键（快捷键）的完整语法在来自 Oracle 的 Java 1.6 文档中定义（页面底部）：&lt;u0&gt;Java 1.6 按键快捷键&lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -45885,8 +45885,8 @@ your programs, too.</seg>
       <tuv lang="EN">
         <seg>The possible keyevents (keys) are listed in the following Java 1.6 documentation from Oracle: &lt;u0&gt;Java 1.6 keyEvents description&lt;/u0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T115716Z">
-        <seg>可用的按键事件在来自 Oracle 的 Java 1.6 文档中列出：&lt;u0&gt;Java 1.6 按键事件说明&lt;/u0&gt;</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T043756Z">
+        <seg>来自 Oracle 的 Java 1.6 文档中列出了可能的按键事件（按键）：&lt;u0&gt;Java 1.6 按键事件说明&lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -56583,8 +56583,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>and &lt;c0&gt;&lt;key&gt;&lt;/c0&gt; can be any key available on your keyboard</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T115508Z">
-        <seg>而 &lt;c0&gt;&lt;key&gt;&lt;/c0&gt; 可以为您键盘上有效的任何键。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T043658Z">
+        <seg>而 &lt;c0&gt;&lt;按键&gt;&lt;/c0&gt; 可以是键盘上的任何按键</seg>
       </tuv>
     </tu>
     <tu>
@@ -63343,6 +63343,28 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190323T162907Z" creationid="wynnc" creationdate="20190323T162907Z">
         <seg>纯文本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">doc_src/App_ShortCutCustomization.xml</prop>
+      <prop type="prev">The full syntax for keystrokes (shortcuts) is defined in the following Java 1.6 documentation from Oracle (bottom of page): &lt;u0&gt;Java 1.6 keystrokes shortcuts&lt;/u0&gt;</prop>
+      <prop type="next">&lt;shortcut&gt; must be of the following form: 0 or more &lt;c0&gt;&lt;modifier&gt;&lt;/c0&gt; followed by 0 or 1 &lt;c1&gt;&lt;event&gt;&lt;/c1&gt; followed by 1 &lt;c2&gt;&lt;key&gt;&lt;/c2&gt;, where:</prop>
+      <tuv lang="EN">
+        <seg>.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T043018Z" creationid="WynnChen" creationdate="20190409T043018Z">
+        <seg>。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">doc_src/App_ShortCutCustomization.xml</prop>
+      <prop type="prev">The possible keyevents (keys) are listed in the following Java 1.6 documentation from Oracle: &lt;u0&gt;Java 1.6 keyEvents description&lt;/u0&gt;</prop>
+      <prop type="next">For example, in the default OmegaT shortcuts</prop>
+      <tuv lang="EN">
+        <seg>.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T043800Z" creationid="WynnChen" creationdate="20190409T043800Z">
+        <seg>。</seg>
       </tuv>
     </tu>
     <tu>
