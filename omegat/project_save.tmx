@@ -5484,16 +5484,16 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;k0&gt;Ctrl+N&lt;/k0&gt; or &lt;k1&gt;Enter&lt;/k1&gt; or &lt;k2&gt;Tab&lt;/k2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131110T023513Z" creationid="Fu Rhong" creationdate="20131110T023513Z">
-        <seg>&lt;k0&gt;Ctrl+N&lt;/k0&gt;或&lt;k1&gt;Enter&lt;/k1&gt;或&lt;k2&gt;Tab&lt;/k2&gt;</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T135009Z" creationid="Fu Rhong" creationdate="20131110T023513Z">
+        <seg>&lt;k0&gt;Ctrl+N&lt;/k0&gt; 或 &lt;k1&gt;Enter&lt;/k1&gt; 或 &lt;k2&gt;Tab&lt;/k2&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;k0&gt;Ctrl+P&lt;/k0&gt; or &lt;k1&gt;Ctrl+Enter&lt;/k1&gt; or &lt;k2&gt;Ctrl+Tab&lt;/k2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131110T023525Z" creationid="Fu Rhong" creationdate="20131110T023525Z">
-        <seg>&lt;k0&gt;Ctrl+P&lt;/k0&gt;或&lt;k1&gt;Ctrl+Enter&lt;/k1&gt;或&lt;k2&gt;Ctrl+Tab&lt;/k2&gt;</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T135035Z" creationid="Fu Rhong" creationdate="20131110T023525Z">
+        <seg>&lt;k0&gt;Ctrl+P&lt;/k0&gt; 或 &lt;k1&gt;Ctrl+Enter&lt;/k1&gt; 或 &lt;k2&gt;Ctrl+Tab&lt;/k2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7303,8 +7303,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Shortcuts Customization&lt;/p0&gt; &lt;s1&gt;View Menu&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131110T023713Z" creationid="Fu Rhong" creationdate="20131110T023713Z">
-        <seg>&lt;p0&gt;自定义快捷键&lt;/p0&gt; &lt;s1&gt;查看菜单&lt;/s1&gt;</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T135313Z" creationid="Fu Rhong" creationdate="20131110T023713Z">
+        <seg>&lt;p0&gt;自定义快捷键&lt;/p0&gt; &lt;s1&gt;视图菜单&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11716,8 +11716,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Back in history...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Andrew" changedate="20180413T141824Z">
-        <seg>在编辑历史中回退...</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T135230Z">
+        <seg>在历史中后退...</seg>
       </tuv>
     </tu>
     <tu>
@@ -15611,6 +15611,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl+Shift+M</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T135210Z" creationid="WynnChen" creationdate="20190409T135210Z">
+        <seg>Ctrl+Shift+M</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl+Shift+N</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T123918Z">
@@ -15635,6 +15643,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl+Shift+Q</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T135141Z" creationid="WynnChen" creationdate="20190409T135141Z">
+        <seg>Ctrl+Shift+Q</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl+Shift+R</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T060824Z" creationid="WynnChen" creationdate="20190409T060824Z">
@@ -15643,10 +15659,34 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ctrl+Shift+S</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T134912Z" creationid="WynnChen" creationdate="20190409T134912Z">
+        <seg>Ctrl+Shift+S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ctrl+Shift+T</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T061059Z" creationid="WynnChen" creationdate="20190409T061059Z">
         <seg>Ctrl+Shift+T</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+Shift+U</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T134952Z" creationid="WynnChen" creationdate="20190409T134952Z">
+        <seg>Ctrl+Shift+U</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ctrl+Shift+V</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T135648Z" creationid="WynnChen" creationdate="20190409T135648Z">
+        <seg>Ctrl+Shift+V</seg>
       </tuv>
     </tu>
     <tu>
@@ -16563,8 +16603,8 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="EN">
         <seg>Display Source Segments</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
-        <seg>显示源片段</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T135350Z">
+        <seg>显示原文片段</seg>
       </tuv>
     </tu>
     <tu>
@@ -20573,8 +20613,8 @@ authors of previous versions.</seg>
       <tuv lang="EN">
         <seg>Forward in history...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Andrew" changedate="20180413T141633Z">
-        <seg>在编辑历史中前进...</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T135219Z">
+        <seg>在历史中前进...</seg>
       </tuv>
     </tu>
     <tu>
@@ -21185,8 +21225,8 @@ authors of previous versions.</seg>
       <tuv lang="EN">
         <seg>GoTo Menu</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131110T023204Z" creationid="Fu Rhong" creationdate="20131110T023204Z">
-        <seg>前往菜单</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T134929Z" creationid="Fu Rhong" creationdate="20131110T023204Z">
+        <seg>转到菜单</seg>
       </tuv>
     </tu>
     <tu>
@@ -29452,16 +29492,16 @@ later version.</seg>
       <tuv lang="EN">
         <seg>Mark Non-Unique Segments</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T033349Z">
-        <seg>标记非唯一片段</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T135403Z">
+        <seg>标记非独特片段</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Mark Non-breakable Spaces</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Andrew" changedate="20180413T142149Z" creationid="Fu Rhong" creationdate="20131110T024117Z">
-        <seg>标记不可分割空格</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T135429Z" creationid="Fu Rhong" creationdate="20131110T024117Z">
+        <seg>标记不换行空格</seg>
       </tuv>
     </tu>
     <tu>
@@ -29476,8 +29516,8 @@ later version.</seg>
       <tuv lang="EN">
         <seg>Mark Segments with Notes</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131110T024032Z" creationid="Fu Rhong" creationdate="20131110T024032Z">
-        <seg>标记含笔记片段</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T135417Z" creationid="Fu Rhong" creationdate="20131110T024032Z">
+        <seg>标记含备注的片段</seg>
       </tuv>
     </tu>
     <tu>
@@ -29996,24 +30036,24 @@ later version.</seg>
       <tuv lang="EN">
         <seg>Modification Info/Display All</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T124013Z">
-        <seg>修改信息/显示所有</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T135554Z">
+        <seg>修订信息/为所有片段显示</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Modification Info/Display None</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T123951Z">
-        <seg>修改信息/不显示</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T135511Z">
+        <seg>修订信息/不显示</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Modification Info/Display Selected</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T124006Z">
-        <seg>修改信息/显示选中部分</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T135559Z">
+        <seg>修订信息/仅为当前片段显示</seg>
       </tuv>
     </tu>
     <tu>
@@ -30842,48 +30882,48 @@ appropriate location such as the Applications folder.</seg>
       <tuv lang="EN">
         <seg>Next Note</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T123624Z">
-        <seg>后一笔记</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T135050Z">
+        <seg>下一个备注</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Next Segment</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131031T083013Z">
-        <seg>后一片段</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T135002Z">
+        <seg>下一个片段</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Next Translated Segment</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T025232Z" creationid="weiyi" creationdate="20180406T025232Z">
-        <seg>下一已译片段</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T134952Z" creationid="weiyi" creationdate="20180406T025232Z">
+        <seg>下一个已译片段</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Next Uni&amp;que Segment</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190320T095108Z" creationid="wynnc" creationdate="20190320T095108Z">
-        <seg>下一独特片段(&amp;Q)</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T135138Z" creationid="wynnc" creationdate="20190320T095108Z">
+        <seg>下一个独特片段(&amp;Q)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Next Unique Segment</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T133228Z" creationid="lenovo" creationdate="20180411T133228Z">
-        <seg>下一个独立段落</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T135127Z" creationid="lenovo" creationdate="20180411T133228Z">
+        <seg>下一个独特段落</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Next Untranslated Segment</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131031T082927Z">
-        <seg>后一未译片段</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T134945Z">
+        <seg>下一个未译片段</seg>
       </tuv>
     </tu>
     <tu>
@@ -35858,16 +35898,16 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Previous Note</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131031T082618Z">
-        <seg>前一笔记</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T135057Z">
+        <seg>上一个备注</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Previous Segment</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131031T082600Z">
-        <seg>前一片段</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T135030Z">
+        <seg>上一个片段</seg>
       </tuv>
     </tu>
     <tu>
@@ -39674,16 +39714,24 @@ When using regular expressions, the replacement string supports references to gr
       <tuv lang="EN">
         <seg>Select Match #3</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T132246Z" creationid="lenovo" creationdate="20180411T132246Z">
-        <seg>选择匹配 #3</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T134758Z" creationid="lenovo" creationdate="20180411T132246Z">
+        <seg>选择第三个匹配</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Select Match #4</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T132319Z" creationid="lenovo" creationdate="20180411T132319Z">
-        <seg>选择匹配 #4</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T134810Z" creationid="lenovo" creationdate="20180411T132319Z">
+        <seg>选择第四个匹配</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Match #5</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T134819Z" creationid="WynnChen" creationdate="20190409T134819Z">
+        <seg>选择第五个匹配</seg>
       </tuv>
     </tu>
     <tu>
@@ -41124,8 +41172,8 @@ of the GPL, as needed to protect the freedom of users.</seg>
       <tuv lang="EN">
         <seg>Source of Selected Match</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T025542Z" creationid="weiyi" creationdate="20180406T025542Z">
-        <seg>当前匹配原文</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T135209Z" creationid="weiyi" creationdate="20180406T025542Z">
+        <seg>所选匹配的来源</seg>
       </tuv>
     </tu>
     <tu>
@@ -52824,16 +52872,16 @@ searchable without subscription:</seg>
       <tuv lang="EN">
         <seg>Validate Tags</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
-        <seg>检验标签</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T135647Z">
+        <seg>验证标签</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Validate Tags for Current Document</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T063257Z" creationid="weiyi" creationdate="20180406T063257Z">
-        <seg>验证当前文件中的标签</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T135706Z" creationid="weiyi" creationdate="20180406T063257Z">
+        <seg>验证当前文档标签</seg>
       </tuv>
     </tu>
     <tu>
@@ -53040,8 +53088,8 @@ searchable without subscription:</seg>
       <tuv lang="EN">
         <seg>View Menu</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T123925Z">
-        <seg>查看菜单</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T135238Z">
+        <seg>视图菜单</seg>
       </tuv>
     </tu>
     <tu>
@@ -57796,16 +57844,16 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>editMultipleAlternate</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T132600Z">
-        <seg>编辑多项备用</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T134859Z" creationid="WynnChen" creationdate="20190409T134859Z">
+        <seg>editMultipleAlternate</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>editMultipleDefault</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T132513Z">
-        <seg>编辑多项默认值</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T134852Z" creationid="WynnChen" creationdate="20190409T134852Z">
+        <seg>editMultipleDefault</seg>
       </tuv>
     </tu>
     <tu>
@@ -57844,24 +57892,24 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>editRegisterEmptyMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T132802Z" creationid="lenovo" creationdate="20180411T132802Z">
-        <seg>编辑寄存器空菜单项m</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T134910Z" creationid="WynnChen" creationdate="20190409T134910Z">
+        <seg>editRegisterEmptyMenuItem</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>editRegisterIdenticalMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T132835Z" creationid="lenovo" creationdate="20180411T132835Z">
-        <seg>编辑寄存器相同菜单项</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T134913Z" creationid="WynnChen" creationdate="20190409T134913Z">
+        <seg>editRegisterIdenticalMenuItem</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>editRegisterUntranslatedMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T132737Z" creationid="lenovo" creationdate="20180411T132737Z">
-        <seg>编辑寄存器未翻译的菜单项</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T134906Z" creationid="WynnChen" creationdate="20190409T134906Z">
+        <seg>editRegisterUntranslatedMenuItem</seg>
       </tuv>
     </tu>
     <tu>
@@ -57892,23 +57940,23 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>editSelectFuzzy3MenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T132351Z">
-        <seg>编辑选择模糊3菜单项</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T134803Z" creationid="WynnChen" creationdate="20190409T134803Z">
+        <seg>editSelectFuzzy3MenuItem</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>editSelectFuzzy4MenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T132344Z">
-        <seg>编辑选择模糊4菜单项</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T134813Z" creationid="WynnChen" creationdate="20190409T134813Z">
+        <seg>editSelectFuzzy4MenuItem</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>editSelectFuzzy5MenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120221T120809Z">
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T134826Z" creationid="WynnChen" creationdate="20190409T134826Z">
         <seg>editSelectFuzzy5MenuItem</seg>
       </tuv>
     </tu>
@@ -58398,88 +58446,88 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>gotoHistoryBackMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T133403Z">
-        <seg>转到历史之后菜单项</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T135232Z" creationid="WynnChen" creationdate="20190409T135232Z">
+        <seg>gotoHistoryBackMenuItem</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>gotoHistoryForwardMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T133339Z">
-        <seg>转到前历史菜单项</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T135222Z" creationid="WynnChen" creationdate="20190409T135222Z">
+        <seg>gotoHistoryForwardMenuItem</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>gotoMatchSourceSegment</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T133300Z" creationid="lenovo" creationdate="20180411T133300Z">
-        <seg>转到匹配源段落</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T135213Z" creationid="WynnChen" creationdate="20190409T135213Z">
+        <seg>gotoMatchSourceSegment</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>gotoNextNoteMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T133144Z">
-        <seg>转到下一个注释菜单项</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T135051Z" creationid="WynnChen" creationdate="20190409T135051Z">
+        <seg>gotoNextNoteMenuItem</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>gotoNextSegmentMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T133016Z">
-        <seg>转到下一个段落菜单项</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T135019Z" creationid="WynnChen" creationdate="20190409T135019Z">
+        <seg>gotoNextSegmentMenuItem</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>gotoNextTranslatedMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T132940Z" creationid="lenovo" creationdate="20180411T132940Z">
-        <seg>转到下一个翻译菜单项</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T134955Z" creationid="WynnChen" creationdate="20190409T134955Z">
+        <seg>gotoNextTranslatedMenuItem</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>gotoNextUniqueMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T133245Z" creationid="lenovo" creationdate="20180411T133245Z">
-        <seg>转到下一个独立段落</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T135142Z" creationid="WynnChen" creationdate="20190409T135142Z">
+        <seg>gotoNextUniqueMenuItem</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>gotoNextUntranslatedMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T132855Z">
-        <seg>转到下一个未翻译的菜单项</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T134948Z" creationid="WynnChen" creationdate="20190409T134948Z">
+        <seg>gotoNextUntranslatedMenuItem</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>gotoPreviousNoteMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T133147Z">
-        <seg>转到下一个注释菜单项</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T135100Z" creationid="WynnChen" creationdate="20190409T135100Z">
+        <seg>gotoPreviousNoteMenuItem</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>gotoPreviousSegmentMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T133035Z">
-        <seg>转到前一个段落菜单项</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T135037Z" creationid="WynnChen" creationdate="20190409T135037Z">
+        <seg>gotoPreviousSegmentMenuItem</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>gotoSegmentMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T133211Z">
-        <seg>转到段落菜单项</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T135045Z" creationid="WynnChen" creationdate="20190409T135045Z">
+        <seg>gotoSegmentMenuItem</seg>
       </tuv>
     </tu>
     <tu>
@@ -62418,24 +62466,24 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>toolsShowStatisticsMatchesMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T135155Z">
-        <seg>工具显示统计匹配菜单项</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T135718Z" creationid="WynnChen" creationdate="20190409T135718Z">
+        <seg>toolsShowStatisticsMatchesMenuItem</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>toolsShowStatisticsMatchesPerFileMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T135233Z" creationid="lenovo" creationdate="20180411T135233Z">
-        <seg>工具显示统计每个文件匹配菜单项</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T135728Z" creationid="WynnChen" creationdate="20190409T135728Z">
+        <seg>toolsShowStatisticsMatchesPerFileMenuItem</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>toolsShowStatisticsStandardMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T135127Z">
-        <seg>工具显示统计标准菜单项</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T135716Z" creationid="WynnChen" creationdate="20190409T135716Z">
+        <seg>toolsShowStatisticsStandardMenuItem</seg>
       </tuv>
     </tu>
     <tu>
@@ -62450,16 +62498,16 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>toolsSingleValidateTagsMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T135045Z" creationid="lenovo" creationdate="20180411T135045Z">
-        <seg>工具单一验证标签菜单项</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T135708Z" creationid="WynnChen" creationdate="20190409T135708Z">
+        <seg>toolsSingleValidateTagsMenuItem</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>toolsValidateTagsMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T135030Z">
-        <seg>工具验证标签菜单项</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T135650Z" creationid="WynnChen" creationdate="20190409T135650Z">
+        <seg>toolsValidateTagsMenuItem</seg>
       </tuv>
     </tu>
     <tu>
@@ -62754,32 +62802,32 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>viewDisplayModificationInfoAllRadioButtonMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T135011Z">
-        <seg>视图显示修改信息所有单选按钮菜单项</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T135602Z" creationid="WynnChen" creationdate="20190409T135602Z">
+        <seg>viewDisplayModificationInfoAllRadioButtonMenuItem</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>viewDisplayModificationInfoNoneRadioButtonMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T134853Z">
-        <seg>视图显示修改信息无单选按钮菜单项</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T135513Z" creationid="WynnChen" creationdate="20190409T135513Z">
+        <seg>viewDisplayModificationInfoNoneRadioButtonMenuItem</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>viewDisplayModificationInfoSelectedRadioButtonMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T134949Z">
-        <seg>视图显示修改信息选定的单选按钮菜单项</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T135536Z" creationid="WynnChen" creationdate="20190409T135536Z">
+        <seg>viewDisplayModificationInfoSelectedRadioButtonMenuItem</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>viewDisplaySegmentSourceCheckBoxMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T133616Z">
-        <seg>查看显示段来源复选框菜单项</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T135357Z" creationid="WynnChen" creationdate="20190409T135357Z">
+        <seg>viewDisplaySegmentSourceCheckBoxMenuItem</seg>
       </tuv>
     </tu>
     <tu>
@@ -62794,64 +62842,64 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>viewMarkAutoPopulatedCheckBoxMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T134710Z" creationid="lenovo" creationdate="20180411T134710Z">
-        <seg>查看标记自动填充复选框菜单项</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T135459Z" creationid="WynnChen" creationdate="20190409T135459Z">
+        <seg>viewMarkAutoPopulatedCheckBoxMenuItem</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>viewMarkBidiCheckBoxMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T134627Z" creationid="Fu Rhong" creationdate="20131110T025637Z">
-        <seg>查看标记Bidi复选框菜单项</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T135453Z" creationid="WynnChen" creationdate="20190409T135453Z">
+        <seg>viewMarkBidiCheckBoxMenuItem</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>viewMarkNBSPCheckBoxMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T134456Z" creationid="Fu Rhong" creationdate="20131110T025345Z">
-        <seg>查看标记NBSP复选框菜单项</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T135433Z" creationid="WynnChen" creationdate="20190409T135433Z">
+        <seg>viewMarkNBSPCheckBoxMenuItem</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>viewMarkNonUniqueSegmentsCheckBoxMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180420T021702Z">
-        <seg>查看标记非唯一片段复选框菜单项</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T135405Z" creationid="WynnChen" creationdate="20190409T135405Z">
+        <seg>viewMarkNonUniqueSegmentsCheckBoxMenuItem</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>viewMarkNotedSegmentsCheckBoxMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T134428Z" creationid="Fu Rhong" creationdate="20131110T024033Z">
-        <seg>查看标记注释段落复选框菜单项</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T135419Z" creationid="WynnChen" creationdate="20190409T135419Z">
+        <seg>viewMarkNotedSegmentsCheckBoxMenuItem</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>viewMarkTranslatedSegmentsCheckBoxMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T133508Z">
-        <seg>查看标记翻译段落复选框菜单项</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T135334Z" creationid="WynnChen" creationdate="20190409T135334Z">
+        <seg>viewMarkTranslatedSegmentsCheckBoxMenuItem</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>viewMarkUntranslatedSegmentsCheckBoxMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T133533Z">
-        <seg>查看标记未翻译段落复选框菜单项</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T135345Z" creationid="WynnChen" creationdate="20190409T135345Z">
+        <seg>viewMarkUntranslatedSegmentsCheckBoxMenuItem</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>viewMarkWhitespaceCheckBoxMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T134556Z" creationid="Fu Rhong" creationdate="20131110T025405Z">
-        <seg>查看标记空白复选框菜单项</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T135445Z" creationid="WynnChen" creationdate="20190409T135445Z">
+        <seg>viewMarkWhitespaceCheckBoxMenuItem</seg>
       </tuv>
     </tu>
     <tu>
