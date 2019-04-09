@@ -27971,8 +27971,8 @@ itself on the first run. Later calls do not need to be online.</seg>
       <tuv lang="EN">
         <seg>Last Changes...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T140139Z" creationid="lenovo" creationdate="20180411T140139Z">
-        <seg>上次更新...</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T140925Z" creationid="lenovo" creationdate="20180411T140139Z">
+        <seg>最近变更...</seg>
       </tuv>
     </tu>
     <tu>
@@ -28827,8 +28827,8 @@ later version.</seg>
       <tuv lang="EN">
         <seg>Log...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T140206Z" creationid="lenovo" creationdate="20180411T140206Z">
-        <seg>登陆...</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T140936Z" creationid="lenovo" creationdate="20180411T140206Z">
+        <seg>日志...</seg>
       </tuv>
     </tu>
     <tu>
@@ -58630,32 +58630,32 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>helpAboutMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T140522Z">
-        <seg>帮助关于菜单项</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T140912Z" creationid="WynnChen" creationdate="20190409T140912Z">
+        <seg>helpAboutMenuItem</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>helpContentsMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T140234Z">
-        <seg>帮助内容菜单项</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T140909Z" creationid="WynnChen" creationdate="20190409T140909Z">
+        <seg>helpContentsMenuItem</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>helpLastChangesMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T140159Z" creationid="lenovo" creationdate="20180411T140159Z">
-        <seg>帮助上次更新菜单项</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T140927Z" creationid="WynnChen" creationdate="20190409T140927Z">
+        <seg>helpLastChangesMenuItem</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>helpLogMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T140217Z" creationid="lenovo" creationdate="20180411T140217Z">
-        <seg>帮助登陆菜单项</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T140941Z" creationid="WynnChen" creationdate="20190409T140941Z">
+        <seg>helpLogMenuItem</seg>
       </tuv>
     </tu>
     <tu>
@@ -60896,8 +60896,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>optionsAccessConfigDirMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T140302Z" creationid="lenovo" creationdate="20180411T140302Z">
-        <seg>选项访问配置Dir菜单项</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T140856Z" creationid="WynnChen" creationdate="20190409T140856Z">
+        <seg>optionsAccessConfigDirMenuItem</seg>
       </tuv>
     </tu>
     <tu>
@@ -60992,8 +60992,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>optionsRestoreGUIMenuItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T140347Z">
-        <seg>选项恢复GUI菜单项</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T140848Z" creationid="WynnChen" creationdate="20190409T140848Z">
+        <seg>optionsRestoreGUIMenuItem</seg>
       </tuv>
     </tu>
     <tu>
@@ -61072,8 +61072,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>optionsViewOptionsMenuLoginItem</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180411T140429Z">
-        <seg>选项查看选项菜单登录项目</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T140807Z" creationid="WynnChen" creationdate="20190409T140807Z">
+        <seg>optionsViewOptionsMenuLoginItem</seg>
       </tuv>
     </tu>
     <tu>
