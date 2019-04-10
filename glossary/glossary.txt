@@ -60,3 +60,8 @@ folder	文件夹	即文件系统中的目录。
 style	文体	针对文字方面的，常与grammer并列。
 default	默认	他处亦有翻译为“缺省”的，本项目中统一使用更常见的“默认”
 login	登录	注意不要写成“登陆”！！
+introduction	简介	用于文档目录/标题中时，统一翻译
+translation memory	翻译记忆库	在“对TM的使用”的上下文场景下，有时可以简称为“翻译记忆”。
+Internet	因特网
+local access network	局域网	即LAN
+local network	局域网	即local access network
