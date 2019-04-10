@@ -18265,6 +18265,14 @@ by the Free Software Foundation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enter the URL, provided by ProjectLocker, into the field &lt;e0&gt;URL of repository&lt;/e0&gt;. Make sure the field &lt;e1&gt;Checkout directory&lt;/e1&gt; is correct, i.e. specifies the empty folder you have created, and press &lt;e2&gt;OK&lt;/e2&gt;. Once the operation has finished, you can check the said folder: it should now contain a subfolder .svn and a green OK badge on its icon will show, that the contents of the folder are up-to-date:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190410T104847Z" creationid="WynnChen" creationdate="20190410T104847Z">
+        <seg>把 ProjectLocker 提供的网址输入到存储库的 &lt;e0&gt;URL（网址）&lt;/e0&gt; 字段中。确保 &lt;e1&gt;Checkout directory（检出目录）&lt;/e1&gt; 字段内容正确，即，指定您刚才所创建的空文件夹，然后按 &lt;e2&gt;OK（确定）&lt;/e2&gt;。操作完成后，您可以检查上述文件夹：它现在应该包含一个子文件夹 .svn，并在其图标上显示绿色的 OK 标记，这表示该文件夹的内容是最新的：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enter the new word or phrase (regular expressions are not supported) in the &lt;e0&gt;Replace with&lt;/e0&gt; box, then click one of the following options:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="10353" changedate="20180412T095052Z" creationid="10353" creationdate="20180412T095052Z">
@@ -20459,8 +20467,8 @@ authors of previous versions.</seg>
       <tuv lang="EN">
         <seg>For the example shown here we decided for the one OmegaT project - one single repository for the simplicity reasons.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131111T114336Z" creationid="Fu Rhong" creationdate="20131111T114336Z">
-        <seg>为了简便，这里的例子中我们决定为OmegaT项目使用单个版本库。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190410T103238Z" creationid="Fu Rhong" creationdate="20131111T114336Z">
+        <seg>对于此处的示例，为了简便，我们决定使用一个 OmegaT 项目 - 一个单一的存储库的方式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24560,8 +24568,8 @@ work and works based on it.</seg>
       <tuv lang="EN">
         <seg>Importing the project to SVN repository - Windows</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131111T114353Z" creationid="Fu Rhong" creationdate="20131111T114353Z">
-        <seg>导入项目到SVN版本库——Windows</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190410T104416Z" creationid="Fu Rhong" creationdate="20131111T114353Z">
+        <seg>将项目导入 SVN 存储库 - Windows</seg>
       </tuv>
     </tu>
     <tu>
@@ -25393,6 +25401,14 @@ patent against the party.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131111T121918Z" creationid="Fu Rhong" creationdate="20131111T121140Z">
         <seg>下一步中，要添加OmegaT文件到本地文件夹。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the next step, we will add the OmegaT files to the local folder. The following files are to be shared among the members of the team and thus have to be included in any case:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190410T104950Z" creationid="WynnChen" creationdate="20190410T104950Z">
+        <seg>在下一步中，我们将 OmegaT 文件添加到本地文件夹中。以下文件要在团队成员之间共享，因此在任何情况下都必须包含：</seg>
       </tuv>
     </tu>
     <tu>
@@ -36554,6 +36570,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Projects can be managed according to your development style and needs. Similar as in the case of OmegaT projects, you will need to have separate repositories for different language pairs. Within a given language pair it is best to keep different subjects and/or clients as separate repositories as well. The alternative is to have one single repository with subfolders &lt;l0&gt;Project1&lt;/l0&gt;, &lt;l1&gt;Project2&lt;/l1&gt;, etc., and share the common material via common &lt;l2&gt;tm&lt;/l2&gt;, &lt;l3&gt;glossary&lt;/l3&gt; and &lt;l4&gt;dictionary&lt;/l4&gt; folders.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190410T101048Z" creationid="WynnChen" creationdate="20190410T101048Z">
+        <seg>可以根据您的开发风格和需求来管理项目。与 OmegaT 项目类似，您需要为不同的语言对提供各自的存储库。在给定的语言对中，最好同样保持不同的主题和/或客户分处单独的存储库。另一种方法是让单个存储库中包含子文件夹 &lt;l0&gt;Project1&lt;/l0&gt;、&lt;l1&gt;Project2&lt;/l1&gt; 等，并通过公用的 &lt;l2&gt;tm&lt;/l2&gt;、&lt;l3&gt;glossary&lt;/l3&gt; 和 &lt;l4&gt;dictionary&lt;/l4&gt; 文件夹来共享公共资料。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Propagation</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T115548Z" creationid="lenovo" creationdate="20180416T115349Z">
@@ -46358,6 +46382,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131111T114406Z" creationid="Fu Rhong" creationdate="20131111T114406Z">
         <seg>此时版本库是空的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The repository is empty at this moment. You create first an empty client folder on your disk. Create an empty folder, where you will keep your project and right-click on it. Select&lt;g0&gt; TortoiseSVN &gt; Checkout.&lt;/g0&gt; The following dialog appears:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190410T104544Z" creationid="WynnChen" creationdate="20190410T104544Z">
+        <seg>此时存储库是空的。首先您要在磁盘上创建一个空的客户端文件夹。创建一个要在其中存放项目的空文件夹并右键单击它。选择 &lt;g0&gt;TortoiseSVN &gt; Checkout&lt;/g0&gt;。会出现以下对话框：</seg>
       </tuv>
     </tu>
     <tu>
@@ -62354,8 +62386,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>the contents of the source folder</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131111T122159Z" creationid="Fu Rhong" creationdate="20131111T122159Z">
-        <seg>源文件夹的内容</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190410T105032Z" creationid="Fu Rhong" creationdate="20131111T122159Z">
+        <seg>原文文件夹的内容</seg>
       </tuv>
     </tu>
     <tu>
@@ -62394,16 +62426,16 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>the omegat project file - &lt;f0&gt;omegat.project&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131111T122042Z" creationid="Fu Rhong" creationdate="20131111T122042Z">
-        <seg>omegat项目文件——&lt;f0&gt;omegat.project&lt;/f0&gt;</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190410T105025Z" creationid="Fu Rhong" creationdate="20131111T122042Z">
+        <seg>omegat 项目文件 - &lt;f0&gt;omegat.project&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>the project-specific filters definition - &lt;f0&gt;omegat\filters.xml&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131111T122217Z" creationid="Fu Rhong" creationdate="20131111T122217Z">
-        <seg>项目专用的过滤器定义文件——&lt;f0&gt;omegat\filters.xml&lt;/f0&gt;</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190410T105053Z" creationid="Fu Rhong" creationdate="20131111T122217Z">
+        <seg>项目专用的过滤器定义文件 - &lt;f0&gt;omegat\filters.xml&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -62426,8 +62458,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>the translation memory - &lt;f0&gt;omegat\project_save.tmx&lt;/f0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131111T122149Z" creationid="Fu Rhong" creationdate="20131111T122149Z">
-        <seg>翻译记忆——&lt;f0&gt;omegat\project_save.tmx&lt;/f0&gt;</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190410T105020Z" creationid="Fu Rhong" creationdate="20131111T122149Z">
+        <seg>翻译记忆库 - &lt;f0&gt;omegat\project_save.tmx&lt;/f0&gt;</seg>
       </tuv>
     </tu>
     <tu>
