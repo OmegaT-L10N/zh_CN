@@ -65,3 +65,4 @@ translation memory	翻译记忆库	在“对TM的使用”的上下文场景下�
 Internet	因特网
 local access network	局域网	即LAN
 local network	局域网	即local access network
+Stemming	词干分析
