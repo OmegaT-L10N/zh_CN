@@ -5145,10 +5145,26 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;VCS client: &lt;/e0&gt;To interface with the server an SVN or Git client must be installed on computers of "project managers" involved in the OmegaT project. Very popular clients for Windows environment are &lt;u1&gt;TortoiseSVN&lt;/u1&gt; and &lt;u2&gt;TortoiseGit&lt;/u2&gt;. Other operating systems (Linux, OS X) offer similar packages.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190410T033115Z" creationid="WynnChen" creationdate="20190410T033115Z">
+        <seg>&lt;e0&gt; VCS 客户端：&lt;/e0&gt;要与服务器连接，OmegaT 项目中涉及的“项目经理”的计算机上必须安装 SVN 或 Git 客户端。Windows 环境中非常流行的客户端是 &lt;u1&gt;TortoiseSVN&lt;/u1&gt; 和 &lt;u2&gt;TortoiseGit&lt;/u2&gt;。其他操作系统（Linux、OS X）也提供有类似的软件包。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;VCS server - &lt;/e0&gt;i.e. SVN or Git server is the environment where the common material is kept and maintained on the net.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131110T073528Z" creationid="Fu Rhong" creationdate="20131110T073055Z">
         <seg>&lt;e0&gt;VCS服务器：&lt;/e0&gt;即SVN或Git服务器是网上保存和维护公用材料的地方。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;VCS server - &lt;/e0&gt;i.e. SVN or Git server is the environment where the common material is kept and maintained on the net. The server can exist in the local network but in the majority of cases it will be available on internet, i.e. via URL address. One member of the team, the project administrator, needs to be acquainted with handling the server side, i.e. the job of setting up the environment, importing the OmegaT project, assigning the access rights for the team members, resolving the conflicts, etc.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190410T031603Z" creationid="WynnChen" creationdate="20190410T031603Z">
+        <seg>&lt;e0&gt;VCS 服务器：&lt;/e0&gt;即 SVN 或 Git 服务器，是在网络上保存和维护公共资料的环境。服务器可以放在局域网中，但在大多数情况下，它可在因特网上使用，即，可通过 URL 地址访问。团队的成员之一——项目管理员，需要熟悉服务器端事宜，即设置环境、导入 OmegaT 项目、为团队成员分配访问权限、解决冲突等工作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5225,6 +5241,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;administrator: &lt;/e0&gt;the person responsible for the creation and maintaining of the repository, i.e. taking care of the server side of the task. To avoid any problems, one person only should have these rights at least initially.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190410T034231Z" creationid="WynnChen" creationdate="20190410T034231Z">
+        <seg>&lt;e0&gt;管理员：&lt;/e0&gt;负责创建和维护存储库的人，即负责服务器端事务的人。为了避免出现问题，至少在一开始，应当只有一个人有这些权限。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;case sensitive&lt;/e0&gt;: the search will be performed for the exact string specified; i.e. capitalization is observed.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120215T125735Z">
@@ -5241,6 +5265,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;checkout:&lt;/e0&gt; the operation that creates a working copy from the repository to your local computer. The server keeps the information on checkouts, so that later commits (see below) can be performed in an orderly fashion.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190410T033740Z" creationid="WynnChen" creationdate="20190410T033306Z">
+        <seg>&lt;e0&gt;检出（checkout）：&lt;/e0&gt;在本地计算机上创建来自存储库的工作副本的操作。服务器保存有检出的信息，以便后续提交（见下文）可以有序地执行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;commit local changes to the server: &lt;/e0&gt;right-click on the local checkout folder and select &lt;g1&gt;SVN Commit....&lt;/g1&gt; The Commit window - see below opens.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131111T130026Z" creationid="Fu Rhong" creationdate="20131111T125715Z">
@@ -5253,6 +5285,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131110T074517Z" creationid="Fu Rhong" creationdate="20131110T074517Z">
         <seg>&lt;e0&gt;提交：&lt;/e0&gt;当检出材料的新的本地版本准备好后，就可以提交到版本库而共享给团队其他成员。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;commit: &lt;/e0&gt;once a new local version of the checked-out material is ready, it can be committed to the repository and thus made available to the rest of the team. The server makes sure that any conflicting changes, due to two members working on the same checked-out contents, will be resolved.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190410T034045Z" creationid="WynnChen" creationdate="20190410T034045Z">
+        <seg>&lt;e0&gt;提交（commit）：&lt;/e0&gt;一旦检出的资料有了新的本地版本，就可以将其提交到存储库，从而可供团队的其他成员使用。服务器确保任何由于两个成员处理同一个检出内容而导致的冲突更改会得到解决。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5289,6 +5329,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;repository: &lt;/e0&gt;the place where the shared material is saved and maintained, either on a local access network or in Internet. Project members connect with it via their VCS client.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190410T033318Z" creationid="WynnChen" creationdate="20190410T033253Z">
+        <seg>&lt;e0&gt;存储库（repository）：&lt;/e0&gt;在局域网或因特网上保存和维护共享资料的地方。项目成员通过各自的 VCS 客户端与其连接。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;several projects on the same subject: &lt;/e0&gt;keep the project structure, and change source and target folders (Source = source/order1, target = target/order1 etc).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131126T105241Z" creationid="Fu Rhong" creationdate="20131126T105241Z">
@@ -5316,8 +5364,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;user&lt;/e0&gt;: a member of the team, collaborating on the common project.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131110T075044Z" creationid="Fu Rhong" creationdate="20131110T075044Z">
-        <seg>&lt;e0&gt;用户&lt;/e0&gt;：团队成员，协作于共同的项目。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190410T034326Z" creationid="Fu Rhong" creationdate="20131110T075044Z">
+        <seg>&lt;e0&gt;用户&lt;/e0&gt;：团队成员，在共同项目上进行协作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7791,8 +7839,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Team projects&lt;/p0&gt; &lt;s1&gt;Creating SVN repository&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131111T110104Z" creationid="Fu Rhong" creationdate="20131111T110104Z">
-        <seg>&lt;p0&gt;团队项目&lt;/p0&gt; &lt;s1&gt;创建SVN版本库&lt;/s1&gt;</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190410T035319Z" creationid="Fu Rhong" creationdate="20131111T110104Z">
+        <seg>&lt;p0&gt;团队项目&lt;/p0&gt; &lt;s1&gt;创建 SVN 存储库&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9093,8 +9141,8 @@ included in conveying the object code work.</seg>
       <tuv lang="EN">
         <seg>About &lt;a0&gt;OmegaT&lt;/a0&gt; - introduction</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130911T123157Z">
-        <seg>关于 &lt;a0&gt;OmegaT&lt;/a0&gt; - 介绍</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190410T022622Z">
+        <seg>关于 &lt;a0&gt;OmegaT&lt;/a0&gt; - 简介</seg>
       </tuv>
     </tu>
     <tu>
@@ -13458,8 +13506,8 @@ Exception occurred:</seg>
       <tuv lang="EN">
         <seg>Choose&lt;g0&gt; SVN.&lt;/g0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131111T110741Z" creationid="Fu Rhong" creationdate="20131111T110741Z">
-        <seg>选择&lt;g0&gt; SVN。&lt;/g0&gt;</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190410T042528Z" creationid="Fu Rhong" creationdate="20131111T110741Z">
+        <seg>选择 &lt;g0&gt;SVN&lt;/g0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13538,8 +13586,8 @@ Exception occurred:</seg>
       <tuv lang="EN">
         <seg>Click &lt;g0&gt;Create Project&lt;/g0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131111T110751Z" creationid="Fu Rhong" creationdate="20131111T110751Z">
-        <seg>点击&lt;g0&gt;Create Project&lt;/g0&gt;</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190410T042604Z" creationid="Fu Rhong" creationdate="20131111T110751Z">
+        <seg>点击 &lt;g0&gt;Create Project（创建项目）&lt;/g0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14236,8 +14284,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Conflicts - for instance alternative translations of the same segment or glossary entry - can be monitored, resolved and merged</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131113T020618Z" creationid="Fu Rhong" creationdate="20131110T071411Z">
-        <seg>可以发现并解决冲突（例如相同片段或术语的可选译文）</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190410T030506Z" creationid="Fu Rhong" creationdate="20131110T071411Z">
+        <seg>可以检测到冲突（例如同一个片段或词汇表条目的不同翻译），并予以解决和合并</seg>
       </tuv>
     </tu>
     <tu>
@@ -15044,8 +15092,8 @@ unpacking, reading or copying.</seg>
       <tuv lang="EN">
         <seg>Create a new project on ProjectLocker</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131111T110629Z" creationid="Fu Rhong" creationdate="20131111T110629Z">
-        <seg>在ProjectLocker上创建新项目</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190410T042315Z" creationid="Fu Rhong" creationdate="20131111T110629Z">
+        <seg>在 ProjectLocker 上创建新项目</seg>
       </tuv>
     </tu>
     <tu>
@@ -15213,8 +15261,8 @@ unpacking, reading or copying.</seg>
       <tuv lang="EN">
         <seg>Creating a repository</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131111T110113Z" creationid="Fu Rhong" creationdate="20131111T110113Z">
-        <seg>创建版本库</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190410T035330Z" creationid="Fu Rhong" creationdate="20131111T110113Z">
+        <seg>创建存储库</seg>
       </tuv>
     </tu>
     <tu>
@@ -18627,8 +18675,8 @@ by the Free Software Foundation.</seg>
       <tuv lang="EN">
         <seg>Every three minutes by default, an updated version of data shared is available to the rest of the team</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131110T071203Z" creationid="Fu Rhong" creationdate="20131110T071203Z">
-        <seg>缺省情况下，每三分钟就会把更新的版本分享给团队其他成员</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190410T025019Z" creationid="Fu Rhong" creationdate="20131110T071203Z">
+        <seg>默认情况下，每隔三分钟，团队中的其他成员就能使用更新后的共享数据</seg>
       </tuv>
     </tu>
     <tu>
@@ -26186,8 +26234,8 @@ everything.</seg>
       <tuv lang="EN">
         <seg>Introduction</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T103330Z">
-        <seg>引言</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190410T022628Z">
+        <seg>简介</seg>
       </tuv>
     </tu>
     <tu>
@@ -32369,8 +32417,8 @@ combination as such.</seg>
       <tuv lang="EN">
         <seg>OmegaT Team Projects</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131110T033127Z" creationid="Fu Rhong" creationdate="20131110T033111Z">
-        <seg>OmegaT团队项目</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190410T022259Z" creationid="Fu Rhong" creationdate="20131110T033111Z">
+        <seg>OmegaT 团队项目</seg>
       </tuv>
     </tu>
     <tu>
@@ -33808,6 +33856,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Once the SVN server is available, project managers must locally install a SVN client, in order to manage the project contents on their computers. For Windows we recommend &lt;u0&gt;TortoiseSVN&lt;/u0&gt;. For Mac you can download the client for instance from &lt;u1&gt;SourceForge&lt;/u1&gt;, For Linux see &lt;u2&gt;Subversion Commands and Scripts&lt;/u2&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190410T035307Z" creationid="WynnChen" creationdate="20190410T035307Z">
+        <seg>有了 SVN 服务器后，项目经理必须在本地安装 SVN 客户端，以便在他们的计算机上管理项目内容。对于 Windows，我们建议使用 &lt;u0&gt;TortoiseSVN&lt;/u0&gt;。对于Mac，您可以从诸如 &lt;u1&gt;SourceForge&lt;/u1&gt; 之类的地方下载客户端；对于 Linux，请参阅 &lt;u2&gt;Subversion 命令和脚本&lt;/u2&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Once the archive has been extracted, a folder containing the following contents is created:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120202T064616Z">
@@ -34196,6 +34252,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131111T122112Z" creationid="Fu Rhong" creationdate="20131111T110840Z">
         <seg>在您的账户中打开&lt;e0&gt;Projects&lt;/e0&gt;视图。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open the&lt;e0&gt; Projects&lt;/e0&gt; view for your account. The URL shown under Project Services will be used by SVN to connect clients to the SVN server you have just established. This is also the place to add members of the team to the project and assign them their rights. Note that the team members have to be registered first, before you can add them to the project (Note: in the free version of ProjectLocker you are allowed only two users per project).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190410T094844Z" creationid="WynnChen" creationdate="20190410T094844Z">
+        <seg>打开您账户的 &lt;e0&gt;Project（项目）&lt;/e0&gt;视图。SVN 要使用 Project Services（项目服务）下显示的网址来将客户端连接到刚刚建立的 SVN 服务器。这里还可以添加团队成员到项目中并为他们分配权限。请注意，团队成员们必须先完成注册，然后才能将他们添加到项目中（注意：在 ProjectLocker 的免费版本中，每个项目只允许有两个用户）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40226,16 +40290,16 @@ When using regular expressions, the replacement string supports references to gr
       <tuv lang="EN">
         <seg>Several team members can work on the translation project simultaneously without interfering with each other</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131110T072759Z" creationid="Fu Rhong" creationdate="20131110T070845Z">
-        <seg>多个团队成员可同时工作在一个翻译项目而不会彼此冲突</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190410T023318Z" creationid="Fu Rhong" creationdate="20131110T070845Z">
+        <seg>多名团队成员可同时处理翻译项目而不会互相干扰</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Sharing a project using SVN</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131110T075129Z" creationid="Fu Rhong" creationdate="20131110T075129Z">
-        <seg>使用SVN共享项目</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190410T034357Z" creationid="Fu Rhong" creationdate="20131110T075129Z">
+        <seg>使用 SVN 共享项目</seg>
       </tuv>
     </tu>
     <tu>
@@ -44381,6 +44445,14 @@ Please try to correct the error and reload the project.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The collaborative translation offered by OmegaT is based on the functionality of version or revision control, widely used by the software community to maintain control of changes to the code of a program and allow unimpeded collaboration within the development team. OmegaT supports two of the popular version control systems (VCS for short), &lt;u0&gt;Apache Subversion&lt;/u0&gt; (often abbreviated SVN, after the command name svn) and &lt;u1&gt;Git&lt;/u1&gt;. The advantages of a VC system for a team of translators can be summarized as follows:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190410T023234Z" creationid="WynnChen" creationdate="20190410T023234Z">
+        <seg>OmegaT 提供的协作翻译基于版本或修订控制的功能，软件社区广泛使用它来维护对程序代码变更的控制，并让开发团队内部能无阻碍的协作。OmegaT 支持两种流行的版本控制系统（简称 VCS）：&lt;u0&gt;Apache Subversion&lt;/u0&gt;（通常按它的命令名 svn 缩写为 SVN）和&lt;u1&gt;Git&lt;/u1&gt;。版本控制系统给翻译团队带来的好处可归纳如下：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The collections are downloaded as TBX glossaries in the current glossary folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Doris" changedate="20180418T131116Z" creationid="Doris" creationdate="20180418T131116Z">
@@ -45129,8 +45201,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The following terms, to be used in the text below, deserve a short explanation:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131110T072946Z" creationid="Fu Rhong" creationdate="20131110T071421Z">
-        <seg>这里对后面的文本中使用的术语作个简短的说明：</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190410T030709Z" creationid="Fu Rhong" creationdate="20131110T071421Z">
+        <seg>下文中将使用以下术语，有必要简单解释一下：</seg>
       </tuv>
     </tu>
     <tu>
@@ -46109,6 +46181,14 @@ modification follow.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The procedure presented here relies on the free SVN server (limited to 2 users) offered by &lt;u0&gt;ProjectLocker&lt;/u0&gt;. Note that the creator of the repository has implicitly the administrator rights for the repository created. Sign in to the site first or - if it is your first time on the site, register for it and note your user name and password for the future projects.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190410T041153Z" creationid="WynnChen" creationdate="20190410T041153Z">
+        <seg>此处介绍的流程依赖于 &lt;u0&gt;ProjectLocker&lt;/u0&gt; 提供的免费 SVN 服务器（限制为 2 个用户）。请注意，存储库的创建者隐含地具有所创建的存储库的管理员权限。首先登录该站点，或者，如果您是第一次访问该站点，请先注册并保存用户名和密码以用于之后的项目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The process of segmenting can be pictured as follows: the cursor moves along the text, one character at a time.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120215T141840Z">
@@ -46808,8 +46888,8 @@ protocols for communication across the network.</seg>
       <tuv lang="EN">
         <seg>The system maintains versioning for data shared</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131110T071230Z" creationid="Fu Rhong" creationdate="20131110T071230Z">
-        <seg>由系统维护共享数据的版本</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190410T030329Z" creationid="Fu Rhong" creationdate="20131110T071230Z">
+        <seg>系统可以对共享数据的版本进行维护</seg>
       </tuv>
     </tu>
     <tu>
@@ -47553,6 +47633,14 @@ protocols for communication across the network.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There are two possibilities to run an SVN server: you can install SVN on your own server or you can use a hosted service. When using an external service you must be aware of the possible implications in terms of confidentiality, since you are loading the original document on a server outside of your direct control. Alternatively, to avoid this issue you can set a private SVN server, for example if you already have an Apache server that includes the software in question (e.g. VisualSVN).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190410T034721Z" creationid="WynnChen" creationdate="20190410T034721Z">
+        <seg>运行 SVN 服务器有两种可能方式：可以在自己的服务器上安装 SVN，也可以使用托管服务。使用外部服务时，您必须注意可能的机密性方面的影响，因为您将原始文档加载到不受直接控制的服务器上。或者，为了避免此问题，可以建立私有 SVN 服务器，例如，如果您已经有了包含相关软件（例如 VisualSVN）的 Apache 服务器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There are two strategies for segments that contain only such invariable text.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120131T133002Z">
@@ -47844,8 +47932,8 @@ configuration folder cannot be reliably determined.</seg>
       <tuv lang="EN">
         <seg>They can share common material, like project translation memory and its glossary</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021051Z" creationid="Fu Rhong" creationdate="20131110T070936Z">
-        <seg>他们可以共用材料，如项目的翻译记忆和术语表</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190410T023521Z" creationid="Fu Rhong" creationdate="20131110T070936Z">
+        <seg>他们可以共享公共资料，比如项目的翻译记忆库和词汇表</seg>
       </tuv>
     </tu>
     <tu>
@@ -51123,6 +51211,14 @@ install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Type the name and description of the repository. ( &lt;l0&gt;OmegaT&lt;/l0&gt; and &lt;l1&gt;OmegaT SL Localization &lt;/l1&gt;in the example used here)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190410T042522Z" creationid="WynnChen" creationdate="20190410T042522Z">
+        <seg>输入存储库的名称和描述。（此处使用的例子中，分别为 &lt;l0&gt;OmegaT&lt;/l0&gt; 和 &lt;l1&gt;OmegaT SL 本地化&lt;/l1&gt;）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Types:
 Exact searches match the whole search string.</seg>
       </tuv>
@@ -53000,8 +53096,8 @@ searchable without subscription:</seg>
       <tuv lang="EN">
         <seg>Version control - introduction</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131110T033145Z" creationid="Fu Rhong" creationdate="20131110T033145Z">
-        <seg>版本控制——介绍</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190410T022651Z" creationid="Fu Rhong" creationdate="20131110T033145Z">
+        <seg>版本控制 - 简介</seg>
       </tuv>
     </tu>
     <tu>
@@ -59080,6 +59176,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120203T124022Z">
         <seg>http://www.sil.org/ISO639-3/codes.asp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://www.yolinux.com/TUTORIALS/Subversion.html</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190410T034725Z" creationid="WynnChen" creationdate="20190410T034725Z">
+        <seg>http://www.yolinux.com/TUTORIALS/Subversion.html</seg>
       </tuv>
     </tu>
     <tu>
