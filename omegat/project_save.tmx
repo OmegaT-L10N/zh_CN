@@ -3882,8 +3882,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;a0&gt;&lt;i1/&gt;OmegaT&lt;/a0&gt; on the web</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120130T070709Z">
-        <seg>&lt;a0&gt;网上的 &lt;i1/&gt;OmegaT&lt;/a0&gt;</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190410T155329Z">
+        <seg>&lt;a0&gt;网络上的 &lt;i1/&gt;OmegaT&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4074,8 +4074,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; sites and &lt;a1&gt;OmegaT&lt;/a1&gt; SourceForge project</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120130T070739Z">
-        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; 站点和 &lt;a1&gt;OmegaT&lt;/a1&gt; SourceForge 项目</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190410T155350Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; 网站和 &lt;a1&gt;OmegaT&lt;/a1&gt; SourceForge 项目</seg>
       </tuv>
     </tu>
     <tu>
@@ -5233,6 +5233,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;add the copied files to the local version of the repository:&lt;/e0&gt; right-click on the local checkout folder and select &lt;g1&gt;TortoiseSVN &gt; Add.&lt;/g1&gt; In the dialog that opens, leave all options as per default and click&lt;g2&gt; OK&lt;/g2&gt;. The Add Finished! window, similar to the one below will appear:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190410T145247Z" creationid="WynnChen" creationdate="20190410T145247Z">
+        <seg>&lt;e0&gt;将复制的文件添加到存储库的本地版本：&lt;/e0&gt;右键单击本地检出文件夹并选择 &lt;g1&gt;TortoiseSVN &gt; Add（添加）&lt;/g1&gt;。​​在打开的对话框中，让所有选项维持默认，单击&lt;g2&gt;OK（确定）&lt;/g2&gt;。将会出现类似于下面“添加完成！”窗口：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;administrator: &lt;/e0&gt;the person responsible for the creation and maintaining of the repository, i.e. taking care of the server side of the task.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131110T074825Z" creationid="Fu Rhong" creationdate="20131110T074825Z">
@@ -5277,6 +5285,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131111T130026Z" creationid="Fu Rhong" creationdate="20131111T125715Z">
         <seg>&lt;e0&gt;提交本地更新到服务器：&lt;/e0&gt;在本地检出文件夹上点击右键并选择&lt;g1&gt;SVN提交…。&lt;/g1&gt;提交窗口——请参阅下面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;commit local changes to the server: &lt;/e0&gt;right-click on the local checkout folder and select &lt;g1&gt;SVN Commit....&lt;/g1&gt; The Commit window - see below opens. Check the changes to be made - i.e. the folders and files added in this case.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190410T150652Z" creationid="WynnChen" creationdate="20190410T145348Z">
+        <seg>&lt;e0&gt;将本地更改提交到服务器：&lt;/e0&gt;右键单击本地检出文件夹并选择 &lt;g1&gt;SVN Commit....（SVN 提交）&lt;/g1&gt;​​会打开提交窗口（见下图）。检查要进行的更改——在这里就是添加的文件夹和文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5358,6 +5374,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131112T105626Z" creationid="Fu Rhong" creationdate="20131112T105626Z">
         <seg>&lt;e0&gt;从本地版本库副本更新本地文件&lt;/e0&gt;——从服务器版本库的.svn子文件夹接收到的变更但还不是文件和文件夹本身的更新。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;update local files from the local repository copy&lt;/e0&gt; - the changes received from the server repository reside within the .svn subfolder but not yet in the files and folders themselves. To update the local files, right-click on the checkout folder and select &lt;g1&gt;SVN Update&lt;/g1&gt;. Check the contents of the folder to confirm that the local copy of the repository and the corresponding files and folders correspond to the latest server version:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190410T151147Z" creationid="WynnChen" creationdate="20190410T151147Z">
+        <seg>&lt;e0&gt;从本地存储库副本更新本地文件：&lt;/e0&gt;从服务器存储库接收到的更改位于 .svn 子文件夹中，但尚未进入文件和文件夹本身。要更新本地文件，请右键单击检出文件夹并选择 &lt;g1&gt;SVN Update（SVN 提交）&lt;/g1&gt;​​。检查文件夹的内容以确认存储库的本地副本以及相应的文件和文件夹对应于最新的服务器版本：</seg>
       </tuv>
     </tu>
     <tu>
@@ -6495,8 +6519,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Lucene&lt;/p0&gt; &lt;s1&gt;Tokenizer&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131112T110911Z" creationid="Fu Rhong" creationdate="20131112T110911Z">
-        <seg>&lt;p0&gt;Lucene&lt;/p0&gt; &lt;s1&gt;解析器&lt;/s1&gt;</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190410T152550Z" creationid="Fu Rhong" creationdate="20131112T110911Z">
+        <seg>&lt;p0&gt;Lucene&lt;/p0&gt; &lt;s1&gt;分词器&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6855,8 +6879,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;OmegaT on the web&lt;/p0&gt; &lt;s1&gt;SourceForge Project&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120130T070726Z">
-        <seg>&lt;p0&gt;网上的 OmegaT&lt;/p0&gt; &lt;s1&gt;SourceForge 项目&lt;/s1&gt;</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190410T155337Z">
+        <seg>&lt;p0&gt;网络上的 OmegaT&lt;/p0&gt; &lt;s1&gt;SourceForge 项目&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7623,8 +7647,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Stemmer&lt;/p0&gt; &lt;s1&gt;Tokenizer&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131112T110939Z" creationid="Fu Rhong" creationdate="20131112T110939Z">
-        <seg>&lt;p0&gt;Stemmer&lt;/p0&gt; &lt;s1&gt;解析器&lt;/s1&gt;</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190410T152908Z" creationid="Fu Rhong" creationdate="20131112T110939Z">
+        <seg>&lt;p0&gt;词干分析&lt;/p0&gt; &lt;s1&gt;分词器&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8907,6 +8931,14 @@ included in conveying the object code work.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A stemmer for English, for example, should identify the string "cats" (and possibly "catlike", "catty" etc.) as based on the root "cat", and "stemmer", "stemming", "stemmed" as based on "stem". A stemming algorithm reduces the words "fishing", "fished", "fish", and "fisher" to the root word, "fish". This is especially useful in case of languages that use pre- and postfix forms for the stem words. Borrowing an example from Slovenian, here "good" in all possible grammatically correct forms:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190410T153834Z" creationid="WynnChen" creationdate="20190410T153822Z">
+        <seg>例如，英语的词干分析器应当能识别出字符串“cats”（可能还有“catlike”、“catty”等）是基于词根“cat”的；而“stemmer”、“stemming”、“stemmed”是基于“stem”的。词干分析算法将单词“fishing”、“fished”、“fish”、和“fisher”归约为词根“fish”。这对于那些使用词干加前缀和后缀形式的语言尤其有用。借用斯洛文尼亚语的一个例子，这里是“good”的所有可能的语法上正确的形式：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A stemming algorithm reduces the words "fishing", "fished", "fish", and "fisher" to the root word, "fish".</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120220T033037Z">
@@ -9627,6 +9659,14 @@ the above requirements apply either way.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131111T125838Z" creationid="Fu Rhong" creationdate="20131111T123018Z">
         <seg>在复制必须的文件到检出文件夹后您会发现它的图标改变了：绿色的就绪标记变成红色的感叹号，这表示版本库的本地副本发生了变化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>After copying the required files into the checkout folder you will notice that its icon has changed: the green OK badge has changed to a red exclamation sign, signifying the change in the local copy of the repository. The following two steps will bring the server version up to date:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190410T144605Z" creationid="WynnChen" creationdate="20190410T144605Z">
+        <seg>将所需文件复制到检出的文件夹后，您会注意到其图标已有变化：绿色 OK 标记已变为红色惊叹号，表示存储库本地副本中有更改。以下两个步骤将使服务器版本保持最新：</seg>
       </tuv>
     </tu>
     <tu>
@@ -18257,6 +18297,14 @@ by the Free Software Foundation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enter an appropriate message into the message window and press &lt;g0&gt;OK&lt;/g0&gt;. The Commit window will open and show the progress of the commit command. It will first commit the current contents to the server repository and then update the local copy of the repository - i.e. the contents of .svn subfolder - so that it is up to date with the latest repository version.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190410T150838Z" creationid="WynnChen" creationdate="20190410T150838Z">
+        <seg>在讯息窗口中输入适当的讯息，然后按 &lt;g0&gt;OK（确定）&lt;/g0&gt;。将会打开提交窗口并显示提交命令的进度。它会先将当前内容提交到服务器存储库，然后更新存储库的本地副本——即 .svn 子文件夹的内容——以使其与最新的存储库版本保持同步。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enter the URL, provided by ProjectLocker, into the field &lt;e0&gt;URL of repository&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131124T133326Z" creationid="Fu Rhong" creationdate="20131111T114659Z">
@@ -20376,6 +20424,14 @@ know their rights.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For subsequent use, all is needed is opening the project like any other &lt;a0&gt;OmegaT&lt;/a0&gt; project. OmegaT will recognize it is a team project, and will synchronize everything automatically, every three minutes by default.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190410T152536Z" creationid="WynnChen" creationdate="20190410T151616Z">
+        <seg>以后使用时，只需像任何其他 &lt;a0&gt;OmegaT&lt;/a0&gt; 项目一样打开项目即可。OmegaT 将其识别为团队项目，并自动同步所有内容，默认情况下每三分钟同步一次。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For such paragraphs, consider the following alternatives:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T195758Z" creationid="Mac Pro" creationdate="20180425T195758Z">
@@ -21223,8 +21279,8 @@ authors of previous versions.</seg>
       <tuv lang="EN">
         <seg>Glossary/Use Stemming for Glossary Entries</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T140424Z" creationid="lenovo" creationdate="20180411T140051Z">
-        <seg>词汇表/对词汇表条目使用词干提取</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190410T153020Z" creationid="lenovo" creationdate="20180411T140051Z">
+        <seg>词汇表/对词汇表条目使用词干分析</seg>
       </tuv>
     </tu>
     <tu>
@@ -24760,8 +24816,8 @@ work and works based on it.</seg>
       <tuv lang="EN">
         <seg>In case no tokenizer exists for the current languages, OmegaT uses Hunspell instead (in that case, make sure that relevant Hunspell dictionaries are installed).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="gavin7" changedate="20180412T023507Z" creationid="gavin7" creationdate="20180412T023507Z">
-        <seg>如果当前语言没有标记器，OmegaT会使用Hunspell（在这种情况下，确保安装了相关的Hunspell字典）。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190410T155146Z" creationid="gavin7" creationdate="20180412T023507Z">
+        <seg>如果当前语言不存在分词器，OmegaT 会使用 Hunspell（在这种情况下，请确保安装了相关的 Hunspell 词典）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33189,8 +33245,8 @@ to be launched.</seg>
       <tuv lang="EN">
         <seg>OmegaT on the web</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120130T070658Z">
-        <seg>网上的 OmegaT </seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190410T155321Z">
+        <seg>网络上的 OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -33540,6 +33596,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="gavin7" changedate="20180412T023533Z" creationid="Fu Rhong" creationdate="20131112T112019Z">
         <seg>如果在/plugin文件夹找到分词器则OmegaT将不会运行它。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT will not launch if tokenizers are found in the /plugin folder. Remove all the tokenizers from the /plugin folder before starting OmegaT.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190410T155249Z" creationid="WynnChen" creationdate="20190410T155249Z">
+        <seg>如果在 /plugin文件夹中找到分词器，OmegaT 将无法启动。在启动 OmegaT 之前请删除 /plugin 文件夹中的所有分词器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33900,6 +33964,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131112T110327Z" creationid="Fu Rhong" creationdate="20131112T110327Z">
         <seg>建立团队项目后，团队成员只需&lt;a0&gt;OmegaT&lt;/a0&gt;就能访问团队项目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Once the team project is setup, team members only need &lt;a0&gt;OmegaT&lt;/a0&gt; to access the team project. First, they need to use &lt;g1&gt;Project &gt; Download Team Project&lt;/g1&gt;. This will actually do a checkout of the project in a local folder. Credentials are stored, so it isn't needed to enter them each time. Under Linux, if &lt;a2&gt;OmegaT&lt;/a2&gt; is still asking for your credentials, you can checking the &lt;g3&gt;Force saving password as plain text&lt;/g3&gt; checkbox.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190410T151612Z" creationid="WynnChen" creationdate="20190410T151612Z">
+        <seg>设置好团队项目后，团队成员只需要 &lt;a0&gt;OmegaT&lt;/a0&gt; 即可访问团队项目。首先，需要使用 &lt;g1&gt;项目 &gt; 下载团队项目&lt;/g1&gt;​​。这实际上会在本地文件夹中检出项目。凭据会被保存起来，因此无需每次都输入。在 Linux 下，如果 &lt;a2&gt;OmegaT&lt;/a2&gt; 依然要求输入凭据，则可以选中&lt;g3&gt;强制将密码保存为纯文本&lt;/g3&gt;复选框。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41678,8 +41750,8 @@ of the GPL, as needed to protect the freedom of users.</seg>
       <tuv lang="EN">
         <seg>Stemming, no tags and no numbers</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190323T080105Z" creationid="wynnc" creationdate="20190323T080105Z">
-        <seg>词干提取，不考虑标签和数字</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190410T152952Z" creationid="wynnc" creationdate="20190323T080105Z">
+        <seg>词干分析，不考虑标签和数字</seg>
       </tuv>
     </tu>
     <tu>
@@ -44189,6 +44261,14 @@ Please try to correct the error and reload the project.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The administrator may decide to include following folders and their contents as well: &lt;f0&gt;tm&lt;/f0&gt;, &lt;f1&gt;glossary&lt;/f1&gt; and &lt;f2&gt;dictionary&lt;/f2&gt;. Also &lt;f3&gt;ignored_words.txt&lt;/f3&gt; and &lt;f4&gt;learned_words.txt&lt;/f4&gt; in the &lt;f5&gt;omegat&lt;/f5&gt; folder may be worth sharing and maintaining on the team level. Avoid in any case adding &lt;f6&gt;bak&lt;/f6&gt; files, &lt;f7&gt;project_stats.txt&lt;/f7&gt; and &lt;f8&gt;project_stats_match.txt&lt;/f8&gt;, in the &lt;f9&gt;omegat&lt;/f9&gt; subfolder, as they would without any need or profit just bloat the repository. You might want to apply the same to the &lt;f10&gt;target&lt;/f10&gt; folder and its contents.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190410T144330Z" creationid="WynnChen" creationdate="20190410T144330Z">
+        <seg>管理员还可能决定包含以下文件夹及其内容：&lt;f0&gt;tm&lt;/f0&gt;、&lt;f1&gt;glossary&lt;/f1&gt; 和 &lt;f2&gt;dictionary&lt;/f2&gt;。&lt;f5&gt;omegat&lt;/f5&gt; 文件夹中的 &lt;f3&gt;ignored_words.txt&lt;/f3&gt; 和 &lt;f4&gt;learned_words.txt&lt;/f4&gt; 可能也值得在团队级别共享和维护。在任何情况下，请避免添加 &lt;f9&gt;omegat&lt;/f9&gt; 子文件夹中 &lt;f6&gt;bak&lt;/f6&gt; 文件、&lt;f7&gt;project_stats.txt&lt;/f7&gt; 和 &lt;f8&gt;project_stats_match.txt&lt;/f8&gt;，因为它们不带来任何需要或收益，只会让存储库越发膨胀。这同样也可应用于 &lt;f10&gt;target&lt;/f10&gt; 文件夹及其内容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The advantages of a VC system for a team of translators can be summarized as follows:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131110T070758Z" creationid="Fu Rhong" creationdate="20131110T070758Z">
@@ -44616,8 +44696,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The contents of the checkout folder will be marked accordingly:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131111T125800Z" creationid="Fu Rhong" creationdate="20131111T125626Z">
-        <seg>检出文件夹的内容会进行相应的标记：</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190410T145403Z" creationid="Fu Rhong" creationdate="20131111T125626Z">
+        <seg>检出文件夹的内容会相应地标记：</seg>
       </tuv>
     </tu>
     <tu>
@@ -50481,10 +50561,26 @@ install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Tokenizers (or stemmers) improve the quality of matches by recognizing inflected words in source and translation memory data. They also improve glossary matching.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190410T153157Z" creationid="WynnChen" creationdate="20190410T152902Z">
+        <seg>分词器（或词干分析器）通过识别原文和翻译记忆数据中的词形变化来提高匹配质量。它们同样也提高了词汇表的匹配质量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tokenizers are included in OmegaT and active by default.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="gavin7" changedate="20180412T023133Z" creationid="gavin7" creationdate="20180412T023133Z">
         <seg>OmegaT里包含了分词器并且默认为开启状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tokenizers are included in OmegaT and active by default. OmegaT automatically selects a tokenizer for the source and the target language according to the language settings of the project. It is possible to select another tokenizer (Language Tokenizer) or a different version of the tokenizer (Tokenizer Behavior) from the Project Properties window.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190410T154609Z" creationid="WynnChen" creationdate="20190410T154609Z">
+        <seg>OmegaT 中已包含分词器并默认开启。OmegaT 根据项目的语言设置自动为原文语种和目标语种选择分词器。可以在“项目属性”窗口中选择另一个分词器（语言分词器）或分词器的不同版本（分词器行为）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52226,8 +52322,8 @@ Commands:
       <tuv lang="EN">
         <seg>Use &amp;stemming for glossary entries</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190320T102253Z" creationid="wynnc" creationdate="20190320T102253Z">
-        <seg>对词汇表条目使用词干提取(&amp;S)</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190410T152946Z" creationid="wynnc" creationdate="20190320T102253Z">
+        <seg>对词汇表条目使用词干分析(&amp;S)</seg>
       </tuv>
     </tu>
     <tu>
@@ -52920,8 +53016,8 @@ searchable without subscription:</seg>
       <tuv lang="EN">
         <seg>Using the team project in OmegaT</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131112T110223Z" creationid="Fu Rhong" creationdate="20131112T110223Z">
-        <seg>在OmegaT中使用团队项目</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190410T151153Z" creationid="Fu Rhong" creationdate="20131112T110223Z">
+        <seg>在 OmegaT 中使用团队项目</seg>
       </tuv>
     </tu>
     <tu>
@@ -60184,8 +60280,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>lep, lepa, lepo - singular, masculine, feminine, neutral</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120220T033312Z">
-        <seg>lep, lepa, lepo - singular, masculine, feminine, neutral</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190410T154233Z">
+        <seg>lep、lepa、lepo - 单数形式、阳性、阴性、中性</seg>
       </tuv>
     </tu>
     <tu>
@@ -60194,6 +60290,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120220T034442Z">
         <seg>lepši, lepša, lepše .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>lepši, lepša, lepše . - comparative, nominative, masculine, feminine, neutral, resp. Plural form of the adjective</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190410T154240Z" creationid="WynnChen" creationdate="20190410T154110Z">
+        <seg>lepši、lepša、lepše  - 比较级、主格、阳性、阴性、中性、形容词相应的复数形式</seg>
       </tuv>
     </tu>
     <tu>
@@ -60672,8 +60776,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>najlepših - superlative, plural, genitive for M,F,N</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120220T034451Z">
-        <seg>najlepših - superlative, plural, genitive for M,F,N</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190410T154248Z">
+        <seg>najlepših - 最高级、复数、阳性/阴性/中性的属格</seg>
       </tuv>
     </tu>
     <tu>
