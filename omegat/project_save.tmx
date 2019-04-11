@@ -6839,40 +6839,40 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;OmegaT on the web&lt;/p0&gt; &lt;s1&gt;Contributing to OmegaT&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120130T073203Z">
-        <seg>&lt;p0&gt;网上的 OmegaT&lt;/p0&gt; &lt;s1&gt;为 OmegaT 做贡献&lt;/s1&gt;</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190411T020416Z">
+        <seg>&lt;p0&gt;网络上的 OmegaT&lt;/p0&gt; &lt;s1&gt;为 OmegaT 做贡献&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;p0&gt;OmegaT on the web&lt;/p0&gt; &lt;s1&gt;Development, Localizing&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120131T114414Z">
-        <seg>&lt;p0&gt;网上的 OmegaT&lt;/p0&gt; &lt;s1&gt;开发，本地化&lt;/s1&gt;</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190411T020937Z">
+        <seg>&lt;p0&gt;网络上的 OmegaT&lt;/p0&gt; &lt;s1&gt;开发、本地化&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;p0&gt;OmegaT on the web&lt;/p0&gt; &lt;s1&gt;Donating to OmegaT&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131112T114420Z">
-        <seg>&lt;p0&gt;网上的OmegaT&lt;/p0&gt; &lt;s1&gt;向OmegaT捐赠&lt;/s1&gt;</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190411T021236Z">
+        <seg>&lt;p0&gt;网络上的 OmegaT&lt;/p0&gt; &lt;s1&gt;捐款给 OmegaT&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;p0&gt;OmegaT on the web&lt;/p0&gt; &lt;s1&gt;Financial support&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120131T114523Z">
-        <seg>&lt;p0&gt;网上的 OmegaT&lt;/p0&gt; &lt;s1&gt;资金支持&lt;/s1&gt;</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190411T021010Z">
+        <seg>&lt;p0&gt;网络上的 OmegaT&lt;/p0&gt; &lt;s1&gt;财务支持&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;p0&gt;OmegaT on the web&lt;/p0&gt; &lt;s1&gt;Reporting bugs&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120130T071356Z">
-        <seg>&lt;p0&gt;网上的 OmegaT&lt;/p0&gt; &lt;s1&gt;反馈 bug&lt;/s1&gt;</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190411T015323Z">
+        <seg>&lt;p0&gt;网络上的 OmegaT&lt;/p0&gt; &lt;s1&gt;报告 Bug&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -12364,8 +12364,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Bug reports</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
-        <seg>BUG 报告</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190411T015327Z">
+        <seg>Bug 报告</seg>
       </tuv>
     </tu>
     <tu>
@@ -24427,8 +24427,8 @@ is to use Java Web Start.</seg>
       <tuv lang="EN">
         <seg>If you would like to help support the continued development of OmegaT, it would be very much appreciated - click on this link to go to the &lt;u0&gt; OmegaT PayPal account&lt;/u0&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131112T114408Z">
-        <seg>如果您想支持OmegaT的后续开发，我们很感激这种行为，请点击此链接前往&lt;u0&gt;OmegaT PayPal账户&lt;/u0&gt;。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190411T021213Z">
+        <seg>如果您想帮助支持 OmegaT 的持续开发，我们将非常感激 ——点击此链接转到&lt;u0&gt; OmegaT 的 PayPal 账户&lt;/u0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30284,8 +30284,8 @@ later version.</seg>
       <tuv lang="EN">
         <seg>More can be found in the &lt;u0&gt;Painless Bug Tracking&lt;/u0&gt; article by Joel Spolsky.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120130T072857Z">
-        <seg>更多内容请参阅 Joel Spolsky 的那篇 &lt;u0&gt;无痛 Bug 跟踪&lt;/u0&gt;文章。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190411T015934Z">
+        <seg>更多内容可以在 Joel Spolsky 撰写的&lt;u0&gt;无痛 Bug 跟踪&lt;/u0&gt;文章中找到。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37380,8 +37380,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Remember that every good bug report needs just three things:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120130T071431Z">
-        <seg>请记住每份良好的 BUG 报告至少包括三方面内容：</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190411T015405Z">
+        <seg>请记住，良好的 Bug 报告只需要三点：</seg>
       </tuv>
     </tu>
     <tu>
@@ -41791,8 +41791,8 @@ of the GPL, as needed to protect the freedom of users.</seg>
       <tuv lang="EN">
         <seg>Steps to reproduce</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
-        <seg>重现 BUG 的步骤</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190411T015409Z">
+        <seg>重现步骤</seg>
       </tuv>
     </tu>
     <tu>
@@ -47511,6 +47511,14 @@ protocols for communication across the network.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The&lt;u0&gt; &lt;a1&gt;OmegaT&lt;/a1&gt; web site &lt;/u0&gt;contains links to numerous &lt;a2&gt;OmegaT&lt;/a2&gt; resources. User support is provided on a volunteer basis at the &lt;u3&gt;&lt;a4&gt;OmegaT&lt;/a4&gt; Yahoo! User Group&lt;/u3&gt;. The &lt;u5&gt;FAQ &lt;/u5&gt; is a good starting point for finding answers to questions you may have. For the latest version of OmegaT, refer to the downloads page at www.omegat.org. You can also file &lt;u6&gt;bug reports&lt;/u6&gt; and &lt;u7&gt;requests for enhancements.&lt;/u7&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190411T015313Z" creationid="WynnChen" creationdate="20190411T015313Z">
+        <seg>&lt;u0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt; 网站&lt;/u0&gt;包含了众多 &lt;a2&gt;OmegaT&lt;/a2&gt; 资源的链接。用户支持基于 &lt;u3&gt;&lt;a4&gt;OmegaT&lt;/a4&gt; Yahoo! 用户组&lt;/u3&gt;由志愿者提供。在寻找问题的答案时&lt;u5&gt;常见问题解答&lt;/u5&gt;是个不错的起点。有关 OmegaT 的最新版本，请参考 www.omegat.org 上的下载页面。您还可以提交 &lt;u6&gt;Bug 报告&lt;/u6&gt;和&lt;u7&gt;改进建议&lt;/u7&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Then click on &lt;e0&gt;Search&lt;/e0&gt; button to display all the corresponding occurrences.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="10353" changedate="20180412T085957Z" creationid="10353" creationdate="20180412T085957Z">
@@ -50382,8 +50390,8 @@ you modify it: responsibilities to respect the freedom of others.</seg>
       <tuv lang="EN">
         <seg>To support the OmegaT project financially</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120131T114557Z">
-        <seg>要为 OmegaT 项目提供资金支持</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190411T021025Z">
+        <seg>在财务上支持 OmegaT 项目</seg>
       </tuv>
     </tu>
     <tu>
@@ -50430,8 +50438,8 @@ you modify it: responsibilities to respect the freedom of others.</seg>
       <tuv lang="EN">
         <seg>To translate &lt;a0&gt;OmegaT&lt;/a0&gt;'s user interface, user manual or other related documents:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120131T114813Z">
-        <seg>如果想翻译 &lt;a0&gt;OmegaT&lt;/a0&gt; 的用户界面、用户手册或其他相关文档：</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190411T021031Z">
+        <seg>要翻译 &lt;a0&gt;OmegaT&lt;/a0&gt; 的用户界面、用户手册或其他相关文档：</seg>
       </tuv>
     </tu>
     <tu>
@@ -53690,16 +53698,16 @@ trouble of selecting, obtaining and installing it.</seg>
       <tuv lang="EN">
         <seg>What you expected to see</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120130T072743Z">
-        <seg>您期望看到的情况</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190411T015421Z">
+        <seg>期望看到什么</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>What you saw instead</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120130T072639Z">
-        <seg>您实际看到的情况</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190411T015441Z">
+        <seg>实际看到了什么</seg>
       </tuv>
     </tu>
     <tu>
@@ -56135,6 +56143,14 @@ paragraph of section 11).</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You should add copies of files, portions of the log, screen shots, and anything else that you think will help the developers to find and fix your bug. Note that bug reports and requests for enhancements are publicly visible, so you should not add any sensitive files. If you wish to keep track of what is happening to the report, register as a SourceForge user, login and file a bug report or simply click Monitor at the top of the report.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190411T020349Z" creationid="WynnChen" creationdate="20190411T020349Z">
+        <seg>您应该添加文件的副本、部分日志、屏幕截图以及其他任何可以你认为可以帮助开发人员找到并处理 Bug 的东西。请注意：Bug 报告和改进建议是公开可见的，因此不应添加任何敏感文件。如果您希望跟踪报告的后继情况，请注册成为 SourceForge 用户、登录并提交 Bug 报告，或者只需点击报告顶部的“Monitor（监视）”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You should also get your employer (if you work as a programmer) or school,
 if any, to sign a "copyright disclaimer" for the program, if necessary.
 For more information on this, and how to apply and follow the GNU GPL, see
@@ -58508,10 +58524,18 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>first join the &lt;u0&gt;user group&lt;/u0&gt; (via web or by sending an email to &lt;u1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt;-subscribe@yahoogroups.com&lt;/u1&gt;). To get involved in the &lt;a3&gt;OmegaT&lt;/a3&gt; development effort you can join the developer group, via the web or by sending an email to &lt;u4&gt;omegat-development-request@lists.sourceforge.net&lt;/u4&gt; with "subscribe" as the subject line.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190411T020903Z" creationid="WynnChen" creationdate="20190411T020646Z">
+        <seg>首先加入&lt;u0&gt;用户组&lt;/u0&gt;（通过网页或发送电子邮件至 &lt;u1&gt;&lt;a2&gt;OmegaT&lt;/a2&gt;-subscribe@yahoogroups.com&lt;/u1&gt;）。要参与 &lt;a3&gt;OmegaT&lt;/a3&gt; 开发工作，您可以通过网页或向 &lt;u4&gt;omegat-development-request@lists.sourceforge.net&lt;/u4&gt;发一封标题为“subscribe”的电子邮件来加入开发人员小组。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>first read the &lt;u0&gt;Localizing and Customizing &lt;a1&gt;OmegaT&lt;/a1&gt;&lt;/u0&gt; guide, and join the &lt;a2&gt;OmegaT&lt;/a2&gt; translators' group via web or by sending an email to &lt;u3&gt;omegat-l10n-request@lists.sourceforge.net&lt;/u3&gt; with subject "subscribe".</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120130T114150Z">
-        <seg>首先请阅读&lt;u0&gt;本地化和配置 &lt;a1&gt;OmegaT&lt;/a1&gt;&lt;/u0&gt;指南，并通过网站或给  &lt;u3&gt;omegat-l10n-request@lists.sourceforge.net&lt;/u3&gt; 发一封标题为“subscribe”的电子邮件加入 &lt;a2&gt;OmegaT&lt;/a2&gt; 翻译者讨论组。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190411T020927Z">
+        <seg>首先请阅读《&lt;u0&gt;本地化和自定义 &lt;a1&gt;OmegaT&lt;/a1&gt;&lt;/u0&gt;》指南，并通过网页或给 &lt;u3&gt;omegat-l10n-request@lists.sourceforge.net&lt;/u3&gt; 发一封标题为“subscribe”的电子邮件来加入 &lt;a2&gt;OmegaT&lt;/a2&gt; 翻译者小组。</seg>
       </tuv>
     </tu>
     <tu>
