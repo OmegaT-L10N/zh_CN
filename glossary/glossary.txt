@@ -66,3 +66,4 @@ Internet	因特网
 local access network	局域网	即LAN
 local network	局域网	即local access network
 Stemming	词干分析
+requests for enhancements	改进建议
