@@ -7447,8 +7447,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Shortcuts&lt;/p0&gt; &lt;s1&gt;Project properties - Ctrl+E&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131112T115157Z" creationid="Fu Rhong" creationdate="20131112T115157Z">
-        <seg>&lt;p0&gt;快捷键&lt;/p0&gt; &lt;s1&gt;项目属性——Ctrl+E&lt;/s1&gt;</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190413T081050Z" creationid="Fu Rhong" creationdate="20131112T115157Z">
+        <seg>&lt;p0&gt;快捷键&lt;/p0&gt; &lt;s1&gt;项目属性 - Ctrl+E&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13375,6 +13375,14 @@ Exception occurred:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check that your dict files are in the correct folder (or in a subfolder below it). Check in &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;&lt;i4/&gt;Ctrl&lt;/k3&gt; &lt;k5&gt;E&lt;/k5&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g6&gt;Project&lt;/g6&gt; &lt;g7&gt;Properties&lt;/g7&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190413T081216Z" creationid="WynnChen" creationdate="20190413T081046Z">
+        <seg>检查词典文件是否在正确的文件夹中（或在其下面的子文件夹中）。在 &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;&lt;i4/&gt;Ctrl&lt;/k3&gt; &lt;k5&gt;E&lt;/k5&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g6&gt;项目&lt;/g6&gt; &lt;g7&gt;属性&lt;/g7&gt; &lt;/m0&gt; 中检查。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check the &lt;u0&gt;OmegaT home page&lt;/u0&gt; for an up-to-date listing of auxiliary translation tools.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120202T124005Z">
@@ -16473,6 +16481,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Dictionaries in &lt;a0&gt;OmegaT&lt;/a0&gt; are based on the StarDict or on the Lingvo DSL format. To install the necessary files for the StarDict format, proceed as follows:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190413T072154Z" creationid="WynnChen" creationdate="20190413T072008Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; 中的词典基于 StarDict 或 Lingvo DSL 格式。要安装 StarDict 格式所必需的文件，请按以下步骤操作：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dictionary</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190320T102632Z" creationid="wynnc" creationdate="20190320T102632Z">
@@ -17194,6 +17210,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Does the folder contain three files of the same name, with extensions? If only one file is present, check its extension. If it is &lt;e0&gt;tar.bz&lt;/e0&gt;, you have forgotten to unpack (untar) it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190413T081351Z" creationid="WynnChen" creationdate="20190413T081351Z">
+        <seg>该文件夹是否包含三个带不同扩展名的同名文件？如果只有一个文件，请检查其扩展名。如果是&lt;e0&gt;tar.bz &lt;/e0&gt;，那么意味着你忘记把它解压缩（untar）了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>DokuWiki</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -17420,8 +17444,8 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="EN">
         <seg>Download the file - it should be a &lt;f0&gt;tarball&lt;/f0&gt; archive (extension &lt;e1&gt;tar.bz&lt;/e1&gt; or &lt;e2&gt;tar.bz2&lt;/e2&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180411T093030Z">
-        <seg>下载文件——其须为&lt;f0&gt;tarball&lt;/f0&gt; 存档（扩展名为 &lt;e1&gt;tar.bz&lt;/e1&gt; 或 &lt;e2&gt;tar.bz2&lt;/e2&gt;</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190413T072328Z">
+        <seg>下载文件——它应当是个 &lt;f0&gt;tarball&lt;/f0&gt; 存档（扩展名为 &lt;e1&gt;tar.bz&lt;/e1&gt; 或 &lt;e2&gt;tar.bz2&lt;/e2&gt;）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22024,8 +22048,8 @@ Note: not all filters allow you to select an encoding.</seg>
       <tuv lang="EN">
         <seg>How to download and install dictionaries</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120131T120631Z">
-        <seg>如何下载和安装词典</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190413T071953Z">
+        <seg>如何下载并安装词典</seg>
       </tuv>
     </tu>
     <tu>
@@ -28963,8 +28987,8 @@ later version.</seg>
       <tuv lang="EN">
         <seg>Longman Dictionary of Contemporary English</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
-        <seg>朗文当代英语词典</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190413T080202Z">
+        <seg>朗文当代英语词典（Longman Dictionary of Contemporary English）</seg>
       </tuv>
     </tu>
     <tu>
@@ -29964,8 +29988,8 @@ later version.</seg>
       <tuv lang="EN">
         <seg>Merriam Webster dictionary - use</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120131T120501Z">
-        <seg>Merriam Webster 词典——实际使用</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190413T080943Z">
+        <seg>韦氏词典（Merriam Webster dictionary）——实际使用</seg>
       </tuv>
     </tu>
     <tu>
@@ -31598,8 +31622,8 @@ measures.</seg>
       <tuv lang="EN">
         <seg>Note that in addition to "source-target" dictionaries you can, using the Dictionary feature, obtain access to information such as:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120131T120706Z">
-        <seg>注意除了可以使用“原文-译文”类型的词典之外，通过词典功能还可以访问下列资源：</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190413T075813Z">
+        <seg>请注意，除了“原文-译文”类型的词典之外，你还可以通过词典功能访问以下信息：</seg>
       </tuv>
     </tu>
     <tu>
@@ -39138,8 +39162,8 @@ When using regular expressions, the replacement string supports references to gr
       <tuv lang="EN">
         <seg>Search for the required language combination - for instance on the &lt;u0&gt;&lt;i1/&gt;dictionary links given by the OmegaT Wiki&lt;/u0&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T081420Z" creationid="Administrator" creationdate="20180411T081420Z">
-        <seg>搜索所需的语言组合-例如在 &lt;u0&gt;&lt;i1/&gt;由OmegaT Wiki所给的词典链接&lt;/u0&gt;</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190413T072244Z" creationid="Administrator" creationdate="20180411T081420Z">
+        <seg>搜索所需的语言组合——例如通过 &lt;u0&gt;&lt;i1/&gt;OmegaT Wiki 给出的词典链接&lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -40990,6 +41014,14 @@ of the GPL, as needed to protect the freedom of users.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120131T120734Z">
         <seg>一些词典有些不附带任何条件——也就是说可以“自由使用”，而另一些，如上述则是基于GPL许可。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Some of the dictionaries have no strings attached - i.e. are "Free to use", and others, like the selection above, are under the GPL license. The following example shows Merriam Webster 10th dictionary "in action":</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190413T080558Z" creationid="WynnChen" creationdate="20190413T080558Z">
+        <seg>一些词典没有附加条件——即“自由使用”，而其他词典（如上面的选择）则基于 GPL 许可。以下示例展示了韦氏词典第十版的“实际使用”：</seg>
       </tuv>
     </tu>
     <tu>
@@ -43637,8 +43669,8 @@ form of a work.</seg>
       <tuv lang="EN">
         <seg>The Britannica Concise Encyclopedia</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
-        <seg>不列颠简明百科全书</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190413T080238Z">
+        <seg>大英简明百科（The Britannica Concise Encyclopedia）</seg>
       </tuv>
     </tu>
     <tu>
@@ -52520,6 +52552,14 @@ Commands:
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use untar utility (or its equivalent, for instance&lt;f0&gt; winrar&lt;/f0&gt; in Windows) to extract its contents into the project folder "Dictionary". There should be three files, with extensions &lt;e1&gt;dz, idx &lt;/e1&gt;and &lt;e2&gt;ifo&lt;/e2&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190413T072522Z" creationid="WynnChen" creationdate="20190413T072522Z">
+        <seg>用 untar 工具（或等效物，比如 Windows 中的 &lt;f0&gt; winrar&lt;/f0&gt;）将其内容提取到项目文件夹“Dictionary”中。应当有三个文件，扩展名分别为 &lt;e1&gt;dz、idx &lt;/e1&gt; 和 &lt;e2&gt;ifo&lt;/e2&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Used to adjust the handling of supported file formats (access via &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;File Filters...&lt;/g2&gt; &lt;/m0&gt;, close via &lt;k3&gt;Esc&lt;/k3&gt;)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
@@ -53640,8 +53680,8 @@ trouble of selecting, obtaining and installing it.</seg>
       <tuv lang="EN">
         <seg>Webster's Revised Unabridged Dictionary (1913)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T082217Z">
-        <seg>韦氏修订版同义词词典（1913）</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190413T080128Z">
+        <seg>韦氏国际词典（Webster's Revised Unabridged Dictionary）（1913）</seg>
       </tuv>
     </tu>
     <tu>
@@ -58324,8 +58364,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>etc...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
-        <seg>...等等</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190413T080352Z">
+        <seg>等等</seg>
       </tuv>
     </tu>
     <tu>
