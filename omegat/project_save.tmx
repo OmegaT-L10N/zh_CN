@@ -6647,8 +6647,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Menu Options&lt;/p0&gt; &lt;s1&gt;Editing behaviour&lt;/s1&gt; &lt;t2&gt;Empty translation&lt;/t2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T084008Z" creationid="Fu Rhong" creationdate="20131112T115551Z">
-        <seg>&lt;p0&gt;菜单选项&lt;/p0&gt; &lt;s1&gt;编辑行为&lt;/s1&gt; &lt;t2&gt;译文为空&lt;/t2&gt;</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190413T113233Z" creationid="Fu Rhong" creationdate="20131112T115551Z">
+        <seg>&lt;p0&gt;菜单选项&lt;/p0&gt; &lt;s1&gt;编辑行为&lt;/s1&gt; &lt;t2&gt;空译文&lt;/t2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -55560,6 +55560,14 @@ from there.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T083904Z">
         <seg>您可以将源文本自动插入编辑区域</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can have the source text inserted automatically into the editing field. This is useful for texts containing many trade marks or other proper nouns you which must be left unchanged.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190413T113140Z" creationid="WynnChen" creationdate="20190413T113140Z">
+        <seg>你可以将原文文本自动插入编辑区。这对于包含许多商标或其他必须保持不变的专有名词的文本很有用。</seg>
       </tuv>
     </tu>
     <tu>
