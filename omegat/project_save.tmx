@@ -44881,8 +44881,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The dialog in &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Editing Behavior...&lt;/g2&gt; &lt;/m0&gt; enables the user to select, how the current segment in the editing field is to be initialized and handled:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
-        <seg>在&lt;m0&gt; &lt;g1&gt;选项&lt;/g1&gt; &lt;g2&gt;编辑行为...&lt;/g2&gt; &lt;/m0&gt;打开的对话框中，用户可以选择如何初始化和处理编辑区域的当前片段：</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190413T103215Z">
+        <seg>在&lt;m0&gt; &lt;g1&gt;选项&lt;/g1&gt; &lt;g2&gt;编辑行为...&lt;/g2&gt; &lt;/m0&gt;打开的对话框中，用户可以选择如何初始化和处理编辑区中的当前片段：</seg>
       </tuv>
     </tu>
     <tu>
@@ -46912,8 +46912,8 @@ protocols for communication across the network.</seg>
       <tuv lang="EN">
         <seg>The source text</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
-        <seg>源文本</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190413T103235Z">
+        <seg>原文文本</seg>
       </tuv>
     </tu>
     <tu>
@@ -56252,6 +56252,14 @@ them.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120131T132126Z">
         <seg>随着对当前片段的编辑，您从文件的一个片段翻译到另一个片段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You translate your files by moving from segment to segment, editing each current segment in turn. When moving between segments, you may wish to populate the editing field with an existing translation in the fuzzy match pane or with the source text. In &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Editing Behavior...&lt;/g2&gt; &lt;/m0&gt; &lt;a3&gt;OmegaT&lt;/a3&gt; offers you the following alternatives:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190413T104939Z" creationid="WynnChen" creationdate="20190413T104939Z">
+        <seg>您可以通过逐段移动、依次编辑每个当前片段来翻译文件。在片段之间移动时，您可能希望使用模糊匹配窗格中的现有翻译或用原文文本来填充编辑区。&lt;a3&gt;OmegaT &lt;/a3&gt;在&lt;m0&gt; &lt;g1&gt;选项&lt;/g1&gt;​​ &lt;g2&gt;编辑行为...&lt;/g2&gt; &lt;/m0&gt;中为您提供以下选择：</seg>
       </tuv>
     </tu>
     <tu>
