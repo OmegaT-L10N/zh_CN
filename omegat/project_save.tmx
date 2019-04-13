@@ -56258,8 +56258,8 @@ them.</seg>
       <tuv lang="EN">
         <seg>You translate your files by moving from segment to segment, editing each current segment in turn. When moving between segments, you may wish to populate the editing field with an existing translation in the fuzzy match pane or with the source text. In &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Editing Behavior...&lt;/g2&gt; &lt;/m0&gt; &lt;a3&gt;OmegaT&lt;/a3&gt; offers you the following alternatives:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190413T104939Z" creationid="WynnChen" creationdate="20190413T104939Z">
-        <seg>您可以通过逐段移动、依次编辑每个当前片段来翻译文件。在片段之间移动时，您可能希望使用模糊匹配窗格中的现有翻译或用原文文本来填充编辑区。&lt;a3&gt;OmegaT &lt;/a3&gt;在&lt;m0&gt; &lt;g1&gt;选项&lt;/g1&gt;​​ &lt;g2&gt;编辑行为...&lt;/g2&gt; &lt;/m0&gt;中为您提供以下选择：</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190413T105027Z" creationid="WynnChen" creationdate="20190413T104939Z">
+        <seg>您可以通过逐段移动、依次编辑每个当前片段来翻译文件。在片段之间移动时，您可能希望以模糊匹配窗格中的现有翻译或以原文文本来填充编辑区。&lt;a3&gt;OmegaT &lt;/a3&gt;在&lt;m0&gt; &lt;g1&gt;选项&lt;/g1&gt;​​ &lt;g2&gt;编辑行为...&lt;/g2&gt; &lt;/m0&gt;中为您提供以下选择：</seg>
       </tuv>
     </tu>
     <tu>
