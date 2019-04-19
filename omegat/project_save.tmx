@@ -20843,6 +20843,14 @@ authors of previous versions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>From enforced memory</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190419T033619Z" creationid="WynnChen" creationdate="20190419T033619Z">
+        <seg>来自强制记忆</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>From memory</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190323T164914Z" creationid="wynnc" creationdate="20190323T164854Z">
@@ -40836,6 +40844,14 @@ When using regular expressions, the replacement string supports references to gr
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190323T062548Z" creationid="wynnc" creationdate="20190320T045507Z">
         <seg>忽略匹配以下正则表达式的文本：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Skipping previously loaded plugin from class '{0}'</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190419T033555Z" creationid="WynnChen" creationdate="20190419T033555Z">
+        <seg>正在跳过之前已经从类“{0}”中载入的插件</seg>
       </tuv>
     </tu>
     <tu>
