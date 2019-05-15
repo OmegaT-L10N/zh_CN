@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_5_fa8726e97" segtype="paragraph" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_unknown" segtype="paragraph" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11079,6 +11079,14 @@ menu, a prominent item in the list meets this criterion.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Appendices</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190515T044637Z" creationid="WynnChen" creationdate="20190515T044637Z">
+        <seg>附录</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Application files</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
@@ -11918,6 +11926,18 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T031206Z" creationid="Fu Rhong" creationdate="20131107T142625Z">
         <seg>班巴拉语（Bambara）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Bartender yells loud:
+Your page cannot be found, boy
+Buy another drink</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190515T045136Z" creationid="WynnChen" creationdate="20190515T045136Z">
+        <seg>调酒师大声叫：
+你的页面找不到，
+小子再买杯饮料！</seg>
       </tuv>
     </tu>
     <tu>
@@ -15917,6 +15937,22 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Cursor locked</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190515T044718Z" creationid="WynnChen" creationdate="20190515T044718Z">
+        <seg>光标已锁定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cursor unlocked</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190515T044725Z" creationid="WynnChen" creationdate="20190515T044725Z">
+        <seg>光标已解锁</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Custom Colours</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190323T162030Z" creationid="wynnc" creationdate="20190323T161841Z">
@@ -18081,6 +18117,18 @@ by the Free Software Foundation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Emptiness of soul
+Forever aching blackness
+Your help page not found</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190515T045219Z" creationid="WynnChen" creationdate="20190515T045219Z">
+        <seg>灵魂的空虚无界
+永世痛苦的暗夜
+找不到你的帮助页</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Emptiness of soul&lt;p&gt;Forever aching blackness&lt;p&gt;Your help page not found</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190320T161921Z" creationid="wynnc" creationdate="20190320T113028Z">
@@ -18405,6 +18453,18 @@ by the Free Software Foundation.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130505T164513Z">
         <seg>修改了标签的条目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ephemeral page
+I am the Blue Screen of Death
+No one hears your screams</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190515T045225Z" creationid="WynnChen" creationdate="20190515T045225Z">
+        <seg>页面昙花一现
+死亡蓝屏在你面前
+你的尖叫无人听见</seg>
       </tuv>
     </tu>
     <tu>
@@ -18877,6 +18937,18 @@ by the Free Software Foundation.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190323T064717Z" creationid="wynnc" creationdate="20190320T045507Z">
         <seg>载入分割规则时发生异常：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Exciting help page
+Gossamer threads hold you back
+404 not found</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190515T045119Z" creationid="WynnChen" creationdate="20190515T045119Z">
+        <seg>帮助页面扣人心弦
+蛛丝紧缠裹足不前
+404 找不到页面</seg>
       </tuv>
     </tu>
     <tu>
@@ -21812,6 +21884,18 @@ authors of previous versions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Help you are seeking
+From your path it is fleeing
+Its winter has come</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190515T045340Z" creationid="WynnChen" creationdate="20190515T045340Z">
+        <seg>你苦苦寻觅的帮助
+正逃离你要走的路
+寒冬已将它逮住</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Help you are seeking&lt;p&gt;From your path it is fleeing&lt;p&gt;Its winter has come</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190320T164759Z" creationid="wynnc" creationdate="20190320T113043Z">
@@ -22436,6 +22520,14 @@ SUCH DAMAGES.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120202T113205Z">
         <seg>INI (key=value) 文件（*.ini）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>INS</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190515T044851Z" creationid="WynnChen" creationdate="20190515T044851Z">
+        <seg>插入</seg>
       </tuv>
     </tu>
     <tu>
@@ -25928,6 +26020,14 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Insert Mode</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190515T044822Z" creationid="WynnChen" creationdate="20190515T044822Z">
+        <seg>插入模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Insert Next Missing Tag</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190320T093339Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -27800,6 +27900,14 @@ itself on the first run. Later calls do not need to be online.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LCK</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190515T044826Z" creationid="WynnChen" creationdate="20190515T044826Z">
+        <seg>锁定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LEARNED:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T154230Z" creationid="xulihang" creationdate="20180408T115156Z">
@@ -29562,6 +29670,14 @@ later version.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mark &amp;Paragraph Delimitations</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190515T044705Z" creationid="WynnChen" creationdate="20190515T044705Z">
+        <seg>标记段落界定(&amp;P)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mark &amp;Paragraph delimitations</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190320T100225Z" creationid="wynnc" creationdate="20190320T100225Z">
@@ -30472,6 +30588,18 @@ your receipt of the notice.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="liufang" changedate="20180416T123135Z" creationid="liufang" creationdate="20180416T123135Z">
         <seg>大多数用户可能会发现更大的易用性超过了这个缺点。)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mourning and sorrow
+404 not with us now
+Lost to paradise</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190515T045240Z" creationid="WynnChen" creationdate="20190515T045240Z">
+        <seg>悲痛又哀伤
+404 不再陪伴我们身旁
+迷失在天堂路上</seg>
       </tuv>
     </tu>
     <tu>
@@ -32306,6 +32434,14 @@ combination as such.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T083020Z" creationid="chloechao" creationdate="20180412T083020Z">
         <seg>在线字典查找工具。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OVR</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190515T045100Z" creationid="WynnChen" creationdate="20190515T044830Z">
+        <seg>覆盖</seg>
       </tuv>
     </tu>
     <tu>
@@ -34912,6 +35048,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Overwrite Mode</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190515T044735Z" creationid="WynnChen" creationdate="20190515T044735Z">
+        <seg>覆盖模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>PDF Input</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190322T063409Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -34996,6 +35140,18 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180425T042255Z" creationid="xulihang" creationdate="20180425T042255Z">
         <seg>页面不存在</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Page slips through fingers
+Pulse pounding hard and frantic
+Vanishing like mist</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190515T045148Z" creationid="WynnChen" creationdate="20190515T045148Z">
+        <seg>心脏狂跳似要冲出嗓子
+页面自指缝中流逝
+如迷雾般消失</seg>
       </tuv>
     </tu>
     <tu>
@@ -36958,6 +37114,18 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T140955Z">
         <seg>在从左到右（LTR）和从右到左（RTL）之间切换</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Rather than beep
+Or a rude error message
+These words: 'Page not found'</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190515T045232Z" creationid="WynnChen" creationdate="20190515T045232Z">
+        <seg>不会哔哔哔
+也没有粗鲁的出错讯息
+“页面找不到”就是全部的东西</seg>
       </tuv>
     </tu>
     <tu>
@@ -39120,6 +39288,14 @@ When using regular expressions, the replacement string supports references to gr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Search Found Mark</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190515T045413Z" creationid="WynnChen" creationdate="20190515T045413Z">
+        <seg>查找所找到的标记</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Search Project</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
@@ -39132,6 +39308,14 @@ When using regular expressions, the replacement string supports references to gr
       </tuv>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T061214Z">
         <seg>在项目中查找...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search Replaced Mark</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190515T045433Z" creationid="WynnChen" creationdate="20190515T045433Z">
+        <seg>查找所替换的标记</seg>
       </tuv>
     </tu>
     <tu>
@@ -45527,6 +45711,18 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The help page you seek
+Lies beyond our perception
+But others await</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190515T045208Z" creationid="WynnChen" creationdate="20190515T045208Z">
+        <seg>你所寻找的页面
+超越我们的观念
+但其余仍待你发现</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The help page you seek&lt;p&gt;Lies beyond our perception&lt;p&gt;But others await</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190320T161224Z" creationid="wynnc" creationdate="20190320T113026Z">
@@ -47982,6 +48178,18 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T120046Z" creationid="lenovo" creationdate="20180416T120046Z">
         <seg>这些段由特殊字符和MS Word格式化样式进行标记和分隔。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These three are certain:
+Death, taxes, and page not found
+You, victim of one</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190515T045201Z" creationid="WynnChen" creationdate="20190515T045201Z">
+        <seg>世间三事确定无疑：
+死亡、税收、和找不到页面的问题。
+你，受害于其中之一。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51453,6 +51661,14 @@ Exact searches match the whole search string.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>UNL</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190515T044828Z" creationid="WynnChen" creationdate="20190515T044828Z">
+        <seg>解锁</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>URL</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190320T180714Z" creationid="wynnc" creationdate="20190320T180714Z">
@@ -54393,6 +54609,18 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120211T025516Z">
         <seg>将会显示一份含有错误和可能不一致标签的片段清单。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Wind catches lily
+Scatt'ring petals to the wind:
+Your page is not found</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190515T045129Z" creationid="WynnChen" creationdate="20190515T045129Z">
+        <seg>百合风中摇
+花瓣随风飘
+你的页面找不到</seg>
       </tuv>
     </tu>
     <tu>
