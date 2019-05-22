@@ -8527,8 +8527,8 @@ on the Program.</seg>
       <tuv lang="EN">
         <seg>A character in the Greek block (simple &lt;u0&gt; block&lt;/u0&gt;)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T054026Z">
-        <seg>希腊字母区中的字符（简单&lt;u0&gt;字区&lt;/u0&gt;）</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T054331Z">
+        <seg>希腊字母区中的字符（单&lt;u0&gt;字区&lt;/u0&gt;）</seg>
       </tuv>
     </tu>
     <tu>
@@ -10867,8 +10867,8 @@ menu, a prominent item in the list meets this criterion.</seg>
       <tuv lang="EN">
         <seg>An uppercase letter (simple &lt;u0&gt; category&lt;/u0&gt;)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120214T034912Z">
-        <seg>大写字母（简单的&lt;u0&gt;分类&lt;/u0&gt;）</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T054344Z">
+        <seg>大写字母（单&lt;u0&gt;分类&lt;/u0&gt;）</seg>
       </tuv>
     </tu>
     <tu>
@@ -10985,32 +10985,32 @@ menu, a prominent item in the list meets this criterion.</seg>
       <tuv lang="EN">
         <seg>Any character (except for line terminators)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
-        <seg>任何字符 （除了行结束符之外）</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T054533Z">
+        <seg>任意字符（行终止符除外）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Any character except a, b, or c (negation)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120214T035027Z">
-        <seg>除了 a、b 或 c 之外的任何字符（取反）</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T054351Z">
+        <seg>除 a、b 或 c 之外的任何字符（取反）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Any character except one in the Greek block (negation)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120214T034836Z">
-        <seg>任何不在 Greek 字块中的字符（取反）</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T054211Z">
+        <seg>任何不在希腊字母区中的字符（取反）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Any letter except an uppercase letter (subtraction)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120214T034844Z">
-        <seg>除大写字母之外的所有字母（减法）</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T054222Z">
+        <seg>除大写字母外的所有字母（减法）</seg>
       </tuv>
     </tu>
     <tu>
@@ -37388,8 +37388,8 @@ These words: 'Page not found'</seg>
       <tuv lang="EN">
         <seg>Regex - Boundary matchers</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120214T035236Z">
-        <seg>Regex - 边界匹配</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T054611Z">
+        <seg>正则表达式 - 边界匹配符</seg>
       </tuv>
     </tu>
     <tu>
@@ -37404,8 +37404,8 @@ These words: 'Page not found'</seg>
       <tuv lang="EN">
         <seg>Regex - Character classes</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120214T034753Z">
-        <seg>Regex - 字符类</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T054229Z">
+        <seg>正则表达式 - 字符类</seg>
       </tuv>
     </tu>
     <tu>
@@ -37436,8 +37436,8 @@ These words: 'Page not found'</seg>
       <tuv lang="EN">
         <seg>Regex - Greedy quantifiers</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120214T035246Z">
-        <seg>Regex - 贪婪量词</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T054902Z">
+        <seg>正则表达式 - 贪心量词</seg>
       </tuv>
     </tu>
     <tu>
@@ -37452,8 +37452,8 @@ These words: 'Page not found'</seg>
       <tuv lang="EN">
         <seg>Regex - Predefined character classes</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120214T035127Z">
-        <seg>Regex - 预定义字符类</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T054456Z">
+        <seg>正则表达式 - 预定义字符类</seg>
       </tuv>
     </tu>
     <tu>
@@ -57257,8 +57257,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>a through z or A through Z, inclusive (range)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120214T035119Z">
-        <seg>a 到 z 和 A 到 Z 的字符，包含两边（范围）</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T054450Z">
+        <seg>a 到 z 和 A 到 Z 的字符，包含边界（区间）</seg>
       </tuv>
     </tu>
     <tu>
@@ -57299,8 +57299,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>a, b, or c (simple class)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120214T034827Z">
-        <seg>a, b 或 c（简单的类）</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T054345Z">
+        <seg>a、b 或 c（单类）</seg>
       </tuv>
     </tu>
     <tu>
