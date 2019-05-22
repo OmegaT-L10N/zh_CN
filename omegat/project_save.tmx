@@ -22156,8 +22156,8 @@ Note: not all filters allow you to select an encoding.</seg>
       <tuv lang="EN">
         <seg>How to create glossaries</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021248Z">
-        <seg>如何创建术语表</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T042725Z">
+        <seg>如何创建词汇表</seg>
       </tuv>
     </tu>
     <tu>
@@ -32161,8 +32161,8 @@ Thus, for example, rules for Canadian French (FR-CA) should be higher than rules
       <tuv lang="EN">
         <seg>Note: the &lt;f0&gt;.tbx&lt;/f0&gt; output of MultiTerm seems to not be reliable (November 2013), it is better to use the &lt;f1&gt;.tab&lt;/f1&gt; output of MultiTerm instead.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="17012" changedate="20180405T024328Z" creationid="17012" creationdate="20180405T024328Z">
-        <seg>注意：&lt;f0&gt;MultiTerm导出的.tbx格式&lt;/f0&gt;文件似乎不太可靠（2013年11月），建议使用MultiTerm的&lt;f1&gt;.tab&lt;/f1&gt;文件。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T042719Z" creationid="17012" creationdate="20180405T024328Z">
+        <seg>注意：MultiTerm 所输出的 &lt;f0&gt;.tbx&lt;/f0&gt; 似乎不太可靠（2013 年 11 月），建议改用 MultiTerm 的 &lt;f1&gt;.tab&lt;/f1&gt; 输出。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46653,6 +46653,14 @@ modification follow.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="17012" changedate="20180405T025030Z" creationid="17012" creationdate="20180405T025030Z">
         <seg>你可以在项目设置时输入术语表文件的名字来创建可写入术语表（见本章开端）。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The project setting allows one to enter a name for a writable glossary file (see beginning of this chapter). Right-click in the glossary pane or press &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt; to add a new entry. A dialog opens, allowing you to enter the source term, target term and any comments you may have:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T043005Z" creationid="WynnChen" creationdate="20190522T043005Z">
+        <seg>项目设置中允许输入可写词汇表文件的名字（参见本章开头）。在词汇表窗格中点击右键或按 &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt; 来添加新条目。会打开一个对话框，让你输入原文词汇、译文词汇和可能需要的注释：</seg>
       </tuv>
     </tu>
     <tu>
