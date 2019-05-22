@@ -4897,6 +4897,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Note: &lt;/e0&gt;Of course there are other ways and means to create a simple file with tab delimited entries. Nothing speaks against using Notepad++ on Windows, GEdit on Linux for instance or some spreadsheet program for this purpose: any application, that can handle UTF-8 (or UTF-16 LE) and that can show white space (so that you do not miss the required &lt;k1&gt;TAB&lt;/k1&gt; characters) can be used.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T044105Z" creationid="WynnChen" creationdate="20190522T044105Z">
+        <seg>&lt;e0&gt;注：&lt;/e0&gt;当然还有其他其他方法和手段可以创建含有以制表符分隔的条目的文件。比如说在 Windows 上可以用 Notepad++， 在 Linux 上可以用 GEdit，或者还可以用一些电子表格程序：可以用任意能够处理 UTF-8（或 UTF-16 LE）并能显示空白字符（这样就不会漏掉必要的&lt;k1&gt;制表符&lt;/k1&gt;）的程序。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Note:&lt;/e0&gt; the above information applies only to PDF files with a text layer.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T134649Z" creationid="Administrator" creationdate="20180411T134649Z">
@@ -44982,6 +44990,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The contents of glossary files are kept in memory and are loaded when the project is opened or reloaded. Updating a glossary file is thus rather simple: press &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt; and enter the new term, its translation and any comments you may have (ensuring you press tab between the fields) and save the file. The contents of the glossary pane will be updated accordingly.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T043550Z" creationid="WynnChen" creationdate="20190522T043230Z">
+        <seg>词汇表文件的内容是在在打开或重新载入项目时加载的，并存放在内存中。因此，更新词汇表文件非常简单：按 &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt; 并输入新词汇、其翻译以及你想要写下的注释（确保在字段之间按了 Tab 键）并保存文件。词汇表窗格的内容将相应更新。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The contents of the checkout folder will be marked accordingly:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190410T145403Z" creationid="Fu Rhong" creationdate="20131111T125626Z">
@@ -46087,6 +46103,14 @@ your programs, too.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The location of the writable glossary file can be set in the &lt;g0&gt;Project &gt; Properties ... &lt;/g0&gt;dialog. The recognized extensions are &lt;f1&gt;TXT&lt;/f1&gt; and &lt;f2&gt;UTF8&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T043649Z" creationid="WynnChen" creationdate="20190522T043649Z">
+        <seg>可以在 &lt;g0&gt;项目 &gt; 属性... &lt;/g0&gt; 对话框中设置可写词汇表文件的位置。可识别的扩展名为 &lt;f1&gt;TXT&lt;/f1&gt; 和 &lt;f2&gt;UTF8&lt;/f2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The location of user files depends upon the platform you use:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131115T002425Z" creationid="Fu Rhong" creationdate="20131115T002425Z">
@@ -46659,8 +46683,8 @@ modification follow.</seg>
       <tuv lang="EN">
         <seg>The project setting allows one to enter a name for a writable glossary file (see beginning of this chapter). Right-click in the glossary pane or press &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt; to add a new entry. A dialog opens, allowing you to enter the source term, target term and any comments you may have:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T043005Z" creationid="WynnChen" creationdate="20190522T043005Z">
-        <seg>项目设置中允许输入可写词汇表文件的名字（参见本章开头）。在词汇表窗格中点击右键或按 &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt; 来添加新条目。会打开一个对话框，让你输入原文词汇、译文词汇和可能需要的注释：</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T043241Z" creationid="WynnChen" creationdate="20190522T043005Z">
+        <seg>项目设置中允许输入可写词汇表文件的名字（参见本章开头）。在词汇表窗格中点击右键或按 &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt; 来添加新条目。会打开一个对话框，让你输入原文词汇、译文词汇和想要写下的注释：</seg>
       </tuv>
     </tu>
     <tu>
