@@ -24890,6 +24890,14 @@ work and works based on it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In addition to the plain text format, TBX format is also supported as a read-only glossary format. The location of the &lt;f0&gt;.tbx&lt;/f0&gt; file must be within the &lt;f1&gt;/glossary&lt;/f1&gt; folder, but it can be in a deeper folder (e.g., &lt;f2&gt;glossary/sub/MyGlossary.tbx&lt;/f2&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T041251Z" creationid="WynnChen" creationdate="20190522T041251Z">
+        <seg>除了纯文本格式，还支持将 TBX 格式作为只读词汇表格式。&lt;f0&gt;.tbx&lt;/f0&gt; 文件的位置必须在 &lt;f1&gt;/glossary&lt;/f1&gt; 文件夹内，但它可以位于更深的文件夹中（例如，&lt;f2&gt;glossary/sub/MyGlossary.tbx&lt;/f2&gt;）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In addition, if supported by the hardware and operating system (this is not always the case), a beep will sound.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Zoe" changedate="20180412T151017Z" creationid="Zoe" creationdate="20180412T151017Z">
@@ -42497,6 +42505,14 @@ of the GPL, as needed to protect the freedom of users.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131116T120432Z" creationid="Fu Rhong" creationdate="20131116T120432Z">
         <seg>TBX（Term Base eXchange）是用于交换结构化术语数据的基于 XML 的开放标准，已经被LISA和ISO批准为国际标准。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TBX - Term Base eXchange - is the open, XML-based standard for exchanging structured terminological data, TBX has been approved as an international standard by LISA and ISO. If you have an existing terminology handling system it is quite possible it offers the export of terminology data via TBX format. &lt;u0&gt;Microsoft Terminology Collection&lt;/u0&gt; can be downloaded in nearly 100 languages and can serve as a cornerstone IT glossary.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T042619Z" creationid="WynnChen" creationdate="20190522T042619Z">
+        <seg>TBX——即 Term Base eXchange ——是用于交换结构化术语数据的基于 XML 的开放标准，TBX 已被 LISA 和 ISO 批准为国际标准。如果你已经有术语处理系统，它就很可能以 TBX 格式提供术语数据导出。有近百种语言的 &lt;u0&gt;Microsoft Terminology Collection（微软术语集）&lt;/u0&gt;可供下载，可作为基础 IT 词汇表。</seg>
       </tuv>
     </tu>
     <tu>
