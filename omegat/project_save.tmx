@@ -10291,6 +10291,14 @@ rights of fair use or other equivalent, as provided by copyright law.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Also supported is the CSV format. This format is the same as the tab separated one: source term, target term. Comment fields are separated by a comma ','. Strings can be enclosed by quotes ", which allows having a comma inside a string:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T041036Z" creationid="WynnChen" creationdate="20190522T041036Z">
+        <seg>还支持 CSV 格式。该格式和制表符分隔的格式一样：原文词汇、译文词汇。注释字段则以逗号“,”分隔。字符串可以用引号“"”括起来，这样就允许字符串内部出现逗号：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Alt+F2</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105849Z" creationid="xulihang" creationdate="20180408T105849Z">
@@ -21337,6 +21345,14 @@ authors of previous versions.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021248Z">
         <seg>术语表文件是简单的纯文本文件，包含了以制表符分隔的三列列表，其中第一和第二列分别对应源词汇和目标术语。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Glossary files are simple plain text files containing three-column, tab-delimited lists with the source and target terms in the first and second columns respectively. The third column can be used for additional information. You can have entries with the target column missing, i.e. just containing the source term and the comment.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T040622Z" creationid="WynnChen" creationdate="20190522T040622Z">
+        <seg>词汇表文件是简单的纯文本文件，内含以制表符分隔的三列列表，第一列和第二列分别是原文词汇和译文词汇。第三列则可用于其他信息。你可以添加没有译文那一列的条目，也就是说只包含原文词汇和注释。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45235,6 +45251,14 @@ instead.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="17012" changedate="20180405T023307Z" creationid="17012" creationdate="20180405T023215Z">
         <seg>术语表的编码是自动决定的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The encoding of glossaries is determined automatically. Of course, the encoding must be compatible with both the languages contained, so Unicode is recommended.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T040715Z" creationid="WynnChen" creationdate="20190522T040715Z">
+        <seg>词汇表的编码是自动确定的。当然，编码必须同时兼容其所包含的两种语言，因此推荐使用 Unicode。</seg>
       </tuv>
     </tu>
     <tu>
