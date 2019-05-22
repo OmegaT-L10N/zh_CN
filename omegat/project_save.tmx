@@ -13403,6 +13403,14 @@ Exception occurred:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check that your dict files are in the correct folder (or in a subfolder below it). Check in &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;E&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g5&gt;Project&lt;/g5&gt; &lt;g6&gt;Properties&lt;/g6&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T032121Z" creationid="WynnChen" creationdate="20190522T032121Z">
+        <seg>检查词典文件是否在正确的文件夹中（或在其下面的子文件夹中）。在 &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;E&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g5&gt;项目&lt;/g5&gt; &lt;g6&gt;属性&lt;/g6&gt; &lt;/m0&gt; 中检查。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check the &lt;u0&gt;OmegaT home page&lt;/u0&gt; for an up-to-date listing of auxiliary translation tools.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120202T124005Z">
@@ -39360,6 +39368,14 @@ When using regular expressions, the replacement string supports references to gr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Search for the required language combination - for instance on the &lt;u0&gt;dictionary links given by the OmegaT Wiki&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T032038Z" creationid="WynnChen" creationdate="20190522T032038Z">
+        <seg>搜索所需的语言组合——例如通过 &lt;u0&gt;OmegaT Wiki 给出的词典链接&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Search for:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -50748,6 +50764,14 @@ you modify it: responsibilities to respect the freedom of others.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To use an existing glossary, simply place it in the &lt;f0&gt;/glossary&lt;/f0&gt; folder after creating the project. &lt;a1&gt;OmegaT&lt;/a1&gt; automatically detects glossary files in this folder when a project is opened. Terms in the current segment which &lt;a2&gt;OmegaT&lt;/a2&gt; finds in the glossary file(s) are displayed in the Glossary pane:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T033024Z" creationid="WynnChen" creationdate="20190522T033024Z">
+        <seg>要使用现有的词汇表，只需在创建项目后将其放在 &lt;f0&gt;/glossary&lt;/f0&gt; 文件夹中。&lt;a1&gt;OmegaT&lt;/a1&gt; 会在打开项目时自动检测此文件夹中的词汇表文件。&lt;a2&gt;OmegaT&lt;/a2&gt; 在当前片段中找到的词汇表文件中的词汇会显示在词汇表窗格中：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To use an existing glossary, simply place it in the&lt;i0/&gt; &lt;f1&gt;/glossary&lt;/f1&gt; folder after creating the project.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021248Z">
@@ -56124,6 +56148,14 @@ linux-install.sh 脚本的文件夹，然后用 ./linux-install.sh 执行脚本�
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131116T082633Z" creationid="Fu Rhong" creationdate="20131116T082633Z">
         <seg>您可以在项目属性对话框中设定其位置和名称。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You define its location and name in the project properties dialog. The extension must be &lt;f0&gt;.txt&lt;/f0&gt; or &lt;f1&gt;.utf8&lt;/f1&gt; (if not, it will be added). The location of the file must be within the &lt;f2&gt;/glossary&lt;/f2&gt; folder, but it can be in a deeper folder (e.g., &lt;f3&gt;glossary/sub/glossary.txt&lt;/f3&gt;). The file does not need to exist when setting it, it will be created (if necessary) when adding a glossary entry. If the file already exists, no attempt is done to verify the format or the character set of the file: the new entries will always be in tab-separated format and UTF-8. As the existing content will not be touched, damage to an existing file would be limited.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T032727Z" creationid="WynnChen" creationdate="20190522T032727Z">
+        <seg>您可以在项目属性对话框中设定其位置和名称。扩展名必须为&lt;f0&gt;.txt&lt;/f0&gt; 或 &lt;f1&gt;.utf8&lt;/f1&gt;（如果不是的话，则会添加）。文件必须保存在 &lt;f2&gt;/glossary&lt;/f2&gt; 文件夹中，但可以位于更深的文件夹中（例如：&lt;f3&gt;glossary/sub/glossary.txt&lt;/f3&gt;）。在设置时该文件可以不存在，在添加词条时会自动创建该文件（如果需要）。如果该文件已存在，不会尝试验证其格式或字符集：新条目将始终使用以制表符分隔的格式和 UTF-8 编码。由于不会触及已有的内容，因此限制了对已有文件的破坏。</seg>
       </tuv>
     </tu>
     <tu>
