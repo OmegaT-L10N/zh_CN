@@ -37452,8 +37452,8 @@ These words: 'Page not found'</seg>
       <tuv lang="EN">
         <seg>Regex - Quotation</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120214T033834Z">
-        <seg>Regex - 引用</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T052941Z">
+        <seg>正则表达式 - 转义</seg>
       </tuv>
     </tu>
     <tu>
@@ -44783,40 +44783,40 @@ Please try to correct the error and reload the project.</seg>
       <tuv lang="EN">
         <seg>The character with hexadecimal value 0xhh</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120214T033811Z">
-        <seg>十六进制值 0xhh 表示的字符</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T052713Z">
+        <seg>十六进制值为 0xhh 的字符</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>The character with hexadecimal value 0xhhhh</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T051356Z">
-        <seg>具有十六进制值 0xhhhh 的字符</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T052706Z">
+        <seg>十六进制值为 0xhhhh 的字符</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>The character with octal value 0mnn (0 &lt;= m &lt;= 3, 0 &lt;= n &lt;= 7)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120214T033756Z">
-        <seg>八进制值 0mnn (0 &lt;= m &lt;= 3, 0 &lt;= n &lt;= 7) 表示的字符</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T052650Z">
+        <seg>八进制值为 0mnn（0 &lt;= m &lt;= 3, 0 &lt;= n &lt;= 7）的字符</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>The character with octal value 0n (0 &lt;= n &lt;= 7)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120214T033732Z">
-        <seg>八进制值 0n (0 &lt;= n &lt;= 7) 表示的字符</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T052659Z">
+        <seg>八进制值为 0n（0 &lt;= n &lt;= 7）的字符</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>The character with octal value 0nn (0 &lt;= n &lt;= 7)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120214T033743Z">
-        <seg>八进制值 0nn (0 &lt;= n &lt;= 7) 表示的字符</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T052654Z">
+        <seg>八进制值为 0nn（0 &lt;= n &lt;= 7）的字符</seg>
       </tuv>
     </tu>
     <tu>
