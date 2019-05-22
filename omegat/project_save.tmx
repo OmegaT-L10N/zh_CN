@@ -62468,8 +62468,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>search for “is”, not “this” or “isn't” etc.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131119T124812Z" creationid="Fu Rhong" creationdate="20131119T124718Z">
-        <seg>匹配“is”，但不是“this”或“isn't”等。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T061029Z" creationid="Fu Rhong" creationdate="20131119T124718Z">
+        <seg>查找“is”，但不匹配“this”或“isn't”等。</seg>
       </tuv>
     </tu>
     <tu>
