@@ -31788,6 +31788,14 @@ measures.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note that in the above case, this is just half (or even less) of the story, as the target language (Slovenian) uses declension. So the inserted "pojavni meni" in the nominative form - has to be changed to "pojavnem meniju" , i.e. to the locative. So it is probably faster to type the term correctly right away without bothering with the glossary and its shortcuts.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T035942Z" creationid="WynnChen" creationdate="20190522T035942Z">
+        <seg>注意在上面这个例子中，到此只把事情做了一半（甚至可能还不到一半），因为译文语言（斯洛文尼亚语）具有词形变化。所以插入的主格形式的“pojavni meni”必须改为“pojavnem meniju”，即方位格形式。所以抛开词汇表与其快捷方式而直接输入正确地输入词汇可能反而会更快。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note that in the menu &lt;g2&gt;Options-&gt;File Filters&lt;/g2&gt;, the global user filters are changed, not the project filters.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131118T120126Z" creationid="Fu Rhong" creationdate="20131118T115846Z">
