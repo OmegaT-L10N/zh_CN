@@ -3308,8 +3308,8 @@ need not be entered.)</seg>
       <tuv lang="EN">
         <seg>... matches the following</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
-        <seg>...匹配下列内容：</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T051240Z">
+        <seg>……匹配以下内容：</seg>
       </tuv>
     </tu>
     <tu>
@@ -18235,8 +18235,8 @@ Your help page not found</seg>
       <tuv lang="EN">
         <seg>Enables case-insensitive matching (by default, the pattern is case-sensitive).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
-        <seg>激活大小写不敏感匹配（缺省模式为大小写敏感）</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T051144Z">
+        <seg>启用不区分大小写的匹配（缺省情况下，模式区分大小写）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37388,8 +37388,8 @@ These words: 'Page not found'</seg>
       <tuv lang="EN">
         <seg>Regex - Character</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120214T033415Z">
-        <seg>Regex - 字符</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T051151Z">
+        <seg>正则表达式 - 字符</seg>
       </tuv>
     </tu>
     <tu>
@@ -44583,8 +44583,8 @@ Please try to correct the error and reload the project.</seg>
       <tuv lang="EN">
         <seg>The alert (bell) character ('\u0007')</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120214T033625Z">
-        <seg>报警（响铃）符 ('\u0007')</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T051436Z">
+        <seg>告警（响铃）（'\u0007'）</seg>
       </tuv>
     </tu>
     <tu>
@@ -44743,8 +44743,8 @@ Please try to correct the error and reload the project.</seg>
       <tuv lang="EN">
         <seg>The carriage-return character ('\u000D')</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120214T033556Z">
-        <seg>回车符 ('\u000D')</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T051349Z">
+        <seg>回车（'\u000D'）</seg>
       </tuv>
     </tu>
     <tu>
@@ -44791,8 +44791,8 @@ Please try to correct the error and reload the project.</seg>
       <tuv lang="EN">
         <seg>The character with hexadecimal value 0xhhhh</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120214T033524Z">
-        <seg>以十六进制值 0xhhhh 表示的字符</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T051356Z">
+        <seg>具有十六进制值 0xhhhh 的字符</seg>
       </tuv>
     </tu>
     <tu>
@@ -44823,8 +44823,8 @@ Please try to correct the error and reload the project.</seg>
       <tuv lang="EN">
         <seg>The character x, except the following...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
-        <seg>字符 x，除了以下内容...</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T051246Z">
+        <seg>字符 x，除了以下情况……</seg>
       </tuv>
     </tu>
     <tu>
@@ -44928,8 +44928,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The construct</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120214T033404Z">
-        <seg>构造</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T051052Z">
+        <seg>结构</seg>
       </tuv>
     </tu>
     <tu>
@@ -45032,8 +45032,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The control character corresponding to x</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120214T033647Z">
-        <seg>与 x 对应的控制字符</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T051746Z">
+        <seg>对应于 x 的控制字符</seg>
       </tuv>
     </tu>
     <tu>
@@ -45321,8 +45321,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The escape character ('\u001B')</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120214T033634Z">
-        <seg>转义符 ('\u001B')</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T051710Z">
+        <seg>Esc（退出）（'\u001B'）</seg>
       </tuv>
     </tu>
     <tu>
@@ -45665,8 +45665,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The form-feed character ('\u000C')</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120214T033612Z">
-        <seg>换页符 ('\u000C')</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T051423Z">
+        <seg>换页（'\u000C'）</seg>
       </tuv>
     </tu>
     <tu>
@@ -46337,8 +46337,8 @@ your programs, too.</seg>
       <tuv lang="EN">
         <seg>The newline (line feed) character ('\u000A')</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120214T033549Z">
-        <seg>新行（换行）符 ('\u000A')</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T051344Z">
+        <seg>新行（换行）（'\u000A'）</seg>
       </tuv>
     </tu>
     <tu>
@@ -47364,8 +47364,8 @@ protocols for communication across the network.</seg>
       <tuv lang="EN">
         <seg>The tab character ('\u0009')</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120214T033534Z">
-        <seg>制表符 ('\u0009')</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T051726Z">
+        <seg>Tab（制表符）（'\u0009'）</seg>
       </tuv>
     </tu>
     <tu>
