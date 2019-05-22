@@ -11292,8 +11292,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>As entries can mix words from priority and non priority glossaries, the words from the priority glossary are displayed in bold.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="17012" changedate="20180405T030345Z" creationid="17012" creationdate="20180405T030345Z">
-        <seg>优先术语表和非优先术语表中的术语可能混合，优先术语表中的词汇以粗体展现。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T044616Z" creationid="17012" creationdate="20180405T030345Z">
+        <seg>由于条目可能混合有来自重点与非重点词汇表中的词汇，因此来自重点词汇表中的词汇以粗体显示。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14216,8 +14216,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Common glossary problems</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021248Z">
-        <seg>常见术语表问题</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T044622Z">
+        <seg>常见词汇表问题</seg>
       </tuv>
     </tu>
     <tu>
@@ -31338,8 +31338,8 @@ measures.</seg>
       <tuv lang="EN">
         <seg>No glossary file found in the "glossary" folder.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021248Z">
-        <seg>"glossary" 目录中没有找到术语表文件。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T044712Z">
+        <seg>在“glossary”目录中没找到词汇表文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36344,8 +36344,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Priority glossary</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="17012" changedate="20180405T025821Z" creationid="17012" creationdate="20180405T025821Z">
-        <seg>优先术语</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T044304Z" creationid="17012" creationdate="20180405T025821Z">
+        <seg>重点词汇表</seg>
       </tuv>
     </tu>
     <tu>
@@ -36416,8 +36416,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Problem: No glossary terms are displayed - possible causes:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021248Z">
-        <seg>问题：未显示术语表术语——可能的解决方法：</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T044654Z">
+        <seg>问题：不显示词汇表词汇——可能的原因：</seg>
       </tuv>
     </tu>
     <tu>
@@ -45745,16 +45745,16 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The glossary file does not have the correct extension (.tab, .utf8 or .txt).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="17012" changedate="20180405T030428Z" creationid="17012" creationdate="20180405T030428Z">
-        <seg>术语表文件没有正确的拓展名 (.tab, .utf8 or .txt)。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T044818Z" creationid="17012" creationdate="20180405T030428Z">
+        <seg>词汇表文件没有正确的扩展名（.tab、.utf8 或 .txt）。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>The glossary file is empty.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021248Z">
-        <seg>术语表文件为空。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T044721Z">
+        <seg>词汇表文件为空。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45887,8 +45887,8 @@ from there.</seg>
       <tuv lang="EN">
         <seg>The items are not separated with a TAB character.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120206T090719Z">
-        <seg>词条的各项间未使用 TAB 字符分隔。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T044749Z">
+        <seg>条目不是以制表符分隔的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46876,8 +46876,8 @@ protocols for communication across the network.</seg>
       <tuv lang="EN">
         <seg>The results from the priority glossary (by default, glossary/glossary.txt) appear in first places in the Glossary pane and in TransTips.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="17012" changedate="20180405T030100Z" creationid="17012" creationdate="20180405T030100Z">
-        <seg>优先术语表 (默认的glossary/glossary.txt) 结果会在术语窗口和翻译建议中中优先出现。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T044408Z" creationid="17012" creationdate="20180405T030100Z">
+        <seg>来自重点词汇表（默认为 glossary/glossary.txt）的结果在词汇表窗格和翻译建议中会靠前显示。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48151,8 +48151,8 @@ protocols for communication across the network.</seg>
       <tuv lang="EN">
         <seg>There is no EXACT match between the glossary entry and the source text in your document - for instance plurals.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021248Z">
-        <seg>术语表词条和文档中的原文未完全匹配－－例如该词条是复数形式。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T044931Z">
+        <seg>词汇表的词条和文档中的原文文本之间并不是“精确”匹配——比如，复数形式。</seg>
       </tuv>
     </tu>
     <tu>
