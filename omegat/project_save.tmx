@@ -21247,16 +21247,16 @@ authors of previous versions.</seg>
       <tuv lang="EN">
         <seg>Glossaries</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T150711Z">
-        <seg>术语表</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T033128Z">
+        <seg>词汇表</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Glossaries are files created and updated manually for use in &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021248Z">
-        <seg>术语表是用于 &lt;a0&gt;OmegaT&lt;/a0&gt; 的文件，它由用户手工创建和更新。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T033220Z">
+        <seg>词汇表是手工创建与更新的用于 &lt;a0&gt;OmegaT&lt;/a0&gt; 的文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21367,8 +21367,8 @@ authors of previous versions.</seg>
       <tuv lang="EN">
         <seg>Glossary pane</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021248Z">
-        <seg>术语表窗格</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T033606Z">
+        <seg>词汇表窗格</seg>
       </tuv>
     </tu>
     <tu>
@@ -22832,8 +22832,8 @@ need not be entered.)</seg>
       <tuv lang="EN">
         <seg>If an &lt;a0&gt;OmegaT&lt;/a0&gt; project contains one or more glossaries, any terms in the glossary which are also found in the current segment will be automatically displayed in the Glossary viewer.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021248Z">
-        <seg>如果某个 &lt;a0&gt;OmegaT&lt;/a0&gt; 项目包含一个或多个术语表文件，当前片段中出现的任何术语将自动显示在术语表查看器中。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T033324Z">
+        <seg>如果 &lt;a0&gt;OmegaT&lt;/a0&gt; 项目包含一个或多个词汇表文件，当前片段中出现的所有位于词汇表中的词汇将自动显示在词汇表查看器中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47747,6 +47747,14 @@ protocols for communication across the network.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The word before the = sign is the source term, and its translation is (or are) the words after =. The vocabulary entry can have a comment added. The glossary function only finds exact matches with the glossary entry (e.g. does not find inflected forms etc.). New terms can be added manually to the glossary file(s) during translation, for example in a text editor. Newly added terms will not be recognized once the changes in the text file have been saved.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T033927Z" creationid="WynnChen" creationdate="20190522T033927Z">
+        <seg>等号（=）之前的单词是原文词汇，其翻译是等号后面的词。 The vocabulary entry can have a comment added. The glossary function only finds exact matches with the glossary entry (e.g. does not find inflected forms etc.). New terms can be added manually to the glossary file(s) during translation, for example in a text editor. Newly added terms will not be recognized once the changes in the text file have been saved.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The writeable glossary file is not in the glossary folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -56154,8 +56162,8 @@ linux-install.sh 脚本的文件夹，然后用 ./linux-install.sh 执行脚本�
       <tuv lang="EN">
         <seg>You define its location and name in the project properties dialog. The extension must be &lt;f0&gt;.txt&lt;/f0&gt; or &lt;f1&gt;.utf8&lt;/f1&gt; (if not, it will be added). The location of the file must be within the &lt;f2&gt;/glossary&lt;/f2&gt; folder, but it can be in a deeper folder (e.g., &lt;f3&gt;glossary/sub/glossary.txt&lt;/f3&gt;). The file does not need to exist when setting it, it will be created (if necessary) when adding a glossary entry. If the file already exists, no attempt is done to verify the format or the character set of the file: the new entries will always be in tab-separated format and UTF-8. As the existing content will not be touched, damage to an existing file would be limited.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T032727Z" creationid="WynnChen" creationdate="20190522T032727Z">
-        <seg>您可以在项目属性对话框中设定其位置和名称。扩展名必须为&lt;f0&gt;.txt&lt;/f0&gt; 或 &lt;f1&gt;.utf8&lt;/f1&gt;（如果不是的话，则会添加）。文件必须保存在 &lt;f2&gt;/glossary&lt;/f2&gt; 文件夹中，但可以位于更深的文件夹中（例如：&lt;f3&gt;glossary/sub/glossary.txt&lt;/f3&gt;）。在设置时该文件可以不存在，在添加词条时会自动创建该文件（如果需要）。如果该文件已存在，不会尝试验证其格式或字符集：新条目将始终使用以制表符分隔的格式和 UTF-8 编码。由于不会触及已有的内容，因此限制了对已有文件的破坏。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T033533Z" creationid="WynnChen" creationdate="20190522T032727Z">
+        <seg>您可以在项目属性对话框中定义其位置和名称。其扩展名必须为&lt;f0&gt;.txt&lt;/f0&gt; 或 &lt;f1&gt;.utf8&lt;/f1&gt;（如果不是的话，则会添加）。文件必须位于 &lt;f2&gt;/glossary&lt;/f2&gt; 文件夹内，但可以位于更深的文件夹中（例如：&lt;f3&gt;glossary/sub/glossary.txt&lt;/f3&gt;）。在设置时该文件可以不存在，当添加词条时会自动创建该文件（如果需要）。如果该文件已存在，不会尝试验证其格式或字符集：新条目将始终使用以制表符分隔的格式和 UTF-8 编码。由于不会触及已有的内容，因此限制了对已有文件的破坏。</seg>
       </tuv>
     </tu>
     <tu>
