@@ -8527,8 +8527,8 @@ on the Program.</seg>
       <tuv lang="EN">
         <seg>A character in the Greek block (simple &lt;u0&gt; block&lt;/u0&gt;)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120214T034926Z">
-        <seg>希腊字块中的字符（简单的&lt;u0&gt;字块&lt;/u0&gt;）</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T054026Z">
+        <seg>希腊字母区中的字符（简单&lt;u0&gt;字区&lt;/u0&gt;）</seg>
       </tuv>
     </tu>
     <tu>
@@ -20354,8 +20354,8 @@ know their rights.</seg>
       <tuv lang="EN">
         <seg>For example, this is the backslash character</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
-        <seg>例如，这是反斜杠字符</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T053250Z">
+        <seg>比如，这是反斜杠字符</seg>
       </tuv>
     </tu>
     <tu>
@@ -32221,16 +32221,16 @@ otherwise be available to you under applicable patent law.</seg>
       <tuv lang="EN">
         <seg>Nothing, but ends quoting started by \Q</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120214T034013Z">
-        <seg>什么都不匹配，但结束由 \Q 开始的引用</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T053345Z">
+        <seg>不匹配任何内容，但结束由 \Q 开始的转义</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Nothing, but quotes all characters until \E</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120214T034020Z">
-        <seg>什么都不匹配，但是引用 \E 之前的所有字符</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T053325Z">
+        <seg>不匹配任何内容，但转义后继 \E 之前的所有字符</seg>
       </tuv>
     </tu>
     <tu>
@@ -32239,6 +32239,14 @@ otherwise be available to you under applicable patent law.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120214T034026Z">
         <seg>什么都不匹配，但对以下字符进行引用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Nothing, but quotes the following character. This is required if you would like to enter any of the meta characters !$()*+.&lt;&gt;?[\]^{|} to match as themselves.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T053230Z" creationid="WynnChen" creationdate="20190522T053230Z">
+        <seg>不匹配任何内容，但会转义后继的字符。需要输入元字符 !$()*+.&lt;&gt;?[\]^{|} 之一来匹配其自身时就必须这样。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37404,8 +37412,8 @@ These words: 'Page not found'</seg>
       <tuv lang="EN">
         <seg>Regex - Classes for Unicode blocks and categories</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120214T034634Z">
-        <seg>Regex - 用于 Unicode 字块和分类的类</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T053819Z">
+        <seg>正则表达式 - Unicode 字块与分类类别</seg>
       </tuv>
     </tu>
     <tu>
@@ -56921,8 +56929,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>\</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
-        <seg>该程序是自由软件，在遵守自由软件基金会（FSF）发布的 GNU 通用公共许可证的版本3或者更高版本的前提下，您可以对它进行修改或重新发布。 \n这个程式的目的是希望它有用，但没有任何担保，甚至没有适销性或针对特定用途的隐含的担保。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T052958Z" creationid="wynnc" creationdate="20190320T045507Z">
+        <seg>\</seg>
       </tuv>
     </tu>
     <tu>
