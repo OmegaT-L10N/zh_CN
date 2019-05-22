@@ -3324,8 +3324,8 @@ need not be entered.)</seg>
       <tuv lang="EN">
         <seg>...but the same characters are displayed properly in the Editing pane: the extension and the file encoding do not match.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
-        <seg>...但在编辑窗格中能正确显示这些字符：扩展名与文件编码方式不匹配。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T045328Z">
+        <seg>……但这些字符在编辑窗格中能正确显示：扩展名与文件编码不一致。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34282,8 +34282,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>One or more of the above problems may have been fixed, but the project has not been reloaded.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120206T090902Z">
-        <seg>上述一个或多个问题已经被修正，但项目还没有被重新载入。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T045137Z">
+        <seg>已修正了若干以上问题，但还未重新载入项目。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36408,8 +36408,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Problem: In the glossary pane, some characters are not displayed properly</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021248Z">
-        <seg>问题：在术语表窗格中某些字符显示不正确。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T045224Z">
+        <seg>问题：在术语表窗格中某些字符显示不正确</seg>
       </tuv>
     </tu>
     <tu>
@@ -45737,8 +45737,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The glossary file does not have the correct encoding.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021248Z">
-        <seg>术语表文件没有采用正确的编码。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T044950Z">
+        <seg>词汇表文件没有采用正确的编码。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46778,6 +46778,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
         <seg>在搜索和片段切分规则中使用的是 Java 支持的正则表达式(或简称为 regex)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The regular expressions (or regex for short) used in searches and segmentation rules are those supported by Java. Should you need more specific information, consult the &lt;u0&gt;Java Regex documentation&lt;/u0&gt;. See additional references and examples below.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T045647Z" creationid="WynnChen" creationdate="20190522T045647Z">
+        <seg>在查找功能和片段分割规则中所使用的是 Java 所支持的正则表达式。如果你需要更多详细信息，请参阅 &lt;u0&gt;Java 正则表达式文档&lt;/u0&gt;。参见以下的参考和范例。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48079,8 +48087,8 @@ protocols for communication across the network.</seg>
       <tuv lang="EN">
         <seg>There are no terms in the current segment which match any terms in the glossary.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021248Z">
-        <seg>当前片段中没有任何术语与术语表中的术语相匹配。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T045039Z">
+        <seg>当前片段中没有词汇和与词汇表中的词汇相匹配。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48791,8 +48799,8 @@ the server.</seg>
       <tuv lang="EN">
         <seg>This chapter is intended for advanced users, who need to define their own variants of segmentation rules or devise more complex and powerful key search items.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120214T033246Z">
-        <seg>本章内容是为高级用户准备的，用于定义多变的分割规则或使用更复杂和强大的搜索功能。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T045853Z">
+        <seg>本章内容是为高级用户准备的，用于定义自己的分割规则变体或设计更复杂更强大的关键字查找内容。</seg>
       </tuv>
     </tu>
     <tu>
