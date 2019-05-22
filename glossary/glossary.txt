@@ -68,3 +68,6 @@ local network	局域网	即local access network
 Stemming	词干分析
 requests for enhancements	改进建议
 dictionary	词典
+Priority glossary	重点词汇表
+regex	正则表达式
+Block	字区	仅指 unicode block
