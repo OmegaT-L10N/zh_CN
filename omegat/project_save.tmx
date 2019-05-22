@@ -37420,8 +37420,8 @@ These words: 'Page not found'</seg>
       <tuv lang="EN">
         <seg>Regex - Flags</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120214T033254Z">
-        <seg>Regex - 标志</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T051044Z">
+        <seg>正则表达式 - 标志</seg>
       </tuv>
     </tu>
     <tu>
