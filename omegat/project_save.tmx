@@ -8757,6 +8757,14 @@ this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A nice collection of useful regex cases can be found in &lt;a0&gt;OmegaT&lt;/a0&gt; itself (see Options &gt; Segmentation). The following list includes expressions you may find useful when searching through the translation memory:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T060403Z" creationid="WynnChen" creationdate="20190522T060403Z">
+        <seg>在 &lt;a0&gt;OmegaT&lt;/a0&gt; 本身就可以找到很多很有用的正则表达式案例（参见 选项 &gt; 分割）。以下列出了在翻译记忆库中搜索时可能会用到的表达式：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A non-digit: [^0-9]</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120214T035150Z">
@@ -18347,16 +18355,16 @@ Your help page not found</seg>
       <tuv lang="EN">
         <seg>English: the same check as above, but concerning consonants ("a", not "an")</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120215T115505Z">
-        <seg>英语：如上一条表达式，但为辅音（"a"，而不是 "an")</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T060822Z">
+        <seg>英语：检查的内容与上一条一样，但针对辅音（“a”而非“an”)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>English: words, beginning with vowels, should generally be preceded by "an", not "a"</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120215T115400Z">
-        <seg>英语：单词，以元音开始，前面可以是 "an" 而不能是 "a"</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T060730Z">
+        <seg>英语：以元音开头的单词前面应当是“an”而不是“a”</seg>
       </tuv>
     </tu>
     <tu>
@@ -35479,8 +35487,8 @@ Vanishing like mist</seg>
       <tuv lang="EN">
         <seg>Period, followed by an upper-case letter - possibly a space is missing between the period and the start of a new sentence?</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120215T115619Z">
-        <seg>句点，跟着一个大写字母——是否在句点和下一个句子间遗漏了空格？</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T060947Z">
+        <seg>句点后面跟着一个大写字母——在句点和下一个句子开头之间是否少了个空格？</seg>
       </tuv>
     </tu>
     <tu>
@@ -37428,8 +37436,8 @@ These words: 'Page not found'</seg>
       <tuv lang="EN">
         <seg>Regex - Examples of regular expressions in translations</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120215T114721Z">
-        <seg>Regex - 用于译文的正则表达式示例</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T060515Z">
+        <seg>正则表达式 - 翻译中用到的正则表达式示例</seg>
       </tuv>
     </tu>
     <tu>
@@ -39668,6 +39676,14 @@ When using regular expressions, the replacement string supports references to gr
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120215T114506Z">
         <seg>请参阅用于 Windows、Linux、FreeBSD 平台的独立工具 &lt;u0&gt;The Regex Coach&lt;/u0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See &lt;u0&gt;The Regex Coach&lt;/u0&gt; for Windows,Linux, FreeBSD versions of a stand-alone tool. This is much the same as the above example.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T060211Z" creationid="WynnChen" creationdate="20190522T060211Z">
+        <seg>参见 Windows、Linux、FreeBSD 版本的独立工具 &lt;u0&gt;The Regex Coach&lt;/u0&gt;。这和上面的示例大致上相同。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56967,6 +56983,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>\. \s+$</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T060620Z" creationid="WynnChen" creationdate="20190522T060620Z">
+        <seg>\. \s+$</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>\.[A-Z]</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120215T115521Z">
@@ -58074,8 +58098,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>comma or a period, followed by spaces and yet another comma or period</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120215T114842Z">
-        <seg>一个逗号或句点，跟着空格，然后是另一个逗号或句点</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T060618Z">
+        <seg>一个逗号或句点后面跟着若干空格然后是另一个逗号或句点</seg>
       </tuv>
     </tu>
     <tu>
@@ -58432,8 +58456,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>double words</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
-        <seg>双字</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T060544Z">
+        <seg>重复单词</seg>
       </tuv>
     </tu>
     <tu>
@@ -58824,8 +58848,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>extra spaces after the period at the end of the line</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120215T115101Z">
-        <seg>在行尾，句点后跟着额外的空格</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T060648Z">
+        <seg>在行尾位于句点后的额外空格</seg>
       </tuv>
     </tu>
     <tu>
@@ -61116,8 +61140,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>more than one space</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
-        <seg>一个以上空格</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T060841Z">
+        <seg>多个空格</seg>
       </tuv>
     </tu>
     <tu>
@@ -61228,8 +61252,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>multiple words entries in glossaries - example</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T034521Z">
-        <seg>词汇表中的多单词条目——示例</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T060503Z">
+        <seg>词汇表中的多单词条目 - 示例</seg>
       </tuv>
     </tu>
     <tu>
