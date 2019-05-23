@@ -12102,6 +12102,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Before the spell check function can be used, a suitable dictionary or dictionaries (i.e. for your target language) must be installed. To install spelling dictionaries, follow this procedure:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190523T013052Z" creationid="WynnChen" creationdate="20190523T013052Z">
+        <seg>在使用检查拼写功能前，必须先安装适合的词典（针对您的译文语言）。要安装拼写词典，按以下步骤操作：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Before using the tokenizer with OmegaT, you must first ensure that your version of OmegaT is suitable and prepared for use with it.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="10353" changedate="20180414T084533Z" creationid="10353" creationdate="20180414T084533Z">
@@ -33003,6 +33011,14 @@ combination as such.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131124T132702Z" creationid="Fu Rhong" creationdate="20131121T123313Z">
         <seg>OmegaT内置有拼写检查器，它基于在Apache OpenOffice、LibreOffice、Firefox和Thunderbird中使用的拼写检查器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT has a built-in spell checker based on the spelling checker used in Apache OpenOffice, LibreOffice, Firefox and Thunderbird. It is consequently able to use the huge range of free spelling dictionaries available for these applications.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190523T012402Z" creationid="WynnChen" creationdate="20190523T012402Z">
+        <seg>OmegaT内置有拼写检查器，它基于 Apache OpenOffice、LibreOffice、Firefox 和 Thunderbird 中使用的拼写检查器。因此，它可以使用大量可用于这些程序的免费拼写词典。</seg>
       </tuv>
     </tu>
     <tu>
