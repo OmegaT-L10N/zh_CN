@@ -33485,8 +33485,8 @@ to be launched.</seg>
       <tuv lang="EN">
         <seg>OmegaT isn't just a product; it's an exciting project, and you can be part of it.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T100549Z" creationid="18261" creationdate="20180412T100549Z">
-        <seg>OmegaT不仅是一款产品；更是一个你可以参与其中的，令人激动的项目。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190523T025723Z" creationid="18261" creationdate="20180412T100549Z">
+        <seg>OmegaT不仅是一款产品；它是一个激动人心的项目，你可以参与其中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36584,16 +36584,16 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Programming (Java)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T112706Z" creationid="18261" creationdate="20180412T112706Z">
-        <seg>编程(Java)</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190523T025726Z" creationid="18261" creationdate="20180412T112706Z">
+        <seg>编程（Java）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Programming (not Java)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T113626Z" creationid="18261" creationdate="20180412T113626Z">
-        <seg>编程 (not Java)</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190523T025738Z" creationid="18261" creationdate="20180412T113626Z">
+        <seg>编程（非 Java）</seg>
       </tuv>
     </tu>
     <tu>
