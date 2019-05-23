@@ -3938,8 +3938,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;a0&gt;Download&lt;/a0&gt; &lt;a1&gt;Get Started&lt;/a1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190523T014813Z" creationid="10353" creationdate="20180414T110245Z">
-        <seg>&lt;a0&gt;下载&lt;/a0&gt; &lt;a1&gt;开始使用&lt;/a1&gt;</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190523T014843Z" creationid="10353" creationdate="20180414T110245Z">
+        <seg>&lt;a0&gt;下载&lt;/a0&gt; &lt;a1&gt;入门&lt;/a1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8271,6 +8271,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="10353" changedate="20180414T085024Z" creationid="10353" creationdate="20180414T084920Z">
         <seg>&lt;s0&gt;OmegaT 2.1.0 及之前版本&lt;/s0&gt;：当前的分词器不适配这些版本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; is a free translation memory application that works on Windows, macOS, Linux... It is a tool intended for professional translators. It does not translate for you! (Software that does this is called "machine translation", and you will have to look elsewhere for it.)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190523T015705Z" creationid="WynnChen" creationdate="20190523T014940Z">
+        <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; 是免费的翻译记忆应用程序，适用于 Windows、macOS、Linux……它是为专业翻译人员设计的工具。它并不会替你翻译！（执行此操作的软件称为“机器翻译”，需要去他处找寻。）</seg>
       </tuv>
     </tu>
     <tu>
@@ -21207,8 +21215,8 @@ authors of previous versions.</seg>
       <tuv lang="EN">
         <seg>Get Started with OmegaT</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="10353" changedate="20180414T110254Z" creationid="10353" creationdate="20180414T110254Z">
-        <seg>开始使用OmegaT</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190523T014848Z" creationid="10353" creationdate="20180414T110254Z">
+        <seg>OmegaT 入门</seg>
       </tuv>
     </tu>
     <tu>
@@ -29976,8 +29984,8 @@ later version.</seg>
       <tuv lang="EN">
         <seg>Match propagation</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T074318Z" creationid="18261" creationdate="20180412T072944Z">
-        <seg>扩展匹配</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190523T015721Z" creationid="18261" creationdate="20180412T072944Z">
+        <seg>扩展传播</seg>
       </tuv>
     </tu>
     <tu>
@@ -32705,8 +32713,8 @@ combination as such.</seg>
       <tuv lang="EN">
         <seg>OmegaT &lt;s0&gt;the free translation memory tool&lt;/s0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190523T013513Z" creationid="10353" creationdate="20180414T110229Z">
-        <seg>OmegaT &lt;s0&gt;自由的翻译记忆工具&lt;/s0&gt;</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190523T014945Z" creationid="10353" creationdate="20180414T110229Z">
+        <seg>OmegaT &lt;s0&gt;免费翻译记忆工具&lt;/s0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -53752,8 +53760,8 @@ searchable without subscription:</seg>
       <tuv lang="EN">
         <seg>Video by &lt;a0&gt;CATguruEN&lt;/a0&gt; (Dominique Pivard)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="10353" changedate="20180414T110449Z" creationid="10353" creationdate="20180414T110449Z">
-        <seg>视频 上传者 &lt;a0&gt;CATguruEN&lt;/a0&gt; (Dominique Pivard)</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190523T014922Z" creationid="10353" creationdate="20180414T110449Z">
+        <seg>视频上传者：&lt;a0&gt;CATguruEN&lt;/a0&gt;（Dominique Pivard）</seg>
       </tuv>
     </tu>
     <tu>
