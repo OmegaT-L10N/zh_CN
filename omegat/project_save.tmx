@@ -3316,8 +3316,8 @@ need not be entered.)</seg>
       <tuv lang="EN">
         <seg>...and around 30 other file formats</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T081315Z" creationid="18261" creationdate="20180412T081315Z">
-        <seg>……和其他近30种文件格式</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190523T020423Z" creationid="18261" creationdate="20180412T081315Z">
+        <seg>……和近 30 种其他文件格式</seg>
       </tuv>
     </tu>
     <tu>
@@ -14288,8 +14288,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Compatible with other translation memory applications (TMX, TTX, TXML, XLIFF, SDLXLIFF)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T084238Z" creationid="18261" creationdate="20180412T084238Z">
-        <seg>与其他翻译记忆软件兼容(TMX, TTX, TXML, XLIFF, SDLXLIFF)</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190523T020648Z" creationid="18261" creationdate="20180412T084238Z">
+        <seg>兼容其他翻译记忆应用程序（TMX、TTX、TXML、XLIFF、SDLXLIFF）</seg>
       </tuv>
     </tu>
     <tu>
@@ -26454,8 +26454,8 @@ everything.</seg>
       <tuv lang="EN">
         <seg>Integral spelling checker</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T084009Z" creationid="18261" creationdate="20180412T084009Z">
-        <seg>整体拼写检查</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190523T020616Z" creationid="18261" creationdate="20180412T084009Z">
+        <seg>完备的拼写检查器</seg>
       </tuv>
     </tu>
     <tu>
@@ -30120,8 +30120,8 @@ later version.</seg>
       <tuv lang="EN">
         <seg>MediaWiki (Wikipedia)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T081014Z" creationid="18261" creationdate="20180412T081014Z">
-        <seg>维基百科 (Wikipedia)</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190523T020409Z" creationid="18261" creationdate="20180412T081014Z">
+        <seg>MediaWiki（维基百科）</seg>
       </tuv>
     </tu>
     <tu>
@@ -30280,8 +30280,8 @@ later version.</seg>
       <tuv lang="EN">
         <seg>Microsoft Word, Excel, Power</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="18261" changedate="20180413T023824Z" creationid="18261" creationdate="20180413T023824Z">
-        <seg>Microsoft Word, Excel, Power格式</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190523T020331Z" creationid="18261" creationdate="20180413T023824Z">
+        <seg>Microsoft Word、Excel、Power</seg>
       </tuv>
     </tu>
     <tu>
@@ -34450,8 +34450,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>Open Document Format (LibreOffice, OpenOffice.org)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T080631Z" creationid="18261" creationdate="20180412T080631Z">
-        <seg>开源文档格式 (LibreOffice, OpenOffice.org)</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190523T020344Z" creationid="18261" creationdate="20180412T080631Z">
+        <seg>开放文档格式（LibreOffice、OpenOffice.org）</seg>
       </tuv>
     </tu>
     <tu>
@@ -36107,8 +36107,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Powerful tools</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T081336Z" creationid="18261" creationdate="20180412T081336Z">
-        <seg> 强大的工具</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190523T020428Z" creationid="18261" creationdate="20180412T081336Z">
+        <seg>强大的工具</seg>
       </tuv>
     </tu>
     <tu>
@@ -41018,16 +41018,16 @@ When using regular expressions, the replacement string supports references to gr
       <tuv lang="EN">
         <seg>Simultaneous processing of multiple-file projects</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T074448Z" creationid="18261" creationdate="20180412T074448Z">
-        <seg>多文件项目同步处理</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190523T020034Z" creationid="18261" creationdate="20180412T074448Z">
+        <seg>同时处理多个多文件项目</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Simultaneous use of multiple translation memories</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T074615Z" creationid="18261" creationdate="20180412T074615Z">
-        <seg> 多翻译记忆同步使用</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190523T020042Z" creationid="18261" creationdate="20180412T074615Z">
+        <seg>同时使用多个翻译记忆库</seg>
       </tuv>
     </tu>
     <tu>
@@ -42431,8 +42431,8 @@ of the GPL, as needed to protect the freedom of users.</seg>
       <tuv lang="EN">
         <seg>Support for right-to-left languages</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T083749Z" creationid="18261" creationdate="20180412T083749Z">
-        <seg>支持从右到左的语言</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190523T020530Z" creationid="18261" creationdate="20180412T083749Z">
+        <seg>支持从右向左的语言</seg>
       </tuv>
     </tu>
     <tu>
@@ -52143,8 +52143,8 @@ Exact searches match the whole search string.</seg>
       <tuv lang="EN">
         <seg>Unicode (UTF-8) support: can be used with non-Latin alphabets</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T082919Z" creationid="18261" creationdate="20180412T082919Z">
-        <seg>支持Unicode (UTF-8)：可使用非拉丁字母</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190523T020522Z" creationid="18261" creationdate="20180412T082919Z">
+        <seg>Unicode（UTF-8）支持：可用于非拉丁字母</seg>
       </tuv>
     </tu>
     <tu>
@@ -53117,8 +53117,8 @@ Commands:
       <tuv lang="EN">
         <seg>User glossaries with recognition of inflected forms</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T080141Z" creationid="18261" creationdate="20180412T080141Z">
-        <seg>屈折形态用户术语识别</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190523T020209Z" creationid="18261" creationdate="20180412T080141Z">
+        <seg>带词形变化识别的用户词汇表</seg>
       </tuv>
     </tu>
     <tu>
@@ -55155,8 +55155,8 @@ Your page is not found</seg>
       <tuv lang="EN">
         <seg>Work with more than 30 file formats</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T080207Z" creationid="18261" creationdate="20180412T080207Z">
-        <seg>处理超过30种文件格式</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190523T020248Z" creationid="18261" creationdate="20180412T080207Z">
+        <seg>可处理超过 30 种文件格式</seg>
       </tuv>
     </tu>
     <tu>
@@ -55355,8 +55355,8 @@ Your page is not found</seg>
       <tuv lang="EN">
         <seg>XHTML and HTML</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T080549Z" creationid="18261" creationdate="20180412T080549Z">
-        <seg>XHTML和HTML</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190523T020334Z" creationid="18261" creationdate="20180412T080549Z">
+        <seg>XHTML 和 HTML</seg>
       </tuv>
     </tu>
     <tu>
