@@ -22500,6 +22500,14 @@ prior to 60 days after the cessation.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>I've been using OmegaT as a professional translator for over 10 years, benefiting in the early days from its ease of use and extremely helpful forum. A vast range of functions, an uncluttered interface, and, most importantly, constant, regular open-source development!</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190523T024458Z" creationid="WynnChen" creationdate="20190523T024458Z">
+        <seg>我作为专业译者已经使用 OmegaT 超过 10 年，在早期因其易用性和极其有用的论坛受益匪浅。它有着丰富的功能、整洁的界面，最重要的是持续且正规的开源开发！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>IBM Watson</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190323T121527Z" creationid="wynnc" creationdate="20190323T121527Z">
@@ -38606,8 +38614,8 @@ These words: 'Page not found'</seg>
       <tuv lang="EN">
         <seg>Robert Corner, Institut Laue-Langevin, France</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T100251Z" creationid="18261" creationdate="20180412T100251Z">
-        <seg>Robert Corner，Laue-Langevin研究所，法国</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190523T024509Z" creationid="18261" creationdate="20180412T100251Z">
+        <seg>Robert Corner，Laue-Langevin 研究所，法国</seg>
       </tuv>
     </tu>
     <tu>
@@ -44349,8 +44357,8 @@ software and other kinds of works.</seg>
       <tuv lang="EN">
         <seg>The OmegaT project and you</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T100336Z" creationid="18261" creationdate="20180412T100336Z">
-        <seg>你和OmegaT项目</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190523T025634Z" creationid="18261" creationdate="20180412T100336Z">
+        <seg>你和 OmegaT 项目</seg>
       </tuv>
     </tu>
     <tu>
@@ -53624,8 +53632,8 @@ searchable without subscription:</seg>
       <tuv lang="EN">
         <seg>Valter Mura - Translator EN &gt; IT</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T095001Z" creationid="18261" creationdate="20180412T095001Z">
-        <seg>Valter Mura -英文译者  &gt; IT</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190523T024016Z" creationid="18261" creationdate="20180412T095001Z">
+        <seg>Valter Mura -英语 &gt; 意大利语译者</seg>
       </tuv>
     </tu>
     <tu>
