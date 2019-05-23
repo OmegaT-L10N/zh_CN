@@ -30608,6 +30608,14 @@ your receipt of the notice.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Most of the items that appear in the main menu can have a new shortcut assigned. You can change the already assigned shortcuts and add new shortcuts by putting a shortcut definition file in your &lt;a0&gt;OmegaT&lt;/a0&gt; preferences folder (accessible by &lt;m1&gt; &lt;g2&gt;Options&lt;/g2&gt; &lt;g3&gt;Access Configuration Folder&lt;/g3&gt; &lt;/m1&gt; menu).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190523T011358Z" creationid="WynnChen" creationdate="20190523T011358Z">
+        <seg>主菜单中的大多数菜单项都可以指定新的快捷键。你可以通过将快捷键定义文件放在 &lt;a0&gt;OmegaT&lt;/a0&gt; 首选项文件夹（可通过 &lt;m1&gt; &lt;g2&gt;选项&lt;/g2&gt; &lt;g3&gt;访问配置文件夹&lt;/g3&gt; &lt;/m1&gt; 菜单来访问）中来更改已分配的快捷键并添加新的快捷键。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Most of the items that appear in the main menu can have a new shortcut assigned. You can change the already assigned shortcuts and add new shortcuts by putting a shortcut definition file in your OmegaT preferences folder (see &lt;l0&gt;User files location&lt;/l0&gt;).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T044809Z" creationid="WynnChen" creationdate="20190409T041544Z">
