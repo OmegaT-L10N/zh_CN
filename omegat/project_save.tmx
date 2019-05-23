@@ -3938,8 +3938,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;a0&gt;Download&lt;/a0&gt; &lt;a1&gt;Get Started&lt;/a1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="10353" changedate="20180414T110245Z" creationid="10353" creationdate="20180414T110245Z">
-        <seg>&lt;a0&gt;下载&lt;/a0&gt; &lt;a1&gt;开始&lt;/a1&gt;</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190523T014813Z" creationid="10353" creationdate="20180414T110245Z">
+        <seg>&lt;a0&gt;下载&lt;/a0&gt; &lt;a1&gt;开始使用&lt;/a1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -24866,6 +24866,14 @@ work and works based on it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In OmegaT, select &lt;g0&gt;Options &gt; Spell Checking&lt;/g0&gt;, then click &lt;g1&gt;Choose &lt;/g1&gt; beside the Dictionary file folder field. Navigate to and select the folder you created for dictionaries.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190523T013358Z" creationid="WynnChen" creationdate="20190523T013358Z">
+        <seg>在 OmegaT 中，选择 &lt;g0&gt;选项&gt; 拼写检查&lt;/g0&gt;，然后点击词典文件文件夹字段旁边的 &lt;g1&gt;选择&lt;/g1&gt;。浏览并选择您为词典创建的文件夹。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In TMX, the paragraph-level tag corresponding to a segment is "tu".</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="anton" changedate="20180416T084902Z" creationid="anton" creationdate="20180416T084845Z">
@@ -25851,8 +25859,8 @@ patent against the party.</seg>
       <tuv lang="EN">
         <seg>In your file manager, create a new folder in a suitable location in which to store spelling dictionaries (D:\Translations\spellcheckers in the example below).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131121T123507Z" creationid="Fu Rhong" creationdate="20131121T123418Z">
-        <seg>请在文件管理器中适当的位置创建新文件夹用来保存拼写词典（在下面的示例中为D:\Translations\spellcheckers）。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190523T013134Z" creationid="Fu Rhong" creationdate="20131121T123418Z">
+        <seg>用文件管理器，在适当的位置创建新文件夹用来保存拼写词典（在下面的示例中为 D:\Translations\spellcheckers）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32697,8 +32705,8 @@ combination as such.</seg>
       <tuv lang="EN">
         <seg>OmegaT &lt;s0&gt;the free translation memory tool&lt;/s0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="10353" changedate="20180414T110229Z" creationid="10353" creationdate="20180414T110229Z">
-        <seg>OmegaT &lt;s0&gt;免费的翻译记忆工具&lt;/s0&gt;</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190523T013513Z" creationid="10353" creationdate="20180414T110229Z">
+        <seg>OmegaT &lt;s0&gt;自由的翻译记忆工具&lt;/s0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -64176,6 +64184,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="ZH-CN" changeid="anton" changedate="20180416T090433Z" creationid="anton" creationdate="20180416T090433Z">
         <seg> 返回新的 Instance[] { new Instance("*.xml", null, null), new Instance("*.hmxp", null, null), };</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>×</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190523T013408Z" creationid="WynnChen" creationdate="20190523T013408Z">
+        <seg>×</seg>
       </tuv>
     </tu>
     <tu>
