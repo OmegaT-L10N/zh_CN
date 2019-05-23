@@ -8293,8 +8293,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; is available in many different versions in order to suit a range of user requirements.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T085137Z" creationid="18261" creationdate="20180412T085025Z">
-        <seg>为满足多样用户需求&lt;s0&gt;OmegaT&lt;/s0&gt;提供多种版本。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190523T020821Z" creationid="18261" creationdate="20180412T085025Z">
+        <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; 有多种不同版本可供选择，以满足各种用户需求。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26494,8 +26494,8 @@ everything.</seg>
       <tuv lang="EN">
         <seg>Interface to Google Translate</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T084405Z" creationid="18261" creationdate="20180412T084405Z">
-        <seg>Google 翻译接口</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190523T020741Z" creationid="18261" creationdate="20180412T084405Z">
+        <seg>与 Google 翻译的接口</seg>
       </tuv>
     </tu>
     <tu>
@@ -32753,8 +32753,8 @@ combination as such.</seg>
       <tuv lang="EN">
         <seg>OmegaT Screenshot</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T095852Z" creationid="18261" creationdate="20180412T095852Z">
-        <seg>OmegaT 截屏</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190523T020744Z" creationid="18261" creationdate="20180412T095852Z">
+        <seg>OmegaT 屏幕截图</seg>
       </tuv>
     </tu>
     <tu>
@@ -50487,8 +50487,8 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
       <tuv lang="EN">
         <seg>To find the version most suitable for you, follow the link below to the Download Selector.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T085703Z" creationid="18261" creationdate="20180412T085120Z">
-        <seg>寻找最合适的版本，点击下载选择下方的链接。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190523T022945Z" creationid="18261" creationdate="20180412T085120Z">
+        <seg>要找到最适合您的版本，请点击以下链接进入下载选择器。</seg>
       </tuv>
     </tu>
     <tu>
