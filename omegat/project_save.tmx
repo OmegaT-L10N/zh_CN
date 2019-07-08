@@ -20231,6 +20231,14 @@ Kaptain. You can then launch the Kaptain launch script with:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For confidentiality reasons, you may want to not send all the segments to the Machine Translation engine. If you uncheck this option, machine translations will be fetched only when you press &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt; (&lt;k3&gt; &lt;k4&gt;Cmd&lt;/k4&gt; &lt;k5&gt;M&lt;/k5&gt; &lt;/k3&gt; on OS X) in the current segment. You must then press &lt;k6&gt; &lt;k7&gt;Ctrl&lt;/k7&gt; &lt;k8&gt;M&lt;/k8&gt; &lt;/k6&gt; again to insert the suggestion.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190708T111954Z" creationid="WynnChen" creationdate="20190708T111954Z">
+        <seg>出于保密原因，您可能不想将所有片段发送给机器翻译引擎。如果你取消此选项的勾选，则仅当你在当前片段中按下 &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt;（OS X 上是&lt;k3&gt; &lt;k4&gt;Cmd&lt;/k4&gt; &lt;k5&gt;M&lt;/k5&gt; &lt;/k3&gt;）时才会获取机器翻译。你需要再按一次&lt;k6&gt; &lt;k7&gt;Ctrl&lt;/k7&gt; &lt;k8&gt;M&lt;/k8&gt; &lt;/k6&gt;以插入建议。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For confidentiality reasons, you may want to not send all the segments to the Machine Translation tool.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T071656Z" creationid="weiyi" creationdate="20180406T071656Z">
