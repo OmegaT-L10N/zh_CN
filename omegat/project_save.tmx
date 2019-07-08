@@ -10315,6 +10315,14 @@ rights of fair use or other equivalent, as provided by copyright law.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Also check that the target language code of your project against the available vocabularies in the setup window. The spell checker uses the target language code to determine the language to be used : if the target language is Brazilian Portuguese (PT_BR), the subfolder with vocabularies must contain the two vocabulary files, called &lt;e0&gt;pt_br.aff&lt;/e0&gt; and &lt;e1&gt;pt_br.dic&lt;/e1&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190708T042241Z" creationid="WynnChen" creationdate="20190708T033829Z">
+        <seg>还要根据设置窗口中的可用词汇表检查项目的译文语言代码。拼写检查器根据译文语言代码来确定要使用的语言：如果译文语言是巴西葡萄牙语（PT_BR），存放术语表的子文件夹必须包括名为 &lt;e0&gt;pt_br.aff&lt;/e0&gt; 和 &lt;e1&gt;pt_br.dic&lt;/e1&gt; 的两个字典文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Also supported is the CSV format.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120205T125902Z">
@@ -23591,8 +23599,8 @@ notice like this when it starts in an interactive mode:</seg>
       <tuv lang="EN">
         <seg>If the spell checker is not working, then make sure first that the check box &lt;g0&gt;"Automatically check the spelling of text"&lt;/g0&gt; in the spell checker dialog (&lt;g1&gt;Options &gt; Spell checking...)&lt;/g1&gt; is checked.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z" creationid="Fu Rhong" creationdate="20131126T085230Z">
-        <seg>如果拼写检查器没有运行，首先确保选中了拼写检查器对话框（&lt;g1&gt;选项&gt;拼写检查...&lt;/g1&gt;）中&lt;g0&gt;“自动检查文本拼写”&lt;/g0&gt;的复选框。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190708T033705Z" creationid="Fu Rhong" creationdate="20131126T085230Z">
+        <seg>如果拼写检查器未能正常工作，先确认勾选了拼写检查器对话框（&lt;g1&gt;选项 &gt; 拼写检查...&lt;/g1&gt;）中&lt;g0&gt;“自动检查文本的拼写”&lt;/g0&gt;复选框。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46425,8 +46433,8 @@ your programs, too.</seg>
       <tuv lang="EN">
         <seg>The names of the files must correspond to the language code of your target language as defined in the project properties dialog (&lt;g0&gt;Project &gt; Properties&lt;/g0&gt;). For example, if you have selected ES-MX (Mexican Spanish) as the target language, the dictionary files must be named es_MX.dic and es_MX.aff. If you only have a standard Spanish dictionary available, with file names es_es.dic and es_es.aff for instance, you can copy these files to es_MX.dic and es_MX.aff, and the spelling dictionary will work. Note that this will of course check for the standard (Castillian) rather than for Mexican Spanish.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190708T031929Z" creationid="WynnChen" creationdate="20190708T031929Z">
-        <seg>文件的名称必须与项目属性对话框（&lt;g0&gt;项目 &gt; 属性&lt;/g0&gt;）中定义的译文语言的的语言代码一致。例如，如果你选择了 ES-MX（墨西哥式西班牙语）作为译文语言，则词典文件必须命名为 es_MX.dic 及 es_MX.aff。如果您只有标准西班牙语词典（例如文件名为 es_es.dic 及 es_es.aff），您可以将这些文件复制更名为 es_MX.dic 及 es_MX.aff，拼写检查词典会正常运作。要注意，很显然，这会以标准（卡斯提尔）西班牙语进行检查，而非墨西哥式西班牙语。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190708T033849Z" creationid="WynnChen" creationdate="20190708T031929Z">
+        <seg>文件的名称必须与项目属性对话框（&lt;g0&gt;项目 &gt; 属性&lt;/g0&gt;）中定义的译文语言的的语言代码一致。例如，如果你选择了 ES-MX（墨西哥西班牙语）作为译文语言，则词典文件必须命名为 es_MX.dic 及 es_MX.aff。如果您只有标准西班牙语词典（例如文件名为 es_es.dic 及 es_es.aff），您可以将这些文件复制更名为 es_MX.dic 及 es_MX.aff，拼写检查词典会正常运作。要注意，很显然，这会以标准（卡斯提尔）西班牙语进行检查，而非墨西哥西班牙语。</seg>
       </tuv>
     </tu>
     <tu>
