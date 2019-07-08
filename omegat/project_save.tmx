@@ -24252,6 +24252,14 @@ is to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you have already translated a large body of text, and then realize the target language code of the project does not match the spell checker's language code (you specified pt_BR as the language, but there are no pt_BR vocabularies, for instance) you can simply copy the two corresponding files and rename them (e.g. from &lt;e0&gt;pt_PT.aff&lt;/e0&gt; and &lt;e1&gt;pt_PT.dic&lt;/e1&gt; to &lt;e2&gt;pt_BR.aff&lt;/e2&gt; and &lt;e3&gt;pt_BR.dic&lt;/e3&gt;). Of course it is much wiser, to take a short break and download the correct versions of the spell checker.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190708T102704Z" creationid="WynnChen" creationdate="20190708T102704Z">
+        <seg>如果已经译了大量文本后才意识到项目的译文语言代码与拼写检查器的语言代码不一致（例如，将 pt_BR 设为译文语言，但没有 pt_BR 字典），您只需将对应的两个文件复制并重命名即可（例如把 &lt;e0&gt;pt_PT.aff&lt;/e0&gt; 和 &lt;e1&gt;pt_PT.dic&lt;/e1&gt;重命名为 &lt;e2&gt;pt_BR.aff&lt;/e2&gt; 和 &lt;e3&gt;pt_BR.dic&lt;/e3&gt;）。当然，稍停一会来下载正确版本的拼写检查器更为理智。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you have already translated an instance of a non-unique segment and wish to make a different instance of the non-unique segment the default translation without changing the translation of the instance you have already translated, you must first set the status of the segment you have already translated to "alternative translation" using "Create Alternative Translation".</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180420T021702Z" creationid="Zoe" creationdate="20180411T123841Z">
