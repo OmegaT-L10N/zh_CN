@@ -52615,6 +52615,14 @@ Please try to correct the error and reload the project.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Untranslated segments only</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190708T112006Z" creationid="WynnChen" creationdate="20190708T112006Z">
+        <seg>仅限未译片段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Untranslated segments text</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190323T164325Z" creationid="wynnc" creationdate="20190323T164325Z">
