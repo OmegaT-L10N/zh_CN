@@ -48301,6 +48301,14 @@ protocols for communication across the network.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There is no need to instruct OmegaT to use a particular spelling dictionary; OmegaT will use the correct language dictionary based upon the language codes of your project. Check however that the language codes are exactly the same: an FR-FR dictionary will not work with an FR target setting, for example. If necessary, edit the file names of the dictionary or change your project's language settings.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190708T032304Z" creationid="WynnChen" creationdate="20190708T031951Z">
+        <seg>并不需要指示 OmegaT 使用特定的拼写词典，它会根据项目的语言代码来使用正确的语言词典。但需要确保语言代码完全一致：例如，FR-FR 词典在以 FR 为译文的设置下将无作用。必要时可以编辑词典文件名或更改项目的语言设置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There may be a delay in publishing signed versions.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180424T124234Z" creationid="Zenobia Fang" creationdate="20180424T124234Z">
@@ -50527,8 +50535,8 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
       <tuv lang="EN">
         <seg>To enable the spell checker, select &lt;g0&gt;Options &gt; Spell Checking&lt;/g0&gt; and tick the &lt;g1&gt;Automatically check the spelling of text&lt;/g1&gt; check box (see above).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131126T085120Z" creationid="Fu Rhong" creationdate="20131126T085120Z">
-        <seg>要启用拼写检查器，请选择&lt;g0&gt;选项&gt;拼写检查&lt;/g0&gt;并选中&lt;g1&gt;自动检查文本拼写&lt;/g1&gt;的复选框（见上面）。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190708T032400Z" creationid="Fu Rhong" creationdate="20131126T085120Z">
+        <seg>要启用拼写检查器，请选择&lt;g0&gt;选项 &gt; 拼写检查&lt;/g0&gt;并勾选&lt;g1&gt;自动检查文本的拼写&lt;/g1&gt;复选框（见上图）。</seg>
       </tuv>
     </tu>
     <tu>
