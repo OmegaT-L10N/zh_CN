@@ -11754,6 +11754,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Automatically fetch translations</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190708T104455Z" creationid="WynnChen" creationdate="20190708T104455Z">
+        <seg>自动获取翻译</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Automating modifications of the translated document file names by replacing translatable contents with its translation.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120201T035732Z">
@@ -21189,6 +21197,14 @@ authors of previous versions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>General Preferences</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190708T103026Z" creationid="WynnChen" creationdate="20190708T103026Z">
+        <seg>通用首选项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>General comments</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T141953Z" creationid="Wyndy" creationdate="20180418T044438Z">
@@ -26732,6 +26748,14 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It allows parameters to be set for all translation projects.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190708T103130Z" creationid="WynnChen" creationdate="20190708T103130Z">
+        <seg>它允许为所有翻译项目设置参数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It also allows to define various options related to tag validation and to define custom tags.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T065653Z" creationid="weiyi" creationdate="20180406T065429Z">
@@ -31784,6 +31808,14 @@ measures.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021248Z" creationid="Fu Rhong" creationdate="20131126T091650Z">
         <seg>注意&lt;f0&gt;删除&lt;/f0&gt;实际上只是删除了选择的术语表。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note that &lt;f0&gt;Remove&lt;/f0&gt; physically removes the selected vocabularies. If they are used by some other application on your system, they will disappear from that application, too. If, for whatever reason, you need to do this from time to time, it may make sense to copy the files involved to a different folder, reserved just for use by OmegaT.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190708T102953Z" creationid="WynnChen" creationdate="20190708T102953Z">
+        <seg>注意&lt;f0&gt;移除&lt;/f0&gt;会真正删除选定的字典。如果系统上有其他应用程序使用它们，则它们也会从那些程序中消失。如果出于某种原因，您需要不时地执行该操作，将这些文件复制到另一个文件夹（仅供 OmegaT 使用）可能会好一些。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40752,6 +40784,14 @@ When using regular expressions, the replacement string supports references to gr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sets the segment validation key to Tab instead of the default Enter. This option is useful for some Chinese, Japanese or Korean character input systems.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190708T103341Z" creationid="WynnChen" creationdate="20190708T103341Z">
+        <seg>将片段验证键设置为 Tab 来代替默认的 Enter。此选项对某些中文、日文或韩文字符输入系统很有用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Setting it to &lt;e1&gt;All segments&lt;/e1&gt; shows this information for all segments and &lt;e2&gt;None&lt;/e2&gt; turns this option off.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T062922Z" creationid="weiyi" creationdate="20180406T062922Z">
@@ -46793,6 +46833,14 @@ modification follow.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The program will seek confirmation before closing down.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190708T103418Z" creationid="WynnChen" creationdate="20190708T103418Z">
+        <seg>程序将在关闭前要求确认。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The project and TMX source languages should of course be identical - NL in our example.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131127T103142Z" creationid="Fu Rhong" creationdate="20131127T103142Z">
@@ -49033,6 +49081,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120201T111601Z">
         <seg>该对话框允许您设置该过滤器所处理的文件的源文件名模式，定制已译文件文件名，并为它选择用何种编码来载入文件及保存已译副本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This dialog is accessible by selecting &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Preferences...&lt;/g2&gt; &lt;/m0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190708T103047Z" creationid="WynnChen" creationdate="20190708T103047Z">
+        <seg>此对话框可通过选择&lt;m0&gt; &lt;g1&gt;选项&lt;/g1&gt; &lt;g2&gt;首选项...&lt;/g2&gt; &lt;/m0&gt;来进入</seg>
       </tuv>
     </tu>
     <tu>
@@ -52931,6 +52987,14 @@ Commands:
         <seg>Use TAB To Advance</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T135758Z">
+        <seg>用 Tab 前进</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use TAB to Advance</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190708T103218Z" creationid="WynnChen" creationdate="20190708T103218Z">
         <seg>用 Tab 前进</seg>
       </tuv>
     </tu>
