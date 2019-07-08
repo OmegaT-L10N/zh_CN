@@ -46415,6 +46415,14 @@ your programs, too.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The names of the files must correspond to the language code of your target language as defined in the project properties dialog (&lt;g0&gt;Project &gt; Properties&lt;/g0&gt;). For example, if you have selected ES-MX (Mexican Spanish) as the target language, the dictionary files must be named es_MX.dic and es_MX.aff. If you only have a standard Spanish dictionary available, with file names es_es.dic and es_es.aff for instance, you can copy these files to es_MX.dic and es_MX.aff, and the spelling dictionary will work. Note that this will of course check for the standard (Castillian) rather than for Mexican Spanish.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190708T031929Z" creationid="WynnChen" creationdate="20190708T031929Z">
+        <seg>文件的名称必须与项目属性对话框（&lt;g0&gt;项目 &gt; 属性&lt;/g0&gt;）中定义的译文语言的的语言代码一致。例如，如果你选择了 ES-MX（墨西哥式西班牙语）作为译文语言，则词典文件必须命名为 es_MX.dic 及 es_MX.aff。如果您只有标准西班牙语词典（例如文件名为 es_es.dic 及 es_es.aff），您可以将这些文件复制更名为 es_MX.dic 及 es_MX.aff，拼写检查词典会正常运作。要注意，很显然，这会以标准（卡斯提尔）西班牙语进行检查，而非墨西哥式西班牙语。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The names of the files must correspond to the language code of your target language as defined in the project properties dialog (Project &gt; Properties).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T142704Z" creationid="Zoe" creationdate="20180411T142704Z">
