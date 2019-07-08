@@ -18725,6 +18725,14 @@ No one hears your screams</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error updating repository. Skipping. Error: {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190708T025425Z" creationid="WynnChen" creationdate="20190708T025425Z">
+        <seg>更新存储库时出错。正在跳过。错误：{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error while reading MT results</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190323T121540Z" creationid="wynnc" creationdate="20190323T121540Z">
