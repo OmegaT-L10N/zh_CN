@@ -38628,6 +38628,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Right-clicking on an underlined word (Artund in the figure above) opens a drop-down menu listing suggestions for the correction (Art und). You can also instruct the spell checker to ignore all the occurrences of the mis-spelled word, or add it to the dictionary.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190708T033604Z" creationid="WynnChen" creationdate="20190708T033604Z">
+        <seg>右键点击带下划线的词汇（上图中是 "Artund"）会打开下拉菜单，其中列出了更正建议（Art und）。此外，您也可以指示拼写检查器忽略这个拼写错误词汇所有出现之处，或者将它添加到词典中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Right-to-Left Embedding (RLE U+202B)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190320T094326Z" creationid="wynnc" creationdate="20190320T094326Z">
