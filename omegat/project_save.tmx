@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_unknown" segtype="paragraph" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.0_0_unknown" segtype="paragraph" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1024,8 +1024,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Ignore hits with very different case (e.g. FOO vs foo)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190320T102512Z" creationid="wynnc" creationdate="20190320T102512Z">
-        <seg>忽略大小写完全不同的命中（例如 FOO 和 foo）(&amp;I)</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190801T160335Z" creationid="wynnc" creationdate="20190320T102512Z">
+        <seg>忽略大小写不同的命中（例如 FOO 和 foo）(&amp;I)</seg>
       </tuv>
     </tu>
     <tu>
@@ -11762,6 +11762,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Automatically search segment text in dictionary</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190801T161059Z" creationid="WynnChen" creationdate="20190801T161059Z">
+        <seg>自动在词典中查找片段文本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Automating modifications of the translated document file names by replacing translatable contents with its translation.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120201T035732Z">
@@ -12418,6 +12426,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
         <seg>浏览</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Browse TaaS Collections...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190801T160808Z" creationid="WynnChen" creationdate="20190801T160808Z">
+        <seg>浏览 TaaS 词库...</seg>
       </tuv>
     </tu>
     <tu>
@@ -13508,6 +13524,14 @@ Exception occurred:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check this box to send only untranslated segments to the machine translation services.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190801T153927Z" creationid="WynnChen" creationdate="20190801T153927Z">
+        <seg>勾选此框可使得仅有未翻译的片段会被发送至机器翻译服务。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check this option in case OmegaT does not display some glyphs properly (even if the fonts containing the relevant glyphs are installed on your machine).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Andrew" changedate="20180414T040726Z" creationid="weiyi" creationdate="20180406T062036Z">
@@ -13696,6 +13720,14 @@ Exception occurred:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190324T025857Z" creationid="wynnc" creationdate="20190324T025857Z">
         <seg>清除标记</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Clear this option to deactivate automatic searching – if dictionaries are too long, for example.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190801T161134Z" creationid="WynnChen" creationdate="20190801T161134Z">
+        <seg>清除此选项可停用自动搜索——比如，当字典太长时。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13896,6 +13928,14 @@ Exception occurred:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T192617Z" creationid="Mac Pro" creationdate="20180425T192617Z">
         <seg>点击段落标记按钮可以显示段落标记。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click this button to access the &lt;u0&gt;TaaS&lt;/u0&gt; project site and create a user account.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190801T160559Z" creationid="WynnChen" creationdate="20190801T160559Z">
+        <seg>点击此按钮可访问 &lt;u0&gt;TaaS&lt;/u0&gt; 项目网站并创建用户帐户。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16841,6 +16881,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190320T100612Z" creationid="wynnc" creationdate="20190320T100612Z">
         <seg>显示 TBX 词汇表的上下文描述(&amp;G)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Display context description for TBX glossaries</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190801T154151Z" creationid="WynnChen" creationdate="20190801T154151Z">
+        <seg>显示 TBX 词汇表的上下文描述</seg>
       </tuv>
     </tu>
     <tu>
@@ -22966,6 +23014,14 @@ need not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If both this option and the &lt;l0&gt;&lt;g1&gt;Insert the source text&lt;/g1&gt;&lt;/l0&gt; option are selected, all words with a corresponding glossary entry will be translated automatically when the source text is inserted.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190801T160144Z" creationid="WynnChen" creationdate="20190801T160144Z">
+        <seg>如果同时勾选了此选项与&lt;l0&gt;&lt;g1&gt;插入原文文本&lt;/g1&gt;&lt;/l0&gt;选项，当插入原文文本时，所有有着相应词汇表条目的词汇都会被自动翻译。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If checked, non-breakable spaces will be displayed with a grey background.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Andrew" changedate="20180413T142205Z" creationid="weiyi" creationdate="20180406T025828Z">
@@ -23230,6 +23286,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120217T120958Z">
         <seg>必要时可编辑词典文件名或改变项目的语言设置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If necessary, you can select a specific domain to limit the volume of data sent and received.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190801T161055Z" creationid="WynnChen" creationdate="20190801T161055Z">
+        <seg>如有必要，你可以选择特定领域以限制发送与接受的数据量。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23749,10 +23813,26 @@ notice like this when it starts in an interactive mode:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If this option is checked, the glossary will only display one entry, even if the same word exists in several forms (e.g. with and without capital letters) in the glossary.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190801T160524Z" creationid="WynnChen" creationdate="20190801T160302Z">
+        <seg>勾选此选项后，词汇表中只会显示一个条目，即使此词汇在词汇表中存在有多种形式（例如，有和没有字母是大写的）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If this option is checked, when a fuzzy match is inserted, either manually or automatically, OmegaT attempts to convert the numbers in the fuzzy matches according to the source contents.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131113T011431Z" creationid="Fu Rhong" creationdate="20131112T121200Z">
         <seg>选中该选项后，在手动或自动插入模糊匹配时，OmegaT会尝试根据源文本转换模糊匹配中的数字。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If this option is selected, OmegaT will not remember the access key between sessions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190801T160803Z" creationid="WynnChen" creationdate="20190801T160803Z">
+        <seg>勾选此选项后，OmegaT 在不同会话之间不会记住访问密钥。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24814,6 +24894,14 @@ work and works based on it.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T154328Z" creationid="xulihang" creationdate="20180408T115237Z">
         <seg>忽略词汇表大小写</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ignore hits with very different case (e.g. FOO vs foo)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190801T160316Z" creationid="WynnChen" creationdate="20190801T160156Z">
+        <seg>忽略大小写不同的命中（例如 FOO 和 foo）</seg>
       </tuv>
     </tu>
     <tu>
@@ -36766,6 +36854,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Project Properties</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190801T154552Z" creationid="WynnChen" creationdate="20190801T154552Z">
+        <seg>Project Properties</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Project Specific External Search</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190324T045454Z" creationid="wynnc" creationdate="20190324T045454Z">
@@ -38240,6 +38336,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T154347Z" creationid="xulihang" creationdate="20180408T115441Z">
         <seg>转义序列替换为空格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Replace glossary hits when inserting source text</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190801T154645Z" creationid="WynnChen" creationdate="20190801T154645Z">
+        <seg>插入原文文本时替换命中的词汇表条目</seg>
       </tuv>
     </tu>
     <tu>
@@ -40384,6 +40488,14 @@ When using regular expressions, the replacement string supports references to gr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select TaaS Terminology Lookup Domain...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190801T161020Z" creationid="WynnChen" creationdate="20190801T161020Z">
+        <seg>选择 TaaS 术语查询领域...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select TaaS domain</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190323T155334Z" creationid="wynnc" creationdate="20190323T155334Z">
@@ -40420,6 +40532,14 @@ When using regular expressions, the replacement string supports references to gr
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190323T123252Z" creationid="wynnc" creationdate="20190323T123252Z">
         <seg>选择脚本文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select a supplier from the list and, if necessary, click &lt;g0&gt;Configure&lt;/g0&gt; to enter the identification details provided by the supplier.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190801T154025Z" creationid="WynnChen" creationdate="20190801T154025Z">
+        <seg>从列表中选择供应商，如有必要，点击&lt;g0&gt;配置&lt;/g0&gt;来输入供应商提供的详细认证信息。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40524,6 +40644,22 @@ When using regular expressions, the replacement string supports references to gr
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T114448Z" creationid="Fu Rhong" creationdate="20131117T114448Z">
         <seg>如果当前译文不适合，则选择该菜单项并输入可选译文。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select this option if you want dictionaries to display words that have the same root.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190801T161202Z" creationid="WynnChen" creationdate="20190801T161202Z">
+        <seg>如果希望词典中显示有着相同词根的词汇，请选择此选项。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select this option if you want the glossary to display words that have the same root.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190801T154641Z" creationid="WynnChen" creationdate="20190801T154641Z">
+        <seg>如果希望词汇表中显示有着相同词根的词汇，请选择此选项。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42281,6 +42417,14 @@ of the GPL, as needed to protect the freedom of users.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="liufang" changedate="20180416T122216Z" creationid="liufang" creationdate="20180416T122216Z">
         <seg>仍然在您的命令行窗口中，切换到此文件夹，例如有：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Store for this session only</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190801T160632Z" creationid="WynnChen" creationdate="20190801T160632Z">
+        <seg>仅为本次会话保存</seg>
       </tuv>
     </tu>
     <tu>
@@ -46825,6 +46969,14 @@ modification follow.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The procedures for configuring access to the Microsoft Translator and Google Translate services are described &lt;u0&gt;here&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190801T154132Z" creationid="WynnChen" creationdate="20190801T154132Z">
+        <seg>&lt;u0&gt;此处&lt;/u0&gt;描述了配置对 Microsoft Translator 和 Google Translate 服务的访问的过程。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The process of segmenting can be pictured as follows: the cursor moves along the text, one character at a time.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120215T141840Z">
@@ -48945,6 +49097,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120219T115817Z">
         <seg>该栏目向用户给出仅在进行的某个操作的反馈。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This button enables you to browse and download the collections that exist for the project's source and target languages. Private collections are displayed in bold. The collections are downloaded as TBX glossaries and stored in the current glossary folder.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190801T161014Z" creationid="WynnChen" creationdate="20190801T161014Z">
+        <seg>此按钮让你能够浏览并下载已有的那些针对项目原文语言与译文语言的词库。私有词库显示为粗体。词库将下载为 TBX 词汇表并存放在当前词汇表文件夹中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52229,6 +52389,22 @@ Exact searches match the whole search string.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Uncheck this option if the context description shown for each glossary entry is unnecessary or too long.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190801T154243Z" creationid="WynnChen" creationdate="20190801T154243Z">
+        <seg>如果为每个词汇表条目所显示的上下文描述不必要或者太长，请取消对此选项的勾选。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Uncheck this option if the glossary displays too many false positives.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190801T154526Z" creationid="WynnChen" creationdate="20190801T154526Z">
+        <seg>如果词汇表中显示了过多误报，请取消对此选项的勾选。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Uncheck this option to prevent any damage on the tags (i.e., partial deletion) during editing.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T110352Z" creationid="Administrator" creationdate="20180411T104524Z">
@@ -53064,6 +53240,14 @@ Commands:
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use fuzzy matching for dictionary entries</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190801T161138Z" creationid="WynnChen" creationdate="20190801T161138Z">
+        <seg>对词典条目使用模糊匹配</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use glossary</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T154312Z" creationid="xulihang" creationdate="20180408T115230Z">
@@ -53080,10 +53264,26 @@ Commands:
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use stemming for glossary entries</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190801T154546Z" creationid="WynnChen" creationdate="20190801T154546Z">
+        <seg>对词汇表条目使用词干分析</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use terms &amp;appearing separately in the source text</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190320T174850Z" creationid="wynnc" creationdate="20190320T101001Z">
         <seg>使用分开出现在原文文本中的词条(&amp;A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use terms appearing separately in the source text</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190801T154255Z" creationid="WynnChen" creationdate="20190801T154255Z">
+        <seg>使用分开出现在原文文本中的词条</seg>
       </tuv>
     </tu>
     <tu>
@@ -54540,6 +54740,14 @@ trouble of selecting, obtaining and installing it.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131116T121210Z">
         <seg>重叠后的窗格将在顶部显示一个标签。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When this option is checked, the glossary will display pairs or groups of words (expressions) even if the words within them appear separately in the source text.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190801T154501Z" creationid="WynnChen" creationdate="20190801T154501Z">
+        <seg>勾选此选项后，对于由一对或一组单词（表达式）所组成的条目，即使其中的单词在原文文本中是分开出现的，词汇表中也会显示此条目。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56380,6 +56588,14 @@ linux-install.sh 脚本的文件夹，然后用 ./linux-install.sh 执行脚本�
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120211T033608Z">
         <seg>接着可以点击喜欢的翻译来将其插入目标片段的当前位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can then create an access key on the page &lt;u0&gt;https://term.tilde.com/account/keys/create?system=omegaT&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190801T160629Z" creationid="WynnChen" creationdate="20190801T160629Z">
+        <seg>然后，你可以在页面 &lt;u0&gt;https://term.tilde.com/account/keys/create?system=omegaT&lt;/u0&gt; 上创建访问密钥。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60120,6 +60336,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>https://sourceforge.net/p/omegat/wiki/Configuring Machine Translation Services</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190801T154039Z" creationid="WynnChen" creationdate="20190801T154039Z">
+        <seg>https://sourceforge.net/p/omegat/wiki/Configuring Machine Translation Services</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>https://sourceforge.net/p/omegat/wiki/Reference%20Material/</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T135229Z" creationid="Administrator" creationdate="20180411T135229Z">
@@ -60140,6 +60364,22 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T140939Z" creationid="WynnChen" creationdate="20190405T140939Z">
         <seg>https://sourceforge.net/projects/omegatscripts/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://term.tilde.com/account/keys/create?system=omegaT</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190801T160602Z" creationid="WynnChen" creationdate="20190801T160602Z">
+        <seg>https://term.tilde.com/account/keys/create?system=omegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://term.tilde.com/taas</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190801T160526Z" creationid="WynnChen" creationdate="20190801T160526Z">
+        <seg>https://term.tilde.com/taas</seg>
       </tuv>
     </tu>
     <tu>
