@@ -36329,6 +36329,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Pre-defined themes can be set using scripts. A script bundled with OmegaT called Switch Colour Themes provides a default "Dark" theme.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190830T111636Z" creationid="WynnChen" creationdate="20190830T111636Z">
+        <seg>可以用脚本设置预定义主题。随同 OmegaT 有一个叫做 Switch Colour Themes 的脚本提供了一套默认的“深色”主题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Preamble</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T012321Z" creationid="WynnChen" creationdate="20190404T012321Z">
@@ -38672,6 +38680,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120211T060444Z">
         <seg>将 OmegaT 窗口的组件恢复到缺省状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Restores the components of the main OmegaT window to their default state. Use this feature when you have undocked, moved or hidden one or more components and you are unable to restore the desired arrangement. It can also be used when panes do not appear as expected following an OmegaT upgrade.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190830T111118Z" creationid="WynnChen" creationdate="20190830T111118Z">
+        <seg>将 OmegaT 窗口的组件恢复到默认状态。当你分离、移动或隐藏了一个或多个组件后无法恢复到所需的排列时可以使用此功能。更新 OmegaT 后窗格未按预期显示时也可以使用它。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41188,6 +41204,14 @@ When using regular expressions, the replacement string supports references to gr
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T133913Z" creationid="Fu Rhong" creationdate="20131117T133843Z">
         <seg>显示对话框以修改文本显示字体。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Shows the dialog to modify the text display font. Users of old computers who feel window resizing is very slow can try changing the font. See font settings in Miscellanea</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190830T111421Z" creationid="WynnChen" creationdate="20190830T111421Z">
+        <seg>显示用于修改文本显示字体的对话框。使用老电脑的用户如果觉得改变窗口大小非常慢可以尝试更改字体。请参阅杂记中的字体设置部分</seg>
       </tuv>
     </tu>
     <tu>
@@ -50009,6 +50033,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131116T122332Z">
         <seg>该安装包捆绑了Oracle的Java运行环境。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This page allows you to choose different colours for each part of the user interface.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190830T111501Z" creationid="WynnChen" creationdate="20190830T111501Z">
+        <seg>此页面让您可以为用户界面的各个部分选择不同的颜色。</seg>
       </tuv>
     </tu>
     <tu>
