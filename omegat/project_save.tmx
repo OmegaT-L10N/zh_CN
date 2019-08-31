@@ -49429,6 +49429,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This dialog enables you to specify the source filename patterns for files to be processed by the filter, customize the filenames of translated files and select which encodings should be used for loading the source file and saving the translation. To modify a file filter pattern, either modify the fields directly or click &lt;e0&gt;Edit&lt;/e0&gt;. To add a new file filter pattern, click &lt;e1&gt;Add&lt;/e1&gt;. The same dialog is used to add a pattern or to edit a particular pattern. The dialog includes a special target filename pattern editor, which you can use to customize the names of output files.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190831T093301Z" creationid="WynnChen" creationdate="20190831T093301Z">
+        <seg>此对话框让您能够指定要由过滤器处理的原文文件的文件名模式、自定义已译文件的文件名和选择用什么编码来加载原文文件和保存翻译。要修改文件过滤器模式，请直接修改字段名或点击&lt;e0&gt;编辑&lt;/e0&gt;。要添加新的文件过滤器模式，点击&lt;e1&gt;添加&lt;/e1&gt;。添加模式和编辑特定模式使用相同的对话框。该对话框包含一个专门的译文文件名模式编辑器，您可以使用它来自定义输出文件的名称。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This dialog is accessible by selecting &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Preferences...&lt;/g2&gt; &lt;/m0&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190708T103047Z" creationid="WynnChen" creationdate="20190708T103047Z">
@@ -60858,8 +60866,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>index entries, bookmarks, bookmark references, notes, comments, presentation notes, links (URL), sheet names</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120205T114943Z">
-        <seg>索引条目、书签、书签参考、笔记、注解、介绍说明、链接（URL）、工作表名称</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190831T070248Z">
+        <seg>索引条目、书签、书签引用、备注、批注、演讲备注、链接（URL）、工作表名称</seg>
       </tuv>
     </tu>
     <tu>
