@@ -25548,6 +25548,14 @@ Reopen the project now?</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In order to edit or expand an existing set of rules, simply click on it in the top table. The rules for that set will appear in the bottom half of the window.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190831T164331Z" creationid="WynnChen" creationdate="20190831T164331Z">
+        <seg>要编辑或扩展现有的规则集，只要在顶部的表格中点击它即可。该规则集内的规则将显示在窗口的下半部分。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In order to get credentials for MS Translator, follow these steps:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="weiyi" changedate="20180405T144901Z" creationid="weiyi" creationdate="20180405T144901Z">
@@ -29807,8 +29815,8 @@ later version.</seg>
       <tuv lang="EN">
         <seg>Major changes to the segmentation rules should be generally avoided, especially after completion of the first draft, but minor changes, such as the addition of a recognized abbreviation, can be advantageous.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120217T072715Z">
-        <seg>一般应避免对分割规则进行大幅调整，尤其在开始翻译后，但进行细微修正，例如加上识别的缩略语，可能会有好处。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190831T164051Z">
+        <seg>通常应避免对分割规则进行重大更改，尤其在完成初稿后，但进行细微修正，例如添加公认的缩写，可能会有好处。</seg>
       </tuv>
     </tu>
     <tu>
