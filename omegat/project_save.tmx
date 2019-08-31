@@ -6044,16 +6044,16 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;l0&gt;${targetCountryCode}&lt;/l0&gt;– the target country - only "YY"</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131113T124321Z" creationid="Fu Rhong" creationdate="20131113T124321Z">
-        <seg>&lt;l0&gt;${targetCountryCode}&lt;/l0&gt;——目标国家——仅“YY”</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190831T152224Z" creationid="Fu Rhong" creationdate="20131113T124321Z">
+        <seg>&lt;l0&gt;${targetCountryCode}&lt;/l0&gt;——译文的国家/地区——仅“YY”</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;l0&gt;${targetLanguageCode}&lt;/l0&gt; – the target language - only "XX"</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131113T124302Z" creationid="Fu Rhong" creationdate="20131113T124236Z">
-        <seg>&lt;l0&gt;${targetLanguageCode}&lt;/l0&gt;——目标语言——仅“XX”</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190831T152213Z" creationid="Fu Rhong" creationdate="20131113T124236Z">
+        <seg>&lt;l0&gt;${targetLanguageCode}&lt;/l0&gt;——译文语言——仅“XX”</seg>
       </tuv>
     </tu>
     <tu>
