@@ -24898,6 +24898,14 @@ work and works based on it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ignore file context when identifying segments with alternate translations: by default, OmegaT uses the source file name as part of the identification of an alternative translation. If the option is checked, the source file name will not be used, and alternative translations will take effect in any file as long as the other context (previous/next segments or some sort of segment identifier, depending on the file format) matches.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190831T053431Z" creationid="WynnChen" creationdate="20190831T053431Z">
+        <seg>识别有可选翻译的片段时忽略文件上下文：默认情况下，OmegaT 用原文文件名作为可选翻译的识别信息的一部分。如果勾选了此选项，则不使用原文文件名，而只要其他上下文（上一个/下一个片段或依赖于文件格式的某种片段标识）匹配，可选翻译会在任意文件中生效。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ignore glossary case</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T154328Z" creationid="xulihang" creationdate="20180408T115237Z">
@@ -36435,6 +36443,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Preserve spaces for all tags: check this option if the source documents contain significant spaces used to control the layout that must not be ignored.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190831T053042Z" creationid="WynnChen" creationdate="20190831T053042Z">
+        <seg>为所有标签保留空格：如果原文文档包含用于控制布局的不可忽略的重要空格，请勾选此选项。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Press 'Cancel' to leave the project unmodified and load it as a local
 project without team functionality.</seg>
       </tuv>
@@ -38134,6 +38150,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T122617Z" creationid="Administrator" creationdate="20180411T113711Z">
         <seg>在未分段的项目中删除首尾的空白字符：默认情况，OmegaT删除首尾空白字符。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove leading and trailing whitespace in non-segmented projects: by default, OmegaT removes leading and trailing whitespace. In non-segmented projects, it is possible to keep it by unchecking this option.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190831T052944Z" creationid="WynnChen" creationdate="20190831T052944Z">
+        <seg>删除非分割项目中开头和末尾的空白字符：默认情况下，OmegaT 会删除开头和末尾的空白字符。在非分割项目中，可以通过取消勾选此项选来保留之。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41004,6 +41028,14 @@ When using regular expressions, the replacement string supports references to gr
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131113T114122Z" creationid="Fu Rhong" creationdate="20131113T114002Z">
         <seg>多种过滤器（文本文件、XHTML文件、HTML和XHTML文件、OpenDocument文件和Microsoft Open XML文件）有一个或多个特殊选项。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Several filters (text files, XHTML files, HTML and XHTML files, OpenDocument files and Microsoft Open XML files) have one or more specific options. To modify the options, select the filter in the list and click &lt;e0&gt;Options&lt;/e0&gt;. The available options are:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190831T054740Z" creationid="WynnChen" creationdate="20190831T054740Z">
+        <seg>好些过滤器（文本文件、XHTML 文件、HTML 和 XHTML 文件、OpenDocument 文件和 Microsoft Open XML 文件）有一个或多个特定选项。要修改这些选项，在列表中选定此过滤器并点击&lt;e0&gt;选项&lt;/e0&gt;。可用选项包括：</seg>
       </tuv>
     </tu>
     <tu>
