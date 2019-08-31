@@ -5972,16 +5972,16 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;l0&gt;${file-source-encoding}&lt;/l0&gt; - source file encoding</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131113T124938Z" creationid="Fu Rhong" creationdate="20131113T124938Z">
-        <seg>&lt;l0&gt;${file-source-encoding}&lt;/l0&gt;——源文件编码</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190831T153640Z" creationid="Fu Rhong" creationdate="20131113T124938Z">
+        <seg>&lt;l0&gt;${file-source-encoding}&lt;/l0&gt;——原文文件编码</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;l0&gt;${file-target-encoding}&lt;/l0&gt; - target file encoding</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131113T124946Z" creationid="Fu Rhong" creationdate="20131113T124946Z">
-        <seg>&lt;l0&gt;${file-target-encoding}&lt;/l0&gt;——目标文件编码</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190831T153648Z" creationid="Fu Rhong" creationdate="20131113T124946Z">
+        <seg>&lt;l0&gt;${file-target-encoding}&lt;/l0&gt;——译文文件编码</seg>
       </tuv>
     </tu>
     <tu>
@@ -6028,8 +6028,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;l0&gt;${system-os-name}&lt;/l0&gt; - operating system of the computer used</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131113T124906Z" creationid="Fu Rhong" creationdate="20131113T124906Z">
-        <seg>&lt;l0&gt;${system-os-name}&lt;/l0&gt;——电脑使用的操作系统</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190831T153632Z" creationid="Fu Rhong" creationdate="20131113T124906Z">
+        <seg>&lt;l0&gt;${system-os-name}&lt;/l0&gt;——电脑所使用的操作系统</seg>
       </tuv>
     </tu>
     <tu>
@@ -6085,8 +6085,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;l0&gt;${timestamp-????}&lt;/l0&gt; – system date time at generation time in various patterns</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131113T124720Z" creationid="Fu Rhong" creationdate="20131113T124720Z">
-        <seg>&lt;l0&gt;${timestamp-????}&lt;/l0&gt;——多种格式的生成时间系统日期时间</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190831T153534Z" creationid="Fu Rhong" creationdate="20131113T124720Z">
+        <seg>&lt;l0&gt;${timestamp-????}&lt;/l0&gt;——生成时的系统日期时间，有各种格式</seg>
       </tuv>
     </tu>
     <tu>
@@ -9635,6 +9635,14 @@ the above requirements apply either way.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131113T125104Z" creationid="Fu Rhong" creationdate="20131113T125104Z">
         <seg>对${nameOnly}和${Extension}变量还有附加变量可用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Additional variants are available for variables ${nameOnly} and ${Extension}. In case the file name has ambivalent name, one can apply variables of the form &lt;l0&gt;${name only&lt;/l0&gt;&lt;e1&gt;-extension number&lt;/e1&gt;} and &lt;l2&gt;${extension&lt;/l2&gt;-&lt;e3&gt;extension number} &lt;/e3&gt;. If for example the original file is named Document.xx.docx, the following variables will give the following results:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190831T154112Z" creationid="WynnChen" creationdate="20190831T154044Z">
+        <seg>对于变量 ${nameOnly} 和 ${Extension} 还有其他变体可用。如果文件名存在疑义，可以用如下形式的变量名： &lt;l0&gt;${name only&lt;/l0&gt;&lt;e1&gt;-扩展数字&lt;/e1&gt;} 和 &lt;l2&gt;${extension&lt;/l2&gt;-&lt;e3&gt;扩展数字} &lt;/e3&gt;。例如，如果原始文件名为 Document.xx.docx，以下变量相应的结果如下：</seg>
       </tuv>
     </tu>
     <tu>
@@ -40090,8 +40098,8 @@ When using regular expressions, the replacement string supports references to gr
       <tuv lang="EN">
         <seg>See &lt;u0&gt;Oracle documentation&lt;/u0&gt; for examples of the "SimpleDateFormat" patterns</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131113T124846Z" creationid="Fu Rhong" creationdate="20131113T124846Z">
-        <seg>请参阅&lt;u0&gt;Oracle文档&lt;/u0&gt;了解“SimpleDateFormat”格式示例</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190831T153615Z" creationid="Fu Rhong" creationdate="20131113T124846Z">
+        <seg>有关“SimpleDateFormat”格式的示例，请参阅 &lt;u0&gt;Oracle 文档&lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
