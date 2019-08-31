@@ -73,3 +73,4 @@ regex	正则表达式
 Block	字区	仅指 unicode block
 Miscellanea	杂记
 bold	粗体	作为动词则为“加粗”。统一使用“粗体”而非“黑体”
+validator	验证器	统一使用，避免使用 校验器 检验器 等。
