@@ -49301,6 +49301,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This dialog lists the file filters available. The filters used by the current project are displayed in bold. If you prefer not to use OmegaT to translate files of a certain type, you can turn off the corresponding filter by deactivating the check box beside its name. OmegaT will then omit the corresponding files when loading projects, and will copy them unmodified to the target folder when creating target documents. When you wish to use the filter again, just tick the check box. Click &lt;e0&gt;Defaults&lt;/e0&gt; to reset the file filters to the default settings. To edit the files and encodings a filter is used for, select the filter in the list and click &lt;e1&gt;Edit.&lt;/e1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190831T050057Z" creationid="WynnChen" creationdate="20190831T050057Z">
+        <seg>此对话框列出了可用的文件过滤器。当前项目所使用的过滤器以粗体显示。如果你不想用 OmegaT 翻译某种类型的文件，可以通过对其名称旁边的复选框的勾选来关闭相应的过滤器。然后，OmegaT 在加载项目时会忽略相应的文件，并在创建译文文档时不加修改地将它们复制到译文文件夹。如果你想再次使用此过滤器，只需要勾选相应复选框即可。点击&lt;e0&gt;默认&lt;/e0&gt;可以将文件过滤器重置为默认设置。要编辑过滤器所针对的文件和编码，请在列表中选中此过滤器然后点击&lt;e1&gt;编辑&lt;/e1&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This differences do not generally lead to compatibility problems.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T110225Z" creationid="Wyndy" creationdate="20180418T110225Z">
