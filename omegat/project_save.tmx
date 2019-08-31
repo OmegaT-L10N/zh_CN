@@ -34680,6 +34680,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Only a limited number of file formats specify a mandatory encoding. File formats that do not specify their encoding will use the encoding you set up for the extension that matches their name. For example, by default &lt;l0&gt;.txt&lt;/l0&gt; files will be loaded using the default encoding of your operating system. You can change the source encoding for each different source filename pattern. Target files can also be written in any encoding. By default, the translated file encoding is the same as the source file encoding. The source and target encoding fields use drop-down menus containing all the supported encodings. &lt;auto&gt; leaves the choice of encoding to &lt;a1&gt;OmegaT&lt;/a1&gt;. This is how it works:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190831T150832Z" creationid="WynnChen" creationdate="20190831T150832Z">
+        <seg>仅有少量文件格式指定强制编码。未指定编码的文件格式将使用您为其文件扩展名所设置的编码。例如，默认情况下 &lt;l0&gt;.txt&lt;/l0&gt; 文件会使用操作系统的默认编码加载。你可以更改每个不同的原文文件名模式的原文编码。译文文件也可以用任意编码编码。默认情况下，已译文件的编码与原文文件编码相同。原文与译文的编码字段使用的是包含所有支持的编码的下拉菜单。&lt;自动&gt;则会让 &lt;a1&gt;OmegaT&lt;/a1&gt; 来选择编码。这是它的工作原理：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Only if (X)HTML file has a &amp;header</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190323T062436Z" creationid="wynnc" creationdate="20190320T045507Z">
