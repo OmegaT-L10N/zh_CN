@@ -10211,6 +10211,14 @@ rights of fair use or other equivalent, as provided by copyright law.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All segmentation rule sets for a matching language pattern are active and are applied in the given order of priority, so rules for specific language should be higher than default ones. For example, rules for Canadian French (FR-CA) should be set higher than rules for French (FR.*), and higher than Default (.*) ones. Thus, when translating from Canadian French the rules for Canadian French - if any - will be applied first, followed by the rules for French and lastly, by the Default rules.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190831T163431Z" creationid="WynnChen" creationdate="20190831T163431Z">
+        <seg>为匹配的语言模式所定义的所有片段分割规则集都是活动的，并按照规给定的优先级顺序应用，因此为特定语言定义的规则优先级应当高于默认的那些。例如，加拿大法语（FR-CA）的规则优先级应当设置为高于法语（FR.*）的规则，并高于默认（.*）的规则。因此，在翻译加拿大法语时，会首先应用加拿大法语规则（如果存在的话），接着是法语规则，最后为缺省规则。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All the languages have access to the OmegaT object model, with the project as the top object.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131109T022934Z" creationid="Fu Rhong" creationdate="20131109T022934Z">
@@ -47169,6 +47177,14 @@ modification follow.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The predefined break rules should be sufficient for most European languages and Japanese. In view of the flexibility, you may consider defining more exception rules for your source language in order to provide more meaningful and coherent segments.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190831T163009Z" creationid="WynnChen" creationdate="20190831T163009Z">
+        <seg>对于绝大多数欧洲语言和日语来说，预定义的断句规则应当足够了。从灵活性的角度看，您可以考虑为原文语言定义更多例外规则以获取语意更完整也更连贯的片段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The predominant way of segmenting the sources is the sentence-level segmenting, so this check box should in a normal case be left checked.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131118T035217Z" creationid="Fu Rhong" creationdate="20131118T035217Z">
@@ -63528,6 +63544,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120217T070031Z">
         <seg>指定哪部分文本不应该被分开。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>specify what parts of text should NOT be separated. In spite of the period, &lt;e0&gt;"Mrs. Dalloway "&lt;/e0&gt; should not be split in two segments, so an exception rule should be established for Mrs (and for Mr, for Dr, for prof etc), followed by a period. To define a rule as an exception rule, leave the Break/Exception check box unticked.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190831T162803Z" creationid="WynnChen" creationdate="20190831T162803Z">
+        <seg>指定不应分开的文本部件。尽管其中有个句点，但&lt;e0&gt;“Mrs. Dalloway”&lt;/e0&gt;不应当分割为两个片段，因此应当为后面跟着句点的 Mrs（以及 Mr、Dr、prof 等）制定一条例外规则。要将一条规则定义为例外规则，请取消对断句/离外复选框的勾选。</seg>
       </tuv>
     </tu>
     <tu>
