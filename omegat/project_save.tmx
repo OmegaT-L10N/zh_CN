@@ -4561,6 +4561,22 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Add or rewrite encoding declaration in HTML and XHTML files&lt;/e0&gt;: the target files often need to have a different character set encoding from the one in the source file (whether it is explicitly defined or implied). Using this option, the translator can specify whether the target files should have the encoding declaration included. For instance, if the file filter specifies UTF8 as the encoding scheme for the target files, selecting Always will ensure that this information is included in the translated files.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190831T064507Z" creationid="WynnChen" creationdate="20190831T064507Z">
+        <seg>&lt;e0&gt;在 HTML 和 XHTML 文件中新增或重写编码声明&lt;/e0&gt;：译文文件通常需要具有与原文文件（无论是显式定义还是隐含）不同的字符集编码。使用此选项，译者可以指定译文文件是否应当包含编码声明。例如，如果文件过滤器指定 UTF8 作为译文文件的编码方案，则勾选本选项将始终确保此信息包含在已译文件中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Aggregate tags&lt;/e0&gt;: if checked, tags with no translatable text between them will be aggregated into a single tag.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190831T063802Z" creationid="WynnChen" creationdate="20190831T063802Z">
+        <seg>&lt;e0&gt;聚合标签&lt;/e0&gt;：如果选中，其间没有可翻译文本的多个标签将被聚合成单个标签。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Aggregate tags&lt;/e0&gt;: if checked, tags without translatable text between them will be aggregated into single tags.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120203T125945Z">
@@ -4613,6 +4629,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="10353" changedate="20180412T100335Z" creationid="10353" creationdate="20180412T100335Z">
         <seg>&lt;e0&gt;关闭：&lt;/e0&gt;关闭窗口，不做任何改变。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Compress whitespace in translated document&lt;/e0&gt;: multiple continuous whitespace characters will be converted into one single whitespace in the translated document.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190831T064633Z" creationid="WynnChen" creationdate="20190831T064633Z">
+        <seg>&lt;e0&gt;在译文文档中压缩空白字符&lt;/e0&gt;：在译文文档中，多个连续的空白字符会被转换成单个空白字符。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4699,8 +4723,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Excel: &lt;/e0&gt;comments, sheet names</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120203T125835Z">
-        <seg>&lt;e0&gt;Excel：&lt;/e0&gt;注释、工作表名</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190831T063539Z">
+        <seg>&lt;e0&gt;Excel：&lt;/e0&gt;批注、工作表名称</seg>
       </tuv>
     </tu>
     <tu>
@@ -4715,8 +4739,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Global:&lt;/e0&gt; charts, diagrams, drawings, WordArt</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120203T125922Z">
-        <seg>&lt;e0&gt;通用：&lt;/e0&gt;图表、图示、图画和艺术字</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190831T063702Z">
+        <seg>&lt;e0&gt;全局：&lt;/e0&gt;数据图表、图表、绘图和艺术字</seg>
       </tuv>
     </tu>
     <tu>
@@ -4947,8 +4971,16 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Power Point&lt;/e0&gt;: slide comments, slide masters, slide layouts</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120203T125901Z">
-        <seg>&lt;e0&gt;Power Point&lt;/e0&gt;：幻灯片注释、幻灯片控制和幻灯片布局</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190831T063613Z">
+        <seg>&lt;e0&gt;Power Point&lt;/e0&gt;：幻灯片批注、幻灯片母版和幻灯片版式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Preserve spaces for all tags&lt;/e0&gt;: if checked, "white space" (i.e. spaces and newlines) will be preserved, even if this option is not defined in the document.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190831T063924Z" creationid="WynnChen" creationdate="20190831T063924Z">
+        <seg>&lt;e0&gt;为所有标签保留空格&lt;/e0&gt;：如果选中，会保留“空白字符”（即空格和换行符），即使在文档中并未定义此选项也是如此。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4989,6 +5021,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T122508Z" creationid="Administrator" creationdate="20180411T122508Z">
         <seg>&lt;e0&gt;删除翻译文档中HTML注释&lt;/e0&gt;:：所有注释部分（在&lt;!-- 和 --&gt;之间) 不会在翻译文档中复制。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Remove HTML comments in translated document&lt;/e0&gt;: commented parts (between &lt;!-- and --&gt;) will not be copied into the translated document.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190831T070048Z" creationid="WynnChen" creationdate="20190831T070048Z">
+        <seg>&lt;e0&gt;在译文文档中删除 HTML 注释&lt;/e0&gt;：注释部分（&lt;!-- 和 --&gt; 之间的部分）不会被复制到已译文档中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5227,8 +5267,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Word:&lt;/e0&gt; non-visible instruction text, comments, footnotes, endnotes, footers</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120203T125839Z">
-        <seg>&lt;e0&gt;Word：&lt;/e0&gt;不可见说明文本、注释、脚注、尾注、页脚</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190831T063536Z">
+        <seg>&lt;e0&gt;Word：&lt;/e0&gt;不可见说明性文本、批注、脚注、尾注、页脚</seg>
       </tuv>
     </tu>
     <tu>
@@ -30456,8 +30496,8 @@ later version.</seg>
       <tuv lang="EN">
         <seg>Microsoft Office Open XML files</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120201T044424Z">
-        <seg>Microsoft Office 开放 XML 文件</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190831T063340Z">
+        <seg>Microsoft Office Open XML 文件</seg>
       </tuv>
     </tu>
     <tu>
@@ -56692,6 +56732,14 @@ linux-install.sh 脚本的文件夹，然后用 ./linux-install.sh 执行脚本�
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120201T044459Z">
         <seg>您可以选择要翻译的元素。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can select which elements are to be translated. They will appear as separate segments in the translation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190831T063421Z" creationid="WynnChen" creationdate="20190831T063421Z">
+        <seg>您可以选择要翻译的元素。在翻译中它们将显示为单独的片段。</seg>
       </tuv>
     </tu>
     <tu>
