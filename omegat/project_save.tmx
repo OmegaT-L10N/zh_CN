@@ -25540,6 +25540,14 @@ Reopen the project now?</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In order to create an empty set of rules for a new language pattern click &lt;e0&gt;Add &lt;/e0&gt;in the upper half of the dialog. An empty line will appear at the bottom of the upper table (you may have to scroll down to see it). Change the name of the rule set and the language pattern to the language concerned and its code. The syntax of the language pattern conforms to regular expression syntax. If your set of rules handles a language-country pair, we advise you to move it to the top using the &lt;e1&gt;Move Up&lt;/e1&gt; button.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190831T170025Z" creationid="WynnChen" creationdate="20190831T170025Z">
+        <seg>若要为新的语言模式创建空的规则集，点击对话框上半部分的&lt;e0&gt;添加&lt;/e0&gt;。上方表格的底部会出现一个空行（你可能需要向下滚动才能看到它）。将规则集的名称和语言模式更改为相关语言及其代码。语言模式的语法遵循正则表达式的语法规则。如果你的规则集处理的是语言-国家对，我们建议您使用&lt;e1&gt;上移&lt;/e1&gt;按钮将其移到顶部。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In order to edit or expand an existing set of rules, simply click on it in the top table.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120217T073531Z">
