@@ -12456,16 +12456,16 @@ Buy another drink</seg>
       <tuv lang="EN">
         <seg>Break rule</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120215T142607Z">
-        <seg>中断规则</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190831T162021Z">
+        <seg>断句规则</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Break/Exception</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190323T065535Z" creationid="wynnc" creationdate="20190323T064834Z">
-        <seg>断句/异常</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190831T161854Z" creationid="wynnc" creationdate="20190323T064834Z">
+        <seg>断句/例外</seg>
       </tuv>
     </tu>
     <tu>
@@ -40984,6 +40984,14 @@ When using regular expressions, the replacement string supports references to gr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Separates the source text into segments. For example, "&lt;e0&gt;Did it make sense? I was not sure&lt;/e0&gt;." should be split into two segments. For this to happen, there should be a break rule for "?", when followed by spaces and a capitalized word. To define a rule as a break rule, tick the Break/Exception check box.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190831T162347Z" creationid="WynnChen" creationdate="20190831T162347Z">
+        <seg>将原文文本分割为片段。例如，“&lt;e0&gt;Did it make sense? I was not sure&lt;/e0&gt;.”应当分割为两个片段。要做到这一点，应该有一个断句规则，针对“?”，同时后面要跟着空格和一个首字母大写的单词。要将一条规则定义为断句规则，请勾选断句/例外复选框。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sequence Library (Sequence Library License)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190323T053738Z" creationid="wynnc" creationdate="20190323T052317Z">
@@ -47243,8 +47251,8 @@ modification follow.</seg>
       <tuv lang="EN">
         <seg>The process of segmenting can be pictured as follows: the cursor moves along the text, one character at a time. At each cursor position rules, consisting of a &lt;e0&gt;Before &lt;/e0&gt;and &lt;e1&gt;After &lt;/e1&gt;pattern, are applied in their given order to see if any of the&lt;e2&gt; Before&lt;/e2&gt; patterns are valid for the text on the left and the corresponding &lt;e3&gt;After&lt;/e3&gt; pattern for the text on the right of the cursor. If the rule matches, either the cursor moves on without inserting a segment break (for an exception rule) or a new segment break is created at the current cursor position (for the break rule).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190831T161733Z" creationid="WynnChen" creationdate="20190831T161733Z">
-        <seg>分割过程可描绘如下：光标沿着文本移动，每次一个字符。在每个光标位置处，由&lt;e0&gt;前&lt;/e0&gt;与&lt;e1&gt;后&lt;/e1&gt;模式组成的规则将按给定顺序应用，检查是否有任何&lt;e2&gt;前&lt;/e2&gt;模式对于光标左侧的文本有效同时相应的&lt;e3&gt;后&lt;/e3&gt;模式也对光标右侧的文本有效。如果规则匹配，则光标会移动而不插入片段分割符（对于例外规则）or a new segment break is created at the current cursor position（for the break rule）。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190831T161943Z" creationid="WynnChen" creationdate="20190831T161733Z">
+        <seg>分割过程可描绘如下：光标沿着文本移动，每次一个字符。在每个光标位置处，由&lt;e0&gt;前&lt;/e0&gt;与&lt;e1&gt;后&lt;/e1&gt;模式组成的规则将按给定顺序应用，检查是否有任何&lt;e2&gt;前&lt;/e2&gt;模式对于光标左侧的文本有效同时相应的&lt;e3&gt;后&lt;/e3&gt;模式也对光标右侧的文本有效。如果规则匹配，则光标会移动而不插入片段分割符（对于例外规则）或者在当前光标位置创建新的片段分割符（对于断句规则）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48285,8 +48293,8 @@ protocols for communication across the network.</seg>
       <tuv lang="EN">
         <seg>The two types of rules behave as follows:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120215T142546Z">
-        <seg>两种类型的规则表现如下：</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190831T162015Z">
+        <seg>这两种规则的行为如下：</seg>
       </tuv>
     </tu>
     <tu>
