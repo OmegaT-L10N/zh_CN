@@ -52179,6 +52179,14 @@ install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Translation memory tools work with textual units called segments. &lt;a0&gt;OmegaT&lt;/a0&gt; has two ways to segment a text: by paragraph or by sentence segmentation (also referred to as “rule-based segmentation”). In order to select the type of segmentation, select &lt;m1&gt; &lt;g2&gt;Project&lt;/g2&gt; &lt;g3&gt;Properties...&lt;/g3&gt; &lt;/m1&gt; from the main menu and tick or untick the check box provided. Paragraph segmentation is advantageous in certain cases, such as highly creative or stylistic translations in which the translator may wish to change the order of entire sentences; for the majority of projects, however, sentence segmentation is a choice to be preferred, since it delivers better matches from previous translations. If sentence segmentation has been selected, you can setup the rules by selecting &lt;m4&gt; &lt;g5&gt;Options&lt;/g5&gt; &lt;g6&gt;Segmentation...&lt;/g6&gt; &lt;/m4&gt;from the main menu.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190831T155405Z" creationid="WynnChen" creationdate="20190831T155405Z">
+        <seg>翻译记忆工具使用称为片段的文本单元。&lt;a0&gt;OmegaT&lt;/a0&gt; 有两种方式来分割文本：按段落或按语句分割（亦称为“基于规则的分割”）。要选择分割的类型，请从主菜单中选择&lt;m1&gt; &lt;g2&gt;项目&lt;/g2&gt; &lt;g3&gt;属性...&lt;/g3&gt; &lt;/m1&gt;，然后勾选或取消勾选所提供的复选框。段落分割在某些情况下是有利的，例如在高度创造性或讲究文体的翻译中，译者可能想要整个改变语句的顺序；然而，对于大多数项目而言，语句分割是首选的选择，因为它能更好地与之前的翻译相匹配。如果选用了语句分割，你可以通过从主菜单中选择&lt;m4&gt; &lt;g5&gt;选项&lt;/g5&gt; &lt;g6&gt;片段分割...&lt;/g6&gt; &lt;/m4&gt;来设置规则。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translation project files</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
