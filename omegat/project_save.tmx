@@ -4000,6 +4000,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; first parses the text for structure-level segmentation. During this process it is only the structure of the source file that is used to produce segments.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190831T160626Z" creationid="WynnChen" creationdate="20190831T160626Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; 首先解析文本以进行结构级分割。在此过程中，只使用原文文件的结构来生成片段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; has by default the following short list available to make it easier for you to deal with some plain text files:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120213T142816Z">
@@ -9873,8 +9881,8 @@ the above requirements apply either way.</seg>
       <tuv lang="EN">
         <seg>After segmenting the source file into structural units, &lt;a0&gt;OmegaT&lt;/a0&gt; will segment these blocks further into sentences.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120215T141214Z">
-        <seg>在将源文件分割为结构单元之后， &lt;a0&gt;OmegaT&lt;/a0&gt; 将进一步把这些块分割为语句。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190831T160912Z">
+        <seg>在将源文件分割为结构单元之后，&lt;a0&gt;OmegaT&lt;/a0&gt; 将进一步把这些块分割为语句。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20556,6 +20564,14 @@ know their rights.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120215T140957Z">
         <seg>例如：文本文件可能会在行终止、空行进行片段分割或根本进行分割。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For example, text files may be segmented on line breaks, empty lines, or not be segmented at all. Files containing formatting (ODF documents, HTML documents, etc.) are segmented on the block-level (paragraph) tags. Translatable object attributes in XHTML or HTML files can be extracted as separate segments.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190831T160843Z" creationid="WynnChen" creationdate="20190831T160843Z">
+        <seg>例如，文本文件可能会在断行、空行处分割，或者完全不分割。包含格式的文件（ODF 文档、HTML 文档等）则在块级（段落）标签上分割。在 XHTML 或 HTML 文件中的可翻译对象属性可以提取为单独的片段。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42719,8 +42735,8 @@ of the GPL, as needed to protect the freedom of users.</seg>
       <tuv lang="EN">
         <seg>Structure level segmentation</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120215T140852Z">
-        <seg>结构层片段分割</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190831T160509Z">
+        <seg>结构级分割</seg>
       </tuv>
     </tu>
     <tu>
@@ -47221,6 +47237,14 @@ modification follow.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120215T141840Z">
         <seg>片段分割过程可描绘如下：光标沿着文本移动，每次一个字符。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The process of segmenting can be pictured as follows: the cursor moves along the text, one character at a time. At each cursor position rules, consisting of a &lt;e0&gt;Before &lt;/e0&gt;and &lt;e1&gt;After &lt;/e1&gt;pattern, are applied in their given order to see if any of the&lt;e2&gt; Before&lt;/e2&gt; patterns are valid for the text on the left and the corresponding &lt;e3&gt;After&lt;/e3&gt; pattern for the text on the right of the cursor. If the rule matches, either the cursor moves on without inserting a segment break (for an exception rule) or a new segment break is created at the current cursor position (for the break rule).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190831T161733Z" creationid="WynnChen" creationdate="20190831T161733Z">
+        <seg>分割过程可描绘如下：光标沿着文本移动，每次一个字符。在每个光标位置处，由&lt;e0&gt;前&lt;/e0&gt;与&lt;e1&gt;后&lt;/e1&gt;模式组成的规则将按给定顺序应用，检查是否有任何&lt;e2&gt;前&lt;/e2&gt;模式对于光标左侧的文本有效同时相应的&lt;e3&gt;后&lt;/e3&gt;模式也对光标右侧的文本有效。如果规则匹配，则光标会移动而不插入片段分割符（对于例外规则）or a new segment break is created at the current cursor position（for the break rule）。</seg>
       </tuv>
     </tu>
     <tu>
