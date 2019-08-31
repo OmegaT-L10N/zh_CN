@@ -38114,6 +38114,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remove leading and trailing tags: uncheck this option to display all the tags, including tags at the beginning and end of the segment. Warning: in Microsoft Open XML formats (docx, xlsx, etc.), if all tags are displayed, DO NOT place any text before the first tag – it is a technical tag that must always begin the segment.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190831T052816Z" creationid="WynnChen" creationdate="20190831T052816Z">
+        <seg>删除开头和末尾的标签：取消勾选此选项可以显示所有标签，包括在片段开头和结尾处的标签。警告：在 Microsoft Open XML 格式中（docx、xlsx 等等），如果显示所有标签，不要在第一个标签之前放置任何文本——它是个技术性标签，必须始终是开启段落的标签。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove leading and trailing whitespace in non-segmented projects</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130503T154305Z">
@@ -45491,6 +45499,14 @@ instead.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T112738Z" creationid="Administrator" creationdate="20180411T112738Z">
         <seg>此对话允许或不允许以下选项：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The dialog allows you to enable or disable the following options:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190831T050133Z" creationid="WynnChen" creationdate="20190831T050133Z">
+        <seg>该对话框允许您启用或禁用以下选项：</seg>
       </tuv>
     </tu>
     <tu>
