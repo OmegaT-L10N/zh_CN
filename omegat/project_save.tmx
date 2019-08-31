@@ -5964,8 +5964,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;l0&gt;${extension} &lt;/l0&gt;- the original file extension</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131113T124230Z" creationid="Fu Rhong" creationdate="20131113T124230Z">
-        <seg>&lt;l0&gt;${extension} &lt;/l0&gt;——源文件扩展名</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190831T151943Z" creationid="Fu Rhong" creationdate="20131113T124230Z">
+        <seg>&lt;l0&gt;${extension} &lt;/l0&gt;——原始文件的扩展名</seg>
       </tuv>
     </tu>
     <tu>
@@ -6012,8 +6012,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;l0&gt;${nameOnly}&lt;/l0&gt;– allows you to insert only the name of the source file without the extension.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120201T122409Z">
-        <seg>&lt;l0&gt;${nameOnly}&lt;/l0&gt;——只插入源文件的名称，而不包括扩展名。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190831T151935Z">
+        <seg>&lt;l0&gt;${nameOnly}&lt;/l0&gt;——允许您只插入原文文件的主文件名，不包括扩展名。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6060,8 +6060,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;l0&gt;${targetLanguage}&lt;/l0&gt;– the target language and country code together (of a form "XX-YY").</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131113T124731Z">
-        <seg>&lt;l0&gt;${targetLanguage}&lt;/l0&gt;——目标语言和国家代码（形式为“XX-YY”）。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190831T152158Z">
+        <seg>&lt;l0&gt;${targetLanguage}&lt;/l0&gt;——译文语言和国家/地区代码（格式为“XX-YY”）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6076,8 +6076,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;l0&gt;${targetLocale}&lt;/l0&gt;– target locale code (of a form "xx_YY").</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131113T124751Z">
-        <seg>&lt;l0&gt;${targetLocale}&lt;/l0&gt;——目标文件区域设置代码（形式为“xx_YY”）。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190831T152045Z">
+        <seg>&lt;l0&gt;${targetLocale}&lt;/l0&gt;——译文区域设置代码（格式为“xx_YY”）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16323,8 +16323,8 @@ unpacking, reading or copying.</seg>
       <tuv lang="EN">
         <seg>Default is &lt;l0&gt;${filename}&lt;/l0&gt;– full filename of the source file with extension: in this case the name of the translated file is the same as that of the source file.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120201T122330Z">
-        <seg>缺省设置是 &lt;l0&gt;${filename}&lt;/l0&gt;——和源文件完全相同的文件名和扩展名：此时已译文件名和源文件名完全一样。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190831T151823Z">
+        <seg>默认值是 &lt;l0&gt;${filename}&lt;/l0&gt;——带有扩展名的原文文件的完整文件名：在这种情况下，已译文件的文件名和原文文件的文件名相同。</seg>
       </tuv>
     </tu>
     <tu>
