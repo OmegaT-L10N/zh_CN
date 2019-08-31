@@ -4657,6 +4657,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Do not translate the content attribute of meta-tags ...:&lt;/e0&gt; The meta-tags in the box will not be translated.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190831T062159Z" creationid="WynnChen" creationdate="20190831T062159Z">
+        <seg>&lt;e0&gt;不翻译带有以下属性键值对的 meta 标签的 content 属性...：&lt;/e0&gt;框中的 meta 标签将不进行翻译。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Do not translate the content of tags with the following attribute key-value pairs (separate with commas)&lt;/e0&gt;: a match in the list of key-value pairs will cause the content of tags to be ignored</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131113T123042Z" creationid="Fu Rhong" creationdate="20131113T122712Z">
@@ -5045,6 +5053,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120211T135123Z">
         <seg>&lt;e0&gt;大小：&lt;/e0&gt;改变字体大小。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Skip text matching regular expression&lt;/e0&gt;: any text matching the regular expression is skipped. It is shown in red in the tag validator. Text in source segments that matches is shown in italics.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190831T062011Z" creationid="WynnChen" creationdate="20190831T062011Z">
+        <seg>&lt;e0&gt;忽略匹配以下正则表达式的文本&lt;/e0&gt;：跳过所有匹配此正则表达式的文本。在标签验证器中它会显示为红色。在原文文本中相匹配的文本会显示为斜体。</seg>
       </tuv>
     </tu>
     <tu>
