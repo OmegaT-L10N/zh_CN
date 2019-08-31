@@ -42002,6 +42002,14 @@ of the GPL, as needed to protect the freedom of users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source and Translated file encoding</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190831T145502Z" creationid="WynnChen" creationdate="20190831T145502Z">
+        <seg>原文文件和译文文件编码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Source and target encoding fields use combo boxes with all supported encodings included.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
@@ -54780,6 +54788,14 @@ trouble of selecting, obtaining and installing it.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120201T111923Z">
         <seg>当 OmegaT 在源文件夹中发现一个文件时，它将首先根据文件的扩展名试着选择过滤器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When OmegaT encounters a file in its source folder, it attempts to select the filter based upon the file's extension. More precisely, OmegaT attempts to match each filter's source filename patterns against the filename. For example, the pattern &lt;l0&gt;*.xhtml &lt;/l0&gt;matches any file with the &lt;l1&gt;.xhtml&lt;/l1&gt; extension. If the appropriate filter is found, the file is assigned to it for processing. For example, by default, the XHTML filter is used to process files with the .xhtml extension. You can change or add filename patterns for files to be handled by each file filter. Source filename patterns use wild card characters similar to those used in &lt;e2&gt;Searches. &lt;/e2&gt;The '*' character matches zero or more characters. The '?' character matches exactly one character. All other characters represent themselves. For example, if you wish the text filter to handle readme files (&lt;l3&gt;readme, read.me&lt;/l3&gt;, and &lt;l4&gt;readme.txt&lt;/l4&gt;) you should use the pattern &lt;l5&gt;read*&lt;/l5&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190831T101756Z" creationid="WynnChen" creationdate="20190831T101756Z">
+        <seg>当 OmegaT 在其原文文件夹中遇到文件时，它会尝试根据文件的扩展名选择过滤器。更确切地说，OmegaT 尝试将每个过滤器的原文文件名模式与文件名进行匹配。例如，&lt;l0&gt;*.xhtml &lt;/l0&gt;模式将会匹配任何扩展名为 &lt;l1&gt;.xhtml&lt;/l1&gt; 的文件。如果找到了合适的过滤器，则将文件分配给它进行处理。例如，默认情况下，XHTML 过滤器用于处理扩展名为 .xhtml 的文件。您可以更改或添加由每个文件过滤器处理的文件的文件名模式。原文文件名模式使用的通配符类似于&lt;e2&gt;搜索&lt;/e2&gt;中所用的。“*”字符匹配零个或多个字符。“?”字符只匹配一个字符。所有其他字符代表其自身。例如，如果您希望文本过滤器处理 readme 文件（&lt;l3&gt;readme、read.me&lt;/l3&gt; 和 &lt;l4&gt;readme.txt&lt;/l4&gt;），那么您应该使用模式 &lt;l5&gt;read*&lt;/l5&gt;。</seg>
       </tuv>
     </tu>
     <tu>
