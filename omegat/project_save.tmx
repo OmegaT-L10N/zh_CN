@@ -33421,6 +33421,14 @@ project without team functionality. (You will still able to use OmegaT
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT identifies the source file encoding by using its encoding declaration, if present (HTML files, XML based files).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190831T150954Z" creationid="WynnChen" creationdate="20190831T150954Z">
+        <seg>OmegaT 使用其编码声明（如果存在）来识别原文文件的编码（HTML 文件、基于 XML 的文件）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT in the command line mode</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120208T053038Z">
@@ -33617,6 +33625,14 @@ published by the Free Software Foundation, either version 3 of the License, or
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120201T113102Z">
         <seg>OmegaT 被设置为某些文件格式（Java 属性等）使用强制性编码。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT is instructed to use a mandatory encoding for certain file formats (Java properties etc).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190831T151052Z" creationid="WynnChen" creationdate="20190831T151052Z">
+        <seg>OmegaT 被设置为对某些文件格式使用强制编码（Java 属性等）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34064,8 +34080,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>OmegaT uses the default encoding of the operating system for text files.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
-        <seg>OmegaT 为文本文件使用缺省的系统编码。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190831T151113Z">
+        <seg>OmegaT 使用操作系统的默认编码来处理文本文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41870,6 +41886,14 @@ of the GPL, as needed to protect the freedom of users.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120201T121816Z">
         <seg>有时您也需希望系统自动将译好的的文件重新命名，比如在文件名后加上语言代码。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sometimes you may wish to rename the files you translate automatically, for example adding a language code after the file name. The target filename pattern uses a special syntax, so if you want to edit this field, you must click &lt;e0&gt;Edit...&lt;/e0&gt;and use the Edit Pattern Dialog. If you want to revert to the filter's default configuration, click &lt;e1&gt;Defaults.&lt;/e1&gt; You can also modify the name directly in the target filename pattern field of the file filters dialog. The Edit Pattern Dialog offers among others the following options:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190831T151640Z" creationid="WynnChen" creationdate="20190831T151640Z">
+        <seg>有时候你可能希望自动重命名所翻译的文件，例如在文件名后添加语言代码。译文文件名模式使用特殊的语法，因此如果要编辑此字段，你必须点击&lt;e0&gt;编辑...&lt;/e0&gt;并使用编辑模式对话框。如果要还原为过滤器的默认配置，点击&lt;e1&gt;恢复默认值&lt;/e1&gt;。你还可以在文件过滤器对话框的译文文件名模式字段中直接修改名称。编辑模式对话框提供了以下选项：</seg>
       </tuv>
     </tu>
     <tu>
@@ -51951,6 +51975,14 @@ install.sh.</seg>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190322T062636Z" creationid="wynnc" creationdate="20190322T062636Z">
         <seg>译文文件路径不能与原文文件路径相同：
 {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translated filename</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190831T151126Z" creationid="WynnChen" creationdate="20190831T151126Z">
+        <seg>译文文件名</seg>
       </tuv>
     </tu>
     <tu>
