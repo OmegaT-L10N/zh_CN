@@ -4571,8 +4571,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Allow blank translations in the target file&lt;/e0&gt;:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120203T124944Z">
-        <seg>&lt;e0&gt;允许目标文件中存在空译文&lt;/e0&gt;：</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190831T055532Z">
+        <seg>&lt;e0&gt;允许译文文件中存在空译文&lt;/e0&gt;：</seg>
       </tuv>
     </tu>
     <tu>
@@ -5099,8 +5099,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Translate the following attributes&lt;/e0&gt;: the selected attributes will appear as segments in the Editor window.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120201T044046Z">
-        <seg>&lt;e0&gt;翻译下列属性&lt;/e0&gt;：已选择的属性会作为片段出现在编辑器窗口中。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190831T060138Z">
+        <seg>&lt;e0&gt;翻译以下属性&lt;/e0&gt;：所选属性会作为片段出现在编辑器窗口中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11644,8 +11644,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Auto replace 'nplurals=INTEGER; plural=EXPRESSION;' in header</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131113T114442Z" creationid="Fu Rhong" creationdate="20131113T114442Z">
-        <seg>自动替换头部中的‘nplurals=INTEGER; plural=EXPRESSION;’</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190831T055939Z" creationid="Fu Rhong" creationdate="20131113T114442Z">
+        <seg>自动替换头中的‘nplurals=INTEGER; plural=EXPRESSION;’</seg>
       </tuv>
     </tu>
     <tu>
@@ -23406,6 +23406,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Andrew" changedate="20180413T130040Z">
         <seg>如果已选中了目标片段的某个部分，则此功能会覆盖此部分。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If selected, when a segment in a PO file (which may be a whole paragraph) is not translated, the translation will be empty in the target file. Technically speaking, the &lt;c0&gt;msgstr&lt;/c0&gt; segment in the PO target file, if created, will be left empty. As this is the standard behaviour for PO files, it is selected by default. If the option is off, the source text will be copied to the target segment.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190831T055836Z" creationid="WynnChen" creationdate="20190831T055836Z">
+        <seg>如果选择了此选项，当 PO 文件中的某个片段（可能是整个段落）未翻译时，其在译文文件中的翻译将为空。技术上说，在 PO 译文文件中的 &lt;c0&gt;msgstr&lt;/c0&gt; 片段（如果已创建）将保留为空。由于这是 PO 文件的标准行为，因此它在默认情况下是选中的。如果关闭了此选项，原文文本将被复制到译文段落。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41458,8 +41466,8 @@ When using regular expressions, the replacement string supports references to gr
       <tuv lang="EN">
         <seg>Skip PO header</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131113T115126Z" creationid="Fu Rhong" creationdate="20131113T114134Z">
-        <seg>跳过PO头部</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190831T055846Z" creationid="Fu Rhong" creationdate="20131113T114134Z">
+        <seg>跳过 PO 头</seg>
       </tuv>
     </tu>
     <tu>
@@ -44767,6 +44775,14 @@ software and other kinds of works.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190322T063403Z" creationid="wynnc" creationdate="20190320T045507Z">
         <seg>PO 过滤器抛出异常：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The PO header will be skipped and left unchanged if this option is checked.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190831T055921Z" creationid="WynnChen" creationdate="20190831T055921Z">
+        <seg>如果选中此选项，则将跳过 PO 头并保持其不变。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50041,6 +50057,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130504T152935Z">
         <seg>该操作将会影响 {0} 个片段，且无法进行还原。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This option allows OmegaT to override the specification in the PO file header and use the default for the selected target language.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190831T060028Z" creationid="WynnChen" creationdate="20190831T060028Z">
+        <seg>此选项允许 OmegaT 覆盖 PO 文件头中的规范，并使用所选译文语言的默认值。</seg>
       </tuv>
     </tu>
     <tu>
