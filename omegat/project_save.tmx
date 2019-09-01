@@ -24013,6 +24013,14 @@ notice like this when it starts in an interactive mode:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If this option is checked, when a fuzzy match is inserted, either manually or automatically, OmegaT attempts to convert the numbers in the fuzzy matches according to the source contents. There are a number of restrictions:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190901T160418Z" creationid="WynnChen" creationdate="20190901T160418Z">
+        <seg>如果勾选了此选项，当手动或自动插入模糊匹配时，OmegaT 会尝试根据原文内容转换模糊匹配中的数字。这里有若干限制：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If this option is selected, OmegaT will not remember the access key between sessions.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190801T160803Z" creationid="WynnChen" creationdate="20190801T160803Z">
@@ -26552,6 +26560,14 @@ everything.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
         <seg>插入最佳模糊匹配</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Insert the source text</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190901T155508Z" creationid="WynnChen" creationdate="20190901T155508Z">
+        <seg>插入原文文本</seg>
       </tuv>
     </tu>
     <tu>
@@ -33565,6 +33581,14 @@ project without team functionality. (You will still able to use OmegaT
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT inserts the translation of the string most similar to the current source, if it is above the similarity threshold that you have selected in this dialog. The prefix (per default empty) can be used to tag translations, done via fuzzy matches. If you add a prefix (for instance [fuzzy]), you can trace those translations later to see they are correct.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190901T160240Z" creationid="WynnChen" creationdate="20190901T160240Z">
+        <seg>OmegaT 将插入与当前原文最相似的字符串的译文，前提是相似度高于在此对话框中设置的阈值。可以使用前缀（默认为空）来标记通过模糊匹配插入的译文。如果添加了前缀（例如[模糊]），您可以稍后跟踪这些翻译检查它们是否正确。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT interfaces to SVN and Git, two common team software versioning and revision control systems (RCS), available under an open source license.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131127T100917Z" creationid="Fu Rhong" creationdate="20131127T100917Z">
@@ -33911,6 +33935,14 @@ to be launched.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T084126Z">
         <seg>OmegaT把编辑字段留空</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT leaves the editing field blank. This option allows you to enter the translation without the need to remove the source text, thus saving you two keystrokes (&lt;e0&gt;Ctrl+A &lt;/e0&gt;and &lt;e1&gt;Del). &lt;/e1&gt; Empty translations are now allowed. They are displayed as &lt;EMPTY&gt; in the Editor. To create one, right-click in a segment, and select "&lt;e2&gt;Set empty translation&lt;/e2&gt;". The entry &lt;e3&gt;Remove translation&lt;/e3&gt; in the same pop up menu also allows to delete the existing translation of the current segment. You achieve the same by clearing the target segment and pressing &lt;g4&gt;Enter.&lt;/g4&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190901T155930Z" creationid="WynnChen" creationdate="20190901T155930Z">
+        <seg>OmegaT 将把编辑字段留空。该选项允许您直接输入翻译而无需删除原文文本，因此省掉了两次按键（&lt;e0&gt;Ctrl+A&lt;/e0&gt; 和 &lt;e1&gt;Del&lt;/e1&gt;）。现在还允许译文为空。它们在编辑器中显示为&lt;空&gt;。要创建空译文，在片段中点击右键并选择“&lt;e2&gt;设置为空译文&lt;/e2&gt;”。在同一个弹出菜单中的&lt;e3&gt;移除译文&lt;/e3&gt;还可以用来删除当前片段的现有译文。通过清除译文片段并按下&lt;g4&gt;回车&lt;/g4&gt;可以实现相同的效果。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45519,8 +45551,8 @@ Please try to correct the error and reload the project.</seg>
       <tuv lang="EN">
         <seg>The check boxes in the lower half of the dialog window serve the following purpose:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131112T121124Z" creationid="Fu Rhong" creationdate="20131112T121124Z">
-        <seg>对话框下半部分的复选框实现了下列目的：</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190901T160306Z" creationid="Fu Rhong" creationdate="20131112T121124Z">
+        <seg>对话框窗口下半部分的复选框用于以下目的：</seg>
       </tuv>
     </tu>
     <tu>
@@ -57568,6 +57600,14 @@ them.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190324T041228Z" creationid="wynnc" creationdate="20190324T041108Z">
         <seg>每次启动 OmegaT 时，系统都会提示您输入此密码。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You will need to restart OmegaT for this change to take effect.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190901T155502Z" creationid="WynnChen" creationdate="20190901T155502Z">
+        <seg>你需要重新启动 OmegaT 才能使此更改生效。</seg>
       </tuv>
     </tu>
     <tu>
