@@ -12735,6 +12735,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By default, OmegaT does not execute the commands specified in the project-specific settings (the &lt;f0&gt;finder.xml&lt;/f0&gt; file in the &lt;f1&gt;omegat&lt;/f1&gt; folder), because they may have a critical impact on the machine's security.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190901T155158Z" creationid="WynnChen" creationdate="20190901T155158Z">
+        <seg>默认情况下，OmegaT 不会执行项目专有设置（&lt;f1&gt;omegat&lt;/f1&gt; 文件夹中的 &lt;f0&gt;finder.xml&lt;/f0&gt; 文件）中所指定的命令，因为它们可能会对机器的安全性产生重大影响。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By default, OmegaT uses automatic match propagation.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T115357Z" creationid="lenovo" creationdate="20180416T115357Z">
@@ -13479,6 +13487,14 @@ Exception occurred:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T153335Z" creationid="xulihang" creationdate="20180408T114308Z">
         <seg>检查标签的数量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check or uncheck the rules depending on whether they are relevant to the type of text you are translating.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190901T154859Z" creationid="WynnChen" creationdate="20190901T154859Z">
+        <seg>是否要勾选这些规则取决于它们与您要翻译的文本的类型是否相关。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18485,6 +18501,14 @@ Your help page not found</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="18261" changedate="20180413T020325Z" creationid="18261" creationdate="20180413T020207Z">
         <seg>启用外部脚本来获取OmegaT的功能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enables you to change the order of the commands in the context menu (the right-click menu). Values around 100 display commands at the top, and values around 900 display them at the bottom.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190901T155446Z" creationid="WynnChen" creationdate="20190901T155446Z">
+        <seg>使您可以更改上下文菜单（右键单击菜单）中的命令的顺序。100 左右的值会让命令显示在顶部，而 900 左右的值会它们显示在底部。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28479,8 +28503,8 @@ itself on the first run. Later calls do not need to be online.</seg>
       <tuv lang="EN">
         <seg>LanguageTool plug-in</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="18261" changedate="20180413T015829Z" creationid="18261" creationdate="20180413T015829Z">
-        <seg>语言工具插件</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190901T154425Z" creationid="18261" creationdate="20180413T015829Z">
+        <seg>LanguageTool 插件</seg>
       </tuv>
     </tu>
     <tu>
@@ -34800,6 +34824,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Only activate this option if you know what you are doing, and only for projects from trusted sources.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190901T155310Z" creationid="WynnChen" creationdate="20190901T155310Z">
+        <seg>仅当你明白自己正在做什么且仅针对来自可信来源的项目时才激活此选项。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Only if (X)HTML file has a &amp;header</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190323T062436Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -40892,6 +40924,14 @@ When using regular expressions, the replacement string supports references to gr
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120218T060630Z">
         <seg>选择最有可能包含所需数据的翻译记忆备份（例如最近的那个或从某个日子的最后版本）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the location of the language checker.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190901T154443Z" creationid="WynnChen" creationdate="20190901T154443Z">
+        <seg>选择语言检查器的位置。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54186,6 +54226,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131116T122128Z" creationid="Fu Rhong" creationdate="20131116T122128Z">
         <seg>使用Trados MultiTerm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Using a different language checker on your local machine than the one supplied with OmegaT gives you the option of personalising the verification rules.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190901T154758Z" creationid="WynnChen" creationdate="20190901T154758Z">
+        <seg>使用本地电脑上与 OmegaT 提供的语言检查器之外的语言检查器让你能够个性化验证规则。</seg>
       </tuv>
     </tu>
     <tu>
