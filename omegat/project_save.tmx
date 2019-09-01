@@ -13686,8 +13686,8 @@ Exception occurred:</seg>
       <tuv lang="EN">
         <seg>Check this option to be warned about differences between source and target segments tags each time you leave a segment.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T110457Z" creationid="Administrator" creationdate="20180411T110006Z">
-        <seg>每次离开片段的时候，选择这个选项来注意源标签和目标标签的差别.</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190901T163444Z" creationid="Administrator" creationdate="20180411T110006Z">
+        <seg>勾选此选项后，在每次离开片段时，会提醒原文和译文片段之间的标签差异。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21744,8 +21744,8 @@ authors of previous versions.</seg>
       <tuv lang="EN">
         <seg>Go To Next Untranslated Segment stops where there is at least one alternative translation</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131113T020635Z" creationid="Fu Rhong" creationdate="20131113T020124Z">
-        <seg>前进到下一个含可选译文的未译片段时停止</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190901T162800Z" creationid="Fu Rhong" creationdate="20131113T020124Z">
+        <seg>转到下一个未译片段在有可选译文的片段处也会停下</seg>
       </tuv>
     </tu>
     <tu>
@@ -24063,8 +24063,8 @@ notice like this when it starts in an interactive mode:</seg>
       <tuv lang="EN">
         <seg>If we want to avoid any mis-translations in case of segments with several possible target contents, checking this check box will cause &lt;e0&gt;Go To Next Untranslated Segment&lt;/e0&gt; to stop on the next such segment, irrespective of whether it has already been translated or not.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T085008Z" creationid="Administrator" creationdate="20180411T085008Z">
-        <seg>如果我们希望在有多个可能的目标语文本的情况下避免错译，选中此复选框 &lt;e0&gt;前进到下一个未译片段&lt;/e0&gt;将在下一个片段停止，其是否被翻译对此无影响。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190901T163013Z" creationid="Administrator" creationdate="20180411T085008Z">
+        <seg>如果我们想要避免在具有多个可能译文内容的片段上出现错译，选中此复选框会让&lt;e0&gt;转到下一个未译片段&lt;/e0&gt;在下一个此类片段处停下，无论其是否已被翻译。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45686,6 +45686,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The content of the files is overwritten either when a new segment is opened (source.txt and target.txt) or when a new selection is exported (selection.txt). The files are unformatted plain text files. The whole process can be steered and controlled via Tck/Tcl-based scripting. See &lt;u0&gt;Using the OmegaT text export function&lt;/u0&gt; for specifics, examples and suggestions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190901T162652Z" creationid="WynnChen" creationdate="20190901T162652Z">
+        <seg>文件的内容在打开新片段（source.txt 和 target.txt）或导出新的所选部分（selection.txt）时会被覆盖。这些文件是无格式的纯文本文件。整个过程可以通过基于 Tck/Tcl 的脚本来操纵控制。关于细节、示例和建议，请参阅&lt;u0&gt;使用 OmegaT 的文本导出功能&lt;/u0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The content of the script window is editable and can be copied and pasted back into the OmegaT Editor pane.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Zoe" changedate="20180412T150112Z" creationid="Zoe" creationdate="20180412T150112Z">
@@ -52893,6 +52901,14 @@ Exact searches match the whole search string.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Uncheck this option to prevent any damage on the tags (i.e., partial deletion) during editing. Removing an entire tag remains possible in that case, by using Ctrl+Backspace/Delete or by selecting it completely (Ctrl+Shift+Left/Right) then deleting it (Delete or Ctrl+X).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190901T163232Z" creationid="WynnChen" creationdate="20190901T163232Z">
+        <seg>取消勾选此选项可防止在编辑期间损坏标签（即，部分删除）。在这种情况下，依然可以通过使用 Ctrl + Backspace / Delete 或完整选择（Ctrl + Shift +左/右）标签然后删除它（Delete 或 Ctrl + X）来整个删除标签。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Uncleaned RTF</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190330T064151Z" creationid="cpeishan" creationdate="20180407T140635Z">
@@ -54448,8 +54464,8 @@ searchable without subscription:</seg>
       <tuv lang="EN">
         <seg>Validate tags when leaving a segment</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130503T160049Z">
-        <seg>离开片段时进行标签检验</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190901T163250Z">
+        <seg>离开片段时验证标签</seg>
       </tuv>
     </tu>
     <tu>
