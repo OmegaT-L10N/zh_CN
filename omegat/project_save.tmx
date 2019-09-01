@@ -11842,6 +11842,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Auto-propagation of Translations</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190901T174038Z" creationid="WynnChen" creationdate="20190901T174038Z">
+        <seg>自动传播翻译</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Auto-sync with Editor</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190322T053605Z" creationid="wynnc" creationdate="20190322T053605Z">
@@ -13263,6 +13271,14 @@ Exception occurred:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131118T035849Z" creationid="Fu Rhong" creationdate="20131118T035849Z">
         <seg>改变分割规则设置可能导致一些已经译好的片段被分拆或者合并。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Changing segmentation settings may cause some already translated segments to be split or merged. This will effectively return them to the "untranslated" status, as they will no longer match segments recorded in the project memory, even though their original translation is still there.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190901T174029Z" creationid="WynnChen" creationdate="20190901T174029Z">
+        <seg>改变分割规则设置可能导致一些已经译好的片段被分拆或者合并。这实际上会让它们回到“未译”状态，因为它们和记录在翻译记忆库中的片段不再匹配，虽然它们的原始翻译依然存在。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25546,6 +25562,14 @@ work and works based on it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In case there are non-unique segments in source documents, the Auto-propagation check box offers the user the following two possibilities as regards automatic translation: if checked, the first translated segment will be assumed as the default translation and its target text will be automatically used for later hits during the translation process. Mistranslated segments can of course be corrected later manually using &lt;g0&gt;Create Alternative Translation&lt;/g0&gt;. If the Auto-propagation check box is not checked, the segments with alternative translations are left untranslated until the user has decided which translation is to be used.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190901T174522Z" creationid="WynnChen" creationdate="20190901T174522Z">
+        <seg>如果原文文档中包含非独特片段，自动传播翻译复选框为用户提供了下面两种自动翻译的可能性：如果勾选，则第一个被翻译的片段将假定为默认翻译，其译文文本在翻译过程中会自动用于后继命中。当然，错译片段之后可以手动用&lt;g0&gt;创建可选译文&lt;/g0&gt;来纠正。如果未勾选自动传播复选框，则含有可选译文的片段会保持未译状态直到用户决定使用哪种译文。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In case translators need to share their TMX bases while excluding some of their parts or including just translations of certain files, sharing the complete &lt;f0&gt;ProjectName-omegat.tmx&lt;/f0&gt; is out of question.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Doris" changedate="20180418T142039Z" creationid="Doris" creationdate="20180418T142039Z">
@@ -25922,6 +25946,14 @@ Reopen the project now?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131118T035350Z" creationid="Fu Rhong" creationdate="20131118T035350Z">
         <seg>在一些罕见的情况下，可能优先选择其替代方案即段落级分割方式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In some seldom cases the alternative, i.e. segmenting by paragraphs, may be preferred. Changing this flag does not modify the segmentation of already existing translation memories. If you decide mid-translation to switch from sentence to paragraph translation, the internal translation memory of the project will not be changed (OmegaT may upgrade old translation memories that did not use sentence segmentation, but not vice versa), but OmegaT will attempt to create paragraph fuzzy matches by gluing together existing sentence translations.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190901T173913Z" creationid="WynnChen" creationdate="20190901T173913Z">
+        <seg>在一些少见情况下，替代方案，即按段落分割，可能会更好。更改此标志不会影响现有翻译记忆库中的片段。如果您在翻译中途决定从语句翻译切换至段落翻译，项目的内部翻译记忆库不会更改（OmegaT 可能会升级不使用语句分割的旧翻译记忆库，但反之则不然），但 OmegaT 会尝试通过组合现有的句子翻译来创建段落模糊匹配。</seg>
       </tuv>
     </tu>
     <tu>
