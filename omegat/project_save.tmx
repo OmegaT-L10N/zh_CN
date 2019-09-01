@@ -10331,6 +10331,14 @@ rights of fair use or other equivalent, as provided by copyright law.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Allow translation to be equal to source</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190901T160655Z" creationid="WynnChen" creationdate="20190901T160655Z">
+        <seg>允许译文与原文相同</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Allows the user create an entry in the default glossary file.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021248Z" creationid="Fu Rhong" creationdate="20131117T113937Z">
@@ -17514,6 +17522,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120131T132946Z">
         <seg>要翻译的文档也许包括了一些必须保持原封不动的商标、姓名或其他专有名词。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Documents for translation may contain trade marks, names or other proper nouns that will be the same in translated documents. There are two strategies for segments that contain only such invariable text.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190901T160909Z" creationid="WynnChen" creationdate="20190901T160909Z">
+        <seg>要翻译的文档也许包括了一些在译文文档中也要保持原封不动的商标、姓名或其他专有名词。对于只包含此类不可变文本的片段可以采取两种策略。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34890,8 +34906,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>Only integers and simple floats (using the period as a decimal character, e.g. 5.4, but not 5,4 or 54E-01) are considered.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131113T011935Z" creationid="Fu Rhong" creationdate="20131113T011730Z">
-        <seg>只考虑整数和简单的浮点数（使用句点作为小数点，如5.4，但不包括5,4或54E-01）。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190901T160646Z" creationid="Fu Rhong" creationdate="20131113T011730Z">
+        <seg>只考虑整数和简单的浮点数（使用句点作为小数点，如 5.4，不考虑 5,4 或 54E-01）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47097,8 +47113,8 @@ your programs, too.</seg>
       <tuv lang="EN">
         <seg>The numbers must be exactly the same between the source and the target matches.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131113T011700Z" creationid="Fu Rhong" creationdate="20131113T011700Z">
-        <seg>在源和目标匹配中的数字必须完全相同。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190901T160601Z" creationid="Fu Rhong" creationdate="20131113T011700Z">
+        <seg>数字在匹配的原文和译文中必须完全相同。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47964,8 +47980,8 @@ protocols for communication across the network.</seg>
       <tuv lang="EN">
         <seg>The source segment and the fuzzy matches must contain the same list of numbers</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131113T011520Z" creationid="Fu Rhong" creationdate="20131113T011520Z">
-        <seg>源片段和模糊匹配中必须包含相同的数字列</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190901T160511Z" creationid="Fu Rhong" creationdate="20131113T011520Z">
+        <seg>原文片段和模糊匹配中包含的数字清单必须相同</seg>
       </tuv>
     </tu>
     <tu>
@@ -48222,6 +48238,14 @@ protocols for communication across the network.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131113T012307Z">
         <seg>文本导出功能会把当前&lt;a0&gt;OmegaT&lt;/a0&gt; 项目的内容导出到纯文本文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The text export function exports data from within the current &lt;a0&gt;OmegaT&lt;/a0&gt; project to plain text files. The data are exported when the segment is opened. The files appear in the /script subfolder in the OmegaT user files folder, and include:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190901T161601Z" creationid="WynnChen" creationdate="20190901T161601Z">
+        <seg>文本导出功能会从当前 &lt;a0&gt;OmegaT&lt;/a0&gt; 项目导出数据到纯文本文件。当片段处于打开状态时其数据会被导出。文件会出现在 OmegaT 用户文件文件夹中的 /script 子文件夹中，包括有：</seg>
       </tuv>
     </tu>
     <tu>
@@ -56712,6 +56736,14 @@ from there.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120131T133024Z">
         <seg>您可以决定完全不翻译这样的片段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can decide not to translate such segments at all. OmegaT will then report these segments as not translated. This is the default. The alternative is to enter a translation that is identical to the source text. OmegaT is able to recognize that you have done this. To make this possible, select this option.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190901T161119Z" creationid="WynnChen" creationdate="20190901T161119Z">
+        <seg>您可以决定完全不翻译这类片段。OmegaT 会将这些片段报告为未译。这是默认的情况。另一种方法是输入与原文相同的译文。OmegaT 可以识别出您已经翻译过了。要允许这一点，请勾选此选项。</seg>
       </tuv>
     </tu>
     <tu>
