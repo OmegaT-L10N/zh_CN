@@ -29373,6 +29373,14 @@ later version.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>List of projects for which login details are stored in OmegaT. Remove a project from this list if you want OmegaT to ask you for a login and a password every time you access the project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190901T165419Z" creationid="WynnChen" creationdate="20190901T165419Z">
+        <seg>列出了所有在 OmegaT 中存储了登录详细信息的项目。如果您希望 OmegaT 在每次访问此项目时要求输入登录名和密码，请从此列表中删除该项目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Literally hundreds of RFEs have already been made, and many of them already implemented.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="18261" changedate="20180413T011512Z" creationid="18261" creationdate="20180413T011512Z">
@@ -32659,6 +32667,14 @@ Thus, for example, rules for Canadian French (FR-CA) should be higher than rules
       </tuv>
       <tuv lang="ZH-CN" changeid="Doris" changedate="20180419T011723Z" creationid="Doris" creationdate="20180419T011655Z">
         <seg>提示：片段不唯一时，片段标记将显示&lt;l0&gt;&lt;段nnnn + yy 更多&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note: these two instructions can be combined by writing &lt;u0&gt;(&lt;.*?&gt;)|(\d+)&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190901T164603Z" creationid="WynnChen" creationdate="20190901T164603Z">
+        <seg>注：可以通过写入 &lt;u0&gt;(&lt;.*?&gt;)|(\d+)&lt;/u0&gt; 来组合这两个指令。</seg>
       </tuv>
     </tu>
     <tu>
