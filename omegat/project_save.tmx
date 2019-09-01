@@ -190,6 +190,14 @@ License.  Each licensee is addressed as "you".  "Licensees" and
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>"\." stands for the period character. "\s" means any white space character (space, tab, new page etc.)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190901T153202Z" creationid="WynnChen" creationdate="20190901T153202Z">
+        <seg>“\.”代表句点字符。“\s”意味着任意空白字符（空格、Tab、分页符等）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>"\s" means any white space character (space, tab, new page etc.)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131121T122749Z" creationid="Fu Rhong" creationdate="20131121T122749Z">
@@ -9587,6 +9595,14 @@ included in conveying the object code work.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add the &lt;e0&gt;Before&lt;/e0&gt; and&lt;e1&gt; After&lt;/e1&gt; patterns. To check their syntax and their applicability, it is advisable to use tools which allow you to see their effect directly. See &lt;l2&gt;Regular expressions&lt;/l2&gt;. A good starting point will always be the existing rules.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190901T152843Z" creationid="WynnChen" creationdate="20190901T152805Z">
+        <seg>添加&lt;e0&gt;前模式&lt;/e0&gt;与&lt;e1&gt;后模式&lt;/e1&gt;。要检查其语法和适用性，建议使用能直接查看其效果的工具。参见&lt;l2&gt;正则表达式&lt;/l2&gt;。现有的规则永远是个良好的起点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add the argument --ITokenizer= followed by the full name of this tokenizer (by copying the entire line, inserting a space) to the end of the launch command in your OmegaT launch script file.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="10353" changedate="20180414T102901Z" creationid="10353" creationdate="20180414T102901Z">
@@ -17296,16 +17312,16 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="EN">
         <seg>Do not segment after M. Mr. Mrs. and Ms.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131121T123044Z">
-        <seg>不要对M.、Mr.、Mrs.、和Ms.之后的内容进行分割</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190901T153335Z">
+        <seg>在 M.、Mr.、Mrs.、和 Ms. 之后不要进行分割</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Do not segment after Mr.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131121T122814Z">
-        <seg>不要在Mr.后进行分割</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190901T153211Z">
+        <seg>在 Mr. 后不要进行分割</seg>
       </tuv>
     </tu>
     <tu>
@@ -32086,8 +32102,8 @@ measures.</seg>
       <tuv lang="EN">
         <seg>Note that &lt;l0&gt;after&lt;/l0&gt; is empty</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131121T122958Z">
-        <seg>注意&lt;l0&gt;后模式&lt;/l0&gt;规则是空的</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190901T153314Z">
+        <seg>注意&lt;l0&gt;后模式&lt;/l0&gt;是空的</seg>
       </tuv>
     </tu>
     <tu>
@@ -41114,8 +41130,8 @@ When using regular expressions, the replacement string supports references to gr
       <tuv lang="EN">
         <seg>Set a segment after "。" (Japanese period)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131121T122935Z">
-        <seg>在“。”（日文句点）后进行分割</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190901T153304Z">
+        <seg>在“。”（日文句号）后进行分割</seg>
       </tuv>
     </tu>
     <tu>
@@ -41130,8 +41146,8 @@ When using regular expressions, the replacement string supports references to gr
       <tuv lang="EN">
         <seg>Set the segment start after a period ('.') followed by a space, tab ...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131121T122637Z" creationid="Fu Rhong" creationdate="20131121T122359Z">
-        <seg>设置在句点（‘.’）后跟着空格、Tab等的位置后开始新片段。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190901T153027Z" creationid="Fu Rhong" creationdate="20131121T122359Z">
+        <seg>在后面跟着空格、Tab 等的句点（“.”）之后开始新片段。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49383,8 +49399,8 @@ the server.</seg>
       <tuv lang="EN">
         <seg>This an exception rule, so the rule check box must not be ticked</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131121T122839Z">
-        <seg>这是一条例外规则，因此必须取消选中规则的复选框。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190901T153234Z">
+        <seg>这是一条例外规则，因此此规则的复选框必须取消勾选。</seg>
       </tuv>
     </tu>
     <tu>
