@@ -10429,8 +10429,8 @@ rights of fair use or other equivalent, as provided by copyright law.</seg>
       <tuv lang="EN">
         <seg>Also allow per-project external commands</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130504T152636Z">
-        <seg>同时可以针对每个项目指定外部命令。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190901T171848Z">
+        <seg>同时允许每个项目自有外部命令</seg>
       </tuv>
     </tu>
     <tu>
@@ -10827,6 +10827,14 @@ the predecessor has it or can get it with reasonable efforts.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120215T123538Z">
         <seg>精确搜索查找某条短语，也就是说，如果输入了多个词汇，只有它们以相同顺序出现时才会被找出来。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An example of the use of this feature would be to send translated documents automatically to the client's FTP server.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190901T171754Z" creationid="WynnChen" creationdate="20190901T171754Z">
+        <seg>使用此功能的示例之一是自动将译文文档发送到客户的 FTP 服务器上。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12759,6 +12767,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By default, OmegaT does not execute the commands specified in the project-specific settings (the &lt;f0&gt;omegat.project&lt;/f0&gt; file), because they may have a critical impact on the machine's security.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190901T171940Z" creationid="WynnChen" creationdate="20190901T171940Z">
+        <seg>默认情况下，OmegaT 不会执行项目专有设置（&lt;f0&gt;omegat.project&lt;/f0&gt; 文件）中所指定的命令，因为它们可能会对机器的安全性产生重大影响。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By default, OmegaT uses automatic match propagation.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T115357Z" creationid="lenovo" creationdate="20180416T115357Z">
@@ -13119,6 +13135,14 @@ Exception occurred:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190901T165929Z" creationid="WynnChen" creationdate="20190901T165929Z">
         <seg>通过使用预配置变量来更改模糊匹配的显示方式：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Change the default interval (3 minutes) depending on the characteristics of the project:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190901T171529Z" creationid="WynnChen" creationdate="20190901T171529Z">
+        <seg>根据项目的特征更改默认间隔（3 分钟）：</seg>
       </tuv>
     </tu>
     <tu>
@@ -23130,6 +23154,14 @@ need not be entered.)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T155441Z" creationid="xulihang" creationdate="20180408T110052Z">
         <seg>如果 Java 是在系统级安装的且处于命令行路径中，则无需输入完整路径。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If OmegaT needs to use an authenticated proxy server to access the Internet, enter the details provided by the proxy administrator here.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190901T172417Z" creationid="WynnChen" creationdate="20190901T172417Z">
+        <seg>如果 OmegaT 需要使用要身份验证的代理服务器来访问因特网，请在此处输代理服务器管理员所提供的详细信息。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42602,6 +42634,14 @@ of the GPL, as needed to protect the freedom of users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Specify commands that are executed after the &lt;g0&gt;Create Translated Documents&lt;/g0&gt; command.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190901T171706Z" creationid="WynnChen" creationdate="20190901T171706Z">
+        <seg>指定在&lt;g0&gt;创建译文文档&lt;/g0&gt;命令之后需要执行的命令。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Specify tag handling behaviour</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -62026,6 +62066,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>long intervals for team projects hosted on external servers.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190901T171631Z" creationid="WynnChen" creationdate="20190901T171631Z">
+        <seg>对于托管在外部服务器上的团队项目使用较长的间隔。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>lowerCaseMenuItem</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T061310Z" creationid="WynnChen" creationdate="20190409T061310Z">
@@ -63679,6 +63727,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131108T070121Z" creationid="Fu Rhong" creationdate="20131108T070121Z">
         <seg>sg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>short intervals (minimum: 10 seconds) for synchronised projects on an internal server.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190901T171613Z" creationid="WynnChen" creationdate="20190901T171613Z">
+        <seg>对于内部服务器上的同步项目使用较短的间隔（最小值：10 秒）。</seg>
       </tuv>
     </tu>
     <tu>
