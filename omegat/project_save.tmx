@@ -11780,8 +11780,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>Auto-completer is launched within the target segment via &lt;e0&gt;Ctrl+Space&lt;/e0&gt; shortcut.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180418T135006Z" creationid="weiyi" creationdate="20180406T070816Z">
-        <seg>目标片段可通过快捷键 &lt;e0&gt;Ctrl+Space&lt;/e0&gt; 启动自动完成器。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190901T154006Z" creationid="weiyi" creationdate="20180406T070816Z">
+        <seg>在译文片段中可通过快捷键 &lt;e0&gt;Ctrl+空格&lt;/e0&gt;来启动自动完成器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13926,24 +13926,24 @@ Exception occurred:</seg>
       <tuv lang="EN">
         <seg>Click on &lt;g0&gt;Auto-text...&lt;/g0&gt; to configure Auto-text options and to add or remove entries.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T071053Z" creationid="weiyi" creationdate="20180406T071053Z">
-        <seg>点击&lt;g0&gt;自动文本...&lt;/g0&gt; 配置自动文本选项并添加或移除条目。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190901T153839Z" creationid="weiyi" creationdate="20180406T071053Z">
+        <seg>点击&lt;g0&gt;自动文本...&lt;/g0&gt;来配置自动文本选项以及添加或移除条目。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Click on &lt;g0&gt;Character Table...&lt;/g0&gt; to set the Character table auto-completer options.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180418T134959Z" creationid="weiyi" creationdate="20180406T071134Z">
-        <seg>点击 &lt;g0&gt;字符表...&lt;/g0&gt; 设置字符表自动完成器选项。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190901T153910Z" creationid="weiyi" creationdate="20180406T071134Z">
+        <seg>点击&lt;g0&gt;字符表...&lt;/g0&gt;来设置字符表自动完成器选项。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Click on &lt;g0&gt;Glossary...&lt;/g0&gt; to configure the Auto-completer Glossary View.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Andrew" changedate="20180414T153917Z" creationid="weiyi" creationdate="20180406T070931Z">
-        <seg>点击&lt;g0&gt;术语表...&lt;/g0&gt;设置自动完成器术语表视图。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190901T153806Z" creationid="weiyi" creationdate="20180406T070931Z">
+        <seg>点击&lt;g0&gt;词汇表...&lt;/g0&gt;来配置自动完成器词汇表视图。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19189,6 +19189,14 @@ No one hears your screams</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Exception rule - see the use of ? in regular expressions</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190901T153434Z" creationid="WynnChen" creationdate="20190901T153434Z">
+        <seg>例外规则——参见正则表达式中 ? 的用法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Exception while editing options:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -22966,8 +22974,8 @@ SUCH DAMAGES.</seg>
       <tuv lang="EN">
         <seg>If &lt;e0&gt;Show Relevant Suggestions Automatically&lt;/e0&gt; option is checked, Auto-completer is launched automatically by typing the first letter of a translated glossary entry, or by typing "&lt;" in case of tags.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180418T135010Z" creationid="weiyi" creationdate="20180406T070647Z">
-        <seg>如果&lt;e0&gt;自动显示相关建议&lt;/e0&gt;选项被选中，输入已翻译术语表中条目的首字母或输入标签的“&lt;"后自动完成器会启动。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190901T154242Z" creationid="weiyi" creationdate="20180406T070647Z">
+        <seg>如果勾选了&lt;e0&gt;自动显示相关建议&lt;/e0&gt;选项，自动完成器会在输入已翻译术语表中条目的首字母或输入标签的“&lt;”后自动启动。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33371,6 +33379,14 @@ combination as such.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180424T124148Z" creationid="Zenobia Fang" creationdate="20180424T123038Z">
         <seg>Mac OS X 上的 OmegaT 签名和未签名版都可用；他们在功能上相同，但首选签名版本，因为其是由已知开发者发布的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT has a built-in spell checker based on the &lt;l0&gt;spelling checker&lt;/l0&gt; used in Apache OpenOffice, LibreOffice, Firefox and Thunderbird. It is consequently able to use the huge range of free spelling dictionaries available for these applications.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190901T154359Z" creationid="WynnChen" creationdate="20190901T154359Z">
+        <seg>OmegaT 有一个内置的拼写检查器，它基于 Apache OpenOffice、LibreOffice、Firefox 和 Thunderbird 中使用的&lt;l0&gt;拼写检查器&lt;/l0&gt;。因此，它可以使用大量可用于这些程序的免费拼写词典。</seg>
       </tuv>
     </tu>
     <tu>
