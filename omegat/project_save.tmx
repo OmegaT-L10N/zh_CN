@@ -12727,6 +12727,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By default the editor displays 2,000 of initial segments, and progressively loads more as you scroll up or down. If you have a powerful machine, and/or if you don't like how the scrollbar behaves during progressive loading, you can increase this number.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190901T164020Z" creationid="WynnChen" creationdate="20190901T164020Z">
+        <seg>默认情况下，编辑器一开始会显示 2,000 个片段，并在上下滚动时渐进式地加载更多片段。如果您的机器很强力，并且/或者如果您不喜欢渐进式加载过程中滚动条的行为，可以提高此数字。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By default, 512 MB are assigned, so there is no advantage in assigning less than this figure.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131116T131435Z" creationid="Fu Rhong" creationdate="20131116T131435Z">
@@ -13694,8 +13702,8 @@ Exception occurred:</seg>
       <tuv lang="EN">
         <seg>Check this option to record in the &lt;f0&gt;project_save.tmx&lt;/f0&gt; file the information that a segment has been auto-populated, so it can be displayed with a specific color in the Editor (if the "Mark Auto-Populated Segments" option, in the View menu, is checked).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T111207Z" creationid="Administrator" creationdate="20180411T111207Z">
-        <seg>选择此选项来记录在 &lt;f0&gt;project_save.tmx&lt;/f0&gt;文件中自动填充片段的信息，故而其可在编辑器中用特定的颜色列出（如果在视图菜单中已选中“标记自动填充片段”选项）</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190901T163716Z" creationid="Administrator" creationdate="20180411T111207Z">
+        <seg>勾选此选项可在 &lt;f0&gt;project_save.tmx&lt;/f0&gt;文件中记录片段已被自动填充的信息，这样在编辑器中就可以用特定的颜色显示出来（如果在视图菜单中已勾选“标记自动填充片段”选项）</seg>
       </tuv>
     </tu>
     <tu>
@@ -20567,6 +20575,14 @@ know their rights.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For example, if you enter &lt;u0&gt;\d+&lt;/u0&gt; into the &lt;g1&gt;Regular expression for custom tags&lt;/g1&gt; field, all numbers will be considered as tags, enabling you to check that numbers have not been changed by mistake during translation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190901T164349Z" creationid="WynnChen" creationdate="20190901T164349Z">
+        <seg>例如，如果你在&lt;g1&gt;表示自定义标签的正则表达式&lt;/g1&gt;字段中输入了 &lt;u0&gt;\d+&lt;/u0&gt;，所有数字都会被视为标签，让你可以检查确认数字在翻译过程中未被错误地更改。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For example, if you have an outdated Microsoft Word version, that does not handle the ODT format, here's a round trip for Word files with the DOC extension:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120202T123649Z">
@@ -26414,8 +26430,8 @@ everything.</seg>
       <tuv lang="EN">
         <seg>Initially load this many segments</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T111545Z" creationid="Administrator" creationdate="20180411T111239Z">
-        <seg>初始加载多片段</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190901T163730Z" creationid="Administrator" creationdate="20180411T111239Z">
+        <seg>初始载入片段数量</seg>
       </tuv>
     </tu>
     <tu>
@@ -39574,8 +39590,8 @@ These words: 'Page not found'</seg>
       <tuv lang="EN">
         <seg>Save auto-populated status</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T111815Z" creationid="Administrator" creationdate="20180411T111815Z">
-        <seg>保持自动填充状态</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190901T163452Z" creationid="Administrator" creationdate="20180411T111815Z">
+        <seg>保存自动填充状态</seg>
       </tuv>
     </tu>
     <tu>
@@ -41580,6 +41596,14 @@ When using regular expressions, the replacement string supports references to gr
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131111T112222Z" creationid="Fu Rhong" creationdate="20131111T112222Z">
         <seg>与OmegaT项目类似，对于不同的语言对您需要使用各自的版本库。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Similarly, enter &lt;u0&gt;&lt;.*?&gt;&lt;/u0&gt; to make sure that HTML tags (for example) entered into the source text are preserved without modification in the translation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190901T164512Z" creationid="WynnChen" creationdate="20190901T164512Z">
+        <seg>类似地，输入 &lt;u0&gt;&lt;.*?&gt;&lt;/u0&gt; 可以确保原文文本中的 HTML 标记（例）在翻译过程中维持原封不动。</seg>
       </tuv>
     </tu>
     <tu>
@@ -55276,6 +55300,14 @@ trouble of selecting, obtaining and installing it.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120202T132301Z">
         <seg>如需在自右向左和自左向右之间进行翻译工作，为从源文件中正确读取标签以及在目标中正确输入，有可能需要在自左向右和自右向左模式之间来回切换多次。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When translating software-related files, you can configure the Tag Validator options to also check programming (%...) variables. You can also define various options relating to tag validation and define custom tags.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190901T164218Z" creationid="WynnChen" creationdate="20190901T164218Z">
+        <seg>当翻译软件相关的文件时，可以配置标签检验器选项来检查编程（%...）变量。您还可以定义与标签验证相关的各种选项并定义自定义标签。</seg>
       </tuv>
     </tu>
     <tu>
