@@ -45696,16 +45696,16 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The content of the segment source text (&lt;f0&gt;source.txt&lt;/f0&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120131T133817Z">
-        <seg>当前片段原文内容（&lt;f0&gt;source.txt&lt;/f0&gt;）。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190901T161657Z">
+        <seg>当前片段的原文内容（&lt;f0&gt;source.txt&lt;/f0&gt;）。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>The content of the segment target text (&lt;f0&gt;target.txt&lt;/f0&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120131T133840Z">
-        <seg>当前片段译文内容（&lt;f0&gt;target.txt&lt;/f0&gt;）。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190901T162226Z">
+        <seg>当前片段的译文内容（&lt;f0&gt;target.txt&lt;/f0&gt;）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48244,8 +48244,8 @@ protocols for communication across the network.</seg>
       <tuv lang="EN">
         <seg>The text export function exports data from within the current &lt;a0&gt;OmegaT&lt;/a0&gt; project to plain text files. The data are exported when the segment is opened. The files appear in the /script subfolder in the OmegaT user files folder, and include:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190901T161601Z" creationid="WynnChen" creationdate="20190901T161601Z">
-        <seg>文本导出功能会从当前 &lt;a0&gt;OmegaT&lt;/a0&gt; 项目导出数据到纯文本文件。当片段处于打开状态时其数据会被导出。文件会出现在 OmegaT 用户文件文件夹中的 /script 子文件夹中，包括有：</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190901T161648Z" creationid="WynnChen" creationdate="20190901T161601Z">
+        <seg>文本导出功能会从当前 &lt;a0&gt;OmegaT&lt;/a0&gt; 项目导出数据到纯文本文件。当打开片段时其数据会被导出。文件会出现在 OmegaT 用户文件文件夹中的 /script 子文件夹中，包括有：</seg>
       </tuv>
     </tu>
     <tu>
@@ -48260,8 +48260,8 @@ protocols for communication across the network.</seg>
       <tuv lang="EN">
         <seg>The text highlighted by the user, when &lt;k0&gt;Ctrl+Shift+C&lt;/k0&gt; is pressed or &lt;g1&gt;Edit &gt; Export Selection&lt;/g1&gt; is selected (&lt;f2&gt;selection.txt&lt;/f2&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131113T015613Z" creationid="Fu Rhong" creationdate="20131113T012730Z">
-        <seg>在用户按下了 &lt;k0&gt;Ctrl+Shift+C&lt;/k0&gt; 或选择了&lt;g1&gt;编辑 &gt;导出选中部分&lt;/g1&gt;的时候选择的文本（&lt;f2&gt;selection.txt&lt;/f2&gt;）。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190901T162421Z" creationid="Fu Rhong" creationdate="20131113T012730Z">
+        <seg>用户按下 &lt;k0&gt;Ctrl+Shift+C&lt;/k0&gt; 或选择了&lt;g1&gt;编辑 &gt;导出所选部分&lt;/g1&gt;的时候被高亮选定的文本（&lt;f2&gt;selection.txt&lt;/f2&gt;）。</seg>
       </tuv>
     </tu>
     <tu>
