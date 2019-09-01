@@ -368,8 +368,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>${fuzzyFlag}</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Doris" changedate="20180419T015247Z" creationid="Fu Rhong" creationdate="20131127T130623Z">
-        <seg>字符串：${fuzzyFlag}</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190901T170921Z" creationid="Fu Rhong" creationdate="20131127T130623Z">
+        <seg>${fuzzyFlag}</seg>
       </tuv>
     </tu>
     <tu>
@@ -10357,8 +10357,8 @@ rights of fair use or other equivalent, as provided by copyright law.</seg>
       <tuv lang="EN">
         <seg>Allows the user select the interval - in minutes and seconds - between consecutive automatic saves of the project.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131118T023903Z" creationid="Administrator" creationdate="20131118T022911Z">
-        <seg>用户可选择自动保存项目的间隔（分钟数和秒数）。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190901T171456Z" creationid="Administrator" creationdate="20131118T022911Z">
+        <seg>允许用户选择自动保存项目的间隔——以分钟和秒为单位。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13716,6 +13716,14 @@ Exception occurred:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check this option to display all non-unique segments (repetitions) in grey. When the option is unchecked, all non-unique segments are shown in grey except the first occurrence.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190901T171330Z" creationid="WynnChen" creationdate="20190901T171330Z">
+        <seg>勾选此选项可以用灰度显示所有非独特片段（重复）。取消勾选此选项后，除了首次出现外的所有非独特片段都会以灰度显示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check this option to record in the &lt;f0&gt;project_save.tmx&lt;/f0&gt; file the information that a segment has been auto-populated, so it can be displayed with a specific color in the Editor (if the "Mark Auto-Populated Segments" option, in the View menu, is checked).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190901T163716Z" creationid="Administrator" creationdate="20180411T111207Z">
@@ -14764,8 +14772,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="EN">
         <seg>Contains options for displaying texts and modification information in different ways.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Kaname Madokami☆!" changedate="20180414T160433Z" creationid="weiyi" creationdate="20180406T064129Z">
-        <seg>包含多种显示文本和修改信息方式的设置。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190901T171119Z" creationid="weiyi" creationdate="20180406T064129Z">
+        <seg>包含以不同方式显示文本和修订信息的选项。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26337,6 +26345,14 @@ patent against the party.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Include the first non-unique segment when marking non-unique segments</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190901T171136Z" creationid="WynnChen" creationdate="20190901T171136Z">
+        <seg>标记非独特片段时包含首个非独特片段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Incompatibilities</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131108T113251Z" creationid="Fu Rhong" creationdate="20131108T113251Z">
@@ -26355,8 +26371,8 @@ patent against the party.</seg>
       <tuv lang="EN">
         <seg>Indicate that this match is fuzzy (currently only for translations from PO files with the #fuzzy mark)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131127T130811Z" creationid="Fu Rhong" creationdate="20131127T130811Z">
-        <seg>表示该匹配为模糊匹配（当前仅用于来自PO文件中带#fuzzy标志的翻译）</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190901T171010Z" creationid="Fu Rhong" creationdate="20131127T130811Z">
+        <seg>表示该匹配为模糊匹配（目前仅适用于来自带 #fuzzy 标记的 PO 文件的翻译）</seg>
       </tuv>
     </tu>
     <tu>
@@ -36040,6 +36056,22 @@ Vanishing like mist</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131127T130445Z" creationid="Fu Rhong" creationdate="20131127T130445Z">
         <seg>校准的百分率</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Percentage calculated with &lt;g0&gt;Full text, including tags and numbers&lt;/g0&gt; option.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190901T170918Z" creationid="WynnChen" creationdate="20190901T170918Z">
+        <seg>使用&lt;g0&gt;全文，包括标签和数字&lt;/g0&gt;选项计算得到的百分比。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Percentage calculated with &lt;g0&gt;No tags and no numbers&lt;/g0&gt; option.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190901T170437Z" creationid="WynnChen" creationdate="20190901T170437Z">
+        <seg>使用&lt;g0&gt;不考虑标签和数字&lt;/g0&gt;选项计算得到的百分比。</seg>
       </tuv>
     </tu>
     <tu>
