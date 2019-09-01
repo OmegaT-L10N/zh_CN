@@ -18529,6 +18529,14 @@ Your help page not found</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enable Sentence-level segmentation</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190901T173336Z" creationid="WynnChen" creationdate="20190901T173336Z">
+        <seg>启用语句级别分割</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enable history &amp;prediction</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190320T105933Z" creationid="wynnc" creationdate="20190320T105933Z">
@@ -18573,6 +18581,14 @@ Your help page not found</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T095358Z" creationid="chloechao" creationdate="20180412T095358Z">
         <seg>可对一定格式文件进行转换，进而使用OmegaT进行翻译。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enables automatic notification of &lt;a0&gt;OmegaT&lt;/a0&gt; updates.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190901T172721Z" creationid="WynnChen" creationdate="20190901T172721Z">
+        <seg>启用 &lt;a0&gt;OmegaT&lt;/a0&gt; 更新的自动通知。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21637,6 +21653,14 @@ authors of previous versions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Gives access to the list of plugins available. Plugins are installed in the &lt;f0&gt;/plugins&lt;/f0&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190901T172652Z" creationid="WynnChen" creationdate="20190901T172652Z">
+        <seg>可以访问可用插件列表。插件安装在 &lt;f0&gt;/plugins&lt;/f0&gt; 文件夹中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Gives access to the project folders.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Andrew" changedate="20180413T123739Z" creationid="weiyi" creationdate="20180406T072753Z">
@@ -22364,6 +22388,14 @@ Its winter has come</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131118T024714Z" creationid="Fu Rhong" creationdate="20131118T024714Z">
         <seg>这是一个正则表达式的例子：&lt;f1&gt;test\.html&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Here you can redefine the master password used to protect login details and access keys for machine translation services. Take care to make a note of all these details before creating a new password, because they will all be deleted and will need to be re-entered.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190901T172601Z" creationid="WynnChen" creationdate="20190901T172601Z">
+        <seg>您可以在此处重新定义用于保护登录详细信息和机器翻译服务访问密钥的主密码。在创建新密码之前，请务必记下所有这些详细信息，因为它们都将被删除，需要重新输入。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23160,8 +23192,8 @@ need not be entered.)</seg>
       <tuv lang="EN">
         <seg>If OmegaT needs to use an authenticated proxy server to access the Internet, enter the details provided by the proxy administrator here.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190901T172417Z" creationid="WynnChen" creationdate="20190901T172417Z">
-        <seg>如果 OmegaT 需要使用要身份验证的代理服务器来访问因特网，请在此处输代理服务器管理员所提供的详细信息。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190901T172425Z" creationid="WynnChen" creationdate="20190901T172417Z">
+        <seg>如果 OmegaT 需要使用要身份验证的代理服务器来访问因特网，请在此处输入代理服务器管理员所提供的详细信息。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37312,8 +37344,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Project Properties</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190801T154552Z" creationid="WynnChen" creationdate="20190801T154552Z">
-        <seg>Project Properties</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190901T172818Z" creationid="WynnChen" creationdate="20190801T154552Z">
+        <seg>项目属性</seg>
       </tuv>
     </tu>
     <tu>
@@ -40315,6 +40347,14 @@ When using regular expressions, the replacement string supports references to gr
         <seg>Secure Store</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190324T043314Z" creationid="wynnc" creationdate="20190324T043314Z">
+        <seg>安全存储</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Secure store</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190901T172440Z" creationid="WynnChen" creationdate="20190901T172420Z">
         <seg>安全存储</seg>
       </tuv>
     </tu>
@@ -47994,6 +48034,14 @@ protocols for communication across the network.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The segmentation settings only address the way the source files are handled by &lt;a0&gt;OmegaT&lt;/a0&gt;. The predominant way of segmenting the sources is the sentence-level segmenting, so this check box should in a normal case be left checked.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190901T173505Z" creationid="WynnChen" creationdate="20190901T173505Z">
+        <seg>分割规则设置只影响 &lt;a0&gt;OmegaT&lt;/a0&gt; 处理原文文件的方式。语句级分割是分割原文的主要方式，所以正常情况下应该选中该复选框。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The segments are displayed in order of appearance in the project.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
@@ -49857,6 +49905,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190708T103047Z" creationid="WynnChen" creationdate="20190708T103047Z">
         <seg>此对话框可通过选择&lt;m0&gt; &lt;g1&gt;选项&lt;/g1&gt; &lt;g2&gt;首选项...&lt;/g2&gt; &lt;/m0&gt;来进入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This dialog is accessible by selecting &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Properties...&lt;/g2&gt; &lt;/m0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190901T173003Z" creationid="WynnChen" creationdate="20190901T173003Z">
+        <seg>此对话框可以通过选择&lt;m0&gt; &lt;g1&gt;项目&lt;/g1&gt; &lt;g2&gt;属性...&lt;/g2&gt; &lt;/m0&gt;来进入</seg>
       </tuv>
     </tu>
     <tu>
@@ -51989,6 +52045,14 @@ install.sh.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190410T154609Z" creationid="WynnChen" creationdate="20190410T154609Z">
         <seg>OmegaT 中已包含分词器并默认开启。OmegaT 根据项目的语言设置自动为原文语种和目标语种选择分词器。可以在“项目属性”窗口中选择另一个分词器（语言分词器）或分词器的不同版本（分词器行为）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tokenizers corresponding to the selected languages are displayed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190901T173259Z" creationid="WynnChen" creationdate="20190901T173259Z">
+        <seg>会显示所选语言所对应的分词器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56976,6 +57040,14 @@ from there.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131118T034511Z" creationid="Fu Rhong" creationdate="20131118T034511Z">
         <seg>您可以手动输入语种或者通过下拉菜单选择。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can either enter the source and target languages by hand or use the drop down menus. Bear in mind that changing the languages may render the currently used translation memories useless since their language pair may not longer match the new languages.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190901T173144Z" creationid="WynnChen" creationdate="20190901T173144Z">
+        <seg>您可以手动输入或者通过下拉菜单选择原文与译文语言。请记住：更改语言可能会导致当前使用的翻译记忆库变得无用，因为其语言对可能与新语言不匹配。</seg>
       </tuv>
     </tu>
     <tu>
