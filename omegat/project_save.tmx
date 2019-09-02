@@ -15520,8 +15520,8 @@ unpacking, reading or copying.</seg>
       <tuv lang="EN">
         <seg>Create a folder (a "repository folder") in a convenient location on your hard drive for the translation memories for a particular customer or subject.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120127T074839Z">
-        <seg>在硬盘上某个习惯的位置创建一个文件夹（“仓库文件夹”）以保存某个客户或者主题的翻译记忆。</seg>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T073853Z">
+        <seg>在硬盘上方便的位置为特定客户或者主题的翻译记忆库创建一个文件夹（“仓库文件夹”）。</seg>
       </tuv>
     </tu>
     <tu>
