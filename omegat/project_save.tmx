@@ -34444,6 +34444,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT supports imported tmx versions 1.1-1.4b (both level 1 and level 2). This enables the translation memories produced by other tools to be read by OmegaT. However, OmegaT does not fully support imported level 2 tmx files (these store not only the translation, but also the formatting). Level 2 tmx files will still be imported and their textual content can be seen in OmegaT, but the quality of fuzzy matches will be somewhat lower.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T074944Z" creationid="wynnc" creationdate="20190902T074944Z">
+        <seg>OmegaT 支持导入 tmx 版本 1.1-1.4b（级别 1 和级别 2 都可）。这使得OmegaT 可以读取其他工具生成的翻译记忆库。但是，OmegaT 并不完全支持导入级别 2 的 tmx 文件（不仅存储翻译，还存储格式）。级别 2 的 tmx 文件依然会被导入，在 OmegaT 中能看到其文本内容，但模糊匹配的质量会有所下降。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT supports language codes in the format "xx", "XX", "xx-YY" and "XX-YY", where xx or XX is the language, yy or YY the region.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T110955Z" creationid="Wyndy" creationdate="20180418T110955Z">
