@@ -50157,6 +50157,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This can also be done within OmegaT:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T091702Z" creationid="wynnc" creationdate="20190902T091638Z">
+        <seg>这也可以在 OmegaT 中完成：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This can be achieved (for Déjà Vu DVX) by use of Déjà Vu's "External View" file format.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T120605Z" creationid="lenovo" creationdate="20180416T120605Z">
@@ -51509,6 +51517,14 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To &lt;e0&gt;delete files&lt;/e0&gt;, use an SVN or Git client. These files won't be deleted automatically on the translator's side: you must ask them to delete the files manually.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T091949Z" creationid="wynnc" creationdate="20190902T091949Z">
+        <seg>要&lt;e0&gt;删除文件&lt;/e0&gt;，请使用 SVN 或 Git 客户端。这些文件在译者侧不会自动删除：你必须让他们手工删除文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To access &lt;a0&gt;&lt;e1&gt;Configuration.properties&lt;/e1&gt;&lt;/a0&gt;, right-click on &lt;e2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt;.app&lt;/e2&gt; and select "Show Package Contents", then open the file in Contents/Resources by right-clicking on it and selecting your text editor of choice.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="17012" changedate="20180405T103207Z" creationid="17012" creationdate="20180405T103027Z">
@@ -51553,6 +51569,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131115T001356Z" creationid="Fu Rhong" creationdate="20131115T001149Z">
         <seg>要添加内容到其中，请选择&lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;D&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt;&lt;g5&gt;项目&lt;/g5&gt; &lt;g6&gt;创建已译文档&lt;/g6&gt; &lt;/m0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To add other resources (dictionaries, TMXs or glossaries), use an SVN or Git client.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T091812Z" creationid="wynnc" creationdate="20190902T091812Z">
+        <seg>要添加其他资源（词典、TMX、或词汇表），请使用 SVN 或 Git 客户端。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54346,8 +54370,8 @@ Commands:
       <tuv lang="EN">
         <seg>Use an SVN or Git client to add the files to translate.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T091637Z" creationid="wynnc" creationdate="20190902T091637Z">
-        <seg>用 SVN 或 Git 客户端来添加要翻译的文件</seg>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T091653Z" creationid="wynnc" creationdate="20190902T091637Z">
+        <seg>使用 SVN 或 Git 客户端添加要翻译的文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -59816,6 +59840,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>copy the files to the &lt;f0&gt;/source&lt;/f0&gt; folder</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T091714Z" creationid="wynnc" creationdate="20190902T091714Z">
+        <seg>将文件复制到 &lt;f0&gt;/source&lt;/f0&gt; 目录中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>cor</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131107T142716Z" creationid="Fu Rhong" creationdate="20131107T142716Z">
@@ -65248,6 +65280,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131108T101748Z" creationid="Fu Rhong" creationdate="20131108T101748Z">
         <seg>urd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>use &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Commit Source Files&lt;/g2&gt; &lt;/m0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T091735Z" creationid="wynnc" creationdate="20190902T091735Z">
+        <seg>使用 &lt;m0&gt; &lt;g1&gt;项目&lt;/g1&gt; &lt;g2&gt;提交原文文件&lt;/g2&gt; &lt;/m0&gt;</seg>
       </tuv>
     </tu>
     <tu>
