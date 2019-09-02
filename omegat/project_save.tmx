@@ -33711,6 +33711,14 @@ combination as such.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT follows very strict procedures when loading translation memory (tmx) files. If an error is found in such a file, OmegaT will indicate the position within the defective file at which the error is located.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T075544Z" creationid="wynnc" creationdate="20190902T075544Z">
+        <seg>在加载翻译记忆库（tmx）文件时，OmegaT 遵循非常严格的流程。如果在这类文件中发现错误，OmegaT 将指示错误在问题文件中的位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT for Beginners tutorial</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190327T174059Z" creationid="cpeishan" creationdate="20180407T134651Z">
