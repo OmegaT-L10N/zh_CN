@@ -33695,6 +33695,14 @@ combination as such.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT exports version 1.4 TMX files (both level 1 and level 2). The level 2 export is not fully compliant with the level 2 standard, but is sufficiently close and will generate correct matches in other translation memory tools supporting TMX Level 2. If you only need textual information (and not formatting information), use the level 1 file that OmegaT has created.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T080206Z" creationid="wynnc" creationdate="20190902T080206Z">
+        <seg>OmegaT 导出版本 1.4 的 TMX 文件（级别 1 和级别 2 均有）。级别 2 的导出不完全符合级别 2 标准高，但已足够接近并且在其他支持 TMX 级别 2 的翻译记忆工具中会生成正确的匹配。如果你只需要文本信息（而非格式化信息），请使用 OmegaT 创建的级别 1 文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT features highly customizable filters, enabling you to configure numerous aspects.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T111959Z">
