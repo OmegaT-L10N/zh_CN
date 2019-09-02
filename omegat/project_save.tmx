@@ -31839,6 +31839,22 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Name of the local folder or file, relative to the root of the OmegaT project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T095126Z" creationid="wynnc" creationdate="20190902T095126Z">
+        <seg>本地文件夹或文件的名称，相对于 OmegaT 项目的根文件夹。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Name of the remote folder or file, relative to the repository url.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T095150Z" creationid="wynnc" creationdate="20190902T095150Z">
+        <seg>远程文件夹或文件的名称，相对于存储库网址。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Name the image NewImage.png</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180417T025135Z" creationid="lenovo" creationdate="20180417T025135Z">
@@ -38806,6 +38822,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190320T180653Z" creationid="wynnc" creationdate="20190320T180653Z">
         <seg>删除存储库</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remote location of the files to translate.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T095054Z" creationid="wynnc" creationdate="20190902T095054Z">
+        <seg>要翻译的文件的远程位置</seg>
       </tuv>
     </tu>
     <tu>
@@ -50317,6 +50341,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This can be either http (which includes https), svn or git.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T095036Z" creationid="wynnc" creationdate="20190902T095036Z">
+        <seg>这可以是 http（包括 https）、svn 或 git。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This can easily be restored again in the future.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180415T142330Z" creationid="lenovo" creationdate="20180415T131930Z">
@@ -60678,6 +60710,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>excludes</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T095237Z" creationid="wynnc" creationdate="20190902T095237Z">
+        <seg>排除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>extensions:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190323T124037Z" creationid="wynnc" creationdate="20190323T123956Z">
@@ -62938,6 +62978,22 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>mapping local</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T095059Z" creationid="wynnc" creationdate="20190902T095059Z">
+        <seg>映射本地</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>mapping repository</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T095130Z" creationid="wynnc" creationdate="20190902T095130Z">
+        <seg>映射存储库</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>mar</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131108T030310Z" creationid="Fu Rhong" creationdate="20131108T030310Z">
@@ -64236,8 +64292,16 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>repository type</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T095013Z" creationid="wynnc" creationdate="20190902T095013Z">
-        <seg>存储库类型</seg>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T095255Z" creationid="wynnc" creationdate="20190902T095013Z">
+        <seg>存储库类型（repository type）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>repository url</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T095259Z" creationid="wynnc" creationdate="20190902T095040Z">
+        <seg>存储库网址（repository url）</seg>
       </tuv>
     </tu>
     <tu>
