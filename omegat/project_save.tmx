@@ -5353,6 +5353,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Yes: &lt;/e0&gt;download &lt;f1&gt;OmegaT_4.n.n_Windows_without_JRE.exe&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T103259Z" creationid="wynnc" creationdate="20190902T103259Z">
+        <seg>&lt;e0&gt;是：&lt;/e0&gt;下载 &lt;f1&gt;OmegaT_4.n.n_Windows_without_JRE.exe&lt;/f1&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;add the copied files to the local version of the repository:&lt;/e0&gt; right-click on the local checkout folder and select &lt;g1&gt;TortoiseSVN &gt; Add.&lt;/g1&gt; In the dialog that opens, leave all options as per default and click&lt;g2&gt; OK&lt;/g2&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131111T125745Z" creationid="Fu Rhong" creationdate="20131111T123658Z">
@@ -17319,6 +17327,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Disconnect from the network before opening the project,</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T103058Z" creationid="wynnc" creationdate="20190902T103058Z">
+        <seg>在打开项目前断开网络连接，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Displa&amp;y source terms</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190323T151448Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -17756,6 +17772,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131116T122238Z" creationid="Fu Rhong" creationdate="20131116T122136Z">
         <seg>安装了与Oracle的Java 1.6 JRE兼容的Java实现了吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Do you have a Java implementation compatible with Oracle's Java 8 JRE?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T103241Z" creationid="wynnc" creationdate="20190902T103241Z">
+        <seg>是否有与 Oracle 的 Java 8 JRE 相兼容的 Java 实现?</seg>
       </tuv>
     </tu>
     <tu>
@@ -52891,6 +52915,14 @@ install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To work offline:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T103038Z" creationid="wynnc" creationdate="20190902T103038Z">
+        <seg>要离线工作：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Toggle Selected</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190324T030236Z" creationid="wynnc" creationdate="20190324T030236Z">
@@ -64184,6 +64216,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T050507Z" creationid="WynnChen" creationdate="20190405T050507Z">
         <seg>or</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>or open the project with the command line using the &lt;c0&gt;--no-team&lt;/c0&gt; option.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T103129Z" creationid="wynnc" creationdate="20190902T103100Z">
+        <seg>或者用命令行使用 &lt;c0&gt;--no-team&lt;/c0&gt; 选项来打开项目。</seg>
       </tuv>
     </tu>
     <tu>
