@@ -15124,8 +15124,8 @@ makes it unnecessary.</seg>
       <tuv lang="EN">
         <seg>Copy the documents, you need the translation memory for, into the source folder of the project.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131127T094753Z" creationid="Fu Rhong" creationdate="20131127T094753Z">
-        <seg>复制您希望获取翻译记忆的源文档到项目的源文件夹。</seg>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T080734Z" creationid="Fu Rhong" creationdate="20131127T094753Z">
+        <seg>将需要翻译记忆的原文文档复制到项目的原文文件夹中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15148,8 +15148,8 @@ makes it unnecessary.</seg>
       <tuv lang="EN">
         <seg>Copy the translation memories, containing the translations of the documents above, into &lt;f0&gt;tm/auto&lt;/f0&gt; subfolder of the new project.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131127T094844Z" creationid="Fu Rhong" creationdate="20131127T094844Z">
-        <seg>复制包含上述源文档翻译的翻译记忆到新项目的&lt;f0&gt;tm/auto&lt;/f0&gt;子文件夹。</seg>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T081306Z" creationid="Fu Rhong" creationdate="20131127T094844Z">
+        <seg>复制包含上述文档的翻译的翻译记忆库到新项目的 &lt;f0&gt;tm/auto&lt;/f0&gt; 子文件夹中。</seg>
       </tuv>
     </tu>
     <tu>
