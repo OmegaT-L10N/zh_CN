@@ -24221,6 +24221,14 @@ notice like this when it starts in an interactive mode:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If there are any differences, check that the &lt;f0&gt;filters.xml&lt;/f0&gt; and &lt;f1&gt;segmentation.conf&lt;/f1&gt; files are under version control.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T094246Z" creationid="wynnc" creationdate="20190902T094246Z">
+        <seg>如果有所不同，请检查 &lt;f0&gt;filters.xml&lt;/f0&gt; 和 &lt;f1&gt;segmentation.conf&lt;/f1&gt; 文件是否受版本控制。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If there are other files named test.html in other folders, they will be ignored.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T003432Z" creationid="Fu Rhong" creationdate="20131117T003208Z">
@@ -43034,6 +43042,14 @@ of the GPL, as needed to protect the freedom of users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Special case: minimal sharing</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T094546Z" creationid="wynnc" creationdate="20190902T094546Z">
+        <seg>特殊情况：最小化共享</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Specific behavior can be set up in the file filters.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120202T114458Z">
@@ -45727,6 +45743,14 @@ software and other kinds of works.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120219T115940Z">
         <seg>项目文件窗口显示所有的项目文件和其他项目的信息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Project Manager should check with the translator that the statistics are identical on both sides (server side and translator side).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T094203Z" creationid="wynnc" creationdate="20190902T094203Z">
+        <seg>项目经理应当与译者核实确认两头（服务器侧与译者侧）的统计数据是一致的。</seg>
       </tuv>
     </tu>
     <tu>
