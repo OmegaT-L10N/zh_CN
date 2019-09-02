@@ -48410,6 +48410,14 @@ protocols for communication across the network.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The solution in our example is to copy the existing translation memory into the tm/tmx2source/ subfolder and rename it to ZH_CN.tmx to indicate the target language of the tmx. The translator will be shown English translations for source segments in Dutch and use them to create the Chinese translation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T083606Z" creationid="wynnc" creationdate="20190902T083606Z">
+        <seg>在这个例子中，解决方案是将已有的翻译记忆库复制到 tm/tmx2source/ 子文件夹中并将其重命名为 ZH_CN.tmx 来指示此 tmx 的译文语言。这样荷兰语的原文片段会以英文翻译的形式显示给译者，译者就能用它们来创建中文翻译。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The source file language entered is invalid!</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190320T181053Z" creationid="wynnc" creationdate="20190320T181053Z">
