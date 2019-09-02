@@ -15520,7 +15520,7 @@ unpacking, reading or copying.</seg>
       <tuv lang="EN">
         <seg>Create a folder (a "repository folder") in a convenient location on your hard drive for the translation memories for a particular customer or subject.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T073853Z">
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T073950Z">
         <seg>在硬盘上方便的位置为特定客户或者主题的翻译记忆库创建一个文件夹（“仓库文件夹”）。</seg>
       </tuv>
     </tu>
@@ -32456,6 +32456,14 @@ measures.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120218T065332Z">
         <seg>注意在程序启动时，/tm 仓库中的所有 TMX 文件将会被解析，因此将手头所有的 TMX 文件导入将会不必要地减慢 OmegaT 的运行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note that all the tmx files in the /tm repository are parsed when the project is opened, so putting all different TMs you may have on hand into this folder may unnecessarily slow OmegaT down. You may even consider removing those that are not required any more, once you have used their contents to fill up the &lt;f0&gt;project-save.tmx&lt;/f0&gt; file.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T074519Z" creationid="wynnc" creationdate="20190902T074519Z">
+        <seg>请注意，在打开项目时会解析 /tm 仓库中的所有 tmx 文件，因此将手头各种翻译记忆库全放进此文件夹可能会不必要地拖慢 OmegaT。一旦已经用其内容填充了 &lt;f0&gt;project-save.tmx&lt;/f0&gt; 文件后，你甚至可以考虑删除那些不再需要的文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -55821,8 +55829,8 @@ free programs, and that you know you can do these things.</seg>
       <tuv lang="EN">
         <seg>When you begin a new project on the same subject or for the same customer, navigate to the repository folder in the &lt;g0&gt;Project &gt; Properties &gt; Edit Project dialog&lt;/g0&gt; and select it as the translation memory folder.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120218T065243Z">
-        <seg>当您为同一主题或者客户启动一个新项目时，在&lt;g0&gt;项目 &gt; 属性 &gt; 编辑项目&lt;/g0&gt;对话框找到该仓库文件夹，将其选中为翻译记忆文件夹。</seg>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T074120Z">
+        <seg>当您为同一主题或者同一客户开始新项目时，在&lt;g0&gt;项目 &gt; 属性 &gt; 编辑项目&lt;/g0&gt;对话框内转到该仓库文件夹，将其选作翻译记忆库文件夹。</seg>
       </tuv>
     </tu>
     <tu>
@@ -55980,8 +55988,8 @@ technological measures.</seg>
       <tuv lang="EN">
         <seg>Whenever you finish a project, copy one of the three "export" translation memory files from the root folder of the project to the repository folder.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120209T130825Z">
-        <seg>每当完成一个项目，将该三份“导出”翻译记忆从项目的根文件夹复制到仓库文件夹。</seg>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T074001Z">
+        <seg>每当完成一个项目，将三份“导出”翻译记忆库文件之一从项目的根文件夹复制到仓库文件夹。</seg>
       </tuv>
     </tu>
     <tu>
