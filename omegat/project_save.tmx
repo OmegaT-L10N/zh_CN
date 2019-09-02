@@ -3282,8 +3282,8 @@ need not be entered.)</seg>
       <tuv lang="EN">
         <seg>-Dsun.java2d.noddraw=false</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T134810Z" creationid="Administrator" creationdate="20180411T134810Z">
-        <seg>-Dsun.java2d.noddraw=false </seg>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T104504Z" creationid="Administrator" creationdate="20180411T134810Z">
+        <seg>-Dsun.java2d.noddraw=false</seg>
       </tuv>
     </tu>
     <tu>
@@ -4845,6 +4845,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120206T094620Z">
         <seg>&lt;e0&gt;使用覆盖方式进行安装。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Install over the existing installation.&lt;/e0&gt; To do this, simply select the same installation folder as the existing installation when installing the new version. The "old" version of OmegaT will be overwritten, but any settings from it will be retained. This includes preferences set from within OmegaT, any changes you have made to your &lt;f1&gt;OmegaT.l4J.ini&lt;/f1&gt; file, and also your launch script (&lt;f2&gt;.bat&lt;/f2&gt; file), if you are using one.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T104954Z" creationid="wynnc" creationdate="20190902T104954Z">
+        <seg>&lt;e0&gt;在现有安装上覆盖安装。&lt;/e0&gt;要执行此操作，只需要在安装新版本时选择与现有安装相同的安装文件夹。OmegaT 的“旧”版本将被覆盖，但其中的所有设置都会被保留。这包括你对 &lt;f1&gt;OmegaT.l4J.ini&lt;/f1&gt; 文件所做的所有更改，以及，如果你使用了，你的启动脚本（&lt;f2&gt;.bat&lt;/f2&gt; 文件）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24639,8 +24647,8 @@ where to find the applicable terms.</seg>
       <tuv lang="EN">
         <seg>If you already have a version of OmegaT installed on your PC and wish to upgrade to a more recent version, you have two options:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120206T094606Z">
-        <seg>如果您已经在电脑上安装了某个版本的 OmegaT 且希望升级到最新的版本，有两种方法：</seg>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T104706Z">
+        <seg>如果您已经在电脑上安装了某个版本的 OmegaT 且希望升级到更新版本，有两个选择：</seg>
       </tuv>
     </tu>
     <tu>
@@ -51051,6 +51059,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120206T094414Z">
         <seg>这里的内容只适用于通过“传统”方式安装的 OmegaT 的 Windows 版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This information applies only to the "Traditional" Windows versions of OmegaT. It does not apply to the Web Start versions, which are upgraded automatically, nor to cross-platform versions installed on Windows.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T104637Z" creationid="wynnc" creationdate="20190902T104637Z">
+        <seg>此处的信息仅适用于 OmegaT 的“传统”Windows 版本。它不适用于自动升级的 Web Start 版本，也不适用于安装在 Windows 上的跨平台版本。</seg>
       </tuv>
     </tu>
     <tu>
