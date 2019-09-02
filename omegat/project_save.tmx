@@ -29943,8 +29943,8 @@ later version.</seg>
       <tuv lang="EN">
         <seg>Mac OS X users, note: use &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; shortcut and &lt;e4&gt;not &lt;/e4&gt;cmd+Ctrl+O.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120202T125121Z">
-        <seg>对于 Mac OS X 用户，请注意：使用 &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; 快捷键而 &lt;e4&gt;不是&lt;/e4&gt;cmd+Ctrl+O.</seg>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T061916Z">
+        <seg>对于 Mac OS X 用户，请注意：使用 &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; 快捷键而 &lt;e4&gt;不是&lt;/e4&gt;cmd+Ctrl+O。</seg>
       </tuv>
     </tu>
     <tu>
