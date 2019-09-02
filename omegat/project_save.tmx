@@ -4098,8 +4098,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; tags in RTL segments</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120202T132111Z">
-        <seg>自右向左片段中的 &lt;a0&gt;OmegaT&lt;/a0&gt; 标签</seg>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T062609Z">
+        <seg>从右向左片段中的 &lt;a0&gt;OmegaT&lt;/a0&gt; 标签</seg>
       </tuv>
     </tu>
     <tu>
@@ -11550,6 +11550,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120202T132137Z">
         <seg>如上所述，OmegaT 标签是自左向右字符串。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As stated above, OmegaT tags are LTR strings. When translating between RTL and LTR languages, correctly reading the tags from the source and entering them properly in the target may require the translator to toggle between LTR and RTL modes numerous times.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T062900Z" creationid="wynnc" creationdate="20190902T062900Z">
+        <seg>如上所述，OmegaT 标签是从左向右的字符串。当在从右向左和从左向右的语言间进行翻译时，要正确地读取原文中的标签并在译文中正确输入它们可能需要译者在从左向右和从右向左模式之间多次切换。</seg>
       </tuv>
     </tu>
     <tu>
@@ -55701,8 +55709,8 @@ free programs, and that you know you can do these things.</seg>
       <tuv lang="EN">
         <seg>When writing purely RTL text, the default (LTR) view may be used. In many cases, however, it is necessary to embed LTR text in RTL text. For example, in OmegaT tags, product names that must be left in the LTR source language, place holders in localization files, and numbers in text. In cases like these it becomes necessary to switch to RTL mode, so that the RTL (in fact bidirectional) text is displayed correctly. It should be noted that when &lt;a0&gt;OmegaT&lt;/a0&gt; is in RTL mode, both source and target are displayed in RTL mode. This means that if the source language is LTR and the target language is RTL, or vice versa, it may be necessary to toggle back and forth between RTL and LTR modes to view the source and enter the target easily in their respective modes.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T062543Z" creationid="wynnc" creationdate="20190902T062543Z">
-        <seg>在编写纯从右向左文本时，可以使用默认的（从左向右）视图。然而在许多情况下，必须在从右向左文本中嵌入从左向右文本。例如，在 OmegaT 标签中、必须维持使用从左向右的原文语言的产品名称、本地化文件中的占位符、以及文本中的数字。在这类情况下，必须转换为从右向左模式，以正确显示从右向左（实际上是双向）文本。应当注意，当 &lt;a0&gt;OmegaT&lt;/a0&gt; 处于从右向左模式时，原文和译文都以从右向左模式显示。这意味着如果原文语言是自左向右而目标语言是自右向左，或反之，就可能必须在从右向左和从左向右模式之间来回切换，以便在各自的模式下查看原文并输入译文。</seg>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T062636Z" creationid="wynnc" creationdate="20190902T062543Z">
+        <seg>在编写纯从右向左文本时，可以使用默认的（从左向右）视图。然而在许多情况下，必须在从右向左文本中嵌入从左向右文本。例如，在 OmegaT 标签中、必须维持使用从左向右的原文语言的产品名称、本地化文件中的占位符、以及文本中的数字。在这类情况下，必须转换为从右向左模式，以正确显示从右向左（实际上是双向）文本。应当注意，当 &lt;a0&gt;OmegaT&lt;/a0&gt; 处于从右向左模式时，原文和译文都以从右向左模式显示。这意味着如果原文语言是从左向右的而目标语言是从右向左的，或反之，就可能必须在从右向左和从左向右模式之间来回切换，以便在各自的模式下查看原文并输入译文。</seg>
       </tuv>
     </tu>
     <tu>
