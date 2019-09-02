@@ -37092,6 +37092,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Prevent data loss</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T065256Z" creationid="wynnc" creationdate="20190902T065256Z">
+        <seg>防止数据丢失</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Preventing data loss</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
@@ -51305,6 +51313,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120202T133133Z">
         <seg>为避免每次打开目标文件时都要改变其显示参数，可能修改源文件的显示参数以确保这些参数被目标文件所继承。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To avoid changing the target files display parameters each time the files are opened, it may be possible to change the source file display parameters such that such parameters are inherited by the target files. Such modifications are possible in ODF files for example.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T065249Z" creationid="wynnc" creationdate="20190902T065249Z">
+        <seg>为了避免每次打开译文文件都要更改其显示参数，可以更改原文文件的显示参数，以使译文文件继承此类参数。例如，这种修改对 ODF 文件是可行的。</seg>
       </tuv>
     </tu>
     <tu>
