@@ -23914,6 +23914,14 @@ copy of the Program in return for a fee.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the document allows, the translator is strongly encouraged to remove style information from the original document so that as few tags as possible appear in the OmegaT interface. Follow the indications given in Hints for tags management. Frequently validate tags (see Tag validation) and produce translated documents (see below and Menu) at regular intervals to make it easier to catch any problems that arise. A hint: translating a plain text version of the text and adding the necessary style in the relevant application at a later stage may turn out to be less hassle.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T063754Z" creationid="wynnc" creationdate="20190902T063754Z">
+        <seg>如果文档允许，强烈建议译者从原始文档中删除样式信息以在 OmegaT 的界面中尽可能少地显示标签。请遵循标签管理提示中给出的说明。经常验证标签（参见标签验证）并定期生成译文文档（参见下文和菜单）可以更容易发现问题。提示：翻译文本的纯文本版本并在稍后阶段在相关应用程序中添加必要的样式可能会不那么麻烦。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the document you are translating contains it, please do &lt;s0&gt;not&lt;/s0&gt; translate the GPL (GNU Public License) or the GFDL (GNU Free Documentation License).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T172855Z" creationid="lenovo" creationdate="20180416T172855Z">
