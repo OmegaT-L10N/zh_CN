@@ -25161,8 +25161,8 @@ is to use Java Web Start.</seg>
       <tuv lang="EN">
         <seg>If you need to reproduce text formatting (as well as other things such as drawings) in your translation, there are three ways to try:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T130329Z" creationid="Administrator" creationdate="20180411T130329Z">
-        <seg>如果您需要在翻译中复制文本格式（以及其他东西，如绘图），有三种方法可以尝试：</seg>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T100033Z" creationid="Administrator" creationdate="20180411T130329Z">
+        <seg>如果您需要在翻译中复现文本格式（以及其他东西，例如绘图），有三种方法可供尝试：</seg>
       </tuv>
     </tu>
     <tu>
@@ -25558,8 +25558,8 @@ work and works based on it.</seg>
       <tuv lang="EN">
         <seg>Import the source file to &lt;u0&gt;LibreOffice Draw&lt;/u0&gt;, save it as an ODG file, translate, export to PDF as needed.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T134540Z" creationid="Administrator" creationdate="20180411T134540Z">
-        <seg>将源文件导入&lt;u0&gt;LibreOffice Draw&lt;/u0&gt;，将其保存为ODG文件，并在需要时将其导出为PDF。</seg>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T100233Z" creationid="Administrator" creationdate="20180411T134540Z">
+        <seg>将源文件导入 &lt;u0&gt;LibreOffice Draw&lt;/u0&gt;，将其保存为 ODG 文件，翻译，然后按需要导出为 PDF。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54604,8 +54604,8 @@ Commands:
       <tuv lang="EN">
         <seg>Use &lt;a0&gt;OmegaT’s&lt;/a0&gt; default filter (PDF input), translate, create a target file (it will be a plain text file), add relevant formatting and items manually.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T130530Z" creationid="Administrator" creationdate="20180411T130530Z">
-        <seg>使用 &lt;a0&gt;OmegaT的&lt;/a0&gt; 默认过滤器 （PDF输入），翻译， 创建目标文件（将会是纯文本文件，手动添加相关的格式和项目</seg>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T100113Z" creationid="Administrator" creationdate="20180411T130530Z">
+        <seg>使用 &lt;a0&gt;OmegaT&lt;/a0&gt; 的默认过滤器 （PDF输入），翻译， 创建译文文件（将会是纯文本文件），手动添加相关的格式和项目。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54774,6 +54774,14 @@ Commands:
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T130712Z" creationid="Administrator" creationdate="20180411T130712Z">
         <seg>使用Iceni Infix过滤器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use the Iceni Infix filter. See &lt;u0&gt;Howto - Translating PDF files with Iceni Infix and OmegaT&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T100200Z" creationid="wynnc" creationdate="20190902T100200Z">
+        <seg>使用 Iceni Infix 过滤器。参见&lt;u0&gt;指南 - 用 Iceni Infix 和 OmegaT 翻译 PDF 文件&lt;/u0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
