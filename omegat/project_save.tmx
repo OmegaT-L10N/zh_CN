@@ -4953,6 +4953,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;No / I don't know:&lt;/e0&gt; download &lt;f1&gt;OmegaT_4.n.n_Linux.tar.bz2&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T105511Z" creationid="wynnc" creationdate="20190902T105511Z">
+        <seg>&lt;e0&gt;否 / 吾不知：&lt;/e0&gt;下载 &lt;f1&gt;OmegaT_4.n.n_Linux.tar.bz2&lt;/f1&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;No / I don't know:&lt;/e0&gt; download &lt;f1&gt;OmegaT_4.n.n_Windows.exe&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T103324Z" creationid="wynnc" creationdate="20190902T103324Z">
@@ -5381,6 +5389,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T103259Z" creationid="wynnc" creationdate="20190902T103259Z">
         <seg>&lt;e0&gt;是：&lt;/e0&gt;下载 &lt;f1&gt;OmegaT_4.n.n_Windows_without_JRE.exe&lt;/f1&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Yes: &lt;/e0&gt;download &lt;f1&gt;OmegaT_4.n.n_Without_JRE.zip&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T105454Z" creationid="wynnc" creationdate="20190902T105454Z">
+        <seg>&lt;e0&gt;是：&lt;/e0&gt;下载 &lt;f1&gt;OmegaT_4.n.n_Without_JRE.zip&lt;/f1&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9799,8 +9815,8 @@ included in conveying the object code work.</seg>
       <tuv lang="EN">
         <seg>Adding &lt;a0&gt;OmegaT&lt;/a0&gt; to your menus (KDE) or panels (Gnome)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120206T121511Z">
-        <seg>向菜单（KDE）或面板（Gnome）中增加 &lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T105655Z">
+        <seg>将 &lt;a0&gt;OmegaT&lt;/a0&gt; 添加到菜单（KDE）或面板（Gnome）中</seg>
       </tuv>
     </tu>
     <tu>
@@ -25190,6 +25206,14 @@ is to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you have made changes to your &lt;f0&gt;OmegaT.l4J.ini&lt;/f0&gt; file and/or are using a .bat file, you must copy these over.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T105418Z" creationid="wynnc" creationdate="20190902T105418Z">
+        <seg>如果你对 &lt;f0&gt;OmegaT.l4J.ini&lt;/f0&gt; 文件做出了更改，或者使用了 .bat 温江，你必须把它们复制过去。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you have made changes to your Normal.dotm, you might want to back this up first.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T192721Z" creationid="Mac Pro" creationdate="20180425T192721Z">
@@ -29921,8 +29945,8 @@ later version.</seg>
       <tuv lang="EN">
         <seg>Linux (Intel) Users</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120206T121140Z">
-        <seg>Linux (Intel) 用户</seg>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T105436Z">
+        <seg>Linux（Intel）用户</seg>
       </tuv>
     </tu>
     <tu>
@@ -54387,6 +54411,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unpack/untar the downloaded file. This will create an &lt;f0&gt;omegat/&lt;/f0&gt; folder in the working folder in which you will find all the files needed to run &lt;a1&gt;OmegaT&lt;/a1&gt;. To untar the &lt;f2&gt;.tar.gz&lt;/f2&gt; file:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T105634Z" creationid="wynnc" creationdate="20190902T105634Z">
+        <seg>解压缩下载的文件。这将在工作文件夹中创建一个 &lt;f0&gt;omegat/&lt;/f0&gt; 文件夹，你可以在其中找到运行 &lt;a1&gt;OmegaT&lt;/a1&gt; 所需的全部文件。要解压缩 &lt;f2&gt;.tar.gz&lt;/f2&gt; 文件：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unrecoverable error while parsing TMX file
 {0}
 on line {1}, column {2}.</seg>
@@ -57835,8 +57867,8 @@ covered work, you indicate your acceptance of this License to do so.</seg>
       <tuv lang="EN">
         <seg>You can add &lt;a0&gt;OmegaT&lt;/a0&gt; to your menus as follows:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120206T121614Z">
-        <seg>可按下列步骤添加 &lt;a0&gt;OmegaT&lt;/a0&gt; 到菜单中：</seg>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T105721Z">
+        <seg>你可以这样来将添加 &lt;a0&gt;OmegaT&lt;/a0&gt; 到菜单中：</seg>
       </tuv>
     </tu>
     <tu>
