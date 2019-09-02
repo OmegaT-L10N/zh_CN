@@ -54678,6 +54678,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Using the RTL mode in &lt;a0&gt;OmegaT&lt;/a0&gt; has no influence whatsoever on the display mode of the translated documents created in &lt;a1&gt;OmegaT&lt;/a1&gt;. The display mode of the translated documents must be modified within the application (such as Microsoft Word) commonly used to display or modify them (check the relevant manuals for details). Using &lt;k2&gt; &lt;k3&gt;Shift&lt;/k3&gt; &lt;k4&gt;Ctrl&lt;/k4&gt; &lt;k5&gt;O&lt;/k5&gt; &lt;/k2&gt; causes both text input and display in &lt;a6&gt;OmegaT&lt;/a6&gt; to change. It can be used separately for all three panes (Editor, Fuzzy Matches and Glossary) by clicking on the pane and toggling the display mode. It can also be used in all the input fields found in &lt;a7&gt;OmegaT&lt;/a7&gt; - in the search window, for segmentation rules etc.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T061847Z" creationid="wynnc" creationdate="20190902T061847Z">
+        <seg>在 &lt;a0&gt;OmegaT&lt;/a0&gt; 中使用 RTL 模式对于 &lt;a1&gt;OmegaT&lt;/a1&gt; 中创建的译文文档的显示模式没有任何影响。译文文档的显示模式必须在通常用于显示或修改它的应用程序（诸如 Microsoft Word）中修改（详细信息请查看相关手册）。用 &lt;k2&gt; &lt;k3&gt;Shift&lt;/k3&gt; &lt;k4&gt;Ctrl&lt;/k4&gt; &lt;k5&gt;O&lt;/k5&gt; &lt;/k2&gt; 会导致 &lt;a6&gt;OmegaT&lt;/a6&gt; 中的文本输入与显示都发生变化。通过点击窗格并切换显示模式，它可以单独用于所有三个窗格（编辑器、模糊匹配和词汇表）。它也能在 &lt;a7&gt;OmegaT&lt;/a7&gt; 中出现的所有输入字段中使用——搜索窗口中、分割规则等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Using the console mode, one can make generating a localized interface a part of the build process.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120211T063754Z">
@@ -59648,8 +59656,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>default justification, that is as defined by the language</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131031T075007Z">
-        <seg>缺省对齐方式，这由语言决定的</seg>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T060601Z">
+        <seg>默认对齐，由语言定义</seg>
       </tuv>
     </tu>
     <tu>
