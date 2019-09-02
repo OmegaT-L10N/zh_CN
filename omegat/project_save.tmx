@@ -12839,6 +12839,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By default, the /tm folder is below the project's root folder (e.g. ...&lt;e0&gt;/MyProject/tm&lt;/e0&gt;), but you can choose a different folder in the project properties dialog if you wish. This is useful if you frequently use translation memories produced in the past, for example because they are on the same subject or for the same customer. In this case, a useful procedure would be:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T073752Z" creationid="wynnc" creationdate="20190902T073436Z">
+        <seg>默认情况下，/tm 文件夹位于项目的根文件夹下（例如 ...&lt;e0&gt;/MyProject/tm&lt;/e0&gt;），但如果你愿意也可以在项目的属性对话框中选择其他文件夹。如果您经常使用过去生成的翻译记忆库，例如因为它们属于同一主题或者同一客户，则此功能非常有用。在这种情况下，有用的流程可以是这样：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By default, the Go To Next Untranslated Segment command (Ctrl+U) skips to the next untranslated segment, skipping propagated translations in the process.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T133139Z" creationid="Zoe" creationdate="20180411T132928Z">
@@ -41810,8 +41818,8 @@ When using regular expressions, the replacement string supports references to gr
       <tuv lang="EN">
         <seg>Should you wish to reuse a translation memory from a previous project (for example because the new project is similar to the previous project, or uses terminology which might have been used before), you can use these translation memories as "input translation memories", i.e. for import into your new project. In this case, place the translation memories you wish to use in the &lt;e0&gt;/tm&lt;/e0&gt; or &lt;e1&gt;/tm&lt;/e1&gt;/auto folder of your new project: in the former case you will get hits from these translation memories in the fuzzy matches viewer, and in the latter case these TMs will be used to pre-translate your source text.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T073434Z" creationid="wynnc" creationdate="20190902T073434Z">
-        <seg>如果希望重用过往项目的翻译记忆库（例如，因为新项目与之前的项目类似，或者使用之前可能用过的术语），您可以将这些翻译记忆库用作“输入翻译记忆库”，即导入您的新项目中。在这种情况下，将想要使用的翻译记忆库放在新项目的 &lt;e0&gt;/tm&lt;/e0&gt; 或 &lt;e1&gt;/tm&lt;/e1&gt;/auto 文件夹中：前一种情况下，会在模糊匹配查看器中看到来自于这些翻译记忆库的匹配，而后一种情况下，这些翻译记忆库将用于预翻译原文文本。</seg>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T073444Z" creationid="wynnc" creationdate="20190902T073434Z">
+        <seg>如果希望重用过往项目的翻译记忆库（例如，因为新项目与之前的项目类似，或者使用之前可能用过的术语），您可以将这些翻译记忆库用作“输入翻译记忆库”，即导入您的新项目中。在这种情况下，将想要使用的翻译记忆库放在新项目的 &lt;e0&gt;/tm&lt;/e0&gt; 或 &lt;e1&gt;/tm&lt;/e1&gt;/auto 文件夹中：前一种情况下，会在模糊匹配查看器中看到来自于这些翻译记忆库的匹配，而后一种情况下，这些翻译记忆库将用于对原文文本进行预翻译。</seg>
       </tuv>
     </tu>
     <tu>
