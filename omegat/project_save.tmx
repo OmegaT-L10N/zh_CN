@@ -28276,6 +28276,14 @@ itself on the first run. Later calls do not need to be online.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Justification of source and target segments depends upon the project languages. By default, left justification is used for Left-To-Right (LTR) languages and right justification for Right-To-Left (RTL) languages. You can toggle between different display modes by pressing &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; (this is the letter O and not the numeral 0). The &lt;k4&gt; &lt;k5&gt;Shift&lt;/k5&gt; &lt;k6&gt;Ctrl&lt;/k6&gt; &lt;k7&gt;O&lt;/k7&gt; &lt;/k4&gt; toggle has three states:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T060532Z" creationid="wynnc" creationdate="20190902T060532Z">
+        <seg>原文与译文片段的对齐方式取决于项目的语言。默认情况下，对于从左向右（LTR）的语言的语言使用左对齐，而对于从右向左（RTL）的语言使用右对齐。你可以通过按&lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt;（这是字母 O 而非数字 0）在不同显示模式之间切换。&lt;k4&gt; &lt;k5&gt;Shift&lt;/k5&gt; &lt;k6&gt;Ctrl&lt;/k6&gt; &lt;k7&gt;O&lt;/k7&gt; &lt;/k4&gt; 有三种切换状态：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>KDE 4 Users</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120206T121523Z">
@@ -30225,6 +30233,14 @@ later version.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T045943Z" creationid="Fu Rhong" creationdate="20131108T030248Z">
         <seg>马耳他语（Maltese）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Manage Right-To-Left languages</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T060250Z" creationid="wynnc" creationdate="20190902T060250Z">
+        <seg>驾驭从右向左的语言</seg>
       </tuv>
     </tu>
     <tu>
