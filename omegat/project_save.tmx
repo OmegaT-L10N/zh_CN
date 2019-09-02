@@ -26660,6 +26660,14 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Initially, that is when the project is created, the main TM of the project, &lt;f0&gt;project_save.tmx&lt;/f0&gt; is empty. This TM gradually becomes filled during the translation. To speed up this process, existing translations can be reused. If a given sentence has already been translated once, and translated correctly, there is no need for it to be retranslated. Translation memories may also contain reference translations: multinational legislation, such as that of the European Community, is a typical example.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T071457Z" creationid="wynnc" creationdate="20190902T071457Z">
+        <seg>一开始，即项目创建时，项目的主翻译记忆库 &lt;f0&gt;project_save.tmx&lt;/f0&gt; 是空的。随着翻译，这个翻译记忆库逐渐得以填充。为了加快此进程，可以重用现有翻译。如果给定语句已被翻译过一次，且翻译是正确的，则无需重新对其进行翻译。翻译记忆库也可能包含参考译文：一个典型的例子是多国立法，例如欧盟的立法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Inline tags within segments take the form of serial numbers within curly brackets, i.e. {1}, {2}, etc.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T121138Z" creationid="lenovo" creationdate="20180416T121138Z">
@@ -39344,6 +39352,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190323T155342Z" creationid="wynnc" creationdate="20190323T155342Z">
         <seg>检索领域列表...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Reuse Translation Memories</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T071112Z" creationid="wynnc" creationdate="20190902T071112Z">
+        <seg>重用翻译记忆库</seg>
       </tuv>
     </tu>
     <tu>
@@ -54204,6 +54220,14 @@ Commands:
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120211T140723Z">
         <seg>通过这些帮助来开始使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use these Help texts to get started. Should you run into problems, post a message in the &lt;u0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt; user group&lt;/u0&gt;. Do not hesitate to post in the language you feel the most familiar with.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T071054Z" creationid="wynnc" creationdate="20190902T071054Z">
+        <seg>通过这些帮助来开始使用。如果碰到问题，可以在 &lt;u0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt; 用户组&lt;/u0&gt;中发帖。可以用您所最熟悉的语言发帖，无需犹豫。</seg>
       </tuv>
     </tu>
     <tu>
