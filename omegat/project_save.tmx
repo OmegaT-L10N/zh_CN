@@ -4833,6 +4833,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Important: &lt;/e0&gt;the supporting TMX must be renamed XX_YY.tmx, where XX_YY is the target language of the tmx, for instance to ZH_CN.tmx in the example above. The project and TMX source languages should of course be identical - NL in our example. Note that only one TMX for a given language pair is possible, so if several translation memories should be involved, you will need to merge them all into the XX_YY.tmx.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T083941Z" creationid="wynnc" creationdate="20190902T083941Z">
+        <seg>&lt;e0&gt;重要提示：&lt;/e0&gt;辅助性的 TMX 必须重命名为 XX_YY.tmx，其中 XX_YY 是此 tmx 的译文语言，例如在上面的例子中是 ZH_CN.tmx。项目的原文语言和 TMX 的原文语言当然应当是相同的——在这个例子中是 NL。注意对于给定语言对只能使用一个 TMX，因此如果涉及多个翻译记忆库，则需要将它们全部合并到 XX_YY.tmx 中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Install over the existing installation.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120206T094620Z">
