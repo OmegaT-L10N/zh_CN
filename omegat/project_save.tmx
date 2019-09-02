@@ -19109,8 +19109,8 @@ Your help page not found</seg>
       <tuv lang="EN">
         <seg>Enter "&lt;a0&gt;OmegaT&lt;/a0&gt;" in the "Name" field; in the "Command" field, use the navigation button to find your &lt;a1&gt;OmegaT&lt;/a1&gt; launch script (the file named &lt;a2&gt;OmegaT&lt;/a2&gt; in the unpacked folder). Select it and confirm with OK.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T110349Z" creationid="wynnc" creationdate="20190902T110349Z">
-        <seg>在“名称”字段中输入“&lt;a0&gt;OmegaT&lt;/a0&gt;”；在“命令”字段中，用导航按钮找到 &lt;a1&gt;OmegaT&lt;/a1&gt; 启动脚本（在解压缩后the file named &lt;a2&gt;OmegaT&lt;/a2&gt; in the unpacked folder）. Select it and confirm with OK。</seg>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T110455Z" creationid="wynnc" creationdate="20190902T110349Z">
+        <seg>在“名称”字段中输入“&lt;a0&gt;OmegaT&lt;/a0&gt;”；在“命令”字段中，用导航按钮找到 &lt;a1&gt;OmegaT&lt;/a1&gt; 启动脚本（在解压缩得到的文件夹中名为 &lt;a2&gt;OmegaT&lt;/a2&gt; 的文件）。选中并用确定进行确认。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26474,8 +26474,8 @@ Reopen the project now?</seg>
       <tuv lang="EN">
         <seg>In the "Command" field, use the navigation button to find your &lt;a0&gt;OmegaT&lt;/a0&gt; launch script (the file named &lt;a1&gt;OmegaT&lt;/a1&gt; in the unpacked folder), and select it.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T110023Z">
-        <seg>在“命令”字段中，用导航按钮找到 &lt;a0&gt;OmegaT&lt;/a0&gt; 启动脚本（在解压得到的目录中名为 &lt;a1&gt;OmegaT&lt;/a1&gt; 的文件）并选中之。</seg>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T110403Z">
+        <seg>在“命令”字段中，用导航按钮找到 &lt;a0&gt;OmegaT&lt;/a0&gt; 启动脚本（在解压得到的文件夹中名为 &lt;a1&gt;OmegaT&lt;/a1&gt; 的文件）并选中之。</seg>
       </tuv>
     </tu>
     <tu>
