@@ -8355,6 +8355,38 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;repositories&gt;
+ &lt;repository type="svn" url="https://repo_for_All_OmegaT_team_projects"&gt;
+  &lt;mapping local="" repository="En-US_DE_project"/&gt;
+ &lt;/repository&gt;
+&lt;/repositories&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T095551Z" creationid="wynnc" creationdate="20190902T095551Z">
+        <seg>&lt;repositories&gt;
+ &lt;repository type="svn" url="https://repo_for_All_OmegaT_team_projects"&gt;
+  &lt;mapping local="" repository="En-US_DE_project"/&gt;
+ &lt;/repository&gt;
+&lt;/repositories&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;repositories&gt;
+ &lt;repository type="svn" url="https://repo_for_OmegaT_team_project"&gt;
+  &lt;mapping local="" repository=""/&gt;
+ &lt;/repository&gt;
+&lt;/repositories&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T095523Z" creationid="wynnc" creationdate="20190902T095523Z">
+        <seg>&lt;repositories&gt;
+ &lt;repository type="svn" url="https://repo_for_OmegaT_team_project"&gt;
+  &lt;mapping local="" repository=""/&gt;
+ &lt;/repository&gt;
+&lt;/repositories&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;s0&gt;&lt;a1&gt;{{site.data.versions.latest.name}}&lt;/a1&gt;&lt;/s0&gt; Latest Version</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="18261" changedate="20180412T100054Z" creationid="18261" creationdate="20180412T100054Z">
@@ -9619,6 +9651,14 @@ included in conveying the object code work.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add patterns using wildcards (Apache Ant style): *, ?, **</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T095421Z" creationid="wynnc" creationdate="20190902T095421Z">
+        <seg>使用通配符（Apache Ant 风格）添加模式：*、?、**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add terms to a glossary whilst translating in OmegaT</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T075742Z" creationid="chloechao" creationdate="20180412T075742Z">
@@ -10287,6 +10327,22 @@ rights of fair use or other equivalent, as provided by copyright law.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190831T163431Z" creationid="WynnChen" creationdate="20190831T163431Z">
         <seg>为匹配的语言模式所定义的所有片段分割规则集都是活动的，并按照规给定的优先级顺序应用，因此为特定语言定义的规则优先级应当高于默认的那些。例如，加拿大法语（FR-CA）的规则优先级应当设置为高于法语（FR.*）的规则，并高于默认（.*）的规则。因此，在翻译加拿大法语时，会首先应用加拿大法语规则（如果存在的话），接着是法语规则，最后为缺省规则。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All the contents of &lt;f0&gt;https://repo_for_All_OmegaT_team_projects/En-US_DE_project&lt;/f0&gt; are mapped to the local OmegaT project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T095615Z" creationid="wynnc" creationdate="20190902T095615Z">
+        <seg>&lt;f0&gt;https://repo_for_All_OmegaT_team_projects/En-US_DE_project&lt;/f0&gt; 的所有内容映射到本地 OmegaT 项目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All the contents of &lt;f0&gt;https://repo_for_OmegaT_team_project&lt;/f0&gt; are mapped to the local OmegaT project</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T095549Z" creationid="wynnc" creationdate="20190902T095549Z">
+        <seg>&lt;f0&gt;https://repo_for_OmegaT_team_project&lt;/f0&gt; 的所有内容都映射到本地 OmegaT 项目</seg>
       </tuv>
     </tu>
     <tu>
@@ -11470,6 +11526,14 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190323T111016Z" creationid="wynnc" creationdate="20190323T111016Z">
         <seg>这样的结果是所有设置都将处于其默认值，因此你可能会遇到
 意外但正确的行为。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As above.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T095431Z" creationid="wynnc" creationdate="20190902T095431Z">
+        <seg>同上。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19413,10 +19477,34 @@ No one hears your screams</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Example mappings</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T095521Z" creationid="wynnc" creationdate="20190902T095521Z">
+        <seg>示例映射</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Example:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
         <seg>例如：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Example: &lt;u0&gt;**/*.docx&lt;/u0&gt; to add all .docx files, wherever they are located in the project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T095501Z" creationid="wynnc" creationdate="20190902T095501Z">
+        <seg>例如：&lt;u0&gt;**/*.docx&lt;/u0&gt; 添加所有 .docx 文件，无论它们位于项目中何处。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Example: &lt;u0&gt;**/.ini/**&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T095426Z" creationid="wynnc" creationdate="20190902T095426Z">
+        <seg>例如：&lt;u0&gt;**/.ini/**&lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -47279,6 +47367,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The inclusion rules take priority over the exclusion rules.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T095512Z" creationid="wynnc" creationdate="20190902T095512Z">
+        <seg>包含规则优先于排除规则。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The individual bilingual file formats are described below.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T132054Z" creationid="Wyndy" creationdate="20180418T132054Z">
@@ -60712,8 +60808,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>excludes</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T095237Z" creationid="wynnc" creationdate="20190902T095237Z">
-        <seg>排除</seg>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T095325Z" creationid="wynnc" creationdate="20190902T095237Z">
+        <seg>排除（excludes）</seg>
       </tuv>
     </tu>
     <tu>
@@ -62104,6 +62200,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>includes</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T095331Z" creationid="wynnc" creationdate="20190902T095331Z">
+        <seg>包含（includes）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>includes bash and kaptain launch scripts;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180420T061634Z" creationid="think" creationdate="20180416T085149Z">
@@ -62980,16 +63084,16 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>mapping local</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T095059Z" creationid="wynnc" creationdate="20190902T095059Z">
-        <seg>映射本地</seg>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T095304Z" creationid="wynnc" creationdate="20190902T095059Z">
+        <seg>映射本地（mapping local）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>mapping repository</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T095130Z" creationid="wynnc" creationdate="20190902T095130Z">
-        <seg>映射存储库</seg>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T095309Z" creationid="wynnc" creationdate="20190902T095130Z">
+        <seg>映射存储库（mapping repository）</seg>
       </tuv>
     </tu>
     <tu>
