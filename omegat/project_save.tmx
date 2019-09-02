@@ -4985,6 +4985,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Note:&lt;/e0&gt; the above information applies only to PDF files with a text layer. If you have a PDF file made of scanned pages (sometimes such files are referred to as ‘dead’ PDFs), you need to use an OCR (optical character recognition) program to recognize the text and convert it to a format that can be handled by OmegaT.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T100417Z" creationid="wynnc" creationdate="20190902T100417Z">
+        <seg>&lt;e0&gt;注：&lt;/e0&gt;以上信息仅适用于带有文本层的 PDF 文件。如果你有一个由扫描页面组成的 PDF 文件（此类文件有时被称为“死”PDF），你需要用 OCR（光学字符识别）程序识别文本并将其转换为 OmegaT 可以处理的格式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;OmegaT &lt;/e0&gt; is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (if you prefer) any later version.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T135432Z" creationid="Fu Rhong" creationdate="20131108T120605Z">
@@ -19911,6 +19919,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
         <seg>可使用外部工具将文件转换成所支持的格式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>External tools can be used to convert files to supported formats. The translated files will then need to be converted back to the original format. For example, if you have an outdated Microsoft Word version, that does not handle the ODT format, here's a round trip for Word files with the DOC extension:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T100804Z" creationid="wynnc" creationdate="20190902T100804Z">
+        <seg>可以用外部工具将文件转换为支持的格式。然后需要将译文文件转换回原始格式。例如，如果你拥有的是无法处理 ODT 的过时 Microsoft Word 版本，那么对于有着 DOC 扩展名的 Word 文件需要这样来回：</seg>
       </tuv>
     </tu>
     <tu>
@@ -36220,8 +36236,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>Other plain text or formatted text file formats suitable for processing in OmegaT may also exist.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120202T123337Z">
-        <seg>还存在适合 OmegaT 处理的其他纯文本或格式化文本文件。</seg>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T100454Z">
+        <seg>还存在其他适合 OmegaT 处理的纯文本或格式化文本文件格式。</seg>
       </tuv>
     </tu>
     <tu>
