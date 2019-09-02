@@ -30183,8 +30183,8 @@ later version.</seg>
       <tuv lang="EN">
         <seg>Make regular copies of the file /omegat/project_save.tmx to backup media, such as CD or DVD.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120211T140352Z">
-        <seg>必须定期备份 /omegat/project_save.tmx，例如复制到 CD 或 DVD。</seg>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T070615Z">
+        <seg>定期将 /omegat/project_save.tmx 复制到备份媒介上，例如 CD 或 DVD。</seg>
       </tuv>
     </tu>
     <tu>
@@ -63748,8 +63748,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>rename it &lt;l0&gt;project_save.tmx&lt;/l0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120211T140240Z">
-        <seg>将其更名为 &lt;l0&gt;project_save.tmx&lt;/l0&gt;</seg>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T065942Z">
+        <seg>将其重命名为 &lt;l0&gt;project_save.tmx&lt;/l0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -63989,8 +63989,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>select the backup translation memory that is the most likely to contain the data you are looking for</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120127T074744Z">
-        <seg>选择最有可能包含所需数据的翻译记忆备份</seg>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T065932Z">
+        <seg>选择最有可能包含所需数据的翻译记忆库备份</seg>
       </tuv>
     </tu>
     <tu>
