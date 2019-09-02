@@ -15713,8 +15713,8 @@ unpacking, reading or copying.</seg>
       <tuv lang="EN">
         <seg>Creating translated RTL documents</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
-        <seg>创建已译自右向左文档</seg>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T063826Z">
+        <seg>创建从右向左的译文文档</seg>
       </tuv>
     </tu>
     <tu>
@@ -20443,8 +20443,8 @@ patents cannot be used to render the program non-free.</seg>
       <tuv lang="EN">
         <seg>For .docx files, a number of changes are however done automatically:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131116T075007Z" creationid="Fu Rhong" creationdate="20131116T035246Z">
-        <seg>无论如何对于.docx文件会自动进行一些更改：</seg>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T064112Z" creationid="Fu Rhong" creationdate="20131116T035246Z">
+        <seg>不过，对于 .docx 文件会自动完成许多更改：</seg>
       </tuv>
     </tu>
     <tu>
@@ -55588,6 +55588,14 @@ trouble of selecting, obtaining and installing it.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120202T132948Z">
         <seg>在创建已译文档时，其显示方向将与源文本相同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When the translated document is created, its display direction will be the same as that of the original document. If the original document was LTR, the display direction of the target document must be changed manually to RTL in its viewing application. Each output format has specific ways of dealing with RTL display; check the relevant application manuals for details.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T064040Z" creationid="wynnc" creationdate="20190902T063823Z">
+        <seg>创建译文文档时，其显示方式将与原始文档相同。如果原始文档是从左向右的，译文文档的显示方向需要手工在查看它的应用程序中改为从右向左。每种输出格式都有专门的方法来处理从右向左显示；查看相关的应用程序手册来了解详情。</seg>
       </tuv>
     </tu>
     <tu>
