@@ -43316,6 +43316,14 @@ of the GPL, as needed to protect the freedom of users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Step 2: Add files to translate and other resources</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T091617Z" creationid="wynnc" creationdate="20190902T091617Z">
+        <seg>第 2 步：添加要翻译的文件和其他资源</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Step 2: Copy this highlighted text (Ctrl+C).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T192101Z" creationid="Mac Pro" creationdate="20180425T192101Z">
@@ -54332,6 +54340,14 @@ Commands:
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190323T153943Z" creationid="wynnc" creationdate="20190323T153943Z">
         <seg>全部用更新的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use an SVN or Git client to add the files to translate.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T091637Z" creationid="wynnc" creationdate="20190902T091637Z">
+        <seg>用 SVN 或 Git 客户端来添加要翻译的文件</seg>
       </tuv>
     </tu>
     <tu>
