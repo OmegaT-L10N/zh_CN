@@ -43108,6 +43108,14 @@ of the GPL, as needed to protect the freedom of users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Start the project. Check for possible Tag errors with &lt;k0&gt;Ctrl+T &lt;/k0&gt;and untranslated segments with &lt;k1&gt;Ctrl+U&lt;/k1&gt;. To check everything is as expected, you may press &lt;k2&gt;Ctrl+D&lt;/k2&gt; to create the target documents and check their contents.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T081428Z" creationid="wynnc" creationdate="20190902T081428Z">
+        <seg>开启项目。用 &lt;k0&gt;Ctrl+T &lt;/k0&gt; 检查可能的标签错误，用 &lt;k1&gt;Ctrl+U&lt;/k1&gt; 检查未译片段。要检查是否所有内容都符合预期，你可以按 &lt;k2&gt;Ctrl+D&lt;/k2&gt; 来创建译文文档并检查其内容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Starting OmegaT from the command line</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120207T122000Z">
@@ -55942,6 +55950,14 @@ technological measures.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131127T095052Z" creationid="Fu Rhong" creationdate="20131127T095052Z">
         <seg>在退出项目时，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you exit the project. the TMX files in the main project folder (see above) now contain the translations in the selected language pair, for the files, you have copied into the source folder. Copy them to a safe place for future referrals.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T081650Z" creationid="wynnc" creationdate="20190902T081650Z">
+        <seg>现在退出项目。主项目目录（见上文）中的 TMX 文件现在包含你复制到原文文件夹中的文件的所选语言对的翻译。将它们复制到安全的地方备用。</seg>
       </tuv>
     </tu>
     <tu>
