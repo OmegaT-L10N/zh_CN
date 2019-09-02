@@ -42426,6 +42426,14 @@ of the GPL, as needed to protect the freedom of users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Some tools are known to produce invalid tmx files under certain conditions. If you wish to use such files as reference translations in OmegaT, they must be repaired, or OmegaT will report an error and fail to load them. Fixes are trivial operations and OmegaT assists troubleshooting with the related error message. You can ask the user group for advice if you have problems.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T075920Z" creationid="wynnc" creationdate="20190902T075920Z">
+        <seg>已知一些工具会在某些条件下生成无效的 tmx 文件。如果你想在 OmegaT 中使用这类文件作为参考译文，则必须对其进行修复，否则 OmegaT 将报错并无法加载它们。修复是微小的操作，OmegaT 会用相关错误信息协助进行错误排除。如果遇到问题，可以向用户组咨询。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Some types of source files (for instance PO, TTX, etc.) are bilingual, i.e. they serve both as a source and as a translation memory.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131127T105133Z" creationid="Fu Rhong" creationdate="20131127T105133Z">
