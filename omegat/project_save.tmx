@@ -30992,8 +30992,8 @@ later version.</seg>
       <tuv lang="EN">
         <seg>Mixing RTL and LTR strings in segments</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
-        <seg>在片段中混合自右向左和自左向右字符串</seg>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T062009Z">
+        <seg>在片段中混合从右向左和从左向右字符串</seg>
       </tuv>
     </tu>
     <tu>
@@ -54680,8 +54680,8 @@ searchable without subscription:</seg>
       <tuv lang="EN">
         <seg>Using the RTL mode in &lt;a0&gt;OmegaT&lt;/a0&gt; has no influence whatsoever on the display mode of the translated documents created in &lt;a1&gt;OmegaT&lt;/a1&gt;. The display mode of the translated documents must be modified within the application (such as Microsoft Word) commonly used to display or modify them (check the relevant manuals for details). Using &lt;k2&gt; &lt;k3&gt;Shift&lt;/k3&gt; &lt;k4&gt;Ctrl&lt;/k4&gt; &lt;k5&gt;O&lt;/k5&gt; &lt;/k2&gt; causes both text input and display in &lt;a6&gt;OmegaT&lt;/a6&gt; to change. It can be used separately for all three panes (Editor, Fuzzy Matches and Glossary) by clicking on the pane and toggling the display mode. It can also be used in all the input fields found in &lt;a7&gt;OmegaT&lt;/a7&gt; - in the search window, for segmentation rules etc.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T061847Z" creationid="wynnc" creationdate="20190902T061847Z">
-        <seg>在 &lt;a0&gt;OmegaT&lt;/a0&gt; 中使用 RTL 模式对于 &lt;a1&gt;OmegaT&lt;/a1&gt; 中创建的译文文档的显示模式没有任何影响。译文文档的显示模式必须在通常用于显示或修改它的应用程序（诸如 Microsoft Word）中修改（详细信息请查看相关手册）。用 &lt;k2&gt; &lt;k3&gt;Shift&lt;/k3&gt; &lt;k4&gt;Ctrl&lt;/k4&gt; &lt;k5&gt;O&lt;/k5&gt; &lt;/k2&gt; 会导致 &lt;a6&gt;OmegaT&lt;/a6&gt; 中的文本输入与显示都发生变化。通过点击窗格并切换显示模式，它可以单独用于所有三个窗格（编辑器、模糊匹配和词汇表）。它也能在 &lt;a7&gt;OmegaT&lt;/a7&gt; 中出现的所有输入字段中使用——搜索窗口中、分割规则等。</seg>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T061948Z" creationid="wynnc" creationdate="20190902T061847Z">
+        <seg>在 &lt;a0&gt;OmegaT&lt;/a0&gt; 中使用从右向左模式对于 &lt;a1&gt;OmegaT&lt;/a1&gt; 中创建的译文文档的显示模式没有任何影响。译文文档的显示模式必须在通常用于显示或修改它的应用程序（诸如 Microsoft Word）中修改（详细信息请查看相关手册）。用 &lt;k2&gt; &lt;k3&gt;Shift&lt;/k3&gt; &lt;k4&gt;Ctrl&lt;/k4&gt; &lt;k5&gt;O&lt;/k5&gt; &lt;/k2&gt; 会导致 &lt;a6&gt;OmegaT&lt;/a6&gt; 中的文本输入与显示都发生变化。通过点击窗格并切换显示模式，它可以单独用于所有三个窗格（编辑器、模糊匹配和词汇表）。它也能在 &lt;a7&gt;OmegaT&lt;/a7&gt; 中出现的所有输入字段中使用——搜索窗口中、分割规则等。</seg>
       </tuv>
     </tu>
     <tu>
@@ -55695,6 +55695,14 @@ free programs, and that you know you can do these things.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120202T125248Z">
         <seg>在编写纯自右向左文本时，将使用缺省的（自左向右）视图。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When writing purely RTL text, the default (LTR) view may be used. In many cases, however, it is necessary to embed LTR text in RTL text. For example, in OmegaT tags, product names that must be left in the LTR source language, place holders in localization files, and numbers in text. In cases like these it becomes necessary to switch to RTL mode, so that the RTL (in fact bidirectional) text is displayed correctly. It should be noted that when &lt;a0&gt;OmegaT&lt;/a0&gt; is in RTL mode, both source and target are displayed in RTL mode. This means that if the source language is LTR and the target language is RTL, or vice versa, it may be necessary to toggle back and forth between RTL and LTR modes to view the source and enter the target easily in their respective modes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T062543Z" creationid="wynnc" creationdate="20190902T062543Z">
+        <seg>在编写纯从右向左文本时，可以使用默认的（从左向右）视图。然而在许多情况下，必须在从右向左文本中嵌入从左向右文本。例如，在 OmegaT 标签中、必须维持使用从左向右的原文语言的产品名称、本地化文件中的占位符、以及文本中的数字。在这类情况下，必须转换为从右向左模式，以正确显示从右向左（实际上是双向）文本。应当注意，当 &lt;a0&gt;OmegaT&lt;/a0&gt; 处于从右向左模式时，原文和译文都以从右向左模式显示。这意味着如果原文语言是自左向右而目标语言是自右向左，或反之，就可能必须在从右向左和从左向右模式之间来回切换，以便在各自的模式下查看原文并输入译文。</seg>
       </tuv>
     </tu>
     <tu>
