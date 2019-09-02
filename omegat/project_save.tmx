@@ -55864,6 +55864,14 @@ technological measures.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>When you create the target documents in an &lt;a0&gt;OmegaT&lt;/a0&gt; project, the translation memory of the project is output in the form of three files in the root folder of your &lt;a1&gt;OmegaT&lt;/a1&gt; project (see the above description). You can regard these three tmx files (&lt;f2&gt;-omegat.tmx&lt;/f2&gt;, &lt;f3&gt;-level1.tmx&lt;/f3&gt; and &lt;f4&gt;-level2.tmx&lt;/f4&gt;) as an "export translation memory", i.e. as an export of your current project's content in bilingual form.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T071742Z" creationid="wynnc" creationdate="20190902T071742Z">
+        <seg>当你在 &lt;a0&gt;OmegaT&lt;/a0&gt; 项目中创建译文文件时，项目的翻译记忆库将输出为 &lt;a1&gt;OmegaT&lt;/a1&gt; 项目根目录下的三个文件（参见上文描述）。你可以将这三个 tmx 文件（&lt;f2&gt;-omegat.tmx&lt;/f2&gt;、&lt;f3&gt;-level1.tmx&lt;/f3&gt; 和 &lt;f4&gt;-level2.tmx&lt;/f4&gt;）视为“导出翻译记忆库”，即以双语形式导出的当前项目的内容。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>这里的句点明显应用逗号</note>
       <tuv lang="EN">
         <seg>When you exit the project.</seg>
