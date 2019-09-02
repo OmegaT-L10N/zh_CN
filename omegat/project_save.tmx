@@ -25676,8 +25676,8 @@ work and works based on it.</seg>
       <tuv lang="EN">
         <seg>In cases where a team of translators is involved, translators will prefer to share common translation memories rather than distribute their local versions.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131127T100520Z" creationid="Fu Rhong" creationdate="20131127T100520Z">
-        <seg>在一个翻译团队参与的情况下，译员更喜欢分享公共的翻译记忆而不是发布他们的本地版本。</seg>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T081939Z" creationid="Fu Rhong" creationdate="20131127T100520Z">
+        <seg>如果涉及翻译团队，译者们会首选共享公共的翻译记忆而不是发布他们的本地版本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41738,8 +41738,8 @@ When using regular expressions, the replacement string supports references to gr
       <tuv lang="EN">
         <seg>Sharing translation memories</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131127T100339Z" creationid="Fu Rhong" creationdate="20131127T100339Z">
-        <seg>分享翻译记忆</seg>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T081803Z" creationid="Fu Rhong" creationdate="20131127T100339Z">
+        <seg>分享翻译记忆库</seg>
       </tuv>
     </tu>
     <tu>
@@ -51447,8 +51447,8 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="EN">
         <seg>To avoid reusing the project and thus possibly polluting future cases, delete the project folder or archive it away from your workplace.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131127T095359Z" creationid="Fu Rhong" creationdate="20131127T095359Z">
-        <seg>要避免重用该项目而可能破坏将来的情况，则删除项目或存档到工作区外的其他位置。</seg>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T081800Z" creationid="Fu Rhong" creationdate="20131127T095359Z">
+        <seg>要避免因为重用该项目而污染未来案例的可能，请删除项目文件夹或将其或存档到工作区外的其他位置。</seg>
       </tuv>
     </tu>
     <tu>
