@@ -12060,6 +12060,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Automatic saving</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T101211Z" creationid="wynnc" creationdate="20190902T101211Z">
+        <seg>自动保存</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Automatically check for updates</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190324T044931Z" creationid="wynnc" creationdate="20190324T044931Z">
@@ -19459,6 +19467,14 @@ No one hears your screams</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190323T112057Z" creationid="wynnc" creationdate="20190320T045507Z">
         <seg>事件：项目变更 - “{0}”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Every 3 minutes (by default), the local project is synchronised with the remote repository so that the project manager or other translators can see and use translations added during that period.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T101852Z" creationid="wynnc" creationdate="20190902T101852Z">
+        <seg>每隔 3 分钟（默认情况下），本地项目将与远程存储库进行同步，这样项目经理或其他译者就可以查看并使用在此期间添加的翻译。</seg>
       </tuv>
     </tu>
     <tu>
