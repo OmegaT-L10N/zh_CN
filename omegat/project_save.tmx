@@ -5546,6 +5546,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;g0&gt;Project&lt;/g0&gt; &lt;g1&gt;New...&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T085243Z" creationid="wynnc" creationdate="20190902T085243Z">
+        <seg>&lt;g0&gt;项目&lt;/g0&gt; &lt;g1&gt;新建...&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;html&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130509T153515Z">
@@ -9623,6 +9631,14 @@ included in conveying the object code work.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="10353" changedate="20180414T102901Z" creationid="10353" creationdate="20180414T102901Z">
         <seg>在你的OmegaT启动脚本文件中将参数-- ITokenizer =后面加该分词器的全名（复制整行，并插入一个空格）添加到启动命令的末尾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Add the new OmegaT project to the versioning system (&lt;c0&gt;add&lt;/c0&gt; with SVN and Git)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T085421Z" creationid="wynnc" creationdate="20190902T085421Z">
+        <seg>将新建立的 OmegaT 项目添加到版本控制系统（对于 SVN 和 Git 都是&lt;c0&gt;添加（add）&lt;/c0&gt;）</seg>
       </tuv>
     </tu>
     <tu>
@@ -32826,6 +32842,14 @@ Thus, for example, rules for Canadian French (FR-CA) should be higher than rules
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190322T072551Z" creationid="wynnc" creationdate="20190322T072551Z">
         <seg>注：DocBook 文件并不仅根据文件扩展名识别，对于 DocBook 4 还需要有 DOCTYPE 声明：&lt;!DOCTYPE book PUBLIC \"-//OASIS//DTD DocBook XML...，而对于 DocBook 5 则需要有命名空间：xmlns="http://docbook.org/ns/docbook"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note: If the project was created with the command line in step 3, this step has already been done by the program.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T090522Z" creationid="wynnc" creationdate="20190902T090522Z">
+        <seg>注意：如果在第 3 步是用命令行创建的项目，则该步骤已由程序完成。</seg>
       </tuv>
     </tu>
     <tu>
@@ -63254,6 +63278,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120202T063559Z">
         <seg>omegat.prefs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>on the command line: &lt;c0&gt;java -jar OmegaT.jar team init [lang1] [lang2]&lt;/c0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T085323Z" creationid="wynnc" creationdate="20190902T085323Z">
+        <seg>在命令行：&lt;c0&gt;java -jar OmegaT.jar team init [语言1] [语言2]&lt;/c0&gt;</seg>
       </tuv>
     </tu>
     <tu>
