@@ -24117,6 +24117,14 @@ notice like this when it starts in an interactive mode:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the project uses specific filters and segmentation parameters, both the &lt;f0&gt;filters.xml&lt;/f0&gt; and &lt;f1&gt;segmentation.conf&lt;/f1&gt; files must be added to the versioning system and published on the server.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T091543Z" creationid="wynnc" creationdate="20190902T091543Z">
+        <seg>如果项目使用专用过滤器和片段分割参数，&lt;f0&gt;filters.xml&lt;/f0&gt; 和 &lt;f1&gt;segmentation.conf&lt;/f1&gt; 文件都必须添加到版本控制系统中并发布到服务器上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the rule matches, either the cursor moves on without inserting a segment break (for an exception rule) or a new segment break is created at the current cursor position (for the break rule).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120215T142501Z">
