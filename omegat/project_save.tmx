@@ -41712,6 +41712,14 @@ When using regular expressions, the replacement string supports references to gr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Setting up a team project requires some knowledge of servers and the SVN or Git versioning systems. It should thus be carried out by a project manager, a project leader or a localisation engineer.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T084513Z" creationid="wynnc" creationdate="20190902T084513Z">
+        <seg>Setting up a team project requires some knowledge of servers and the SVN or Git versioning systems. It should thus be carried out by a project manager, a project leader or a localisation engineer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Settings dialogs</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131127T122227Z" creationid="Fu Rhong" creationdate="20131127T122227Z">
