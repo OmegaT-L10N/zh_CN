@@ -9637,8 +9637,8 @@ included in conveying the object code work.</seg>
       <tuv lang="EN">
         <seg>Add the new OmegaT project to the versioning system (&lt;c0&gt;add&lt;/c0&gt; with SVN and Git)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T085421Z" creationid="wynnc" creationdate="20190902T085421Z">
-        <seg>将新建立的 OmegaT 项目添加到版本控制系统（对于 SVN 和 Git 都是&lt;c0&gt;添加（add）&lt;/c0&gt;）</seg>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T090606Z" creationid="wynnc" creationdate="20190902T085421Z">
+        <seg>将新建立的 OmegaT 项目添加到版本控制系统（对于 SVN 和 Git 都是 &lt;c0&gt;add&lt;/c0&gt;）</seg>
       </tuv>
     </tu>
     <tu>
@@ -15560,8 +15560,8 @@ unpacking, reading or copying.</seg>
       <tuv lang="EN">
         <seg>Create a local copy of the repository (&lt;c0&gt;check out&lt;/c0&gt; with SVN, &lt;c1&gt;clone&lt;/c1&gt; with Git).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T085151Z" creationid="wynnc" creationdate="20190902T085143Z">
-        <seg>创建此存储库的本地副本（对 SVN 是&lt;c0&gt;检出（check out）&lt;/c0&gt;，对 Git 是&lt;c1&gt;克隆（clone）&lt;/c1&gt;）。</seg>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T090600Z" creationid="wynnc" creationdate="20190902T085143Z">
+        <seg>创建此存储库的本地副本（对 SVN 是 &lt;c0&gt;check out&lt;/c0&gt;，对 Git 是 &lt;c1&gt;clone&lt;/c1&gt;）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38022,6 +38022,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Publish the new OmegaT project on the server (&lt;c0&gt;commit&lt;/c0&gt; with SVN, &lt;c1&gt;commit&lt;/c1&gt; followed by &lt;c2&gt;push&lt;/c2&gt; with Git).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T090638Z" creationid="wynnc" creationdate="20190902T090545Z">
+        <seg>将新建立的 OmegaT 项目发布到服务器上（对 SVN 是 &lt;c0&gt;commit&lt;/c0&gt;，对 Gti 是 &lt;c1&gt;commit&lt;/c1&gt; 然后跟着 &lt;c2&gt;push&lt;/c2&gt;）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Purpose</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T145147Z" creationid="Zoe" creationdate="20180411T145147Z">
@@ -42966,6 +42974,14 @@ of the GPL, as needed to protect the freedom of users.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120202T114458Z">
         <seg>可在文件过滤器设置特定的动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Specific parameters</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T090722Z" creationid="wynnc" creationdate="20190902T090722Z">
+        <seg>专用参数</seg>
       </tuv>
     </tu>
     <tu>
