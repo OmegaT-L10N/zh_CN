@@ -25676,8 +25676,8 @@ work and works based on it.</seg>
       <tuv lang="EN">
         <seg>In cases where a team of translators is involved, translators will prefer to share common translation memories rather than distribute their local versions.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T081939Z" creationid="Fu Rhong" creationdate="20131127T100520Z">
-        <seg>如果涉及翻译团队，译者们会首选共享公共的翻译记忆而不是发布他们的本地版本。</seg>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T082011Z" creationid="Fu Rhong" creationdate="20131127T100520Z">
+        <seg>如果涉及翻译团队，译者们会首选共享公共翻译记忆库而不是发布他们的本地版本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33925,6 +33925,14 @@ project without team functionality. (You will still able to use OmegaT
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT interfaces to SVN and Git, two common team software versioning and revision control systems (RCS), available under an open source license. In case of OmegaT complete project folders - in other words the translation memories involved as well as source folders, project settings etc - are managed by the selected RCS. see more in Chapter</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T082319Z" creationid="wynnc" creationdate="20190902T082319Z">
+        <seg>OmegaT 可连接 SVN 和 Git，这是两种常见的以开源许可提供的团队软件版本与修订控制系统（RCS）。在 OmegaT 的情况下，完整的项目文件夹——换句话说，设计的翻译记忆库和原文文件夹、项目设置等——均由选定 RCS 管理。更多内容参见</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT introduction tutorial</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190330T073906Z" creationid="cpeishan" creationdate="20180407T150101Z">
@@ -41738,8 +41746,8 @@ When using regular expressions, the replacement string supports references to gr
       <tuv lang="EN">
         <seg>Sharing translation memories</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T081803Z" creationid="Fu Rhong" creationdate="20131127T100339Z">
-        <seg>分享翻译记忆库</seg>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T081945Z" creationid="Fu Rhong" creationdate="20131127T100339Z">
+        <seg>共享翻译记忆库</seg>
       </tuv>
     </tu>
     <tu>
