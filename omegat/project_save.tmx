@@ -11562,6 +11562,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>As plenty of information about SVN and Git is easily available, we won't describe how they work here, but only how OmegaT works with them.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T084916Z" creationid="wynnc" creationdate="20190902T084752Z">
+        <seg>由于很容易获得大量关于 SVN 和 Git 的信息，在这里我们不描述它们如何工作，而只描述 OmegaT 如何使用它们。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>As stated above, OmegaT tags are LTR strings.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120202T132137Z">
@@ -41642,8 +41650,8 @@ When using regular expressions, the replacement string supports references to gr
       <tuv lang="EN">
         <seg>Set up a Team Project</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T084512Z" creationid="wynnc" creationdate="20190902T084000Z">
-        <seg>创建团队项目</seg>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T084619Z" creationid="wynnc" creationdate="20190902T084000Z">
+        <seg>建立团队项目</seg>
       </tuv>
     </tu>
     <tu>
@@ -41714,8 +41722,8 @@ When using regular expressions, the replacement string supports references to gr
       <tuv lang="EN">
         <seg>Setting up a team project requires some knowledge of servers and the SVN or Git versioning systems. It should thus be carried out by a project manager, a project leader or a localisation engineer.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T084513Z" creationid="wynnc" creationdate="20190902T084513Z">
-        <seg>Setting up a team project requires some knowledge of servers and the SVN or Git versioning systems. It should thus be carried out by a project manager, a project leader or a localisation engineer.</seg>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T084755Z" creationid="wynnc" creationdate="20190902T084513Z">
+        <seg>建立团队项目需要一些关于服务器和 SVN 或 Git 版本控制系统的知识。因此，它应当由项目经理、项目负责人或本地化工程师来执行。</seg>
       </tuv>
     </tu>
     <tu>
