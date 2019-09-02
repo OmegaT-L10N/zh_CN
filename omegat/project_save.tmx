@@ -16811,6 +16811,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Deleting source files</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T102348Z" creationid="wynnc" creationdate="20190902T102348Z">
+        <seg>删除原文文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Delimiter</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190324T045717Z" creationid="wynnc" creationdate="20190324T045717Z">
@@ -20412,6 +20420,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Zenobia Fang" changedate="20180423T141921Z" creationid="Zenobia Fang" creationdate="20180423T141921Z">
         <seg>旧的 MS Word、Excel 和 Powerpoint 格式的文件可以在转换到等效的 Microsoft Office 格式文件后翻译，或者也可使用 OpenOffice.org 或 LibreOffice（同样免费）中转换成 Office Open XML 格式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Files must be deleted first by the project manager, and then locally.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T102749Z" creationid="wynnc" creationdate="20190902T102749Z">
+        <seg>必须先由项目经理删除文件，然后在本地删除。</seg>
       </tuv>
     </tu>
     <tu>
