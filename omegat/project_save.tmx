@@ -9197,6 +9197,14 @@ included in conveying the object code work.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A team project can be opened and translated offline. All the changes will be synchronised the next time a connection is available.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T103030Z" creationid="wynnc" creationdate="20190902T103030Z">
+        <seg>团队项目可以离线打开并翻译。所有更改将在下次连接可用时进行同步。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A text file containing two lines:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120202T070734Z">
@@ -13465,6 +13473,14 @@ Exception occurred:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T130659Z" creationid="Zoe" creationdate="20180411T130649Z">
         <seg>当前片段的改动或“默认翻译”的改变，对其他片段均无影响，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Changing segmentation rules or file filters</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T102802Z" creationid="wynnc" creationdate="20190902T102802Z">
+        <seg>更改片段分割规则或文件过滤器</seg>
       </tuv>
     </tu>
     <tu>
@@ -38160,6 +38176,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Project parameters must be changed by the project manager.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T102817Z" creationid="wynnc" creationdate="20190902T102817Z">
+        <seg>项目参数必须由项目经理来更改。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Project properties</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
@@ -57255,6 +57279,14 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190523T020248Z" creationid="18261" creationdate="20180412T080207Z">
         <seg>可处理超过 30 种文件格式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Working offline</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T102825Z" creationid="wynnc" creationdate="20190902T102825Z">
+        <seg>离线工作</seg>
       </tuv>
     </tu>
     <tu>
