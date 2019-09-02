@@ -10191,6 +10191,14 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All other files are read-only. If the translator attempts to modify them, they will go back to their original state whenever the project is opened, closed, saved or reloaded.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T092147Z" creationid="wynnc" creationdate="20190902T092147Z">
+        <seg>所有其他的文件都是只读的。如果译者试图修改它们，则只要项目被打开、关闭、保存或重新载入，它们就会回复到原始状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All other instances of the same segment that were previously the "default translation" will now be brought into line with this translation.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T122955Z" creationid="Zoe" creationdate="20180411T122955Z">
@@ -32676,6 +32684,14 @@ measures.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note that only two files are modified by OmegaT during translation:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T092026Z" creationid="wynnc" creationdate="20190902T092026Z">
+        <seg>请注意，在翻译期间，OmegaT 只修改两个文件：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note that other CAT tools can export (and import as well) tmx files, usually in all three forms.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120217T131705Z">
@@ -43337,6 +43353,14 @@ of the GPL, as needed to protect the freedom of users.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190324T030634Z" creationid="wynnc" creationdate="20190324T030634Z">
         <seg>第2步：进行手动更正</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Step 3: Send an invitation to the translator</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T092705Z" creationid="wynnc" creationdate="20190902T092705Z">
+        <seg>第 3 步：向译者发送邀请</seg>
       </tuv>
     </tu>
     <tu>
@@ -60864,6 +60888,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>glossary/glossary.txt</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T092027Z" creationid="wynnc" creationdate="20190902T092027Z">
+        <seg>glossary/glossary.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>glv</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131108T030157Z" creationid="Fu Rhong" creationdate="20131108T030157Z">
@@ -63350,6 +63382,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120202T063559Z">
         <seg>omegat.prefs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>omegat/project_save.tmx</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T092027Z" creationid="wynnc" creationdate="20190902T092027Z">
+        <seg>omegat/project_save.tmx</seg>
       </tuv>
     </tu>
     <tu>
