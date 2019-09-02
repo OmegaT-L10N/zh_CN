@@ -15536,8 +15536,8 @@ unpacking, reading or copying.</seg>
       <tuv lang="EN">
         <seg>Create a project, separate for other projects, in the desired language pair, with an appropriate name - note that the TMXs created will include this name.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131127T094727Z" creationid="Fu Rhong" creationdate="20131127T094727Z">
-        <seg>使用希望的语言对和名称（注创建的翻译记忆文件也包含此名称）创建一个独立于其他项目的项目。</seg>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T080645Z" creationid="Fu Rhong" creationdate="20131127T094727Z">
+        <seg>使用所需的语言对和合适的名称（注意：创建的 TMX 文件会包含此名称）创建一个与其他项目分开的项目。</seg>
       </tuv>
     </tu>
     <tu>
