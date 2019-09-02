@@ -45749,8 +45749,8 @@ software and other kinds of works.</seg>
       <tuv lang="EN">
         <seg>The Project Manager should check with the translator that the statistics are identical on both sides (server side and translator side).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T094203Z" creationid="wynnc" creationdate="20190902T094203Z">
-        <seg>项目经理应当与译者核实确认两头（服务器侧与译者侧）的统计数据是一致的。</seg>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T094644Z" creationid="wynnc" creationdate="20190902T094203Z">
+        <seg>项目经理应当与译者核实确认两侧（服务器侧与译者侧）的统计数据是一致的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48037,6 +48037,14 @@ modification follow.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190801T154132Z" creationid="WynnChen" creationdate="20190801T154132Z">
         <seg>&lt;u0&gt;此处&lt;/u0&gt;描述了配置对 Microsoft Translator 和 Google Translate 服务的访问的过程。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The process above describes the usual case, where the project manager wants to have full control of the project and where the files (and the statistics) are identical on both sides (server side and translator side).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T094701Z" creationid="wynnc" creationdate="20190902T094640Z">
+        <seg>上面的流程是通常的情况，其中项目经理希望完全控制项目，文件（与统计数据）在两侧（服务器侧与译者侧）是一样的。</seg>
       </tuv>
     </tu>
     <tu>
