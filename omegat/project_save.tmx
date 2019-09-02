@@ -26062,6 +26062,14 @@ Reopen the project now?</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the Exclusion patterns dialog, it is possible to Add or Remove a pattern, or edit one by selecting a line and pressing F2. It is possible to use wildcards, using the &lt;u0&gt;ant syntax&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T060125Z" creationid="wynnc" creationdate="20190902T055930Z">
+        <seg>在排除模式对话框中，可以添加或删除模式，也可以通过选定一行并按 F2 来编辑。可以按 &lt;u0&gt;ant 语法&lt;/u0&gt;来使用通配符。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the Macro name box, type a name for the macro, such as "levelformat".</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T194925Z" creationid="Mac Pro" creationdate="20180425T194925Z">
@@ -61120,6 +61128,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>https://ant.apache.org/manual/dirtasks.html#patterns</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T055920Z" creationid="wynnc" creationdate="20190902T055920Z">
+        <seg>https://ant.apache.org/manual/dirtasks.html#patterns</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>https://datamarket.azure.com/account</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131116T131637Z" creationid="Fu Rhong" creationdate="20131116T131637Z">
@@ -61618,10 +61634,26 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>is not copied in /target folder during the translated files creation process.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T055919Z" creationid="wynnc" creationdate="20190902T055919Z">
+        <seg>在译文文件创建过程中不会被复制到 /target 文件夹中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>is not displayed in the Editor pane,</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T055830Z" creationid="lenovo" creationdate="20180413T153733Z">
         <seg>不会显示在编辑器窗格中、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>is not taken into account in statistics,</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T055846Z" creationid="wynnc" creationdate="20190902T055846Z">
+        <seg>不会纳入统计、</seg>
       </tuv>
     </tu>
     <tu>
