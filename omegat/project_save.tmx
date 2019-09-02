@@ -24501,8 +24501,8 @@ where to find the applicable terms.</seg>
       <tuv lang="EN">
         <seg>If you believe that you have lost translation data, you can use the following procedure to restore the project to its most recently saved state, usually not older than approximately 10 minutes or so:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120211T140152Z">
-        <seg>如果您觉得丢失了翻译数据，那么可以参照下列步骤恢复项目到最近保存的数据，通常是大约 10 分钟以内：</seg>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T065909Z">
+        <seg>如果您认为丢失了翻译数据，那么可以使用以下步骤将项目恢复到最近保存的状态，通常是大约 10 分钟以内：</seg>
       </tuv>
     </tu>
     <tu>
