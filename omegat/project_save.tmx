@@ -9765,6 +9765,14 @@ included in conveying the object code work.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Adding new source files</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T102210Z" creationid="wynnc" creationdate="20190902T102210Z">
+        <seg>添加新原文文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Additional parameter is required in this case, specifying the location of the target data:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120208T065100Z">
@@ -10285,6 +10293,14 @@ the above requirements apply either way.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T092147Z" creationid="wynnc" creationdate="20190902T092147Z">
         <seg>所有其他的文件都是只读的。如果译者试图修改它们，则只要项目被打开、关闭、保存或重新载入，它们就会回复到原始状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All other files will be replaced by the files in the remote repository.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T102204Z" creationid="wynnc" creationdate="20190902T102204Z">
+        <seg>所有其他文件将被远程存储库中的文件替换。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19703,6 +19719,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190323T125530Z" creationid="wynnc" creationdate="20190323T125530Z">
         <seg>正在执行脚本 {0}（事件 {1}）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Existing source files can be modified, but the commit operation must be carried out before an automatic save and before the project is reloaded or closed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T102337Z" creationid="wynnc" creationdate="20190902T102337Z">
+        <seg>可以修改现有的原文文件，但必须在自动保存之前以及项目被重新载入或关闭之前执行 commit 操作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51939,6 +51963,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
         <seg>要激活某种机器翻译服务，请前往&lt;g0&gt;选项&gt;机器翻译...&lt;/g0&gt;，然后激活需要的服务。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To add a new source file:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T102219Z" creationid="wynnc" creationdate="20190902T102219Z">
+        <seg>要添加新的原文文件：</seg>
       </tuv>
     </tu>
     <tu>
