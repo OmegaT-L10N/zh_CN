@@ -41808,6 +41808,14 @@ When using regular expressions, the replacement string supports references to gr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Should you wish to reuse a translation memory from a previous project (for example because the new project is similar to the previous project, or uses terminology which might have been used before), you can use these translation memories as "input translation memories", i.e. for import into your new project. In this case, place the translation memories you wish to use in the &lt;e0&gt;/tm&lt;/e0&gt; or &lt;e1&gt;/tm&lt;/e1&gt;/auto folder of your new project: in the former case you will get hits from these translation memories in the fuzzy matches viewer, and in the latter case these TMs will be used to pre-translate your source text.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T073434Z" creationid="wynnc" creationdate="20190902T073434Z">
+        <seg>如果希望重用过往项目的翻译记忆库（例如，因为新项目与之前的项目类似，或者使用之前可能用过的术语），您可以将这些翻译记忆库用作“输入翻译记忆库”，即导入您的新项目中。在这种情况下，将想要使用的翻译记忆库放在新项目的 &lt;e0&gt;/tm&lt;/e0&gt; 或 &lt;e1&gt;/tm&lt;/e1&gt;/auto 文件夹中：前一种情况下，会在模糊匹配查看器中看到来自于这些翻译记忆库的匹配，而后一种情况下，这些翻译记忆库将用于预翻译原文文本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Show &amp;longer target terms first</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190323T151748Z" creationid="wynnc" creationdate="20190320T045507Z">
