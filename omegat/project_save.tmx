@@ -34814,6 +34814,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT team projects must first be &lt;l0&gt;set up&lt;/l0&gt; on a server.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T101031Z" creationid="wynnc" creationdate="20190902T101031Z">
+        <seg>OmegaT 团队项目必须先在服务器上&lt;l0&gt;建立&lt;/l0&gt;起来。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT text export function</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190330T071037Z" creationid="cpeishan" creationdate="20180407T143019Z">
@@ -35342,6 +35350,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131111T125826Z" creationid="Fu Rhong" creationdate="20131111T114804Z">
         <seg>操作完成后，您可以检查刚才所说的目录：现在它应该包含.svn子文件夹且图标上含有绿色的就绪标记，这表示该文件夹的内容是最新的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Once the project has been opened, translation proceeds in the same way as for a non-team project, except the following points.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T101208Z" creationid="wynnc" creationdate="20190902T101208Z">
+        <seg>一旦项目已经打开，翻译的进行方式与非团队项目相同，但以下几点除外。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48384,6 +48400,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The quality of formatting of the translated file will depend on the quality of the round-trip conversion. Before proceeding with such conversions, be sure to test all options. Check the &lt;u0&gt;OmegaT home page&lt;/u0&gt; for an up-to-date listing of auxiliary translation tools.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T100955Z" creationid="wynnc" creationdate="20190902T100955Z">
+        <seg>译文文件的格式质量取决于来回转换的质量。在进行此类转换之前，请务必测试所有选项。查看&lt;u0&gt;OmegaT 主页&lt;/u0&gt;来获取最新的辅助翻译工具列表。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The quality of the Google Translate translation depends on one side on the reservoir of target-language texts and the availability of their bilingual versions, on the other hand on the quality of the models built.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120209T062816Z">
@@ -52694,6 +52718,14 @@ you modify it: responsibilities to respect the freedom of others.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To use a team project for the first time, follow the procedure provided by the project manager.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T101117Z" creationid="wynnc" creationdate="20190902T101117Z">
+        <seg>首次使用团队项目时，请按照项目经理所提供的流程进行操作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To use an existing glossary, simply place it in the &lt;f0&gt;/glossary&lt;/f0&gt; folder after creating the project. &lt;a1&gt;OmegaT&lt;/a1&gt; automatically detects glossary files in this folder when a project is opened. Terms in the current segment which &lt;a2&gt;OmegaT&lt;/a2&gt; finds in the glossary file(s) are displayed in the Glossary pane:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T033024Z" creationid="WynnChen" creationdate="20190522T033024Z">
@@ -54678,6 +54710,14 @@ Commands:
       </tuv>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T140415Z" creationid="lenovo" creationdate="20180411T135957Z">
         <seg>使用分开出现在原文文本中的词条</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use a Team Project</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T101007Z" creationid="wynnc" creationdate="20190902T101007Z">
+        <seg>使用团队项目</seg>
       </tuv>
     </tu>
     <tu>
@@ -62252,8 +62292,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>import the file into ODF writer</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131116T035044Z" creationid="Fu Rhong" creationdate="20131116T035044Z">
-        <seg>将文件导入到ODF writer</seg>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T100809Z" creationid="Fu Rhong" creationdate="20131116T035044Z">
+        <seg>将文件导入到 ODF writer</seg>
       </tuv>
     </tu>
     <tu>
@@ -63022,8 +63062,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>load the target file in ODF writer</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131116T035108Z" creationid="Fu Rhong" creationdate="20131116T035108Z">
-        <seg>在ODF writer中加载目标文件</seg>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T100835Z" creationid="Fu Rhong" creationdate="20131116T035108Z">
+        <seg>在 ODF writer 中加载译文文件</seg>
       </tuv>
     </tu>
     <tu>
@@ -64614,16 +64654,16 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>save the file as a DOC file</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120202T123808Z">
-        <seg>保存该文件为 DOC 格式</seg>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T100845Z">
+        <seg>将文件保存为 DOC 格式</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>save the file in ODT format</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120202T123710Z">
-        <seg>以 ODT 格式保存文件</seg>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T100818Z">
+        <seg>将文件保存为 ODT 格式保存</seg>
       </tuv>
     </tu>
     <tu>
@@ -65512,8 +65552,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>translate it into the target ODT file</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120202T123742Z">
-        <seg>对它进行翻译并创建目标 ODT 文件</seg>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T100829Z">
+        <seg>对它进行翻译并创建译文 ODT 文件</seg>
       </tuv>
     </tu>
     <tu>
