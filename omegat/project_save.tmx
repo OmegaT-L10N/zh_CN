@@ -44047,6 +44047,14 @@ of the GPL, as needed to protect the freedom of users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Synchronised files</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T101956Z" creationid="wynnc" creationdate="20190902T101956Z">
+        <seg>同步文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Synchronization error</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -47499,6 +47507,14 @@ from there.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180420T061921Z" creationid="think" creationdate="20180416T090214Z">
         <seg>安装脚本提供了更多的便利，但如果您愿意，仍然可以在 Linux 上手动安装 OmegaT 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The interval of 3 minutes can be changed in &lt;l0&gt;&lt;m1&gt; &lt;g2&gt;Options&lt;/g2&gt; &lt;g3&gt;Preferences&lt;/g3&gt; &lt;g4&gt;Saving and Output&lt;/g4&gt; &lt;/m1&gt;&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T101935Z" creationid="wynnc" creationdate="20190902T101935Z">
+        <seg>3 分钟的间隔可以在&lt;l0&gt;&lt;m1&gt; &lt;g2&gt;选项&lt;/g2&gt; &lt;g3&gt;首选项&lt;/g3&gt; &lt;g4&gt;保存和输出&lt;/g4&gt; &lt;/m1&gt;&lt;/l0&gt;中更改。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56632,6 +56648,14 @@ technological measures.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120201T040556Z">
         <seg>如果之后您又决定使用这些过滤器，只需勾上这些复选框。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Whenever the project is automatically saved, but also when it is opened, closed and reloaded, only two files are actually synchronised:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T102145Z" creationid="wynnc" creationdate="20190902T102145Z">
+        <seg>每当项目自动保存时，以及打开、关闭和重新载入时，实际上只会同步两个文件：</seg>
       </tuv>
     </tu>
     <tu>
