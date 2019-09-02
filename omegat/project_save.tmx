@@ -8339,6 +8339,22 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;repositories&gt;
+ &lt;repository type="git" url="https://repo_for_OmegaT_team_project.git"&gt;
+  &lt;mapping local="" repository=""/&gt;
+ &lt;/repository&gt;
+&lt;/repositories&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T093945Z" creationid="wynnc" creationdate="20190902T093945Z">
+        <seg>&lt;repositories&gt;
+ &lt;repository type="git" url="https://repo_for_OmegaT_team_project.git"&gt;
+  &lt;mapping local="" repository=""/&gt;
+ &lt;/repository&gt;
+&lt;/repositories&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;s0&gt;&lt;a1&gt;{{site.data.versions.latest.name}}&lt;/a1&gt;&lt;/s0&gt; Latest Version</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="18261" changedate="20180412T100054Z" creationid="18261" creationdate="20180412T100054Z">
@@ -13856,6 +13872,14 @@ Exception occurred:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190323T142245Z" creationid="wynnc" creationdate="20190320T045507Z">
         <seg>正在检出项目...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Checking statistics</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T094101Z" creationid="wynnc" creationdate="20190902T094101Z">
+        <seg>检查统计数据</seg>
       </tuv>
     </tu>
     <tu>
@@ -25646,6 +25670,14 @@ work and works based on it.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180414T112942Z" creationid="lenovo" creationdate="20180414T112942Z">
         <seg>在Firefox和Opera中，你可以打开已翻译.html文件单击右键，重新加载选择所需间隔（例如5秒）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In both cases, the project manager must send the translator their ID and password to access the repository.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T094038Z" creationid="wynnc" creationdate="20190902T094038Z">
+        <seg>两种情况下，项目经理都必须发给译者他们用来访问的存储库的 ID 和密码。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48150,6 +48182,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The reference to the URL is specified as below (here to a Git repository):</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T093942Z" creationid="wynnc" creationdate="20190902T093942Z">
+        <seg>对网址的引用如下所示（此处为 Git 存储库）：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The regular expressions (or regex for short) used in searches and segmentation rules are those supported by Java.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
@@ -64375,6 +64415,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="ZH-CN" changeid="Zoe" changedate="20180412T043118Z" creationid="Zoe" creationdate="20180412T043118Z">
         <seg>selection.txt - 包含用户在按下Ctrl-Shift-C 或选择编辑 &gt;导出选中部分时高亮过的文本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>sending an &lt;f0&gt;omegat.project&lt;/f0&gt; file containing a reference to the URL and asking the translator to copy it into a dedicated folder and open it with OmegaT.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T093857Z" creationid="wynnc" creationdate="20190902T093857Z">
+        <seg>发送包含对网址的引用的 &lt;f0&gt;omegat.project&lt;/f0&gt;文件并要求译者将其复制到专用的文件夹中然后用 OmegaT 打开它。</seg>
       </tuv>
     </tu>
     <tu>
