@@ -49445,6 +49445,14 @@ protocols for communication across the network.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>There may be cases where you have done a project with e.g. Dutch sources, and a translation in say English. Then you need a translation in e.g. Chinese, but your translator does not understand Dutch; she, however, understands perfectly English. In this case, the NL-EN translation memory can serve as a go-between to help generate NL to ZH translation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T083115Z" creationid="wynnc" creationdate="20190902T083115Z">
+        <seg>某些情况下，你可能已经完成了一个项目，原文为比如说荷兰语，翻译为比如说英语。然后需要将其翻译为比如说中文，但其译者并不懂荷兰语，不过她精通英语。在这种情况下，NL-EN 翻译记忆库可以作为一个中转来帮助生成 NL 到 ZH 的翻译。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There may be older versions of the documentation and/or translation memories (TMX files) available for your language which are useful to your translation.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T170647Z" creationid="lenovo" creationdate="20180416T170647Z">
