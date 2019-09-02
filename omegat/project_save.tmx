@@ -35136,6 +35136,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Once the project is set up on the server, the project manager can invite the translator to work on it in either of two different ways:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T093707Z" creationid="wynnc" creationdate="20190902T093707Z">
+        <seg>一旦项目在服务器上建立好之后，项目经理可以邀请译者在其上工作，两种方式任选其一：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Once the team project is setup, team members only need &lt;a0&gt;OmegaT&lt;/a0&gt; to access the team project.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131112T110327Z" creationid="Fu Rhong" creationdate="20131112T110327Z">
