@@ -4937,6 +4937,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;No / I don't know:&lt;/e0&gt; download &lt;f1&gt;OmegaT_4.n.n_Windows.exe&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T103324Z" creationid="wynnc" creationdate="20190902T103324Z">
+        <seg>&lt;e0&gt;否 / 吾不知：&lt;/e0&gt; 下载 &lt;f1&gt;OmegaT_4.n.n_Windows.exe&lt;/f1&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;No / I don't know:&lt;/e0&gt; download&lt;e1&gt; OmegaT_3.n.n_Windows.exe.&lt;/e1&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131116T122323Z" creationid="Fu Rhong" creationdate="20131116T122323Z">
@@ -11832,6 +11840,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131116T122529Z" creationid="Fu Rhong" creationdate="20131116T122529Z">
         <seg>安装开始时您可以选择在安装过程中使用的语言。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>At the beginning of the installation you can select the language to be used during the installation. In the following window you can indicate that the language selected is to be used in OmegaT. If you check the corresponding checkbox, the &lt;f0&gt;OmegaT.l4J.ini&lt;/f0&gt; file is modified to use the language selected (see next section for details). Later, after you have accepted the license agreement, the setup program asks you whether you wish to create a folder in the &lt;e1&gt;Start&lt;/e1&gt; menu, and whether you wish to create a shortcut on the desktop and in the quick launch bar - you can create these shortcuts later by dragging &lt;f2&gt;OmegaT.exe&lt;/f2&gt; to the desktop or to the Start menu to link it from there. The last frame offers you to have a look at the readme and changes files for the version you have installed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T104126Z" creationid="wynnc" creationdate="20190902T104126Z">
+        <seg>在安装开始时，你可以选择安装过程中使用的语言。在下一个窗口中，你可以选择是否要让 OmegaT 也使用这个选定的语言。如果你勾选了相应的复选框，&lt;f0&gt;OmegaT.l4J.ini&lt;/f0&gt; 文件会被修改为使用选定的语言（详细信息请参阅下一章）。稍后，在接受了许可协议后，安装程序会询问你是否要在&lt;e1&gt;开始&lt;/e1&gt;菜单中创建文件夹，以及是否要在桌面以及快速启动栏中创建快捷方式——你也可以稍后通过将 &lt;f2&gt;OmegaT.exe&lt;/f2&gt; 拖拽到桌面上或开始菜单里来创建相应的快捷方式。最后一屏让你可以查看所安装版本的自述文件和变更记录文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51551,6 +51567,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This package is bundled with Oracle's Java Runtime Environment. This JRE will not interfere with other Java implementations that may already be installed on your system.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T103439Z" creationid="wynnc" creationdate="20190902T103439Z">
+        <seg>这个包捆绑有 Oracle 的 Java 运行时环境（JRE）。此 JRE 不会干扰系统上可能已经安装的其他 Java 实现。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This page allows you to choose different colours for each part of the user interface.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190830T111501Z" creationid="WynnChen" creationdate="20190830T111501Z">
@@ -52417,8 +52441,8 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
       <tuv lang="EN">
         <seg>To install &lt;a0&gt;OmegaT&lt;/a0&gt;, double-click on the program you have downloaded.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131116T122423Z" creationid="Fu Rhong" creationdate="20131116T122423Z">
-        <seg>要安装&lt;a0&gt;OmegaT&lt;/a0&gt;，只需双击已下载的程序。</seg>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T103452Z" creationid="Fu Rhong" creationdate="20131116T122423Z">
+        <seg>要安装 &lt;a0&gt;OmegaT&lt;/a0&gt;，只需双击已下载的程序。</seg>
       </tuv>
     </tu>
     <tu>
