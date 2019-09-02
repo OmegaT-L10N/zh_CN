@@ -15542,10 +15542,26 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Create a local copy of the repository (&lt;c0&gt;check out&lt;/c0&gt; with SVN, &lt;c1&gt;clone&lt;/c1&gt; with Git).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T085151Z" creationid="wynnc" creationdate="20190902T085143Z">
+        <seg>创建此存储库的本地副本（对 SVN 是&lt;c0&gt;检出（check out）&lt;/c0&gt;，对 Git 是&lt;c1&gt;克隆（clone）&lt;/c1&gt;）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Create a new project on ProjectLocker</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190410T042315Z" creationid="Fu Rhong" creationdate="20131111T110629Z">
         <seg>在 ProjectLocker 上创建新项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create a new, empty OmegaT project in the local repository. This can be done in two ways:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T085230Z" creationid="wynnc" creationdate="20190902T085145Z">
+        <seg>在本地存储库中建立一个新的、空的 OmegaT 项目。有两种方式可以完成这一点：</seg>
       </tuv>
     </tu>
     <tu>
@@ -15570,6 +15586,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="think" changedate="20180416T021505Z" creationid="think" creationdate="20180416T021505Z">
         <seg>以常规方式创建一个OmegaT项目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create an SVN or Git repository on a server that will be accessible by the translators.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T085037Z" creationid="wynnc" creationdate="20190902T085037Z">
+        <seg>在服务器上创建一个译者可访问的 SVN 或 Git 存储库。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15731,6 +15755,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Zoe" changedate="20180411T134312Z" creationid="Zoe" creationdate="20180411T131754Z">
         <seg>相同片段通过创建“可选翻译”而得到不同的前/后片段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creating an empty project on a server</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T084944Z" creationid="wynnc" creationdate="20190902T084944Z">
+        <seg>在服务器上创建一个空项目</seg>
       </tuv>
     </tu>
     <tu>
@@ -43216,6 +43248,14 @@ of the GPL, as needed to protect the freedom of users.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T145818Z" creationid="wynnc" creationdate="20190324T030629Z">
         <seg>第1步：调整对齐参数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Step 1: Create an empty project on a server</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T084930Z" creationid="wynnc" creationdate="20190902T084930Z">
+        <seg>第 1 步：在服务器上创建一个空项目</seg>
       </tuv>
     </tu>
     <tu>
