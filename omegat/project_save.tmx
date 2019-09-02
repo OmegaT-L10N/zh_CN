@@ -14400,8 +14400,8 @@ Exception occurred:</seg>
       <tuv lang="EN">
         <seg>Click on the icon button (to the right of the Name/Description/Comment fields)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120206T122149Z">
-        <seg>点击图标按钮（在 Name/Description/Comment 字段的右边）。</seg>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T110040Z">
+        <seg>点击图标按钮（在名称/描述/命令字段的右边）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19107,6 +19107,14 @@ Your help page not found</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enter "&lt;a0&gt;OmegaT&lt;/a0&gt;" in the "Name" field; in the "Command" field, use the navigation button to find your &lt;a1&gt;OmegaT&lt;/a1&gt; launch script (the file named &lt;a2&gt;OmegaT&lt;/a2&gt; in the unpacked folder). Select it and confirm with OK.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T110349Z" creationid="wynnc" creationdate="20190902T110349Z">
+        <seg>在“名称”字段中输入“&lt;a0&gt;OmegaT&lt;/a0&gt;”；在“命令”字段中，用导航按钮找到 &lt;a1&gt;OmegaT&lt;/a1&gt; 启动脚本（在解压缩后the file named &lt;a2&gt;OmegaT&lt;/a2&gt; in the unpacked folder）. Select it and confirm with OK。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enter &lt;a2&gt;OmegaT&lt;/a2&gt; as the name of the new item.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120206T122003Z">
@@ -20605,8 +20613,8 @@ patents cannot be used to render the program non-free.</seg>
       <tuv lang="EN">
         <seg>Finally, save the changes with &lt;e0&gt;File - Save.&lt;/e0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120206T122305Z">
-        <seg>最后，通过&lt;e0&gt;“文件-保存”［File－Save］&lt;/e0&gt;保存所作变更。</seg>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T110220Z">
+        <seg>最后，用&lt;e0&gt;文件 - 保存&lt;/e0&gt;来保存更改。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36330,6 +36338,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Other Icons - Browse, and navigate to the &lt;f0&gt;/images&lt;/f0&gt; subfolder in the &lt;a1&gt;OmegaT&lt;/a1&gt; application folder. Select the &lt;f2&gt;OmegaT.png&lt;/f2&gt; icon.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T110150Z" creationid="wynnc" creationdate="20190902T110150Z">
+        <seg>其他图标 - 浏览，然后导航至 &lt;a1&gt;OmegaT&lt;/a1&gt; 应用程序文件夹中的 &lt;f0&gt;/images&lt;/f0&gt; 子文件夹。选择 &lt;f2&gt;OmegaT.png&lt;/f2&gt; 图标。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Other OmegaT resources</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="18261" changedate="20180413T015359Z" creationid="18261" creationdate="20180413T015359Z">
@@ -40010,6 +40026,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120207T065940Z">
         <seg>在面板上单击鼠标右键——&lt;e0&gt;添加新启动器［Add New Launcher］。&lt;/e0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Right-click on the panel - &lt;e0&gt;Add New Launcher&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T110249Z" creationid="wynnc" creationdate="20190902T110249Z">
+        <seg>右键点击面板 - &lt;e0&gt;添加新启动器&lt;/e0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
