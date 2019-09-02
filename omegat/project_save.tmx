@@ -44115,6 +44115,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Take particular care when making changes to the files in &lt;l0&gt;/source&lt;/l0&gt; while in the middle of a project. If the source file is modified after you have begun translating, &lt;a1&gt;OmegaT&lt;/a1&gt; may be unable to find a segment that you have already translated.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T070909Z" creationid="wynnc" creationdate="20190902T070909Z">
+        <seg>在项目中途对 &lt;l0&gt;/source&lt;/l0&gt; 中的文件进行更改要特别小心。如果在开始翻译后原文文件有所修改，&lt;a1&gt;OmegaT&lt;/a1&gt; 也许会找不到您已翻译的片段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tamil</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T051050Z">
@@ -53617,8 +53625,8 @@ Please try to correct the error and reload the project.</seg>
       <tuv lang="EN">
         <seg>Until you are familiar with &lt;a0&gt;OmegaT&lt;/a0&gt;, create translated files at regular intervals and check that the translated file contains the latest version of your translation.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120211T140428Z">
-        <seg>在熟悉 &lt;a0&gt;OmegaT&lt;/a0&gt; 之前，应该定期创建已译文件，并查看已译文件是否包含了您所翻译的最新版本。</seg>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T070715Z">
+        <seg>在熟悉 &lt;a0&gt;OmegaT&lt;/a0&gt; 之前，请定期创建译文文件，并检查译文文件是否包含最新版本的翻译。</seg>
       </tuv>
     </tu>
     <tu>
