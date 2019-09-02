@@ -13956,6 +13956,14 @@ Exception occurred:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Clic on &lt;g0&gt;Exclusions...&lt;/g0&gt; to define the files or folders that will be ignored by &lt;a1&gt;OmegaT&lt;/a1&gt;. An ignored file or folder:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T055818Z" creationid="wynnc" creationdate="20190902T055720Z">
+        <seg>点击&lt;g0&gt;排除...&lt;/g0&gt;可定义 &lt;a1&gt;OmegaT&lt;/a1&gt; 要忽略的文件或文件夹。被忽略的文件或文件夹：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;e0&gt;Defaults&lt;/e0&gt; to reset the file filters to the default settings.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120201T040714Z">
@@ -22428,6 +22436,14 @@ Its winter has come</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131119T124349Z" creationid="Fu Rhong" creationdate="20131118T124900Z">
         <seg>此处您可选择不同的子文件夹，如源文件子文件夹、目标文件子文件夹等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Here you can select different subfolders, for instance the subfolder with source files, subfolder for target files etc. If you enter names of folders that do not exist yet, &lt;a0&gt;OmegaT&lt;/a0&gt; creates them for you. In case you decide to modify project folders, keep in mind that this will not move existing files from old folders to the new location.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T055709Z" creationid="wynnc" creationdate="20190902T055709Z">
+        <seg>在这里你可以选择不同的子文件夹，例如包含原文文件的子文件夹、译文文件的子文件夹等。如果输入的文件夹名称尚不存在，&lt;a0&gt;OmegaT&lt;/a0&gt; 会创建之。如果你决定修改项目的文件夹，要记住这并不会将现有文件从旧文件夹移动到新位置。</seg>
       </tuv>
     </tu>
     <tu>
@@ -61604,8 +61620,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>is not displayed in the Editor pane,</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="lenovo" changedate="20180413T153733Z" creationid="lenovo" creationdate="20180413T153733Z">
-        <seg>is not display</seg>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T055830Z" creationid="lenovo" creationdate="20180413T153733Z">
+        <seg>不会显示在编辑器窗格中、</seg>
       </tuv>
     </tu>
     <tu>
