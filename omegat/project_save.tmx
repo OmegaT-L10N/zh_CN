@@ -26466,8 +26466,8 @@ Reopen the project now?</seg>
       <tuv lang="EN">
         <seg>In the "Command" field, use the navigation button to find your &lt;a0&gt;OmegaT&lt;/a0&gt; launch script (the file named &lt;a1&gt;OmegaT&lt;/a1&gt; in the unpacked folder), and select it.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120206T122124Z">
-        <seg>在 "命令［Command］" 字段中，通过导航［navigation］按钮找到 &lt;a0&gt;OmegaT&lt;/a0&gt; 启动脚本（在解压目录中命名为 &lt;a1&gt;OmegaT&lt;/a1&gt; 的文件)并加以选中。</seg>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T110023Z">
+        <seg>在“命令”字段中，用导航按钮找到 &lt;a0&gt;OmegaT&lt;/a0&gt; 启动脚本（在解压得到的目录中名为 &lt;a1&gt;OmegaT&lt;/a1&gt; 的文件）并选中之。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37610,6 +37610,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120206T121638Z">
         <seg>按下&lt;e0&gt; &lt;k1&gt;Alt+F2&lt;/k1&gt; &lt;/e0&gt; 以显示 KRunner。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Press &lt;e0&gt; &lt;k1&gt;Alt+F2&lt;/k1&gt; &lt;/e0&gt; to show KRunner. Type &lt;e2&gt;kmenuedit+enter&lt;/e2&gt; to run the command. The KMenuEditor appears. In KMenuEditor select &lt;e3&gt;File &gt; New Item.&lt;/e3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T105826Z" creationid="wynnc" creationdate="20190902T105826Z">
+        <seg>按 &lt;e0&gt; &lt;k1&gt;Alt+F2&lt;/k1&gt; &lt;/e0&gt; 显示 KRunner。输入 &lt;e2&gt;kmenuedit+enter&lt;/e2&gt;以运行命令。KMenuEditor 就会出现。在 KMenuEditor 中选择&lt;e3&gt;文件 &gt; 新项目&lt;/e3&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49906,6 +49914,14 @@ protocols for communication across the network.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120206T121932Z">
         <seg>然后选择适当的菜单，通过&lt;e0&gt;［文件］－［新子菜单］&lt;/e0&gt;和&lt;e1&gt;［文件］－［新项目］&lt;/e1&gt;添加一个子菜单／项目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Then, after selecting a suitable menu, add a submenu/item with &lt;e0&gt;File - New&lt;/e0&gt; Submenu and &lt;e1&gt;File - New Item&lt;/e1&gt;. Enter &lt;a2&gt;OmegaT&lt;/a2&gt; as the name of the new item.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T105938Z" creationid="wynnc" creationdate="20190902T105935Z">
+        <seg>然后，选择了适当的菜单后，用&lt;e0&gt;文件 - 新建&lt;/e0&gt;子菜单和&lt;e1&gt;文件 - 新项目&lt;/e1&gt;来添加子菜单/项目。输入 &lt;a2&gt;OmegaT&lt;/a2&gt; 作为新项目的名称。</seg>
       </tuv>
     </tu>
     <tu>
