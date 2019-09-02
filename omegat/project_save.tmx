@@ -39558,8 +39558,8 @@ These words: 'Page not found'</seg>
       <tuv lang="EN">
         <seg>Runs (text elements) are set to RTL</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131116T075254Z" creationid="Fu Rhong" creationdate="20131116T075254Z">
-        <seg>阅读方向（文本元素）被设为RTL</seg>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T065016Z" creationid="Fu Rhong" creationdate="20131116T075254Z">
+        <seg>内容流（文本元素）被设为从右向左</seg>
       </tuv>
     </tu>
     <tu>
