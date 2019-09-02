@@ -4048,6 +4048,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; is a robust application. However, you should take precautions against data loss when using &lt;a1&gt;OmegaT&lt;/a1&gt;, just as with any other application. When you translate your files, &lt;a2&gt;OmegaT&lt;/a2&gt; stores all your progress in the translation memory &lt;l3&gt;project_save.tmx&lt;/l3&gt; that resides in the project's &lt;l4&gt;/omegat&lt;/l4&gt; subfolder.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T065536Z" creationid="wynnc" creationdate="20190902T065536Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; 是健壮的应用程序。然而，就像使用任何其他应用程序一样，使用 &lt;a1&gt;OmegaT&lt;/a1&gt; 时应当采取预防措施防止数据丢失。翻译文件时，&lt;a2&gt;OmegaT&lt;/a2&gt; 将所有进度存储在项目的 &lt;l4&gt;/omegat&lt;/l4&gt; 子文件夹中的翻译记忆文件 &lt;l3&gt;project_save.tmx&lt;/l3&gt; 中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; is available bundled with a Oracle Java JRE for Linux (Intel x86) and Windows platforms.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120207T113755Z">
@@ -33459,6 +33467,14 @@ combination as such.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120211T135921Z">
         <seg>OmegaT 在每次打开或重新载入项目时，也将翻译记忆备份到同一子目录下的 project_save.tmx.YEARMMDDHHNN.bak 文件中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT also backs up the translation memory to project_save.tmx.YEARMMDDHHNN.bak in the same subfolder each time a project is opened or reloaded. YEAR is the 4-digit year, MM is the month, DD the day of the month, and HH and NN are the hours and minutes when the previous translation memory was saved.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T065823Z" creationid="wynnc" creationdate="20190902T065823Z">
+        <seg>OmegaT 在每次打开或者重新载入项目时也会将翻译记忆库备份到同一子目录下的 project_save.tmx.YEARMMDDHHNN.bak 文件。其中 YEAR 是 4 位数年份、MM 是月份、DD 是月份内的日期、而 HH 与 NN 是保存上一份翻译记忆库时的小时和分钟。</seg>
       </tuv>
     </tu>
     <tu>
