@@ -26513,6 +26513,14 @@ patent against the party.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In this case, the procedure is the same, but the project manager does not add files to the /source folder.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T094850Z" creationid="wynnc" creationdate="20190902T094850Z">
+        <seg>在这种情况下，流程是一样的，但项目经理不往 /source 文件夹中添加文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In this dialog one can define the font used by &lt;a0&gt;OmegaT&lt;/a0&gt; in the following windows:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120211T134733Z">
@@ -30457,6 +30465,14 @@ later version.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190320T180817Z" creationid="wynnc" creationdate="20190320T180739Z">
         <seg>本地文件夹到存储库中远程文件夹的映射</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mapping parameters</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T094854Z" creationid="wynnc" creationdate="20190902T094854Z">
+        <seg>映射参数</seg>
       </tuv>
     </tu>
     <tu>
@@ -34640,6 +34656,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131110T070712Z" creationid="Fu Rhong" creationdate="20131110T070712Z">
         <seg>OmegaT支持两种流行的版本控制系统（简写为VCS）：&lt;u0&gt;Apache Subversion&lt;/u0&gt;（在命令名称svn后常被简称为SVN）和&lt;u1&gt;Git&lt;/u1&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT team projects can also be set up in a different way, where several translators share the project_save.tmx file but not the source files.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T094748Z" creationid="wynnc" creationdate="20190902T094748Z">
+        <seg>OmegaT 团队项目也可以以不同的方式建立，其中多个译者共享 project_save.tmx 文件但不共享原文文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -64206,6 +64230,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120218T060412Z">
         <seg>重命名当前的 &lt;f0&gt;project_save.tmx &lt;/f0&gt;文件（例如改名为 &lt;f1&gt;project_save.tmx.temporary&lt;/f1&gt;）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>repository type</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T095013Z" creationid="wynnc" creationdate="20190902T095013Z">
+        <seg>存储库类型</seg>
       </tuv>
     </tu>
     <tu>
