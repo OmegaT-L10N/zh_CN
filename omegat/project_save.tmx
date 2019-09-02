@@ -4779,8 +4779,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Hint:&lt;/e0&gt; the set of file filters for a given project is stored as &lt;f1&gt;project/omegat/filters.xml.&lt;/f1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131118T120440Z" creationid="Fu Rhong" creationdate="20131118T120440Z">
-        <seg>&lt;e0&gt;提示：&lt;/e0&gt;特定项目的文件过滤器集保存在&lt;f1&gt;project/omegat/filters.xml&lt;/f1&gt;。</seg>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T055345Z" creationid="Fu Rhong" creationdate="20131118T120440Z">
+        <seg>&lt;e0&gt;提示：&lt;/e0&gt;给定项目的文件过滤器集保存为 &lt;f1&gt;project/omegat/filters.xml&lt;/f1&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16505,6 +16505,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Defines the project-specific external search resources.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T055516Z" creationid="wynnc" creationdate="20190902T055516Z">
+        <seg>定义项目专用的外部搜索源。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Delete any launch scripts and remove any custom entries for OmegaT in your desktop.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180415T142410Z" creationid="lenovo" creationdate="20180415T142204Z">
@@ -25428,8 +25436,8 @@ work and works based on it.</seg>
       <tuv lang="EN">
         <seg>In a similar fashion as above the user can create project-specific File filters, which will be stored together with the project and will be valid for the current project only. To create a project-specific set of file filters, click on the &lt;g0&gt;File filter ... &lt;/g0&gt;button, then activate &lt;g1&gt;Enable project specific filters&lt;/g1&gt; check box in the window that opens. A copy of the changed filters configuration will be stored with the project. To delete project specific file filters, uncheck the check box. Note that in the menu &lt;g2&gt;Options-&gt;File Filters&lt;/g2&gt;, the global user filters are changed, not the project filters. See &lt;l3&gt;File Filters preferences&lt;/l3&gt; for more on the subject.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T055253Z" creationid="wynnc" creationdate="20190902T051858Z">
-        <seg>和上述类似，用户可以创建项目专用的文件过滤器，这些过滤器将与项目一起存储，且仅对当前项目有效。要创建项目专用的文件过滤器集合，点击&lt;g0&gt;文件过滤器...&lt;/g0&gt;按钮，然后在打开的窗口中激活&lt;g1&gt;允许项目专用过滤器&lt;/g1&gt;复选框。更改后的过滤器配置的副本会随同项目一起存储。要删除项目专用文件过滤器，取消勾选此复选框。请注意，在菜单&lt;g2&gt;选项-&gt;文件过滤器&lt;/g2&gt;中，将更改全局用户过滤器，而非项目的过滤器。有关此主题的更多信息，参见&lt;l3&gt;文件过滤器选项&lt;/l3&gt; for more on the subject.</seg>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T055323Z" creationid="wynnc" creationdate="20190902T051858Z">
+        <seg>和上述类似，用户可以创建项目专用的文件过滤器，这些过滤器将与项目一起存储，且仅对当前项目有效。要创建项目专用的文件过滤器集合，点击&lt;g0&gt;文件过滤器...&lt;/g0&gt;按钮，然后在打开的窗口中激活&lt;g1&gt;允许项目专用过滤器&lt;/g1&gt;复选框。更改后的过滤器配置的副本会随同项目一起存储。要删除项目专用文件过滤器，取消勾选此复选框。请注意，在菜单&lt;g2&gt;选项-&gt;文件过滤器&lt;/g2&gt;中，将更改全局用户过滤器，而非项目的过滤器。有关此主题的更多信息，参见&lt;l3&gt;文件过滤器首选项&lt;/l3&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48068,8 +48076,8 @@ protocols for communication across the network.</seg>
       <tuv lang="EN">
         <seg>The segmentation rules are generally valid across all the projects. The user, however, may need to generate a set of rules, specific to the project in question. Use this button to open a dialog, activate the check box &lt;g0&gt;Project specific segmentation rules&lt;/g0&gt;, then proceed to adjust the segmentation rules as desired. The new set of rules will be stored together with the project and will not interfere with the general set of segmentation rules. To delete project specific segmentation rules, uncheck the check box. See &lt;l1&gt;Segmentation Setup preferences&lt;/l1&gt; for more information on segmentation rules.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190902T032837Z" creationid="WynnChen" creationdate="20190902T032837Z">
-        <seg>分割规则通常适用于所有项目。但是，用户可能需要生成一组所讨论项目专用的规则。用此按钮打开对话框，激活&lt;g0&gt;将分割规则设为项目专用&lt;/g0&gt;复选框，然后根据需要继续调整分割规则。新的规则集将与项目一起存储，不会干扰到通用的分割规则集。要删除项目专用的分割规则，取消勾选此复选框。更多信息关于分割规则的信息，参见&lt;l1&gt;分割设置参数&lt;/l1&gt;。</seg>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T055316Z" creationid="WynnChen" creationdate="20190902T032837Z">
+        <seg>分割规则通常适用于所有项目。但是，用户可能需要生成一组所讨论项目专用的规则。用此按钮打开对话框，激活&lt;g0&gt;将分割规则设为项目专用&lt;/g0&gt;复选框，然后根据需要继续调整分割规则。新的规则集将与项目一起存储，不会干扰到通用的分割规则集。要删除项目专用的分割规则，取消勾选此复选框。更多信息关于分割规则的信息，参见&lt;l1&gt;分割设置首选项&lt;/l1&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -55623,6 +55631,14 @@ have the freedom to distribute copies of free software (and charge for
 them if you wish), that you receive source code or can get it if you
 want it, that you can change the software or use pieces of it in new
 free programs, and that you know you can do these things.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When working on a team project, this window allows you to define the mapping between remote folders and local folders (see examples &lt;l0&gt;here&lt;/l0&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T055502Z" creationid="wynnc" creationdate="20190902T055348Z">
+        <seg>在处理团队项目时，此窗口允许您定义远程文件夹和本地文件夹之间的映射（示例参见&lt;l0&gt;此处&lt;/l0&gt;）。</seg>
       </tuv>
     </tu>
     <tu>
