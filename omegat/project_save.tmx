@@ -5043,8 +5043,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Remove HTML comments in translated document&lt;/e0&gt;: commented parts (between &lt;!-- and --&gt;) will not be copied into the translated document.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190831T070048Z" creationid="WynnChen" creationdate="20190831T070048Z">
-        <seg>&lt;e0&gt;在译文文档中删除 HTML 注释&lt;/e0&gt;：注释部分（&lt;!-- 和 --&gt; 之间的部分）不会被复制到已译文档中。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190902T031957Z" creationid="WynnChen" creationdate="20190831T070048Z">
+        <seg>&lt;e0&gt;在译文文档中删除 HTML 注释&lt;/e0&gt;：注释部分（&lt;!-- 和 --&gt; 之间的部分）不会被复制到译文文档中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27835,8 +27835,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>It was not possible to create translated documents, because some tags are missing or damaged. Please correct the tag issues before using again Create Translated Documents.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
-        <seg>无法创建已译文档，因为某些标签丢失或损坏。在再次创建已译文档前前修正标签问题。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190902T032009Z" creationid="wynnc" creationdate="20190320T045507Z">
+        <seg>无法创建译文文档，因为某些标签丢失或损坏。在再次创建译文文档前请修正标签问题。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48058,6 +48058,14 @@ protocols for communication across the network.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The segmentation rules are generally valid across all the projects. The user, however, may need to generate a set of rules, specific to the project in question. Use this button to open a dialog, activate the check box &lt;g0&gt;Project specific segmentation rules&lt;/g0&gt;, then proceed to adjust the segmentation rules as desired. The new set of rules will be stored together with the project and will not interfere with the general set of segmentation rules. To delete project specific segmentation rules, uncheck the check box. See &lt;l1&gt;Segmentation Setup preferences&lt;/l1&gt; for more information on segmentation rules.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190902T032837Z" creationid="WynnChen" creationdate="20190902T032837Z">
+        <seg>分割规则通常适用于所有项目。但是，用户可能需要生成一组所讨论项目专用的规则。用此按钮打开对话框，激活&lt;g0&gt;将分割规则设为项目专用&lt;/g0&gt;复选框，然后根据需要继续调整分割规则。新的规则集将与项目一起存储，不会干扰到通用的分割规则集。要删除项目专用的分割规则，取消勾选此复选框。更多信息关于分割规则的信息，参见&lt;l1&gt;分割设置参数&lt;/l1&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The segmentation settings only address the way the source files are handled by &lt;a0&gt;OmegaT&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120214T030622Z">
@@ -49761,6 +49769,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Doris" changedate="20180418T170201Z" creationid="Doris" creationdate="20180418T170201Z">
         <seg>此操作也适用于&lt;l2&gt;项目文件&lt;/l2&gt;窗口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This area allows entering an external post-processing command (for instance, a script to rename files) that will be applied each time Create Translated Documents is used. This external command cannot include "pipes", etc., which is why calling a script is recommended.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190902T032149Z" creationid="WynnChen" creationdate="20190902T031903Z">
+        <seg>此区域允许输入一个在每次使用“创建译文文档”之后都会应用的外部后处理命令（例如，用于重命名文件的脚本）。这个外部命令不能包含“管道”等，因此建议调用一个脚本。</seg>
       </tuv>
     </tu>
     <tu>
