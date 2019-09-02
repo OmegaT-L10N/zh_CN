@@ -64379,6 +64379,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>sending the URL of the project and asking the translator to create a local copy with &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Download Team Project&lt;/g2&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T093804Z" creationid="wynnc" creationdate="20190902T093804Z">
+        <seg>发送项目网址并要求译者用&lt;m0&gt; &lt;g1&gt;项目&lt;/g1&gt; &lt;g2&gt;下载团队项目&lt;/g2&gt; &lt;/m0&gt;创建本地副本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>sentenceCaseMenuItem</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T061348Z" creationid="WynnChen" creationdate="20190409T061348Z">
