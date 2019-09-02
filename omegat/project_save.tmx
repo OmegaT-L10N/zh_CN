@@ -8387,6 +8387,32 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;repository type="http" url="https://github.com/omegat-org/omegat/raw/master/"&gt;
+            &lt;mapping local="source/Bundle.properties" repository="src/org/omegat/Bundle.properties"/&gt;
+               &lt;mapping local="source/readme_tr.txt" repository="release/readme.txt"/&gt;
+            &lt;/repository&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T095640Z" creationid="wynnc" creationdate="20190902T095640Z">
+        <seg>&lt;repository type="http" url="https://github.com/omegat-org/omegat/raw/master/"&gt;
+            &lt;mapping local="source/Bundle.properties" repository="src/org/omegat/Bundle.properties"/&gt;
+               &lt;mapping local="source/readme_tr.txt" repository="release/readme.txt"/&gt;
+            &lt;/repository&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;repository type="http" url="https://github.com/omegat-org/omegat/raw/master/"&gt;
+            &lt;mapping local="source/Bundle.properties" repository="src/org/omegat/Bundle.properties"/&gt;
+            &lt;/repository&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T095620Z" creationid="wynnc" creationdate="20190902T095620Z">
+        <seg>&lt;repository type="http" url="https://github.com/omegat-org/omegat/raw/master/"&gt;
+            &lt;mapping local="source/Bundle.properties" repository="src/org/omegat/Bundle.properties"/&gt;
+            &lt;/repository&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;s0&gt;&lt;a1&gt;{{site.data.versions.latest.name}}&lt;/a1&gt;&lt;/s0&gt; Latest Version</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="18261" changedate="20180412T100054Z" creationid="18261" creationdate="20180412T100054Z">
@@ -10341,8 +10367,8 @@ rights of fair use or other equivalent, as provided by copyright law.</seg>
       <tuv lang="EN">
         <seg>All the contents of &lt;f0&gt;https://repo_for_OmegaT_team_project&lt;/f0&gt; are mapped to the local OmegaT project</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T095549Z" creationid="wynnc" creationdate="20190902T095549Z">
-        <seg>&lt;f0&gt;https://repo_for_OmegaT_team_project&lt;/f0&gt; 的所有内容都映射到本地 OmegaT 项目</seg>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T095619Z" creationid="wynnc" creationdate="20190902T095549Z">
+        <seg>&lt;f0&gt;https://repo_for_OmegaT_team_project&lt;/f0&gt; 的所有内容映射到本地 OmegaT 项目</seg>
       </tuv>
     </tu>
     <tu>
@@ -36280,6 +36306,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>PDF files are a special case. They contain text formatting information, but such information cannot be reused by &lt;a0&gt;OmegaT&lt;/a0&gt; in order to create target files. Thus, PDF files are handled as plain text files, and output files are plain text files.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T100005Z" creationid="wynnc" creationdate="20190902T100005Z">
+        <seg>PDF 文件是一种特殊情况。它们包含文本格式信息，但 &lt;a0&gt;OmegaT&lt;/a0&gt; 无法重用此类信息来创建译文文件。因此，PDF 作为纯文本文件处理，并且输出文件是纯文本文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>PDFBox (Apache License 2.0)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190323T053801Z" creationid="wynnc" creationdate="20190323T052848Z">
@@ -48398,6 +48432,22 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The remote file &lt;f0&gt;https://github.com/omegat-org/omegat/raw/master/release/readme.txt&lt;/f0&gt; is mapped to the local file &lt;f1&gt;source/readme_tr.txt&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T095714Z" creationid="wynnc" creationdate="20190902T095714Z">
+        <seg>远程文件 &lt;f0&gt;https://github.com/omegat-org/omegat/raw/master/release/readme.txt&lt;/f0&gt; 映射到本地文件 &lt;f1&gt;source/readme_tr.txt&lt;/f1&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The remote file &lt;f0&gt;https://github.com/omegat-org/omegat/raw/master/src/org/omegat/Bundle.properties&lt;/f0&gt; is mapped to the local file &lt;f1&gt;source/Bundle.properties&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T095639Z" creationid="wynnc" creationdate="20190902T095639Z">
+        <seg>远程文件 &lt;f0&gt;https://github.com/omegat-org/omegat/raw/master/src/org/omegat/Bundle.properties&lt;/f0&gt; 映射到本地文件 &lt;f1&gt;source/Bundle.properties&lt;/f1&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The repository is empty at this moment.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131111T114406Z" creationid="Fu Rhong" creationdate="20131111T114406Z">
@@ -51165,6 +51215,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This makes it possible to rename the file to be translated.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T095805Z" creationid="wynnc" creationdate="20190902T095805Z">
+        <seg>这让重命名要翻译的文件成为可能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This manual, however, would not be possible without the help and support from a number of people.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120205T085436Z">
@@ -52989,6 +53047,14 @@ install.sh.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120215T141107Z">
         <seg>XHTML 或 HTML 文件的可翻译对象属性可以被提取为独立的片段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translate a PDF file</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T095814Z" creationid="wynnc" creationdate="20190902T095814Z">
+        <seg>翻译 PDF 文件</seg>
       </tuv>
     </tu>
     <tu>
