@@ -58394,6 +58394,14 @@ linux-install.sh 脚本的文件夹，然后用 ./linux-install.sh 执行脚本�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can launch OmegaT from the command line with a script that includes start-up options or you can click on &lt;f0&gt;OmegaT.jar&lt;/f0&gt; to launch it directly. Methods differ depending on the distribution. Make sure that your &lt;v1&gt;PATH&lt;/v1&gt; settings are correct and that &lt;f2&gt;.jar&lt;/f2&gt; files are properly associated with a Java launcher. Check "Command line launching" below for more information.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190928T042151Z" creationid="wynnc" creationdate="20190928T042151Z">
+        <seg>你可以从命令行用包含启动选项的脚本启动 OmegaT，或者你可以点击 &lt;f0&gt;OmegaT.jar&lt;/f0&gt; 直接启动它。具体方法根据发行版本而有所不同。请确保 &lt;v1&gt;PATH&lt;/v1&gt; 设置是正确的，且 &lt;f2&gt;.jar&lt;/f2&gt; 已经正确地与 Java 启动器关联。更多信息，参见下面的“命令行启动”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can level the formatting of paragraphs essentially by copying whole paragraphs in MS Word and pasting them back over themselves such that the entire paragraph assumes the formatting of the first character.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T200212Z" creationid="Mac Pro" creationdate="20180425T191906Z">
