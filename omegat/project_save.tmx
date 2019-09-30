@@ -27374,6 +27374,14 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Installing &lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190930T143135Z" creationid="wynnc" creationdate="20190928T042427Z">
+        <seg>安装 &lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Installing OmegaT</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130514T145301Z">
