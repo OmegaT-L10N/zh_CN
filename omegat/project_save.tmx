@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.0_0_unknown" segtype="paragraph" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.1.5" segtype="paragraph" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -38910,8 +38910,8 @@ These words: 'Page not found'</seg>
       <tuv lang="EN">
         <seg>Regex - Classes for Unicode blocks and categories</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T053819Z">
-        <seg>正则表达式 - Unicode 字块与分类类别</seg>
+      <tuv lang="ZH-CN" changeid="Andrew" changedate="20191106T092528Z">
+        <seg>正则表达式 - Unicode 字区与分类类别</seg>
       </tuv>
     </tu>
     <tu>
