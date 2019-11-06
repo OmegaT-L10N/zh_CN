@@ -63963,6 +63963,7 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
     </tu>
     <tu>
+      <note>建议给greedy设置词汇表</note>
       <tuv lang="EN">
         <seg>non-greedy quantifiers will match as little as they can. For example, &lt;e0&gt;a+?&lt;/e0&gt; will match the first &lt;e1&gt;a&lt;/e1&gt; in &lt;e2&gt;aaabbb&lt;/e2&gt;</seg>
       </tuv>
