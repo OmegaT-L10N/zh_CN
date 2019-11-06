@@ -38966,8 +38966,8 @@ These words: 'Page not found'</seg>
       <tuv lang="EN">
         <seg>Regex - Reluctant (non-greedy) quantifiers</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Andrew" changedate="20191106T134458Z">
-        <seg>正则表达式 - 懒惰（非贪心）量词</seg>
+      <tuv lang="ZH-CN" changeid="Andrew" changedate="20191106T134551Z">
+        <seg>正则表达式 - 懒惰（非贪婪）量词</seg>
       </tuv>
     </tu>
     <tu>
