@@ -63966,8 +63966,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>non-greedy quantifiers will match as little as they can. For example, &lt;e0&gt;a+?&lt;/e0&gt; will match the first &lt;e1&gt;a&lt;/e1&gt; in &lt;e2&gt;aaabbb&lt;/e2&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T055544Z" creationid="WynnChen" creationdate="20190522T055544Z">
-        <seg>非弹性量词会尽可能少地匹配。例如，&lt;e0&gt;a+?&lt;/e0&gt; 会匹配 &lt;e2&gt;aaabbb&lt;/e2&gt; 中的第一个 &lt;e1&gt;a&lt;/e1&gt;</seg>
+      <tuv lang="ZH-CN" changeid="Andrew" changedate="20191106T093325Z" creationid="WynnChen" creationdate="20190522T055544Z">
+        <seg>非贪婪量词会尽可能少地匹配。例如，&lt;e0&gt;a+?&lt;/e0&gt; 会匹配 &lt;e2&gt;aaabbb&lt;/e2&gt; 中的第一个 &lt;e1&gt;a&lt;/e1&gt;</seg>
       </tuv>
     </tu>
     <tu>
