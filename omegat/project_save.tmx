@@ -39035,6 +39035,7 @@ These words: 'Page not found'</seg>
       </tuv>
     </tu>
     <tu>
+      <note>本文位置 docs/en/chapter.regexp.html </note>
       <tuv lang="EN">
         <seg>Regular expressions</seg>
       </tuv>
