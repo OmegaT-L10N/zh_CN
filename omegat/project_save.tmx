@@ -38934,8 +38934,8 @@ These words: 'Page not found'</seg>
       <tuv lang="EN">
         <seg>Regex - Greedy quantifiers</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T054902Z">
-        <seg>正则表达式 - 贪心量词</seg>
+      <tuv lang="ZH-CN" changeid="Andrew" changedate="20191106T134733Z">
+        <seg>正则表达式 - 贪婪量词</seg>
       </tuv>
     </tu>
     <tu>
@@ -61717,8 +61717,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>greedy quantifiers will match as much as they can. For example, &lt;e0&gt;a+&lt;/e0&gt; will match the aaa in &lt;e1&gt;aaabbb&lt;/e1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T055046Z" creationid="WynnChen" creationdate="20190522T055046Z">
-        <seg>贪心量词会尽可能多地匹配。例如，&lt;e0&gt;a+&lt;/e0&gt; 会匹配 &lt;e1&gt;aaabbb&lt;/e1&gt; 中的 aaa</seg>
+      <tuv lang="ZH-CN" changeid="Andrew" changedate="20191106T134736Z" creationid="WynnChen" creationdate="20190522T055046Z">
+        <seg>贪婪量词会尽可能多地匹配。例如，&lt;e0&gt;a+&lt;/e0&gt; 会匹配 &lt;e1&gt;aaabbb&lt;/e1&gt; 中的 aaa</seg>
       </tuv>
     </tu>
     <tu>
