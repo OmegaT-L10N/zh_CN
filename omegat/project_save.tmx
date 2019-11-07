@@ -47316,8 +47316,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The first is the shortcut for &lt;g0&gt;Open Project&lt;/g0&gt;, the second for &lt;g1&gt;Create Glossary Entry&lt;/g1&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T044331Z">
-        <seg>第一个是&lt;g0&gt;打开项目&lt;/g0&gt;的快捷键，第二个则是&lt;g1&gt;创建术语表条目&lt;/g1&gt;的。</seg>
+      <tuv lang="ZH-CN" changeid="Andrew" changedate="20191107T134646Z">
+        <seg>第一个是&lt;g0&gt;打开项目&lt;/g0&gt;的快捷键，第二个则是&lt;g1&gt;创建词汇表条目&lt;/g1&gt;的。</seg>
       </tuv>
     </tu>
     <tu>
