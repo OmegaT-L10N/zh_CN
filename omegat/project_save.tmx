@@ -19101,8 +19101,8 @@ Your help page not found</seg>
       <tuv lang="EN">
         <seg>English: words, beginning with vowels, should generally be preceded by "an", not "a"</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T060730Z">
-        <seg>英语：以元音开头的单词前面应当是“an”而不是“a”</seg>
+      <tuv lang="ZH-CN" changeid="Andrew" changedate="20191107T073611Z">
+        <seg>英语：以元音开头的单词前面应当是 “an” 而不是 “a”</seg>
       </tuv>
     </tu>
     <tu>
