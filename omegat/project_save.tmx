@@ -32532,8 +32532,8 @@ measures.</seg>
       <tuv lang="EN">
         <seg>No glossary file found in the "glossary" folder.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T044712Z">
-        <seg>在“glossary”目录中没找到词汇表文件。</seg>
+      <tuv lang="ZH-CN" changeid="Andrew" changedate="20191107T075113Z">
+        <seg>在 “glossary” 文件夹中没找到词汇表文件。</seg>
       </tuv>
     </tu>
     <tu>
