@@ -18981,8 +18981,8 @@ Your help page not found</seg>
       <tuv lang="EN">
         <seg>Enables case-insensitive matching (by default, the pattern is case-sensitive).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T051144Z">
-        <seg>启用不区分大小写的匹配（缺省情况下，模式区分大小写）。</seg>
+      <tuv lang="ZH-CN" changeid="Andrew" changedate="20191107T110702Z">
+        <seg>启用不区分大小写的匹配（默认情况下，模式区分大小写）。</seg>
       </tuv>
     </tu>
     <tu>
