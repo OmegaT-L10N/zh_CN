@@ -5657,6 +5657,7 @@ The current setting is {0}MB;</seg>
       </tuv>
     </tu>
     <tu>
+      <note>已禁用的翻译多好……</note>
       <tuv lang="EN">
         <seg>&lt;html&gt;Per-project external commands are disabled and will not be executed. Enable them in &lt;b&gt;Preferences &gt; Saving and Output...&lt;/b&gt;.&lt;/html&gt;</seg>
       </tuv>
