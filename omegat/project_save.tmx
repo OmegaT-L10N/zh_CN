@@ -14224,8 +14224,8 @@ Exception occurred:</seg>
       <tuv lang="EN">
         <seg>Clear this option to deactivate automatic searching – if dictionaries are too long, for example.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190801T161134Z" creationid="WynnChen" creationdate="20190801T161134Z">
-        <seg>清除此选项可停用自动搜索——比如，当字典太长时。</seg>
+      <tuv lang="ZH-CN" changeid="Andrew" changedate="20191110T130234Z" creationid="WynnChen" creationdate="20190801T161134Z">
+        <seg>清除此选项可停用自动搜索——例如词典过长的情况。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32425,11 +32425,12 @@ appropriate location such as the Applications folder.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>片段？另建议 Unique 翻…孤立</note>
       <tuv lang="EN">
         <seg>Next Unique Segment</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T135127Z" creationid="lenovo" creationdate="20180411T133228Z">
-        <seg>下一个独特段落</seg>
+      <tuv lang="ZH-CN" changeid="Andrew" changedate="20191107T143636Z" creationid="lenovo" creationdate="20180411T133228Z">
+        <seg>下一个独特片段</seg>
       </tuv>
     </tu>
     <tu>
