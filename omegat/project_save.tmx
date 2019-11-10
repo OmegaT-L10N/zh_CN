@@ -5660,8 +5660,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;html&gt;Per-project external commands are disabled and will not be executed. Enable them in &lt;b&gt;Preferences &gt; Saving and Output...&lt;/b&gt;.&lt;/html&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
-        <seg>&lt;html&gt;项目外部命令被禁用因而不会执行。请到&lt;b&gt;选项&gt;保存及输出&lt;/b&gt;中启用。&lt;/html&gt;</seg>
+      <tuv lang="ZH-CN" changeid="Andrew" changedate="20191110T150228Z" creationid="wynnc" creationdate="20190320T045507Z">
+        <seg>&lt;html&gt;项目外部命令被禁用因而不会执行。请到&lt;b&gt;选项&gt;保存及输出...&lt;/b&gt;中启用。&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
