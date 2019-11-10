@@ -76,3 +76,4 @@ bold	粗体	作为动词则为“加粗”。统一使用“粗体”而非“�
 validator	验证器	统一使用，避免使用 校验器 检验器 等。
 Open XML	Open XML	指 Microsoft Office2013开始的 Open XML 格式（.docx等），专有名词，维持原样。
 Segmentation	分割	建议统一
+translation memory	翻译记忆
