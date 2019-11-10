@@ -41463,8 +41463,8 @@ When using regular expressions, the replacement string supports references to gr
       <tuv lang="EN">
         <seg>Segment encountered outside translation unit variant. Segment skipped.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
-        <seg>在翻译单元变量之外发现了片段。片段被忽略。</seg>
+      <tuv lang="ZH-CN" changeid="Andrew" changedate="20191110T150845Z" creationid="wynnc" creationdate="20190320T045507Z">
+        <seg>在翻译单元变量之外发现了片段。片段已跳过。</seg>
       </tuv>
     </tu>
     <tu>
