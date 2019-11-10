@@ -79,3 +79,4 @@ Segmentation	分割	建议统一
 translation memory	翻译记忆
 Segment	片段
 Delimitation	界定	发现有这种译法……先添加上吧
+segmentation	分割
