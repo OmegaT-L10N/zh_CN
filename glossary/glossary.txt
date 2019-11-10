@@ -1,4 +1,4 @@
-segment	片段
+﻿segment	片段
 History Completion	历史完成
 History Prediction	历史预测
 term	词汇	词汇表中的条目
@@ -78,5 +78,5 @@ Open XML	Open XML	指 Microsoft Office2013开始的 Open XML 格式（.docx等�
 Segmentation	分割	建议统一
 translation memory	翻译记忆
 Segment	片段
-Delimitation	界定	发现有这种译法……先添加上吧
+Delimitation	界定	发现有这种译法……先添加上吧。	虽然感觉“划分”确实更通俗……
 segmentation	分割
