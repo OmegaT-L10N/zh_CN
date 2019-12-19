@@ -18089,6 +18089,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Double-click on &lt;f0&gt;OmegaT.app&lt;/f0&gt; or click on its location in the Dock.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20191219T021239Z" creationid="WynnChen" creationdate="20191219T021239Z">
+        <seg>在 &lt;f0&gt;OmegaT.app&lt;/f0&gt; 上双击或者点击其在 Dock 上的位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Double-click on the OmegaT application.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190325T165602Z" creationid="xulihang" creationdate="20180408T021831Z">
@@ -58441,6 +58449,14 @@ linux-install.sh 脚本的文件夹，然后用 ./linux-install.sh 执行脚本�
       </tuv>
       <tuv lang="ZH-CN" changeid="17012" changedate="20180405T103038Z" creationid="17012" creationdate="20180405T102711Z">
         <seg>你可以通过编辑 &lt;e0&gt;Properties&lt;/e0&gt;以及&lt;e1&gt;组件中的Configuration.properties&lt;/e1&gt; 文件来修改OmegaT的行为。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can modify OmegaT's behaviour by editing the &lt;e0&gt;Properties&lt;/e0&gt; as well as the &lt;f1&gt;Configuration.properties&lt;/f1&gt; file in the package.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20191219T023546Z" creationid="WynnChen" creationdate="20191219T023546Z">
+        <seg>你可以通过编辑 &lt;e0&gt;Properties&lt;/e0&gt; 以及包中的 &lt;f1&gt;Configuration.properties&lt;/f1&gt; 文件来修改 OmegaT 的行为。</seg>
       </tuv>
     </tu>
     <tu>
