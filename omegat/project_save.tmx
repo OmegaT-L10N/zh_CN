@@ -9808,8 +9808,8 @@ included in conveying the object code work.</seg>
       <tuv lang="EN">
         <seg>Adding &lt;a0&gt;OmegaT&lt;/a0&gt; to the Dock</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120207T112251Z">
-        <seg>添加 &lt;a0&gt;OmegaT&lt;/a0&gt; 到 Dock</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20191219T021028Z">
+        <seg>将 &lt;a0&gt;OmegaT&lt;/a0&gt; 添加到 Dock</seg>
       </tuv>
     </tu>
     <tu>
@@ -18317,6 +18317,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120207T112315Z">
         <seg>拖放 &lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.app&lt;/e0&gt; 到 Dock 中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Drag and drop &lt;f0&gt;OmegaT.app&lt;/f0&gt; onto the Dock.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20191219T021123Z" creationid="WynnChen" creationdate="20191219T021123Z">
+        <seg>将 &lt;f0&gt;OmegaT.app&lt;/f0&gt; 拖放到 Dock 上。</seg>
       </tuv>
     </tu>
     <tu>
