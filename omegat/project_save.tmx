@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.1.5" segtype="paragraph" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.0_0_unknown" segtype="paragraph" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -18069,6 +18069,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131116T123906Z" creationid="Fu Rhong" creationdate="20131116T123906Z">
         <seg>双击&lt;e0&gt;OmegaT_3.n.n_Mac.zip&lt;/e0&gt;解压出来。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Double click on &lt;f0&gt;OmegaT_4.n.n_Mac.zip&lt;/f0&gt; to unpack it. This creates a folder called &lt;f1&gt;OmegaT&lt;/f1&gt;. The folder contains 2 files: &lt;f2&gt;index.html&lt;/f2&gt; and &lt;f3&gt;OmegaT.app&lt;/f3&gt;. Copy the folder to a suitable folder (e.g. Applications). Once you have done this, you can delete the &lt;f4&gt;OmegaT_4.n.n_Mac.zip&lt;/f4&gt; file, it is no longer needed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20191219T020958Z" creationid="WynnChen" creationdate="20191219T020958Z">
+        <seg>双击 &lt;f0&gt;OmegaT_4.n.n_Mac.zip&lt;/f0&gt; 将其解压缩。这将创建一个名为 &lt;f1&gt;OmegaT&lt;/f1&gt; 的文件夹。该文件夹包含 2 个文件：&lt;f2&gt;index.html&lt;/f2&gt; 和 &lt;f3&gt;OmegaT.app&lt;/f3&gt;。将此文件夹复制到合适的文件夹（例如 Applications）中。完成此操作后，可以删除 &lt;f4&gt;OmegaT_4.n.n_Mac.zip&lt;/f4&gt; 文件，该文件不再需要。</seg>
       </tuv>
     </tu>
     <tu>
