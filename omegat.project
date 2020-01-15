@@ -25,7 +25,8 @@
             <repository type="http" url="https://github.com/omegat-org/omegat/raw/master/">
                 <mapping local="source/Bundle.properties" repository="src/org/omegat/Bundle.properties"/>
                 <mapping local="source/readme_zh_CN.txt" repository="release/readme.txt"/>
-                <mapping local="source/release/win32-specific/CustomMessages.ini" repository="release/win32-specific/CustomMessages.ini"/>
+                <mapping local="source/release/win32-specific/CustomMessages_zh_CN.ini" repository="release/win32-specific/CustomMessages.ini"/>
+                <mapping local="source/release/mac-specific/OmegaT.app/Contents/Resources/zh_CN.lproj/Localizable.strings" repository="release/mac-specific/OmegaT.app/Contents/Resources/en.lproj/Localizable.strings"/>
                 <mapping local="source/scripts/check_rules.properties" repository="scripts/properties/check_rules.properties"/>
                 <mapping local="source/scripts/spellcheck.properties" repository="scripts/properties/spellcheck.properties"/>
                 <mapping local="source/scripts/svn_cleanup_selected.properties" repository="scripts/properties/svn_cleanup_selected.properties"/>
