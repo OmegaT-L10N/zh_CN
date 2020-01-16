@@ -22884,6 +22884,14 @@ authors of previous versions.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="EN">
+        <seg>Have you ever written an article for your professional association's journal? If not, why not write an article on using OmegaT?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200116T072848Z" creationid="WynnChen" creationdate="20200116T072848Z">
+        <seg>你曾为你的专业协会期刊写过文章吗？如果还没，为什么不写一篇文章讨论 OmegaT 的使用呢？</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>这里的or可能应为of</note>
       <tuv lang="EN">
         <seg>Having no languages defined elicits this kind or a response.</seg>
@@ -25411,8 +25419,8 @@ to use Java Web Start.</seg>
       <tuv lang="EN">
         <seg>If you have found OmegaT useful and would like to express your gratitude by making a &lt;a0&gt;donation&lt;/a0&gt; on our Paypal account.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T112621Z" creationid="18261" creationdate="20180412T112621Z">
-        <seg>如果你觉得OmegaT很有用，并且想要表达感谢，可以 &lt;a0&gt;捐赠&lt;/a0&gt;在我们的paypal账号。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200116T073359Z" creationid="18261" creationdate="20180412T112621Z">
+        <seg>如果你觉得 OmegaT 很有用，并且想要表达感谢，可以向我们的 Paypal 账号&lt;a0&gt;捐赠&lt;/a0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
