@@ -52,6 +52,14 @@ this License without regard to the additional permissions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>"Cannot launch from folder that contains a \"/\" in its name.";</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200116T065342Z" creationid="WynnChen" creationdate="20200116T065342Z">
+        <seg>"不能从名称中包含 \"/\" 的文件夹内启动。";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>"Copyright" also means copyright-like laws that apply to other kinds of
 works, such as semiconductor masks.</seg>
       </tuv>
@@ -50014,8 +50022,8 @@ protocols for communication across the network.</seg>
       <tuv lang="EN">
         <seg>The version for installation by the user, familiar to existing OmegaT users. If in doubt, select this version.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190330T075116Z" creationid="WynnChen" creationdate="20190330T075116Z">
-        <seg>现有的 OmegaT 用户熟悉的由用户安装的版本。如果不确定，请选择此版本。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200116T065712Z" creationid="WynnChen" creationdate="20190330T075116Z">
+        <seg>现有 OmegaT 用户所熟悉的由用户安装的版本。如果不确定，请选择此版本。</seg>
       </tuv>
     </tu>
     <tu>
