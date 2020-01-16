@@ -17271,6 +17271,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Detailed technical discussion of changes is best conducted directly with OmegaT's developers. For this purpose, a dedicated &lt;a0&gt;developers' mailing list&lt;/a0&gt; exists.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200116T075530Z" creationid="WynnChen" creationdate="20200116T075530Z">
+        <seg>关于变更的详细技术讨论则最好直接与 OmegaT 的开发人员沟通。为此，有一个专门的&lt;a0&gt;开发者邮件列表&lt;/a0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Details unavailable</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190323T153924Z" creationid="wynnc" creationdate="20190323T153924Z">
