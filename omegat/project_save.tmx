@@ -11818,8 +11818,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="EN">
         <seg>As elsewhere in the OmegaT project, the work of programming OmegaT is done by volunteers, and in keeping with the project philosophy, the developments and improvements they make to OmegaT are ultimately at their discretion. There is however considerable scope within the project for users to suggest improvements and influence the course of future development.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200116T074835Z" creationid="WynnChen" creationdate="20200116T074835Z">
-        <seg>与 OmegaT 项目的其他地方一样，OmegaT 的编程工作由志愿者完成，并且根据项目理念，他们对 OmegaT 的开发和改进最终由他们自己决定。但是，用户在项目中有相当大空间可以提出改进建议并影响未来的发展。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200116T074847Z" creationid="WynnChen" creationdate="20200116T074835Z">
+        <seg>与 OmegaT 项目的其他地方一样，OmegaT 的编程工作由志愿者完成，并且根据项目理念，他们对 OmegaT 的开发和改进最终由他们自己决定。但是，用户在项目中有相当大空间可以提出改进建议并影响未来的发展进程。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47680,6 +47680,14 @@ instead.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="18261" changedate="20180412T131010Z" creationid="18261" creationdate="20180412T131010Z">
         <seg>第一 &lt;a0&gt;OmegaT 用户组&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The first of these is the &lt;a0&gt;OmegaT user group&lt;/a0&gt;. This is the main focus of the OmegaT user community. New users of OmegaT are encouraged to make any suggestions here. One reason for this is that the desired function may already have been implemented, or that there may be reasons why it cannot be implemented. Convenient alternative functions or solutions may also exist.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200116T075244Z" creationid="WynnChen" creationdate="20200116T074840Z">
+        <seg>其中首要的是 &lt;a0&gt;OmegaT 用户组&lt;/a0&gt;。这是 OmegaT 用户社区的主要关注点。鼓励 OmegaT 的新用户将各种建议提在这里。原因之一是所需的功能可能已经实现，或者可能由于某些原因而无法实现。也可能已经存在方便的替代功能或解决方案。</seg>
       </tuv>
     </tu>
     <tu>
