@@ -4045,8 +4045,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;a0&gt;Documentation&lt;/a0&gt; is very important. Many of you reading this will be translators who have translated a lot of user documentation. Have you considered writing some user documentation yourself? It's a real eye-opener!</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200116T070255Z" creationid="WynnChen" creationdate="20200116T070255Z">
-        <seg>&lt;a0&gt;文档&lt;/a0&gt; 非常重要。正在阅读的各位，有许多都是翻译过许多用户文档的译者。你有想过自己攥写用户文档吗？这真的会让人大开眼界！</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200116T070617Z" creationid="WynnChen" creationdate="20200116T070255Z">
+        <seg>&lt;a0&gt;文档&lt;/a0&gt; 非常重要。正在阅读的各位中有许多都曾翻译过很多用户文档。你有想过自己撰写点用户文档吗？这真的会让人大开眼界！</seg>
       </tuv>
     </tu>
     <tu>
@@ -46410,8 +46410,8 @@ software and other kinds of works.</seg>
       <tuv lang="EN">
         <seg>The OmegaT project would benefit from greater support from volunteers in almost all areas. Although many users are aware of this, their reaction is often "But I can't program!". Programming is certainly the most important function, and without programming, there is no program. But programming isn't the only job needing to be done. Below is a list of areas for which further volunteers would be more than welcome!</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200116T070212Z" creationid="WynnChen" creationdate="20200116T070212Z">
-        <seg>OmegaT 项目得益于来自世界各地志愿者的大力支持。许多用户意识到了这一点，但他们的反应经常是“可我并不会编程！”。编程确实是最重要的，没有编程就不会有这款程序。但是编程并不是唯一的工作。下面列表的工作，欢迎更多志愿者的加入！</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200116T070501Z" creationid="WynnChen" creationdate="20200116T070212Z">
+        <seg>OmegaT 项目得益于来自世界各地志愿者的大力支持。许多用户意识到了这一点，但他们的反应经常是“可我并不会编程！”。编程确实是最重要的，没有编程就不会有程序。但是编程并不是唯一的工作内容。以下所列的工作领域，欢迎更多志愿者的加入！</seg>
       </tuv>
     </tu>
     <tu>
