@@ -4043,6 +4043,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;Documentation&lt;/a0&gt; is very important. Many of you reading this will be translators who have translated a lot of user documentation. Have you considered writing some user documentation yourself? It's a real eye-opener!</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200116T070255Z" creationid="WynnChen" creationdate="20200116T070255Z">
+        <seg>&lt;a0&gt;文档&lt;/a0&gt; 非常重要。正在阅读的各位，有许多都是翻译过许多用户文档的译者。你有想过自己攥写用户文档吗？这真的会让人大开眼界！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;Download Abiword here&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T084629Z" creationid="lenovo" creationdate="20180416T084629Z">
@@ -31270,6 +31278,14 @@ later version.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Master</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200116T070049Z" creationid="WynnChen" creationdate="20200116T070049Z">
+        <seg>Master</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Master Password</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190324T041100Z" creationid="wynnc" creationdate="20190324T041100Z">
@@ -45747,6 +45763,22 @@ produce the work, or an object code interpreter used to run it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The "master" (alpha) version reflects the very latest state of development. It is recommended for serious developers and testers only. It can also be obtained using the git command:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200116T070133Z" creationid="WynnChen" creationdate="20200116T070116Z">
+        <seg>“master”（alpha）版本反映了最新的开发状态。只推荐专业开发人员和测试人员使用。它也可以用 git 命令获取：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The "master" version is a cutting-edge, "alpha" version, still in development. Pre-built binaries, are available as Nightly Builds.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200116T070034Z" creationid="WynnChen" creationdate="20200116T070034Z">
+        <seg>“master”版本是前沿的“alpha”版本，仍处于开发中。预构建的二进制文件以 Nightly Builds 的形式呈现。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The "old" version of OmegaT will be overwritten, but any settings from it will be retained.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120206T094832Z">
@@ -46372,6 +46404,14 @@ software and other kinds of works.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="18261" changedate="20180412T101811Z" creationid="18261" creationdate="20180412T101811Z">
         <seg>OmegaT 项目得益于来自世界各地志愿者的大力支持。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The OmegaT project would benefit from greater support from volunteers in almost all areas. Although many users are aware of this, their reaction is often "But I can't program!". Programming is certainly the most important function, and without programming, there is no program. But programming isn't the only job needing to be done. Below is a list of areas for which further volunteers would be more than welcome!</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200116T070212Z" creationid="WynnChen" creationdate="20200116T070212Z">
+        <seg>OmegaT 项目得益于来自世界各地志愿者的大力支持。许多用户意识到了这一点，但他们的反应经常是“可我并不会编程！”。编程确实是最重要的，没有编程就不会有这款程序。但是编程并不是唯一的工作。下面列表的工作，欢迎更多志愿者的加入！</seg>
       </tuv>
     </tu>
     <tu>
@@ -61897,6 +61937,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131108T070155Z" creationid="Fu Rhong" creationdate="20131108T070155Z">
         <seg>gd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>git clone https://git.code.sf.net/p/omegat/code omegat-code</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200116T070144Z" creationid="WynnChen" creationdate="20200116T070144Z">
+        <seg>git clone https://git.code.sf.net/p/omegat/code omegat-code</seg>
       </tuv>
     </tu>
     <tu>
