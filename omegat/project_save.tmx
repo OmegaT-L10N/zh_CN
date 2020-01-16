@@ -46488,6 +46488,14 @@ software and other kinds of works.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Standard version requires Java {{site.data.versions.standard.java_version}}. It has usually been in use for some time and is therefore proven. Its documentation, at least in English, is usually reasonably up to date.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200116T065811Z" creationid="WynnChen" creationdate="20200116T065811Z">
+        <seg>标准版本需要 Java {{site.data.versions.standard.java_version}}。它通常已投入使用一段时间，因此已得以验证。其文档，至少英文文档，通常是足够新的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Standard version requires Java {{site.data.versions.standard.java_version}}. It has usually been in use for some time and is therefore proven. Its documentation, at least in English, is usually reasonably up to date. It will however lack some of the features of the "Latest" version.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190402T042220Z" creationid="WynnChen" creationdate="20190402T042058Z">
