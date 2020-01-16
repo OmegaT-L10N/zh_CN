@@ -34815,6 +34815,14 @@ OmegaT 使用了以下库：
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT is an open-source application and project. This means that the source code of the OmegaT program is freely available, and that OmegaT's license gives its users considerable freedom in its use. Not only may it be used free of charge, users are also free to make copies of it and distribute them.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200116T092925Z" creationid="WynnChen" creationdate="20200116T092925Z">
+        <seg>OmegaT是开源的应用程序和项目。这意味着 OmegaT 的源代码是免费提供的，且 OmegaT 的许可证为其用户提供了极大的使用自由。它不仅可以免费使用，而且用户还可以自由地对其复制和分发。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT is available under the terms of the GNU General Public License as
 published by the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.</seg>
