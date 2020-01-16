@@ -35795,6 +35795,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Once a user has formulated a proposed change or enhancement to OmegaT, a defined procedure exists for its submission to the development team for consideration. This enables the numerous suggestions to be managed more easily. The procedure is termed an &lt;a0&gt;"RFE" (Request for Feature Enhancement) and is managed here&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200116T075948Z" creationid="WynnChen" creationdate="20200116T075948Z">
+        <seg>一旦有用户对 OmegaT 提出了变更或改进建议，便会按一个预定流程将其提交给开发团队进行评估。这样更易于管理大量建议。此流程称为&lt;a0&gt;“RFE”（Request for Feature Enhancement）and is managed here&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Once computed, the data also available in &lt;f6&gt;omegat/project_stats_match.txt.&lt;/f6&gt; Note that the file is time-stamped, as the calculation (contrary to the standard statistics) is not instantaneous and can thus quickly become obsolete.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120219T150130Z">
