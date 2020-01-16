@@ -25199,6 +25199,15 @@ is to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you have already Java installed on your system, one way to install OmegaT is
+to use Java Web Start.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200116T062239Z" creationid="WynnChen" creationdate="20200116T062239Z">
+        <seg>如果已在系统中安装了 Java，安装 OmegaT 的方法之一是使用 Java Web Start。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you have already Java, one way to install the current version of OmegaT is to use Java Web Start.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Puzzlist" changedate="20130922T041305Z" creationid="Puzzlist" creationdate="20130922T041305Z">
@@ -27472,6 +27481,16 @@ everything.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190325T164801Z" creationid="WynnChen" creationdate="20190325T164801Z">
         <seg>安装 OmegaT（Solaris、FreeBSD、...）
+=========================================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Installing OmegaT (Solaris, FreeBSD, etc.)
+=========================================</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200116T062218Z" creationid="WynnChen" creationdate="20200116T062218Z">
+        <seg>安装 OmegaT（Solaris、FreeBSD 等）
 =========================================</seg>
       </tuv>
     </tu>
@@ -37074,6 +37093,15 @@ everything.</seg>
 to be launched.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190327T164401Z" creationid="WynnChen" creationdate="20190327T164401Z">
+        <seg>将压缩包放在任何合适的文件夹中并解压之。然后 OmegaT 就已就位，可以运行了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Place the archive in any suitable folder and unpack it. OmegaT is then ready to
+be launched.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200116T062104Z" creationid="WynnChen" creationdate="20200116T062104Z">
         <seg>将压缩包放在任何合适的文件夹中并解压之。然后 OmegaT 就已就位，可以运行了。</seg>
       </tuv>
     </tu>
@@ -54560,6 +54588,17 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unpack the OmegaT .zip archive to obtain a folder that contains a documentation
+file and the OmegaT application. Move the folder to an appropriate location such
+as the Applications folder.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200116T062059Z" creationid="WynnChen" creationdate="20200116T062040Z">
+        <seg>解压 OmegaT 的 .zip 压缩包以获得包含文档文件和 OmegaT 应用程序的文件夹。
+将该文件夹移动到合适的地方，比如 Applications 文件夹。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Unpack/untar the downloaded file.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120206T121256Z">
@@ -56383,6 +56422,15 @@ searchable without subscription:</seg>
 trouble of selecting, obtaining and installing it.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190325T164003Z" creationid="xulihang" creationdate="20180408T020804Z">
+        <seg>我们推荐使用包含 JRE 的 OmegaT 软件包，以避免选择、获取、与安装 JRE 的麻烦。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We recommend using OmegaT packages that include the JRE, to save you the trouble
+of selecting, obtaining and installing it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200116T062030Z" creationid="WynnChen" creationdate="20200116T062030Z">
         <seg>我们推荐使用包含 JRE 的 OmegaT 软件包，以避免选择、获取、与安装 JRE 的麻烦。</seg>
       </tuv>
     </tu>
@@ -58473,6 +58521,19 @@ install.sh.</seg>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190327T164528Z" creationid="WynnChen" creationdate="20190327T164528Z">
         <seg>不过，您可以使用安装脚本（linux-install.sh）获得更整洁、更友好的安装。
 要使用此脚本，请打开终端窗口（控制台），进入包含 OmegaT.jar 和 
+linux-install.sh 脚本的文件夹，然后用 ./linux-install.sh 执行脚本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can however obtain a neater and more user-friendly installation by using the
+installation script (linux-install.sh). To use this script, open a terminal
+window (console), change folder to the folder containing OmegaT.jar and the
+linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200116T062157Z" creationid="WynnChen" creationdate="20200116T062157Z">
+        <seg>不过，您可以使用安装脚本（linux-install.sh）获得更整洁、更友好的安装。
+要使用此脚本，请打开终端窗口（控制台），进入包含 OmegaT.jar 和
 linux-install.sh 脚本的文件夹，然后用 ./linux-install.sh 执行脚本。</seg>
       </tuv>
     </tu>
