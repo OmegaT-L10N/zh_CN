@@ -2427,6 +2427,34 @@ not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- Anthony Baldwin (localisation manager)
+- Didier Briel (project manager)
+- Alex Buloichik (lead developer)
+- Sabine Cretella
+- Dmitri Gabinski
+- Jean-Christophe Helary (support group owner, localisation manager)
+- Maxym Mykhalchuk (lead developer)
+- Samuel Murray
+- Henry Pijffers (release manager)
+- Marc Prior (project co-ordinator, webmaster)
+- Vito Smolej (documentation manager)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200116T064047Z" creationid="WynnChen" creationdate="20200116T064047Z">
+        <seg>- Anthony Baldwin（本地化经理）
+- Didier Briel（项目经理）
+- Alex Buloichik（首席开发人员）
+- Sabine Cretella
+- Dmitri Gabinski
+- Jean-Christophe Helary（支持小组组长、本地化经理）
+- Maxym Mykhalchuk（首席开发人员）
+- Samuel Murray
+- Henry Pijffers（发布经理）
+- Marc Prior（项目调度员、网站管理员）
+- Vito Smolej（文档经理）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>- Before editing OmegaT.l4J.ini&lt;br2/&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="anton" changedate="20180416T081554Z" creationid="anton" creationdate="20180416T081554Z">
@@ -60132,8 +60160,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>and many, many more very helpful people</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T160638Z">
-        <seg>还有很多、很多很有帮助的人</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200116T064124Z">
+        <seg>以及很多、很多大有助益的人</seg>
       </tuv>
     </tu>
     <tu>
