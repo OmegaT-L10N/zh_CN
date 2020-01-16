@@ -45562,6 +45562,14 @@ The scope of a text replacement is the target segments of the project, whether t
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Thanks to the work of translators in the past, OmegaT's user interface and/or Help texts have been translated into several languages. That means there are only a few thousand left! Localizing OmegaT into other languages is also an ongoing task, since new features and functions are being added all the time. Please contact the &lt;a0&gt;OmegaT Localization Co-ordinator&lt;/a0&gt; for details of what is involved in localizing/translating OmegaT.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200116T071108Z" creationid="WynnChen" creationdate="20200116T071108Z">
+        <seg>归功于过往翻译人员的工作，OmegaT 的用户界面及帮助文本已经被翻译成多种语言。这意味着只剩下几千种语言了！将 OmegaT 本地化为其他语言是一项持续的工作，因为一直都在增加新的特性和功能。请联系 &lt;a0&gt;OmegaT 本地化协调人员&lt;/a0&gt;来获取本地化/翻译 OmegaT 所涉及的内容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>That means that if you feel so inclined, you may modify OmegaT to suit your own requirements.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="18261" changedate="20180412T101136Z" creationid="18261" creationdate="20180412T101136Z">
