@@ -11289,6 +11289,14 @@ to determine the source of the error and try again.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An important aspect of this freedom is that users may also modify the program's code. To the open-source movement, the freedom that users have to change the program to suit their own needs is more important than the fact that they do not have to pay for it. This is described as "free as in speech", in contrast to "free as in beer".</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200116T112659Z" creationid="WynnChen" creationdate="20200116T112659Z">
+        <seg>这种自由的一个重要方面是用户也可以修改程序的代码。对于开源运动来说，用户拥有按需修改程序的自由比无需付费更加重要。这被称为“free as in speech（指“自由”，即 free speech（言论自由）中 free 的含义）”，于此相对的是“free as in beer（指“免费”，即 free beer（免费啤酒）中 free 的含义）”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An intelligent command-line alignment tool for producing translation memory files from legacy texts and their translations.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T093932Z" creationid="chloechao" creationdate="20180412T093932Z">
@@ -49271,6 +49279,14 @@ protocols for communication across the network.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="18261" changedate="20180412T123036Z" creationid="18261" creationdate="20180412T123036Z">
         <seg>在OmegaT项目中可以发现相同的精神。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The same spirit can be found within the OmegaT project. Users are free to download and use the program. In turn, they are free, and indeed encouraged (but not obliged in any way) to contribute back to the project. How they do so is very much up to them. For example, there is nothing to stop a user writing their own user manual or a demonstration video for OmegaT, and if the project considers it remotely useful, it is likely to be made available to OmegaT's community of users. Where routine tasks are concerned, volunteers working on the OmegaT project are generally given as much freedom as possible in determining the form of their contribution. This hands-off approach is described by the current OmegaT project co-ordinator as "delegated anarchy".</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200116T113722Z" creationid="WynnChen" creationdate="20200116T113722Z">
+        <seg>在 OmegaT 项目中可以找到相同的精神。用户可以自由地下载和使用该程序。反过来，用户可以自由地、并且确实地被鼓励为项目贡献（但没有任何义务）。用户怎样做取决于他们自己。例如，并没有什么东西来阻止用户为 OmegaT 制作自己的用户手册或演示视频，并且，如果项目认为它有长远作用，那么 OmegaT 的用户社区很可能使用它。在日常任务方面，从事 OmegaT 项目的志愿者通常会有充分地自由来决定其贡献形式。当前的 OmegaT 项目协调员将这种不干涉的方法称为“授权无政府状态”。</seg>
       </tuv>
     </tu>
     <tu>
