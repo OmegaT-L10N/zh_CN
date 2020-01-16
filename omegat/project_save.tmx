@@ -13060,6 +13060,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>But I can't program at all, I hear you say. Well, have you considered learning? If you are already reasonably familiar with computers in general and choose a straightforward scripting language like Javascript or Tcl/Tk, you could teach yourself enough to be able to write simple but useful scripts within just a couple of weeks. Continuing Professional Development is the current buzzword!</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200116T074415Z" creationid="WynnChen" creationdate="20200116T074415Z">
+        <seg>我听进去了，但是我完全不懂编程。好吧，考虑学一下不？如果你已经相当熟悉计算机，并选择一种简单易懂的脚本语言，例如 Javascript 或Tcl/Tk，可以在几周内就通过自学来写出简单却有用的脚本。持续专业发展（Continuing Professional Development）在当下可是个热词！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>But it will at least stay at the same point in the text when the view is updated.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180414T113955Z" creationid="lenovo" creationdate="20180414T113955Z">
@@ -25137,6 +25145,14 @@ where to find the applicable terms.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="18261" changedate="20180412T113733Z" creationid="18261" creationdate="20180412T113733Z">
         <seg>如果你会其他编程语言，可以编写代码支持核心应用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you can program in another language, you can write code to support the core application. Such auxiliary code has already been written in Javascript, Groovy and Tcl/Tk, for instance.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200116T073840Z" creationid="WynnChen" creationdate="20200116T073840Z">
+        <seg>如果你会其他编程语言，可以编写代码来支持核心应用程序。已经有用 Javascript、Groovy 和 Tcl/Tk 等语言所编写的此类辅助性代码。</seg>
       </tuv>
     </tu>
     <tu>
