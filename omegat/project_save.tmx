@@ -25697,6 +25697,15 @@ to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If, during installation, you have created a shortcut on the desktop,
+double-click on that shortcut.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200116T062256Z" creationid="WynnChen" creationdate="20200116T062256Z">
+        <seg>如果在安装过程中已经在桌面上创建了快捷方式，双击此快捷方式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If, during installation, you have created a shortcut on the desktop, double-
 click on that shortcut.</seg>
       </tuv>
@@ -47832,6 +47841,18 @@ from there.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The installer can create shortcuts for you in the start menu, on the desktop and
+in the quick launch area. You can also manually drag the file OmegaT.exe to the
+start menu, the desktop or the quick launch area to link it from there.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200116T062724Z" creationid="WynnChen" creationdate="20200116T062724Z">
+        <seg>安装程序可以在开始菜单、桌面和快速启动栏中创建快捷方式。
+您也可以将 OmegaT.exe 文件手工拖动到开始菜单、桌面或快速启动栏
+来将其链接到那些地方。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The interval of 3 minutes can be changed in &lt;l0&gt;&lt;m1&gt; &lt;g2&gt;Options&lt;/g2&gt; &lt;g3&gt;Preferences&lt;/g3&gt; &lt;g4&gt;Saving and Output&lt;/g4&gt; &lt;/m1&gt;&lt;/l0&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T101935Z" creationid="wynnc" creationdate="20190902T101935Z">
@@ -62488,6 +62509,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T134829Z" creationid="Administrator" creationdate="20180411T134829Z">
         <seg>https://omegat.sourceforge.io/webstart/&lt;a0&gt;OmegaT&lt;/a0&gt;.jnlp </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://omegat.sourceforge.net/webstart/OmegaT.jnlp</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200116T062246Z" creationid="WynnChen" creationdate="20200116T062246Z">
+        <seg>https://omegat.sourceforge.net/webstart/OmegaT.jnlp</seg>
       </tuv>
     </tu>
     <tu>
