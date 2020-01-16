@@ -25831,8 +25831,8 @@ work and works based on it.</seg>
       <tuv lang="EN">
         <seg>Importing and exporting translation memories</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120218T065523Z">
-        <seg>导入和导出翻译记忆</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200116T061700Z">
+        <seg>导入和导出翻译记忆库</seg>
       </tuv>
     </tu>
     <tu>
@@ -35108,6 +35108,16 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190325T163419Z" creationid="xulihang" creationdate="20180408T020428Z">
         <seg>OmegaT使用了许多库。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT uses a number of librairies. The license of each library is mentioned in
+/lib/licenses/Licenses.txt.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200116T062005Z" creationid="WynnChen" creationdate="20200116T062005Z">
+        <seg>OmegaT使用了许多库。各个库的许可证在以下文件中有所提及：
+/lib/licenses/Licenses.txt</seg>
       </tuv>
     </tu>
     <tu>
