@@ -20978,6 +20978,18 @@ Kaptain. You can then launch the Kaptain launch script with:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>For a more user-friendly way of launching OmegaT, you can use the Kaptain script
+provided (omegat.kaptn). To use this script you must first install Kaptain. You
+can then launch the Kaptain launch script with:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200116T063119Z" creationid="WynnChen" creationdate="20200116T063119Z">
+        <seg>要以对用户更友好的方式启动 OmegaT，您可以使用所提供的 Kaptain
+脚本（omegat.kaptn）。要使用此脚本，必须先安装 Kaptain。
+然后，可以这样启动 Kaptain 启动脚本：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>For a quick-start tutorial, launch OmegaT and read the displayed Instant Start Tutorial.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Puzzlist" changedate="20130922T041229Z" creationid="Puzzlist" creationdate="20130922T041229Z">
@@ -25002,6 +25014,16 @@ where to find the applicable terms.</seg>
 (Windows Explorer), change the settings so that file extensions are displayed.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190325T165546Z" creationid="xulihang" creationdate="20180408T021437Z">
+        <seg>如果您在文件管理器（Windows 资源管理器）中能看到文件 OmegaT 但看不到
+OmegaT.exe，请修改设置以显示文件扩展名。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you can see the file OmegaT but not OmegaT.exe in your File Manager (Windows
+Explorer), change the settings so that file extensions are displayed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200116T062733Z" creationid="WynnChen" creationdate="20200116T062733Z">
         <seg>如果您在文件管理器（Windows 资源管理器）中能看到文件 OmegaT 但看不到
 OmegaT.exe，请修改设置以显示文件扩展名。</seg>
       </tuv>
@@ -59016,6 +59038,17 @@ Finder window to be able to launch it from any location. You can also launch
 it from the Spotlight search field.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190327T164609Z" creationid="WynnChen" creationdate="20190327T164609Z">
+        <seg>你可以将 OmegaT 应用程序拖动到 dock 面板或 Finder 窗口的工具栏
+以便从任意位置启动它。您还可以从 Spotlight 搜索区中启动它。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may drag the OmegaT application to your dock or to the toolbar of a Finder
+window to be able to launch it from any location. You can also launch it from
+the Spotlight search field.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200116T062802Z" creationid="WynnChen" creationdate="20200116T062802Z">
         <seg>你可以将 OmegaT 应用程序拖动到 dock 面板或 Finder 窗口的工具栏
 以便从任意位置启动它。您还可以从 Spotlight 搜索区中启动它。</seg>
       </tuv>
