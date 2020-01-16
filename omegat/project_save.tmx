@@ -24048,6 +24048,14 @@ need not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If checked, the background of all segments where the target segment has been auto-populated (from TMXs placed in &lt;f0&gt;/tm/auto&lt;/f0&gt; for example) are displayed in colour. The colours are displayed as long as the &lt;l1&gt;&lt;g2&gt;Save auto-populated status&lt;/g2&gt;&lt;/l1&gt; option is checked. Usual translations inserted from the auto folder are displayed in orange. Other translations, identified specifically in the TMX, can be displayed using different colours. For technical details, see the &lt;u3&gt;Request For Enhancement&lt;/u3&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200116T075956Z" creationid="WynnChen" creationdate="20200116T075956Z">
+        <seg>If checked, the background of all segments where the target segment has been auto-populated (from TMXs placed in &lt;f0&gt;/tm/auto&lt;/f0&gt; for example) are displayed in colour. The colours are displayed as long as the &lt;l1&gt;&lt;g2&gt;Save auto-populated status&lt;/g2&gt;&lt;/l1&gt; option is checked. Usual translations inserted from the auto folder are displayed in orange. Other translations, identified specifically in the TMX, can be displayed using different colours. For technical details, see the &lt;u3&gt;Request For Enhancement&lt;/u3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If checked, the entries are sorted alphabetically.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190323T152020Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -35797,8 +35805,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>Once a user has formulated a proposed change or enhancement to OmegaT, a defined procedure exists for its submission to the development team for consideration. This enables the numerous suggestions to be managed more easily. The procedure is termed an &lt;a0&gt;"RFE" (Request for Feature Enhancement) and is managed here&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200116T075948Z" creationid="WynnChen" creationdate="20200116T075948Z">
-        <seg>一旦有用户对 OmegaT 提出了变更或改进建议，便会按一个预定流程将其提交给开发团队进行评估。这样更易于管理大量建议。此流程称为&lt;a0&gt;“RFE”（Request for Feature Enhancement）and is managed here&lt;/a0&gt;.</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200116T080155Z" creationid="WynnChen" creationdate="20200116T075948Z">
+        <seg>一旦有用户对 OmegaT 提出了变更或改进建议，便会按一个预定流程将其提交给开发团队进行评估。这样更易于管理大量建议。此流程称为&lt;a0&gt;“RFE”（功能强化请求），在此处管理&lt;/a0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
