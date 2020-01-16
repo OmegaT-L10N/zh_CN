@@ -59079,9 +59079,9 @@ it from the Spotlight search field.</seg>
 window to be able to launch it from any location. You can also launch it from
 the Spotlight search field.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200116T062802Z" creationid="WynnChen" creationdate="20200116T062802Z">
-        <seg>你可以将 OmegaT 应用程序拖动到 dock 面板或 Finder 窗口的工具栏
-以便从任意位置启动它。您还可以从 Spotlight 搜索区中启动它。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200116T064003Z" creationid="WynnChen" creationdate="20200116T062802Z">
+        <seg>你可以将 OmegaT 应用程序拖动到程序坞（dock）面板或访达（Finder）窗口的工具栏
+以便从任意位置启动它。您还可以从聚焦搜索（Spotlight search）的搜索区中启动它。</seg>
       </tuv>
     </tu>
     <tu>
