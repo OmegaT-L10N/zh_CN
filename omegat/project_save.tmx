@@ -34988,6 +34988,14 @@ to be launched.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT is written in Java. If you're a programmer and you happen to know Java, please check the documentation in the &lt;a0&gt;source code&lt;/a0&gt; under /docs_devel for information on how to get started.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200116T073626Z" creationid="WynnChen" creationdate="20200116T073626Z">
+        <seg>OmegaT 是用 Java 编写的。如果你是程序员又刚好懂 Java，请查看&lt;a0&gt;源代码&lt;/a0&gt;中 docs_devel 文件夹内的文档来了解如何开始研发。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT isn't just a product; it's an exciting project, and you can be part of it.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190523T025723Z" creationid="18261" creationdate="20180412T100549Z">
