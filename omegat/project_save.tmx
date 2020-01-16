@@ -106,6 +106,14 @@ modification has been made.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>"Main class name is required.";</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200116T065237Z" creationid="WynnChen" creationdate="20200116T065237Z">
+        <seg>"主类名是必须的。";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>"Non-unique segment" covers both default and alternative translations.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180420T021702Z" creationid="Zoe" creationdate="20180411T132350Z">
@@ -150,6 +158,22 @@ License.  Each licensee is addressed as "you".  "Licensees" and
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>"This application requires that Java %d or later be installed on your computer. Please download and install the latest version of Java from www.java.com and try again.";</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200116T065139Z" creationid="WynnChen" creationdate="20200116T065139Z">
+        <seg>"此应用程序需要计算机上安装有 Java %d 或更新版本。请从 www.java.com 下载最新版本的 Java 并安装后再重试一次。";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>"This application requires that a Java %d JDK or later be installed on your computer. Please download and install the latest Java JDK from Oracle.com and try again.";</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200116T065215Z" creationid="WynnChen" creationdate="20200116T065215Z">
+        <seg>"此应用程序需要计算机上安装有 Java %d 或更新版本的 JDK。请从 Oracle.com 下载最新版本的 Java JDK 并安装后再重试一次。";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>"This is a source term, which contains a comma","c'est un terme, qui contient une virgule"</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120205T130136Z">
@@ -158,10 +182,26 @@ License.  Each licensee is addressed as "you".  "Licensees" and
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>"Unable to enumerate Java directory contents.";</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200116T065305Z" creationid="WynnChen" creationdate="20200116T065305Z">
+        <seg>"无法枚举 Java 目录内容。";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>"Unable to load Java Runtime Environment.";</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200116T064936Z" creationid="WynnChen" creationdate="20200116T064936Z">
         <seg>"无法加载 Java 运行环境（JRE）。";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>"Unable to load a Java %d Runtime Environment.";</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200116T065024Z" creationid="WynnChen" creationdate="20200116T065024Z">
+        <seg>"无法加载 Java %d 运行环境（JRE）。";</seg>
       </tuv>
     </tu>
     <tu>
