@@ -158,6 +158,14 @@ License.  Each licensee is addressed as "you".  "Licensees" and
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>"Unable to load Java Runtime Environment.";</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200116T064936Z" creationid="WynnChen" creationdate="20200116T064936Z">
+        <seg>"无法加载 Java 运行环境（JRE）。";</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>"We" refers below to the OmegaT project team.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180415T143035Z" creationid="lenovo" creationdate="20180415T143035Z">
@@ -12942,8 +12950,8 @@ Buy another drink</seg>
       <tuv lang="EN">
         <seg>Bug reports (in English), at the SourceForge site:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T161200Z">
-        <seg>在 SourceForge 网站可以（用英语）报告 Bug：</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200116T064304Z">
+        <seg>可以在 SourceForge 网站（用英语）报告 Bug：</seg>
       </tuv>
     </tu>
     <tu>
@@ -39987,8 +39995,8 @@ These words: 'Page not found'</seg>
       <tuv lang="EN">
         <seg>Requests for Enhancements (in English), at the SourceForge site:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T161123Z">
-        <seg>在 SourceForge 网站可以（用英语）提出改进建议与意见：</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200116T064249Z">
+        <seg>可以在 SourceForge 网站（用英语）提出改进建议与意见：</seg>
       </tuv>
     </tu>
     <tu>
@@ -55520,8 +55528,8 @@ Commands:
         <seg>Useful links
 ============</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T110300Z" creationid="xulihang" creationdate="20180408T110300Z">
-        <seg>有用的链接
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200116T064202Z" creationid="xulihang" creationdate="20180408T110300Z">
+        <seg>重要链接
 ============</seg>
       </tuv>
     </tu>
@@ -55651,6 +55659,14 @@ Commands:
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T135209Z" creationid="Administrator" creationdate="20180411T135209Z">
         <seg>用户支持由&lt;u3&gt;&lt;a4&gt;OmegaT&lt;/a4&gt; Yahoo!的志愿者组成。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>User support resources:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200116T064232Z" creationid="WynnChen" creationdate="20200116T064232Z">
+        <seg>用户支持资源：</seg>
       </tuv>
     </tu>
     <tu>
@@ -62577,6 +62593,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T160944Z" creationid="WynnChen" creationdate="20190326T160944Z">
         <seg>https://groups.yahoo.com/neo/groups/OmegaT/info</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://omegat.org/</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200116T064204Z" creationid="WynnChen" creationdate="20200116T064204Z">
+        <seg>https://omegat.org/</seg>
       </tuv>
     </tu>
     <tu>
