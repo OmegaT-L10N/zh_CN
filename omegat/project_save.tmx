@@ -35915,6 +35915,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>One of the most useful things OmegaT users can do is... to use OmegaT. And when they find things that don't work, or deficiencies in the documentation, to tell us about them.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200116T072659Z" creationid="WynnChen" creationdate="20200116T072659Z">
+        <seg>用户可以做的最有用的事情之一就是……使用 OmegaT。发现无法使用的功能或者文档中的缺陷时，请告知我们。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>One or more of the above problems may have been fixed, but the project has not been reloaded.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T045137Z">
