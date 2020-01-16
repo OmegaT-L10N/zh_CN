@@ -2135,6 +2135,17 @@ need not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(The Java executable file is the file java on Linux and java.exe on Windows.  If
+Java is installed at system level and is in the command path, the full path need
+not be entered.)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200116T063135Z" creationid="WynnChen" creationdate="20200116T063135Z">
+        <seg>（所谓 Java 可执行文件，在 Linux 下是 java 文件，在 Windows 下则是 java.exe 文件。
+如果 Java 是在系统级安装的且处于命令行路径中，则无需输入完整路径。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(The definition of “unique” is case-sensitive: "Run" and "run" are treated as being different)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T033741Z">
@@ -2828,6 +2839,26 @@ need not be entered.)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="钢" changedate="20130514T152023Z">
         <seg>- Typo3 LocManager (*.xml)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- Vincent Bidaux (documentation manager)
+- Marco Cevoli (Telegram community manager)
+- Jean-Christophe Helary (Twitter community manager)
+- Kos Ivantsof (localisation manager)
+- Concepción Martin (Facebook community manager)
+- Briac Pilpré (webmaster)
+- Lucie Vecerova (Facebook community manager)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200116T063227Z" creationid="WynnChen" creationdate="20200116T063227Z">
+        <seg>- Vincent Bidaux（文档经理）
+- Marco Cevoli（Telegram 社区经理）
+- Jean-Christophe Helary（Twitter 社区经理）
+- Kos Ivantsof（本地化经理）
+- Concepción Martin（Facebook 社区经理）
+- Briac Pilpré（网站管理员）
+- Lucie Vecerova（Facebook 社区经理）</seg>
       </tuv>
     </tu>
     <tu>
