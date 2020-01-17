@@ -26624,6 +26624,14 @@ work and works based on it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In most systems, it is possible to open a project by dropping an &lt;f0&gt;omegat.project&lt;/f0&gt; file onto the OmegaT icon on the desktop. It might also be possible to open an OmegaT project by double-clicking on an &lt;f1&gt;omegat.project&lt;/f1&gt; file.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T145955Z" creationid="WynnChen" creationdate="20200117T145955Z">
+        <seg>在大多数系统中，可以通过将 &lt;f0&gt;omegat.project&lt;/f0&gt; 文件放到 OmegaT 的桌面图标上来打开项目。也可以通过双击 &lt;f1&gt;omegat.project&lt;/f1&gt; 文件来打开 OmegaT 项目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In most translation jobs, it is considered important for the formatting of the original text to be retained in the translation.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120202T114115Z">
@@ -29128,6 +29136,14 @@ itself on the first run. Later calls do not need to be online.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131116T130601Z" creationid="Fu Rhong" creationdate="20131116T130601Z">
         <seg>通过Java Web Start技术（Java 1.6及以上版本的一部分），只需一次点击就可通过网络部署独立的Java应用软件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Java Web Start technology (part of Java 8 and above) can be used to deploy standalone Java software applications with a single click over the network. Java Web Start ensures that the latest version of the application will be deployed, as well as the correct version of the Java Runtime Environment (JRE) used. To start OmegaT for the first time with Java Web Start, load the following URL in your browser:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T151246Z" creationid="WynnChen" creationdate="20200117T151246Z">
+        <seg>Java Web Start 技术（是 Java 8 或更高版本的一部分）可用于通过网络部署独立的 Java 软件应用程序，只需一次点击。Java Web Start 确保将部署的是应用程序的最新版本，以及使用的是正确版本的 Java Runtime Environment（JRE）。要首次通过 Java Web Start 启动 OmegaT，请在浏览器中打开以下网址：</seg>
       </tuv>
     </tu>
     <tu>
@@ -36125,8 +36141,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>Once &lt;a0&gt;OmegaT&lt;/a0&gt; is installed, you can launch it directly from the command line, you can create a script that includes launch parameters for the command line or you can click on &lt;f1&gt;OmegaT.jar&lt;/f1&gt; to launch it directly. Methods differ depending on the distribution. Make sure that your &lt;v2&gt;PATH&lt;/v2&gt; settings are correct and that &lt;f3&gt;.jar&lt;/f3&gt; files are properly associated with a Java launcher. Check "Command line launching" below for more information.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T072041Z" creationid="WynnChen" creationdate="20200117T072041Z">
-        <seg>一旦安装好 &lt;a0&gt;OmegaT&lt;/a0&gt;，你可以直接从命令行启动它、可以创建一个包含命令行启动参数的脚本、也可以单击 &lt;f1&gt;OmegaT.jar&lt;/f1&gt; 直接启动它。方法随发行版本而不同。要确保 &lt;v2&gt;PATH&lt;/v2&gt; settings are correct and that &lt;f3&gt;.jar&lt;/f3&gt; files are properly associated with a Java launcher. Check "Command line launching" below for more information.</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T145732Z" creationid="WynnChen" creationdate="20200117T072041Z">
+        <seg>一旦安装好 &lt;a0&gt;OmegaT&lt;/a0&gt;，你可以直接从命令行启动它、可以创建一个包含命令行启动参数的脚本、也可以单击 &lt;f1&gt;OmegaT.jar&lt;/f1&gt; 直接启动它。方法随发行版本而不同。要确保 &lt;v2&gt;PATH&lt;/v2&gt; 已正确设置、&lt;f3&gt;.jar&lt;/f3&gt; 文件已经与 Java 启动器正确关联。更多信息，参见下文的“命令行启动”</seg>
       </tuv>
     </tu>
     <tu>
@@ -63394,6 +63410,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T134829Z" creationid="Administrator" creationdate="20180411T134829Z">
         <seg>https://omegat.sourceforge.io/webstart/&lt;a0&gt;OmegaT&lt;/a0&gt;.jnlp </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://omegat.sourceforge.io/webstart/OmegaT.jnlp</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T151315Z" creationid="WynnChen" creationdate="20200117T151315Z">
+        <seg>https://omegat.sourceforge.io/webstart/OmegaT.jnlp</seg>
       </tuv>
     </tu>
     <tu>
