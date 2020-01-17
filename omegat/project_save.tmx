@@ -4187,6 +4187,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; is available bundled with a Oracle Java JRE for Linux (Intel x86) and Windows platforms. Users of other platforms (Linux PowerPC, Linux x64, Solaris SPARC/x86/x64, Windows x64 etc) must have a running compatible Java JRE on their system to be able to use &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T070820Z" creationid="WynnChen" creationdate="20200117T070820Z">
+        <seg>对于 Linux（Intel x86）和 Windows 平台，&lt;a0&gt;OmegaT&lt;/a0&gt; 提供了捆绑了 Oracle Java JRE 的版本。其他平台的用户（Linux PowerPC、Linux x64、Solaris SPARC/x86/x64、Windows x64 等）则需要在系统上运行有兼容的 Java JRE 才能使用 &lt;a1&gt;OmegaT&lt;/a1&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; main window</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120218T071529Z">
@@ -4948,6 +4956,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;I don't know:&lt;/e0&gt; open a terminal and type &lt;c1&gt;java -version&lt;/c1&gt;. If a "command not found" or similar message is returned, it is likely that Java is not installed on your system.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T071129Z" creationid="WynnChen" creationdate="20200117T071129Z">
+        <seg>&lt;e0&gt;不知道：&lt;/e0&gt;打开终端，输入 &lt;c1&gt;java -version&lt;/c1&gt;。如果返回了“command not found（未找到命令）”或类似的信息，则可能系统上未安装 Java。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Important: &lt;/e0&gt;Google Translate API v2 requires billing information for all accounts before you can start using the service (see &lt;u1&gt;Pricing and Terms of Service&lt;/u1&gt; for more).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120209T062330Z">
@@ -5112,6 +5128,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131116T130052Z" creationid="Fu Rhong" creationdate="20131116T124217Z">
         <seg>&lt;e0&gt;否：&lt;/e0&gt;获取适用于您系统的Java JRE（见下文）并下载&lt;e1&gt;OmegaT_3.n.n_Without_JRE.zip&lt;/e1&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;No:&lt;/e0&gt; obtain a Java JRE for your system (see below) and download &lt;f1&gt;OmegaT_4.n.n_Without_JRE.zip&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T071223Z" creationid="WynnChen" creationdate="20200117T071223Z">
+        <seg>&lt;e0&gt;否：&lt;/e0&gt;为你的系统弄个 Java JRE（见下文）并下载 &lt;f1&gt;OmegaT_4.n.n_Without_JRE.zip&lt;/f1&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5532,6 +5556,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Yes:&lt;/e0&gt; download &lt;f1&gt;OmegaT_4.n.n_Windows_without_JRE.zip&lt;/f1&gt;. This package can be used on any platform where a Java 8 compatible JRE is installed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T071009Z" creationid="WynnChen" creationdate="20200117T071009Z">
+        <seg>&lt;e0&gt;是：&lt;/e0&gt;下载 &lt;f1&gt;OmegaT_4.n.n_Windows_without_JRE.zip&lt;/f1&gt;。这个包可以用在任何安装了 Java 8 兼容 JRE 的平台上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;add the copied files to the local version of the repository:&lt;/e0&gt; right-click on the local checkout folder and select &lt;g1&gt;TortoiseSVN &gt; Add.&lt;/g1&gt; In the dialog that opens, leave all options as per default and click&lt;g2&gt; OK&lt;/g2&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131111T125745Z" creationid="Fu Rhong" creationdate="20131111T123658Z">
@@ -5705,6 +5737,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120217T125620Z">
         <seg>&lt;f0&gt;&lt;i1/&gt;tm&lt;/f0&gt; 目录</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;OmegaT.app&lt;/f0&gt; can make use of macOS Services. You can thus select a word anywhere in &lt;a1&gt;OmegaT&lt;/a1&gt; and use Services to check this word, for instance in Spotlight or in Google. You can also use AppleScript or Automator to create Services or scripts that will automate frequent actions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T070432Z" creationid="WynnChen" creationdate="20200117T070310Z">
+        <seg>&lt;f0&gt;OmegaT.app&lt;/f0&gt; 可以使用 macOS 服务。因此，你可以在 &lt;a1&gt;OmegaT&lt;/a1&gt; 中任何地方选择一个单词，然后用服务来核查之，例如用 Spotlight 或用 Google。你也可以用 AppleScript 或 Automator 来创建服务或者脚本来自动化常用动作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21137,16 +21177,16 @@ patents cannot be used to render the program non-free.</seg>
       <tuv lang="EN">
         <seg>Follow the installation instructions of the package you need.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
-        <seg>按照所需安装包的说明操作。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T071605Z">
+        <seg>请按照所需安装包的说明进行操作。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Follow your system's instructions to install &lt;a0&gt;OmegaT&lt;/a0&gt; shortcuts in convenient places of your choosing.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120207T120816Z">
-        <seg>按照系统的提示在方便的地方安装 &lt;a0&gt;OmegaT&lt;/a0&gt; 快捷方式。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T071816Z">
+        <seg>请按照系统说明在你觉得方便的地方安装 &lt;a0&gt;OmegaT&lt;/a0&gt; 快捷方式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23754,6 +23794,14 @@ prior to 60 days after the cessation.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T162652Z" creationid="WynnChen" creationdate="20190326T162652Z">
         <seg>IBM Watson 不可用。有关说明，请参阅 OmegaT 手册。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>IBM provides JREs for Linux PowerPC at &lt;u0/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T071522Z" creationid="WynnChen" creationdate="20200117T071522Z">
+        <seg>IBM 在 &lt;u0/&gt;提供了用于 Linux PowerPC 的 JRE。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27886,8 +27934,8 @@ everything.</seg>
       <tuv lang="EN">
         <seg>Installing convenient shortcuts</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
-        <seg>安装便捷的快捷方式</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T071736Z">
+        <seg>安装方便的快捷方式</seg>
       </tuv>
     </tu>
     <tu>
@@ -36075,6 +36123,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Once &lt;a0&gt;OmegaT&lt;/a0&gt; is installed, you can launch it directly from the command line, you can create a script that includes launch parameters for the command line or you can click on &lt;f1&gt;OmegaT.jar&lt;/f1&gt; to launch it directly. Methods differ depending on the distribution. Make sure that your &lt;v2&gt;PATH&lt;/v2&gt; settings are correct and that &lt;f3&gt;.jar&lt;/f3&gt; files are properly associated with a Java launcher. Check "Command line launching" below for more information.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T072041Z" creationid="WynnChen" creationdate="20200117T072041Z">
+        <seg>一旦安装好 &lt;a0&gt;OmegaT&lt;/a0&gt;，你可以直接从命令行启动它、可以创建一个包含命令行启动参数的脚本、也可以单击 &lt;f1&gt;OmegaT.jar&lt;/f1&gt; 直接启动它。方法随发行版本而不同。要确保 &lt;v2&gt;PATH&lt;/v2&gt; settings are correct and that &lt;f3&gt;.jar&lt;/f3&gt; files are properly associated with a Java launcher. Check "Command line launching" below for more information.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Once Priorview has been launched, however, you cannot select a different browser or conversion utility; these options are therefore hidden after launch.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T105800Z" creationid="lenovo" creationdate="20180416T105800Z">
@@ -36887,6 +36943,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131116T130229Z" creationid="Fu Rhong" creationdate="20131116T130229Z">
         <seg>Oracle在&lt;u0&gt;http://www.oracle.com/technetwork/java/archive-139210.html&lt;/u0&gt;提供了用于Solaris SPARC/x86（Java 1.6）和Linux x64、Solaris x64、Windows x64（Java 1.6）的JRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Oracle provides JREs for Solaris SPARC/x86 (Java 8) and for Linux x64, Solaris x64, Windows x64 (Java 8) at &lt;u0/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T071502Z" creationid="WynnChen" creationdate="20200117T071502Z">
+        <seg>Oracle 在&lt;u0/&gt; 提供了用于 Solaris SPARC/x86（Java 8）和 Linux x64、Solaris x64、Windows x64（Java 8）的 JRE。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51991,6 +52055,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This information applies to systems such as Solaris SPARC/x86/x64, Linux x64/PowerPC, Windows x64.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T070455Z" creationid="WynnChen" creationdate="20200117T070455Z">
+        <seg>此信息适用于诸如 Solaris SPARC/x86/x64、Linux x64/PowerPC、Windows x64 等系统。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This information is computed for segments as well as for words and for characters (without and including spaces).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Doris" changedate="20180419T020516Z" creationid="Doris" creationdate="20180419T020516Z">
@@ -53129,6 +53201,14 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To change the amount of memory available, edit &lt;e0&gt;OmegaT.app/Contents/Info.plist&lt;/e0&gt; file and un-comment the line &lt;l1&gt;&lt;!-- &lt;string&gt;-Xmx6g&lt;/string&gt; --&gt;&lt;/l1&gt; by removing the &lt;l2&gt;&lt;!--&lt;/l2&gt; and &lt;l3&gt;--&gt;&lt;/l3&gt;. This will launch OmegaT with 6 GB of memory; change the &lt;l4&gt;6g&lt;/l4&gt; to the desired amount.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T065426Z" creationid="WynnChen" creationdate="20200117T065426Z">
+        <seg>要改变可用内存量，编辑 &lt;e0&gt;OmegaT.app/Contents/Info.plist&lt;/e0&gt; 文件，取消注释 &lt;l1&gt;&lt;!-- &lt;string&gt;-Xmx6g&lt;/string&gt; --&gt;&lt;/l1&gt; 这一行（删除 &lt;l2&gt;&lt;!--&lt;/l2&gt; 和 &lt;l3&gt;--&gt;&lt;/l3&gt;）。这将以 6 GB 内存启动 OmegaT；将 &lt;l4&gt;6g&lt;/l4&gt; 更改为所需的量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To change the location of folders after a project has been created, open &lt;g0&gt;Project &gt; Properties...&lt;/g0&gt; in the menu or with &lt;g1&gt;Ctrl+E&lt;/g1&gt; and make the necessary changes.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
@@ -53415,6 +53495,14 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To install &lt;a0&gt;OmegaT&lt;/a0&gt;, simply unpack the &lt;f1&gt;OmegaT_4.n.n_Without_JRE.zip&lt;/f1&gt; file. This creates an &lt;f2&gt;./OmegaT_4.n.n_Without_JRE/&lt;/f2&gt; folder in the working folder with all the files necessary to run &lt;a3&gt;OmegaT&lt;/a3&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T071723Z" creationid="WynnChen" creationdate="20200117T071723Z">
+        <seg>要安装 &lt;a0&gt;OmegaT&lt;/a0&gt;，只需解压 &lt;f1&gt;OmegaT_4.n.n_Without_JRE.zip&lt;/f1&gt; 文件即可。这会在工作文件夹中创建一个 &lt;f2&gt;./OmegaT_4.n.n_Without_JRE/&lt;/f2&gt; 文件夹，其中有运行 &lt;a3&gt;OmegaT&lt;/a3&gt; 所需的全部文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To install Priorview, simply unpack the zip archive at any suitable location on your hard drive.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T103426Z" creationid="lenovo" creationdate="20180416T103426Z">
@@ -53499,6 +53587,14 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="17012" changedate="20180405T104550Z" creationid="17012" creationdate="20180405T104550Z">
         <seg>要启动&lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.app&lt;/e0&gt;的多种示例，双击&lt;e2&gt;OmegaT.sh&lt;/e2&gt;，它位于&lt;e3&gt;&lt;a4&gt;OmegaT&lt;/a4&gt;.app/ Contents/MacOS/&lt;/e3&gt;目录下。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To launch multiple instances of &lt;f0&gt;OmegaT.app&lt;/f0&gt;, double-click the file &lt;e1&gt;OmegaT&lt;/e1&gt; located in &lt;f2&gt;OmegaT.app/Contents/MacOS/&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T065604Z" creationid="WynnChen" creationdate="20200117T065604Z">
+        <seg>要启动多个 &lt;f0&gt;OmegaT.app&lt;/f0&gt; 实例，请双击位于 &lt;f2&gt;OmegaT.app/Contents/MacOS/&lt;/f2&gt; 中的文件 &lt;e1&gt;OmegaT&lt;/e1&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -55969,6 +56065,14 @@ Commands:
       </tuv>
       <tuv lang="ZH-CN" changeid="17012" changedate="20180405T104701Z" creationid="17012" creationdate="20180405T104701Z">
         <seg>使用&lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.jar&lt;/e0&gt;文件，该文件位于&lt;e2&gt;&lt;a3&gt;OmegaT&lt;/a3&gt;.app/Contents/MacOS/Java/&lt;/e2&gt;目录下，可以从命令行中启动&lt;a4&gt;OmegaT&lt;/a4&gt; 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use the &lt;f0&gt;OmegaT.jar&lt;/f0&gt; file located in &lt;f1&gt;OmegaT.app/Contents/MacOS/Java/&lt;/f1&gt; to launch &lt;a2&gt;OmegaT&lt;/a2&gt; from the command line. Check "Command line launching" below for more information.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T065738Z" creationid="WynnChen" creationdate="20200117T065738Z">
+        <seg>用位于 &lt;f1&gt;OmegaT.app/Contents/MacOS/Java/&lt;/f1&gt; 中的 &lt;f0&gt;OmegaT.jar&lt;/f0&gt; 文件来从命令行启动 &lt;a2&gt;OmegaT&lt;/a2&gt;。更多信息，请参考下文的“命令行启动”。</seg>
       </tuv>
     </tu>
     <tu>
@@ -64476,6 +64580,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190909T025349Z" creationid="wynnc" creationdate="20190909T025349Z">
         <seg>macOS 用户</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>macOS goodies</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T070320Z" creationid="WynnChen" creationdate="20200117T070057Z">
+        <seg>macOS 上的好事</seg>
       </tuv>
     </tu>
     <tu>
