@@ -41221,10 +41221,26 @@ When using regular expressions, the replacement string supports references to gr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Script for extracting text for translation from plain-text files (e.g. computer source code) for translation in OmegaT. Requires tcl/tk. Contributed by Marc Prior.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T022915Z" creationid="WynnChen" creationdate="20200117T022915Z">
+        <seg>用于从纯文本文件(e.g. computer source code)中提取供翻译的文本以便在 OmegaT 中进行翻译的脚本。需要 tcl/tk。由 Marc Prior 提供。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Script versions of Toxic.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T074751Z" creationid="chloechao" creationdate="20180412T073511Z">
         <seg>脚本版本Toxic工具。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Script versions of Toxic. Platform-independent; require tcl/tk.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T022725Z" creationid="WynnChen" creationdate="20200117T022725Z">
+        <seg>Toxic 的脚本版本。与平台无关、需要 tcl/tk。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44356,8 +44372,8 @@ of the GPL, as needed to protect the freedom of users.</seg>
       <tuv lang="EN">
         <seg>Stripper</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T074011Z" creationid="chloechao" creationdate="20180412T074011Z">
-        <seg>脱壳</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T022729Z" creationid="WynnChen" creationdate="20200117T022729Z">
+        <seg>Stripper</seg>
       </tuv>
     </tu>
     <tu>
@@ -44770,8 +44786,8 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       <tuv lang="EN">
         <seg>TKount</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T074713Z" creationid="chloechao" creationdate="20180412T074713Z">
-        <seg>TKount工具</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T022920Z" creationid="WynnChen" creationdate="20200117T022920Z">
+        <seg>TKount</seg>
       </tuv>
     </tu>
     <tu>
@@ -44780,6 +44796,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T082532Z" creationid="chloechao" creationdate="20180412T082532Z">
         <seg>TKount字数统计功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TKount text counting utility. Requires tcl/tk, Abiword and pdftotext. Has been tested on Linux. Contributed by Marc Prior.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T023007Z" creationid="WynnChen" creationdate="20200117T023007Z">
+        <seg>TKount 文本字数统计工具。需要 tcl/tk、Abiword 和 pdftotext。已在 Linux 上测试过。由 Marc Prior 提供。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53781,8 +53805,8 @@ install.sh.</seg>
       <tuv lang="EN">
         <seg>Toxic scripts</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T073355Z" creationid="chloechao" creationdate="20180412T073355Z">
-        <seg>Toxic工具脚本</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T022645Z" creationid="chloechao" creationdate="20180412T073355Z">
+        <seg>Toxic 脚本</seg>
       </tuv>
     </tu>
     <tu>
