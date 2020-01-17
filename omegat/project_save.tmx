@@ -47783,8 +47783,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The files of this site, in a convenient package for those wishing to localize it.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T091441Z" creationid="chloechao" creationdate="20180412T091211Z">
-        <seg>为希望对本网站进行本地化的爱好者提供便捷的打包。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T025709Z" creationid="chloechao" creationdate="20180412T091211Z">
+        <seg>本网站的文件，以便捷打包的形式提供给想要将其本地化的人。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51070,8 +51070,8 @@ You, victim of one</seg>
       <tuv lang="EN">
         <seg>Third-party software for use with OmegaT</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T091236Z" creationid="chloechao" creationdate="20180412T091236Z">
-        <seg>可在OmegaT中使用的第三方软件</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T025747Z" creationid="chloechao" creationdate="20180412T091236Z">
+        <seg>与 OmegaT 一起使用的第三方软件</seg>
       </tuv>
     </tu>
     <tu>
@@ -52493,8 +52493,8 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
       <tuv lang="EN">
         <seg>This web site</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T091428Z" creationid="chloechao" creationdate="20180412T090856Z">
-        <seg>OmegaT网站</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T025302Z" creationid="chloechao" creationdate="20180412T090856Z">
+        <seg>本网站</seg>
       </tuv>
     </tu>
     <tu>
