@@ -53757,8 +53757,8 @@ install.sh.</seg>
       <tuv lang="EN">
         <seg>Toxic</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T025632Z" creationid="chloechao" creationdate="20180412T025632Z">
-        <seg>Toxic工具</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T022133Z" creationid="chloechao" creationdate="20180412T025632Z">
+        <seg>Toxic</seg>
       </tuv>
     </tu>
     <tu>
@@ -56301,8 +56301,8 @@ searchable without subscription:</seg>
       <tuv lang="EN">
         <seg>Utilities</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T021706Z" creationid="18261" creationdate="20180412T120030Z">
-        <seg>实用程序</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T022242Z" creationid="18261" creationdate="20180412T120030Z">
+        <seg>工具程序</seg>
       </tuv>
     </tu>
     <tu>
@@ -56311,6 +56311,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T031005Z" creationid="chloechao" creationdate="20180412T031005Z">
         <seg>将Trados TagEditor 文件(TTX) 转换为可在OmegaT中进行翻译的中间格式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Utility for converting Trados TagEditor (TTX) files to an intermediate format, enabling them to be translated in OmegaT. This collection of scripts may be useful to scripters with a knowledge of tcl/tk. Other users are advised to use the &lt;a0&gt;Okapi Filters Plugin&lt;/a0&gt; instead. Toxic was contributed by Marc Prior.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T022532Z" creationid="WynnChen" creationdate="20200117T022236Z">
+        <seg>工具程序，用来将 Trados TagEditor（TTX）文件转换为一种中间格式，使其可以在 OmegaT 中进行翻译。这系列脚本对于熟悉 tcl/tk 的脚本编写者可能会比较有用。其他用户则建议改用 &lt;a0&gt;Okapi 过滤器插件&lt;/a0&gt;。Toxic 由 Marc Prior 提供。</seg>
       </tuv>
     </tu>
     <tu>
