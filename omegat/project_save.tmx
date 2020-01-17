@@ -11591,8 +11591,8 @@ menu, a prominent item in the list meets this criterion.</seg>
       <tuv lang="EN">
         <seg>Apertium Plugin</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="18261" changedate="20180413T022540Z" creationid="18261" creationdate="20180413T022540Z">
-        <seg>Apertium插件</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T020837Z" creationid="18261" creationdate="20180413T022540Z">
+        <seg>Apertium 插件</seg>
       </tuv>
     </tu>
     <tu>
@@ -14236,8 +14236,8 @@ Exception occurred:</seg>
       <tuv lang="EN">
         <seg>Checks for language errors (style, grammar, etc.).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="18261" changedate="20180413T020041Z" creationid="18261" creationdate="20180413T020041Z">
-        <seg>检查语言错误（写作风格、语法等）。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T020615Z" creationid="18261" creationdate="20180413T020041Z">
+        <seg>检查语言错误（文体、语法等）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19199,6 +19199,14 @@ Your help page not found</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enables external scripts to access OmegaT's functionality. (Not to be confused with the "Text Export" feature, which also enables scripts to be used with OmegaT, but on a more basic level.)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T020737Z" creationid="WynnChen" creationdate="20200117T020737Z">
+        <seg>允许外部脚本访问 OmegaT 的功能（不要与“文本导出”功能混淆，后者也允许在 OmegaT 中使用脚本，但却是在更基础的层面上）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Enables you to change the order of the commands in the context menu (the right-click menu). Values around 100 display commands at the top, and values around 900 display them at the bottom.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190901T155446Z" creationid="WynnChen" creationdate="20190901T155446Z">
@@ -20443,6 +20451,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="ZH-CN" changeid="18261" changedate="20180413T022756Z" creationid="18261" creationdate="20180413T022756Z">
         <seg>快速浏览网站</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fast access to websites. Website support can be scripted in Groovy.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T021029Z" creationid="WynnChen" creationdate="20200117T021007Z">
+        <seg>快速访问网站。网站支持可以用 Groovy 编写脚本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26026,8 +26042,8 @@ work and works based on it.</seg>
       <tuv lang="EN">
         <seg>Important: in order to use the plug-ins, you may need to install a more recent version of OmegaT.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="18261" changedate="20180413T023607Z" creationid="18261" creationdate="20180413T023347Z">
-        <seg>注意：为了使用插件，您可能需要安装最新版本的OmegaT。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T021158Z" creationid="18261" creationdate="20180413T023347Z">
+        <seg>重要事项：要使用插件，您可能需要安装 OmegaT 的最新版本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27838,8 +27854,8 @@ everything.</seg>
       <tuv lang="EN">
         <seg>Integrates the Apertium machine translation functionality into OmegaT.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="18261" changedate="20180413T022730Z" creationid="18261" creationdate="20180413T022730Z">
-        <seg>在OmegaT中集成了Apertium机器翻译的功能。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T020859Z" creationid="18261" creationdate="20180413T022730Z">
+        <seg>将Apertium 机器翻译功能集成到 OmegaT 中 。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34129,8 +34145,8 @@ combination as such.</seg>
       <tuv lang="EN">
         <seg>Okapi Filters Plugin</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="18261" changedate="20180413T022318Z" creationid="18261" creationdate="20180413T022318Z">
-        <seg>Okapi过滤器插件</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T020747Z" creationid="18261" creationdate="20180413T022318Z">
+        <seg>Okapi 过滤器插件</seg>
       </tuv>
     </tu>
     <tu>
@@ -38804,8 +38820,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Provides filters for handling further file formats, including Trados TTX.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="18261" changedate="20180413T022358Z" creationid="18261" creationdate="20180413T022358Z">
-        <seg>提供过滤器处理更多的文件格式，包括Trados TTX.</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T020835Z" creationid="18261" creationdate="20180413T022358Z">
+        <seg>提供用于处理其他文件格式的过滤器，包括 Trados TTX。</seg>
       </tuv>
     </tu>
     <tu>
