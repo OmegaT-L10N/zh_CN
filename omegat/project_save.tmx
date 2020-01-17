@@ -9899,8 +9899,8 @@ included in conveying the object code work.</seg>
       <tuv lang="EN">
         <seg>Add terms to a glossary whilst translating in OmegaT</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T075742Z" creationid="chloechao" creationdate="20180412T075742Z">
-        <seg>使用OmegaT进行翻译时在术语表内添加术语。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T031828Z" creationid="chloechao" creationdate="20180412T075742Z">
+        <seg>使用 OmegaT 进行翻译时往词汇表内添加词汇</seg>
       </tuv>
     </tu>
     <tu>
@@ -15974,8 +15974,8 @@ unpacking, reading or copying.</seg>
       <tuv lang="EN">
         <seg>Create a TMX file containing all strings, with identical source and target</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T080446Z" creationid="chloechao" creationdate="20180412T080446Z">
-        <seg>创建一个包含所有源语与目标语对应语列符的TMX文件</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T031741Z" creationid="chloechao" creationdate="20180412T080446Z">
+        <seg>创建一个 TMX 文件，其中包含所有字符串且原文文本与译文文本完全相同</seg>
       </tuv>
     </tu>
     <tu>
@@ -20345,8 +20345,8 @@ Gossamer threads hold you back
       <tuv lang="EN">
         <seg>Extract all source text from the project files into a single, large text file</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T080616Z" creationid="chloechao" creationdate="20180412T080616Z">
-        <seg>从项目文件中抽取所有源语文本，将其合并为一个较大的文本文件</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T031619Z" creationid="chloechao" creationdate="20180412T080616Z">
+        <seg>从项目文件中提取所有原文文本，将其合并为单个大文本文件</seg>
       </tuv>
     </tu>
     <tu>
@@ -43255,8 +43255,8 @@ When using regular expressions, the replacement string supports references to gr
       <tuv lang="EN">
         <seg>Skip segments containing a certain set of characters</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T080836Z" creationid="chloechao" creationdate="20180412T080836Z">
-        <seg>略过包含一系列特定字符的片段。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T031748Z" creationid="chloechao" creationdate="20180412T080836Z">
+        <seg>跳过包含特定字符集合的片段</seg>
       </tuv>
     </tu>
     <tu>
