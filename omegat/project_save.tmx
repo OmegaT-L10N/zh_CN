@@ -8965,8 +8965,8 @@ parts of the aggregate.</seg>
       <tuv lang="EN">
         <seg>A comprehensive suite of utilities for preparing files for translation in a CAT tool. Enables a number of file formats to be translated which cannot be handled natively in OmegaT. A detailed tutorial is available.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T030751Z" creationid="WynnChen" creationdate="20200117T030751Z">
-        <seg>一整套工具程序，用于准备文件以便在 CAT 工具中进行翻译。可以让大量 OmegaT 无法直接处理的文件格式变得可以翻译。提供详细教程。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T030828Z" creationid="WynnChen" creationdate="20200117T030751Z">
+        <seg>一整套工具程序，用于准备文件以便在 CAT 工具中进行翻译。可以让大量 OmegaT 无法直接处理的文件格式变得可以翻译。有详细教程。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22233,8 +22233,8 @@ authors of previous versions.</seg>
       <tuv lang="EN">
         <seg>GUI alignment tool for producing translation memory files from legacy texts and their translations.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T095613Z" creationid="chloechao" creationdate="20180412T095613Z">
-        <seg>GUI对齐工具，可对齐传统文本及其译文生成翻译记忆。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T030954Z" creationid="chloechao" creationdate="20180412T095613Z">
+        <seg>图形界面的对齐工具，用于根据过往文本及其译文生成翻译记忆库。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60841,6 +60841,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131107T142649Z" creationid="Fu Rhong" creationdate="20131107T142649Z">
         <seg>bis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>bitext2tmx</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T030758Z" creationid="WynnChen" creationdate="20200117T030758Z">
+        <seg>bitext2tmx</seg>
       </tuv>
     </tu>
     <tu>
