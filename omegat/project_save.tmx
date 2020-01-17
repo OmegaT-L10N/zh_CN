@@ -35651,6 +35651,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT's developers, who are all volunteers, may be more willing to implement an RFE if the development work is funded by the requester. &lt;a0&gt;Sponsorship of development has already resulted in the addition of certain features.&lt;/a0&gt; If you are willing to finance the work of implementing your desired feature, please contact the development team privately for a quotation. It may also be possible for developments commissioned from external developers to be implemented within OmegaT. As with free developments, however, the principle still applies that any changes to OmegaT must be beneficial to the application and its users.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T020328Z" creationid="WynnChen" creationdate="20200117T020328Z">
+        <seg>如果请求者对开发工作进行资助，则 OmegaT 的开发人员（他们全部都是志愿者）可能会更愿意去实现某个 RFE。&lt;a0&gt;赞助开发已经促成了一些功能的添加&lt;/a0&gt;如果您愿意对实现您所需功能的工作进行资助，请私下与开发团队联系来获取报价。在 OmegaT 内实现外部开发者所委托的开发也是可能的，虽然是自由开发，但任何对 OmegaT 的更改都必须有益于应用程序及用户的原则依然适用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT's glossary files are plain-text files in the format:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T115812Z" creationid="Wyndy" creationdate="20180418T115514Z">
