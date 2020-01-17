@@ -8963,6 +8963,14 @@ parts of the aggregate.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A comprehensive suite of utilities for preparing files for translation in a CAT tool. Enables a number of file formats to be translated which cannot be handled natively in OmegaT. A detailed tutorial is available.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T030751Z" creationid="WynnChen" creationdate="20200117T030751Z">
+        <seg>一整套工具程序，用于准备文件以便在 CAT 工具中进行翻译。可以让大量 OmegaT 无法直接处理的文件格式变得可以翻译。提供详细教程。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A contributor's "essential patent claims" are all patent claims
 owned or controlled by the contributor, whether already acquired or
 hereafter acquired, that would be infringed by some manner, permitted
@@ -34209,8 +34217,8 @@ combination as such.</seg>
       <tuv lang="EN">
         <seg>Okapi Framework</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T094839Z" creationid="chloechao" creationdate="20180412T094839Z">
-        <seg>Okapi框架</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T030319Z" creationid="chloechao" creationdate="20180412T094839Z">
+        <seg>Okapi 框架</seg>
       </tuv>
     </tu>
     <tu>
