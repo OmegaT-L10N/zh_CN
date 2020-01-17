@@ -9867,8 +9867,8 @@ included in conveying the object code work.</seg>
       <tuv lang="EN">
         <seg>Add numbers to all segments, making them all "unique"</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T075503Z" creationid="chloechao" creationdate="20180412T075503Z">
-        <seg>为所有片段编号，赋予片段独一无二的属性</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T031918Z" creationid="chloechao" creationdate="20180412T075503Z">
+        <seg>为所有片段添加编号，让它们变得全都“独特”</seg>
       </tuv>
     </tu>
     <tu>
@@ -14075,8 +14075,8 @@ Exception occurred:</seg>
       <tuv lang="EN">
         <seg>Check spelling (various procedures)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T074939Z" creationid="chloechao" creationdate="20180412T074939Z">
-        <seg>拼写检查（多进程）</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T032019Z" creationid="chloechao" creationdate="20180412T074939Z">
+        <seg>拼写检查（各种流程）</seg>
       </tuv>
     </tu>
     <tu>
@@ -17281,8 +17281,8 @@ unpacking, reading or copying.</seg>
       <tuv lang="EN">
         <seg>Descriptions of and links to Samuel Murray's scripts/procedures. Most of these scripts require MS Windows, although some procedures may also work on other platforms.&lt;br0/&gt; Scripts/procedures are available to enable you to do the following:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T031509Z" creationid="WynnChen" creationdate="20200117T031509Z">
-        <seg>Samuel Murray 的脚本/例程的描述和链接。虽然其中部分例程在其他平台上也可能可以使用，但这些脚本大多数都需要 Microsoft Windows。&lt;br0/&gt;这些脚本/例程可以让你做到：</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T032035Z" creationid="WynnChen" creationdate="20200117T031509Z">
+        <seg>Samuel Murray 的脚本/流程的描述和链接。虽然其中部分流程在其他平台上也可能可以使用，但这些脚本大多数都需要 Microsoft Windows。&lt;br0/&gt;这些脚本/流程可以让你做到：</seg>
       </tuv>
     </tu>
     <tu>
@@ -27960,6 +27960,14 @@ everything.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yujun Yin" changedate="20131007T090108Z" creationid="Yujun Yin" creationdate="20131007T090108Z">
         <seg>分词器和脚本插件简介</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Introduction to OmegaT (2.5.0). By Arno Peters and Mariëtte van Drunen (in Dutch).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T032255Z" creationid="WynnChen" creationdate="20200117T032255Z">
+        <seg>OmegaT 简介（2.5.0）。作者：Arno Peters 和 Mariëtte van Drunen（荷兰语）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39769,8 +39777,8 @@ These words: 'Page not found'</seg>
       <tuv lang="EN">
         <seg>Remove all text except tags, or all tags except text</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T075104Z" creationid="chloechao" creationdate="20180412T075104Z">
-        <seg>移除标签外所有内容或移除文字外所有标签。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T031955Z" creationid="chloechao" creationdate="20180412T075104Z">
+        <seg>删除标签以外的所有文本，或者文本以外的所有标签</seg>
       </tuv>
     </tu>
     <tu>
@@ -40481,6 +40489,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Reviews of OmegaT</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T032121Z" creationid="WynnChen" creationdate="20200117T032121Z">
+        <seg>OmegaT 的点评</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Right to left languages</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
@@ -40915,8 +40931,8 @@ These words: 'Page not found'</seg>
       <tuv lang="EN">
         <seg>Samuel Murray's scripts and procedures</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T031203Z" creationid="chloechao" creationdate="20180412T082453Z">
-        <seg>Samuel Murray 的脚本与例程</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T032023Z" creationid="chloechao" creationdate="20180412T082453Z">
+        <seg>Samuel Murray 的脚本与流程</seg>
       </tuv>
     </tu>
     <tu>
