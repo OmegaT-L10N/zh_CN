@@ -31808,8 +31808,8 @@ later version.</seg>
       <tuv lang="EN">
         <seg>Miscellaneous resources</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T090659Z" creationid="chloechao" creationdate="20180412T085429Z">
-        <seg>各类资源</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T023313Z" creationid="chloechao" creationdate="20180412T085429Z">
+        <seg>其他资源</seg>
       </tuv>
     </tu>
     <tu>
@@ -35417,6 +35417,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T085452Z" creationid="chloechao" creationdate="20180412T085452Z">
         <seg>OmegaT培训课程。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT training course. Consists of a model student's manual with instructions to trainers for adaptation, and sample resources.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T023544Z" creationid="WynnChen" creationdate="20200117T023544Z">
+        <seg>OmegaT 培训课程。包含有供改编用的示范性学习手册和培训师指导，以及样例资源。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42511,8 +42519,8 @@ When using regular expressions, the replacement string supports references to gr
       <tuv lang="EN">
         <seg>Selection of alternative icons for use with OmegaT.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T091318Z" creationid="chloechao" creationdate="20180412T091318Z">
-        <seg>可在OmegaT中使用的图标选项。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T024157Z" creationid="chloechao" creationdate="20180412T091318Z">
+        <seg>可在 OmegaT 中使用的替换图标选集。</seg>
       </tuv>
     </tu>
     <tu>
