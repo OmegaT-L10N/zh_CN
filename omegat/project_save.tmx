@@ -36733,8 +36733,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>Other OmegaT resources</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="18261" changedate="20180413T015359Z" creationid="18261" creationdate="20180413T015359Z">
-        <seg>其他OmegaT资源 </seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T020352Z" creationid="18261" creationdate="20180413T015359Z">
+        <seg>其他 OmegaT 资源 </seg>
       </tuv>
     </tu>
     <tu>
@@ -38812,8 +38812,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Provides recognition of inflected forms in fuzzy matches and glossary hits.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="18261" changedate="20180413T022125Z" creationid="18261" creationdate="20180413T022125Z">
-        <seg>识别模糊匹配和术语采样中的屈折词形。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T020556Z" creationid="18261" creationdate="20180413T022125Z">
+        <seg>在模糊匹配和词汇表匹配中提供对词形变化的识别。</seg>
       </tuv>
     </tu>
     <tu>
