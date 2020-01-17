@@ -11323,8 +11323,8 @@ to determine the source of the error and try again.</seg>
       <tuv lang="EN">
         <seg>An intelligent command-line alignment tool for producing translation memory files from legacy texts and their translations.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T093932Z" creationid="chloechao" creationdate="20180412T093932Z">
-        <seg>智能化命令行对齐工具，可对齐传统文本及其译文生成翻译记忆。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T031032Z" creationid="chloechao" creationdate="20180412T093932Z">
+        <seg>智能的命令行对齐工具，用于根据过往文本及其译文生成翻译记忆库。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17275,6 +17275,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T082323Z" creationid="chloechao" creationdate="20180412T082323Z">
         <seg>由Samuel Murray编写脚本/程序的描述与链接。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Descriptions of and links to Samuel Murray's scripts/procedures. Most of these scripts require MS Windows, although some procedures may also work on other platforms.&lt;br0/&gt; Scripts/procedures are available to enable you to do the following:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T031509Z" creationid="WynnChen" creationdate="20200117T031509Z">
+        <seg>Samuel Murray 的脚本/例程的描述和链接。虽然其中部分例程在其他平台上也可能可以使用，但这些脚本大多数都需要 Microsoft Windows。&lt;br0/&gt;这些脚本/例程可以让你做到：</seg>
       </tuv>
     </tu>
     <tu>
@@ -29462,8 +29470,8 @@ itself on the first run. Later calls do not need to be online.</seg>
       <tuv lang="EN">
         <seg>LF Aligner</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T091527Z" creationid="chloechao" creationdate="20180412T091527Z">
-        <seg>LF Aligner校准工具</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T031000Z" creationid="chloechao" creationdate="20180412T091527Z">
+        <seg>LF Aligner</seg>
       </tuv>
     </tu>
     <tu>
@@ -40907,8 +40915,8 @@ These words: 'Page not found'</seg>
       <tuv lang="EN">
         <seg>Samuel Murray's scripts and procedures</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T082453Z" creationid="chloechao" creationdate="20180412T082453Z">
-        <seg>由Samuel Murray编写的脚本与程序</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T031203Z" creationid="chloechao" creationdate="20180412T082453Z">
+        <seg>Samuel Murray 的脚本与例程</seg>
       </tuv>
     </tu>
     <tu>
