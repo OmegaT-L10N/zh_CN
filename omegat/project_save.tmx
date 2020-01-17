@@ -36827,6 +36827,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Options are changed by modifying &lt;f0&gt;Configuration.properties&lt;/f0&gt;. For pre-defined options, remove the &lt;l1&gt;#&lt;/l1&gt; before a parameter to enable it. For example, &lt;l2&gt;user.language=ja&lt;/l2&gt; (without the &lt;l3&gt;#&lt;/l3&gt;) will launch &lt;a4&gt;OmegaT&lt;/a4&gt; with the user interface in Japanese.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T034240Z" creationid="WynnChen" creationdate="20200117T034240Z">
+        <seg>Options are changed by modifying &lt;f0&gt;Configuration.properties&lt;/f0&gt;. For pre-defined options, remove the &lt;l1&gt;#&lt;/l1&gt; before a parameter to enable it. For example, &lt;l2&gt;user.language=ja&lt;/l2&gt; (without the &lt;l3&gt;#&lt;/l3&gt;) will launch &lt;a4&gt;OmegaT&lt;/a4&gt; with the user interface in Japanese.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Options menu</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120211T031451Z">
@@ -52977,8 +52985,8 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="EN">
         <seg>To access &lt;f0&gt;Configuration.properties&lt;/f0&gt;, right-click on &lt;f1&gt;OmegaT.app&lt;/f1&gt; and select "Show Package Contents", then open the file in &lt;f2&gt;Contents/Resources&lt;/f2&gt; by right-clicking on it and selecting your text editor of choice. You can also &lt;c3&gt;cd&lt;/c3&gt; there directly from the command line and open &lt;f4&gt;Configuration.properties&lt;/f4&gt; in a command line editor like emacs or vi.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T034236Z" creationid="WynnChen" creationdate="20200117T034236Z">
-        <seg>To access &lt;f0&gt;Configuration.properties&lt;/f0&gt;, right-click on &lt;f1&gt;OmegaT.app&lt;/f1&gt; and select "Show Package Contents", then open the file in &lt;f2&gt;Contents/Resources&lt;/f2&gt; by right-clicking on it and selecting your text editor of choice. You can also &lt;c3&gt;cd&lt;/c3&gt; there directly from the command line and open &lt;f4&gt;Configuration.properties&lt;/f4&gt; in a command line editor like emacs or vi.</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T034625Z" creationid="WynnChen" creationdate="20200117T034236Z">
+        <seg>要访问 &lt;f0&gt;Configuration.properties&lt;/f0&gt;，请右键单击 &lt;f1&gt;OmegaT.app&lt;/f1&gt; 并选择“显示包内容”，然后右键点击 &lt;f2&gt;Contents/Resources&lt;/f2&gt; 中的此文件并选择你要使用的文本编辑器。你也可用直接从命令行 &lt;c3&gt;cd&lt;/c3&gt; 到那然后在 emacs 或 vi 之类的命令行编辑器中打开 &lt;f4&gt;Configuration.properties&lt;/f4&gt;。</seg>
       </tuv>
     </tu>
     <tu>
