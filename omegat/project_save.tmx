@@ -21676,8 +21676,8 @@ know their rights.</seg>
       <tuv lang="EN">
         <seg>For testing and demonstrating OmegaT.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T090833Z" creationid="chloechao" creationdate="20180412T090833Z">
-        <seg>测试与演示OmegaT。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T024308Z" creationid="chloechao" creationdate="20180412T090833Z">
+        <seg>用来测试与演示 OmegaT。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30551,8 +30551,8 @@ later version.</seg>
       <tuv lang="EN">
         <seg>Localization TMX repository</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T090436Z" creationid="chloechao" creationdate="20180412T090436Z">
-        <seg>本地化TMX仓库</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T024317Z" creationid="chloechao" creationdate="20180412T090436Z">
+        <seg>本地化 TMX 仓库</seg>
       </tuv>
     </tu>
     <tu>
@@ -44890,8 +44890,8 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       <tuv lang="EN">
         <seg>TMX files of localizations of the OmegaT documentation and of this site, for use by localizers.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T091418Z" creationid="chloechao" creationdate="20180412T091418Z">
-        <seg>为期望对OmegaT文档及网站进行本地化的爱好者提供的TMX文件。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T025257Z" creationid="chloechao" creationdate="20180412T091418Z">
+        <seg>供本地化人员使用的 OmegaT 文档及本网站本地化的 TMX 文件。</seg>
       </tuv>
     </tu>
     <tu>
