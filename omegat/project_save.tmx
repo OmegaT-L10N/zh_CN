@@ -30327,8 +30327,8 @@ later version.</seg>
       <tuv lang="EN">
         <seg>Linux binary version of Toxic.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T073312Z" creationid="chloechao" creationdate="20180412T073312Z">
-        <seg>适用于Linux系统的二进制版本Toxic工具。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T022635Z" creationid="chloechao" creationdate="20180412T073312Z">
+        <seg>Toxic 的 Linux 二进制版本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53765,16 +53765,16 @@ install.sh.</seg>
       <tuv lang="EN">
         <seg>Toxic for Linux</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T073232Z" creationid="chloechao" creationdate="20180412T073232Z">
-        <seg>适用于Linux系统的Toxic工具</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T022621Z" creationid="chloechao" creationdate="20180412T073232Z">
+        <seg>适用于 Linux 的 Toxic</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Toxic for Windows</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T073121Z" creationid="chloechao" creationdate="20180412T073121Z">
-        <seg>适用于Windows系统的Toxic工具</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T022547Z" creationid="chloechao" creationdate="20180412T073121Z">
+        <seg>适用于 Windows 的 Toxic</seg>
       </tuv>
     </tu>
     <tu>
@@ -57745,8 +57745,8 @@ Your page is not found</seg>
       <tuv lang="EN">
         <seg>Windows executable version of Toxic.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T073204Z" creationid="chloechao" creationdate="20180412T073204Z">
-        <seg>适用于Windows系统的可执行版本Toxic工具。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T022640Z" creationid="chloechao" creationdate="20180412T073204Z">
+        <seg>Toxic 的 Windows 可执行版本。</seg>
       </tuv>
     </tu>
     <tu>
