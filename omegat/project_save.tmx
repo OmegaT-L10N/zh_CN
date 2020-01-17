@@ -17271,6 +17271,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Description of OmegaT (2008). By Asier Sarasua Garmendia (in Basque).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T032444Z" creationid="WynnChen" creationdate="20200117T032444Z">
+        <seg>OmegaT 说明书（2008）。Asier Sarasua Garmendia（巴斯克语）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Descriptions of and links to Samuel Murray's scripts/procedures.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T082323Z" creationid="chloechao" creationdate="20180412T082323Z">
@@ -40477,6 +40485,22 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120218T061804Z">
         <seg>重用翻译记忆</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Review of OmegaT 1.6 RC5. By Yutaka Kachi (in Japanese).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T032328Z" creationid="WynnChen" creationdate="20200117T032328Z">
+        <seg>OmegaT 1.6 RC5 点评。作者 Yutaka Kachi（日文）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Review of OmegaT 2.3.0. By Václav Hejda (in Czech).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T032313Z" creationid="WynnChen" creationdate="20200117T032313Z">
+        <seg>OmegaT 2.3.0 点评。作者：Václav Hejda（捷克语）。</seg>
       </tuv>
     </tu>
     <tu>
