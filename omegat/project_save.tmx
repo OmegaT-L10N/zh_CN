@@ -28948,10 +28948,26 @@ itself on the first run. Later calls do not need to be online.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Java command-line script for merging two or more TMX files. Contributed by Henry Pijffers.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T021815Z" creationid="WynnChen" creationdate="20200117T021815Z">
+        <seg>用于合并两个或多个 TMX 文件的 Java 命令行脚本。由 Henry Pijffers 提供。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Java command-line script for removing "superfluous" translation units from a TMX file: deletes all TUs without target segment or in which the target segment is identical to the source segment.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T025553Z" creationid="chloechao" creationdate="20180412T025553Z">
         <seg>移除TMX文件中"多余"翻译单元的Java命令行：删除所有无目标片段或目标片段与源文件片段相同的翻译单元。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Java command-line script for removing "superfluous" translation units from a TMX file: deletes all TUs without target segment or in which the target segment is identical to the source segment. Contributed by Henry Pijffers.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T022129Z" creationid="WynnChen" creationdate="20200117T021823Z">
+        <seg>用来从 TMX 文件中删除“多余”翻译单元的 Java 命令行脚本：删除没有译文片段或译文片段与原文片段完全相同的翻译单元。由 Henry Pijffers 提供。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44842,16 +44858,17 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       <tuv lang="EN">
         <seg>TMXCleaner</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T025026Z" creationid="chloechao" creationdate="20180412T025026Z">
-        <seg>TMX清除工具</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T021820Z" creationid="WynnChen" creationdate="20200117T021820Z">
+        <seg>TMXCleaner</seg>
       </tuv>
     </tu>
     <tu>
+      <note>工具名称为特定名词，维持不变。</note>
       <tuv lang="EN">
         <seg>TMXMerger</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T030003Z" creationid="chloechao" creationdate="20180412T024617Z">
-        <seg>TMX合并工具</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T021741Z" creationid="WynnChen" creationdate="20200117T021741Z">
+        <seg>TMXMerger</seg>
       </tuv>
     </tu>
     <tu>
