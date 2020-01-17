@@ -38,16 +38,16 @@ this License without regard to the additional permissions.</seg>
       <tuv lang="EN">
         <seg>"Aligner" aligner utility</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T024307Z" creationid="chloechao" creationdate="20180412T024307Z">
-        <seg>对齐工具Aligner</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T021535Z" creationid="WynnChen" creationdate="20200117T021535Z">
+        <seg>“Aligner”对齐工具</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>"Bligner" aligner utility</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T024445Z" creationid="chloechao" creationdate="20180412T024445Z">
-        <seg>对齐工具Bligner</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T021628Z" creationid="WynnChen" creationdate="20200117T021628Z">
+        <seg>“Bligner”对齐工具</seg>
       </tuv>
     </tu>
     <tu>
@@ -10369,6 +10369,14 @@ the above requirements apply either way.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T145645Z" creationid="wynnc" creationdate="20190320T045507Z">
         <seg>为 {0} 对齐项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Aligner</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T021459Z" creationid="WynnChen" creationdate="20200117T021459Z">
+        <seg>Aligner</seg>
       </tuv>
     </tu>
     <tu>
@@ -56276,8 +56284,8 @@ searchable without subscription:</seg>
       <tuv lang="EN">
         <seg>Utilities</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="18261" changedate="20180412T120030Z" creationid="18261" creationdate="20180412T120030Z">
-        <seg>实用工具</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T021706Z" creationid="18261" creationdate="20180412T120030Z">
+        <seg>实用程序</seg>
       </tuv>
     </tu>
     <tu>
@@ -58046,10 +58054,26 @@ Your page is not found</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Written in Python. Contributed by Dmitri Gabinski.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T021600Z" creationid="WynnChen" creationdate="20200117T021600Z">
+        <seg>用 Python 编写。由 Dmitri Gabinski 提供。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Written in Python/Perl.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T024510Z" creationid="chloechao" creationdate="20180412T024510Z">
         <seg>用Python/Perl语言编写。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Written in Python/Perl. Contributed by Didier Briel.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T021733Z" creationid="WynnChen" creationdate="20200117T021733Z">
+        <seg>用 Python/Perl 编写。由 Didier Briel 提供。</seg>
       </tuv>
     </tu>
     <tu>
