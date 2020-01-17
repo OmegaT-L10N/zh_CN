@@ -38,16 +38,16 @@ this License without regard to the additional permissions.</seg>
       <tuv lang="EN">
         <seg>"Aligner" aligner utility</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T021535Z" creationid="WynnChen" creationdate="20200117T021535Z">
-        <seg>“Aligner”对齐工具</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T030251Z" creationid="WynnChen" creationdate="20200117T021535Z">
+        <seg>“Aligner”对齐器工具</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>"Bligner" aligner utility</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T021628Z" creationid="WynnChen" creationdate="20200117T021628Z">
-        <seg>“Bligner”对齐工具</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T030314Z" creationid="WynnChen" creationdate="20200117T021628Z">
+        <seg>“Bligner”对齐器工具</seg>
       </tuv>
     </tu>
     <tu>
@@ -4255,6 +4255,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120201T122821Z">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; 运行时使用三种文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;a0&gt;OpenOffice.org&lt;/a0&gt; &lt;br1/&gt; &lt;a2&gt;Libre Office&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T030020Z" creationid="WynnChen" creationdate="20200117T030020Z">
+        <seg>&lt;a0&gt;OpenOffice.org&lt;/a0&gt; &lt;br1/&gt; &lt;a2&gt;Libre Office&lt;/a2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -21983,8 +21991,8 @@ authors of previous versions.</seg>
       <tuv lang="EN">
         <seg>Free (compatible) alternatives to Microsoft Office.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T094831Z" creationid="chloechao" creationdate="20180412T094831Z">
-        <seg>微软Office软件的免费替代软件（可兼容）。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T030131Z" creationid="chloechao" creationdate="20180412T094831Z">
+        <seg>Microsoft Office 的免费（兼容）替代产品。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31013,6 +31021,14 @@ later version.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Make sure that you have a free Microsoft account. You’ll need this to sign-in to &lt;u0&gt;Windows Azure Marketplace&lt;/u0&gt; and use the Translator service. Note that up to 2M characters per month are free of charge. The two entries required are available in your &lt;u1&gt;account page&lt;/u1&gt; under Primary account key and Customer-ID:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T030145Z" creationid="WynnChen" creationdate="20200117T030145Z">
+        <seg>Make sure that you have a free Microsoft account. You’ll need this to sign-in to &lt;u0&gt;Windows Azure Marketplace&lt;/u0&gt; and use the Translator service. Note that up to 2M characters per month are free of charge. The two entries required are available in your &lt;u1&gt;account page&lt;/u1&gt; under Primary account key and Customer-ID:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Make sure that you have a free Yandex account.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="17012" changedate="20180405T111509Z" creationid="17012" creationdate="20180405T111509Z">
@@ -36125,8 +36141,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>Online repositories of spelling dictionaries for use within OmegaT.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="chloechao" changedate="20180412T091022Z" creationid="chloechao" creationdate="20180412T091022Z">
-        <seg>可在在OmegaT中使用的拼写字典在线仓库。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T030056Z" creationid="chloechao" creationdate="20180412T091022Z">
+        <seg>可在 OmegaT 中使用的拼写词典的在线存储库。</seg>
       </tuv>
     </tu>
     <tu>
