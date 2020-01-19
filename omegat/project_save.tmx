@@ -3178,6 +3178,14 @@ not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>--alignDir=&lt;p0&gt;&lt;location of translated files&gt;&lt;/p0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200119T090448Z" creationid="WynnChen" creationdate="20200119T090429Z">
+        <seg>--alignDir=&lt;p0&gt;&lt;已译文件的位置&gt;&lt;/p0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>--alignDir={location of translated files}</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120208T065112Z">
@@ -3292,6 +3300,14 @@ not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>--pseudotranslatetmx=&lt;p0&gt;allsegments.tmx&lt;/p0&gt; --pseudotranslatetype=&lt;p1&gt;equal|empty&lt;/p1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200119T085912Z" creationid="WynnChen" creationdate="20200119T085912Z">
+        <seg>--pseudotranslatetmx=&lt;p0&gt;allsegments.tmx&lt;/p0&gt; --pseudotranslatetype=&lt;p1&gt;equal|empty&lt;/p1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>--pseudotranslatetmx=allsegments.tmx --pseudotranslatetype=[equal|empty]</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120208T064705Z">
@@ -3345,6 +3361,14 @@ not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>--source-pattern=&lt;p0&gt;regexp&lt;/p0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200119T090738Z" creationid="WynnChen" creationdate="20200119T090719Z">
+        <seg>--source-pattern=&lt;p0&gt;正则表达式&lt;/p0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>--source-pattern={regexp}</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120208T063807Z">
@@ -3387,6 +3411,22 @@ not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>-Dmicrosoft.api.client_id=&lt;p0&gt;XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX&lt;/p0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200119T081103Z" creationid="WynnChen" creationdate="20200119T081103Z">
+        <seg>-Dmicrosoft.api.client_id=&lt;p0&gt;XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX&lt;/p0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-Dmicrosoft.api.client_secret=&lt;p0&gt;XXXX9xXxX9xXXxxXXX9xxX99xXXXX9xx9XXxXxXXXXX=&lt;/p0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200119T081107Z" creationid="WynnChen" creationdate="20200119T081107Z">
+        <seg>-Dmicrosoft.api.client_secret=&lt;p0&gt;XXXX9xXxX9xXXxxXXX9xxX99xXXXX9xx9XXxXxXXXXX=&lt;/p0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>-Dmymemory.api.email=your@email-address.com</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="weiyi" changedate="20180405T081603Z" creationid="weiyi" creationdate="20180405T081603Z">
@@ -3399,6 +3439,14 @@ not be entered.)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T104504Z" creationid="Administrator" creationdate="20180411T134810Z">
         <seg>-Dsun.java2d.noddraw=false</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>-Dyandex.api.key=&lt;p0&gt;trnsl.1.1.XXXXXXXXXXXXXXXX.XXXXXXXXXXXXXXXX.XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX&lt;/p0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200119T081250Z" creationid="WynnChen" creationdate="20200119T081250Z">
+        <seg>-Dyandex.api.key=&lt;p0&gt;trnsl.1.1.XXXXXXXXXXXXXXXX.XXXXXXXXXXXXXXXX.XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX&lt;/p0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4635,6 +4683,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;-Duser.country=&lt;p1&gt;XX&lt;/p1&gt;&lt;/e0&gt; Besides the language, you can also specify the country, for example &lt;l2&gt;CN&lt;/l2&gt; or &lt;l3&gt;TW&lt;/l3&gt; in case of the Chinese language. To display the instant start guide in the desired language, you need to specify both the language and the country. This is necessary even if there's only one combination available, like &lt;l4&gt;pt_BR&lt;/l4&gt; in case of Brazilian Portuguese.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200119T072806Z" creationid="WynnChen" creationdate="20200119T072500Z">
+        <seg>&lt;e0&gt;-Duser.country=&lt;p1&gt;XX&lt;/p1&gt;&lt;/e0&gt; 除语言外，你还可以指定国家/地区，例如，对于中文情况下的 &lt;l2&gt;CN&lt;/l2&gt; 或 &lt;l3&gt;TW&lt;/l3&gt;。要以期望语言显示快速入门指南，您需要同时指定语言和国家/地区。即使只有一种可能的组合这也是必须的，比如说巴西葡萄牙语情况下的 &lt;l4&gt;pt_BR&lt;/l4&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;-Duser.country=XX&lt;/e0&gt;&lt;i1/&gt; Besides the language, you can also specify the country, for example CN or TW in case of the Chinese language.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120208T051710Z">
@@ -4711,6 +4767,54 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120208T064350Z">
         <seg>&lt;e0&gt;&lt;l1&gt;--mode&lt;/l1&gt;=...-&lt;/e0&gt; &lt;a2&gt;OmegaT&lt;/a2&gt; 以控制台模式启动，接着执行下列的某个服务</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;&lt;l1&gt;--mode=&lt;p2&gt;...&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; &lt;a3&gt;OmegaT&lt;/a3&gt; starts in console mode to perform one of the following services automatically</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200119T085034Z" creationid="WynnChen" creationdate="20200119T085034Z">
+        <seg>&lt;e0&gt;&lt;l1&gt;--mode=&lt;p2&gt;...&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; &lt;a3&gt;OmegaT&lt;/a3&gt; 以控制台模式启动并自动执行以下服务之一</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Dgoogle.api.key=&lt;p2&gt;A123456789B123456789C123456789D12345678&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; If you have signed up for the Google Translate services, enter your private Google API key here. Note that the key is 38 characters long.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200119T074031Z" creationid="WynnChen" creationdate="20200119T074031Z">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Dgoogle.api.key=&lt;p2&gt;A123456789B123456789C123456789D12345678&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; 如果你已经注册了 Google 翻译服务，在这里输入你的 Google API 私钥。注意密钥长度为 38 个字符。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Dhttp.proxyHost=&lt;p2&gt;nnn.nnn.nnn.nnn&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; The IP address of your proxy server, if your system uses a proxy.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200119T073518Z" creationid="WynnChen" creationdate="20200119T073423Z">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Dhttp.proxyHost=&lt;p2&gt;nnn.nnn.nnn.nnn&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; 如果你的系统使用代理服务器，这里是代理服务器的 IP 地址。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Dhttp.proxyPort=&lt;p2&gt;NNNN&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; The port number your system uses to access the proxy server.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200119T073542Z" creationid="WynnChen" creationdate="20200119T073542Z">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Dhttp.proxyPort=&lt;p2&gt;NNNN&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; 你的系统用于访问代理服务器的端口号。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Duser.language=&lt;p2&gt;XX&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; Normally, i.e. when &lt;a3&gt;OmegaT&lt;/a3&gt; is launched without any arguments, the program first detects the language of the user's operating system. If a user interface in this language is available, &lt;a4&gt;OmegaT&lt;/a4&gt; uses it. So, if the user's operating system is Russian and &lt;a5&gt;OmegaT&lt;/a5&gt; has been localized in Russian, &lt;a6&gt;OmegaT&lt;/a6&gt; is displayed with a Russian user interface, Russian menus, etc. If the language of the user's system is not available, &lt;a7&gt;OmegaT&lt;/a7&gt; defaults to English. This is the standard behavior.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200119T070935Z" creationid="WynnChen" creationdate="20200119T070935Z">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Duser.language=&lt;p2&gt;XX&lt;/p2&gt;&lt;/l1&gt;&lt;/e0&gt; 通常，即，不带参数启动 &lt;a3&gt;OmegaT&lt;/a3&gt; 时，程序会先检测用户的操作系统的语言。如果此语言的用户界面可用，&lt;a4&gt;OmegaT&lt;/a4&gt; 就会使用之。因此，如果用户的操作系统是俄语的且 &lt;a5&gt;OmegaT&lt;/a5&gt; 已经对俄语进行了本地化，&lt;a6&gt;OmegaT&lt;/a6&gt; 就会显示俄语用户界面、俄语菜单等。如果用户系统的语言不可用，&lt;a7&gt;OmegaT&lt;/a7&gt; 默认为英语。这是标准行为。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Xmx&lt;p2&gt;??&lt;/p2&gt;M&lt;/l1&gt;&lt;/e0&gt;This command assigns more memory to &lt;a3&gt;OmegaT&lt;/a3&gt;. By default, 1024 MB are assigned, so there is no advantage in assigning less than this figure. &lt;p4&gt;??&lt;/p4&gt; stands for the amount of memory assigned, in megabytes. The command to launch &lt;a5&gt;OmegaT&lt;/a5&gt; with assignment of 2048 MB (2 GB) of memory is therefore:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200119T073341Z" creationid="WynnChen" creationdate="20200119T073341Z">
+        <seg>&lt;e0&gt;&lt;l1&gt;-Xmx&lt;p2&gt;??&lt;/p2&gt;M&lt;/l1&gt;&lt;/e0&gt; 此命令为 &lt;a3&gt;OmegaT&lt;/a3&gt; 分配更多内存。默认情况下，会分配 1024 MB，因此分配比这数字更少是没有任何好处的。&lt;p4&gt;??&lt;/p4&gt; 代表分配的内存量，以兆字节（M）为单位。因此，启动 &lt;a5&gt;OmegaT&lt;/a5&gt; 并分配 2048 MB（2 GB）内存的命令是：</seg>
       </tuv>
     </tu>
     <tu>
@@ -5224,6 +5328,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120207T121756Z">
         <seg>&lt;e0&gt;隐私政策&lt;/e0&gt;：&lt;a1&gt;OmegaT&lt;/a1&gt; Java Web Start 不会在您的计算机之外保存您在其中操作的任何资料。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Privacy&lt;/e0&gt;: &lt;a1&gt;OmegaT&lt;/a1&gt; Java Web Start does not save any of your information beyond the computer on which you are running it. The application runs on your machine only. Your documents and translation memories remain on your computer, and the &lt;a2&gt;OmegaT&lt;/a2&gt; project will have no access to your work or information.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200119T032524Z" creationid="WynnChen" creationdate="20200119T032524Z">
+        <seg>&lt;e0&gt;隐私&lt;/e0&gt;：&lt;a1&gt;OmegaT&lt;/a1&gt; Java Web Start 不会将任何信息保存到你所运行的计算机之外。此应用程序只运行在你的机器上。你的文档和翻译记忆库都留在你的计算机上，&lt;a2&gt;OmegaT&lt;/a2&gt; 项目无法访问你的工作或信息。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5761,6 +5873,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120208T065137Z">
         <seg>&lt;f0&gt;alignDir&lt;/f0&gt; 必须包含项目目标语言的翻译。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;alignDir&lt;/f0&gt; must contain a translation in the target language of the project. For instance, if the project is EN-to-FR, &lt;f1&gt;alignDir&lt;/f1&gt; must contain a bundle ending with &lt;l2&gt;_fr&lt;/l2&gt;. The resulting TMX is stored in the &lt;f3&gt;omegat&lt;/f3&gt; folder under the name &lt;f4&gt;align.tmx&lt;/f4&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200119T090722Z" creationid="WynnChen" creationdate="20200119T090706Z">
+        <seg>&lt;f0&gt;alignDir&lt;/f0&gt; 必须包含项目的目标语言译文。例如，如果项目是 EN 翻 FR，&lt;f1&gt;alignDir&lt;/f1&gt; 包含以 &lt;l2&gt;_fr&lt;/l2&gt; 结尾的包。生成的 TMX 存放在 &lt;f3&gt;omegat&lt;/f3&gt;文件夹下，名为 &lt;f4&gt;align.tmx&lt;/f4&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6344,8 +6464,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;l0&gt;${targetLocaleLCID}&lt;/l0&gt; - Microsoft target locale</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131113T125020Z" creationid="Fu Rhong" creationdate="20131113T125020Z">
-        <seg>&lt;l0&gt;${targetLocaleLCID}&lt;/l0&gt;——微软目标区域设置</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200119T074416Z" creationid="Fu Rhong" creationdate="20131113T125020Z">
+        <seg>&lt;l0&gt;${targetLocaleLCID}&lt;/l0&gt;——Microsoft 目标区域设置 </seg>
       </tuv>
     </tu>
     <tu>
@@ -6383,6 +6503,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;l0&gt;--config-dir=&lt;p1&gt;/path/to/config-files/&lt;/p1&gt;&lt;/l0&gt; tells &lt;a2&gt;OmegaT&lt;/a2&gt; in which folder the configuration files are stored. If not given, &lt;a3&gt;OmegaT&lt;/a3&gt; reverts to default values (&lt;a4&gt;OmegaT&lt;/a4&gt; folder under user home or, if unavailable, the current working folder). Note the double &lt;l5&gt;-&lt;/l5&gt; character.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200119T083739Z" creationid="WynnChen" creationdate="20200119T083551Z">
+        <seg>&lt;l0&gt;--config-dir=&lt;p1&gt;/path/to/config-files/&lt;/p1&gt;&lt;/l0&gt; 告诉 &lt;a2&gt;OmegaT&lt;/a2&gt; 配置文件存放在哪个文件夹里。如果未给出，&lt;a3&gt;OmegaT&lt;/a3&gt; 会还原为默认值（用户主文件夹下的 &lt;a4&gt;OmegaT&lt;/a4&gt; 文件夹，或，如果前者不可用，就是当前工作文件夹）。注意那两个 &lt;l5&gt;-&lt;/l5&gt; 字符。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;l0&gt;--config-file=&lt;config-file&gt;&lt;/l0&gt; tells &lt;a1&gt;OmegaT&lt;/a1&gt; what configuration file to use.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="17012" changedate="20180405T111907Z" creationid="17012" creationdate="20180405T111907Z">
@@ -6391,10 +6519,26 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;l0&gt;--config-file=&lt;p1&gt;/path/to/config-file/&lt;/p1&gt;&lt;/l0&gt; tells &lt;a2&gt;OmegaT&lt;/a2&gt; what configuration file to use.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200119T083758Z" creationid="WynnChen" creationdate="20200119T083758Z">
+        <seg>&lt;l0&gt;--config-file=&lt;p1&gt;/path/to/config-file/&lt;/p1&gt;&lt;/l0&gt; 告诉 &lt;a2&gt;OmegaT&lt;/a2&gt; 使用哪个配置文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;l0&gt;--disable-project-locking&lt;/l0&gt; allows, under Windows, to open the same project with several instances of OmegaT.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="17012" changedate="20180405T112317Z" creationid="17012" creationdate="20180405T112317Z">
         <seg>&lt;l0&gt;--disable-project-locking&lt;/l0&gt;允许在Windows平台下打开有几个OmegaT例子的同一个项目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;--disable-project-locking&lt;/l0&gt; allows, under Windows, to open the same project with several instances of OmegaT. By default, under Windows, &lt;f1&gt;omegat.project&lt;/f1&gt; is locked, and an error message is received when trying to open a project already opened in another instance of OmegaT. With that option, no locking occurs.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200119T092223Z" creationid="WynnChen" creationdate="20200119T092223Z">
+        <seg>&lt;l0&gt;--disable-project-locking&lt;/l0&gt; 在 Windows 下允许多个 OmegaT 实例打开同一个项目。默认情况下，在 Windows 下，&lt;f1&gt;omegat.project&lt;/f1&gt; 是被锁定的，试图打开已经在另一个 OmegaT 实例中打开的项目会收到错误信息。使用该选项就不会发生锁定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6415,10 +6559,26 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;l0&gt;--no-team&lt;/l0&gt; addresses projects set up for team work. Use it if OmegaT is not to synchronize the project contents.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200119T091908Z" creationid="WynnChen" creationdate="20200119T091908Z">
+        <seg>&lt;l0&gt;--no-team&lt;/l0&gt; 处理为团队作业而设立的项目。使用此选项能让 OmegaT 不同步项目内容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;l0&gt;--source-pattern={regexp} &lt;/l0&gt;The files to be translated can be specified this way.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131118T024659Z" creationid="Fu Rhong" creationdate="20131118T024659Z">
         <seg>&lt;l0&gt;--source-pattern={regexp} &lt;/l0&gt;可使用这种方式指定要翻译的文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;--tag-validation=&lt;p1&gt;abort|warn&lt;/p1&gt;&lt;/l0&gt; &lt;p2&gt;outputFileName&lt;/p2&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200119T091358Z" creationid="WynnChen" creationdate="20200119T091358Z">
+        <seg>&lt;l0&gt;--tag-validation=&lt;p1&gt;abort|warn&lt;/p1&gt;&lt;/l0&gt; &lt;p2&gt;outputFileName&lt;/p2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6467,6 +6627,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120213T143451Z">
         <seg>&lt;l0&gt;.utf8&lt;/l0&gt; 文件会被 &lt;a1&gt;OmegaT&lt;/a1&gt; 以 UTF-8 编码进行解释（一种几乎涵盖了世界上所有语言的编码）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;l0&gt;/path/to/project&lt;/l0&gt; tells &lt;a1&gt;OmegaT&lt;/a1&gt; where to find the project to translate. If given, &lt;a2&gt;OmegaT&lt;/a2&gt; starts in console mode and will translate the given project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200119T083555Z" creationid="WynnChen" creationdate="20200119T083519Z">
+        <seg>&lt;l0&gt;/path/to/project&lt;/l0&gt; 告诉 &lt;a1&gt;OmegaT&lt;/a1&gt; 去哪找要翻译的项目。如果给出，&lt;a2&gt;OmegaT&lt;/a2&gt; 会以控制台模式启动并翻译给定项目。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7059,8 +7227,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;p0&gt;Menu Project&lt;/p0&gt; &lt;s1&gt;New...&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
-        <seg>&lt;p0&gt;项目菜单&lt;/p0&gt; &lt;s1&gt;新建...&lt;/s1&gt;</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200119T100023Z">
+        <seg>&lt;p0&gt;菜单 项目&lt;/p0&gt; &lt;s1&gt;新建...&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8553,8 +8721,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;r0&gt;Note:&lt;/r0&gt; On an Apple Mac, use the &lt;k1&gt;Command&lt;/k1&gt; key instead of the &lt;k2&gt;Control&lt;/k2&gt; key.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T004638Z" creationid="Fu Rhong" creationdate="20131117T004638Z">
-        <seg>&lt;r0&gt;注：&lt;/r0&gt;在Apple Mac上，请使用&lt;k1&gt;Command&lt;/k1&gt;代替&lt;k2&gt;Control&lt;/k2&gt;键。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200119T100000Z" creationid="Fu Rhong" creationdate="20131117T004638Z">
+        <seg>&lt;r0&gt;注：&lt;/r0&gt;在 Apple Mac 上，要使用 &lt;k1&gt;Command&lt;/k1&gt; 键而非 &lt;k2&gt;Control&lt;/k2&gt; 键。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8971,6 +9139,14 @@ on the Program.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A command line window is also referred to as a "terminal window". On Windows it is called an "MS-DOS window" and is available from the Start Menu, inside Programs, through the "MS-DOS" item. The macOS equivalent is the application Terminal located in &lt;f0&gt;Applications/Utilities&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200119T034921Z" creationid="WynnChen" creationdate="20200119T034921Z">
+        <seg>命令行窗口也称为“终端窗口”。在 Windows 上它被称为“MS-DOS 窗口”，可通过开始菜单中“程序”内的“MS-DOS”条目启动。macOS 内的等价物是终端（Terminal）应用程序，位于 &lt;f0&gt;应用程序/实用工具&lt;/f0&gt;内。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A compilation of a covered work with other separate and independent
 works, which are not by their nature extensions of the covered work,
 and which are not combined with it such as to form a larger program,
@@ -9167,6 +9343,14 @@ this License.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
         <seg>下面给出了可用参数的清单：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A list of possible arguments is given below. Advanced users can obtain more information on the arguments by typing &lt;e0&gt;man java&lt;/e0&gt; in the terminal window.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200119T070438Z" creationid="WynnChen" creationdate="20200119T070438Z">
+        <seg>下文罗列了所有可能参数。进阶用户可以通过在终端窗口中输入 &lt;e0&gt;man java&lt;/e0&gt; 来获取关于参数的更多信息。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10019,8 +10203,8 @@ included in conveying the object code work.</seg>
       <tuv lang="EN">
         <seg>Additional parameter is required in this case, specifying the location of the target data:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120208T065100Z">
-        <seg>此时需要额外的参数指明目标数据的位置：</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200119T090433Z">
+        <seg>这种情况下需要额外的参数，用以指定译文数据的位置：</seg>
       </tuv>
     </tu>
     <tu>
@@ -10309,6 +10493,14 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After you give your project a name, the &lt;g0&gt;Create New Project&lt;/g0&gt; dialog will open. At the top of that dialog, select your source file's language and the language that your translated file will be, and click &lt;g1&gt;OK&lt;/g1&gt; to continue.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200119T100509Z" creationid="WynnChen" creationdate="20200119T100509Z">
+        <seg>为项目命名后，将会打开&lt;g0&gt;创建新项目&lt;/g0&gt;对话框。在该对话框顶部选择原文文件的语言和翻译后文件应有的语言，然后点击&lt;g1&gt;确定&lt;/g1&gt;继续。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>After you have translated each segment, press &lt;k0&gt;Ctrl+U&lt;/k0&gt; to move to the next untranslated segment (or &lt;k1&gt;Ctrl+Shift+U&lt;/k1&gt; to move to the next translated segment).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T010251Z" creationid="Fu Rhong" creationdate="20131117T010251Z">
@@ -10489,6 +10681,14 @@ the above requirements apply either way.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120208T065708Z">
         <seg>此时将翻译所有的 HTML 文件，需要注意到 *.html 在正则表达式中指定时需要进行转义 (\.)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All HTML files will be translated - note that the period in the usual &lt;l0&gt;*.html&lt;/l0&gt; has to be escaped (&lt;l1&gt;\.&lt;/l1&gt;) as specified by the rules for regular expressions</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200119T091057Z" creationid="WynnChen" creationdate="20200119T091057Z">
+        <seg>将会翻译所有 HTML 文件——注意出现在通常的 &lt;l0&gt;*.html&lt;/l0&gt; 中的句点需要按照正则表达式的规则进行转义（&lt;l1&gt;\.&lt;/l1&gt;）</seg>
       </tuv>
     </tu>
     <tu>
@@ -11345,6 +11545,14 @@ to determine the source of the error and try again.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An extra command line parameter specific to console mode: &lt;l0&gt;--quiet&lt;/l0&gt;. In the quiet mode, less info is logged to the screen. The messages you would usually find in the status bar are not displayed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200119T094627Z" creationid="WynnChen" creationdate="20200119T094627Z">
+        <seg>另一个控制台模式专用的命令行参数：&lt;l0&gt;--quiet&lt;/l0&gt;。在静默模式下，屏幕上记录的信息较少。你通常会在状态栏上看到的那些信息不会显示出来。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An important aspect of this freedom is that users may also modify the program's code.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="18261" changedate="20180412T121713Z" creationid="18261" creationdate="20180412T121713Z">
@@ -11799,8 +12007,8 @@ menu, a prominent item in the list meets this criterion.</seg>
       <tuv lang="EN">
         <seg>Arguments can be combined: to launch &lt;a0&gt;OmegaT&lt;/a0&gt; with all the examples described above, the command would be:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120208T052810Z">
-        <seg>参数可以进行组合：要想以上面所举所有例子为参数启动 &lt;a0&gt;OmegaT&lt;/a0&gt; 的话，命令可能是：</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200119T081328Z">
+        <seg>参数可以进行组合：要想以上面所举所有例子启动 &lt;a0&gt;OmegaT&lt;/a0&gt; 的话，命令应当是：</seg>
       </tuv>
     </tu>
     <tu>
@@ -13126,8 +13334,8 @@ Buy another drink</seg>
       <tuv lang="EN">
         <seg>Building &lt;a0&gt;OmegaT&lt;/a0&gt; From Source</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120208T112421Z">
-        <seg>从源代码编译 &lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200119T094656Z">
+        <seg>从源代码构建 &lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17399,6 +17607,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Detailed instructions on building are in the docs_devel &lt;u0&gt;readme&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200119T095741Z" creationid="WynnChen" creationdate="20200119T095741Z">
+        <seg>详细的构建说明请参阅 docs_devel 中的 &lt;u0&gt;readme&lt;/u0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Detailed technical discussion of changes is best conducted directly with OmegaT's developers.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="18261" changedate="20180412T131709Z" creationid="18261" creationdate="20180412T131709Z">
@@ -18584,6 +18800,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190413T072328Z">
         <seg>下载文件——它应当是个 &lt;f0&gt;tarball&lt;/f0&gt; 存档（扩展名为 &lt;e1&gt;tar.bz&lt;/e1&gt; 或 &lt;e2&gt;tar.bz2&lt;/e2&gt;）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Download the file &lt;f0&gt;OmegaT.jnlp&lt;/f0&gt; and then click on it. During the installation, depending on your operating system, you may receive several security warnings. The permissions you give to this version (which may appear as "unrestricted access to the computer") are identical to the permissions you give to the local version, i.e., they allow access to the hard drive of the computer. Subsequent clicks on &lt;f1&gt;OmegaT.jnlp&lt;/f1&gt; will check for any upgrades, install them, if there are any, and then start &lt;a2&gt;OmegaT&lt;/a2&gt;. After the initial installation you can, of course, also use &lt;f3&gt;OmegaT.jnlp&lt;/f3&gt; also when you are offline.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200119T021842Z" creationid="WynnChen" creationdate="20200119T021842Z">
+        <seg>下载 &lt;f0&gt;OmegaT.jnlp&lt;/f0&gt; 文件并点击之。在安装过程中，你可能收到几个安全警告，具体取决于你的系统。你授予此版本的权限（可能显示“对计算机的无限制访问”）与你授予本地版本的权限相同，即，它们可以存取计算机上的硬盘驱动器。以后点击 &lt;f1&gt;OmegaT.jnlp&lt;/f1&gt; 会先检查是否有更新，如果有的话安装之，然后启动 &lt;a2&gt;OmegaT&lt;/a2&gt;。在初始安装结束后，即使离线也（理所当然）可以使用 &lt;f3&gt;OmegaT.jnlp&lt;/f3&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22401,8 +22625,8 @@ authors of previous versions.</seg>
       <tuv lang="EN">
         <seg>Generate the translated file</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T024557Z" creationid="Fu Rhong" creationdate="20131117T024557Z">
-        <seg>生成已译文件</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200119T104555Z" creationid="Fu Rhong" creationdate="20131117T024557Z">
+        <seg>生成译文文件</seg>
       </tuv>
     </tu>
     <tu>
@@ -22779,8 +23003,8 @@ authors of previous versions.</seg>
       <tuv lang="EN">
         <seg>Google Translate V2</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131116T131617Z">
-        <seg>谷歌翻译v2</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200119T073617Z">
+        <seg>Google 翻译 v2</seg>
       </tuv>
     </tu>
     <tu>
@@ -25183,8 +25407,8 @@ where to find the applicable terms.</seg>
       <tuv lang="EN">
         <seg>If you are interested in other settings of this dialog, you can return to it any time by pressing &lt;k0&gt;Ctrl+E.&lt;/k0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T005602Z" creationid="Fu Rhong" creationdate="20131117T005602Z">
-        <seg>如果对该对话框中的其他设置有兴趣，您可在任何时候按下&lt;k0&gt;Ctrl+E&lt;/k0&gt;来将其打开。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200119T101400Z" creationid="Fu Rhong" creationdate="20131117T005602Z">
+        <seg>如果对该对话框中的其他设置感兴趣，则随时都可以按 &lt;k0&gt;Ctrl+E&lt;/k0&gt; 返回此对话框。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25405,6 +25629,14 @@ OmegaT.exe，请修改设置以显示文件扩展名。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131116T143833Z" creationid="Fu Rhong" creationdate="20131116T143833Z">
         <seg>如果您无法正常运行&lt;a0&gt;OmegaT&lt;/a0&gt;（没有可用的图形界面）：可将另一机器上安装的&lt;a1&gt;OmegaT&lt;/a1&gt;设置文件复制到特定的文件夹。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you can't run &lt;a0&gt;OmegaT&lt;/a0&gt; normally (no graphical environment available): copy the settings files from some other &lt;a1&gt;OmegaT&lt;/a1&gt; installation on another machine to a specific folder. The location does not matter, since you can add it to the command line at startup. The relevant files are &lt;f2&gt;filters.conf&lt;/f2&gt; and &lt;f3&gt;segmentation.conf&lt;/f3&gt; and can be found in the user home folder (e.g. &lt;f4&gt;C:\Documents and Settings\&lt;p5&gt;user&lt;/p5&gt;\OmegaT&lt;/f4&gt; under Windows, &lt;f6&gt;~/.omegat/&lt;/f6&gt; under Linux).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200119T082942Z" creationid="WynnChen" creationdate="20200119T082942Z">
+        <seg>如果无法正常运行 &lt;a0&gt;OmegaT&lt;/a0&gt;（没有可用的图形环境）：从另一台机器上安装的其他 &lt;a1&gt;OmegaT&lt;/a1&gt;中将设置文件复制到特定文件夹。位置不重要，因为你可以在启动时将其添加到命令行。相关文件是 &lt;f2&gt;filters.conf&lt;/f2&gt; 和 &lt;f3&gt;segmentation.conf&lt;/f3&gt;，可以在用户的主文件夹中找到（例如 &lt;f4&gt;C:\Documents and Settings\&lt;p5&gt;user&lt;/p5&gt;\OmegaT&lt;/f4&gt;（Windows 下）或 &lt;f6&gt;~/.omegat/&lt;/f6&gt;（Linux 下）)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25786,6 +26018,14 @@ to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you need altered settings, the configuration files must be available. This can be achieved in two ways:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200119T081912Z" creationid="WynnChen" creationdate="20200119T081912Z">
+        <seg>如果需要更改设置，则配置文件必须可用。这可以通过两种方式实现：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you need assistance with any aspect of OmegaT, feel free to join the &lt;u1&gt;OmegaT users group.&lt;/u1&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T032120Z" creationid="Fu Rhong" creationdate="20131117T032120Z">
@@ -26078,6 +26318,14 @@ to use Java Web Start.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T023913Z" creationid="Fu Rhong" creationdate="20131117T010709Z">
         <seg>如果源文件是格式化文件，如Microsoft Word、LibreOffice Writer或HTML，OmegaT会把待译文本周围的格式转换为标签。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If your source files are formatted files, e.g. Microsoft Word, LibreOffice Writer or HTML, OmegaT will convert the formatting into tags that surround the text that you translate. Often documents will also have tags that have nothing to do with formatting, but which are also important in the source files (and in the translated files). A source sentence might look like:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200119T103109Z" creationid="WynnChen" creationdate="20200119T102237Z">
+        <seg>如果原文文件是格式化文件，例如 Microsoft Word、LibreOffice Writer 或 HTML 文件，OmegaT 会把格式信息转化为包围所译文本的标签。文档还经常含有与格式无关的标签，但这些标签在原文文件（以及译文文件）中也一样很重要。原文语句可能类似于：</seg>
       </tuv>
     </tu>
     <tu>
@@ -27343,10 +27591,26 @@ patent against the party.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In this mode OmegaT will create a TMX for the whole project, based on the source files only. You specify the TMX file to be created with</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200119T090010Z" creationid="WynnChen" creationdate="20200119T085910Z">
+        <seg>在此模式下，OmegaT 会仅基于原文文件来为整个项目创建一个 TMX。你可以用以下参数来指定要创建的 TMX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In this mode, "&lt;g1&gt;Cursor lock off&lt;/g1&gt;" is displayed at the bottom of the pane.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Doris" changedate="20180419T014447Z" creationid="Doris" creationdate="20180419T014447Z">
         <seg>在此模式下，窗格底部会显示“&lt;g1&gt;光标解锁&lt;/g1&gt;”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In this mode, OmegaT will align the Java properties files found in the &lt;f0&gt;/source/&lt;/f0&gt; folder of the project to the contents found at the specified location. The resulting TMX is stored in the &lt;f1&gt;/omegat/&lt;/f1&gt; folder under the name &lt;f2&gt;align.tmx&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200119T090710Z" creationid="WynnChen" creationdate="20200119T090007Z">
+        <seg>在此模式下，OmegaT 会将出现在项目的 &lt;f0&gt;/source/&lt;/f0&gt; 目录中的 Java 属性文件与在指定位置出现的内容对齐。生成的 TMX 存放在 &lt;f1&gt;/omegat/&lt;/f1&gt; 文件夹下，名称为 &lt;f2&gt;align.tmx&lt;/f2&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27363,6 +27627,14 @@ patent against the party.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120208T064436Z">
         <seg>在该模式中，OmegaT 将尝试使用可用的翻译记忆来翻译 /soruce/ 中的文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In this mode, OmegaT will attempt to translate the files in &lt;f0&gt;/source/&lt;/f0&gt; with the available translation memories. This is useful to run OmegaT on a server with TMX files automatically fed to a project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200119T085747Z" creationid="WynnChen" creationdate="20200119T085747Z">
+        <seg>在此模式下，OmegaT 会将尝试用可用的翻译记忆库翻译 &lt;f0&gt;/source/&lt;/f0&gt; 中的文件。这对于在服务器上运行 OmegaT 并将 TMX 文件自动提供给项目会非常有用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30221,8 +30493,8 @@ later version.</seg>
       <tuv lang="EN">
         <seg>Learn to use OmegaT in 5 minutes!</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="钢" changedate="20130514T145152Z">
-        <seg>Learn to use OmegaT in 5 minutes!</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200119T095802Z">
+        <seg>五分钟内学会使用 OmegaT！</seg>
       </tuv>
     </tu>
     <tu>
@@ -31231,8 +31503,8 @@ later version.</seg>
       <tuv lang="EN">
         <seg>Make sure that you have a free Microsoft account. You’ll need this to sign-in to &lt;u0&gt;Windows Azure Marketplace&lt;/u0&gt; and use the Translator service. Note that up to 2M characters per month are free of charge. The two entries required are available in your &lt;u1&gt;account page&lt;/u1&gt; under Primary account key and Customer-ID:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T030145Z" creationid="WynnChen" creationdate="20200117T030145Z">
-        <seg>Make sure that you have a free Microsoft account. You’ll need this to sign-in to &lt;u0&gt;Windows Azure Marketplace&lt;/u0&gt; and use the Translator service. Note that up to 2M characters per month are free of charge. The two entries required are available in your &lt;u1&gt;account page&lt;/u1&gt; under Primary account key and Customer-ID:</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200119T081102Z" creationid="WynnChen" creationdate="20200117T030145Z">
+        <seg>确保你有了免费的 Microsoft 账户。你需要用它来登录 &lt;u0&gt;Windows Azure Marketplace&lt;/u0&gt; 并使用 Translator 服务。请注意，每月最多可以免费处理 2 百万个字符。在您的&lt;u1&gt;账户页&lt;/u1&gt;中主账户密钥和客户 ID 下可以找到所需的两个条目：</seg>
       </tuv>
     </tu>
     <tu>
@@ -31241,6 +31513,14 @@ later version.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="17012" changedate="20180405T111509Z" creationid="17012" creationdate="20180405T111509Z">
         <seg>确认你有免费的Yandex 账号</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Make sure that you have a free Yandex account. You’ll need this to be able to obtain and use Yandex Translate API key. API keys can be requested using &lt;u0&gt;API key request form&lt;/u0&gt;, and viewed on &lt;u1&gt;My Keys&lt;/u1&gt; page.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200119T081248Z" creationid="WynnChen" creationdate="20200119T081248Z">
+        <seg>确保你有免费的 Yandex 账户。你需要用它才能获得并使用 Yandex Translate 的 API 密钥。API 密钥可以使用 &lt;u0&gt;API 密钥请求表单&lt;/u0&gt;获取，并可以在 &lt;u1&gt;My Keys（我的密钥）&lt;/u1&gt;页面查看。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31952,7 +32232,7 @@ later version.</seg>
       <tuv lang="EN">
         <seg>Microsoft Open XML</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190322T074945Z" creationid="wynnc" creationdate="20190322T074945Z">
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200119T074359Z" creationid="wynnc" creationdate="20190322T074945Z">
         <seg>Microsoft Open XML</seg>
       </tuv>
     </tu>
@@ -33049,6 +33329,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Next, the &lt;g0&gt;Project Files&lt;/g0&gt; dialog opens. Click on &lt;g1&gt;Copy Files to Source Folder...&lt;/g1&gt; to select your source files. OmegaT will then copy the selected files to the &lt;f2&gt;/source/&lt;/f2&gt; subfolder of your newly created project. After the source files have loaded in the &lt;g3&gt;Editor&lt;/g3&gt; pane, you can close the &lt;g4&gt;Project Files&lt;/g4&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200119T101729Z" creationid="WynnChen" creationdate="20200119T101729Z">
+        <seg>接着，会打开&lt;g0&gt;项目文件&lt;/g0&gt;对话框。点击&lt;g1&gt;将文件复制到原文文件夹...&lt;/g1&gt;来选择原文文件。然后 OmegaT 会将选定文件复制到你新建立的项目中的 &lt;f2&gt;/source/&lt;/f2&gt; 子文件夹下。在&lt;g3&gt;编辑器&lt;/g3&gt;窗格中加载了原文文件后，您可以关掉&lt;g4&gt;项目文件&lt;/g4&gt;对话框。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Nightly Builds</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190402T042607Z" creationid="WynnChen" creationdate="20190402T042607Z">
@@ -33325,6 +33613,14 @@ measures.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Normally, it is not necessary to start &lt;a0&gt;OmegaT&lt;/a0&gt; from the command line. However, the command-line alternative allows the user to control and modify the program's behavior. There are two ways of launching &lt;a1&gt;OmegaT&lt;/a1&gt; using the command line.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200119T034338Z" creationid="WynnChen" creationdate="20200119T033703Z">
+        <seg>通常，没有必要从命令行启动 &lt;a0&gt;OmegaT&lt;/a0&gt;。不过，改用命令行让用户可以控制和修改程序的行为。用命令行启动 &lt;a1&gt;OmegaT&lt;/a1&gt; 有两种方法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>North Ndebele</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T050112Z" creationid="Fu Rhong" creationdate="20131108T030446Z">
@@ -33517,6 +33813,14 @@ measures.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note that all parameters start with a double &lt;l0&gt;-&lt;/l0&gt; character.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200119T083429Z" creationid="WynnChen" creationdate="20200119T083429Z">
+        <seg>注意所有参数都必须以两个 &lt;l0&gt;-&lt;/l0&gt; 字符开头。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note that all the tmx files in the /tm repository are parsed when the project is opened, so putting all different TMs you may have on hand into this folder may unnecessarily slow OmegaT down.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120218T065332Z">
@@ -33575,8 +33879,8 @@ measures.</seg>
       <tuv lang="EN">
         <seg>Note that if you need or wish to use any of the launch command arguments (see above), you must use the normal installation.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120207T121920Z">
-        <seg>请注意，如果您需要某个启动命令参数（见上文），就不得不使用正常安装。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200119T033546Z">
+        <seg>请注意，如果您需要使用启动命令参数（见上文），就必须使用普通安装。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34976,8 +35280,8 @@ project without team functionality. (You will still able to use OmegaT
       <tuv lang="EN">
         <seg>OmegaT in the command line mode</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120208T053038Z">
-        <seg>以命令行模式运行 OmegaT</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200119T081351Z">
+        <seg>命令行模式下的 OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -35859,6 +36163,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT will present one segment at a time for you to translate. After you have translated each segment, press &lt;k0&gt;Ctrl+U&lt;/k0&gt; to move to the next untranslated segment (or &lt;k1&gt;Ctrl+Shift+U&lt;/k1&gt; to move to the next translated segment). Whenever you want to see what your translation will look like in its final format, press &lt;k2&gt;Ctrl+D&lt;/k2&gt; to generate the translated documents, which will be created in the &lt;f3&gt;/target/&lt;/f3&gt; subfolder of your project folder. During translation, use the &lt;g4&gt;Edit&lt;/g4&gt; and &lt;g5&gt;Go To&lt;/g5&gt; menus to perform various useful functions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200119T102613Z" creationid="WynnChen" creationdate="20200119T102217Z">
+        <seg>OmegaT 将一次呈现一个片段供您翻译。翻译完一个片段后，按下 &lt;k0&gt;Ctrl+U&lt;/k0&gt; 前往下一个未译片段（或用 &lt;k1&gt;Ctrl+Shift+U&lt;/k1&gt; 前往下一个已译片段）。当您想查看译文的最终呈现格式时，请按 &lt;k2&gt;Ctrl+D&lt;/k2&gt; 来生成已译文档，它们会在项目文件夹中的 &lt;f3&gt;/target/&lt;/f3&gt; 子文件夹内创建。在翻译过程中，可以用&lt;g4&gt;编辑&lt;/g4&gt;和&lt;g5&gt;转到&lt;/g5&gt;菜单来执行各种有用的功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT will recognize it is a team project, and will synchronize everything automatically, every three minutes by default.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131112T110840Z" creationid="Fu Rhong" creationdate="20131112T110840Z">
@@ -35997,8 +36309,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>OmegaT, however, will present this sentence in the following fashion:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T024214Z" creationid="Fu Rhong" creationdate="20131117T024214Z">
-        <seg>但OmegaT会把该语句以下面的样式呈现：</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200119T103139Z" creationid="Fu Rhong" creationdate="20131117T024214Z">
+        <seg>但 OmegaT 会将该语句以如下方式呈现：</seg>
       </tuv>
     </tu>
     <tu>
@@ -36063,6 +36375,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
         <seg>在 Windows 中可以称之为 "MS-DOS 窗口"，可从开始菜单，程序中的 "MS-DOS" 项找到。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On macOS</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200119T035232Z" creationid="WynnChen" creationdate="20200119T035232Z">
+        <seg>在 macOS 上</seg>
       </tuv>
     </tu>
     <tu>
@@ -36207,6 +36527,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120202T064616Z">
         <seg>解压缩后将创建一个包含下列内容的目录：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Once the code is downloaded, open a command in the source folder and type:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200119T094958Z" creationid="WynnChen" creationdate="20200119T094958Z">
+        <seg>一旦下载了代码，在源代码文件夹中打开命令行并输入：</seg>
       </tuv>
     </tu>
     <tu>
@@ -36443,10 +36771,26 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Only the file &lt;f0&gt;test.html&lt;/f0&gt; in the folder &lt;f1&gt;dir-10&lt;/f1&gt; will be processed. Again note that the backslash is escaped as well.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200119T091351Z" creationid="WynnChen" creationdate="20200119T091351Z">
+        <seg>只会处理 &lt;f1&gt;dir-10&lt;/f1&gt; 文件夹下的 &lt;f0&gt;test.html&lt;/f0&gt; 文件。再次提醒注意反斜杠也要转义。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Only the file test.html at the root of the source folder will be translated.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T003521Z" creationid="Fu Rhong" creationdate="20131117T003138Z">
         <seg>仅翻译source文件夹下当前目录中的test.html。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Only the file test.html at the root of the source folder will be translated. If there are other files named test.html in other folders, they will be ignored.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200119T091224Z" creationid="WynnChen" creationdate="20200119T091224Z">
+        <seg>只会翻译直接位于原文文件夹下的 test.html 文件。如果在其他文件夹内有名为 test.html 的文件，将忽略它们。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37523,6 +37867,14 @@ Vanishing like mist</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131116T131008Z" creationid="Fu Rhong" creationdate="20131116T131008Z">
         <seg>请注意如果在Windows外的其中操作系统中输入错误的大小写形式，例如输入&lt;e0&gt;omegat&lt;/e0&gt; 而不是&lt;e1&gt;OmegaT &lt;/e1&gt;，那么程序将不会启动！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pay attention to the capitalization - in OS other than Windows, the program will not start, if you enter &lt;l0&gt;omegat&lt;/l0&gt; instead of &lt;l1&gt;OmegaT&lt;/l1&gt;!</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200119T052144Z" creationid="WynnChen" creationdate="20200119T052144Z">
+        <seg>注意大小写——在 Windows 以外的操作系统中，如果你输入的是 &lt;l0&gt;omegat&lt;/l0&gt; 而非 &lt;l1&gt;OmegaT&lt;/l1&gt;，程序不会启动。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39188,8 +39540,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Proxy host IP address</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120208T052203Z">
-        <seg>代理服务器主机 IP 地址</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200119T073448Z">
+        <seg>代理主机 IP 地址</seg>
       </tuv>
     </tu>
     <tu>
@@ -40981,6 +41333,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120208T053218Z">
         <seg>正常运行 &lt;a0&gt;OmegaT&lt;/a0&gt; （带图形用户界面）并进行设置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Run &lt;a0&gt;OmegaT&lt;/a0&gt; normally (with the GUI) and specify the settings. If you start &lt;a1&gt;OmegaT&lt;/a1&gt; in console mode, it will use the same settings.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200119T082556Z" creationid="WynnChen" creationdate="20200119T082556Z">
+        <seg>正常运行 &lt;a0&gt;OmegaT&lt;/a0&gt;（带图形界面）并指定设置。如果你用控制台模式启动 &lt;a1&gt;OmegaT&lt;/a1&gt;，它将使用相同的设置。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43031,8 +43391,8 @@ When using regular expressions, the replacement string supports references to gr
       <tuv lang="EN">
         <seg>Set up a new project</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T004329Z" creationid="Fu Rhong" creationdate="20131117T004329Z">
-        <seg>创建新项目</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200119T095858Z" creationid="Fu Rhong" creationdate="20131117T004329Z">
+        <seg>建立新项目</seg>
       </tuv>
     </tu>
     <tu>
@@ -45116,8 +45476,8 @@ of the GPL, as needed to protect the freedom of users.</seg>
       <tuv lang="EN">
         <seg>TBX - Term Base eXchange - is the open, XML-based standard for exchanging structured terminological data, TBX has been approved as an international standard by LISA and ISO. If you have an existing terminology handling system it is quite possible it offers the export of terminology data via TBX format. &lt;u0&gt;Microsoft Terminology Collection&lt;/u0&gt; can be downloaded in nearly 100 languages and can serve as a cornerstone IT glossary.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T042619Z" creationid="WynnChen" creationdate="20190522T042619Z">
-        <seg>TBX——即 Term Base eXchange ——是用于交换结构化术语数据的基于 XML 的开放标准，TBX 已被 LISA 和 ISO 批准为国际标准。如果你已经有术语处理系统，它就很可能以 TBX 格式提供术语数据导出。有近百种语言的 &lt;u0&gt;Microsoft Terminology Collection（微软术语集）&lt;/u0&gt;可供下载，可作为基础 IT 词汇表。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200119T074405Z" creationid="WynnChen" creationdate="20190522T042619Z">
+        <seg>TBX——即 Term Base eXchange ——是用于交换结构化术语数据的基于 XML 的开放标准，TBX 已被 LISA 和 ISO 批准为国际标准。如果你已经有术语处理系统，它就很可能以 TBX 格式提供术语数据导出。有近百种语言的 &lt;u0&gt;Microsoft Terminology Collection（Microsoft 术语集）&lt;/u0&gt;可供下载，可作为基础 IT 词汇表。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46537,6 +46897,14 @@ form of a work.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;l0&gt;-Duser.language=&lt;p1&gt;XX&lt;/p1&gt;&lt;/l0&gt; argument causes &lt;a2&gt;OmegaT&lt;/a2&gt; to use the language specified rather than the language of the user's operating system. &lt;p3&gt;XX&lt;/p3&gt; in the command stands for the two-digit code of the desired language. To launch &lt;a4&gt;OmegaT&lt;/a4&gt; with a French interface (for example on a Russian operating system), the command would therefore be:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200119T072641Z" creationid="WynnChen" creationdate="20200119T072131Z">
+        <seg>&lt;l0&gt;-Duser.language=&lt;p1&gt;XX&lt;/p1&gt;&lt;/l0&gt; 参数会让 &lt;a2&gt;OmegaT&lt;/a2&gt; 使用指定的语言而非用户操作系统的语言。此命令中的 &lt;p3&gt;XX&lt;/p3&gt; 代表期望语言的两位代码。要用法语界面启动 &lt;a4&gt;OmegaT&lt;/a4&gt;（举例说，在俄语操作系统上），命令就应该是：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;E&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g5&gt;Project&lt;/g5&gt; &lt;g6&gt;Properties...&lt;/g6&gt; &lt;/m0&gt; dialog is used to define and modify the project folders and languages.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
@@ -47219,6 +47587,14 @@ Please try to correct the error and reload the project.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The above method somewhat impractical way of launching a program routinely. For this reason, the two commands described above are contained in a file (a "script", also called a "&lt;f0&gt;.bat&lt;/f0&gt; file" on Windows systems).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200119T065231Z" creationid="WynnChen" creationdate="20200119T065231Z">
+        <seg>上面的方法用于例行地启动程序多少有些不切实际。基于此原因，上述两个命令可以包含到一个文件内（“脚本”，在 Windows 系统上又叫“&lt;f0&gt;.bat&lt;/f0&gt; 文件”）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The administrator may decide to include following folders and their contents as well: &lt;f0&gt;tm&lt;/f0&gt;, &lt;f1&gt;glossary&lt;/f1&gt; and &lt;f2&gt;dictionary&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131111T122650Z" creationid="Fu Rhong" creationdate="20131111T122406Z">
@@ -47309,8 +47685,8 @@ Please try to correct the error and reload the project.</seg>
       <tuv lang="EN">
         <seg>The argument &lt;e0&gt;pseudotranslatetype&lt;/e0&gt; specifies, whether the target segments are to be equal to the source, or left empty.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120208T064809Z">
-        <seg>参数 &lt;e0&gt;pseudotranslatetype&lt;/e0&gt; 指明了目标片段是与源片段相同或留空。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200119T085958Z">
+        <seg>参数 &lt;e0&gt;pseudotranslatetype&lt;/e0&gt; 指定译文片段是要与原文片段相同还是留空。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47359,6 +47735,14 @@ Please try to correct the error and reload the project.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
         <seg>基本的参数已经在上面提到过了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The basic command has already been mentioned above. Changes to this command involve the addition of "arguments" to it. Arguments are added after the initial &lt;c0&gt;java&lt;/c0&gt;, and before the &lt;l1&gt;-jar OmegaT.jar&lt;/l1&gt;. Note that in Windows you can change the &lt;f2&gt;OmegaT.l4J.ini&lt;/f2&gt; file to reflect your preferences. In other platforms, you can modify &lt;f3&gt;Configuration.properties&lt;/f3&gt; file on the Mac, or &lt;f4&gt;OmegaT&lt;/f4&gt; launcher under Linux to do the same.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200119T070236Z" creationid="WynnChen" creationdate="20200119T070236Z">
+        <seg>上面已经提到了基本的命令。对该命令的修改涉及到对其添加“参数”。参数是添加开头的 &lt;c0&gt;java&lt;/c0&gt;之后、&lt;l1&gt;-jar OmegaT.jar&lt;/l1&gt;之前的。注意，在 Windows 中你可以修改 &lt;f2&gt;OmegaT.l4J.ini&lt;/f2&gt; 文件来反映你的偏好设置。在其他平台上，你可以修改 &lt;f3&gt;Configuration.properties&lt;/f3&gt; 文件（Mac）或 &lt;f4&gt;OmegaT&lt;/f4&gt; 启动器（Linux）来达到相同结果。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49512,6 +49896,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The purpose of the console mode is to use OmegaT as a translation tool in a scripting environment. When started in console mode, no GUI is loaded (so it will work on any console) and the given project is automatically processed as requested.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200119T081717Z" creationid="WynnChen" creationdate="20200119T081717Z">
+        <seg>控制台模式的目的是在脚本环境中将 OmegaT 用作翻译工具。当以控制台模式启动时，不会加载图形界面（所以在任意控制台上都可运行）并且将按请求自动处理给定项目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The purpose of the plan is to prevent two or more translators from working on the same translation without being aware of it (duplication of effort).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T132301Z" creationid="lenovo" creationdate="20180416T132214Z">
@@ -50092,6 +50484,14 @@ protocols for communication across the network.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The sources of the current version can be retrieved with a SVN client from the repository &lt;u0/&gt; or directly on &lt;u1&gt;SourceForge&lt;/u1&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200119T094935Z" creationid="WynnChen" creationdate="20200119T094935Z">
+        <seg>当前版本的源码可以用 SVN 客户端从存储库 &lt;u0/&gt; 获取，或直接 &lt;u1&gt;SourceForge&lt;/u1&gt; 上获取。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The specified dictionary folder cannot be used.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190323T112853Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -50264,6 +50664,14 @@ protocols for communication across the network.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T024316Z" creationid="Fu Rhong" creationdate="20131117T024240Z">
         <seg>OmegaT中的标记为灰色，因此很容易识别。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The tags in OmegaT are greyed, so they are easy to recognise. They are protected, so that you cannot modify their contents, but you can delete them, enter them by hand or move them around in the target sentence. However, if you made mistakes when you typed the formatting tags, your translated files might fail to open. Therefore, press &lt;k0&gt;Ctrl+Shift+V&lt;/k0&gt; before you generate your translated files, to validate that your tags are correct.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200119T104544Z" creationid="WynnChen" creationdate="20200119T104544Z">
+        <seg>标签在 OmegaT 中是灰色的，因此很容易识别。它们受到保护，因此您不能修改其内容，但可以将它们删除、手动输入或移动它们在译文语句中的位置。不过，如果在输入格式化时犯错，那么译文文件可能会无法打开。因此，在生成译文文件前请按 &lt;k0&gt;Ctrl+Shift+V&lt;/k0&gt; 来检验标签是否正确。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51743,6 +52151,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This command changes the folder to the folder containing the executable &lt;a0&gt;OmegaT&lt;/a0&gt; file. The second command is the command which actually launches &lt;a1&gt;OmegaT&lt;/a1&gt;. In its most basic form, this command is:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200119T052057Z" creationid="WynnChen" creationdate="20200119T052057Z">
+        <seg>此命令将文件夹更改至包含可执行 &lt;a0&gt;OmegaT&lt;/a0&gt; 文件的文件夹。第二条命令是实际启动 &lt;a1&gt;OmegaT&lt;/a1&gt; 的命令。此命令最基本的形式是：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This command does not work once the modified segment has been validated.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Andrew" changedate="20180413T125627Z">
@@ -52497,8 +52913,8 @@ the server.</seg>
       <tuv lang="EN">
         <seg>This method has a particular benefit of being suitable for finding causes of problems: if an error occurs during use of the program, an error message is output in the terminal window which may contain useful information on the cause of the error.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131116T131210Z">
-        <seg>该方法对于找出问题的根源有特别的意义：如果在使用程序过程中发生了错误，在终端窗口所显示的错误信息对查找原因提供了有用的信息。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200119T064958Z">
+        <seg>该方法对于找寻问题的原因有特别的意义：如果在使用程序过程中发生了错误，在终端窗口所显示的错误信息对查找原因提供了有用的信息。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52563,6 +52979,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T003642Z" creationid="Fu Rhong" creationdate="20131117T003642Z">
         <seg>该选项支持在批处理模式中进行标签验证。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This option allows the tag validation in a batch mode. If &lt;l0&gt;abort&lt;/l0&gt; is selected, the tag validator will stop on the first invalid segment. If &lt;l1&gt;warn&lt;/l1&gt; is specified, the tag validator will process all segments and write warnings about any segments with invalid tags into the file specified.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200119T091655Z" creationid="WynnChen" creationdate="20200119T091655Z">
+        <seg>此选项允许以批处理模式进行标签验证。如果选择了 &lt;l0&gt;abort&lt;/l0&gt;，标签验证器会在第一个无效标签处停下。如果指定了 &lt;l1&gt;warn&lt;/l1&gt;，标签验证器会处理所有片段并将关于所有带有无效标签的片段的警告信息写入指定文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52879,6 +53303,14 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120208T112730Z">
         <seg>该命令将在 ./dist/ 目录中创建一份完整的 &lt;a0&gt;OmegaT&lt;/a0&gt; 发行文件，其中包含运行 &lt;a1&gt;OmegaT&lt;/a1&gt; 需要的所有文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This will create a full distribution of OmegaT in the &lt;f0&gt;./build/distributions&lt;/f0&gt; folder, where you will find a zip containing everything needed to run &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200119T095628Z" creationid="WynnChen" creationdate="20200119T095628Z">
+        <seg>这会在 in the &lt;f0&gt;./build/distributions&lt;/f0&gt; 文件夹中创建 OmegaT 的完整发行版，在这个文件夹里你会找到一个 zip 包，包里包含有运行 &lt;a1&gt;OmegaT&lt;/a1&gt; 所需的所有东西。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53551,6 +53983,14 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To launch &lt;a0&gt;OmegaT&lt;/a0&gt;, you must normally type two commands. The first of these is:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200119T034939Z" creationid="WynnChen" creationdate="20200119T034939Z">
+        <seg>要启动 &lt;a0&gt;OmegaT&lt;/a0&gt;，通常需要输入两条命令。第一条是：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To launch &lt;a2&gt;OmegaT&lt;/a2&gt; with a French interface (for example on a Russian operating system), the command would therefore be:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120208T051621Z">
@@ -53774,6 +54214,14 @@ you modify it: responsibilities to respect the freedom of others.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To run &lt;a0&gt;OmegaT&lt;/a0&gt; in the command line mode, a valid &lt;a1&gt;OmegaT&lt;/a1&gt; project must be present. The location does not matter, since you have to add it to the command line at the start-up anyway.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200119T081844Z" creationid="WynnChen" creationdate="20200119T081844Z">
+        <seg>要以命令行模式运行 &lt;a0&gt;OmegaT&lt;/a0&gt;，必须指定有效的 &lt;a1&gt;OmegaT&lt;/a1&gt; 项目。其位置并不重要，因为无论如何你都需要在启动时将其添加到命令行中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To run OmegaT, a valid OmegaT project must be available.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120211T063826Z">
@@ -53822,6 +54270,14 @@ you modify it: responsibilities to respect the freedom of others.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To start &lt;a0&gt;OmegaT&lt;/a0&gt; in console mode, some extra parameters have to be passed to it on startup. The most important is &lt;l1&gt;/path/to/project&lt;/l1&gt;, and optionally &lt;l2&gt;--config-dir=&lt;p3&gt;/path/to/config-files/&lt;/p3&gt;&lt;/l2&gt;. Example:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200119T083402Z" creationid="WynnChen" creationdate="20200119T083402Z">
+        <seg>要以控制台模式启动 &lt;a0&gt;OmegaT&lt;/a0&gt;，必须在启动时将一些额外的参数传递给它。最重要的是 &lt;l1&gt;/path/to/project&lt;/l1&gt;，可选的还有 &lt;l2&gt;--config-dir=&lt;p3&gt;/path/to/config-files/&lt;/p3&gt;&lt;/l2&gt;。例如：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To start OmegaT for the first time with Java Web Start, load the following URL in your browser:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131124T133044Z">
@@ -53834,6 +54290,14 @@ you modify it: responsibilities to respect the freedom of others.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021248Z" creationid="Fu Rhong" creationdate="20131117T005042Z">
         <seg>开始使用OmegaT时首先要创建项目，用来保存您的所有文件，例如源文件、翻译记忆、术语表及您要翻译的文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To start using OmegaT, first create a project that will hold all your files, such as your source file, translation memories, glossaries, and eventually your translated file. In the &lt;g0&gt;Project&lt;/g0&gt; menu, select &lt;m1&gt;&lt;g2&gt;New...&lt;/g2&gt;&lt;/m1&gt; and type a name for your project. Remember where you are creating the project, because you will need to return to it later.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200119T100312Z" creationid="WynnChen" creationdate="20200119T100312Z">
+        <seg>要开始使用 OmegaT，首先要创建项目来容纳所有有关文件，例如原文文件、翻译记忆库、词汇表、以及最终的译文文件。在&lt;g0&gt;项目&lt;/g0&gt;菜单中选择&lt;m1&gt;&lt;g2&gt;新建...&lt;/g2&gt;&lt;/m1&gt;并输入项目名称。记住您创建项目的位置，稍后还需要回到此处。</seg>
       </tuv>
     </tu>
     <tu>
@@ -55692,6 +56156,14 @@ Please try to correct the error and reload the project.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Usage: &lt;l0&gt;java -jar OmegaT.jar /path/to/project --mode=console-translate --quiet&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200119T094635Z" creationid="WynnChen" creationdate="20200119T094635Z">
+        <seg>用法：&lt;l0&gt;java -jar OmegaT.jar /path/to/project --mode=console-translate --quiet&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Usage: java -jar OmegaT.jar [&lt;options&gt;] [&lt;project path&gt;]</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190325T153456Z" creationid="wynnc" creationdate="20190320T084455Z">
@@ -56821,8 +57293,8 @@ searchable without subscription:</seg>
       <tuv lang="EN">
         <seg>Validate your tags</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T010535Z" creationid="Fu Rhong" creationdate="20131117T010535Z">
-        <seg>检验标签</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200119T102229Z" creationid="Fu Rhong" creationdate="20131117T010535Z">
+        <seg>验证标签</seg>
       </tuv>
     </tu>
     <tu>
@@ -57558,6 +58030,14 @@ of selecting, obtaining and installing it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When mode has been used, this option will specify the files to be processed automatically. If the parameter is not specified, all files will be processed. Here's few typical examples to limit your choice:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200119T090931Z" creationid="WynnChen" creationdate="20200119T090931Z">
+        <seg>指定了模式后，此选项将指定要自动处理的文件。如果未指定此参数，则将处理文件。以下是一些限制选择的典型示例：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When moving between segments, you may wish to populate the editing field with an existing translation in the fuzzy match pane or with the source text.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120131T132218Z">
@@ -57626,6 +58106,14 @@ of selecting, obtaining and installing it.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120207T130117Z">
         <seg>执行该文件时，将自动执行其中的命令。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When this file is executed, the commands within it are automatically carried out. Consequently, to make changes to the launch command, it is sufficient to modify the file.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200119T065324Z" creationid="WynnChen" creationdate="20200119T065324Z">
+        <seg>执行此文件时，将自动自动执行其中的命令。因此，要更改启动命令，只需修改此文件即可。</seg>
       </tuv>
     </tu>
     <tu>
@@ -59061,6 +59549,14 @@ from there.</seg>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190325T165453Z" creationid="xulihang" creationdate="20180408T021402Z">
         <seg>您也可以将 OmegaT.exe 文件手工拖动到开始菜单、桌面或快速启动栏
 来将其链接到那些地方。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You can also run directly the application with the following command:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200119T095647Z" creationid="WynnChen" creationdate="20200119T095647Z">
+        <seg>你也可以用以下命令直接运行该应用程序：</seg>
       </tuv>
     </tu>
     <tu>
@@ -61446,6 +61942,22 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>cd &lt;p0&gt;&lt;OmegaT.app location&gt;&lt;/p0&gt;/OmegaT.app/Contents/Resources/Java/</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200119T035242Z" creationid="WynnChen" creationdate="20200119T035242Z">
+        <seg>cd &lt;p0&gt;&lt;OmegaT.app 位置&gt;&lt;/p0&gt;/OmegaT.app/Contents/Resources/Java/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>cd &lt;p0&gt;folder&lt;/p0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200119T034952Z" creationid="WynnChen" creationdate="20200119T034952Z">
+        <seg>cd &lt;p0&gt;文件夹&lt;/p0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>cd C:\Documents and Settings\User Name\Application Data\OmegaT\script</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180416T144846Z" creationid="xulihang" creationdate="20180416T144846Z">
@@ -61466,6 +61978,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120207T125649Z">
         <seg>cd C:\Program Files\&lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>cd C:\Program Files\OmegaT</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200119T035229Z" creationid="WynnChen" creationdate="20200119T035229Z">
+        <seg>cd C:\Program Files\OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -62774,10 +63294,18 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>gradlew assembleDist</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200119T094959Z" creationid="WynnChen" creationdate="20200119T094959Z">
+        <seg>gradlew assembleDist</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>gradlew run</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="liufang" changedate="20180416T121910Z" creationid="liufang" creationdate="20180416T121910Z">
-        <seg>gradlew运行</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200119T095651Z" creationid="liufang" creationdate="20180416T121910Z">
+        <seg>gradlew run</seg>
       </tuv>
     </tu>
     <tu>
@@ -63454,6 +63982,22 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>https://sourceforge.net/p/omegat/svn/HEAD/tarball?path=/trunk</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200119T094826Z" creationid="WynnChen" creationdate="20200119T094826Z">
+        <seg>https://sourceforge.net/p/omegat/svn/HEAD/tarball?path=/trunk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/trunk/docs_devel/README.txt</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200119T095700Z" creationid="WynnChen" creationdate="20200119T095700Z">
+        <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/trunk/docs_devel/README.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>https://sourceforge.net/p/omegat/svn/HEAD/tree/trunk/src/org/omegat/gui/main/MainMenuShortcuts.mac.properties</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190409T044037Z" creationid="WynnChen" creationdate="20190409T044037Z">
@@ -63968,6 +64512,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>java -Dswing.aatext=true -Duser.language=pt -Duser.country=BR -Xmx2048M -Dhttp.proxyHost=192.168.1.1 -Dhttp.proxyport=3128 -jar -OmegaT.jar</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200119T081256Z" creationid="WynnChen" creationdate="20200119T081256Z">
+        <seg>java -Dswing.aatext=true -Duser.language=pt -Duser.country=BR -Xmx2048M -Dhttp.proxyHost=192.168.1.1 -Dhttp.proxyport=3128 -jar -OmegaT.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>java -Duser.language=fr -jar &lt;a0&gt;OmegaT&lt;/a0&gt;.jar</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120208T051628Z">
@@ -63976,10 +64528,26 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>java -Duser.language=fr -jar OmegaT.jar</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200119T072133Z" creationid="WynnChen" creationdate="20200119T072133Z">
+        <seg>java -Duser.language=fr -jar OmegaT.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>java -Xmx1024M -jar &lt;a0&gt;OmegaT&lt;/a0&gt;.jar</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120208T052128Z">
         <seg>java -Xmx1024M -jar &lt;a0&gt;OmegaT&lt;/a0&gt;.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>java -Xmx2048M -jar OmegaT.jar</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200119T073343Z" creationid="WynnChen" creationdate="20200119T073343Z">
+        <seg>java -Xmx2048M -jar OmegaT.jar</seg>
       </tuv>
     </tu>
     <tu>
@@ -64020,6 +64588,22 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120211T134609Z">
         <seg>java -jar OmegaT.jar --mode=console-align /my-project-dir --alignDir=/translatedFiles/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>java -jar OmegaT.jar &lt;p0&gt;/path/to/project&lt;/p0&gt; \
+    --config-dir=&lt;p1&gt;/path/to/config-files/&lt;/p1&gt; \
+    --config-file=&lt;p2&gt;/path/to/config-file/&lt;/p2&gt; \
+    --mode=&lt;p3&gt;console-translate|console-createpseudotranslatetmx|console-align&lt;/p3&gt; \
+    --source-pattern=&lt;p4&gt;regexp&lt;/p4&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200119T083409Z" creationid="WynnChen" creationdate="20200119T083409Z">
+        <seg>java -jar OmegaT.jar &lt;p0&gt;/path/to/project&lt;/p0&gt; \
+    --config-dir=&lt;p1&gt;/path/to/config-files/&lt;/p1&gt; \
+    --config-file=&lt;p2&gt;/path/to/config-file/&lt;/p2&gt; \
+    --mode=&lt;p3&gt;console-translate|console-createpseudotranslatetmx|console-align&lt;/p3&gt; \
+    --source-pattern=&lt;p4&gt;regexp&lt;/p4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -66579,6 +67163,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>svn://svn.code.sf.net/p/omegat/svn/trunk</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200119T094825Z" creationid="WynnChen" creationdate="20200119T094825Z">
+        <seg>svn://svn.code.sf.net/p/omegat/svn/trunk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>sw</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131108T101146Z" creationid="Fu Rhong" creationdate="20131108T101146Z">
@@ -67439,6 +68031,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T103831Z" creationid="lenovo" creationdate="20180416T103831Z">
         <seg>其中&lt;i0&gt;路径&lt;/ i0&gt;是放置preview.tcl的文件夹的完整路径名。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>where &lt;p0&gt;folder&lt;/p0&gt; is the name of the folder, with complete path, in which your &lt;a1&gt;OmegaT&lt;/a1&gt; program - specifically, the file &lt;f2&gt;OmegaT.jar&lt;/f2&gt; - is located. In practice, this command will therefore be something like this:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200119T035224Z" creationid="WynnChen" creationdate="20200119T035224Z">
+        <seg>其中&lt;p0&gt;文件夹&lt;/p0&gt;是带有完整的路径的 &lt;a1&gt;OmegaT&lt;/a1&gt; 程序——更具体地说，&lt;f2&gt;OmegaT.jar&lt;/f2&gt; 文件——所在文件夹的名称。因此，实际上此命令应该是类似于这样的：</seg>
       </tuv>
     </tu>
     <tu>
