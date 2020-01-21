@@ -2307,6 +2307,14 @@ not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(external search commands)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200121T025057Z" creationid="WynnChen" creationdate="20200121T025057Z">
+        <seg>(外部搜索命令)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>* The Beginner's Tutorial&lt;br4/&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180415T144213Z" creationid="lenovo" creationdate="20180415T144213Z">
@@ -10583,8 +10591,8 @@ the above requirements apply either way.</seg>
       <tuv lang="EN">
         <seg>Aggressive Font Fallback</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T061917Z" creationid="weiyi" creationdate="20180406T061917Z">
-        <seg>突出后备字体</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200121T052206Z" creationid="weiyi" creationdate="20180406T061917Z">
+        <seg>激进式字体候补</seg>
       </tuv>
     </tu>
     <tu>
@@ -12356,6 +12364,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T195323Z" creationid="Mac Pro" creationdate="20180425T195323Z">
         <seg>在键盘快捷键旁边对话框的底部，点击自定义。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>At the bottom of the window, right-click on a free number and select &lt;g0&gt;Add Script&lt;/g0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200121T025049Z" creationid="WynnChen" creationdate="20200121T025049Z">
+        <seg>在窗口底部，在某个空闲的数字上右键单击并选择&lt;g0&gt;添加脚本&lt;/g0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14578,6 +14594,14 @@ Exception occurred:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check this option in case &lt;a0&gt;OmegaT&lt;/a0&gt; does not display some glyphs properly (even if the fonts containing the relevant glyphs are installed on your machine). Note: on Windows it seems that this manual font fallback mechanism can interfere with standard font fallback, causing undesirable font substitution. For that reason, it is OFF by default.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200121T052812Z" creationid="WynnChen" creationdate="20200121T052812Z">
+        <seg>如果 &lt;a0&gt;OmegaT&lt;/a0&gt; 无法正确显示某些字形（即使你的机器上已经安装了包含相关字形的字体），请勾选此选项。注意：在 Windows 上，这种手动字体候补机制似乎会干扰标准字体候补，从而导致不理想的字体替换。因此，它在默认情况下是关闭的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check this option in case OmegaT does not display some glyphs properly (even if the fonts containing the relevant glyphs are installed on your machine).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Andrew" changedate="20180414T040726Z" creationid="weiyi" creationdate="20180406T062036Z">
@@ -15020,8 +15044,8 @@ Exception occurred:</seg>
       <tuv lang="EN">
         <seg>Click the &lt;g0&gt;Edit&lt;/g0&gt; tab on the Wikipedia page.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200120T082608Z" creationid="WynnChen" creationdate="20200120T082608Z">
-        <seg>点击 Wikipedia 页面上的&lt;g0&gt;编辑&lt;/g0&gt;标签。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200121T074006Z" creationid="WynnChen" creationdate="20200120T082608Z">
+        <seg>点击 Wikipedia 页面上的&lt;g0&gt;编辑&lt;/g0&gt;标签卡。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19631,6 +19655,14 @@ by the Free Software Foundation.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Doris" changedate="20180418T151725Z" creationid="Doris" creationdate="20180418T151725Z">
         <seg>编辑窗格：如果一个OmegaT项目文件（&lt;f0&gt;omegat.project&lt;/f0&gt;）被拖放至该窗格内，当前打开的任何项目将先被关闭，相应的被拖放项目将被打开。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Editor pane: If an OmegaT project file (&lt;f0&gt;omegat.project&lt;/f0&gt;) is dropped on this pane, the corresponding project will be opened, closing first any opened project. Other dropped files will be copied to the &lt;f1&gt;source&lt;/f1&gt; folder. This applies also to the &lt;l2&gt;Project files&lt;/l2&gt; window.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200121T110834Z" creationid="WynnChen" creationdate="20200121T110834Z">
+        <seg>编辑器窗格：如果 OmegaT 项目文件（&lt;f0&gt;omegat.project&lt;/f0&gt;）被拖到这个窗格中，则打开相应的项目，在此之前会关闭已打开的项目。其他拖进去的文件会被复制到 &lt;f1&gt;source&lt;/f1&gt; 文件夹中。这也适用于&lt;l2&gt;项目文件&lt;/l2&gt;窗口。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24714,16 +24746,16 @@ need not be entered.)</seg>
       <tuv lang="EN">
         <seg>If checked, non-breakable spaces will be displayed with a grey background.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Andrew" changedate="20180413T142205Z" creationid="weiyi" creationdate="20180406T025828Z">
-        <seg>如果选中该选项，不可分割空格以灰底显示。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200121T032142Z" creationid="weiyi" creationdate="20180406T025828Z">
+        <seg>如果勾选，不换行空格将以灰色背景显示。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>If checked, non-unique segments will be marked in pale grey.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T115006Z" creationid="Fu Rhong" creationdate="20131117T114726Z">
-        <seg>如果选中该选项，则非唯一片段会被标记为浅灰色。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200121T025703Z" creationid="Fu Rhong" creationdate="20131117T114726Z">
+        <seg>如果勾选， 则非独特片段会被标记为淡灰色。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24736,10 +24768,26 @@ need not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If checked, segments with notes will be marked in cyan. This marking has priority over &lt;g0&gt;Mark Translated Segments&lt;/g0&gt; and &lt;g1&gt;Mark Untranslated Segments&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200121T025825Z" creationid="WynnChen" creationdate="20200121T025659Z">
+        <seg>如果勾选，含备注的片段将标记为青色。此标记行为优先于&lt;g0&gt;标记已译片段&lt;/g0&gt;和&lt;g1&gt;标记未译片段&lt;/g1&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If checked, source segments will be shown and marked in green.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T115015Z">
         <seg>如果选中该选项，将会显示源片段并标记为绿色。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If checked, source segments will be shown and marked in green. If not checked, source segments will not be shown.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200121T025545Z" creationid="WynnChen" creationdate="20200121T025514Z">
+        <seg>如果勾选，将会显示原文片段并将其标记为绿色。如果未勾选，则不显示原文片段。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24754,8 +24802,8 @@ need not be entered.)</seg>
       <tuv lang="EN">
         <seg>If checked, the background of all segments where the target segment has been auto-populated (from TMXs placed in &lt;f0&gt;/tm/auto&lt;/f0&gt; for example) are displayed in colour. The colours are displayed as long as the &lt;l1&gt;&lt;g2&gt;Save auto-populated status&lt;/g2&gt;&lt;/l1&gt; option is checked. Usual translations inserted from the auto folder are displayed in orange. Other translations, identified specifically in the TMX, can be displayed using different colours. For technical details, see the &lt;u3&gt;Request For Enhancement&lt;/u3&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200116T075956Z" creationid="WynnChen" creationdate="20200116T075956Z">
-        <seg>If checked, the background of all segments where the target segment has been auto-populated (from TMXs placed in &lt;f0&gt;/tm/auto&lt;/f0&gt; for example) are displayed in colour. The colours are displayed as long as the &lt;l1&gt;&lt;g2&gt;Save auto-populated status&lt;/g2&gt;&lt;/l1&gt; option is checked. Usual translations inserted from the auto folder are displayed in orange. Other translations, identified specifically in the TMX, can be displayed using different colours. For technical details, see the &lt;u3&gt;Request For Enhancement&lt;/u3&gt;.</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200121T035245Z" creationid="WynnChen" creationdate="20200116T075956Z">
+        <seg>如果勾选，所有译文部分已被自动填充（例如，来自放在 &lt;f0&gt;/tm/auto&lt;/f0&gt; 下的 TMX）的片段的背景将以彩色显示。只要&lt;l1&gt;&lt;g2&gt;保存自动填充状态&lt;/g2&gt;&lt;/l1&gt;选项已勾选就会显示颜色。通常，从 auto 文件夹插入的翻译会显示为橙色。其他在 TMX 中特别标记的翻译可以用不同的颜色来显示。有关技术细节，参见&lt;u3&gt;改进建议&lt;/u3&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24776,26 +24824,42 @@ need not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If checked, the separations between paragraphs in the source document are indicated visually.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200121T025454Z" creationid="WynnChen" creationdate="20200121T025251Z">
+        <seg>如果勾选，将会在视觉上指示原文文档中各段落之间的分隔。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If checked, the translated segments will be marked in yellow.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T115027Z">
-        <seg>如果选中该选项，已译片段将会标记为黄色。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200121T025256Z">
+        <seg>如果勾选，已译片段将会标记为黄色。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>If checked, the untranslated segments will be marked in violet.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T115020Z">
-        <seg>如果选中该选项，未译片段将会标记为紫色。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200121T025259Z">
+        <seg>如果勾选，未译片段将会标记为紫色。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>If checked, white spaces will be displayed with a small dot.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Andrew" changedate="20180413T144920Z" creationid="weiyi" creationdate="20180406T025915Z">
-        <seg>如果选中该选项，空格将以小点显示。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200121T032214Z" creationid="weiyi" creationdate="20180406T025915Z">
+        <seg>如果勾选，空格会显示一个小点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If commands to perform external searches have been defined in the &lt;l0&gt;Preferences&lt;/l0&gt;, they are listed and accessible here.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200121T025144Z" creationid="WynnChen" creationdate="20200121T025144Z">
+        <seg>如果在&lt;l0&gt;首选项&lt;/l0&gt;中定义了执行外部搜索的命令，则此处会列出这些命令。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25879,8 +25943,8 @@ where to find the applicable terms.</seg>
       <tuv lang="EN">
         <seg>If you can not see all the panes (be it opened or minimized), pressing &lt;g0&gt; Options &gt; Restore Main Window &lt;/g0&gt;will restore them to the state, defined in the installation.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131127T122629Z" creationid="Fu Rhong" creationdate="20131127T122629Z">
-        <seg>如果您无法看到所有窗格（处于打开或最小化状态），按下&lt;g0&gt;选项&gt;恢复主窗口&lt;/g0&gt;将把它们恢复为原始状态。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200121T072613Z" creationid="Fu Rhong" creationdate="20131127T122629Z">
+        <seg>如果无法看到所有窗格（已打开或最小化），按下&lt;g0&gt;选项&gt;恢复主窗口&lt;/g0&gt;将其恢复为安装时定义的状态。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29159,8 +29223,8 @@ everything.</seg>
       <tuv lang="EN">
         <seg>It is possible to drag and drop files to each pane, which will react accordingly.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Doris" changedate="20180418T150134Z" creationid="Doris" creationdate="20180418T150134Z">
-        <seg>可以将文件拖放到每个窗格，窗格将作出相应反应。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200121T084831Z" creationid="Doris" creationdate="20180418T150134Z">
+        <seg>可以将文件拖放到各个窗格中，窗格将作出相应的反应。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30715,6 +30779,14 @@ later version.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Launches scripts that have been associated with a number.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200121T024921Z" creationid="WynnChen" creationdate="20200121T024921Z">
+        <seg>启动与此数字相关联的脚本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Launching OmegaT (Linux)
 ========================</seg>
       </tuv>
@@ -32150,6 +32222,14 @@ later version.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mark Paragraph delimitations</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200121T025246Z" creationid="WynnChen" creationdate="20200121T025246Z">
+        <seg>标记段落界定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Mark Segments &amp;with Notes</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190322T064207Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -32688,8 +32768,8 @@ later version.</seg>
       <tuv lang="EN">
         <seg>Modification Info</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T115032Z" creationid="Fu Rhong" creationdate="20131117T115032Z">
-        <seg>修改信息</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200121T052820Z" creationid="Fu Rhong" creationdate="20131117T115032Z">
+        <seg>修订信息</seg>
       </tuv>
     </tu>
     <tu>
@@ -36837,8 +36917,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>Once a user has formulated a proposed change or enhancement to OmegaT, a defined procedure exists for its submission to the development team for consideration. This enables the numerous suggestions to be managed more easily. The procedure is termed an &lt;a0&gt;"RFE" (Request for Feature Enhancement) and is managed here&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200116T080155Z" creationid="WynnChen" creationdate="20200116T075948Z">
-        <seg>一旦有用户对 OmegaT 提出了变更或改进建议，便会按一个预定流程将其提交给开发团队进行评估。这样更易于管理大量建议。此流程称为&lt;a0&gt;“RFE”（功能强化请求），在此处管理&lt;/a0&gt;。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200121T052148Z" creationid="WynnChen" creationdate="20200116T075948Z">
+        <seg>一旦有用户对 OmegaT 提出了变更或改进建议，便会按一个预定流程将其提交给开发团队进行评估。这样更易于管理大量建议。此流程称为&lt;a0&gt;“RFE”（Request for Feature Enhancement，功能改进建议），在此处管理&lt;/a0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37299,6 +37379,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Open the Scripting window</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200121T024934Z" creationid="WynnChen" creationdate="20200121T024934Z">
+        <seg>打开脚本窗口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open the Search and replace window with &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;K&lt;/k2&gt; &lt;/k0&gt; and enter the word or expression you wish to replace in the &lt;e3&gt;Search for&lt;/e3&gt; box.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="10353" changedate="20180412T085709Z" creationid="10353" creationdate="20180412T085709Z">
@@ -37511,6 +37599,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200120T090335Z" creationid="WynnChen" creationdate="20200120T090335Z">
         <seg>打开 MED 格式的项目包。此格式由欧盟翻译总局定义。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Opens the &lt;l0&gt;&lt;g1&gt;Scripting&lt;/g1&gt; window&lt;/l0&gt;, where the location of scripts can be set, and where scripts can be written, run and associated with a shortcut.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200121T024848Z" creationid="WynnChen" creationdate="20200121T024848Z">
+        <seg>打开&lt;l0&gt;&lt;g1&gt;脚本&lt;/g1&gt;窗口&lt;/l0&gt;，可以在其中设置脚本的位置，并可以编写、运行脚本，以及为脚本分配快捷键。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38113,8 +38209,16 @@ Vanishing like mist</seg>
       <tuv lang="EN">
         <seg>Pane widgets</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120218T104211Z">
-        <seg>窗格 widget</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200121T072644Z">
+        <seg>窗格部件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Panes</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200121T053103Z" creationid="WynnChen" creationdate="20200121T053103Z">
+        <seg>窗格</seg>
       </tuv>
     </tu>
     <tu>
@@ -43621,6 +43725,14 @@ When using regular expressions, the replacement string supports references to gr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select the script you want from the list on the left</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200121T025011Z" creationid="WynnChen" creationdate="20200121T025011Z">
+        <seg>从左侧列表中选择所需的脚本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select the two files to be aligned (the source file and its translation) and click OK to open the &lt;l0&gt;&lt;g1&gt;Align&lt;/g1&gt; window&lt;/l0&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200120T094931Z" creationid="WynnChen" creationdate="20200120T094931Z">
@@ -43961,6 +44073,14 @@ When using regular expressions, the replacement string supports references to gr
       </tuv>
       <tuv lang="ZH-CN" changeid="Andrew" changedate="20180414T041421Z" creationid="weiyi" creationdate="20180406T062716Z">
         <seg>设定将显示修改选项应用于&lt;e0&gt;当前片段&lt;/e0&gt; 可显示当前片段上次修改者和修改时间。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Setting the Display Modification option to &lt;g0&gt;Current segment&lt;/g0&gt; will display the time and the author of the last change in the current segment. Setting it to &lt;g1&gt;All segments&lt;/g1&gt; shows this information for all segments and &lt;g2&gt;None&lt;/g2&gt; turns this option off.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200121T053035Z" creationid="WynnChen" creationdate="20200121T053035Z">
+        <seg>将显示修订选项设置为&lt;g0&gt;当前片段&lt;/g0&gt;会显示当前片段的最后一次更改的时间和作者。将其设置为&lt;g1&gt;所有片段&lt;/g1&gt;会在所有片段上显示此信息，而&lt;g2&gt;不显示&lt;/g2&gt;则会关闭此选项。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49801,6 +49921,14 @@ your programs, too.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The main window consists of several panes, the main menu and a status bar. You can change the position of any pane or even undock it to a separate window by clicking and dragging the pane by its name. Depending on the pane status, different signs can appear at its top right corner:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200121T053311Z" creationid="WynnChen" creationdate="20200121T053311Z">
+        <seg>主窗口由若干窗格、主菜单和状态栏组成。您可以改变任何一个窗格的位置，甚至可以通过点击窗格的名称并拖动将其分离成独立的窗口。根据窗格的状态，其右上角会显示不同的符号：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The match statistics are accessed via&lt;g0&gt;Tools&gt;Match Statistics.&lt;/g0&gt; The evaluation is rather CPU intensive and can be time-consuming, so a progress bar is shown during the calculation.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131128T003245Z" creationid="Fu Rhong" creationdate="20131128T002522Z">
@@ -50964,6 +51092,14 @@ protocols for communication across the network.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The source and target files can have different formats (for example, a &lt;f0&gt;.docx&lt;/f0&gt; file can be aligned with a &lt;f1&gt;.pdf&lt;/f1&gt; file).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200121T022224Z" creationid="WynnChen" creationdate="20200121T022224Z">
+        <seg>原文文件和译文文件的格式可以不同（例如，&lt;f0&gt;.docx&lt;/f0&gt; 文件可以和 &lt;f1&gt;.pdf&lt;/f1&gt; 文件进行对齐）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The source file language entered is invalid!</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190320T181053Z" creationid="wynnc" creationdate="20190320T181053Z">
@@ -51120,6 +51256,14 @@ protocols for communication across the network.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120219T115735Z">
         <seg>在主窗口底部的状态栏显示和工作流相关的信息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The supported file formats are those listed in &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Properties&lt;/g2&gt; &lt;g3&gt;File Filters&lt;/g3&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200121T022144Z" creationid="WynnChen" creationdate="20200121T022144Z">
+        <seg>所支持的文件格式是&lt;m0&gt; &lt;g1&gt;项目&lt;/g1&gt; &lt;g2&gt;属性&lt;/g2&gt; &lt;g3&gt;文件格式&lt;/g3&gt; &lt;/m0&gt;中所列的那些。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53569,8 +53713,8 @@ the server.</seg>
       <tuv lang="EN">
         <seg>This option displays &lt;u0&gt;bidirectional control characters&lt;/u0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="weiyi" changedate="20180406T030238Z" creationid="weiyi" creationdate="20180406T030238Z">
-        <seg>此选项显示 &lt;u0&gt;双向控制字符&lt;/u0&gt;</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200121T032949Z" creationid="weiyi" creationdate="20180406T030238Z">
+        <seg>此选项显示&lt;u0&gt;双向控制字符&lt;/u0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -54139,6 +54283,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180414T110205Z" creationid="lenovo" creationdate="20180414T110205Z">
         <seg>在Chrome中添加自动刷新功能，请到应用商店&lt;a2&gt;下载并安装自动刷新扩展功能&lt;/a2&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To associate a script with a number:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200121T024929Z" creationid="WynnChen" creationdate="20200121T024929Z">
+        <seg>要将脚本与数字关联：</seg>
       </tuv>
     </tu>
     <tu>
@@ -60619,6 +60771,14 @@ linux-install.sh 脚本的文件夹，然后用 ./linux-install.sh 执行脚本�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can overlap panes if desired. When this is done the panes display a tab at the top. The separators between the panes can be dragged to resize panes. Should you lose track of your changes to the user interface, you can use &lt;g0&gt; Options → Restore the main window&lt;/g0&gt; any time to return to the original layout.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200121T084730Z" creationid="WynnChen" creationdate="20200121T073748Z">
+        <seg>如果有需要，可以重叠窗格。如果这么做，窗格将在顶部显示标签卡。窗格之间的分隔线可以拖动以调整窗格大小。如果你忘记了对用户界面做过的更改，随时都可以用&lt;g0&gt; 选项 → 恢复主窗口&lt;/g0&gt;回复到原始布局。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can presumably resolve this by obtaining and installing the necessary fonts; or you can select a different font for this purpose – which may or may not be an adequate solution.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="think" changedate="20180416T032718Z" creationid="think" creationdate="20180416T032244Z">
@@ -64366,6 +64526,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>http://sourceforge.net/p/omegat/feature-requests/963/</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200121T032953Z" creationid="WynnChen" creationdate="20200121T032953Z">
+        <seg>http://sourceforge.net/p/omegat/feature-requests/963/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>http://subversion.apache.org</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131110T033146Z" creationid="Fu Rhong" creationdate="20131110T033146Z">
@@ -64506,6 +64674,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120203T124022Z">
         <seg>http://www.sil.org/ISO639-3/codes.asp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://www.w3.org/International/questions/qa-bidi-controls</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200121T032219Z" creationid="WynnChen" creationdate="20200121T032219Z">
+        <seg>http://www.w3.org/International/questions/qa-bidi-controls</seg>
       </tuv>
     </tu>
     <tu>
@@ -65970,8 +66146,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>minimizes the pane, so that only its name is shown at the bottom of the window</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131127T122728Z" creationid="Fu Rhong" creationdate="20131127T122728Z">
-        <seg>最小化窗格后，这样只它的名称在窗口的底部</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200121T072824Z" creationid="Fu Rhong" creationdate="20131127T122728Z">
+        <seg>最小化窗格，这样只有其名称显示在窗口底部</seg>
       </tuv>
     </tu>
     <tu>
@@ -66172,6 +66348,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131107T142653Z" creationid="Fu Rhong" creationdate="20131107T142653Z">
         <seg>mya</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>n - (script name)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200121T024906Z" creationid="WynnChen" creationdate="20200121T024906Z">
+        <seg>n - (脚本名称)</seg>
       </tuv>
     </tu>
     <tu>
@@ -67147,8 +67331,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>puts the pane back within the main window</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131127T122822Z" creationid="Fu Rhong" creationdate="20131127T122822Z">
-        <seg>把窗格停靠到主窗口内</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200121T073535Z" creationid="Fu Rhong" creationdate="20131127T122822Z">
+        <seg>将窗格放回主窗口内</seg>
       </tuv>
     </tu>
     <tu>
@@ -67251,8 +67435,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>restores the layout before the maximizing step</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131127T122748Z" creationid="Fu Rhong" creationdate="20131127T122748Z">
-        <seg>恢复最大化操作前的布局</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200121T073549Z" creationid="Fu Rhong" creationdate="20131127T122748Z">
+        <seg>恢复最大化之前的布局</seg>
       </tuv>
     </tu>
     <tu>
@@ -68437,8 +68621,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>undocks the pane from the main window</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131127T122757Z" creationid="Fu Rhong" creationdate="20131127T122757Z">
-        <seg>从主窗口中移出窗格</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200121T073008Z" creationid="Fu Rhong" creationdate="20131127T122757Z">
+        <seg>将窗格从主窗口中分离出来</seg>
       </tuv>
     </tu>
     <tu>
