@@ -9355,6 +9355,14 @@ this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A given source segment may require several different translations, depending on the context. If the current translation of the segment does not fit, the user can select &lt;g0&gt;Edit → Create Alternative Translation&lt;/g0&gt;. The target text entered after that will be treated as an alternative translation of the source segment. You can define one of the alternative - for instance the most probable among them - as default translation by selecting &lt;g1&gt;Edit → Use as Default Translation&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200122T092604Z" creationid="WynnChen" creationdate="20200122T092604Z">
+        <seg>一条给定的原文片段可能需要多种不同翻译，具体取决于上下文。如果片段的当前翻译并不合适，用户可以选择&lt;g0&gt;编辑 → 创建替代译文&lt;/g0&gt;。随后所输入的译文文本会视为此原文片段的一种替代译文。您可以通过选择&lt;g1&gt;编辑 → 用作默认译文&lt;/g1&gt;将各种替代项之一——例如，其中最可能用到的那条——定义为默认译文</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A good starting point will always be the existing rules.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120217T112826Z">
@@ -13573,6 +13581,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By default, it is not possible to select words in the source segment using the keyboard rather than the mouse. Pressing &lt;k0&gt;F2&lt;/k0&gt; key allows to move the cursor into the source segment (or anywhere in the editor) with the keyboard arrows. In this mode, "&lt;g1&gt;Cursor lock off&lt;/g1&gt;" is displayed at the bottom of the pane. To come back to the standard mode "&lt;g2&gt;Cursor lock on&lt;/g2&gt;", press &lt;k3&gt;F2&lt;/k3&gt; again.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200122T084041Z" creationid="WynnChen" creationdate="20200122T083951Z">
+        <seg>默认情况下，如果用键盘而不用鼠标是无法在原文片段中选择单词的。按 &lt;k0&gt;F2&lt;/k0&gt; 键可以允许用键盘上的方向键将光标移入原文片段（或编辑器内的任何其他地方）。在这种模式下，在窗格底部会显示“&lt;g1&gt;光标解锁&lt;/g1&gt;”。要想返回标准的“&lt;g2&gt;光标锁定&lt;/g2&gt;”模式，再按一次 &lt;k3&gt;F2&lt;/k3&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By default, left justification is used for Left-To-Right (LTR) languages and right justification for Right-To-Left (RTL) languages.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131031T074949Z">
@@ -17281,16 +17297,16 @@ unpacking, reading or copying.</seg>
       <tuv lang="EN">
         <seg>Cursor locked</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190515T044718Z" creationid="WynnChen" creationdate="20190515T044718Z">
-        <seg>光标已锁定</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200122T084009Z" creationid="WynnChen" creationdate="20190515T044718Z">
+        <seg>光标锁定</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Cursor unlocked</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190515T044725Z" creationid="WynnChen" creationdate="20190515T044725Z">
-        <seg>光标已解锁</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200122T084026Z" creationid="WynnChen" creationdate="20190515T044725Z">
+        <seg>光标解锁</seg>
       </tuv>
     </tu>
     <tu>
@@ -17671,6 +17687,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Depending upon the preferred editing behavior, the editing field for the untranslated segment may be empty, contain the source text, or contain the translation of the string most similar to the one to be translated. When you move to another segment, the translation is validated and stored. If you want the translation to be the same as the source, simply make the editing field empty by removing all the text (select all with &lt;k0&gt;Ctrl+A&lt;/k0&gt; and delete with &lt;k1&gt;Del&lt;/k1&gt;). OmegaT is able to store translations that are identical to the source. This is useful for documents that contain trade marks, names or other proper nouns, or parts in a third language that do not require translation. See &lt;e2&gt;Translation editing&lt;/e2&gt; for more details.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200122T081118Z" creationid="WynnChen" creationdate="20200122T081118Z">
+        <seg>根据首选的编辑行为，未译片段的编辑区域可能为空、包含原文文本、或包含与此待译字符串最相似的字符串的翻译。当您移动前往另一个片段时，此译文会进行验证并保存。如果您想要让译文与原文相同，只需删除编辑区域中的所有文本将其清空（用 &lt;k0&gt;Ctrl+A&lt;/k0&gt; 全选再用 &lt;k1&gt;Del&lt;/k1&gt; 删除）。OmegaT 能保存与原文完全相同的译文。这对于包含商标、名称或其他专有名词、或无需翻译的第三方语言片段的文档非常有用。更多细节请参阅&lt;e2&gt;翻译编辑&lt;/e2&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Depending upon the segmenting rules, the pair of tags may get separated into two consecutive segments and the tag validation will err on the side of caution and mark the two segments.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120203T122545Z">
@@ -17935,6 +17959,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120219T040212Z">
         <seg>词典是等同于 Merriam Webster、Duden、Larousse 等桌面上的印刷词典的电子版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Dictionaries are the electronic equivalents of printed dictionaries like Merriam Webster, Duden, Larousse etc., that you may have on your desk. See more about them in the chapter on &lt;l0&gt;Dictionaries&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200122T092004Z" creationid="WynnChen" creationdate="20200122T092004Z">
+        <seg>词典是印刷的词典的电子版本，比如 Merriam Webster、Duden、Larousse 等等，您的桌面上可能正摆着一本。更多关于它们的信息，请参阅&lt;l0&gt;词典&lt;/l0&gt;章节。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22669,6 +22701,14 @@ authors of previous versions.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>From a practical point of view, the most important pair of numbers is the second pair: it tells, how much you have done so far, in relation to the total or second number. The project in the example is evidently finished, as all the unique segments have been translated.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200122T094455Z" creationid="WynnChen" creationdate="20200122T093934Z">
+        <seg>实际使用的角度看，最重要的是第二对数字：它说明了目前您相对于总量（第二个数字）已经完成了多少。示例中的项目显然已经完成，因为全部独特片段均已翻译。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>From auto memory</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190323T164926Z" creationid="wynnc" creationdate="20190323T164926Z">
@@ -22783,8 +22823,8 @@ authors of previous versions.</seg>
       <tuv lang="EN">
         <seg>Fuzzy Matches pane: Dropped &lt;f0&gt;.tmx&lt;/f0&gt; files will be copied to the &lt;f1&gt;tm&lt;/f1&gt; folder.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Doris" changedate="20180418T170258Z" creationid="Doris" creationdate="20180418T170258Z">
-        <seg>模糊匹配窗格：被拖放的&lt;f0&gt;.tmx&lt;/f0&gt;文件将被复制到&lt;f1&gt;tm&lt;/f1&gt;目录下。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200122T064754Z" creationid="Doris" creationdate="20180418T170258Z">
+        <seg>模糊匹配窗格：拖进去的 &lt;f0&gt;.tmx&lt;/f0&gt; 文件将被复制到 &lt;f1&gt;tm&lt;/f1&gt; 文件夹中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23169,8 +23209,8 @@ authors of previous versions.</seg>
       <tuv lang="EN">
         <seg>Glossary pane: Dropped files with known glossary extensions (&lt;f0&gt;.txt&lt;/f0&gt;, &lt;f1&gt;.tab&lt;/f1&gt;, etc.) will be copied to the &lt;f2&gt;glossary&lt;/f2&gt; folder.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Doris" changedate="20180418T170449Z" creationid="Doris" creationdate="20180418T170449Z">
-        <seg>术语表窗格：带有已知词汇表扩展名（&lt;f0&gt;.txt&lt;/f0&gt;、&lt;f1&gt;.tab&lt;/f1&gt;等）的被拖放的文件将被复制到&lt;f2&gt;术语表&lt;/f2&gt;文件夹中。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200122T064840Z" creationid="Doris" creationdate="20180418T170449Z">
+        <seg>词汇表窗格：拖进去的带有已知词汇表扩展名（&lt;f0&gt;.txt&lt;/f0&gt;、&lt;f1&gt;.tab&lt;/f1&gt; 等）的文件将被复制到&lt;f2&gt;词汇表&lt;/f2&gt;文件夹中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26151,6 +26191,14 @@ free software which everyone can redistribute and change under these terms.</seg
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you have TransTips option activated (&lt;g0&gt;Options → TransTips&lt;/g0&gt;), you can right click on the highlighted word in the source segment to open a pop-up menu with suggested translation, as offered by your glossary. Selecting one of them will insert it at the current cursor position into the target segment. You can also highlight your preferred alternative in the glossary pane and insert it into the target by right clicking on the selection.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200122T091724Z" creationid="WynnChen" creationdate="20200122T091134Z">
+        <seg>如果你激活了翻译提示选项（&lt;g0&gt;选项 → 翻译提示&lt;/g0&gt;），则可以在原文片段内高亮标记的单词上右键点击来打开带有建议翻译的弹出菜单，建议翻译由词汇表提供。选择其中之一会将其插入到译文片段中当前光标位置处。您还可以在词汇表窗格中高亮标记想要用的条目并通过在选区上右键点击来将其插入到译文中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you have a PDF file made of scanned pages (sometimes such files are referred to as ‘dead’ PDFs), you need to use an OCR (optical character recognition) program to recognize the text and convert it to a format that can be handled by OmegaT.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Administrator" changedate="20180411T134738Z" creationid="Administrator" creationdate="20180411T134738Z">
@@ -26470,6 +26518,14 @@ to use Java Web Start.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Doris" changedate="20180419T012100Z" creationid="Doris" creationdate="20180419T011914Z">
         <seg>如果在编辑窗格中点击右键，会打开弹出菜单，其中提供了&lt;e0&gt;剪切、复制、粘贴&lt;/e0&gt;（即功能等同于 &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;X&lt;/k3&gt; &lt;/k1&gt;, &lt;k4&gt; &lt;k5&gt;Ctrl&lt;/k5&gt; &lt;k6&gt;C&lt;/k6&gt; &lt;/k4&gt; 和 &lt;k7&gt; &lt;k8&gt;Ctrl&lt;/k8&gt; &lt;k9&gt;V&lt;/k9&gt; &lt;/k7&gt;）；&lt;e10&gt;转到片段&lt;/e10&gt;功能和&lt;e11&gt;添加术语表入口&lt;/e11&gt;功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you right click on the Editor pane, a pop-up menu opens, offering&lt;e0&gt; Cut, Copy, Paste&lt;/e0&gt; (i.e. same functions as &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;X&lt;/k3&gt; &lt;/k1&gt;, &lt;k4&gt; &lt;k5&gt;Ctrl&lt;/k5&gt; &lt;k6&gt;C&lt;/k6&gt; &lt;/k4&gt; and &lt;k7&gt; &lt;k8&gt;Ctrl&lt;/k8&gt; &lt;k9&gt;V&lt;/k9&gt; &lt;/k7&gt;), &lt;e10&gt;GoTo segment&lt;/e10&gt; and &lt;e11&gt;Add glossary entry&lt;/e11&gt; functions. In addition, when the right click occurs on an opened segment, other options concerning &lt;e12&gt;Alternative translations&lt;/e12&gt; are proposed, for example to to jump to another instance of non-unique segments.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200122T083412Z" creationid="WynnChen" creationdate="20200122T083412Z">
+        <seg>如果在编辑器窗格上右键单击，会打开一个弹出菜单，其中提供了&lt;e0&gt;剪切、复制、粘贴&lt;/e0&gt;（即&lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;X&lt;/k3&gt; &lt;/k1&gt;、&lt;k4&gt; &lt;k5&gt;Ctrl&lt;/k5&gt; &lt;k6&gt;C&lt;/k6&gt; &lt;/k4&gt; 和 &lt;k7&gt; &lt;k8&gt;Ctrl&lt;/k8&gt; &lt;k9&gt;V&lt;/k9&gt; &lt;/k7&gt;的功能)、&lt;e10&gt;转到片段&lt;/e10&gt;和&lt;e11&gt;添加词汇表条目&lt;/e11&gt;功能。另外，如果是在打开的片段上右键单击，还会提供与&lt;e12&gt;替代译文&lt;/e12&gt;有关的其他选项，例如，跳转到非独特片段的另一个实例。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29237,6 +29293,14 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is possible to drag text from anywhere in the main window and to drop it within the segment. Texted dragged from outside the target segment is copied, while text dragged from within the segment is moved.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200122T083531Z" creationid="WynnChen" creationdate="20200122T083531Z">
+        <seg>可以从主窗口的任何地方拖动文本并将其放到该片段中。从译文片段之外的地方拖来的文本会复制过来，而在片段内部拖来的文本则会移动过来。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is possible to modify the project properties during a translation session.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
@@ -31815,8 +31879,8 @@ later version.</seg>
       <tuv lang="EN">
         <seg>Main Window - counters</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120218T121635Z">
-        <seg>主窗口 - 方框</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200122T093551Z">
+        <seg>主窗口 - 计数</seg>
       </tuv>
     </tu>
     <tu>
@@ -34736,6 +34800,14 @@ Thus, for example, rules for Canadian French (FR-CA) should be higher than rules
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note: the segment marker displays &lt;l0&gt;&lt;segment nnnn +yy more&gt; when the segment is non-unique. In that case, yy is the number of other occurrences of the segment in the project.&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200122T065935Z" creationid="WynnChen" creationdate="20200122T065842Z">
+        <seg>注意：片段非独特时片段标记会显示 &lt;l0&gt;&lt;片段 nnnn +yy 条&gt;。在这种情况下，yy 是此片段在项目中其余地方出现的次数。&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note: these two instructions can be combined by writing &lt;u0&gt;(&lt;.*?&gt;)|(\d+)&lt;/u0&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190901T164603Z" creationid="WynnChen" creationdate="20190901T164603Z">
@@ -37087,6 +37159,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120218T122724Z">
         <seg>其中某个片段是激活状态的片段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>One of the above segments is the current segment. It is the segment that is displayed in two parts. The upper part is in the source language, in bold characters with a green background color, the lower part is the editing field, ended by a marker: the marker is &lt;l0&gt;&lt;segment nnnn&gt;&lt;/l0&gt; where nnnn is a number of the segment in the project. Use the upper part as a reference and replace or modify the contents of the editing field with your translation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200122T065759Z" creationid="WynnChen" creationdate="20200122T065759Z">
+        <seg>上述片段其中之一是当前片段。该片段分为两部分显示。上半部分以原文语言显示，为带绿色背景色的粗体字符；下半部分是编辑区域，以一个标记结尾：标记格式为 &lt;l0&gt;&lt;片段 nnnn&gt;&lt;/l0&gt;，其中 nnnn 是此片段在项目中的编号。以上半部分为参照，并用你的翻译替换或修改编辑区域的内容。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44791,6 +44871,14 @@ of the GPL, as needed to protect the freedom of users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Some of the file formats, specialized for translation work, for instance PO, allow the inclusion of comments. This way the translator can be provided the context about the segment to be translated. In the example below, the author of the PO file included a warning for the translator to check the length of the translation:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200122T093142Z" creationid="WynnChen" creationdate="20200122T093142Z">
+        <seg>某些专门用于翻译工作的文件格式（比如 PO）可以内含备注。通过就可以为译者提供要翻译片段的相关信息。在下面的例子中，PO 文件的作者警告译者要注意译文的长度：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Some other CAT tools are able to import and export glossary files in this format, or in a similar plain-text format which can be produced from it very easily (for example by a search &amp; replace operation in Microsoft Word).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T121142Z" creationid="Wyndy" creationdate="20180418T120705Z">
@@ -47705,6 +47793,14 @@ software and other kinds of works.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Glossary pane allows you to access your own collection of expressions and specialist terminology which you have built up in your glossary files. It shows translation of terms found in the current segment. The source segment in the example below was “&lt;e0&gt;Context menu command&lt;/e0&gt;”, as in the Fuzzy Matches example above, and the terms shown were found in the glossaries, available (Microsoft's Term collection and Slovenian Linux User group Glossary).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200122T091110Z" creationid="WynnChen" creationdate="20200122T091110Z">
+        <seg>词汇表窗格允许您使用在词汇表文件中建立的表达方式和专业术语的自有集。它会显示出现在当前片段中的词汇的翻译。下面的例子中原文片段和上面模糊匹配的例子里一样是“&lt;e0&gt;Context menu command&lt;/e0&gt;”，而显示的词汇条目则是出现在可用词汇表（Microsoft 名词集和斯洛文尼亚 Linux 用户组词汇表）中的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The HTML user manual for OmegaT standard version.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190327T173950Z" creationid="cpeishan" creationdate="20180407T134528Z">
@@ -48742,8 +48838,8 @@ instead.</seg>
       <tuv lang="EN">
         <seg>The counters in the lower right corner keep track of the progress of the translation (numbers in the left hand column refer to the figure above):</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120218T121852Z">
-        <seg>在右下角方框中的内容表示翻译工作的进度（左列的数字请参考上面的图示）：</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200122T093540Z">
+        <seg>右下角的计数跟踪着翻译的进度（左栏的数字指的是上图）：</seg>
       </tuv>
     </tu>
     <tu>
@@ -49889,6 +49985,14 @@ your programs, too.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The machine translation pane, when opened, contains the suggestions by machine translation tools for the current segment. Press &lt;k0&gt;Ctrl+M&lt;/k0&gt; to replace the translation of the current segment with the suggested translation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200122T092128Z" creationid="WynnChen" creationdate="20200122T092128Z">
+        <seg>机器翻译窗格在其打开时会包含机器翻译工具对当前片段的建议翻译。按 &lt;k0&gt;Ctrl+M&lt;/k0&gt; 可将当前片段的译文替换为建议译文。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The main OmegaT application.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
@@ -49939,8 +50043,8 @@ your programs, too.</seg>
       <tuv lang="EN">
         <seg>The match viewer shows the most similar segments from translation memories, both from internal project translation memory created in real time as you translate your project and from ancillary translation memories you have imported from your earlier jobs, or received from your client or translation agency.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120218T124847Z">
-        <seg>匹配查看器中显示译法记忆中最相似的片段，包括您在项目翻译过程中创建的项目翻译记忆，也包括从您早前工作中导入的辅助记忆，或者是您从客户或翻译代理那里得到得到的。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200122T084437Z">
+        <seg>匹配查看器中显示了翻译记忆库中最相似的片段，来源既包括随着您对项目的翻译而实时创建的内部项目翻译记忆库，也包括来自于您的过往工作或从客户或翻译代理那里得到的辅助翻译记忆库。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49957,6 +50061,14 @@ your programs, too.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120218T125335Z">
         <seg>匹配率大体上相当于匹配片段和被匹配片段中相同的单词数量，并除以两者单词数量中较大者。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The matching percentage is roughly equivalent to taking the number of common words in the matched and the matching segment and dividing by the number of words in the longer of the two. The selected fuzzy match is highlighted in bold, words that are missing in the segment you are translating are colored blue and words adjacent to the missing parts green. In the above example the source segment is &lt;e0&gt;Context menu command&lt;/e0&gt;. The top match is 100%, because all words match. So do the next two matches, and the match #4 is similar, but different. The line with the matching percentage also includes the name of the translation memory containing the match. If there's no file name displayed, the source is the internal project translation memory. Orphan segments (the match #2) describe segments in the default project translation memory that have no corresponding source segment.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200122T090434Z" creationid="WynnChen" creationdate="20200122T084826Z">
+        <seg>匹配度百分比大致上等于匹配和被匹配片段中的公共单词数除以二者中较长那条的单词数。选定的模糊匹配以粗体突出形式，在正翻译的字段中缺失的单词显示为蓝色而与缺失部分相邻的单词为绿色。在上面的例子中，原文片段是 &lt;e0&gt;Context menu command&lt;/e0&gt;。最顶上的匹配项是 100%，因为所有单词都匹配上了。接下来的两个匹配项亦是如此，而第四个匹配项相似但有所不同。显示匹配度百分比的哪一行还包括有包含此匹配项的那个翻译记忆库的名称。如果没有显示文件名，那么其来源是内部项目翻译记忆库。孤立片段（第二个匹配项）说明片段存在于默认项目翻译记忆库中但没有相对应的原文片段。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51260,6 +51372,14 @@ protocols for communication across the network.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The status bar displays work-flow related messages at the bottom of the main window. This bar gives the user feedback on specific operations that are in progress. It also displays the number of fuzzy and glossary matches for the current segment.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200122T093356Z" creationid="WynnChen" creationdate="20200122T093356Z">
+        <seg>状态栏在主窗口的底部显示有关工作流的信息。该栏为用户提供了关于正在进行的特定操作的反馈。它还显示着针对当前片段的模糊匹配和词汇表匹配的数量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The supported file formats are those listed in &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Properties&lt;/g2&gt; &lt;g3&gt;File Filters&lt;/g3&gt; &lt;/m0&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200121T022144Z" creationid="WynnChen" creationdate="20200121T022144Z">
@@ -51584,6 +51704,14 @@ protocols for communication across the network.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131127T142653Z" creationid="Fu Rhong" creationdate="20131127T142653Z">
         <seg>译员可添加笔记到打开的片段（例如之后返回该片段并撤销译文、检查可选译文是否正确或询问同事的看法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The translator can add notes to the opened segment, for instance to come back later to the segment and redo the translation, check that alternative translations are correct or to ask colleagues for their opinion. You can browse through notes using &lt;g0&gt;GoTo → Next Note&lt;/g0&gt; and &lt;g1&gt;GoTo → Previous Note&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200122T092900Z" creationid="WynnChen" creationdate="20200122T092900Z">
+        <seg>译者可以给打开的片段添加备注，例如打算稍后再回到此片段重新做翻译、检查确认替代译文是否正确或向同事征求意见。您可以用&lt;g0&gt;转到 → 下一备注&lt;/g0&gt;和&lt;g1&gt;转到 → 上一备注&lt;/g1&gt;来浏览备注。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53499,6 +53627,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120218T122355Z">
         <seg>这是输入和编辑译文的地方。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is where you type and edit your translation. The Editor pane displays the text of the partially translated document: the text already translated is displayed in translation while the untranslated text is displayed in the original language. The displayed text is split into segments and you may scroll through the document and double-click on any segment to open and edit it. In the above case, the segments already translated are shown in yellow.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200122T065219Z" creationid="WynnChen" creationdate="20200122T065219Z">
+        <seg>在此输入和编辑翻译。编辑器窗格显示部分翻译的文档的文本：已翻译的文本会显示译文，同时未翻译的文本以原始语言显示。所显示的文本被划分为片段，您可以在文档中滚动并双击任何一个片段将其打开并进行编辑。在上述情况下，已翻译的片段以黄色显示。</seg>
       </tuv>
     </tu>
     <tu>
@@ -59156,6 +59292,14 @@ technological measures.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120218T124926Z">
         <seg>当您进入下一片段，第一个模糊匹配（拥有最高匹配百分比的那个）自动被选中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you move to the next segment, the first fuzzy match (the one with the best matching percentage) is automatically selected. You may select a different match by pressing &lt;g0&gt;Ctrl+2, 3, 4, or 5&lt;/g0&gt;. Of course, pressing &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;5&lt;/k3&gt; &lt;/k1&gt; will have no effect, if there is no match #5. To use the selected match in your translation, use &lt;g4&gt;Ctrl+R&lt;/g4&gt; to replace the target field with the match or use &lt;g5&gt;Ctrl+I &lt;/g5&gt; to insert it at the cursor position.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200122T084919Z" creationid="WynnChen" creationdate="20200122T084808Z">
+        <seg>当您移动至下一片段时，将自动选择第一个模糊匹配（拥有最佳匹配度百分比的那个）。您可以通过按下 &lt;g0&gt;Ctrl+2、3、4、或 5&lt;/g0&gt; 来选择其他匹配项。显然，如果没有第五个匹配，按下 &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;5&lt;/k3&gt; &lt;/k1&gt;就不会有效果。要在译文中使用选定的匹配项，用 &lt;g4&gt;Ctrl+R&lt;/g4&gt; 来将译文区域替换为匹配内容，或用 &lt;g5&gt;Ctrl+I &lt;/g5&gt; 来将其插入到光标位置处。</seg>
       </tuv>
     </tu>
     <tu>
@@ -66547,24 +66691,24 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>number of segments - translated vs total for the current file</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120218T121807Z">
-        <seg>片段数 - 已译/总数（当前文件）</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200122T093655Z">
+        <seg>片段数 - 已译与总量（当前文件）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>number of source and target characters in the current segment</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120218T122026Z">
-        <seg>在当前片段中原文和译文中的单词数</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200122T093803Z">
+        <seg>当前片段原文和译文的字符数</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>number of unique segments - translated vs total in the project</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T033349Z">
-        <seg>唯一片段数 - 已译/总数（整个项目）</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200122T093941Z">
+        <seg>独特片段数 - 已译/总量（项目中）</seg>
       </tuv>
     </tu>
     <tu>
