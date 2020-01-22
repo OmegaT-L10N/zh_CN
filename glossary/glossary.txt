@@ -83,3 +83,4 @@ segmentation	分割
 Microsoft	Microsoft	MS官方网站中各处都是使用原文而不用微软，与其维持一致。
 search	查找	用于文本 search 和 replace 场合时，根据office等主流软件的习惯，统一将 search 译为 查找 而非 搜索。
 alternative translation	替代译文	之前翻译为“可选译文”，但综合这个短语所出现的所有语境来分析，还是替代译文的译法更好一些。
+TransTips	翻译提示
