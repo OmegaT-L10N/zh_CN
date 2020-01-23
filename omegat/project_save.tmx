@@ -1104,8 +1104,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;In translation</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190320T182349Z" creationid="wynnc" creationdate="20190320T182349Z">
-        <seg>于译文中(&amp;I)</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T064829Z" creationid="wynnc" creationdate="20190320T182349Z">
+        <seg>在译文中(&amp;I)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1600,8 +1600,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="EN">
         <seg>&amp;Search for Selection</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190322T054746Z" creationid="wynnc" creationdate="20190322T054619Z">
-        <seg>查找所选内容(&amp;S)</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T062013Z" creationid="wynnc" creationdate="20190322T054619Z">
+        <seg>查找转选区(&amp;S)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1920,10 +1920,26 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>'*' matches zero or more characters, from the current position in a given word to its end. The search term &lt;l0&gt;'run*'&lt;/l0&gt; for example would match words &lt;l1&gt;'run'&lt;/l1&gt;, &lt;l2&gt;'runs'&lt;/l2&gt; and &lt;l3&gt;'running'&lt;/l3&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T062916Z" creationid="WynnChen" creationdate="20200123T062613Z">
+        <seg>“*”匹配从给定单词的当前位置到结尾的零个或多个字符。例如，查找词&lt;l0&gt;“run*”&lt;/l0&gt;将匹配单词&lt;l1&gt;“run”&lt;/l1&gt;、&lt;l2&gt;“runs”&lt;/l2&gt;和&lt;l3&gt;“running”&lt;/l3&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>'?' matches any single character.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131119T125545Z">
         <seg>‘?’匹配任何单个字符。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>'?' matches any single character. For instance, &lt;l0&gt;'run?'&lt;/l0&gt; would match the word &lt;l1&gt;'runs'&lt;/l1&gt; and &lt;l2&gt;'runn'&lt;/l2&gt; in the word &lt;l3&gt;'running'&lt;/l3&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T062737Z" creationid="WynnChen" creationdate="20200123T062737Z">
+        <seg>“?”匹配任意单个字符。例如，&lt;l0&gt;“run?”&lt;/l0&gt;将匹配单词&lt;l1&gt;“runs”&lt;/l1&gt;和单词&lt;l3&gt;“running”&lt;/l3&gt;中的&lt;l2&gt;“runn”&lt;/l2&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3525,6 +3541,14 @@ not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>.repositories</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T033309Z" creationid="WynnChen" creationdate="20200123T033309Z">
+        <seg>.repositories</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>/docs/</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120202T064636Z">
@@ -4852,6 +4876,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Adding files to the project: &lt;/e0&gt;You can add source files to the project by clicking on the "&lt;g1&gt;Import Source Files..."&lt;/g1&gt; button. This copies the selected files to the &lt;f2&gt;source&lt;/f2&gt; folder and reloads the project to import the new files. You can also add source files from Internet pages, written in MediaWiki, by clicking on&lt;g3&gt; "Import from MediaWiki"&lt;/g3&gt; button and providing the corresponding URL.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T053624Z" creationid="WynnChen" creationdate="20200123T053326Z">
+        <seg>&lt;e0&gt;向项目中添加文件：&lt;/e0&gt;你可以通过点击“&lt;g1&gt;导入原文文件...&lt;/g1&gt;”按钮来向项目中添加原文文件。这会将所选择的文件复制到 &lt;f2&gt;source&lt;/f2&gt; 文件夹并重新载入项目以导入新文件。还可以通过点击&lt;g3&gt;“从 MediaWiki 导入”&lt;/g3&gt;按钮并提供相应的网址来从用 MediaWiki 编写的网页添加原文文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Aggregate tags&lt;/e0&gt;: if checked, tags with no translatable text between them will be aggregated into a single tag.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190831T063802Z" creationid="WynnChen" creationdate="20190831T063802Z">
@@ -4956,6 +4988,22 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Display: all matching segments: &lt;/e0&gt;if checked, all the segments are displayed one by one, even if they are present several times in the same document or in different documents.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T065211Z" creationid="WynnChen" creationdate="20200123T065042Z">
+        <seg>&lt;e0&gt;显示：所有匹配的片段：&lt;/e0&gt;如果勾选，所有片段都会一一显示，即使它们在同一文档或不同文档中多次出现。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Display: file names: &lt;/e0&gt;if checked, the name of the file where each segment is found is displayed above each result.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T065318Z" creationid="WynnChen" creationdate="20200123T065219Z">
+        <seg>&lt;e0&gt;显示：文件名：&lt;/e0&gt;如果勾选，将在每个结果上方显示片段所在的文件名。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Do not translate the content attribute of meta-tags ... :&lt;/e0&gt; The following meta-tags will not be translated.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z" creationid="Fu Rhong" creationdate="20131113T122547Z">
@@ -5024,6 +5072,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190831T063702Z">
         <seg>&lt;e0&gt;全局：&lt;/e0&gt;数据图表、图表、绘图和艺术字</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Groovy&lt;/e0&gt; (http://groovy.codehaus.org): a dynamic language for the Java Virtual machine. It builds upon the strengths of Java but has additional power features inspired by languages like Python, Ruby and Smalltalk.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T055020Z" creationid="WynnChen" creationdate="20200123T055020Z">
+        <seg>&lt;e0&gt;Groovy&lt;/e0&gt;（http://groovy.codehaus.org）：用于 Java 虚拟机的一种动态语言。它基于 Java 的优势，但又具有受 Python、Ruby 和 Smalltalk 等语言所启发的其他强大功能。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5152,6 +5208,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T103229Z" creationid="WynnChen" creationdate="20190404T103229Z">
         <seg>&lt;e0&gt;安装和运行 OmegaT：&lt;/ e0&gt;当您第一次开始使用 OmegaT 时，本章会很有用。它包含有关如何安装 OmegaT 并在 Windows、Mac OS X 和 Linux 上运行它的具体说明。对于高级用户，本章介绍命令行模式及其可能性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;JavaScript&lt;/e0&gt; (sometimes abbreviated JS, not to be confused with Java): a prototype-based scripting language that is dynamic, weakly typed and has first-class functions. It is a multi-paradigm language, supporting object-oriented, imperative, and functional programming styles. Being the language behind popular software such as Firefox, it is a familiar and preferred programming tool in the open-source domain.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T055410Z" creationid="WynnChen" creationdate="20200123T055410Z">
+        <seg>&lt;e0&gt;JavaScript&lt;/e0&gt;（有时缩写为 JS，不要与 Java 相混淆）：一种基于原型的脚本语言，它是动态、弱类型的并且具有头等函数。它是多范式语言，支持面向对象、命令式和函数式编程风格。作为诸如 Firefox 等流行软件背后的语言，它是开源领域中参见且首选的编程工具。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5390,8 +5454,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;Replace All:&lt;/e0&gt; operates replacement of all occurrences (after displaying a confirmation window where the number of occurrences is shown).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="10353" changedate="20180412T095452Z" creationid="10353" creationdate="20180412T095452Z">
-        <seg>&lt;e0&gt;全部替换:&lt;/e0&gt; 对所有显示结果进行操作（之前会显示替换内容数量的确认窗口）。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T060124Z" creationid="10353" creationdate="20180412T095452Z">
+        <seg>&lt;e0&gt;全部替换：&lt;/e0&gt;对所有出现之处进行操作（在显示出现次数的确认窗口之后）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5404,10 +5468,34 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Replace:&lt;/e0&gt; operates a "one by one" replacement, by the mean of buttons in the &lt;e1&gt;header of the Editor pane&lt;/e1&gt;. Click &lt;e2&gt;Replace Next&lt;/e2&gt; or &lt;e3&gt;Skip&lt;/e3&gt;, then end the replacement session with &lt;e4&gt;Finish&lt;/e4&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T060417Z" creationid="WynnChen" creationdate="20200123T060305Z">
+        <seg>&lt;e0&gt;替换：&lt;/e0&gt;通过&lt;e1&gt;编辑器窗格头部&lt;/e1&gt;的按钮“一个接一个”地执行替换。点击&lt;e2&gt;替换下一个&lt;/e2&gt;或&lt;e3&gt;跳过&lt;/e3&gt;，然后用&lt;e4&gt;结束&lt;/e4&gt;终止替换操作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Sample text:&lt;/e0&gt; field for immediate preview of the selected font</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120211T135152Z">
         <seg>&lt;e0&gt;示例文本：&lt;/e0&gt;即时预览所选择的字体的区域。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Search in Files: &lt;/e0&gt;search in a single file or a folder containing a set of files. When searching through files (as opposed to translation memories), OmegaT restricts the search to files in source file formats. Consequently, although OmegaT is quite able to handle&lt;f1&gt; tmx&lt;/f1&gt; files, it does not include them in the Search files search.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T070610Z" creationid="WynnChen" creationdate="20200123T070610Z">
+        <seg>&lt;e0&gt;在文件中查找：&lt;/e0&gt;在单个文件或包含一组文件的文件夹中查找。对文件进行查找（与对翻译记忆库进行查找相对）时，OmegaT 会将查找限制在具有原文文件格式的文件内。因此，尽管 OmegaT 完全有能力处理 &lt;f1&gt; tmx&lt;/f1&gt; 文件，但它并不会将其包含在“查找文件”的查找内。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Search in Project&lt;/e0&gt;: check &lt;e1&gt;Memory&lt;/e1&gt; to include the project memory (project_save.tmx file) in the search. Check &lt;e2&gt;TMs&lt;/e2&gt; to include the translation memories located in the &lt;f3&gt;tm&lt;/f3&gt; folder in the search. Check &lt;e4&gt;Glossaries&lt;/e4&gt; to include the glossaries located in the &lt;f5&gt;glossary&lt;/f5&gt; folder in the search.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T065814Z" creationid="WynnChen" creationdate="20200123T065221Z">
+        <seg>&lt;e0&gt;在项目中查找：&lt;/e0&gt;：勾选&lt;e1&gt;项目记忆库&lt;/e1&gt;以在查找中包含项目记忆库（project_save.tmx file）。勾选&lt;e2&gt;翻译记忆库&lt;/e2&gt;以在查找中包含位于 &lt;f3&gt;tm&lt;/f3&gt; 目录中的翻译记忆库。勾选&lt;e4&gt;词汇表&lt;/e4&gt;以在查找中包含位于 &lt;f5&gt;glossary&lt;/f5&gt; 目录下的词汇表。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5476,6 +5564,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Space matches nbsp&lt;/e0&gt;: when this option is checked, a space character put in search entry can match either a normal space character or a non-breacking space (\u00A) character.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T064723Z" creationid="WynnChen" creationdate="20200123T064723Z">
+        <seg>&lt;e0&gt;空格可匹配不换行空格&lt;/e0&gt;：勾选此选项时，搜索条目中的空格可以匹配普通的空格字符或不换行空格（\u00A）字符。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Start a new paragraph on&lt;/e0&gt;: the &lt;br&gt; HTML tag will constitute a paragraph break for segmentation purposes.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190831T061716Z" creationid="WynnChen" creationdate="20190831T060221Z">
@@ -5532,6 +5628,22 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;Translated or untranslated: &lt;/e0&gt;search in both translated and untranslated segments.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T065034Z" creationid="WynnChen" creationdate="20200123T065000Z">
+        <seg>&lt;e0&gt;已译或未译：&lt;/e0&gt;已译和未译片段中都进行查找。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Translated: &lt;/e0&gt;search only in translated segments.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T065026Z" creationid="WynnChen" creationdate="20200123T065009Z">
+        <seg>&lt;e0&gt;已译：&lt;/e0&gt;只在已译片段中查找。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;Translation memories: &lt;/e0&gt; explains the role of the various subfolders containing translation memories, and provides information on other important aspects relating to translation memories.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T105010Z" creationid="Yujun Yin" creationdate="20131007T082726Z">
@@ -5568,6 +5680,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190404T015203Z" creationid="WynnChen" creationdate="20190326T163155Z">
         <seg>&lt;e0&gt;翻译流程：&lt;/e0&gt;设想您需要翻译一些东西，可以是单个文件一直到有多个包含许多各种格式文件的子文件夹的文件夹。当您让 OmegaT 知道哪些文件需要翻译之后，它会根据文件过滤规则查找所能理解的文件、识别文件中的文本部分、根据分割规则拆分文本组、并逐个显示片段以供您进行翻译。OmegaT 存储您的翻译并提供翻译记忆库文件中注册的类似片段的可能翻译供参考。当准备查看最终成果时，可以导出译文文件，在相应的应用程序中打开并以最终格式查看译文...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;e0&gt;Untranslated: &lt;/e0&gt;search only in untranslated segments.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T065101Z" creationid="WynnChen" creationdate="20200123T065010Z">
+        <seg>&lt;e0&gt;未译：&lt;/e0&gt;只在未译片段中查找。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5726,8 +5846,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="EN">
         <seg>&lt;e0&gt;case sensitive&lt;/e0&gt;: the search will be performed for the exact string specified; i.e. capitalization is observed.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120215T125735Z">
-        <seg>&lt;e0&gt;区分大小写&lt;/e0&gt;：搜索工作将会严格匹配指定字符串，即遵循大小写状态。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T064551Z">
+        <seg>&lt;e0&gt;区分大小写&lt;/e0&gt;：查找将会对指定字符串进行精确匹配，即，会注意大小写。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5780,26 +5900,34 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;e0&gt;in comments: &lt;/e0&gt;search in comments to segments</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T064930Z" creationid="WynnChen" creationdate="20200123T064930Z">
+        <seg>&lt;e0&gt;在注释中：&lt;/e0&gt;在片段的注释中查找</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;e0&gt;in notes: &lt;/e0&gt;search in notes to segments</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131120T091311Z" creationid="Fu Rhong" creationdate="20131120T091311Z">
-        <seg>&lt;e0&gt;笔记：&lt;/e0&gt;在笔记中搜索</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T064911Z" creationid="Fu Rhong" creationdate="20131120T091311Z">
+        <seg>&lt;e0&gt;在备注中：&lt;/e0&gt;在片段的备注中查找</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;e0&gt;in source: &lt;/e0&gt;search in the source segments</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131120T091152Z" creationid="Fu Rhong" creationdate="20131120T090901Z">
-        <seg>&lt;e0&gt;源片段：&lt;/e0&gt;在源片段中搜索</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T064846Z" creationid="Fu Rhong" creationdate="20131120T090901Z">
+        <seg>&lt;e0&gt;在原文中：&lt;/e0&gt;在原文片段中查找</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&lt;e0&gt;in translations: &lt;/e0&gt;search in the target segments</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131120T091245Z" creationid="Fu Rhong" creationdate="20131120T091021Z">
-        <seg>&lt;e0&gt;目标片段：&lt;/e0&gt;在目标片段中搜索</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T064916Z" creationid="Fu Rhong" creationdate="20131120T091021Z">
+        <seg>&lt;e0&gt;在译文中：&lt;/e0&gt;在译文片段中查找</seg>
       </tuv>
     </tu>
     <tu>
@@ -8767,6 +8895,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;r0&gt;Note:&lt;/r0&gt; it is possible to inhibit the window displaying at opening, by setting &lt;e1&gt;project_files_show_on_load&lt;/e1&gt; to &lt;e2&gt;false&lt;/e2&gt; in &lt;f3&gt;omegat.prefs&lt;/f3&gt; file (accessible by &lt;m4&gt; &lt;g5&gt;Options&lt;/g5&gt; &lt;g6&gt;Access Configuration Folder&lt;/g6&gt; &lt;/m4&gt; menu).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T050713Z" creationid="WynnChen" creationdate="20200123T050713Z">
+        <seg>&lt;r0&gt;注意：&lt;/r0&gt;可以通过在&lt;f3&gt;omegat.prefs&lt;/f3&gt; 文件（可通过&lt;m4&gt; &lt;g5&gt;选项&lt;/g5&gt; &lt;g6&gt;访问配置文件夹&lt;/g6&gt; &lt;/m4&gt;菜单）中将 &lt;e1&gt;project_files_show_on_load&lt;/e1&gt; 设置为 &lt;e2&gt;false&lt;/e2&gt; 来禁止在打开时显示此窗口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;r0&gt;Note:&lt;/r0&gt; it is possible to inhibit this Project Files window displaying, by setting &lt;e1&gt;project_files_show_on_load&lt;/e1&gt; to &lt;e2&gt;false&lt;/e2&gt; in &lt;f3&gt;omegat.prefs&lt;/f3&gt; file (accessible by Options / Access Configuration Folder menu).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Doris" changedate="20180419T021929Z" creationid="Doris" creationdate="20180419T021929Z">
@@ -9323,6 +9459,14 @@ this License.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A file might have no matching entries, so it will show empty.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T073759Z" creationid="WynnChen" creationdate="20200123T073759Z">
+        <seg>某个文件可能没有匹配的条目，因此会显示空白。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A fixed penalty of 5 is added if the removed part does not match some other segment, so the match does not show up as 100%.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="17012" changedate="20180405T021911Z" creationid="17012" creationdate="20180405T021911Z">
@@ -9585,6 +9729,14 @@ or that patent license was granted, prior to 28 March 2007.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T120113Z" creationid="lenovo" creationdate="20180416T120113Z">
         <seg>最近（2008年）开发了一个脚本（仅适用于Windows）和程序，使OmegaT用户能够在其翻译阶段结束时生成Trados未清理的RTF文件以供交付</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A search may be limited to 1000 items, so if you search on a common phrase, the editor then shows only those 1000 matching entries, and not all entries that match the search criteria.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T073738Z" creationid="WynnChen" creationdate="20200123T073738Z">
+        <seg>查找可能会被限制为 1000 个条目，因此如果查找常见短语，编辑器会只显示这 1000 个匹配的条目而非所有符合查找约束条件的条目。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10295,8 +10447,8 @@ the above requirements apply either way.</seg>
       <tuv lang="EN">
         <seg>Additionally to one of the methods above you can select the following:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131120T090757Z" creationid="Fu Rhong" creationdate="20131120T090757Z">
-        <seg>对上面的几种方式，您还可以选择下列选项：</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T064505Z" creationid="Fu Rhong" creationdate="20131120T090757Z">
+        <seg>除了选定上述方法之一，您还可以再选择：</seg>
       </tuv>
     </tu>
     <tu>
@@ -10517,6 +10669,22 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After several of these operations, select &lt;m0&gt; &lt;g1&gt;Edit&lt;/g1&gt; &lt;g2&gt;Realign pending&lt;/g2&gt; &lt;/m0&gt; to update the alignment of the other segments.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T045848Z" creationid="WynnChen" creationdate="20200123T045731Z">
+        <seg>进行若干次此类操作后，选择&lt;m0&gt; &lt;g1&gt;编辑&lt;/g1&gt; &lt;g2&gt;重新对齐剩余部分&lt;/g2&gt; &lt;/m0&gt;来更新其他片段的对齐。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>After the automatic process, the alignment of two files generally requires manual corrections.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T045105Z" creationid="WynnChen" creationdate="20200123T045027Z">
+        <seg>在自动处理后，两个文件的对齐情况通常需要手工修正。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>After the initial installation you can, of course, also use &lt;e5&gt;&lt;a6&gt;OmegaT&lt;/a6&gt;.jnlp&lt;/e5&gt; also when you are offline.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120207T121659Z">
@@ -10679,8 +10847,8 @@ the above requirements apply either way.</seg>
       <tuv lang="EN">
         <seg>Aligner</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T021459Z" creationid="WynnChen" creationdate="20200117T021459Z">
-        <seg>Aligner</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T042330Z" creationid="WynnChen" creationdate="20200117T021459Z">
+        <seg>对齐器</seg>
       </tuv>
     </tu>
     <tu>
@@ -10713,6 +10881,14 @@ the above requirements apply either way.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T145746Z" creationid="wynnc" creationdate="20190323T170542Z">
         <seg>对齐器表格行高亮部分</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Alignment involves creating a bilingual translation memory from monolingual documents that have already been translated.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T042450Z" creationid="WynnChen" creationdate="20200123T042450Z">
+        <seg>执行对齐操作可以从已经翻译过的单语言文档创建双语翻译记忆库。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10909,6 +11085,14 @@ rights of fair use or other equivalent, as provided by copyright law.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131109T022934Z" creationid="Fu Rhong" creationdate="20131109T022934Z">
         <seg>所有的语言都能访问OmegaT对象模型，其中的顶级对象为项目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All the languages have access to the OmegaT object model, with the project as the top object. For example, the following Groovy code snippet scans through all the segments in all the files in the current project and, if a translation exists, prints out the source and the target of the segment:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T055623Z" creationid="WynnChen" creationdate="20200123T055623Z">
+        <seg>所有语言都能访问 OmegaT 的对象模型，其中项目是顶层对象。例如，以下 Groovy 代码片段将扫描当前项目中所有文件内的所有片段，若已存在翻译则打印出片段的原文和译文：</seg>
       </tuv>
     </tu>
     <tu>
@@ -11185,6 +11369,14 @@ rights of fair use or other equivalent, as provided by copyright law.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Alternatively, you can select a word or phrase in the Editor pane, Fuzzy matches pane or Glossary pane and hit &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt;. The word or phrase is entered in the &lt;e3&gt;Search for&lt;/e3&gt; box automatically. You can have several Search windows open at the same time, but close them when they are no longer needed so that they do not clutter your desktop.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T061706Z" creationid="WynnChen" creationdate="20200123T061706Z">
+        <seg>或者，可以在编辑器窗格、模糊匹配窗格或词汇表窗格中选择单词或短语，然后按下&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt;。此单词或短语会自动输入到&lt;e3&gt;查找&lt;/e3&gt;框中。可以同时打开多个查找窗口，不过不再需要的时候请关掉它们，免得把桌面搞得乱七八糟。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Alternatively, you should be able to translate the Infix XML file with good results using earlier versions of OmegaT by means of the HTML filter.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="think" changedate="20180416T022633Z" creationid="think" creationdate="20180416T022633Z">
@@ -11317,6 +11509,14 @@ the predecessor has it or can get it with reasonable efforts.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190327T173531Z" creationid="cpeishan" creationdate="20180407T133458Z">
         <seg>默认情况下，OmegaT 用户界面上会显示带你全面了解 OmegaT 主要操作和功能的《快速入门指南》。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An OmegaT project is a folder containing files and subfolders.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T012639Z" creationid="WynnChen" creationdate="20200123T012639Z">
+        <seg>OmegaT 项目是一个文件夹，其中包含若干文件和子文件夹。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13605,6 +13805,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>By default, scripts are stored in the &lt;f0&gt;scripts&lt;/f0&gt; folder located in the OmegaT installation folder (the folder that contains the &lt;f1&gt;OmegaT.jar&lt;/f1&gt; file).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T054732Z" creationid="WynnChen" creationdate="20200123T054732Z">
+        <seg>默认状态下，脚本存储在位于 OmegaT 安装文件夹（包含 &lt;f1&gt;OmegaT.jar&lt;/f1&gt; 文件的文件夹）中的 &lt;f0&gt;scripts&lt;/f0&gt; 文件夹下。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>By default, the /tm folder is below the project's root folder (e.g. ...&lt;e0&gt;/MyProject/tm&lt;/e0&gt;), but you can choose a different folder in the project properties dialog if you wish.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131127T092958Z" creationid="Fu Rhong" creationdate="20131127T092958Z">
@@ -14874,6 +15082,14 @@ Exception occurred:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click &lt;g0&gt;Continue&lt;/g0&gt; to access the next step.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T044932Z" creationid="WynnChen" creationdate="20200123T044932Z">
+        <seg>点击&lt;g0&gt;继续&lt;/g0&gt;进入下一步。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Click &lt;g0&gt;Create Project&lt;/g0&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190410T042604Z" creationid="Fu Rhong" creationdate="20131111T110751Z">
@@ -14902,6 +15118,14 @@ Exception occurred:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T192753Z" creationid="Mac Pro" creationdate="20180425T192753Z">
         <seg>单击框中的新键盘组合，然后尝试使用键盘组合找到未分配的键盘组合。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click in the other column on the translation corresponding to the first segment.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T045701Z" creationid="WynnChen" creationdate="20200123T045548Z">
+        <seg>点击另一列中与第一个片段相对应的翻译。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15062,6 +15286,14 @@ Exception occurred:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200121T074006Z" creationid="WynnChen" creationdate="20200120T082608Z">
         <seg>点击 Wikipedia 页面上的&lt;g0&gt;编辑&lt;/g0&gt;标签卡。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click the dropdown arrow of the &lt;e0&gt;Search for&lt;/e0&gt; box to access the last 10 searches.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T061745Z" creationid="WynnChen" creationdate="20200123T061745Z">
+        <seg>点击&lt;e0&gt;查找&lt;/e0&gt;框中的下拉箭头可以访问最后 10 个查找条目。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15748,6 +15980,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190901T171119Z" creationid="weiyi" creationdate="20180406T064129Z">
         <seg>包含以不同方式显示文本和修订信息的选项。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Contains project parameters as defined in the &lt;l0&gt;Project properties&lt;/l0&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T033308Z" creationid="WynnChen" creationdate="20200123T033308Z">
+        <seg>包含项目参数在&lt;l0&gt;项目属性&lt;/l0&gt;对话框中定义的项目参数。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18916,6 +19156,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Double-clicking on a segment opens it in the Editor for modifications (one single click does it when &lt;e0&gt;Auto-sync with Editor&lt;/e0&gt; option is checked). You can then switch back to the Search window for the next segment found, for instance to check and, if necessary, correct the terminology.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T072421Z" creationid="WynnChen" creationdate="20200123T072421Z">
+        <seg>双击某个片段可在编辑器中将其打开以进行修改（勾选&lt;e0&gt;自动于编辑器同步&lt;/e0&gt;选项后只需单击即可）。随后可以切回查找窗口处理下一个结果片段，例如进行检查并在必要的情况下更正术语。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Doubled blanks</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190403T151433Z" creationid="xulihang" creationdate="20180408T113059Z">
@@ -19290,8 +19538,8 @@ project_save.tmx 未真正上传，SVN 切换到不稳定状态。
       <tuv lang="EN">
         <seg>During translation additional files may get created in this subfolder as follows</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131114T132716Z" creationid="Fu Rhong" creationdate="20131114T132716Z">
-        <seg>在翻译时还可能会在该子文件夹中创建的附加文件如下</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T032907Z" creationid="Fu Rhong" creationdate="20131114T132716Z">
+        <seg>在翻译中，该子文件夹中还可能会创建其他文件，如下所示：</seg>
       </tuv>
     </tu>
     <tu>
@@ -19486,6 +19734,30 @@ by the Free Software Foundation.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190322T054811Z" creationid="wynnc" creationdate="20190322T054811Z">
         <seg>编辑</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit &gt; Create Glossary Entry (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;G&lt;/k3&gt; &lt;/k0&gt;): add a new glossary item.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T062249Z" creationid="WynnChen" creationdate="20200123T062249Z">
+        <seg>编辑 &gt; 创建词汇表条目（&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;G&lt;/k3&gt; &lt;/k0&gt;）：添加新词汇表条目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit &gt; Insert source (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;I&lt;/k3&gt; &lt;/k0&gt;): insert current segment source.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T062225Z" creationid="WynnChen" creationdate="20200123T062151Z">
+        <seg>编辑 &gt; 插入原文（&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;I&lt;/k3&gt; &lt;/k0&gt;）插入当前片段的原文。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit &gt; Replace with source (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;R&lt;/k3&gt; &lt;/k0&gt;): replace with current segment source.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T062220Z" creationid="WynnChen" creationdate="20200123T062220Z">
+        <seg>编辑 &gt; 替换为原文（&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;R&lt;/k3&gt; &lt;/k0&gt;）：替换为当前片段的原文。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20049,8 +20321,8 @@ Your help page not found</seg>
       <tuv lang="EN">
         <seg>Enter the new word or phrase (regular expressions are not supported) in the &lt;e0&gt;Replace with&lt;/e0&gt; box, then click one of the following options:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="10353" changedate="20180412T095052Z" creationid="10353" creationdate="20180412T095052Z">
-        <seg>在 &lt;e0&gt;替换&lt;/e0&gt; 框内输入新的单词或短语（不支持正则表达式）, 然后点击以下任一选项</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T055954Z" creationid="10353" creationdate="20180412T095052Z">
+        <seg>在&lt;e0&gt;替换为&lt;/e0&gt;框内输入新的单词或短语（不支持正则表达式），然后点击以下任一选项：</seg>
       </tuv>
     </tu>
     <tu>
@@ -20581,8 +20853,8 @@ No one hears your screams</seg>
       <tuv lang="EN">
         <seg>Except one: check &lt;e0&gt;Untranslated&lt;/e0&gt; in order to operate Search and replace also on segments that have not been translated yet.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="10353" changedate="20180412T104640Z" creationid="10353" creationdate="20180412T104640Z">
-        <seg>只有一点不同：确认&lt;e0&gt;未翻译&lt;/e0&gt; in order to operate Search and replace also on segments that have not been translated yet.</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T060712Z" creationid="10353" creationdate="20180412T104640Z">
+        <seg>只有一点不同：勾选&lt;e0&gt;未译&lt;/e0&gt;来对尚未翻译的片段同样执行查找与替换。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21220,6 +21492,22 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>File &gt; Close (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;W&lt;/k2&gt; &lt;/k0&gt;): close the search window (in the same way as &lt;k3&gt;Esc&lt;/k3&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T062124Z" creationid="WynnChen" creationdate="20200123T062124Z">
+        <seg>文件 &gt; 关闭（&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;W&lt;/k2&gt; &lt;/k0&gt;）：关闭查找窗口（与&lt;k3&gt;Esc&lt;/k3&gt;相同）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>File &gt; Search for selection (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt;): refocus on the search field and select all its contents.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T062054Z" creationid="WynnChen" creationdate="20200123T061942Z">
+        <seg>文件 &gt; 查找转选区（&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt;）：焦点重新转到查找字段，并选定其全部内容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>File Copy Failed</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190320T091659Z" creationid="wynnc" creationdate="20190320T091659Z">
@@ -21262,8 +21550,8 @@ a description of how this error was produced.</seg>
       <tuv lang="EN">
         <seg>File entries include their names, file filter types, their encoding and the number of segments each file contains</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131128T002047Z" creationid="Fu Rhong" creationdate="20131128T001834Z">
-        <seg>每个文件条目包含它的名称、文件过滤器类型、编码和它所包含的片段数</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T052101Z" creationid="Fu Rhong" creationdate="20131128T001834Z">
+        <seg>每个文件条目包括其名称、文件过滤器类型、编码和每个文件所包含的片段数</seg>
       </tuv>
     </tu>
     <tu>
@@ -21456,6 +21744,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190322T062559Z" creationid="wynnc" creationdate="20190320T045507Z">
         <seg>无法从“{1}”载入过滤器“{0}”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Filter entries in editor according to search</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T073136Z" creationid="WynnChen" creationdate="20200123T073116Z">
+        <seg>在编辑器中根据查找来过滤条目</seg>
       </tuv>
     </tu>
     <tu>
@@ -21933,6 +22229,14 @@ can then launch the Kaptain launch script with:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T120132Z" creationid="lenovo" creationdate="20180416T120132Z">
         <seg>有关详细信息，请参阅&lt;a0&gt;“从OmegaT导出到未清除的RTF”HOWTO &lt;/ a0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For easier navigation in the search result set, you can apply the search to the editor. Press the &lt;e0&gt;Filter&lt;/e0&gt; button on the bottom to limit the shown entries in the editor window to those that match the current search. You can use normal navigation to go to e.g. the next (untranslated) segment that matches the search criteria.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T073443Z" creationid="WynnChen" creationdate="20200123T073121Z">
+        <seg>为了跟轻松地在查找结果集中导航，可以将查找应用到编辑器上。按下底部的&lt;e0&gt;过滤器&lt;/e0&gt;按钮来将编辑器窗口中显示的条目限制为当前查找所匹配的那些。可以用常规的导航操作进行跳转，例如转到下一个符合当前查找约束条件的（未译）片段。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22615,8 +22919,8 @@ authors of previous versions.</seg>
       <tuv lang="EN">
         <seg>Forward-Backward</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190324T032359Z" creationid="wynnc" creationdate="20190324T032359Z">
-        <seg>Forward-Backward</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T044013Z" creationid="wynnc" creationdate="20190324T032359Z">
+        <seg>前向-后向（Forward-Backward）</seg>
       </tuv>
     </tu>
     <tu>
@@ -23680,8 +23984,8 @@ authors of previous versions.</seg>
       <tuv lang="EN">
         <seg>Heapwise</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190324T032339Z" creationid="wynnc" creationdate="20190324T032339Z">
-        <seg>Heapwise</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T043939Z" creationid="wynnc" creationdate="20190324T032339Z">
+        <seg>按堆（Heapwise）</seg>
       </tuv>
     </tu>
     <tu>
@@ -23992,6 +24296,15 @@ Note: not all filters allow you to select an encoding.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120203T124012Z">
         <seg>Home*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>依其在文档中出现的位置（第一级标题）和使用意图（和第二级标题连起来构成英文句子），结合考虑中文习惯，意译为指南。</note>
+      <tuv lang="EN">
+        <seg>How To...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T012549Z" creationid="WynnChen" creationdate="20200123T012228Z">
+        <seg>指南</seg>
       </tuv>
     </tu>
     <tu>
@@ -24704,6 +25017,14 @@ need not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If a search removes duplicates, those duplicates will not be in the Editor.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T073902Z" creationid="WynnChen" creationdate="20200123T073842Z">
+        <seg>如果查找结果删除了重复项，则这些重复项不会出现在编辑器中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If a segment has already been translated and an identical segment later on in the text is then changed, the earlier segment will be brought into line with the changed segment.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T120037Z" creationid="lenovo" creationdate="20180416T115903Z">
@@ -25043,8 +25364,8 @@ License would be to refrain entirely from conveying the Program.</seg>
       <tuv lang="EN">
         <seg>If it is clear from the very start, that translations in a given TM (or TMs) are all correct, one can put them into the&lt;e0&gt; tm/auto&lt;/e0&gt; folder and avoid confirming a lot of&lt;e1&gt; [fuzzy]&lt;/e1&gt; cases.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120217T132922Z">
-        <seg>如果在提供的 TM 中的译文完全可靠的话，那么可以把它们放到 &lt;e0&gt; tm/auto&lt;/e0&gt; 目录以避免需要对大量的 &lt;e1&gt; [模糊]&lt;/e1&gt;进行确认。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T024042Z">
+        <seg>如果从一开始就非常确定某些翻译记忆库中的翻译是完全正确的，则可以将其放入 &lt;e0&gt; tm/auto&lt;/e0&gt; 文件夹，这样就无需对大量&lt;e1&gt;[模糊]&lt;/e1&gt;进行确认。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25278,6 +25599,14 @@ to choose that version for the Program.</seg>
 versions of the GNU General Public License can be used, that proxy's
 public statement of acceptance of a version permanently authorizes you
 to choose that version for the Program.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If the alignment looks as if it could be improved, try changing the parameters. In most cases, the lower the &lt;g0&gt;Average score&lt;/g0&gt; is, better the alignment will be.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T042656Z" creationid="WynnChen" creationdate="20200123T042656Z">
+        <seg>如果对齐情况看起来尚可改进，可以试着改变参数。在大多数情况下，&lt;g0&gt;平均得分&lt;/g0&gt;越低，则对齐情况越好。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25519,6 +25848,14 @@ notice like this when it starts in an interactive mode:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If the source segment in one of the ancillary TMs is identical to the text being translated, OmegaT acts as defined in the &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Editing Behavior...&lt;/g2&gt; &lt;/m0&gt; dialog window. For instance (if the default is accepted), the translation from the ancillary TM is accepted and prefixed with&lt;e3&gt; [fuzzy]&lt;/e3&gt;, so that the translator can review the translations at a later stage and check whether the segments tagged this way, have been translated correctly&lt;m4&gt; &lt;g5&gt;.&lt;/g5&gt; &lt;/m4&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T023331Z" creationid="WynnChen" creationdate="20200123T023331Z">
+        <seg>如果辅助翻译记忆库中有与待译文本完全相同的原文片段，OmegaT 会按照&lt;m0&gt; &lt;g1&gt;选项&lt;/g1&gt; &lt;g2&gt;编辑行为...&lt;/g2&gt; &lt;/m0&gt;对话框窗口中定义的行为进行操作。例如（如果按默认值），使用来自辅助翻译记忆库的翻译并冠以&lt;e3&gt;[模糊]&lt;/e3&gt;前缀，这样译者可以在后面检查带有此标签的片段是否已正确翻译&lt;m4&gt;&lt;g5&gt;。&lt;/g5&gt;&lt;/m4&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If the spell checker is not working, then make sure first that the check box &lt;g0&gt;"Automatically check the spelling of text"&lt;/g0&gt; in the spell checker dialog (&lt;g1&gt;Options &gt; Spell checking...)&lt;/g1&gt; is checked.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190708T033705Z" creationid="Fu Rhong" creationdate="20131126T085230Z">
@@ -25609,16 +25946,16 @@ notice like this when it starts in an interactive mode:</seg>
       <tuv lang="EN">
         <seg>If they &lt;e0&gt;don't need&lt;/e0&gt; to stay immune from further changes, then remove the TMX from /tm/enforce.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Doris" changedate="20180418T140740Z" creationid="Doris" creationdate="20180418T140650Z">
-        <seg>如果它们&lt;e0&gt;不需要&lt;/e0&gt;免除于进一步更改，请从/tm/enforce中删除TMX。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T025249Z" creationid="Doris" creationdate="20180418T140650Z">
+        <seg>如果它们&lt;e0&gt;不需要&lt;/e0&gt;豁免后继更改，请将 TMX 从 /tm/enforce 中删除。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>If they &lt;e0&gt;need&lt;/e0&gt; to stay immune from further changes, then keep the TMX in /tm/enforce.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Doris" changedate="20180418T140736Z" creationid="Doris" creationdate="20180418T140736Z">
-        <seg>如果它们&lt;e0&gt;需要&lt;/e0&gt;免除于进一步更改，请在/tm/enforce中保留TMX。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T025312Z" creationid="Doris" creationdate="20180418T140736Z">
+        <seg>如果它们&lt;e0&gt;需要&lt;/e0&gt;豁免后继更改，请将 TMX 保留在 /tm/enforce 中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25723,6 +26060,14 @@ notice like this when it starts in an interactive mode:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120203T124646Z">
         <seg>如果您加上了前缀（例如[模糊]），之后您可以找到这些译文并检查是否正确。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you add new scripts there, they will appear in the list of available scripts in the &lt;g0&gt;Scripting&lt;/g0&gt; window.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T054809Z" creationid="WynnChen" creationdate="20200123T054809Z">
+        <seg>如果在此处添加了新脚本，它们将出现在&lt;g0&gt;脚本&lt;/g0&gt;窗口的可用脚本列表中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26057,6 +26402,14 @@ OmegaT.exe，请修改设置以显示文件扩展名。</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you click on the button &lt;g0&gt;Advanced options&lt;/g0&gt; additional criteria (author or changer of the translation, date translated, excluding orphan segments, etc) can be selected. When &lt;e1&gt;Full/Half width char insensitive&lt;/e1&gt; option is checked, searches for fullwidth forms (CJK characters) will match halfwidth forms and vice versa.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T070900Z" creationid="WynnChen" creationdate="20200123T070836Z">
+        <seg>如果点击&lt;g0&gt;高级选项&lt;/g0&gt;按钮，就可以选择其他约束条件（翻译的作者或修改者、翻译的日期、排除孤立片段等）。勾选&lt;e1&gt;不区分全角/半角字符&lt;/e1&gt;选项后，查找全角形式（CJK 字符）会匹配半角形式，反之亦然。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you convey a covered work, knowingly relying on a patent license,
 and the Corresponding Source of the work is not available for anyone
 to copy, free of charge and under the terms of this License, through a
@@ -26347,8 +26700,8 @@ to use Java Web Start.</seg>
       <tuv lang="EN">
         <seg>If you have no doubt that a TMX is more accurate than the &lt;f0&gt;project_save.tmx&lt;/f0&gt; of OmegaT, put this TMX in /tm/enforce to overwrite existing default translations unconditionally.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Doris" changedate="20180418T133949Z" creationid="Doris" creationdate="20180418T133928Z">
-        <seg>如果您认同TMX比OmegaT的&lt;f0&gt;project_save.tmx&lt;/f0&gt;更准确，请将此TMX置于/tm/enforce目录下，以便无条件覆盖现有的默认翻译。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T024724Z" creationid="Doris" creationdate="20180418T133928Z">
+        <seg>如果你确信某个 TMX 比 OmegaT 的 &lt;f0&gt;project_save.tmx&lt;/f0&gt; 更靠谱，请将此 TMX 放到 /tm/enforce 中来无条件地覆盖现有的默认翻译。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26920,6 +27273,14 @@ work and works based on it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In &lt;g0&gt;Heapwise&lt;/g0&gt; mode, the texts are evaluated globally. In &lt;g1&gt;Parsewise&lt;/g1&gt; mode, they are evaluated segment by segment.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T044058Z" creationid="WynnChen" creationdate="20200123T042708Z">
+        <seg>在&lt;g0&gt;按堆（Heapwise）&lt;/g0&gt;模式下，文本是整体评估的。在&lt;g1&gt;按段（Parsewise）&lt;/g1&gt;模式下，则逐个片段地评估。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In &lt;g0&gt;Options &gt; External TMXs&lt;/g0&gt;, a number of variables allow to configure the display of the match pane:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131127T125617Z" creationid="Fu Rhong" creationdate="20131127T125617Z">
@@ -27032,6 +27393,14 @@ work and works based on it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In a team project, this folder contains a versioned copy of the project tree structure linked directly to the remote server.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T033423Z" creationid="WynnChen" creationdate="20200123T033423Z">
+        <seg>在团队项目中，此文件夹包含直接连接到远程服务器的项目树结构的版本副本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In addition to Trados, however, several other CAT tools also support the "uncleaned RTF" format, notably Wordfast Classic.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T120007Z" creationid="lenovo" creationdate="20180416T120007Z">
@@ -27132,6 +27501,14 @@ work and works based on it.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120215T122907Z">
         <seg>无论是精确还是关键词搜索，都可以使用通配符 '*' 和 '?'。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In both exact and keyword searches, the wild card search characters '*' and '?' can be used. They have the meaning, familiar to Word users:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T062428Z" creationid="WynnChen" creationdate="20200123T062428Z">
+        <seg>无论是精确查找还是关键字查找，都可以使用通配符“*”和“?”。它们具有 Word 用户很熟悉的含义：</seg>
       </tuv>
     </tu>
     <tu>
@@ -27558,8 +27935,8 @@ Reopen the project now?</seg>
       <tuv lang="EN">
         <seg>In so&amp;urce</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190320T182340Z" creationid="wynnc" creationdate="20190320T045507Z">
-        <seg>于原文中(&amp;U)</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T064822Z" creationid="wynnc" creationdate="20190320T045507Z">
+        <seg>在原文中(&amp;U)</seg>
       </tuv>
     </tu>
     <tu>
@@ -27584,6 +27961,14 @@ Reopen the project now?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="10353" changedate="20180414T105151Z" creationid="10353" creationdate="20180414T105151Z">
         <seg>在某些情况下，你可能会发现源语言标记器会干扰目标语言拼写检查器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In some operating systems, this folder is not displayed by default. Activate the "Show hidden files" option to make it visible.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T033910Z" creationid="WynnChen" creationdate="20200123T033436Z">
+        <seg>在某些操作系统中，默认情况下不显示此文件夹。激活“显示隐藏文件”选项来使其可见。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27700,6 +28085,14 @@ Reopen the project now?</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the Search window, you can use standard shortcuts (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;N&lt;/k2&gt; &lt;/k0&gt;, &lt;k3&gt; &lt;k4&gt;Ctrl&lt;/k4&gt; &lt;k5&gt;P&lt;/k5&gt; &lt;/k3&gt;) to move from one segment to another.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T072700Z" creationid="WynnChen" creationdate="20200123T072700Z">
+        <seg>在查找窗口中，你可以使用标准快捷键（&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;N&lt;/k2&gt; &lt;/k0&gt;、&lt;k3&gt; &lt;k4&gt;Ctrl&lt;/k4&gt; &lt;k5&gt;P&lt;/k5&gt; &lt;/k3&gt;）从一个片段移动至另一个。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the Slovenian version both words have been translated as nouns.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
@@ -27744,6 +28137,14 @@ Reopen the project now?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Doris" changedate="20180418T141224Z" creationid="Doris" creationdate="20180418T141224Z">
         <seg>在编辑窗格中，从&lt;e0&gt;mt&lt;/e0&gt;的文件夹中的TMX文件插入匹配项时，当前所在片段的背景变为红色。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the editor pane, when a match is inserted from a TMX contained in a folder named &lt;f0&gt;mt&lt;/f0&gt;, the background of the active segment is changed to red. The background is restored to normal when the segment is left.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T030439Z" creationid="WynnChen" creationdate="20200123T030439Z">
+        <seg>在编辑器窗格中，如果插入的匹配项来自名为 &lt;f0&gt;mt&lt;/f0&gt; 的文件夹中的 TMX 文件时，当前所在片段的背景会变为红色。离开此片段后背景恢复正常。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28262,6 +28663,14 @@ everything.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131114T075623Z" creationid="Fu Rhong" creationdate="20131114T075351Z">
         <seg>该文件夹初始为空的，它将包含您添加到项目的词典文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Initially empty, this folder will contain dictionaries you have added to the project. See &lt;l0&gt;Dictionaries&lt;/l0&gt; for more on this subject.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T031747Z" creationid="WynnChen" creationdate="20200123T031642Z">
+        <seg>一开始是空的，此文件夹将包含您添加入项目的词典。关于此主题的更多信息，请参阅&lt;l0&gt;词典&lt;/l0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29490,6 +29899,14 @@ everything.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131126T093729Z" creationid="Fu Rhong" creationdate="20131126T092225Z">
         <seg>可能出现这样的情况：在&lt;f0&gt;tm&lt;/f0&gt;子文件夹的翻译记忆中多个片段含有相同的源文本，但目标译文不同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It may happen, that translation memories, available in the &lt;f0&gt;tm&lt;/f0&gt; subfolder, contain segments with identical source text, but differing targets. TMX files are read sorted by their names and segments within a given TMX file line by line. The last segment with the identical source text will thus prevail (Note: of course it makes more sense to avoid this to happen in the first place).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T023810Z" creationid="WynnChen" creationdate="20200123T023810Z">
+        <seg>有可能会出现这种情况：在 &lt;f0&gt;tm&lt;/f0&gt; 子文件夹中的翻译记忆库中包含多个原文文本完全相同但译文不同的片段。TMX 文件是按照名称顺序进行读取的，并且对于给定 TMX 文件是逐行读取其中的片段的。因此，对于有着完全相同的原文文本的片段，会采用最后一个（注意：显然，先考虑避免出现这种情况会更有意义)。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31373,6 +31790,14 @@ later version.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Load a script into the editor by clicking its name in the list in the left-hand panel.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T054007Z" creationid="WynnChen" creationdate="20200123T054007Z">
+        <seg>在左侧面板的列表中点击脚本名称将其加载到编辑器中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Load a script into the editor by clicking on its name in the list on the left panel.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T140151Z" creationid="Fu Rhong" creationdate="20131108T122011Z">
@@ -31917,10 +32342,26 @@ later version.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Make a slight change anywhere in the project. This modifies &lt;f0&gt;project_save.tmx&lt;/f0&gt; (by adding proper Translation Units from "auto" TMX)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T024513Z" creationid="WynnChen" creationdate="20200123T024513Z">
+        <seg>在项目中任意位置稍做改动。这会修改 &lt;f0&gt;project_save.tmx&lt;/f0&gt;（添加来自“自动”TMX 的合适的翻译单元）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Make a slight change anywhere in the project. This modifies &lt;f0&gt;project_save.tmx&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T024835Z" creationid="WynnChen" creationdate="20200123T024835Z">
+        <seg>在项目中任意位置稍做改动。这会修改 &lt;f0&gt;project_save.tmx&lt;/f0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Make decision about immunity of the enforced segments:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Doris" changedate="20180418T140555Z" creationid="Doris" creationdate="20180418T140555Z">
-        <seg>使片段免除于强制执行：</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T025213Z" creationid="Doris" creationdate="20180418T140555Z">
+        <seg>确定被强制更改的片段的豁免权：</seg>
       </tuv>
     </tu>
     <tu>
@@ -32576,8 +33017,8 @@ later version.</seg>
       <tuv lang="EN">
         <seg>Memor&amp;y</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190325T162653Z" creationid="wynnc" creationdate="20190320T045507Z">
-        <seg>存储(&amp;Y)</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T065524Z" creationid="wynnc" creationdate="20190320T045507Z">
+        <seg>项目记忆库(&amp;Y)</seg>
       </tuv>
     </tu>
     <tu>
@@ -32626,6 +33067,14 @@ later version.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120209T120845Z">
         <seg>菜单和键盘快捷键</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Menus</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T012555Z" creationid="WynnChen" creationdate="20200123T012555Z">
+        <seg>菜单</seg>
       </tuv>
     </tu>
     <tu>
@@ -32922,6 +33371,14 @@ later version.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T033349Z">
         <seg>修改分割规则可能改变片段数和唯一片段数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Modifying the segmentation rules may have the effect of modifying the number of segments/unique segments. This, however, should generally be avoided once you have started translating the project. See the chapter &lt;e0&gt;Segmentation rules&lt;/e0&gt; for more information.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T053217Z" creationid="WynnChen" creationdate="20200123T053036Z">
+        <seg>修改分割规则可能会有改变片段/独特片段数量的效果。但是，一旦开始对项目进行翻译后，通常应当避免这么做。更多信息请参阅&lt;e0&gt;分割规则&lt;/e0&gt;章节。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33475,6 +33932,15 @@ appropriate location such as the Applications folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T045951Z" creationid="Fu Rhong" creationdate="20131108T030255Z">
         <seg>毛利语（Māori）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>（源自拉丁文nota bene）</note>
+      <tuv lang="EN">
+        <seg>NB:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T073624Z" creationid="WynnChen" creationdate="20200123T073624Z">
+        <seg>注意：</seg>
       </tuv>
     </tu>
     <tu>
@@ -34071,8 +34537,8 @@ measures.</seg>
       <tuv lang="EN">
         <seg>Normal</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190324T032427Z" creationid="wynnc" creationdate="20190324T032405Z">
-        <seg>普通</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T044018Z" creationid="wynnc" creationdate="20190324T032405Z">
+        <seg>正态分布（Normal）</seg>
       </tuv>
     </tu>
     <tu>
@@ -34471,8 +34937,8 @@ measures.</seg>
       <tuv lang="EN">
         <seg>Note that the TMX files in the tm folder can be compressed with gzip.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131126T101932Z" creationid="Fu Rhong" creationdate="20131126T101932Z">
-        <seg>注意在tm文件夹中的TMX文件可使用gzip压缩。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T023834Z" creationid="Fu Rhong" creationdate="20131126T101932Z">
+        <seg>注意，在 tm 文件夹中的 TMX 文件可以用 gzip 进行压缩。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34743,18 +35209,26 @@ Thus, for example, rules for Canadian French (FR-CA) should be higher than rules
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Note: filenames (in first column) can be sorted alphabetically by clicking in the header. It also possible to change the position of a filename, by clicking on it and pressing &lt;e0&gt;Move ...&lt;/e0&gt; buttons.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T051935Z" creationid="WynnChen" creationdate="20200123T051935Z">
+        <seg>注意：文件名（第一列）可以通过点击表头来按字母排序。也可以通过点击文件名并按下各个&lt;e0&gt;移动&lt;/e0&gt;按钮来改变文件名的位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Note: if TMX is removed from /tm/auto before step 3, no extra Translation Unit is added.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Doris" changedate="20180418T140843Z" creationid="Doris" creationdate="20180418T133415Z">
-        <seg>提示：如果在步骤3之前，TMX已从/tm/auto文件夹移除，则不会添加额外的翻译单元。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T024609Z" creationid="Doris" creationdate="20180418T133415Z">
+        <seg>注意：如果在第 3 步之前就从 /tm/auto 中删除了 TMX，则不会添加任何其他翻译单元。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Note: if TMX is removed from /tm/enforce before step 3, enforcements aren't kept at all.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Doris" changedate="20180418T140943Z" creationid="Doris" creationdate="20180418T140937Z">
-        <seg>提示：如果在步骤3之前，TMX已从/tm/auto文件夹移除，则强制执行不会被保存。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T025442Z" creationid="Doris" creationdate="20180418T140937Z">
+        <seg>注意：如果在第 3 步之前就从 /tm/enforce 中删除了 TMX，则根本不会保存任何强制修改。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35300,6 +35774,14 @@ combination as such.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="liufang" changedate="20180416T121840Z" creationid="liufang" creationdate="20180416T121840Z">
         <seg>OmegaT 4.0或更高版本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT 4.2 - User's Guide</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T041904Z" creationid="WynnChen" creationdate="20200123T041904Z">
+        <seg>OmegaT 4.2 - 用户指南</seg>
       </tuv>
     </tu>
     <tu>
@@ -36429,6 +36911,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT team</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T041909Z" creationid="WynnChen" creationdate="20200123T041909Z">
+        <seg>OmegaT 团队</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT team projects can also be set up in a different way, where several translators share the project_save.tmx file but not the source files.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T094748Z" creationid="wynnc" creationdate="20190902T094748Z">
@@ -36669,8 +37159,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>OmegaT will present one segment at a time for you to translate. After you have translated each segment, press &lt;k0&gt;Ctrl+U&lt;/k0&gt; to move to the next untranslated segment (or &lt;k1&gt;Ctrl+Shift+U&lt;/k1&gt; to move to the next translated segment). Whenever you want to see what your translation will look like in its final format, press &lt;k2&gt;Ctrl+D&lt;/k2&gt; to generate the translated documents, which will be created in the &lt;f3&gt;/target/&lt;/f3&gt; subfolder of your project folder. During translation, use the &lt;g4&gt;Edit&lt;/g4&gt; and &lt;g5&gt;Go To&lt;/g5&gt; menus to perform various useful functions.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200119T102613Z" creationid="WynnChen" creationdate="20200119T102217Z">
-        <seg>OmegaT 将一次呈现一个片段供您翻译。翻译完一个片段后，按下 &lt;k0&gt;Ctrl+U&lt;/k0&gt; 前往下一个未译片段（或用 &lt;k1&gt;Ctrl+Shift+U&lt;/k1&gt; 前往下一个已译片段）。当您想查看译文的最终呈现格式时，请按 &lt;k2&gt;Ctrl+D&lt;/k2&gt; 来生成已译文档，它们会在项目文件夹中的 &lt;f3&gt;/target/&lt;/f3&gt; 子文件夹内创建。在翻译过程中，可以用&lt;g4&gt;编辑&lt;/g4&gt;和&lt;g5&gt;转到&lt;/g5&gt;菜单来执行各种有用的功能。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T014218Z" creationid="WynnChen" creationdate="20200119T102217Z">
+        <seg>OmegaT 将一次呈现一个片段供您翻译。翻译完一个片段后，按下 &lt;k0&gt;Ctrl+U&lt;/k0&gt; 前往下一个未译片段（或用 &lt;k1&gt;Ctrl+Shift+U&lt;/k1&gt; 前往下一个已译片段）。当您想查看译文的最终呈现格式时，请按 &lt;k2&gt;Ctrl+D&lt;/k2&gt; 来生成译文文档，它们会在项目文件夹中的 &lt;f3&gt;/target/&lt;/f3&gt; 子文件夹内创建。在翻译过程中，可以用&lt;g4&gt;编辑&lt;/g4&gt;和&lt;g5&gt;转到&lt;/g5&gt;菜单来执行各种有用的功能。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37283,6 +37773,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Only rows with the &lt;g0&gt;Keep&lt;/g0&gt; box ticked in the first column will be included when the translation memory is created.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T050239Z" creationid="WynnChen" creationdate="20200123T050202Z">
+        <seg>创建翻译记忆库时，只会包含勾选了第一列中的&lt;g0&gt;保留&lt;/g0&gt;框的那些行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Only the file &lt;f0&gt;test.html&lt;/f0&gt; in the folder &lt;f1&gt;dir-10&lt;/f1&gt; will be processed. Again note that the backslash is escaped as well.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200119T091351Z" creationid="WynnChen" creationdate="20200119T091351Z">
@@ -37469,8 +37967,16 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="EN">
         <seg>Open the Search and replace window with &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;K&lt;/k2&gt; &lt;/k0&gt; and enter the word or expression you wish to replace in the &lt;e3&gt;Search for&lt;/e3&gt; box.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="10353" changedate="20180412T085709Z" creationid="10353" creationdate="20180412T085709Z">
-        <seg>用 &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;K&lt;/k2&gt; &lt;/k0&gt;打开查找与替换窗口，把你想要替换的单词或词组输入到 &lt;e3&gt;查找&lt;/e3&gt; 框里。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T055923Z" creationid="10353" creationdate="20180412T085709Z">
+        <seg>用&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;K&lt;/k2&gt; &lt;/k0&gt;打开查找并替换窗口，把你要替换掉的单词或表达式输入到&lt;e3&gt;查找&lt;/e3&gt;框里。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open the Search window with &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt; and enter the word or phrase you wish to search for in the &lt;e3&gt;Search for&lt;/e3&gt; box.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T061426Z" creationid="WynnChen" creationdate="20200123T061426Z">
+        <seg>用&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;F&lt;/k2&gt; &lt;/k0&gt;打开查找窗口，把你要查找的单词或短语输入&lt;e3&gt;查找&lt;/e3&gt;框。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37495,6 +38001,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Doris" changedate="20180418T132702Z" creationid="Doris" creationdate="20180418T132702Z">
         <seg>打开项目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open the project. The changes are displayed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T024152Z" creationid="WynnChen" creationdate="20200123T024152Z">
+        <seg>打开项目。更改会体现出来。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38369,8 +38883,8 @@ Vanishing like mist</seg>
       <tuv lang="EN">
         <seg>Parsewise</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190324T032340Z" creationid="wynnc" creationdate="20190324T032340Z">
-        <seg>Parsewise</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T043949Z" creationid="wynnc" creationdate="20190324T032340Z">
+        <seg>按段（Parsewise）</seg>
       </tuv>
     </tu>
     <tu>
@@ -39127,8 +39641,8 @@ language you would like to translate to.</seg>
       <tuv lang="EN">
         <seg>Poisson</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190324T032422Z" creationid="wynnc" creationdate="20190324T032422Z">
-        <seg>Poisson</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T044028Z" creationid="WynnChen" creationdate="20200123T043310Z">
+        <seg>泊松分布（Poisson）</seg>
       </tuv>
     </tu>
     <tu>
@@ -39384,6 +39898,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Press the space bar (shortcut for &lt;m0&gt; &lt;g1&gt;Edit&lt;/g1&gt; &lt;g2&gt;Start Pinpoint Align&lt;/g2&gt; &lt;/m0&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T045302Z" creationid="WynnChen" creationdate="20200123T045237Z">
+        <seg>按空格键（&lt;m0&gt; &lt;g1&gt;编辑&lt;/g1&gt; &lt;g2&gt;开始精确对齐&lt;/g2&gt; &lt;/m0&gt;的快捷键）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Pressing &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;F&lt;/k3&gt; &lt;/k0&gt; displays the last already opened Search window (instead of opening a new one).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200120T033223Z" creationid="weiyi" creationdate="20180406T023750Z">
@@ -39404,6 +39926,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120215T125958Z">
         <seg>在搜索字段输入一个字符串然后点击搜索按钮，会把项目中所有包含输入字符串的片段显示出来。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pressing the search button after entering a string in the search field displays all the segments in the project that include the entered string. As &lt;a0&gt;OmegaT&lt;/a0&gt; handles identical segments as one single entity, only the first unique segment is shown. The segments are displayed in order of appearance in the project. Translated segments are displayed with the original text at the top and the translated text at the bottom, untranslated segments are displayed as the source only.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T071956Z" creationid="WynnChen" creationdate="20200123T070853Z">
+        <seg>在查找字段输入字符串后，点击查找按钮会把项目中所有包含输入字符串的片段显示出来。由于 &lt;a0&gt;OmegaT&lt;/a0&gt; 将完全相同的片段视为单一实体，因此只显示第一个独特片段。片段按在项目中出现的顺序显示。已译片段会以上面显示原文、下面显示译文的形式显示，而未译片段只显示原文。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39914,6 +40444,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Project folder</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T012601Z" creationid="WynnChen" creationdate="20200123T012601Z">
+        <seg>项目文件夹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Project is Empty</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190320T091215Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -40228,16 +40766,16 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Put the TMX in /tm/auto.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Doris" changedate="20180418T132638Z" creationid="Doris" creationdate="20180418T132638Z">
-        <seg>将TMX文件放入tm/auto/文件夹。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T024101Z" creationid="Doris" creationdate="20180418T132638Z">
+        <seg>将 TMX 文件放入 /tm/auto 中。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Put the TMX in /tm/enforce.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Doris" changedate="20180418T134023Z" creationid="Doris" creationdate="20180418T134023Z">
-        <seg>将TMX放入/tm/enforce目录</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T024736Z" creationid="Doris" creationdate="20180418T134023Z">
+        <seg>将 TMX 放入 /tm/enforce 中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40480,8 +41018,8 @@ These words: 'Page not found'</seg>
       <tuv lang="EN">
         <seg>Realign Pending</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T145657Z" creationid="wynnc" creationdate="20190324T030153Z">
-        <seg>重新对齐修正</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T045904Z" creationid="wynnc" creationdate="20190324T030153Z">
+        <seg>重新对齐剩余部分</seg>
       </tuv>
     </tu>
     <tu>
@@ -41817,6 +42355,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Right-click a button from &lt;g0&gt;&lt;1&gt;&lt;/g0&gt; to &lt;g1&gt;&lt;12&gt;&lt;/g1&gt; in the bottom panel and select &lt;g2&gt;Add Script&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T054123Z" creationid="WynnChen" creationdate="20200123T054123Z">
+        <seg>右键单击底部面板中的&lt;g0&gt;&lt;1&gt;&lt;/g0&gt;到&lt;g1&gt;&lt;12&gt;&lt;/g1&gt;按钮之一并选择&lt;g2&gt;添加脚本&lt;/g2&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Right-click in the glossary pane or press &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt; to add a new entry.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T021248Z" creationid="Fu Rhong" creationdate="20131116T120755Z">
@@ -41867,8 +42413,8 @@ These words: 'Page not found'</seg>
       <tuv lang="EN">
         <seg>Right-clicking on a filename opens a popup that allows to open the source file and (if it exists) the target file.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Doris" changedate="20180419T023016Z" creationid="Doris" creationdate="20180419T023016Z">
-        <seg>右键单击文件名将打开一个弹出窗口，允许打开源文件（如果源文件存在）和目标文件。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T052025Z" creationid="Doris" creationdate="20180419T023016Z">
+        <seg>右键单击文件名会打开一个弹出窗口，可以打开原文文件和（如果存在）译文文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42526,7 +43072,7 @@ The scope of a text replacement is the target segments of the project, whether t
 Keyword searches are not available in the search string.
 When using regular expressions, the replacement string supports references to groups defined in the search string. Use $n to refer to the nth group.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190326T162312Z" creationid="WynnChen" creationdate="20190326T162312Z">
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T065958Z" creationid="WynnChen" creationdate="20190326T162312Z">
         <seg>范围：
 默认情况下，查找范围是整个项目，但可以设置为位于指定文件夹层次结构中的所有文件。
 默认情况下，项目查找是在项目的原文、译文、参考翻译记忆库、词汇表、备注、和注释中进行的。
@@ -42543,7 +43089,7 @@ When using regular expressions, the replacement string supports references to gr
 
 文本替换：
 文本替换的范围是项目的译文片段，无论这些片段是否已经有了译文。
-在查找字符串中关键字查找不可用。
+在查找字符串时没有关键字查找模式。
 当使用正则表达式时，替换字符串支持引用查找字符串中所定义的组。用 $n 来引用第 n 个组。</seg>
       </tuv>
     </tu>
@@ -42813,10 +43359,26 @@ When using regular expressions, the replacement string supports references to gr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Search for segments containing all keywords you specified, in any order. Select keyword search to search for any number of individual full words, in any order. OmegaT displays a list of all segments containing all of the words specified. Keyword searches are similar to a search "with all of the words" in an Internet search engine such as Google (AND logic). Using keyword search with &lt;e0&gt;&lt;l1&gt;open file&lt;/l1&gt;&lt;/e0&gt; will thus find all occurrences of the string &lt;e2&gt;&lt;l3&gt;open file&lt;/l3&gt;,&lt;/e2&gt; as well as &lt;e4&gt;&lt;l5&gt;file opened&lt;/l5&gt;, &lt;l6&gt;open input file&lt;/l6&gt;, &lt;l7&gt;file may not be safe to open&lt;/l7&gt;&lt;/e4&gt;, etc.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T063958Z" creationid="WynnChen" creationdate="20200123T063352Z">
+        <seg>查找以任意顺序包含全部指定关键字的片段。选择关键字查找来以任意顺序查找任意数量的单个完整单词。OmegaT 会显示所有包含全部指定单词的片段的列表。关键字查找类似于诸如 Google 之类因特网搜索引擎的“包含全部关键字”（AND 逻辑）搜索。因此，用 &lt;e0&gt;&lt;l1&gt;open file&lt;/l1&gt;&lt;/e0&gt; 进行关键字查找会找到字符串 &lt;e2&gt;&lt;l3&gt;open file&lt;/l3&gt;&lt;/e2&gt;的所有出现之处，也会找到 &lt;e4&gt;&lt;l5&gt;file opened&lt;/l5&gt;、&lt;l6&gt;open input file&lt;/l6&gt;、&lt;l7&gt;file may not be safe to open&lt;/l7&gt;&lt;/e4&gt;等的出现之处。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Search for segments containing the exact string you specified.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120215T123504Z">
         <seg>找出包括指定字符串的片段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search for segments containing the exact string you specified. An exact search looks for a phrase, i.e. if several words are entered, they are found only if they occur in exactly that sequence. Searching for &lt;l0&gt;open file&lt;/l0&gt; will thus find all occurrences of the string &lt;e1&gt;&lt;l2&gt;open file&lt;/l2&gt;&lt;/e1&gt;, but not &lt;e3&gt;&lt;l4&gt;file opened&lt;/l4&gt;&lt;/e3&gt; or &lt;e5&gt;&lt;l6&gt;open input file&lt;/l6&gt;&lt;/e5&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T063414Z" creationid="WynnChen" creationdate="20200123T063330Z">
+        <seg>查找包含指定的确切字符串的片段。精确查找以短语方式查找，即，如果输入了多个单词，则只会在完全按此顺序出现时才会被找出来。因此，查找 &lt;l0&gt;open file&lt;/l0&gt; 会找到字符串 &lt;e1&gt;&lt;l2&gt;open file&lt;/l2&gt;&lt;/e1&gt; 的所有出现之处，但不会找到 &lt;e3&gt;&lt;l4&gt;file opened&lt;/l4&gt;&lt;/e3&gt; 或 &lt;e5&gt;&lt;l6&gt;open input file&lt;/l6&gt;&lt;/e5&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42855,8 +43417,8 @@ When using regular expressions, the replacement string supports references to gr
       <tuv lang="EN">
         <seg>Search methods and options</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131119T130045Z" creationid="Fu Rhong" creationdate="20131119T130045Z">
-        <seg>搜索方式和选项</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T062947Z" creationid="Fu Rhong" creationdate="20131119T130045Z">
+        <seg>查找方法和选项</seg>
       </tuv>
     </tu>
     <tu>
@@ -42871,8 +43433,8 @@ When using regular expressions, the replacement string supports references to gr
       <tuv lang="EN">
         <seg>Search options are similar to the ones displayed in &lt;l0&gt;Search window&lt;/l0&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="10353" changedate="20180412T100443Z" creationid="10353" creationdate="20180412T100443Z">
-        <seg>查找选项与&lt;l0&gt;查找窗口&lt;/l0&gt;相似。</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T060447Z" creationid="10353" creationdate="20180412T100443Z">
+        <seg>查找选项与显示在&lt;l0&gt;查找窗口&lt;/l0&gt;中的那些类似。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42887,8 +43449,8 @@ When using regular expressions, the replacement string supports references to gr
       <tuv lang="EN">
         <seg>Search results display</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
-        <seg>搜索结果展示</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T070910Z">
+        <seg>查找结果显示</seg>
       </tuv>
     </tu>
     <tu>
@@ -43789,6 +44351,14 @@ When using regular expressions, the replacement string supports references to gr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select the first segment.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T045157Z" creationid="WynnChen" creationdate="20200123T045157Z">
+        <seg>选择第一个片段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select the location of the language checker.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190901T154443Z" creationid="WynnChen" creationdate="20190901T154443Z">
@@ -43801,6 +44371,14 @@ When using regular expressions, the replacement string supports references to gr
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120215T123518Z">
         <seg>使用单选按钮选择搜索方法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select the method using the radio buttons. The following search methods are available:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T063015Z" creationid="WynnChen" creationdate="20200123T062946Z">
+        <seg>用单选按钮选择方法。有以下查找方法：</seg>
       </tuv>
     </tu>
     <tu>
@@ -44999,6 +45577,14 @@ of the GPL, as needed to protect the freedom of users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Sometimes, it is useful to distinguish between high-quality translation memories and those that are, because of the subject matter, client, revision status, etc., less reliable. For translation memories in folders with a name &lt;f0&gt;penalty-xxx&lt;/f0&gt; (with xxx between 0 and 100), matches will be degraded according to the name of the folder: a 100% match in any of TMs, residing in a folder called &lt;f1&gt;penalty-30&lt;/f1&gt; for instance, will be lowered to a 70% match. The penalty applies to all three match percentages: matches 75, 80, 90 will in this case be lowered to 45, 50, 60.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T031620Z" creationid="WynnChen" creationdate="20200123T031620Z">
+        <seg>有时，将由于题材、客户、修订状态等原因而不太可靠的翻译记忆库与高质量的翻译记忆库区分开来会很有用。对于放在名为 &lt;f0&gt;penalty-xxx&lt;/f0&gt;（xxx 在 0 到 100之间）的文件夹中的翻译记忆库，匹配度将根据文件夹的名称而降低：位于名为（例如）&lt;f1&gt;penalty-30&lt;/f1&gt;的文件夹中的任意翻译记忆库内匹配度为 100% 的匹配项其匹配度会降到 70%。三种匹配度百分比都会施加罚分：匹配度 75、80、90 在这个案例中会降为 45、50、60。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Sorry</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T121713Z" creationid="xulihang" creationdate="20180408T121713Z">
@@ -45697,6 +46283,14 @@ of the GPL, as needed to protect the freedom of users.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Step 1: Adjust the alignment parameters</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T042523Z" creationid="WynnChen" creationdate="20200123T042523Z">
+        <seg>第1步：调整对齐参数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Step 1: Create an empty project on a server</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T084930Z" creationid="wynnc" creationdate="20190902T084930Z">
@@ -45732,8 +46326,8 @@ of the GPL, as needed to protect the freedom of users.</seg>
       <tuv lang="EN">
         <seg>Step 2: Make manual corrections</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190324T030634Z" creationid="wynnc" creationdate="20190324T030634Z">
-        <seg>第2步：进行手动更正</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T045055Z" creationid="wynnc" creationdate="20190324T030634Z">
+        <seg>第2步：进行手工修正</seg>
       </tuv>
     </tu>
     <tu>
@@ -47496,6 +48090,14 @@ form of a work.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The /tm/ folder can contain any number of ancillary translation memories - i.e. tmx files. Such files can be created in any of the three varieties indicated above. Note that other CAT tools can export (and import as well) tmx files, usually in all three forms. The best thing of course is to use OmegaT-specific TMX files (see above), so that the in-line formatting within the segment is retained.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T022559Z" creationid="WynnChen" creationdate="20200123T022559Z">
+        <seg>/tm/ 文件夹可以包含任意数量的辅助翻译记忆库——即 tmx 文件。此类文件可以使用前文所述三种变体格式任意其一。注意其他 CAT 工具可以输出（也能输入）tmx 文件，通常还能支持全部三种格式。当然，最好是使用 OmegaT 专用的 TMX 文件（见前文），这样能够保留片段中的内联格式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The /trunk (alpha) version reflects the very latest state of development.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Wyndy" changedate="20180418T033339Z" creationid="Wyndy" creationdate="20180418T033339Z">
@@ -47576,6 +48178,14 @@ form of a work.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;e0&gt;omegat&lt;/e0&gt; subfolder contains at least one and possibly several other files. The most important file here is the &lt;f1&gt;project_save.tmx, &lt;/f1&gt;that is the working translation memory for the project. Backups of this file (with extension bak) are added progressively to this subfolder, first at the beginning of the translation session, at its end, and while the translation progresses.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T032816Z" creationid="WynnChen" creationdate="20200123T032816Z">
+        <seg>&lt;e0&gt;omegat&lt;/e0&gt; 子文件夹内至少会包含一个文件，可能还有若干其他文件。这里面最重要的文件是 &lt;f1&gt;project_save.tmx&lt;/f1&gt;，他是项目的有效翻译记忆库。随着翻译进程，在每次翻译会话开始和结束时，此子文件夹中会逐步添加此文件的备份（扩展名为 bak）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f0&gt;project_stats.txt&lt;/f0&gt; located in the omegat folder of your project contains more detailed segment information, broken down by file.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120219T124019Z">
@@ -47613,6 +48223,14 @@ form of a work.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Andrew" changedate="20180414T132702Z" creationid="weiyi" creationdate="20180406T072631Z">
         <seg>&lt;g0&gt;展示TBX术语表文本描述&lt;/g0&gt; 选项可在术语表窗口展示或隐藏术语文本信息（来自TBX术语表中的&lt;f1&gt;glossary&lt;/f1&gt; 文件夹）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;g0&gt;Viterbi&lt;/g0&gt; and &lt;g1&gt;Forward-Backward&lt;/g1&gt; algorithms are two different calculation methods. Choose the one that provides the best results.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T044500Z" creationid="WynnChen" creationdate="20200123T044500Z">
+        <seg>&lt;g0&gt;维特比（Viterbi）&lt;/g0&gt;和&lt;g1&gt;前向-后向（Forward-Backward）&lt;/g1&gt;算法是两种不同的计算方法。选择能提供最佳结果的那一个。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48165,6 +48783,22 @@ software and other kinds of works.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T140105Z" creationid="WynnChen" creationdate="20190405T140105Z">
         <seg>在脚本窗口中，可以将已存在的脚本加载到文本区中并对当前打开的项目运行此脚本。要定制脚本功能，请执行以下操作：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Scripting window allows you to load an existing script into the text area and run it against the current opened project. To customize the scripting feature, do the following:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T053926Z" creationid="WynnChen" creationdate="20200123T053926Z">
+        <seg>脚本窗口让您可以将现有脚本加载到文本区中并针对当前打开的项目运行它。要自定义脚本功能，请执行以下操作：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Search window has its own menus:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T061821Z" creationid="WynnChen" creationdate="20200123T061821Z">
+        <seg>查找窗口有它自己的菜单：</seg>
       </tuv>
     </tu>
     <tu>
@@ -48828,6 +49462,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The contents of translation memories in the tm subfolder serve to generate suggestions for the text(s) to be translated. Any text, already translated and stored in those files, will appear among the fuzzy matches, if it is sufficiently similar to the text currently being translated.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T022831Z" creationid="WynnChen" creationdate="20200123T022831Z">
+        <seg>tm 子文件夹中的翻译记忆库的内容用于为待翻译的文本生成建议。任何已翻译并存储在这些文件中的文本只要与当前正在翻译的文本足够相似就会出现在模糊匹配中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The control character corresponding to x</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190522T051746Z">
@@ -48985,6 +49627,22 @@ instead.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T033349Z">
         <seg>通过“片段数”和“唯一片段数”的差异可粗略估算出文本中有多少重复内容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The difference between "Number of segments" and "Number of unique segments" provides an approximate idea of the number of repetitions in the text. Note however that the numbers do not indicate how relevant the repetitions are: they could mean relatively long sentences repeated a number of times (in which case you are fortunate) or it could describe a table of keywords (not so fortunate). The &lt;f0&gt;project_stats.txt&lt;/f0&gt; located in the omegat folder of your project contains more detailed segment information, broken down by file.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T053027Z" creationid="WynnChen" creationdate="20200123T052355Z">
+        <seg>“片段数”和“独特片段数”之间的差距对文本中的重复情况提供了大致的概念。但是要注意，这些数字上并不能看出重复的相关程度：它们可能意味着有较长的句子重复了很多次（这种情况下你很走运）或者也可能是关键字表格（不太走运）。位于项目的 omegat 文件夹中的 &lt;f0&gt;project_stats.txt&lt;/f0&gt; 内包含有更详细的片段信息，按文件细分。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The difference is thin: we call "Window" a window that can stay open next to the editor and interact with it, and "dialog" a window where you must select parameters before closing it and pursuing your translation activity.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T041048Z" creationid="WynnChen" creationdate="20200123T041048Z">
+        <seg>区别很小：我们将可以维持开启放在编辑器旁边并与之交互的窗口称为“窗口”，而将必须选择参数然后关闭之并刷新翻译活动的窗口称为“对话框”。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50057,6 +50715,14 @@ your programs, too.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The matches will be displayed in bold blue. Note that '*' and '?' have special meaning in regular expressions, so wild card search, as described here, applies to exact and keyword search only (see below).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T062930Z" creationid="WynnChen" creationdate="20200123T062905Z">
+        <seg>匹配部分将以蓝色粗体显示。注意“*”和“?”在正则表达式中有特殊含义，因此此处所述的通配符查找仅适用于精确查找和关键字查找（见下文）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The matching percentage is roughly equivalent to taking the number of common words in the matched and the matching segment and dividing by the number of words in the longer of the two.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120218T125335Z">
@@ -50964,6 +51630,14 @@ protocols for communication across the network.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The search string will be treated as a regular expression. The search string - [a-zA-Z]+[öäüqwß] - in the example above for instance looks for words in the target segment, containing questionable characters from German keyboard. &lt;l0&gt;Regular expressions&lt;/l0&gt; are a powerful way to look for instances of a string.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T064326Z" creationid="WynnChen" creationdate="20200123T064326Z">
+        <seg>查找字符串将被视为正则表达式。例如，在上面的例子中，查找字符串——[a-zA-Z]+[öäüqwß]——会在译文片段中查找包含疑似来自德语键盘的字符的单词。&lt;l0&gt;正则表达式&lt;/l0&gt;是一种强大的查找字符串实例的方法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The search term &lt;l0&gt;'run*'&lt;/l0&gt; for example would match words &lt;l1&gt;'run'&lt;/l1&gt;, &lt;l2&gt;'runs'&lt;/l2&gt; and &lt;l3&gt;'running'&lt;/l3&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131119T125619Z" creationid="Fu Rhong" creationdate="20131119T125532Z">
@@ -51124,6 +51798,14 @@ protocols for communication across the network.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The set of &lt;e0&gt;Unique &lt;/e0&gt;segments is computed by taking all the segments and removing all duplicate segments. (The definition of “unique” is case-sensitive: "Run" and "run" are treated as being different)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T052343Z" creationid="WynnChen" creationdate="20200123T052343Z">
+        <seg>&lt;e0&gt;独特&lt;/e0&gt;片段集合是通过将所有片段去除重复片段计算得到的。（“独特”的定义是区分大小写的：“Run"”和“run”视为不同）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The settings in your project indicate which is the source and which the target language.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120218T060913Z">
@@ -51248,6 +51930,14 @@ protocols for communication across the network.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131114T133930Z" creationid="Fu Rhong" creationdate="20131114T133930Z">
         <seg>source子文件夹包含待译文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The source subfolder contains files to be translated. You can add the files to it later. Note that the structure of the source subfolder may take any form you like. If the files to be translated are parts of a tree structure (as in a website), you need only specify the top-level subfolder and OmegaT will maintain the entire contents, while keeping the tree structure intact.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T013810Z" creationid="WynnChen" creationdate="20200123T013810Z">
+        <seg>source 子文件夹包含要翻译的文件。之后您可以将文件添加到其中。注意：source 子文件夹的结构可以随您喜好采用任何形式。如果要翻译的文件是树形结构的一部分（比如像网站中），你只需要指定顶级子文件夹，OmegaT 将维护整个内容同时维持树形结构不变。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51967,8 +52657,8 @@ protocols for communication across the network.</seg>
       <tuv lang="EN">
         <seg>Then click on &lt;e0&gt;Search&lt;/e0&gt; button to display all the corresponding occurrences.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="10353" changedate="20180412T085957Z" creationid="10353" creationdate="20180412T085957Z">
-        <seg>然后点击 &lt;e0&gt;查找&lt;/e0&gt; 按钮以显示所有相关内容.</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T055817Z" creationid="10353" creationdate="20180412T085957Z">
+        <seg>然后点击&lt;e0&gt;查找&lt;/e0&gt;按钮来显示所有相应的出现之处。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53095,6 +53785,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This document is the official user's guide to OmegaT, the free Computer Aided Translation tool. It also contains installation instructions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T042221Z" creationid="WynnChen" creationdate="20200123T042221Z">
+        <seg>本文档是免费的计算机辅助翻译工具 OmegaT 的官方用户指南。其中还包括安装说明。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This documentation is intended both as a tutorial and as a reference guide.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Yujun Yin" changedate="20131007T080322Z" creationid="Yujun Yin" creationdate="20131007T080322Z">
@@ -53211,6 +53909,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131114T075526Z" creationid="Fu Rhong" creationdate="20131114T075503Z">
         <seg>该文件夹初始为空的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This folder is initially empty. It will contain glossaries you will be using in the project. See &lt;l0&gt;Glossaries&lt;/l0&gt; for more on this subject.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T031859Z" creationid="WynnChen" creationdate="20200123T031859Z">
+        <seg>此文件夹一开始是空的。它将包含你在项目中使用的词汇表。关于此主题的更多信息，请参阅&lt;l0&gt;词汇表&lt;/l0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54059,6 +54765,14 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This subfolder is initially empty. To add contents to it, select &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;D&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g5&gt;Project&lt;/g5&gt; &lt;g6&gt;Create Translated Documents&lt;/g6&gt; &lt;/m0&gt;. Files within the &lt;f7&gt;source&lt;/f7&gt; folder, whether translated or not, are then generated here, with the same hierarchy as present in the source subfolder. The contents of the target subfolder will reflect the current state of the translation, as present in the project translation memory, saved in the current &lt;e8&gt;/omegat/project_save.tmx&lt;/e8&gt;. Untranslated segments will hereby remain in the source language.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T014822Z" creationid="WynnChen" creationdate="20200123T014155Z">
+        <seg>该子文件夹一开始是空的。要向其中添加内容，请选择&lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;D&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g5&gt;项目&lt;/g5&gt; &lt;g6&gt;创建译文文档&lt;/g6&gt; &lt;/m0&gt;。位于 &lt;f7&gt;source&lt;/f7&gt; 文件夹下的文件，无论是否已翻译，都会在此处生成，维持着与 source 子文件夹中相同的层次结构。target 子文件夹的内容将反映当前的翻译状况，正如保存在 当前 &lt;e8&gt;/omegat/project_save.tmx&lt;/e8&gt; 中的项目翻译记忆库所体现的那样。因此，未译片段会维持原文语言。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This tag apparently cannot be removed.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Mac Pro" changedate="20180425T094441Z" creationid="Mac Pro" creationdate="20180425T094441Z">
@@ -54227,6 +54941,22 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This window is accessible by selecting &lt;m0&gt; &lt;g1&gt;Tools&lt;/g1&gt; &lt;g2&gt;Scripting...&lt;/g2&gt; &lt;/m0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T053658Z" creationid="WynnChen" creationdate="20200123T053658Z">
+        <seg>此窗口可通过选择&lt;m0&gt; &lt;g1&gt;工具&lt;/g1&gt; &lt;g2&gt;脚本...&lt;/g2&gt; &lt;/m0&gt;来进入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This window is displayed automatically when OmegaT loads a project, and at any time by pressing &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Project Files...&lt;/g2&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T050524Z" creationid="WynnChen" creationdate="20200123T050524Z">
+        <seg>当 OmegaT 载入项目时会自动显示此窗口，在任何时候，按下&lt;m0&gt; &lt;g1&gt;项目&lt;/g1&gt; &lt;g2&gt;项目文件...&lt;/g2&gt; &lt;/m0&gt;也会显示此窗口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This, however, should generally be avoided once you have started translating the project.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120219T124136Z">
@@ -54375,6 +55105,14 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To access this window, select &lt;m0&gt; &lt;g1&gt;Tools&lt;/g1&gt; &lt;g2&gt;Align Files...&lt;/g2&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T042516Z" creationid="WynnChen" creationdate="20200123T042516Z">
+        <seg>要访问此窗口，请选择&lt;m0&gt; &lt;g1&gt;工具&lt;/g1&gt; &lt;g2&gt;对齐文件...&lt;/g2&gt; &lt;/m0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To activate any of the Machine Translation services, go to &lt;g0&gt;Options &gt; Machine Translate ...&lt;/g0&gt; and activate the service desired.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z">
@@ -54419,6 +55157,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180414T110205Z" creationid="lenovo" creationdate="20180414T110205Z">
         <seg>在Chrome中添加自动刷新功能，请到应用商店&lt;a2&gt;下载并安装自动刷新扩展功能&lt;/a2&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To align two segments on the same line:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T045636Z" creationid="WynnChen" creationdate="20200123T045108Z">
+        <seg>要将两个片段对齐到同一行上：</seg>
       </tuv>
     </tu>
     <tu>
@@ -54927,6 +55673,14 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To make it possible (although Search and replace operates only on memory), OmegaT will copy the source segment to the target segment before the replace operation occurs. If no replacement is done to a given segment, the target segment will be “emptied”, i.e., it will remain untranslated.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T061045Z" creationid="WynnChen" creationdate="20200123T061045Z">
+        <seg>为了使其成为可能（查找与替换只对翻译记忆库进行操作），OmegaT 会在进行替换操作之前将原文片段复制到译文片段。如果对于给定片段没有发生替换，译文片段会被“清空”，即，它会维持未译状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To make launching OmegaT even more user-friendly, add it to your application launch menu, or place a launch icon for it on your desktop or in your desktop panel.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180420T062204Z" creationid="lenovo" creationdate="20180415T053122Z">
@@ -54964,6 +55718,14 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120223T154056Z">
         <seg>要修改这些选项，请从列表中选中该过滤器，并点击 &lt;e0&gt;选项【Options】&lt;/e0&gt;按钮。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To modify the position of one or more segments individually, select the segment(s) and press &lt;u0&gt;U&lt;/u0&gt; (&lt;g1&gt;Move Up&lt;/g1&gt;) or &lt;u2&gt;D&lt;/u2&gt; (&lt;g3&gt;Move Down&lt;/g3&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T050057Z" creationid="WynnChen" creationdate="20200123T050005Z">
+        <seg>要分别修改一个或多个片段的位置，请选择片段后按下 &lt;u0&gt;U&lt;/u0&gt;（&lt;g1&gt;上移&lt;/g1&gt;）或&lt;u2&gt;D&lt;/u2&gt;（&lt;g3&gt;下移&lt;/g3&gt;）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -55034,6 +55796,14 @@ you modify it: responsibilities to respect the freedom of others.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200120T020759Z" creationid="WynnChen" creationdate="20200120T014813Z">
         <seg>要让自己回想起项目的初始设置，请 &lt;k0&gt;Ctrl+E&lt;/k0&gt; 打开项目属性对话框。要查看项目中的文件清单，请按 &lt;k2&gt;Ctrl+L&lt;/k2&gt; 打开&lt;g1&gt;项目文件&lt;/g1&gt;对话框。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To remove a filter, press the &lt;e0&gt;Remove filter&lt;/e0&gt; button, or reload a project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T073939Z" creationid="WynnChen" creationdate="20200123T073854Z">
+        <seg>要删除过滤器，请按&lt;e0&gt;删除过滤器&lt;/e0&gt;按钮，或重新载入项目。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56029,6 +56799,14 @@ install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Translation units are located in cells in the two last columns.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T045131Z" creationid="WynnChen" creationdate="20200123T045106Z">
+        <seg>翻译单元位于最后两列的单元格中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Translation:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190323T105827Z" creationid="wynnc" creationdate="20190323T105827Z">
@@ -56203,6 +56981,14 @@ Exact searches match the whole search string.</seg>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190322T024148Z" creationid="wynnc" creationdate="20190322T023916Z">
         <seg>类型：
 精确查找完全匹配整个查找字符串。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Typing any text will open a &lt;g0&gt;Filter&lt;/g0&gt; field where parts of filenames can be entered. You can select a file with &lt;k1&gt;Up&lt;/k1&gt; and &lt;k2&gt;Down&lt;/k2&gt; keys, and open it for translation by pressing &lt;k3&gt;Enter&lt;/k3&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T051745Z" creationid="WynnChen" creationdate="20200123T051745Z">
+        <seg>输入任何文本都会打开&lt;g0&gt;过滤器&lt;/g0&gt;字段，其中可以输入文件名片段。可以用&lt;k1&gt;上&lt;/k1&gt;和&lt;k2&gt;下&lt;/k2&gt;方向键来选择文件，并按 &lt;k3&gt;Enter&lt;/k3&gt; 键将其打开进行翻译。</seg>
       </tuv>
     </tu>
     <tu>
@@ -57277,10 +58063,26 @@ Commands:
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use &lt;g0&gt;Ctrl+L&lt;/g0&gt; to open and &lt;k1&gt;Esc&lt;/k1&gt; to close it. The &lt;g2&gt;Project Files&lt;/g2&gt; Window displays the following information:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T050949Z" creationid="WynnChen" creationdate="20200123T050949Z">
+        <seg>用 &lt;g0&gt;Ctrl+L&lt;/g0&gt; 将其打开，用 &lt;k1&gt;Esc&lt;/k1&gt; 将其关闭。&lt;g2&gt;项目文件&lt;/g2&gt;窗口显示以下信息：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use &lt;g0&gt;Ctrl+L&lt;i1/&gt;&lt;/g0&gt; to open and &lt;k2&gt;Esc&lt;/k2&gt; to close it.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120219T120546Z">
         <seg>使用 &lt;g0&gt;Ctrl+L&lt;i1/&gt;&lt;/g0&gt; 打开，使用 &lt;k2&gt;Esc&lt;/k2&gt; 关闭。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use &lt;g0&gt;ID comparison&lt;/g0&gt; mode to align Key=Value texts. This works even if the keys are not in the same order in the two files, and/or if the two files do not contain the same amount of information. This option only appears if both the selected files are recognised as Key=Value files.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T044359Z" creationid="WynnChen" creationdate="20200123T043215Z">
+        <seg>用 &lt;g0&gt;ID 比较&lt;/g0&gt;模式来对齐 键=值 文本。即使两个文件中键的顺序不同或两个文件包含的信息数量不等，这种方式也有效。仅当两个文件都被识别为 键=值 文件时才会出现此选项。</seg>
       </tuv>
     </tu>
     <tu>
@@ -58505,8 +59307,8 @@ searchable without subscription:</seg>
       <tuv lang="EN">
         <seg>Viterbi</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="wynnc" changedate="20190324T032358Z" creationid="wynnc" creationdate="20190324T032358Z">
-        <seg>Viterbi</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T043955Z" creationid="wynnc" creationdate="20190324T032358Z">
+        <seg>维特比（Viterbi）</seg>
       </tuv>
     </tu>
     <tu>
@@ -58998,6 +59800,14 @@ of selecting, obtaining and installing it.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>When the two columns are sufficiently aligned, click &lt;g0&gt;Save TMX...&lt;/g0&gt; to create the resulting translation memory.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T050343Z" creationid="WynnChen" creationdate="20200123T050326Z">
+        <seg>两列充分对齐后，点击&lt;g0&gt;保存 TMX...&lt;/g0&gt;来创建生成的翻译记忆库。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>When the user exits &lt;a0&gt;OmegaT&lt;/a0&gt;, this file is not emptied, in order to be consistent with usual clipboard behavior.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120209T133044Z">
@@ -59260,6 +60070,14 @@ technological measures.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190405T140808Z" creationid="WynnChen" creationdate="20190405T140718Z">
         <seg>当您左键点击数字时，将运行所选脚本。您还可以在主菜单中点击 &lt;g0&gt;工具&lt;/g0&gt; 菜单下的脚本条目或按 &lt;k1&gt;Ctrl+Alt+F#&lt;/k1&gt;（#表示1到12）组合键来运行所选的宏。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When you left-click the number, the selected script will run. You can also start the selected macros from the main menu by using their entries in the &lt;g0&gt;Tools &lt;/g0&gt;menu or by pressing&lt;k1&gt; Ctrl+Alt+F#&lt;/k1&gt; (# 1 to 12).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T054313Z" creationid="WynnChen" creationdate="20200123T054313Z">
+        <seg>当左键点击此数字时，将运行所选脚本。也可以用主菜单中&lt;g0&gt;工具&lt;/g0&gt;菜单下的条目或按&lt;k1&gt; Ctrl+Alt+F#&lt;/k1&gt;(# 为 1 到 12）来启动所选的宏。</seg>
       </tuv>
     </tu>
     <tu>
@@ -59603,6 +60421,14 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Puzzlist" changedate="20130922T041416Z" creationid="Puzzlist" creationdate="20130922T041416Z">
         <seg>Windows 和 Linux 用户: 如果确信系统已经安装了合适的 JRE 版本，你可以安装不带 JRE 的 OmegaT 版本版本名称中标明为 without_JRE。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Windows and dialogs</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T040700Z" creationid="WynnChen" creationdate="20200123T040700Z">
+        <seg>窗口与对话框</seg>
       </tuv>
     </tu>
     <tu>
@@ -60867,6 +61693,14 @@ linux-install.sh 脚本的文件夹，然后用 ./linux-install.sh 执行脚本�
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can make changes to remote files (e.g. deleting a file) using this folder and a Git or SVN client.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T033519Z" creationid="WynnChen" creationdate="20200123T033430Z">
+        <seg>你可以用此文件夹和 Git 或 SVN 客户端对远程文件进行更改（例如，删除某个文件）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can modify OmegaT's behaviour by editing the &lt;e0&gt;Properties&lt;/e0&gt; as well as the &lt;e1&gt;Configuration.properties&lt;/e1&gt; file in the package.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="17012" changedate="20180405T103038Z" creationid="17012" creationdate="20180405T102711Z">
@@ -61343,6 +62177,14 @@ the Spotlight search field.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131121T121356Z" creationid="Fu Rhong" creationdate="20131121T121356Z">
         <seg>可以同时打开多个搜索窗口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You may have several Search windows open at the same time. You can quickly see their contents by looking at their title: it will contain the search term used.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T072754Z" creationid="WynnChen" creationdate="20200123T072754Z">
+        <seg>你可能会同时打开多个查找窗口。可以通过查看其标题来快速确认其内容：标题中会包含所使用的查找词。</seg>
       </tuv>
     </tu>
     <tu>
@@ -62415,6 +63257,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>are created and used by the spell checker. If you already have collected words you wish the spell checker to ignore / accept, you just need to copy the corresponding two files into the &lt;f0&gt;omegat&lt;/f0&gt;subfolder of your current project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T033106Z" creationid="WynnChen" creationdate="20200123T033106Z">
+        <seg>由拼写检查器创建和使用。如果您已经有了希望拼写检查其忽略/接受的单词集，只需将相应的两个文件复制到当前项目的 &lt;f0&gt;omegat&lt;/f0&gt; 子文件夹中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>arg</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131107T142616Z" creationid="Fu Rhong" creationdate="20131107T142616Z">
@@ -63070,10 +63920,18 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>contains the current statistics of the current project. You can view it by selecting &lt;g0&gt;Tools &gt; Statistics&lt;/g0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T032939Z" creationid="WynnChen" creationdate="20200123T032939Z">
+        <seg>包含当前项目的当前统计数据。您可以选择&lt;g0&gt;工具 &gt; 统计数据&lt;/g0&gt;来查看它。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>contains the latest project match statistics, generated by &lt;g0&gt;Tools &gt; Match Statistics&lt;/g0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131114T133154Z" creationid="Fu Rhong" creationdate="20131114T133154Z">
-        <seg>由&lt;g0&gt;工具&gt;匹配统计&lt;/g0&gt;创建的最新项目匹配信息</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T033142Z" creationid="Fu Rhong" creationdate="20131114T133154Z">
+        <seg>包含最新的项目匹配统计数据，由&lt;g0&gt;工具&gt;匹配统计数据&lt;/g0&gt;创建</seg>
       </tuv>
     </tu>
     <tu>
@@ -63328,6 +64186,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131107T145753Z" creationid="Fu Rhong" creationdate="20131107T145753Z">
         <seg>deu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>dictionary</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T031647Z" creationid="WynnChen" creationdate="20200123T031647Z">
+        <seg>dictionary</seg>
       </tuv>
     </tu>
     <tu>
@@ -63710,8 +64576,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>en</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120211T140808Z">
-        <seg>en</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T042319Z">
+        <seg>zh_CN</seg>
       </tuv>
     </tu>
     <tu>
@@ -63798,8 +64664,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>exact search</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
-        <seg>精确搜索</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T063023Z">
+        <seg>精确查找</seg>
       </tuv>
     </tu>
     <tu>
@@ -64130,6 +64996,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131107T145714Z" creationid="Fu Rhong" creationdate="20131107T145714Z">
         <seg>glg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>glossary</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T031748Z" creationid="WynnChen" creationdate="20200123T031748Z">
+        <seg>glossary</seg>
       </tuv>
     </tu>
     <tu>
@@ -65150,6 +66024,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>if existing, it contains project-specific GUI settings.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T033242Z" creationid="WynnChen" creationdate="20200123T033242Z">
+        <seg>如果存在，则包含项目专用的图形界面设置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>if existing, it contains project-specific file filters, if requested in &lt;g0&gt;Project &gt; Properties ... &lt;/g0&gt;See &lt;l1&gt;Chapter Project properties&lt;/l1&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z" creationid="Fu Rhong" creationdate="20131114T133813Z">
@@ -65158,10 +66040,26 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>if existing, it contains project-specific file filters.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T033218Z" creationid="WynnChen" creationdate="20200123T033218Z">
+        <seg>如果存在，则包含项目专用的文件过滤器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>if existing, it contains project-specific segmentation rules, if requested in &lt;g0&gt;Project &gt; Properties ... &lt;/g0&gt;See &lt;l1&gt;Chapter Project properties&lt;/l1&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="xulihang" changedate="20180408T105614Z" creationid="Fu Rhong" creationdate="20131114T133706Z">
         <seg>若存在，则它包含&lt;g0&gt;项目&gt;属性...&lt;/g0&gt;需要的项目专用分割规则。请参阅&lt;l1&gt;项目属性章节&lt;/l1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>if existing, it contains project-specific segmentation rules.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T033206Z" creationid="WynnChen" creationdate="20200123T033206Z">
+        <seg>如果存在，则包含项目专用的片段分割规则。</seg>
       </tuv>
     </tu>
     <tu>
@@ -65706,8 +66604,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>keyword search</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131119T130153Z">
-        <seg>关键字搜索</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T063028Z">
+        <seg>关键字查找</seg>
       </tuv>
     </tu>
     <tu>
@@ -66805,6 +67703,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120202T063559Z">
         <seg>omegat.prefs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>omegat.project (file)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T033248Z" creationid="WynnChen" creationdate="20200123T033248Z">
+        <seg>omegat.project（文件）</seg>
       </tuv>
     </tu>
     <tu>
@@ -68003,6 +68909,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>source</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T012640Z" creationid="WynnChen" creationdate="20200123T012640Z">
+        <seg>source</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>source = currSegment.getSrcText();</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131109T023404Z" creationid="Fu Rhong" creationdate="20131109T023404Z">
@@ -68219,6 +69133,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>target</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T013810Z" creationid="WynnChen" creationdate="20200123T013810Z">
+        <seg>target</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>target = project.getTranslationInfo(currSegment).translation;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131109T023405Z" creationid="Fu Rhong" creationdate="20131109T023405Z">
@@ -68355,6 +69277,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>the list of all translatable files in the project. Clicking on any file will open it for translation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T051517Z" creationid="WynnChen" creationdate="20200123T051517Z">
+        <seg>项目中所有可翻译文件的列表。点击任何一个文件将打开它进行翻译。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>the name of the target file (in /target in your OmegaT project);</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T104322Z" creationid="lenovo" creationdate="20180416T104322Z">
@@ -68381,8 +69311,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="EN">
         <seg>the total number of segments, the number of unique segments in the whole project, and the number of unique segments already translated are shown at the bottom</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="xulihang" changedate="20180404T033349Z">
-        <seg>整个项目的片段总数、唯一片段数和已译唯一片段数显示在底部</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T052414Z">
+        <seg>整个项目的片段总数、总独特片段数和已译独特片段数显示在底部</seg>
       </tuv>
     </tu>
     <tu>
@@ -68391,6 +69321,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="ZH-CN" changeid="Doris" changedate="20180419T022004Z" creationid="Doris" creationdate="20180419T022004Z">
         <seg>项目中可翻译文件总数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>the total number of translatable files in the project. These are the files present in the /source folder in a format that OmegaT is able to recognize. This number is displayed in brackets, next to the "Project file" title</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T051424Z" creationid="WynnChen" creationdate="20200123T051424Z">
+        <seg>项目中可翻译文件的总数。这些文件位于 /source 文件夹中且 OmegaT 要能识别其格式。此数字显示在“项目文件”标题旁边的括号内。</seg>
       </tuv>
     </tu>
     <tu>
@@ -68443,10 +69381,34 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>tm</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T014825Z" creationid="WynnChen" creationdate="20200123T014825Z">
+        <seg>tm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>tm/auto</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T023846Z" creationid="WynnChen" creationdate="20200123T023846Z">
+        <seg>tm/auto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>tm/auto folder</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Doris" changedate="20180418T133540Z">
         <seg>tm/auto  目录</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>tm/enforce</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T024610Z" creationid="WynnChen" creationdate="20200123T024610Z">
+        <seg>tm/enforce</seg>
       </tuv>
     </tu>
     <tu>
@@ -68459,10 +69421,26 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>tm/mt</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T025429Z" creationid="WynnChen" creationdate="20200123T025429Z">
+        <seg>tm/mt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>tm/mt folder</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Doris" changedate="20180418T141001Z" creationid="Doris" creationdate="20180418T141001Z">
         <seg>tm/mt 目录</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>tm/penalty-xxx</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200123T030439Z" creationid="WynnChen" creationdate="20200123T030439Z">
+        <seg>tm/penalty-xxx</seg>
       </tuv>
     </tu>
     <tu>
