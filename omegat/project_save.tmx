@@ -35276,8 +35276,8 @@ Thus, for example, rules for Canadian French (FR-CA) should be higher than rules
       <tuv lang="EN">
         <seg>Note: the segment marker displays &lt;l0&gt;&lt;segment nnnn +yy more&gt; when the segment is non-unique. In that case, yy is the number of other occurrences of the segment in the project.&lt;/l0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200122T065935Z" creationid="WynnChen" creationdate="20200122T065842Z">
-        <seg>注意：片段非独特时片段标记会显示 &lt;l0&gt;&lt;片段 nnnn +yy 条&gt;。在这种情况下，yy 是此片段在项目中其余地方出现的次数。&lt;/l0&gt;</seg>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200222T122055Z" creationid="WynnChen" creationdate="20200122T065842Z">
+        <seg>注意：片段非独特时片段标记会显示 &lt;l0&gt;&lt;片段 nnnn + yy 条&gt;。在这种情况下，yy 是此片段在项目中其余地方出现的次数。&lt;/l0&gt;</seg>
       </tuv>
     </tu>
     <tu>
