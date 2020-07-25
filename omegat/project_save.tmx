@@ -10321,6 +10321,14 @@ included in conveying the object code work.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Add patterns using wildcards (Apache Ant style): *, ?, **. Separate different patterns with a semicolon.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200725T152946Z" creationid="WynnChen" creationdate="20200725T152946Z">
+        <seg>用通配符（*、?、**，Apache Ant 风格）来添加模式。不同模式之间用分号分隔。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Add terms to a glossary whilst translating in OmegaT</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200117T031828Z" creationid="chloechao" creationdate="20180412T075742Z">
@@ -13769,6 +13777,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="lenovo" changedate="20180416T115357Z" creationid="lenovo" creationdate="20180416T115357Z">
         <seg>默认情况下，OmegaT使用自动匹配传播。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>By default, all files that are not excluded are included. You only need to specify this to override some exclusions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200725T153901Z" creationid="WynnChen" creationdate="20200725T153901Z">
+        <seg>默认情况下，所有未被排除的文件都会被包含。所以只在要否决某些排除项的时候才需要指定本项内容。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20819,6 +20835,14 @@ No one hears your screams</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Example: &lt;u0&gt;**/*.docx&lt;/u0&gt; to add all .docx files, wherever they are located in the project, even in excluded folders</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200725T153519Z" creationid="WynnChen" creationdate="20200725T153519Z">
+        <seg>例如：&lt;u0&gt;**/*.docx&lt;/u0&gt; 会添加所有 .docx 文件，无论它们位于项目中何处，哪怕是在排除文件夹中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Example: &lt;u0&gt;**/*.docx&lt;/u0&gt; to add all .docx files, wherever they are located in the project.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T095501Z" creationid="wynnc" creationdate="20190902T095501Z">
@@ -20831,6 +20855,14 @@ No one hears your screams</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="wynnc" changedate="20190902T095426Z" creationid="wynnc" creationdate="20190902T095426Z">
         <seg>例如：&lt;u0&gt;**/.ini/**&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Example: &lt;u0&gt;**/excludedfolder/**;*.txt&lt;/u0&gt; excludes files that have /excludedfolder/ in the path, and files with .txt extension.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200725T153419Z" creationid="WynnChen" creationdate="20200725T153419Z">
+        <seg>例：&lt;u0&gt;**/excludedfolder/**;*.txt&lt;/u0&gt; 会排除路径中包含有 /excludedfolder/ 的文件，以及扩展名为 .txt 的文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28432,6 +28464,14 @@ patent against the party.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In this mode, OmegaT will align files found in the &lt;f0&gt;/source/&lt;/f0&gt; folder of the project with the contents found at the specified location. The resulting TMX is stored in the &lt;f1&gt;/omegat/&lt;/f1&gt; folder under the name &lt;f2&gt;align.tmx&lt;/f2&gt;. Which files are used for alignment depends on if the file filter supports it. Some supported filters: ILIAS Language File, Java(TM) Resource Bundles, Key=Value Text, Magento CE Locale CSV, MoodlePHP, Mozilla DTD, Mozilla FTL, PO, RC, SubRip Subtitles, Windows Resources</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200725T154323Z" creationid="WynnChen" creationdate="20200725T154159Z">
+        <seg>在此模式下，OmegaT 会将出现在项目的 &lt;f0&gt;/source/&lt;/f0&gt; 目录中的文件与在指定位置出现的内容对齐。生成的 TMX 存放在 &lt;f1&gt;/omegat/&lt;/f1&gt; 文件夹下，名称为 &lt;f2&gt;align.tmx&lt;/f2&gt;。哪些文件会用来进行对齐取决于文件过滤器是否支持它。一些已支持的过滤器有：ILIAS 语言文件、Java(TM) 资源包、键=值文本、Magento CE 语言环境 CSV、MoodlePHP、Mozilla DTD、Mozilla FTL、PO、RC、SubRip 字幕、Windows 资源</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In this mode, OmegaT will align the Java properties files found in the &lt;f0&gt;/source/&lt;/f0&gt; folder of the project to the contents found at the specified location. The resulting TMX is stored in the &lt;f1&gt;/omegat/&lt;/f1&gt; folder under the name &lt;f2&gt;align.tmx&lt;/f2&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200119T090710Z" creationid="WynnChen" creationdate="20200119T090007Z">
@@ -29714,6 +29754,14 @@ everything.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
         <seg>可以在翻译进行的过程中对项目的属性进行修改。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is possible to modify the sort order of the three percentages but not which is used to select the fuzzy matches.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200725T152449Z" creationid="WynnChen" creationdate="20200725T152449Z">
+        <seg>可以修改三个百分比的排列顺序，但不能用于选择模糊匹配。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43663,6 +43711,14 @@ When using regular expressions, the replacement string supports references to gr
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See &lt;u0&gt;https://en.wikipedia.org/wiki/Stemming&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200725T151909Z" creationid="WynnChen" creationdate="20200725T151909Z">
+        <seg>参见 &lt;u0&gt;https://en.wikipedia.org/wiki/Stemming&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See Help &gt; User's Manual for more information.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190325T160423Z" creationid="wynnc" creationdate="20190320T084652Z">
@@ -51742,6 +51798,14 @@ protocols for communication across the network.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The selected fuzzy match is highlighted in bold, words that are missing in the segment you are translating are colored blue and words adjacent to the missing parts green. In the above example the source segment is &lt;e0&gt;Context menu command&lt;/e0&gt;. The top match is 100%, because all words match. So do the next two matches, and the match #4 is similar, but different. The line with the matching percentage also includes the name of the translation memory containing the match. If there's no file name displayed, the source is the internal project translation memory. Orphan segments (match #2) describe segments in the default project translation memory that have no corresponding source segment.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200725T152720Z" creationid="WynnChen" creationdate="20200725T152720Z">
+        <seg>所选定的模糊匹配以粗体突出显示，在正翻译的片段中缺失的单词显示为蓝色而与缺失部分相邻的单词为绿色。在上面的例子中，原文片段是 &lt;e0&gt;Context menu command&lt;/e0&gt;。最顶上的匹配项是 100%，因为所有单词都匹配上了。接下来的两个匹配项亦是如此，而第四个匹配项相似但有所不同。显示匹配度百分比的那一行还包括有包含此匹配项的那个翻译记忆库的名称。如果没有显示文件名，那么其来源是内部项目翻译记忆库。孤立片段（第二个匹配项）说明片段存在于默认项目翻译记忆库中但没有相对应的原文片段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The selected languages will then be installed and will eventually appear in your spell checker setup window (this may take a while).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20120217T115114Z">
@@ -52266,6 +52330,14 @@ protocols for communication across the network.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="think" changedate="20180416T083753Z" creationid="think" creationdate="20180416T083753Z">
         <seg>第三个选择，即在本地级别安装包含Java的OmegaT版本。这始终是“安全”的选项，并且我们建议使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The three matching percentages are in the following order:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200725T150232Z" creationid="WynnChen" creationdate="20200725T150227Z">
+        <seg>这三个匹配度百分比按照以下顺序排列：</seg>
       </tuv>
     </tu>
     <tu>
@@ -63193,6 +63265,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>and ignoring tags and numbers (generally the highest)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200725T152340Z" creationid="WynnChen" creationdate="20200725T151945Z">
+        <seg>并忽略标签和数字来计算所得到的百分比（通常是数值最高的）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>and launch OmegaT with:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="liufang" changedate="20180416T122231Z" creationid="liufang" creationdate="20180416T122231Z">
@@ -65740,6 +65820,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="ZH-CN" changeid="Fu Rhong" changedate="20131117T032144Z" creationid="Fu Rhong" creationdate="20131117T032144Z">
         <seg>https://developers.google.com/translate/v2/pricing?hl=en-US</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://en.wikipedia.org/wiki/Stemming</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200725T150947Z" creationid="WynnChen" creationdate="20200725T150947Z">
+        <seg>https://en.wikipedia.org/wiki/Stemming</seg>
       </tuv>
     </tu>
     <tu>
@@ -69297,6 +69385,30 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="ZH-CN" changeid="WynnChen" changedate="20190410T105025Z" creationid="Fu Rhong" creationdate="20131111T122042Z">
         <seg>omegat 项目文件 - &lt;f0&gt;omegat.project&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>the percentage calculated with stemming</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200725T152034Z" creationid="WynnChen" creationdate="20200725T150230Z">
+        <seg>用词干分析</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>the percentage calculated with the full text, including tags and numbers (generally the lowest)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200725T152350Z" creationid="WynnChen" creationdate="20200725T152213Z">
+        <seg>用包括标签和数字在内的全文进行计算得到的百分比（通常是最低的）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>the percentage calculated without stemming and still ignoring tags and numbers (generally slightly lower)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="WynnChen" changedate="20200725T152208Z" creationid="WynnChen" creationdate="20200725T152004Z">
+        <seg>不使用词干分析但仍然忽略标签和数字（通常略低）</seg>
       </tuv>
     </tu>
     <tu>
