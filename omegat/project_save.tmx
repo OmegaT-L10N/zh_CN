@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_3a877b866" segtype="paragraph" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_3d577c5a9" segtype="paragraph" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -36848,8 +36848,8 @@ to be launched.</seg>
       <tuv lang="en">
         <seg>OmegaT on Wikipedia &lt;s0&gt;25 languages&lt;/s0&gt;</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20200117T033416Z" creationid="WynnChen" creationdate="20200117T033416Z">
-        <seg>Wikipedia 上的 OmegaT 词条 &lt;s0&gt;25 种语言</seg>
+      <tuv lang="zh-CN" changeid="Kos Ivantsov" changedate="20200730T101014Z" creationid="WynnChen" creationdate="20200117T033416Z">
+        <seg>Wikipedia 上的 OmegaT 词条 &lt;s0&gt;25 种语言&lt;/s0&gt;</seg>
       </tuv>
     </tu>
     <tu>
