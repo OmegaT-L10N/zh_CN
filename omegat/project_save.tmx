@@ -12712,6 +12712,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Author</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20200730T052455Z" creationid="WynnChen" creationdate="20200730T052455Z">
+        <seg>作者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Author of the match when the match was created</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Doris" changedate="20180419T020032Z" creationid="Doris" creationdate="20180419T020032Z">
@@ -27289,6 +27297,14 @@ work and works based on it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Important: listed plug-ins work with OmegaT version 4 and above.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20200730T052554Z" creationid="WynnChen" creationdate="20200730T052554Z">
+        <seg>重要提示：所列插件可用于 OmegaT 4 或更高版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Important: this whole command must appear on one line (even if it appears to be on two lines in the display in which you are reading this).</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="10353" changedate="20180414T103222Z" creationid="10353" creationdate="20180414T103222Z">
@@ -39715,6 +39731,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T091623Z" creationid="wynnc" creationdate="20190320T045507Z">
         <seg>请输入或者粘贴 MediaWiki 页面的网址</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Plug-ins</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20200730T052501Z" creationid="WynnChen" creationdate="20200730T052501Z">
+        <seg>插件</seg>
       </tuv>
     </tu>
     <tu>
