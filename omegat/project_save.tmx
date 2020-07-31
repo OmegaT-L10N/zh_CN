@@ -24537,8 +24537,8 @@ prior to 60 days after the cessation.</seg>
       <tuv lang="en">
         <seg>Howto - Compiling OmegaT from the source code</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20200731T011224Z" creationid="xulihang" creationdate="20180425T042740Z">
-        <seg>指南：从源码编译OmegaT</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20200731T011236Z" creationid="xulihang" creationdate="20180425T042740Z">
+        <seg>指南：从源码编译 OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -24553,8 +24553,8 @@ prior to 60 days after the cessation.</seg>
       <tuv lang="en">
         <seg>Howto - Exporting from OmegaT to 'Trados uncleaned RTF' format</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="xulihang" changedate="20180425T042911Z" creationid="xulihang" creationdate="20180425T042911Z">
-        <seg>Howto - 从OmegaT导出 Trados 的 uncleaned RTF 格式文件</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20200731T011352Z" creationid="xulihang" creationdate="20180425T042911Z">
+        <seg>指南：从 OmegaT 导出 Trados 的 uncleaned RTF 格式文件</seg>
       </tuv>
     </tu>
     <tu>
@@ -24585,40 +24585,41 @@ prior to 60 days after the cessation.</seg>
       <tuv lang="en">
         <seg>Howto - Translating OmegaT into your language</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="xulihang" changedate="20180425T043028Z" creationid="xulihang" creationdate="20180425T043028Z">
-        <seg>Howto - 用你的语言翻译OmegaT</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20200731T011455Z" creationid="xulihang" creationdate="20180425T043028Z">
+        <seg>指南：将 OmegaT 翻译为你的语言</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Howto - Translating PDF files with Iceni Infix and OmegaT</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="xulihang" changedate="20180425T042951Z" creationid="xulihang" creationdate="20180425T042951Z">
-        <seg>Howto - 使用Iceni Infix和OmegaT翻译PDF文件</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20200731T011421Z" creationid="xulihang" creationdate="20180425T042951Z">
+        <seg>指南：用 Iceni Infix 和 OmegaT 翻译 PDF 文件</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Howto - Translating Word 2007 files in OmegaT</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="xulihang" changedate="20180425T042806Z" creationid="xulihang" creationdate="20180425T042806Z">
-        <seg>Howto - 在OmegaT中翻译Word2007格式的文件</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20200731T011253Z" creationid="xulihang" creationdate="20180425T042806Z">
+        <seg>指南：在 OmegaT 中翻译 Word 2007 格式的文件</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Howto - Using Google Translate in OmegaT</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="xulihang" changedate="20180425T042930Z" creationid="xulihang" creationdate="20180425T042930Z">
-        <seg>Howto - 在OmegaT中使用谷歌翻译</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20200731T011404Z" creationid="xulihang" creationdate="20180425T042930Z">
+        <seg>指南： 在 OmegaT 中使用 Google 翻译</seg>
       </tuv>
     </tu>
     <tu>
+      <note>官方中文名称即为“Microsoft Translator”，不要自行翻译</note>
       <tuv lang="en">
         <seg>Howto - Using Microsoft Translator in OmegaT</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="xulihang" changedate="20180425T043048Z" creationid="xulihang" creationdate="20180425T043048Z">
-        <seg>Howto - 在OmegaT中使用微软翻译</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20200731T011808Z" creationid="xulihang" creationdate="20180425T043048Z">
+        <seg>指南：在 OmegaT 中使用 Microsoft Translator</seg>
       </tuv>
     </tu>
     <tu>
@@ -31818,6 +31819,14 @@ later version.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="liufang" changedate="20180416T122952Z" creationid="liufang" creationdate="20180416T122952Z">
         <seg>Linux用户：MS Office 2007和Microsoft兼容插件均在&lt;a0&gt; Crossover Linux上运行。&lt;/ a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Linux with JRE</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20200731T011426Z" creationid="WynnChen" creationdate="20200731T011426Z">
+        <seg>Linux with JRE</seg>
       </tuv>
     </tu>
     <tu>
