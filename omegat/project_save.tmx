@@ -24537,8 +24537,8 @@ prior to 60 days after the cessation.</seg>
       <tuv lang="en">
         <seg>Howto - Compiling OmegaT from the source code</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="xulihang" changedate="20180425T042740Z" creationid="xulihang" creationdate="20180425T042740Z">
-        <seg>Howto - 从源码编译OmegaT</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20200731T011224Z" creationid="xulihang" creationdate="20180425T042740Z">
+        <seg>指南：从源码编译OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -24561,8 +24561,8 @@ prior to 60 days after the cessation.</seg>
       <tuv lang="en">
         <seg>Howto - OmegaT compatibility with Déjà Vu</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="xulihang" changedate="20180425T042723Z" creationid="xulihang" creationdate="20180425T042723Z">
-        <seg>Howto - OmegaT和Déjà Vu的兼容</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20200731T011232Z" creationid="xulihang" creationdate="20180425T042723Z">
+        <seg>指南：OmegaT和 Déjà Vu 的兼容性</seg>
       </tuv>
     </tu>
     <tu>
@@ -35761,6 +35761,14 @@ combination as such.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OS X Unsigned</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20200731T011141Z" creationid="WynnChen" creationdate="20200731T011141Z">
+        <seg>OS X Unsigned</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OVR</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190515T045100Z" creationid="WynnChen" creationdate="20190515T044830Z">
@@ -40806,8 +40814,8 @@ project without team functionality.</seg>
       <tuv lang="en">
         <seg>Propagation and one-to-many matching HowTo</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="xulihang" changedate="20180425T043153Z" creationid="xulihang" creationdate="20180425T043153Z">
-        <seg>传送和一对多匹配</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20200731T011202Z" creationid="xulihang" creationdate="20180425T043153Z">
+        <seg>翻译传播和一对多匹配指南</seg>
       </tuv>
     </tu>
     <tu>
