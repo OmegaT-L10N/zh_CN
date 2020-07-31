@@ -24529,8 +24529,8 @@ prior to 60 days after the cessation.</seg>
       <tuv lang="en">
         <seg>Howto - Adding a preview function to OmegaT</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="xulihang" changedate="20180425T043134Z" creationid="xulihang" creationdate="20180425T043134Z">
-        <seg>Howto - 给OmegaT添加预览功能</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20200731T011915Z" creationid="xulihang" creationdate="20180425T043134Z">
+        <seg>指南：给 OmegaT 添加预览功能</seg>
       </tuv>
     </tu>
     <tu>
@@ -24569,16 +24569,16 @@ prior to 60 days after the cessation.</seg>
       <tuv lang="en">
         <seg>Howto - Spellchecking</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="xulihang" changedate="20180425T043207Z" creationid="xulihang" creationdate="20180425T043207Z">
-        <seg>Howto - 拼写检查</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20200731T012037Z" creationid="xulihang" creationdate="20180425T043207Z">
+        <seg>指南：拼写检查</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Howto - The "Priorview" preview utility</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="xulihang" changedate="20180425T043145Z" creationid="xulihang" creationdate="20180425T043145Z">
-        <seg>Howto - "Priorview"预览工具</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20200731T012025Z" creationid="xulihang" creationdate="20180425T043145Z">
+        <seg>指南：“Priorview”预览工具</seg>
       </tuv>
     </tu>
     <tu>
@@ -24627,16 +24627,16 @@ prior to 60 days after the cessation.</seg>
       <tuv lang="en">
         <seg>Howto - Using the OmegaT text export function (scripting interface)</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="xulihang" changedate="20180425T043220Z" creationid="xulihang" creationdate="20180425T043220Z">
-        <seg>Howto - 使用OmegaT 文本输出功能 (脚本界面)</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20200731T012059Z" creationid="xulihang" creationdate="20180425T043220Z">
+        <seg>指南：使用 OmegaT 文本导出功能 (脚本界面)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Howto - Using the OmegaT tokenizer</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="xulihang" changedate="20180425T043252Z" creationid="xulihang" creationdate="20180425T043252Z">
-        <seg>Howto - 使用OmegaT的分词器</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20200731T012118Z" creationid="xulihang" creationdate="20180425T043252Z">
+        <seg>指南：使用 OmegaT 分词器</seg>
       </tuv>
     </tu>
     <tu>
@@ -60757,24 +60757,24 @@ Your page is not found</seg>
       <tuv lang="en">
         <seg>Windows with 64-bit JRE</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20200731T010736Z" creationid="WynnChen" creationdate="20200731T010736Z">
-        <seg>带 64 位 JRE 的 Windows 版</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20200731T012138Z" creationid="WynnChen" creationdate="20200731T012138Z">
+        <seg>Windows，带 64 位 JRE</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Windows with JRE</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20200731T010749Z" creationid="WynnChen" creationdate="20200731T010719Z">
-        <seg>带 JRE 的 Windows 版</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20200731T012125Z" creationid="WynnChen" creationdate="20200731T010719Z">
+        <seg>Windows，带 JRE</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Windows without JRE</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20200731T010757Z" creationid="WynnChen" creationdate="20200731T010757Z">
-        <seg>不带 JRE 的 Windows 版</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20200731T012144Z" creationid="WynnChen" creationdate="20200731T012144Z">
+        <seg>Windows，不带 JRE</seg>
       </tuv>
     </tu>
     <tu>
