@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_3d577c5a9" segtype="paragraph" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_3a877b866" segtype="paragraph" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -36505,6 +36505,14 @@ OmegaT 使用了以下库：
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT is a free open-source translation memory application for professional translators written in Java.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20200731T010435Z" creationid="WynnChen" creationdate="20200731T010435Z">
+        <seg>OmegaT 是一个面向专业翻译人员的免费开源翻译记忆应用程序，用 Java 编写。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT is a free, open-source translation memory program.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="lenovo" changedate="20180415T143117Z" creationid="lenovo" creationdate="20180415T143117Z">
@@ -45115,6 +45123,14 @@ When using regular expressions, the replacement string supports references to gr
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T181718Z" creationid="wynnc" creationdate="20190320T181718Z">
         <seg>显示高级选项(&amp;O)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Show English Version</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20200731T010045Z" creationid="WynnChen" creationdate="20200731T010045Z">
+        <seg>显示英文版</seg>
       </tuv>
     </tu>
     <tu>
@@ -54921,6 +54937,14 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190404T135607Z" creationid="WynnChen" creationdate="20190404T135607Z">
         <seg>此简短文本描述了编辑窗格中的按键行为。术语“移动到片段内”是指，如果光标原来在此片段之前则移动到片段的开始处，如果之前在此片段之后则移动到片段的末尾。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This site is also available in English!</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20200731T010239Z" creationid="WynnChen" creationdate="20200731T010239Z">
+        <seg>本网站也有英文版！</seg>
       </tuv>
     </tu>
     <tu>
