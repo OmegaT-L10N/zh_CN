@@ -17045,6 +17045,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Cross-platform without JRE</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20200731T012234Z" creationid="WynnChen" creationdate="20200731T012234Z">
+        <seg>跨平台，不带 JRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Crossover Linux and Crossover Macintosh can be obtained from the &lt;a0&gt;Codeweavers' website&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="think" changedate="20180416T004947Z" creationid="think" creationdate="20180416T004638Z">
@@ -31824,10 +31832,18 @@ later version.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Linux with 64-bit JRE</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20200731T012212Z" creationid="WynnChen" creationdate="20200731T012212Z">
+        <seg>Linux，带 64 位 JRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Linux with JRE</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20200731T011426Z" creationid="WynnChen" creationdate="20200731T011426Z">
-        <seg>Linux with JRE</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20200731T012206Z" creationid="WynnChen" creationdate="20200731T011426Z">
+        <seg>Linux，带 JRE</seg>
       </tuv>
     </tu>
     <tu>
@@ -35765,16 +35781,16 @@ combination as such.</seg>
       <tuv lang="en">
         <seg>OS X Notarized</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20200731T011106Z" creationid="WynnChen" creationdate="20200731T011106Z">
-        <seg>已公证的 OS X 版</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20200731T012155Z" creationid="WynnChen" creationdate="20200731T012155Z">
+        <seg>OS X，已公证</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>OS X Unsigned</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20200731T011141Z" creationid="WynnChen" creationdate="20200731T011141Z">
-        <seg>OS X Unsigned</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20200731T012201Z" creationid="WynnChen" creationdate="20200731T012201Z">
+        <seg>OS X，未签名</seg>
       </tuv>
     </tu>
     <tu>
