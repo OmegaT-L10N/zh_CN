@@ -24429,6 +24429,14 @@ Note: not all filters allow you to select an encoding.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>How-To</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20200731T010448Z" creationid="WynnChen" creationdate="20200731T010448Z">
+        <seg>指南</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>However, OmegaT does not fully support imported level 2 tmx files (these store not only the translation, but also the formatting).</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120218T065717Z">
@@ -36846,6 +36854,14 @@ to be launched.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT on Linux HowTo</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20200731T010702Z" creationid="WynnChen" creationdate="20200731T010702Z">
+        <seg>Linux 上的 OmegaT 指南</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT on Wikipedia</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20200117T033328Z" creationid="WynnChen" creationdate="20200117T033328Z">
@@ -46784,6 +46800,14 @@ of the GPL, as needed to protect the freedom of users.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T053803Z" creationid="wynnc" creationdate="20190323T052848Z">
         <seg>SuperTMXMerge (Apache 许可证 2.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Support</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20200731T010444Z" creationid="WynnChen" creationdate="20200731T010444Z">
+        <seg>支持</seg>
       </tuv>
     </tu>
     <tu>
