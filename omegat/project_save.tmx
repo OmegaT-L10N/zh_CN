@@ -35753,6 +35753,14 @@ combination as such.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OS X Notarized</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20200731T011106Z" creationid="WynnChen" creationdate="20200731T011106Z">
+        <seg>已公证的 OS X 版</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OVR</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190515T045100Z" creationid="WynnChen" creationdate="20190515T044830Z">
@@ -60725,6 +60733,30 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="anton" changedate="20180416T081353Z" creationid="anton" creationdate="20180416T081353Z">
         <seg>Windows 用户:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Windows with 64-bit JRE</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20200731T010736Z" creationid="WynnChen" creationdate="20200731T010736Z">
+        <seg>带 64 位 JRE 的 Windows 版</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Windows with JRE</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20200731T010749Z" creationid="WynnChen" creationdate="20200731T010719Z">
+        <seg>带 JRE 的 Windows 版</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Windows without JRE</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20200731T010757Z" creationid="WynnChen" creationdate="20200731T010757Z">
+        <seg>不带 JRE 的 Windows 版</seg>
       </tuv>
     </tu>
     <tu>
