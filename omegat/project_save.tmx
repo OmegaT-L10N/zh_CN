@@ -24545,8 +24545,8 @@ prior to 60 days after the cessation.</seg>
       <tuv lang="en">
         <seg>Howto - Creating a new file filter</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="xulihang" changedate="20180425T043118Z" creationid="xulihang" creationdate="20180425T043118Z">
-        <seg>Howto - 创建新的文件筛选器</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20200731T011847Z" creationid="xulihang" creationdate="20180425T043118Z">
+        <seg>指南：创建新的文件过滤器</seg>
       </tuv>
     </tu>
     <tu>
@@ -24606,6 +24606,7 @@ prior to 60 days after the cessation.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>注意使用官方中文名称</note>
       <tuv lang="en">
         <seg>Howto - Using Google Translate in OmegaT</seg>
       </tuv>
