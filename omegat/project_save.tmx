@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_3a877b866" segtype="paragraph" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.0_0_b4b425d5e" segtype="paragraph" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1064,8 +1064,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Go To Next Untranslated Segment stops when there is at least one alternative translation</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20200120T060730Z" creationid="wynnc" creationdate="20190323T073341Z">
-        <seg>转到下一个未译片段在有替代译文的片段处也会停下(&amp;G)</seg>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20200811T055333Z" creationid="wynnc" creationdate="20190323T073341Z">
+        <seg>转到下一个未译片段功能在有多重译文的片段处也会停下(&amp;G)</seg>
       </tuv>
     </tu>
     <tu>
@@ -16646,7 +16646,7 @@ unpacking, reading or copying.</seg>
       <tuv lang="en">
         <seg>Create Alternative Translation</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20200120T060846Z" creationid="wynnc" creationdate="20190320T045507Z">
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20200811T055818Z" creationid="wynnc" creationdate="20190320T045507Z">
         <seg>创建替代译文</seg>
       </tuv>
     </tu>
@@ -18597,8 +18597,8 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="en">
         <seg>Displays alternative translations that you have created for segments that are repeated in the project.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20200120T060829Z" creationid="wynnc" creationdate="20190323T122545Z">
-        <seg>显示你为本项目中重复片段所创建的替代译文。</seg>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20200811T055547Z" creationid="wynnc" creationdate="20190323T122545Z">
+        <seg>显示你为本项目中重复片段所创建的备选译文。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24915,8 +24915,8 @@ SUCH DAMAGES.</seg>
       <tuv lang="en">
         <seg>Identifier used for alternative translations</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20200120T060724Z" creationid="wynnc" creationdate="20190322T074002Z">
-        <seg>替代译文所用的标识符</seg>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20200811T055435Z" creationid="wynnc" creationdate="20190322T074002Z">
+        <seg>备选译文所用的标识符</seg>
       </tuv>
     </tu>
     <tu>
