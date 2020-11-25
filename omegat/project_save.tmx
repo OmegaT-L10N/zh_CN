@@ -21828,6 +21828,14 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Files must be deleted by the project manager.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20201125T060508Z" creationid="wynnc" creationdate="20201125T060508Z">
+        <seg>文件必须由项目管理器删除。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Files must be deleted first by the project manager, and then locally.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190902T102749Z" creationid="wynnc" creationdate="20190902T102749Z">
@@ -66314,6 +66322,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20200725T150947Z" creationid="WynnChen" creationdate="20200725T150947Z">
         <seg>https://en.wikipedia.org/wiki/Stemming</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://git.code.sf.net/p/omegat/code</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20201125T060511Z" creationid="wynnc" creationdate="20201125T060511Z">
+        <seg>https://git.code.sf.net/p/omegat/code</seg>
       </tuv>
     </tu>
     <tu>
