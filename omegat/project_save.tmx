@@ -34965,6 +34965,14 @@ measures.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note about omegat.project and mappings</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20201125T060000Z" creationid="wynnc" creationdate="20201125T060000Z">
+        <seg>关于 omegat.project 和映射的说明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note also that some fonts behave better for some language pairs than for others.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
@@ -35241,6 +35249,14 @@ measures.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120208T052734Z">
         <seg>请注意该密钥长度为 38 个字符。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note that the omegat.project file in the repository is not changed automatically and still doesn't contain the mappings. When you load a project, all changes in the repository are copied to the local project, including the &lt;f0&gt;omegat.project&lt;/f0&gt; file with project settings. If the file doesn't contain mappings, the existing local mappings are re-applied, and only those. All other local changes to the project are reverted. If the file does contain mappings, then local changes to mappings are lost.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20201125T060449Z" creationid="wynnc" creationdate="20201125T060449Z">
+        <seg>要注意，存储库中的 omegat.project 文件并不会自动更改，因此依然不包含任何映射。当你加载项目时，存储库中的所有更改都会被复制到本地项目中，包括带有项目设置的 &lt;f0&gt;omegat.project&lt;/f0&gt; 文件。如果此文件不包含映射，则会重新应用现存的本地映射，且只会应用这些映射。对项目所做的其他本地更改都会被回退还原。如果文件包含映射，则本地对映射进行的更改都会丢失。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60483,6 +60499,14 @@ the covered work, and you disclaim any intention to limit operation or
 modification of the work as a means of enforcing, against the work's
 users, your or third parties' legal rights to forbid circumvention of
 technological measures.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When you create a new project and commit that to a repository, the &lt;f0&gt;omegat.project&lt;/f0&gt; file doesn't contain any mapping. When you download the project, the project is converted to a team project locally and a default mapping is added.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20201125T060059Z" creationid="wynnc" creationdate="20201125T060059Z">
+        <seg>创建新项目并提交到存储库时，&lt;f0&gt;omegat.project&lt;/f0&gt; 文件并不包含任何映射。当你下载项目时，项目会在本地被转换为团队项目并且会添加默认映射。</seg>
       </tuv>
     </tu>
     <tu>
