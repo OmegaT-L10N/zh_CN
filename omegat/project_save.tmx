@@ -14297,6 +14297,14 @@ Exception occurred:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Change to "needs-review-translation" instead of "translated"</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20201125T060812Z" creationid="wynnc" creationdate="20201125T060741Z">
+        <seg>更改为“需要审查翻译”而非“已译”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Changed &amp;before:</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T181845Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -46383,6 +46391,14 @@ of the GPL, as needed to protect the freedom of users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Specify state attribute handling behavior</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20201125T060700Z" creationid="wynnc" creationdate="20201125T060700Z">
+        <seg>指定状态属性处理行为</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Specify tag handling behaviour</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -47901,6 +47917,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T071727Z" creationid="wynnc" creationdate="20190323T071727Z">
         <seg>团队</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Team Mode Repository Mapping</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20201125T060632Z" creationid="wynnc" creationdate="20201125T060632Z">
+        <seg>团队模式存储库映射</seg>
       </tuv>
     </tu>
     <tu>
@@ -52384,6 +52408,14 @@ protocols for communication across the network.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190413T103235Z">
         <seg>原文文本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The sources of the current version can be retrieved with a Git client from the repository &lt;u0/&gt; or directly on &lt;u1&gt;SourceForge&lt;/u1&gt;.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20201125T060624Z" creationid="wynnc" creationdate="20201125T060624Z">
+        <seg>当前版本的源码可以用 Git 客户端从存储库 &lt;u0/&gt; 获取，或直接在 &lt;u1&gt;SourceForge&lt;/u1&gt; 上获取。</seg>
       </tuv>
     </tu>
     <tu>
@@ -66406,6 +66438,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>https://sourceforge.net/p/omegat/code/ci/master/tarball?path=</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20201125T060512Z" creationid="wynnc" creationdate="20201125T060512Z">
+        <seg>https://sourceforge.net/p/omegat/code/ci/master/tarball?path=</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>https://sourceforge.net/p/omegat/documentation/</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131102T030312Z" creationid="Fu Rhong" creationdate="20131102T030312Z">
@@ -70919,6 +70959,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190324T023835Z" creationid="wynnc" creationdate="20190324T023716Z">
         <seg>{0} 可将方向在从左到右、从右到左、和由语言决定之间切换</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{0} version {1} ({2})</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20201125T060821Z" creationid="wynnc" creationdate="20201125T060821Z">
+        <seg>版本：{0}</seg>
       </tuv>
     </tu>
     <tu>
