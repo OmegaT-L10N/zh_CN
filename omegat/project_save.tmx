@@ -28458,6 +28458,14 @@ patent against the party.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In this case, the procedure is the same, but the project manager does not add (all) files to version-controlled project. Instead, the translators copy the files themselves, or add mappings to synchronize files from other locations.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20201125T055134Z" creationid="wynnc" creationdate="20201125T055134Z">
+        <seg>在这种情况下，流程是一样的，但项目经理并不会将（所有）文件添加到版本控制的项目中。而是由译者自行复制文件，或者添加映射来从其他位置同步文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In this case, the procedure is the same, but the project manager does not add files to the /source folder.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190902T094850Z" creationid="wynnc" creationdate="20190902T094850Z">
@@ -41683,6 +41691,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remote location or directory of the files to translate.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20201125T055308Z" creationid="wynnc" creationdate="20201125T055308Z">
+        <seg>要翻译的文件的远程位置或目录</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remote repository network communication error: {0}</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T143326Z" creationid="wynnc" creationdate="20190323T143326Z">
@@ -50949,6 +50965,14 @@ your programs, too.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The mappings can be added by editing &lt;f0&gt;omegat.project&lt;/f0&gt; or via the UI: &lt;m1&gt; &lt;g2&gt;Project&lt;/g2&gt; &lt;g3&gt;Properties&lt;/g3&gt; &lt;g4&gt;Repository Mapping&lt;/g4&gt; &lt;/m1&gt;</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20201125T055235Z" creationid="wynnc" creationdate="20201125T055235Z">
+        <seg>可以通过编辑 &lt;f0&gt;omegat.project&lt;/f0&gt; 或者通过用户界面上的&lt;m1&gt;&lt;g2&gt;项目&lt;/g2&gt;&lt;g3&gt;属性&lt;/g3&gt;&lt;g4&gt;存储库映射&lt;/g4&gt;&lt;/m1&gt;来添加映射。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The match statistics are accessed via&lt;g0&gt;Tools&gt;Match Statistics.&lt;/g0&gt; The evaluation is rather CPU intensive and can be time-consuming, so a progress bar is shown during the calculation.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131128T003245Z" creationid="Fu Rhong" creationdate="20131128T002522Z">
@@ -53887,6 +53911,14 @@ the server.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190902T095036Z" creationid="wynnc" creationdate="20190902T095036Z">
         <seg>这可以是 http（包括 https）、svn 或 git。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This can be either http (which includes https), svn, git or file.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20201125T055254Z" creationid="wynnc" creationdate="20201125T055254Z">
+        <seg>这可以是 http（包括 https）、svn、git 或文件。</seg>
       </tuv>
     </tu>
     <tu>
