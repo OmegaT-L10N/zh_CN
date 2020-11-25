@@ -23407,6 +23407,14 @@ authors of previous versions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Gives access to the list of plugins available. Plugins are installed in the &lt;f0&gt;/plugins&lt;/f0&gt; folder under the OmegaT installation folder or the platform-specific OmegaT user preferences folder.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20201125T054838Z" creationid="wynnc" creationdate="20201125T054838Z">
+        <seg>可以访问可用插件列表。插件安装在 OmegaT 安装文件夹或平台特定的 OmegaT 用户首选项文件夹下的 &lt;f0&gt;/plugins&lt;/f0&gt; 文件夹中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Gives access to the list of plugins available. Plugins are installed in the &lt;f0&gt;/plugins&lt;/f0&gt; folder.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190901T172652Z" creationid="WynnChen" creationdate="20190901T172652Z">
@@ -37117,6 +37125,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20200123T041909Z" creationid="WynnChen" creationdate="20200123T041909Z">
         <seg>OmegaT 团队</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT team projects can also be set up in a different way, where several translators share the project_save.tmx file but not (all of) the (source) files.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20201125T055004Z" creationid="wynnc" creationdate="20201125T055004Z">
+        <seg>OmegaT 团队项目也可以以不同的方式建立，其中多个译者共享 project_save.tmx 文件但不共享（全部）（原文）文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -55331,6 +55347,14 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To &lt;e0&gt;delete files&lt;/e0&gt;, use an SVN or Git client.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20201125T054859Z" creationid="wynnc" creationdate="20201125T054859Z">
+        <seg>要&lt;e0&gt;删除文件&lt;/e0&gt;，请使用 SVN 或 Git 客户端。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To &lt;e0&gt;delete files&lt;/e0&gt;, use an SVN or Git client. These files won't be deleted automatically on the translator's side: you must ask them to delete the files manually.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190902T091949Z" creationid="wynnc" creationdate="20190902T091949Z">
@@ -61581,6 +61605,14 @@ covered work, you indicate your acceptance of this License to do so.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190327T173820Z" creationid="WynnChen" creationdate="20190327T173632Z">
         <seg>你也可以在不启动 OmegaT 本身的情况下调出附带的用户手册。可以在 OmegaT 程序文件夹中的 docs 文件夹内找到用户手册。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also define various options relating to tag validation and define custom tags.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20201125T054743Z" creationid="wynnc" creationdate="20201125T054743Z">
+        <seg>你还可以定义和标签验证相关的各种选项，并可以定义自定义标签。</seg>
       </tuv>
     </tu>
     <tu>
