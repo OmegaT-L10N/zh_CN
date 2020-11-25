@@ -8928,6 +8928,28 @@ The current setting is {0}MB;</seg>
     <tu>
       <tuv lang="en">
         <seg>&lt;repositories&gt;
+ &lt;repository type="svn" url="https://repo_for_All_OmegaT_team_project_sources"&gt;
+  &lt;mapping local="source/subdir" repository=""&gt;
+   &lt;excludes&gt;**/*.bak&lt;/excludes&gt;
+   &lt;includes&gt;readme.bak&lt;/includes&gt;
+  &lt;/mapping&gt;
+ &lt;/repository&gt;
+&lt;/repositories&gt;</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20201125T055415Z" creationid="wynnc" creationdate="20201125T055415Z">
+        <seg>&lt;repositories&gt;
+ &lt;repository type="svn" url="https://repo_for_All_OmegaT_team_project_sources"&gt;
+  &lt;mapping local="source/subdir" repository=""&gt;
+   &lt;excludes&gt;**/*.bak&lt;/excludes&gt;
+   &lt;includes&gt;readme.bak&lt;/includes&gt;
+  &lt;/mapping&gt;
+ &lt;/repository&gt;
+&lt;/repositories&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;repositories&gt;
  &lt;repository type="svn" url="https://repo_for_All_OmegaT_team_projects"&gt;
   &lt;mapping local="" repository="En-US_DE_project"/&gt;
  &lt;/repository&gt;
@@ -11069,6 +11091,14 @@ rights of fair use or other equivalent, as provided by copyright law.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190831T163431Z" creationid="WynnChen" creationdate="20190831T163431Z">
         <seg>为匹配的语言模式所定义的所有片段分割规则集都是活动的，并按照规给定的优先级顺序应用，因此为特定语言定义的规则优先级应当高于默认的那些。例如，加拿大法语（FR-CA）的规则优先级应当设置为高于法语（FR.*）的规则，并高于默认（.*）的规则。因此，在翻译加拿大法语时，会首先应用加拿大法语规则（如果存在的话），接着是法语规则，最后为缺省规则。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>All the contents of &lt;f0&gt;https://repo_for_All_OmegaT_team_project_sources&lt;/f0&gt; are mapped to the local OmegaT project source folder, except all *.bak files but readme.bak.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20201125T055535Z" creationid="wynnc" creationdate="20201125T055535Z">
+        <seg>&lt;f0&gt;https://repo_for_All_OmegaT_team_project_sources&lt;/f0&gt; 的所有内容都映射到本地 OmegaT 项目的原文文件夹，除了 readme.bak 之外的 *.bak 文件则排除在外。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17787,6 +17817,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190831T151823Z">
         <seg>默认值是 &lt;l0&gt;${filename}&lt;/l0&gt;——带有扩展名的原文文件的完整文件名：在这种情况下，已译文件的文件名和原文文件的文件名相同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Default project mapping:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20201125T055315Z" creationid="wynnc" creationdate="20201125T055315Z">
+        <seg>默认项目映射：</seg>
       </tuv>
     </tu>
     <tu>
@@ -32652,6 +32690,34 @@ later version.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="18261" changedate="20180412T102632Z" creationid="18261" creationdate="20180412T102632Z">
         <seg>正在阅读的各位，有许多都是翻译过许多用户文档的译者。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mapping for additional sources from remote repository, with filters:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20201125T055414Z" creationid="wynnc" creationdate="20201125T055414Z">
+        <seg>用过滤器从远程存储库映射其他资源：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mapping for extra source files from the web: &lt;repository type="http" url="https://github.com/omegat-org/omegat/raw/master/"&gt;
+ &lt;mapping local="source/Bundle.properties" repository="src/org/omegat/Bundle.properties"/&gt;
+&lt;/repository&gt;</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20201125T055612Z" creationid="wynnc" creationdate="20201125T055612Z">
+        <seg>从网站映射其他原文文件：&lt;repository type="http" url="https://github.com/omegat-org/omegat/raw/master/"&gt;
+ &lt;mapping local="source/Bundle.properties" repository="src/org/omegat/Bundle.properties"/&gt;
+&lt;/repository&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mapping for projects in a subdirectory of the repository:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20201125T055352Z" creationid="wynnc" creationdate="20201125T055352Z">
+        <seg>在存储库的子目录中映射项目：</seg>
       </tuv>
     </tu>
     <tu>
