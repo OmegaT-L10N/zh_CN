@@ -8981,6 +8981,20 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;repository type="file" url="/home/me/myfiles"&gt;
+ &lt;mapping local="source/file.txt" repository="my/file.txt"/&gt;
+ &lt;mapping local="source/file2.txt" repository="some/file.txt"/&gt;
+&lt;/repository&gt;</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20201125T055638Z" creationid="wynnc" creationdate="20201125T055638Z">
+        <seg>&lt;repository type="file" url="/home/me/myfiles"&gt;
+ &lt;mapping local="source/file.txt" repository="my/file.txt"/&gt;
+ &lt;mapping local="source/file2.txt" repository="some/file.txt"/&gt;
+&lt;/repository&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;repository type="http" url="https://github.com/omegat-org/omegat/raw/master/"&gt;
             &lt;mapping local="source/Bundle.properties" repository="src/org/omegat/Bundle.properties"/&gt;
                &lt;mapping local="source/readme_tr.txt" repository="release/readme.txt"/&gt;
@@ -9003,6 +9017,18 @@ The current setting is {0}MB;</seg>
         <seg>&lt;repository type="http" url="https://github.com/omegat-org/omegat/raw/master/"&gt;
             &lt;mapping local="source/Bundle.properties" repository="src/org/omegat/Bundle.properties"/&gt;
             &lt;/repository&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;repository type="http" url="https://github.com/omegat-org/omegat/raw/master/"&gt;
+ &lt;mapping local="source/readme_tr.txt" repository="release/readme.txt"/&gt;
+&lt;/repository&gt;</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20201125T055630Z" creationid="wynnc" creationdate="20201125T055630Z">
+        <seg>&lt;repository type="http" url="https://github.com/omegat-org/omegat/raw/master/"&gt;
+ &lt;mapping local="source/readme_tr.txt" repository="release/readme.txt"/&gt;
+&lt;/repository&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -32046,6 +32072,14 @@ later version.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local file mapping:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20201125T055637Z" creationid="wynnc" creationdate="20201125T055637Z">
+        <seg>本地文件映射：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Local installation path:</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T113938Z" creationid="wynnc" creationdate="20190323T113938Z">
@@ -32734,6 +32768,14 @@ later version.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190902T094854Z" creationid="wynnc" creationdate="20190902T094854Z">
         <seg>映射参数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mapping with renaming:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20201125T055628Z" creationid="wynnc" creationdate="20201125T055628Z">
+        <seg>带重命名的映射：</seg>
       </tuv>
     </tu>
     <tu>
@@ -50895,6 +50937,14 @@ your programs, too.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The local file &lt;f0&gt;/home/me/myfiles/my/file.txt&lt;/f0&gt; is mapped to the local file &lt;f1&gt;source/file.txt&lt;/f1&gt; and &lt;f2&gt;/home/me/myfiles/some/file.txt&lt;/f2&gt; is mapped to the local file &lt;f3&gt;source/file2.txt&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20201125T055726Z" creationid="wynnc" creationdate="20201125T055726Z">
+        <seg>本地文件 &lt;f0&gt;/home/me/myfiles/my/file.txt&lt;/f0&gt; 映射成本地文件 &lt;f1&gt;source/file.txt&lt;/f1&gt;，&lt;f2&gt;/home/me/myfiles/some/file.txt&lt;/f2&gt; 映射成本地文件 &lt;f3&gt;source/file2.txt&lt;/f3&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The location does not matter, since you can add it to the command line at launch (see below).</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120211T064424Z">
@@ -59831,6 +59881,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Warning: if a file does not exist, the project won't load.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20201125T055742Z" creationid="wynnc" creationdate="20201125T055742Z">
+        <seg>警告：如果文件不存在，则不会加载项目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Warning: in Microsoft Open XML formats (docx, xlsx, etc.), if all tags are displayed, DO NOT write text before the first tag (it is a technical tag that must always begin the segment).</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Administrator" changedate="20180411T113754Z" creationid="Administrator" creationdate="20180411T113328Z">
@@ -61655,6 +61713,14 @@ covered work, you indicate your acceptance of this License to do so.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20200120T021301Z" creationid="Fu Rhong" creationdate="20131117T031523Z">
         <seg>你可以按下 &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt; 来将新词汇添加到词汇表，也可以将现有的词汇表复制到项目文件夹的 &lt;f1&gt;/glossary/&lt;/f1&gt; 子文件夹中，OmegaT 会自动在其中查找单词。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can add as many mappings as you want, but only in the context of a team project, i.e. one of the mappings includes omegat.project. This feature is intended for gathering source files, but you're not restricted to source files.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20201125T055947Z" creationid="wynnc" creationdate="20201125T055947Z">
+        <seg>你可以根据需要添加任意数量的映射，但是只能在团队项目的上下文环境中添加，即，其中必须有一个映射包含 omegat.project。此功能旨在汇集原文文件，但并不限制你将它用于原文文件之外。</seg>
       </tuv>
     </tu>
     <tu>
