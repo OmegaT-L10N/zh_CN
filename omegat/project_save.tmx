@@ -16660,6 +16660,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Could not delete {0}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20201125T061155Z" creationid="wynnc" creationdate="20201125T061155Z">
+        <seg>无法删除 {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Could not initialize OS look and feel!</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190322T062044Z" creationid="wynnc" creationdate="20190320T045507Z">
