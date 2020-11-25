@@ -60162,6 +60162,14 @@ of selecting, obtaining and installing it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When translating software-related files, you can configure the Tag Validator options to also check programming (%...) variables or placeholders ({0}), if the file filter doesn't do it out of the box already. The PO filter already handles %.. and Java™ Resource Bundle filter already handles {#} tags, so you only need this for other file types.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20201125T054708Z" creationid="wynnc" creationdate="20201125T054629Z">
+        <seg>当翻译软件相关的文件时，如果文件过滤器并不是开箱即用状态，则可以配置标签检验器选项来检查编程变量（%...）或占位符（{0}）。PO 过滤器已经可以处理 %..，而 Java™ 资源包过滤器已经能处理 {#} 标签，因此你只需要对其他文件类型进行此操作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When translating software-related files, you can configure the Tag Validator options to also check programming (%...) variables. You can also define various options relating to tag validation and define custom tags.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190901T164218Z" creationid="WynnChen" creationdate="20190901T164218Z">
