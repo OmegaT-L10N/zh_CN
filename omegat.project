@@ -19,8 +19,8 @@
             <repository type="git" url="https://github.com/OmegaT-L10N/zh_CN.git">
                 <mapping local="/" repository="/"/>
             </repository>
-            <repository type="svn" url="https://github.com/omegat-org/omegat.git/trunk/doc_src/en">
-                <mapping local="source/doc_src/" repository="/"/>
+            <repository type="git" url="https://github.com/OmegaT-L10N/doc_src.git">
+                <mapping local="source/doc_src/" repository="en"/>
             </repository>
             <repository type="http" url="https://github.com/omegat-org/omegat/raw/master/">
                 <mapping local="source/Bundle.properties" repository="src/org/omegat/Bundle.properties"/>
