@@ -9169,6 +9169,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;t0&gt;Format&lt;/t0&gt; &lt;t1&gt;Extension&lt;/t1&gt; &lt;t2&gt;Encoding&lt;/t2&gt;</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T060543Z" creationid="wynnc" creationdate="20210504T060543Z">
+        <seg>&lt;t0&gt;格式&lt;/t0&gt; &lt;t1&gt;扩展名&lt;/t1&gt; &lt;t2&gt;编码&lt;/t2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;trans-unit&gt; &amp;resname attribute when available</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190322T074152Z" creationid="wynnc" creationdate="20190322T074152Z">
@@ -23036,6 +23044,14 @@ authors of previous versions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Format, extensions and expected encoding</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T060535Z" creationid="wynnc" creationdate="20210504T060535Z">
+        <seg>格式、扩展名和预期编码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Format:</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -23571,6 +23587,14 @@ authors of previous versions.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190522T033220Z">
         <seg>词汇表是手工创建与更新的用于 &lt;a0&gt;OmegaT&lt;/a0&gt; 的文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossaries are read in an encoding that depends on the file extension:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T060520Z" creationid="wynnc" creationdate="20210504T060520Z">
+        <seg>读取词汇表时使用的编码取决于文件扩展名：</seg>
       </tuv>
     </tu>
     <tu>
@@ -39733,6 +39757,14 @@ be launched.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Plain text glossaries can be "tab separated values" (TSV) files or "comma separated values" (CSV) files. A third possible format is the "TBX" (TermBase eXchange) ISO standard.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T060350Z" creationid="wynnc" creationdate="20210504T060350Z">
+        <seg>纯文本词汇表可以是“制表符分隔的值”（TSV）文件或“逗号分隔的值”（CSV）文件。第三种可能的格式是“TBX”（TermBase eXchange）ISO 标准。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Platform</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Zenobia Fang" changedate="20180423T154852Z" creationid="Zenobia Fang" creationdate="20180423T154852Z">
@@ -51855,6 +51887,14 @@ modification follow.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
         <seg>无法验证项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The project default writable glossary is always a TSV file saved in UTF-8 encoding.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T060444Z" creationid="wynnc" creationdate="20210504T060444Z">
+        <seg>项目的默认可写词汇表则总是以 UTF-8 编码保存的 TSV 文件。</seg>
       </tuv>
     </tu>
     <tu>
