@@ -19816,6 +19816,14 @@ project_save.tmx 未真正上传，SVN 切换到不稳定状态。
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>EPWING plugin</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T072617Z" creationid="wynnc" creationdate="20210504T072617Z">
+        <seg>EPWING 插件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ERROR: (declaring bean)</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T123240Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -28141,6 +28149,14 @@ Reopen the project now?</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In order to install the Web start version, you must already have Java version 1.8 or later installed on your computer.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T072454Z" creationid="wynnc" creationdate="20210504T072454Z">
+        <seg>要安装 Web start 版本，电脑上需要已安装有 Java 1.8 或更高版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In order to make the workings of the script code clearer, each script essentially performs only one function.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Zoe" changedate="20180412T142707Z" creationid="Zoe" creationdate="20180412T142707Z">
@@ -29515,6 +29531,14 @@ everything.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20200117T020859Z" creationid="18261" creationdate="20180413T022730Z">
         <seg>将Apertium 机器翻译功能集成到 OmegaT 中 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Integrates the TexTra neural machine translation engine into OmegaT. The TexTra API is freely provided by NICT, Japan government research agency.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T072615Z" creationid="wynnc" creationdate="20210504T072615Z">
+        <seg>将 TexTra 神经机器翻译引擎集成到 OmegaT 中。TexTra API 由日本政府研究机构 NICT 免费提供。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39720,6 +39744,14 @@ Vanishing like mist</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Periodic builds are available on SourceForge.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T072501Z" creationid="wynnc" creationdate="20210504T072501Z">
+        <seg>SourceForge 上提供了定期构建。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Periodic builds are available on Sourceforge.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190403T141010Z" creationid="WynnChen" creationdate="20190403T141010Z">
@@ -41298,10 +41330,26 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Provides filters for handling further file formats, including Trados TTX, and Markdown.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T072515Z" creationid="wynnc" creationdate="20210504T072515Z">
+        <seg>提供用于处理其他文件格式的过滤器，包括 Trados TTX 和 Markdown。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Provides filters for handling further file formats, including Trados TTX.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20200117T020835Z" creationid="18261" creationdate="20180413T022358Z">
         <seg>提供用于处理其他文件格式的过滤器，包括 Trados TTX。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Provides functionality to read EPWING dictionary format.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T072642Z" creationid="wynnc" creationdate="20210504T072642Z">
+        <seg>提供读取 EPWING 字典格式的功能。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48389,6 +48437,14 @@ material under section 10.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T122301Z" creationid="wynnc" creationdate="20190323T122301Z">
         <seg>测试中...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TexTra plugin</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T072520Z" creationid="wynnc" creationdate="20210504T072520Z">
+        <seg>TexTra 插件</seg>
       </tuv>
     </tu>
     <tu>
@@ -68128,6 +68184,22 @@ To add files to the project you can
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T053811Z" creationid="wynnc" creationdate="20190323T053039Z">
         <seg>mALIGNa (MIT 许可证)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>macOS Notarized</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T072656Z" creationid="wynnc" creationdate="20210504T072656Z">
+        <seg>macOS，已公证</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>macOS Unsigned</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T072702Z" creationid="wynnc" creationdate="20210504T072702Z">
+        <seg>macOS，未签名</seg>
       </tuv>
     </tu>
     <tu>
