@@ -13692,6 +13692,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Bugs, feature requests and documentation issues are handled on SourceForge by the following tracking systems. Please do not use these tracking systems before first raising the issue on the user group and/or mailing lists.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T071824Z" creationid="wynnc" creationdate="20210504T071824Z">
+        <seg>Bug、功能建议和文档问题是在 SourceForge 上通过以下跟踪系统处理的。未在用户组和/或邮件列表上提出问题之前，请不要使用这些跟踪系统。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Bugs, feature requests and documentation issues are handled on Sourceforge by the following tracking systems.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="cpeishan" changedate="20180407T111910Z" creationid="cpeishan" creationdate="20180407T111910Z">
@@ -22698,6 +22706,14 @@ know their rights.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For installation on other operating systems (such as FreeBSD and Solaris).&lt;br0/&gt; &lt;i1&gt;OmegaT can be installed on any operating system capable of running version 1.8 of the Java runtime environment.&lt;/i1&gt;</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T071851Z" creationid="wynnc" creationdate="20210504T071851Z">
+        <seg>用于在其他操作系统（例如 FreeBSD 和 Solaris）上安装。&lt;br0/&gt; &lt;i1&gt;OmegaT 可以安装在任何能够运行 Java 运行时环境 1.8 版的操作系统上。&lt;/i1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For instance (if the default is accepted), the translation from the ancillary TM is accepted and prefixed with&lt;e3&gt; [fuzzy]&lt;/e3&gt;, so that the translator can review the translations at a later stage and check whether the segments tagged this way, have been translated correctly (see the &lt;l4&gt;Editing behavior&lt;/l4&gt; chapter) &lt;m5&gt; &lt;g6&gt;.&lt;/g6&gt; &lt;/m5&gt;</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131126T092827Z">
@@ -26130,6 +26146,14 @@ notice like this when it starts in an interactive mode:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the source segment in one of the ancillary TMs is identical to the text being translated, OmegaT acts as defined in the &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Editing Behavior...&lt;/g2&gt; &lt;/m0&gt; dialog window. For instance (if the default is accepted), the translation from the ancillary TM is accepted and prefixed with&lt;e3&gt; [fuzzy]&lt;/e3&gt;, so that the translator can review the translations at a later stage and check whether the segments tagged this way, have been translated correctly.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T071642Z" creationid="wynnc" creationdate="20210504T071642Z">
+        <seg>如果辅助翻译记忆库中有与待译文本完全相同的原文片段，OmegaT 会按照&lt;m0&gt; &lt;g1&gt;选项&lt;/g1&gt; &lt;g2&gt;编辑行为...&lt;/g2&gt; &lt;/m0&gt;对话框窗口中定义的行为进行操作。例如（如果按默认值），使用来自辅助翻译记忆库的翻译并冠以&lt;e3&gt;[模糊]&lt;/e3&gt;前缀，这样译者可以在后面检查带有此标签的片段是否已正确翻译。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the source segment in one of the ancillary TMs is identical to the text being translated, OmegaT acts as defined in the &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Editing Behavior...&lt;/g2&gt; &lt;/m0&gt; dialog window. For instance (if the default is accepted), the translation from the ancillary TM is accepted and prefixed with&lt;e3&gt; [fuzzy]&lt;/e3&gt;, so that the translator can review the translations at a later stage and check whether the segments tagged this way, have been translated correctly&lt;m4&gt; &lt;g5&gt;.&lt;/g5&gt; &lt;/m4&gt;</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20200123T023331Z" creationid="WynnChen" creationdate="20200123T023331Z">
@@ -27559,6 +27583,14 @@ work and works based on it.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190410T104416Z" creationid="Fu Rhong" creationdate="20131111T114353Z">
         <seg>将项目导入 SVN 存储库 - Windows</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In &lt;g0&gt;Heapwise&lt;/g0&gt; comparison mode, the texts are evaluated globally. In &lt;g1&gt;Parsewise&lt;/g1&gt; comparison mode, they are evaluated segment by segment. The option only appears when such a selection is possible.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T071751Z" creationid="wynnc" creationdate="20210504T071751Z">
+        <seg>在&lt;g0&gt;按堆（Heapwise）&lt;/g0&gt;比较模式下，文本是整体评估的。在&lt;g1&gt;按段（Parsewise）&lt;/g1&gt;比较模式下，则逐个片段地评估。此选项仅当可以进行此选择时才会出现。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35117,6 +35149,14 @@ measures.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Notarized vs Unsigned</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T071958Z" creationid="wynnc" creationdate="20210504T071958Z">
+        <seg>已公正 vs 未签名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T154303Z" creationid="wynnc" creationdate="20190323T154303Z">
@@ -36376,6 +36416,14 @@ combination as such.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT also has the following mailing lists and trackers, which are hosted on SourceForge:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T071817Z" creationid="wynnc" creationdate="20210504T071817Z">
+        <seg>OmegaT还有以下邮件列表与跟踪器，它们托管在 SourceForge 上：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT also has the following mailing lists and trackers, which are hosted on Sourceforge:</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190327T171645Z" creationid="cpeishan" creationdate="20180407T110335Z">
@@ -36620,6 +36668,14 @@ combination as such.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Zenobia Fang" changedate="20180424T124148Z" creationid="Zenobia Fang" creationdate="20180424T123038Z">
         <seg>Mac OS X 上的 OmegaT 签名和未签名版都可用；他们在功能上相同，但首选签名版本，因为其是由已知开发者发布的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT for macOS is available in both Notarized and Unsigned versions; they are functionally identical, but the Notarized version is preferred as it is recognized by the system as being a) published by a known developer, and b) scanned by Apple.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T072136Z" creationid="wynnc" creationdate="20210504T072136Z">
+        <seg>适用于 macOS 的 OmegaT 具有已公证版本和未签名版都可用；他们在功能上相同，但首选签名版本，因为其是由已知开发者发布的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37775,6 +37831,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190402T030444Z" creationid="WynnChen" creationdate="20190402T030444Z">
         <seg>OmegaT 通常可以在任何能安装合适版本的 Java 运行环境（JRE）的 Linux 系统上运行。OmegaT 目前需要 JRE 1.6 或更高版本。要检查你的 Linux 系统上安装了哪个版本的 JRE（如果有），请打开控制台（命令行窗口）并输入：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT will usually run on any Linux system on which a suitable version of the Java Runtime Environment (JRE) can be be installed. OmegaT currently requires version 1.8 of the JRE or later. To check what version of the JRE, if any, is installed on your Linux system, open a console (command-line window) and type:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T071856Z" creationid="wynnc" creationdate="20210504T071856Z">
+        <seg>OmegaT 通常可以在任何能安装合适版本的 Java 运行环境（JRE）的 Linux 系统上运行。OmegaT 目前需要 JRE 1.8 或更高版本。要检查你的 Linux 系统上安装了哪个版本的 JRE（如果有），请打开控制台（命令行窗口）并输入：</seg>
       </tuv>
     </tu>
     <tu>
@@ -59093,6 +59157,14 @@ Commands:
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use the &lt;g0&gt;ID&lt;/g0&gt; comparison mode to align Key=Value texts. This works even if the keys are not in the same order in the two files, and/or if the two files do not contain the same amount of information. This option only appears if both the selected files are recognised as Key=Value files.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T071808Z" creationid="wynnc" creationdate="20210504T071808Z">
+        <seg>用 &lt;g0&gt;ID&lt;/g0&gt; 比较模式来对齐 键=值 文本。即使两个文件中键的顺序不同或两个文件包含的信息数量不等，这种方式也有效。仅当两个文件都被识别为 键=值 文件时才会出现此选项。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use the Iceni Infix filter.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Administrator" changedate="20180411T130712Z" creationid="Administrator" creationdate="20180411T130712Z">
@@ -68056,6 +68128,14 @@ To add files to the project you can
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20200117T070320Z" creationid="WynnChen" creationdate="20200117T070057Z">
         <seg>macOS 上的好事</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>macOS tries to increase security by making it difficult to run unverified programs.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T072057Z" creationid="wynnc" creationdate="20210504T072057Z">
+        <seg>macOS 视图通过让运行未经验证的程序变得困难来提高安全性。</seg>
       </tuv>
     </tu>
     <tu>
