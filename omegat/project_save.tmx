@@ -23575,6 +23575,14 @@ authors of previous versions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Glossary &amp;layout:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T045856Z" creationid="wynnc" creationdate="20210504T045856Z">
+        <seg>词汇表布局(&amp;L)：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Glossary Files Folder</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -63189,14 +63197,14 @@ To add files to the project you can
 - click on Copy Files to Source Folder... in the Project Files window
 - copy files to the project's 'source' folder with your file manager, and then reload the project with Project &gt; Reload.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T045708Z" creationid="wynnc" creationdate="20210504T045708Z">
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T045757Z" creationid="wynnc" creationdate="20210504T045708Z">
         <seg>您的项目不包含任何所支持格式的文件。
 支持的文件格式清单，请参阅 选项 &gt; 文件过滤器。
 要向项目中添加文件，您可以：
 - 将文件拖放到此编辑器窗格
 - 使用 项目 &gt; 将文件复制到原文文件夹...
 - 在 项目文件 窗口中点击 将文件复制到原文文件夹...
-- copy files to the project's 'source' folder with your file manager, and then reload the project with Project &gt; Reload.</seg>
+- 用文件管理器将文件复制到项目的“source”文件夹中，然后用 项目 &gt; 重新载入 来重新载入项目。</seg>
       </tuv>
     </tu>
     <tu>
