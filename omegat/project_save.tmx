@@ -16726,8 +16726,8 @@ unpacking, reading or copying.</seg>
       <tuv lang="en">
         <seg>Create Alternative Translation</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20200811T055818Z" creationid="wynnc" creationdate="20190320T045507Z">
-        <seg>创建替代译文</seg>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T050024Z" creationid="wynnc" creationdate="20190320T045507Z">
+        <seg>创建不同译文</seg>
       </tuv>
     </tu>
     <tu>
@@ -29545,8 +29545,8 @@ everything.</seg>
       <tuv lang="en">
         <seg>Is alternative</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20200120T060854Z" creationid="wynnc" creationdate="20190324T025419Z">
-        <seg>是替代译文</seg>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T050211Z" creationid="wynnc" creationdate="20190324T025419Z">
+        <seg>是备选译文</seg>
       </tuv>
     </tu>
     <tu>
@@ -33369,6 +33369,14 @@ later version.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T153751Z" creationid="wynnc" creationdate="20190323T153751Z">
         <seg>合并</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Merge alternate definitions for the same term</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T045918Z" creationid="wynnc" creationdate="20210504T045918Z">
+        <seg>合并同一词汇的不同定义</seg>
       </tuv>
     </tu>
     <tu>
