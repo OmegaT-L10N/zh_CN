@@ -50821,6 +50821,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The glossary function uses stemming to find matches. Deactivate &lt;g0&gt;Use stemming for glossary entries&lt;/g0&gt; in the OmegaT global preferences to only find exact matches for a term.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T053222Z" creationid="wynnc" creationdate="20210504T053222Z">
+        <seg>词汇表功能使用词干分析来查找匹配项。在 OmegaT 的全局首选项中停用&lt;g0&gt;Use stemming for glossary entries&lt;/g0&gt; in the  global preferences to only find exact matches for a term.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The great majority of work on the OmegaT project has been completed on a voluntary basis. Certain program functions have however been commissioned by commercial sponsors who have then donated the features back to the community. To date, these sponsors are:</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20200117T033905Z" creationid="WynnChen" creationdate="20200117T033905Z">
@@ -52536,6 +52544,14 @@ protocols for communication across the network.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20200123T013810Z" creationid="WynnChen" creationdate="20200123T013810Z">
         <seg>source 子文件夹包含要翻译的文件。之后您可以将文件添加到其中。注意：source 子文件夹的结构可以随您喜好采用任何形式。如果要翻译的文件是树形结构的一部分（比如像网站中），你只需要指定顶级子文件夹，OmegaT 将维护整个内容同时维持树形结构不变。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The source term can be a multi-word term.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T053106Z" creationid="wynnc" creationdate="20210504T053106Z">
+        <seg>词汇原文可以是多单词词汇。</seg>
       </tuv>
     </tu>
     <tu>
