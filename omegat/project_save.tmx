@@ -50823,8 +50823,8 @@ instead.</seg>
       <tuv lang="en">
         <seg>The glossary function uses stemming to find matches. Deactivate &lt;g0&gt;Use stemming for glossary entries&lt;/g0&gt; in the OmegaT global preferences to only find exact matches for a term.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T053222Z" creationid="wynnc" creationdate="20210504T053222Z">
-        <seg>词汇表功能使用词干分析来查找匹配项。在 OmegaT 的全局首选项中停用&lt;g0&gt;Use stemming for glossary entries&lt;/g0&gt; in the  global preferences to only find exact matches for a term.</seg>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T055432Z" creationid="wynnc" creationdate="20210504T053222Z">
+        <seg>词汇表功能使用词干分析来查找匹配项。在 OmegaT 的全局首选项中停用&lt;g0&gt;对词条使用词干分析&lt;/g0&gt;可以只查找词汇的精确匹配项。</seg>
       </tuv>
     </tu>
     <tu>
