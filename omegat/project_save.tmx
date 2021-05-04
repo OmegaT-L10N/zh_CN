@@ -36576,6 +36576,14 @@ combination as such.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT glossary files are simple plain text three-column lists with the source term in the first column, an optional target term in the second column and an optional comment in the third column.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T060242Z" creationid="wynnc" creationdate="20210504T060242Z">
+        <seg>OmegaT 词汇表文件是简单的纯文本三列列表，第一列是词汇原文，第二列是词汇译文，而第三列则是注释。第二列和第三列都是可选的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT has a built-in spell checker based on the &lt;l0&gt;spelling checker&lt;/l0&gt; used in Apache OpenOffice, LibreOffice, Firefox and Thunderbird. It is consequently able to use the huge range of free spelling dictionaries available for these applications.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190901T154359Z" creationid="WynnChen" creationdate="20190901T154359Z">
