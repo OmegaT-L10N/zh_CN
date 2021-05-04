@@ -23559,6 +23559,14 @@ authors of previous versions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Glossaries are terminology files. They can be created and updated manually or imported from other projects.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T050851Z" creationid="wynnc" creationdate="20210504T050851Z">
+        <seg>词汇表是术语文件。可以手工创建和更新之，也可以从其他项目中导入。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Glossaries, Glossary pane</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="xulihang" changedate="20180404T021248Z" creationid="Fu Rhong" creationdate="20131116T114313Z">
@@ -23679,6 +23687,14 @@ authors of previous versions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Glossary note</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T050732Z" creationid="wynnc" creationdate="20210504T050732Z">
+        <seg>词汇备注</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Glossary pane</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190522T033606Z">
@@ -23691,6 +23707,22 @@ authors of previous versions.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20200122T064840Z" creationid="Doris" creationdate="20180418T170449Z">
         <seg>词汇表窗格：拖进去的带有已知词汇表扩展名（&lt;f0&gt;.txt&lt;/f0&gt;、&lt;f1&gt;.tab&lt;/f1&gt; 等）的文件将被复制到&lt;f2&gt;词汇表&lt;/f2&gt;文件夹中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossary source</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T050733Z" creationid="wynnc" creationdate="20210504T050712Z">
+        <seg>词汇原文</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossary translation</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T050739Z" creationid="wynnc" creationdate="20210504T050717Z">
+        <seg>词汇译文</seg>
       </tuv>
     </tu>
     <tu>
@@ -30783,6 +30815,14 @@ itself on the first run. Later calls do not need to be online.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Keep tags in translated text</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T050616Z" creationid="wynnc" creationdate="20210504T050616Z">
+        <seg>在译文中保留标签</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Keep up your good work!</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120205T091639Z">
@@ -33065,6 +33105,14 @@ later version.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Mac Pro" changedate="20180425T192035Z" creationid="Mac Pro" creationdate="20180425T191920Z">
         <seg>通过反复点击来标记每个段落，直到整个段落突出显示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mark unknown words</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T050527Z" creationid="wynnc" creationdate="20210504T050527Z">
+        <seg>标记未知单词</seg>
       </tuv>
     </tu>
     <tu>
@@ -39808,6 +39856,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T142127Z" creationid="wynnc" creationdate="20190320T045507Z">
         <seg>请输入用户名/密码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please enter username/password for {0}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T050655Z" creationid="wynnc" creationdate="20210504T050636Z">
+        <seg>请输入{0}的用户名/密码</seg>
       </tuv>
     </tu>
     <tu>
@@ -61443,6 +61499,14 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T142129Z" creationid="wynnc" creationdate="20190320T045507Z">
         <seg>错误的用户名/密码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wrong username/password for {0}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T050650Z" creationid="wynnc" creationdate="20210504T050650Z">
+        <seg>{0}的用户名/密码错误</seg>
       </tuv>
     </tu>
     <tu>
