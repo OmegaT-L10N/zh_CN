@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.0_0_b4b425d5e" segtype="paragraph" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_a36a07247" segtype="paragraph" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -63177,6 +63177,26 @@ To add files to the project, click on the Copy Files to Source Folder... button 
         <seg>您的项目不包含任何所支持格式的文件。
 （在用户手册中，参见“待翻译文件” &gt; “文件格式”来了解支持的文件格式。）
 要添加文件到项目中，在项目文件窗口中点击复制文件到源文件夹...按钮或从项目菜单中调用此功能，并选定你想要复制的源文件。你也可以用偏爱的文件管理器将文件复制到项目的“source”文件夹然后通过调用项目菜单中的重新载入项目命令来重新载入项目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your project does not contain any files in a supported file format.
+See Options &gt; File filters for a list of supported file formats.
+To add files to the project you can
+- drag and drop files on this Editor pane
+- use Project &gt; Copy Files to Source Folder...
+- click on Copy Files to Source Folder... in the Project Files window
+- copy files to the project's 'source' folder with your file manager, and then reload the project with Project &gt; Reload.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T045708Z" creationid="wynnc" creationdate="20210504T045708Z">
+        <seg>您的项目不包含任何所支持格式的文件。
+支持的文件格式清单，请参阅 选项 &gt; 文件过滤器。
+要向项目中添加文件，您可以：
+- 将文件拖放到此编辑器窗格
+- 使用 项目 &gt; 将文件复制到原文文件夹...
+- 在 项目文件 窗口中点击 将文件复制到原文文件夹...
+- copy files to the project's 'source' folder with your file manager, and then reload the project with Project &gt; Reload.</seg>
       </tuv>
     </tu>
     <tu>
