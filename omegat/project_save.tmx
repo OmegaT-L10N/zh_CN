@@ -50429,6 +50429,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The file does not need to exist when setting it, it will be created when adding the first glossary entry. If the file already exists, no attempt is done to verify the format or the character set of the file: the new entries will always be in tab-separated format and the file will be saved in UTF-8 encoding.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T052439Z" creationid="wynnc" creationdate="20210504T052439Z">
+        <seg>进行设置时，并不要求相应文件已存在，在添加第一个词条时会自动创建之。如果该文件已存在，不会对其格式或字符集进行检查：新条目始终采用制表符分隔的格式，并且文件将会以 UTF-8 编码保存。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The file is commented to help you.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="think" changedate="20180416T085825Z" creationid="think" creationdate="20180416T085825Z">
