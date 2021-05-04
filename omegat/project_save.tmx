@@ -16718,8 +16718,8 @@ unpacking, reading or copying.</seg>
       <tuv lang="en">
         <seg>Create &amp;Glossary Entry...</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T093810Z" creationid="wynnc" creationdate="20190320T045507Z">
-        <seg>创建词汇表条目(&amp;G)...</seg>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T052603Z" creationid="wynnc" creationdate="20190320T045507Z">
+        <seg>创建词条(&amp;G)...</seg>
       </tuv>
     </tu>
     <tu>
@@ -16766,8 +16766,8 @@ unpacking, reading or copying.</seg>
       <tuv lang="en">
         <seg>Create Glossary Entry</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
-        <seg>创建词汇表条目</seg>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T052615Z" creationid="wynnc" creationdate="20190320T045507Z">
+        <seg>创建词条</seg>
       </tuv>
     </tu>
     <tu>
@@ -55767,6 +55767,14 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To add a new term to the writable glossary use &lt;g0&gt;Edit&lt;/g0&gt; &gt; &lt;g1&gt;Create Glossary Entry&lt;/g1&gt; (&lt;k2&gt;Ctrl+Shift+G&lt;/k2&gt;). Newly added terms will be immediately recognized. To add new terms to reference glossaries, edit them in an external text editor. Newly added terms will be recognized as soon as the changes have been saved.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T052555Z" creationid="wynnc" creationdate="20210504T052555Z">
+        <seg>要向可写词汇表中添加新词汇，请使用 &lt;g0&gt;编辑&lt;/g0&gt; &gt; &lt;g1&gt;创建词条Create Glossary Entry&lt;/g1&gt; (&lt;k2&gt;Ctrl+Shift+G&lt;/k2&gt;). Newly added terms will be immediately recognized. To add new terms to reference glossaries, edit them in an external text editor. Newly added terms will be recognized as soon as the changes have been saved.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To add an automatic refresh function to Firefox, &lt;a2&gt;install the "ReloadEvery" add-on&lt;/a2&gt;.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="lenovo" changedate="20180414T105653Z" creationid="lenovo" creationdate="20180414T102752Z">
@@ -56690,6 +56698,14 @@ you modify it: responsibilities to respect the freedom of others.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190902T101117Z" creationid="wynnc" creationdate="20190902T101117Z">
         <seg>首次使用团队项目时，请按照项目经理所提供的流程进行操作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To use an existing glossary, simply place it in the &lt;f0&gt;/glossary&lt;/f0&gt; folder after creating the project. &lt;a1&gt;OmegaT&lt;/a1&gt; automatically detects glossary files in this folder when a project is opened.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T052505Z" creationid="wynnc" creationdate="20210504T052505Z">
+        <seg>要使用现有的术语表，只需在创建项目后将它放到 &lt;f0&gt;/glossary&lt;/f0&gt; 目录下。在打开项目时，&lt;a1&gt;OmegaT&lt;/a1&gt; 会自动检测该目录下的术语表文件。</seg>
       </tuv>
     </tu>
     <tu>
