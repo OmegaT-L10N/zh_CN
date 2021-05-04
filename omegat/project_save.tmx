@@ -9549,8 +9549,8 @@ this License.</seg>
       <tuv lang="en">
         <seg>A given source segment may require several different translations, depending on the context. If the current translation of the segment does not fit, the user can select &lt;g0&gt;Edit → Create Alternative Translation&lt;/g0&gt;. The target text entered after that will be treated as an alternative translation of the source segment. You can define one of the alternative - for instance the most probable among them - as default translation by selecting &lt;g1&gt;Edit → Use as Default Translation&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20200122T092604Z" creationid="WynnChen" creationdate="20200122T092604Z">
-        <seg>一条给定的原文片段可能需要多种不同翻译，具体取决于上下文。如果片段的当前翻译并不合适，用户可以选择&lt;g0&gt;编辑 → 创建替代译文&lt;/g0&gt;。随后所输入的译文文本会视为此原文片段的一种替代译文。您可以通过选择&lt;g1&gt;编辑 → 用作默认译文&lt;/g1&gt;将各种替代项之一——例如，其中最可能用到的那条——定义为默认译文</seg>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T050514Z" creationid="WynnChen" creationdate="20200122T092604Z">
+        <seg>一条给定的原文片段可能需要多种不同翻译，具体取决于上下文。如果片段的当前翻译并不合适，用户可以选择&lt;g0&gt;编辑 → 创建不同译文&lt;/g0&gt;。随后所输入的译文文本会视为此原文片段的一种替代译文。您可以通过选择&lt;g1&gt;编辑 → 用作默认译文&lt;/g1&gt;将各种替代项之一——例如，其中最可能用到的那条——定义为默认译文</seg>
       </tuv>
     </tu>
     <tu>
@@ -23722,8 +23722,8 @@ authors of previous versions.</seg>
       <tuv lang="en">
         <seg>Go To Next Untranslated Segment stops where there is at least one alternative translation</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20200120T061134Z" creationid="Fu Rhong" creationdate="20131113T020124Z">
-        <seg>转到下一个未译片段的功能在有替代译文的片段处也会停下</seg>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T050308Z" creationid="Fu Rhong" creationdate="20131113T020124Z">
+        <seg>转到下一个未译片段的功能在有多重译文的片段处也会停下</seg>
       </tuv>
     </tu>
     <tu>
@@ -26124,8 +26124,8 @@ notice like this when it starts in an interactive mode:</seg>
       <tuv lang="en">
         <seg>If there's several alternative translations available for the active segment, you can label the alternative selected as the default translation. The entry will be greyed, if there's just one translation available.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20200120T061331Z" creationid="WynnChen" creationdate="20200120T060439Z">
-        <seg>如果当前片段有多个替代译文，您可以将所选择的译文标记为默认译文。如果只有一个可用译文，则该条目将为灰色。</seg>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T050342Z" creationid="WynnChen" creationdate="20200120T060439Z">
+        <seg>如果当前片段有多个备选译文，您可以将所选择的译文标记为默认译文。如果只有一个可用译文，则该条目将为灰色。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27063,8 +27063,8 @@ to use Java Web Start.</seg>
       <tuv lang="en">
         <seg>If you right click on the Editor pane, a pop-up menu opens, offering&lt;e0&gt; Cut, Copy, Paste&lt;/e0&gt; (i.e. same functions as &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;X&lt;/k3&gt; &lt;/k1&gt;, &lt;k4&gt; &lt;k5&gt;Ctrl&lt;/k5&gt; &lt;k6&gt;C&lt;/k6&gt; &lt;/k4&gt; and &lt;k7&gt; &lt;k8&gt;Ctrl&lt;/k8&gt; &lt;k9&gt;V&lt;/k9&gt; &lt;/k7&gt;), &lt;e10&gt;GoTo segment&lt;/e10&gt; and &lt;e11&gt;Add glossary entry&lt;/e11&gt; functions. In addition, when the right click occurs on an opened segment, other options concerning &lt;e12&gt;Alternative translations&lt;/e12&gt; are proposed, for example to to jump to another instance of non-unique segments.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20200122T083412Z" creationid="WynnChen" creationdate="20200122T083412Z">
-        <seg>如果在编辑器窗格上右键单击，会打开一个弹出菜单，其中提供了&lt;e0&gt;剪切、复制、粘贴&lt;/e0&gt;（即&lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;X&lt;/k3&gt; &lt;/k1&gt;、&lt;k4&gt; &lt;k5&gt;Ctrl&lt;/k5&gt; &lt;k6&gt;C&lt;/k6&gt; &lt;/k4&gt; 和 &lt;k7&gt; &lt;k8&gt;Ctrl&lt;/k8&gt; &lt;k9&gt;V&lt;/k9&gt; &lt;/k7&gt;的功能)、&lt;e10&gt;转到片段&lt;/e10&gt;和&lt;e11&gt;添加词汇表条目&lt;/e11&gt;功能。另外，如果是在打开的片段上右键单击，还会提供与&lt;e12&gt;替代译文&lt;/e12&gt;有关的其他选项，例如，跳转到非独特片段的另一个实例。</seg>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T050419Z" creationid="WynnChen" creationdate="20200122T083412Z">
+        <seg>如果在编辑器窗格上右键单击，会打开一个弹出菜单，其中提供了&lt;e0&gt;剪切、复制、粘贴&lt;/e0&gt;（即&lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;X&lt;/k3&gt; &lt;/k1&gt;、&lt;k4&gt; &lt;k5&gt;Ctrl&lt;/k5&gt; &lt;k6&gt;C&lt;/k6&gt; &lt;/k4&gt; 和 &lt;k7&gt; &lt;k8&gt;Ctrl&lt;/k8&gt; &lt;k9&gt;V&lt;/k9&gt; &lt;/k7&gt;的功能)、&lt;e10&gt;转到片段&lt;/e10&gt;和&lt;e11&gt;添加词汇表条目&lt;/e11&gt;功能。另外，如果是在打开的片段上右键单击，还会提供与&lt;e12&gt;多重译文&lt;/e12&gt;有关的其他选项，例如，跳转到非独特片段的另一个实例。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27373,8 +27373,8 @@ work and works based on it.</seg>
       <tuv lang="en">
         <seg>Ignore file context when identifying segments with alternate translations: by default, OmegaT uses the source file name as part of the identification of an alternative translation. If the option is checked, the source file name will not be used, and alternative translations will take effect in any file as long as the other context (previous/next segments or some sort of segment identifier, depending on the file format) matches.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20200120T060942Z" creationid="WynnChen" creationdate="20190831T053431Z">
-        <seg>识别有替代翻译的片段时忽略文件上下文：默认情况下，OmegaT 用原文文件名作为替代翻译的识别信息的一部分。如果勾选了此选项，则不使用原文文件名，而只要其他上下文（上一个/下一个片段或依赖于文件格式的某种片段标识）匹配，替代翻译会在任意文件中生效。</seg>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T050251Z" creationid="WynnChen" creationdate="20190831T053431Z">
+        <seg>识别有替代翻译的片段时忽略文件上下文：默认情况下，OmegaT 用原文文件名作为备选译文的识别信息的一部分。如果勾选了此选项，则不使用原文文件名，而只要其他上下文（上一个/下一个片段或依赖于文件格式的某种片段标识）匹配，备选译文会在任意文件中生效。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27757,8 +27757,8 @@ work and works based on it.</seg>
       <tuv lang="en">
         <seg>In case there are non-unique segments in source documents, the Auto-propagation check box offers the user the following two possibilities as regards automatic translation: if checked, the first translated segment will be assumed as the default translation and its target text will be automatically used for later hits during the translation process. Mistranslated segments can of course be corrected later manually using &lt;g0&gt;Create Alternative Translation&lt;/g0&gt;. If the Auto-propagation check box is not checked, the segments with alternative translations are left untranslated until the user has decided which translation is to be used.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20200120T061213Z" creationid="WynnChen" creationdate="20190901T174522Z">
-        <seg>如果原文文档中包含非独特片段，自动传播翻译复选框为用户提供了下面两种自动翻译的可能性：如果勾选，则第一个被翻译的片段将假定为默认翻译，其译文文本在翻译过程中会自动用于后继命中。当然，错译片段之后可以手动用&lt;g0&gt;创建替代译文&lt;/g0&gt;来纠正。如果未勾选自动传播复选框，则含有替代译文的片段会保持未译状态直到用户决定使用哪种译文。</seg>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T050334Z" creationid="WynnChen" creationdate="20190901T174522Z">
+        <seg>如果原文文档中包含非独特片段，自动传播翻译复选框为用户提供了下面两种自动翻译的可能性：如果勾选，则第一个被翻译的片段将假定为默认翻译，其译文文本在翻译过程中会自动用于后继命中。当然，错译片段之后可以手动用&lt;g0&gt;创建不同译文&lt;/g0&gt;来纠正。如果未勾选自动传播复选框，则含有替代译文的片段会保持未译状态直到用户决定使用哪种译文。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28177,8 +28177,8 @@ Reopen the project now?</seg>
       <tuv lang="en">
         <seg>In some seldom cases the alternative, i.e. segmenting by paragraphs, may be preferred. Changing this flag does not modify the segmentation of already existing translation memories. If you decide mid-translation to switch from sentence to paragraph translation, the internal translation memory of the project will not be changed (OmegaT may upgrade old translation memories that did not use sentence segmentation, but not vice versa), but OmegaT will attempt to create paragraph fuzzy matches by gluing together existing sentence translations.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20190901T173913Z" creationid="WynnChen" creationdate="20190901T173913Z">
-        <seg>在一些少见情况下，替代方案，即按段落分割，可能会更好。更改此标志不会影响现有翻译记忆库中的片段。如果您在翻译中途决定从语句翻译切换至段落翻译，项目的内部翻译记忆库不会更改（OmegaT 可能会升级不使用语句分割的旧翻译记忆库，但反之则不然），但 OmegaT 会尝试通过组合现有的句子翻译来创建段落模糊匹配。</seg>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T050322Z" creationid="WynnChen" creationdate="20190901T173913Z">
+        <seg>在一些少见情况下，另一种选择，即按段落分割，可能会更好。更改此标志不会影响现有翻译记忆库中的片段。如果您在翻译中途决定从语句翻译切换至段落翻译，项目的内部翻译记忆库不会更改（OmegaT 可能会升级不使用语句分割的旧翻译记忆库，但反之则不然），但 OmegaT 会尝试通过组合现有的句子翻译来创建段落模糊匹配。</seg>
       </tuv>
     </tu>
     <tu>
