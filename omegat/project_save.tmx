@@ -17871,6 +17871,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Default glossary</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T051127Z" creationid="wynnc" creationdate="20210504T051127Z">
+        <seg>默认词汇表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Default is &lt;l0&gt;${filename}&lt;/l0&gt;– full filename of the source file with extension: in this case the name of the translated file is the same as that of the source file.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190831T151823Z">
@@ -30419,6 +30427,14 @@ itself on the first run. Later calls do not need to be online.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Zenobia Fang" changedate="20180423T154802Z" creationid="Zenobia Fang" creationdate="20180423T154802Z">
         <seg>其文档通常合理有效，至少英文文档如此。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Its name and location can be modified in the project properties dialog but its extension must be &lt;f0&gt;.txt&lt;/f0&gt; or &lt;f1&gt;.utf8&lt;/f1&gt; and its location must be contained in the &lt;f2&gt;/glossary&lt;/f2&gt; project folder.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T052229Z" creationid="wynnc" creationdate="20210504T052229Z">
+        <seg>可以在项目属性对话框中更改其名称和位置，但其扩展名必须是 &lt;f0&gt;.txt&lt;/f0&gt; 或 &lt;f1&gt;.utf8&lt;/f1&gt;，且其位置必须位于 &lt;f2&gt;/glossary&lt;/f2&gt; 项目文件夹下。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50097,6 +50113,14 @@ instead.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190409T044208Z">
         <seg>Mac 的默认 OmegaT 快捷键同样可从 Sourceforge 获取，它们全都使用“meta”来代替“ctrl”：&lt;u0&gt;Mac 的默认 OmegaT 快捷键&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The default writable glossary is located in the the &lt;f0&gt;/glossary&lt;/f0&gt; project folder and is called &lt;f1&gt;glossary.txt&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T051156Z" creationid="wynnc" creationdate="20210504T051156Z">
+        <seg>默认的可写词汇表位于 &lt;f0&gt;/glossary&lt;/f0&gt; 项目文件夹中，名为 &lt;f1&gt;glossary.txt&lt;/f1&gt;。</seg>
       </tuv>
     </tu>
     <tu>
