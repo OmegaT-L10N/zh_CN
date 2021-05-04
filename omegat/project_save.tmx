@@ -56065,6 +56065,14 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To display the &lt;g0&gt;Autocompletion&lt;/g0&gt; contextual menu for the glossary matches, hit the OS dependant key (&lt;k1&gt;Escape&lt;/k1&gt; for macOS, &lt;k2&gt;Ctrl+Space&lt;/k2&gt; for the other platforms).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T055838Z" creationid="wynnc" creationdate="20210504T055838Z">
+        <seg>要显示词汇表匹配项的&lt;g0&gt;自动完成&lt;/g0&gt;上下文菜单，请按与操作系统关联的热键（对于 macOS 是 &lt;k1&gt;Escape&lt;/k1&gt;，其他平台则是 &lt;k2&gt;Ctrl+Space&lt;/k2&gt;）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To display the instant start guide in the desired language, you need to specify both the language and the country.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120208T051745Z">
@@ -56682,6 +56690,14 @@ you modify it: responsibilities to respect the freedom of others.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="lenovo" changedate="20180416T165423Z" creationid="lenovo" creationdate="20180416T165423Z">
         <seg>要在OmegaT中翻译后者，您必须按如下方式注册带有HTML和XHTML过滤器的.php扩展名：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To underline matching terms in the source part of the segment use &lt;g0&gt;View&lt;/g0&gt; &gt; &lt;g1&gt;Mark Glossary Matches&lt;/g1&gt;. Right-click on the underlined term and select a target term to insert it at the cursor location in the target part of the segment.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T060029Z" creationid="wynnc" creationdate="20210504T060029Z">
+        <seg>若要在片段的原文部分中给匹配的词汇加上下划线，请使用&lt;g0&gt;视图&lt;/g0&gt; &gt; &lt;g1&gt;标记词汇表匹配&lt;/g1&gt;。右键点击带下划线的词汇并选择一个词汇译文可以将其插入片段的译文部分中当前光标位置处。</seg>
       </tuv>
     </tu>
     <tu>
