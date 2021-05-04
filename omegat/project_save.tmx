@@ -10291,8 +10291,8 @@ included in conveying the object code work.</seg>
       <tuv lang="en">
         <seg>Add Glossary Entry</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T090718Z" creationid="wynnc" creationdate="20190323T090718Z">
-        <seg>添加词汇表条目</seg>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T052645Z" creationid="wynnc" creationdate="20190323T090718Z">
+        <seg>添加词条</seg>
       </tuv>
     </tu>
     <tu>
@@ -10427,8 +10427,8 @@ included in conveying the object code work.</seg>
       <tuv lang="en">
         <seg>Added {0} glossary entries from {1}</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190322T062010Z" creationid="wynnc" creationdate="20190320T045507Z">
-        <seg>已添加来自 {1} 的 {0} 个词汇表条目</seg>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T052810Z" creationid="wynnc" creationdate="20190320T045507Z">
+        <seg>已添加来自 {1} 的 {0} 个词条</seg>
       </tuv>
     </tu>
     <tu>
@@ -18854,8 +18854,8 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="en">
         <seg>Displays the glossary entries found in the glossary files located in the /glossary/ folder if they are present in the source segment. You can create glossary entries with Create Glossary Entry in the Edit menu. Entries from the writeable glossary are in bold.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20190326T162528Z" creationid="WynnChen" creationdate="20190326T162528Z">
-        <seg>显示出现于原文片段中词汇表条目。词汇表条目位于 /glossary/ 目录下的词汇表文件中。你可以用编辑菜单中的创建词汇表条目功能来创建词汇表条目。来自可写词汇表的条目会以粗体显示。</seg>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T052810Z" creationid="WynnChen" creationdate="20190326T162528Z">
+        <seg>显示出现于原文片段中的词条。词条位于 /glossary/ 目录下的词汇表文件中。你可以用编辑菜单中的创建词条功能来创建词条。来自可写词汇表的条目会以粗体显示。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19884,8 +19884,8 @@ by the Free Software Foundation.</seg>
       <tuv lang="en">
         <seg>Edit &gt; Create Glossary Entry (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;G&lt;/k3&gt; &lt;/k0&gt;): add a new glossary item.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20200123T062249Z" creationid="WynnChen" creationdate="20200123T062249Z">
-        <seg>编辑 &gt; 创建词汇表条目（&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;G&lt;/k3&gt; &lt;/k0&gt;）：添加新词汇表条目。</seg>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T052810Z" creationid="WynnChen" creationdate="20200123T062249Z">
+        <seg>编辑 &gt; 创建词条（&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;G&lt;/k3&gt; &lt;/k0&gt;）：添加新词条。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23641,8 +23641,8 @@ authors of previous versions.</seg>
       <tuv lang="en">
         <seg>Glossary entries</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
-        <seg>词汇表条目</seg>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T052810Z" creationid="wynnc" creationdate="20190320T045507Z">
+        <seg>词条</seg>
       </tuv>
     </tu>
     <tu>
@@ -23753,8 +23753,8 @@ authors of previous versions.</seg>
       <tuv lang="en">
         <seg>Glossary/Use Stemming for Glossary Entries</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20190410T153020Z" creationid="lenovo" creationdate="20180411T140051Z">
-        <seg>词汇表/对词汇表条目使用词干分析</seg>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T052810Z" creationid="lenovo" creationdate="20180411T140051Z">
+        <seg>词汇表/对词条使用词干分析</seg>
       </tuv>
     </tu>
     <tu>
@@ -25333,8 +25333,8 @@ need not be entered.)</seg>
       <tuv lang="en">
         <seg>If both this option and the &lt;l0&gt;&lt;g1&gt;Insert the source text&lt;/g1&gt;&lt;/l0&gt; option are selected, all words with a corresponding glossary entry will be translated automatically when the source text is inserted.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20190801T160144Z" creationid="WynnChen" creationdate="20190801T160144Z">
-        <seg>如果同时勾选了此选项与&lt;l0&gt;&lt;g1&gt;插入原文文本&lt;/g1&gt;&lt;/l0&gt;选项，当插入原文文本时，所有有着相应词汇表条目的词汇都会被自动翻译。</seg>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T052810Z" creationid="WynnChen" creationdate="20190801T160144Z">
+        <seg>如果同时勾选了此选项与&lt;l0&gt;&lt;g1&gt;插入原文文本&lt;/g1&gt;&lt;/l0&gt;选项，当插入原文文本时，所有有着相应词条的词汇都会被自动翻译。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27111,8 +27111,8 @@ to use Java Web Start.</seg>
       <tuv lang="en">
         <seg>If you right click on the Editor pane, a pop-up menu opens, offering&lt;e0&gt; Cut, Copy, Paste&lt;/e0&gt; (i.e. same functions as &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;X&lt;/k3&gt; &lt;/k1&gt;, &lt;k4&gt; &lt;k5&gt;Ctrl&lt;/k5&gt; &lt;k6&gt;C&lt;/k6&gt; &lt;/k4&gt; and &lt;k7&gt; &lt;k8&gt;Ctrl&lt;/k8&gt; &lt;k9&gt;V&lt;/k9&gt; &lt;/k7&gt;), &lt;e10&gt;GoTo segment&lt;/e10&gt; and &lt;e11&gt;Add glossary entry&lt;/e11&gt; functions. In addition, when the right click occurs on an opened segment, other options concerning &lt;e12&gt;Alternative translations&lt;/e12&gt; are proposed, for example to to jump to another instance of non-unique segments.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T050419Z" creationid="WynnChen" creationdate="20200122T083412Z">
-        <seg>如果在编辑器窗格上右键单击，会打开一个弹出菜单，其中提供了&lt;e0&gt;剪切、复制、粘贴&lt;/e0&gt;（即&lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;X&lt;/k3&gt; &lt;/k1&gt;、&lt;k4&gt; &lt;k5&gt;Ctrl&lt;/k5&gt; &lt;k6&gt;C&lt;/k6&gt; &lt;/k4&gt; 和 &lt;k7&gt; &lt;k8&gt;Ctrl&lt;/k8&gt; &lt;k9&gt;V&lt;/k9&gt; &lt;/k7&gt;的功能)、&lt;e10&gt;转到片段&lt;/e10&gt;和&lt;e11&gt;添加词汇表条目&lt;/e11&gt;功能。另外，如果是在打开的片段上右键单击，还会提供与&lt;e12&gt;多重译文&lt;/e12&gt;有关的其他选项，例如，跳转到非独特片段的另一个实例。</seg>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T052810Z" creationid="WynnChen" creationdate="20200122T083412Z">
+        <seg>如果在编辑器窗格上右键单击，会打开一个弹出菜单，其中提供了&lt;e0&gt;剪切、复制、粘贴&lt;/e0&gt;（即&lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;X&lt;/k3&gt; &lt;/k1&gt;、&lt;k4&gt; &lt;k5&gt;Ctrl&lt;/k5&gt; &lt;k6&gt;C&lt;/k6&gt; &lt;/k4&gt; 和 &lt;k7&gt; &lt;k8&gt;Ctrl&lt;/k8&gt; &lt;k9&gt;V&lt;/k9&gt; &lt;/k7&gt;的功能)、&lt;e10&gt;转到片段&lt;/e10&gt;和&lt;e11&gt;添加词条&lt;/e11&gt;功能。另外，如果是在打开的片段上右键单击，还会提供与&lt;e12&gt;多重译文&lt;/e12&gt;有关的其他选项，例如，跳转到非独特片段的另一个实例。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42281,8 +42281,8 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Replace &amp;glossary hits when inserting source text</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T174922Z" creationid="wynnc" creationdate="20190320T102410Z">
-        <seg>插入原文文本时替换命中的词汇表条目(&amp;G)</seg>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T052810Z" creationid="wynnc" creationdate="20190320T102410Z">
+        <seg>插入原文文本时替换命中的词条(&amp;G)</seg>
       </tuv>
     </tu>
     <tu>
@@ -42371,8 +42371,8 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Replace glossary hits when inserting source text</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20190801T154645Z" creationid="WynnChen" creationdate="20190801T154645Z">
-        <seg>插入原文文本时替换命中的词汇表条目</seg>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T052810Z" creationid="WynnChen" creationdate="20190801T154645Z">
+        <seg>插入原文文本时替换命中的词条</seg>
       </tuv>
     </tu>
     <tu>
@@ -50519,8 +50519,8 @@ instead.</seg>
       <tuv lang="en">
         <seg>The first is the shortcut for &lt;g0&gt;Open Project&lt;/g0&gt;, the second for &lt;g1&gt;Create Glossary Entry&lt;/g1&gt;.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="Andrew" changedate="20191107T134646Z">
-        <seg>第一个是&lt;g0&gt;打开项目&lt;/g0&gt;的快捷键，第二个则是&lt;g1&gt;创建词汇表条目&lt;/g1&gt;的。</seg>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T052709Z">
+        <seg>第一个是&lt;g0&gt;打开项目&lt;/g0&gt;的快捷键，第二个则是&lt;g1&gt;创建词条&lt;/g1&gt;的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -55769,8 +55769,8 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="en">
         <seg>To add a new term to the writable glossary use &lt;g0&gt;Edit&lt;/g0&gt; &gt; &lt;g1&gt;Create Glossary Entry&lt;/g1&gt; (&lt;k2&gt;Ctrl+Shift+G&lt;/k2&gt;). Newly added terms will be immediately recognized. To add new terms to reference glossaries, edit them in an external text editor. Newly added terms will be recognized as soon as the changes have been saved.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T052555Z" creationid="wynnc" creationdate="20210504T052555Z">
-        <seg>要向可写词汇表中添加新词汇，请使用 &lt;g0&gt;编辑&lt;/g0&gt; &gt; &lt;g1&gt;创建词条Create Glossary Entry&lt;/g1&gt; (&lt;k2&gt;Ctrl+Shift+G&lt;/k2&gt;). Newly added terms will be immediately recognized. To add new terms to reference glossaries, edit them in an external text editor. Newly added terms will be recognized as soon as the changes have been saved.</seg>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T053042Z" creationid="wynnc" creationdate="20210504T052555Z">
+        <seg>要向可写词汇表中添加新词汇，请使用 &lt;g0&gt;编辑&lt;/g0&gt; &gt; &lt;g1&gt;创建词条&lt;/g1&gt;（&lt;k2&gt;Ctrl+Shift+G&lt;/k2&gt;）。新添加的词汇立即就会被识别生效。要向参考词汇表中添加词汇，请用外部文本编辑器编辑之。新添加的词汇会在变更保存后立即识别生效。</seg>
       </tuv>
     </tu>
     <tu>
@@ -57937,8 +57937,8 @@ Exact searches match the whole search string.</seg>
       <tuv lang="en">
         <seg>Uncheck this option if the context description shown for each glossary entry is unnecessary or too long.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20190801T154243Z" creationid="WynnChen" creationdate="20190801T154243Z">
-        <seg>如果为每个词汇表条目所显示的上下文描述不必要或者太长，请取消对此选项的勾选。</seg>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T052737Z" creationid="WynnChen" creationdate="20190801T154243Z">
+        <seg>如果为每个词条所显示的上下文描述并非必要或者太长，请取消对此选项的勾选。</seg>
       </tuv>
     </tu>
     <tu>
@@ -58727,8 +58727,8 @@ Commands:
       <tuv lang="en">
         <seg>Use &amp;stemming for glossary entries</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20190410T152946Z" creationid="wynnc" creationdate="20190320T102253Z">
-        <seg>对词汇表条目使用词干分析(&amp;S)</seg>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T052810Z" creationid="wynnc" creationdate="20190320T102253Z">
+        <seg>对词条使用词干分析(&amp;S)</seg>
       </tuv>
     </tu>
     <tu>
@@ -58903,8 +58903,8 @@ Commands:
       <tuv lang="en">
         <seg>Use stemming for glossary entries</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20190801T154546Z" creationid="WynnChen" creationdate="20190801T154546Z">
-        <seg>对词汇表条目使用词干分析</seg>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T052810Z" creationid="WynnChen" creationdate="20190801T154546Z">
+        <seg>对词条使用词干分析</seg>
       </tuv>
     </tu>
     <tu>
