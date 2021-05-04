@@ -16980,6 +16980,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Creates a local copy of a remote OmegaT project. See &lt;l0&gt;Use a team project&lt;/l0&gt; for details.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T060945Z" creationid="wynnc" creationdate="20210504T060945Z">
+        <seg>创建远程 OmegaT 项目的本地副本。详细信息请参考&lt;l0&gt;使用团队项目&lt;/l0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Creates and opens a new project.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20200120T075223Z">
@@ -37979,6 +37987,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Once &lt;a0&gt;OmegaT&lt;/a0&gt; is installed, you can launch it directly from the command line, you can create a script that includes launch parameters for the command line or you can click on &lt;f1&gt;OmegaT.jar&lt;/f1&gt; to launch it directly. Methods differ depending on the distribution. Make sure that your &lt;v2&gt;PATH&lt;/v2&gt; settings are correct and that &lt;f3&gt;.jar&lt;/f3&gt; files are properly associated with a Java launcher. Check "&lt;l4/&gt;" below for more information.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T060927Z" creationid="wynnc" creationdate="20210504T060927Z">
+        <seg>一旦安装好 &lt;a0&gt;OmegaT&lt;/a0&gt;，你可以直接从命令行启动它、可以创建一个包含命令行启动参数的脚本、也可以单击 &lt;f1&gt;OmegaT.jar&lt;/f1&gt; 直接启动它。方法随发行版本而不同。要确保 &lt;v2&gt;PATH&lt;/v2&gt; 已正确设置、&lt;f3&gt;.jar&lt;/f3&gt; 文件已经与 Java 启动器正确关联。更多信息，参见下文的“&lt;l4/&gt;”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Once &lt;a0&gt;OmegaT&lt;/a0&gt; is installed, you can launch it directly from the command line, you can create a script that includes launch parameters for the command line or you can click on &lt;f1&gt;OmegaT.jar&lt;/f1&gt; to launch it directly. Methods differ depending on the distribution. Make sure that your &lt;v2&gt;PATH&lt;/v2&gt; settings are correct and that &lt;f3&gt;.jar&lt;/f3&gt; files are properly associated with a Java launcher. Check "Command line launching" below for more information.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20200117T145732Z" creationid="WynnChen" creationdate="20200117T072041Z">
@@ -38759,6 +38775,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20200120T090445Z" creationid="WynnChen" creationdate="20200120T090445Z">
         <seg>打开&lt;l0&gt;项目文件窗口&lt;/l0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Opens the &lt;l0&gt;Project files&lt;/l0&gt; window.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T071630Z" creationid="wynnc" creationdate="20210504T071630Z">
+        <seg>打开&lt;l0&gt;项目文件&lt;/l0&gt;窗口。</seg>
       </tuv>
     </tu>
     <tu>
@@ -59053,6 +59077,14 @@ Commands:
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use the &lt;f0&gt;OmegaT.jar&lt;/f0&gt; file located in &lt;f1&gt;OmegaT.app/Contents/MacOS/Java/&lt;/f1&gt; to launch &lt;a2&gt;OmegaT&lt;/a2&gt; from the command line. Check "&lt;l3/&gt;" below for more information.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T060914Z" creationid="wynnc" creationdate="20210504T060914Z">
+        <seg>用位于 &lt;f1&gt;OmegaT.app/Contents/MacOS/Java/&lt;/f1&gt; 中的 &lt;f0&gt;OmegaT.jar&lt;/f0&gt; 文件来从命令行启动 &lt;a2&gt;OmegaT&lt;/a2&gt;。更多信息，请参考下文的“&lt;l3/&gt;”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use the &lt;f0&gt;OmegaT.jar&lt;/f0&gt; file located in &lt;f1&gt;OmegaT.app/Contents/MacOS/Java/&lt;/f1&gt; to launch &lt;a2&gt;OmegaT&lt;/a2&gt; from the command line. Check "Command line launching" below for more information.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20200117T065738Z" creationid="WynnChen" creationdate="20200117T065738Z">
@@ -62559,6 +62591,14 @@ linux-install.sh 脚本的文件夹，然后用 ./linux-install.sh 执行脚本�
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120207T100238Z">
         <seg>可直接在命令行中通过包含命令行启动参数的脚本启动 OmegaT，或直接点击 &lt;e0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;.jar&lt;/e0&gt; 启动它。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can launch OmegaT from the command line with a script that includes start-up options or you can click on &lt;f0&gt;OmegaT.jar&lt;/f0&gt; to launch it directly. Methods differ depending on the distribution. Make sure that your &lt;v1&gt;PATH&lt;/v1&gt; settings are correct and that &lt;f2&gt;.jar&lt;/f2&gt; files are properly associated with a Java launcher. Check "&lt;l3/&gt;" below for more information.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T060907Z" creationid="wynnc" creationdate="20210504T060907Z">
+        <seg>你可以从命令行用包含启动选项的脚本启动 OmegaT，或者你可以点击 &lt;f0&gt;OmegaT.jar&lt;/f0&gt; 直接启动它。具体方法根据发行版本而有所不同。请确保 &lt;v1&gt;PATH&lt;/v1&gt; 设置是正确的，且 &lt;f2&gt;.jar&lt;/f2&gt; 已经正确地与 Java 启动器关联。更多信息，参见下面的“&lt;l3/&gt;”。</seg>
       </tuv>
     </tu>
     <tu>
