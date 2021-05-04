@@ -9539,6 +9539,14 @@ this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A given project can have any number of reference glossaries, but only one glossary, the project default glossary, will be directly writable from the OmegaT user interface.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T050956Z" creationid="wynnc" creationdate="20210504T050956Z">
+        <seg>给定的项目可以拥有任意数量的参考词汇表，但是只有一个词汇表（该项目的默认词汇表）可以直接从 OmegaT 用户界面写入。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A given source segment may require several different translations, depending on the context.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131127T141616Z" creationid="Fu Rhong" creationdate="20131127T141616Z">
@@ -41594,6 +41602,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T123430Z" creationid="wynnc" creationdate="20190320T045507Z">
         <seg>正在刷新脚本目录“{0}”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Regardless of the number of glossaries in a project, any term in a segment that has a match in a glossary will be displayed in the Glossary pane.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T051124Z" creationid="wynnc" creationdate="20210504T051124Z">
+        <seg>无论项目中有多少词汇表，片段中出现的在任一词汇表内有匹配匹配项的术语都会显示在“词汇表”窗格中。</seg>
       </tuv>
     </tu>
     <tu>
