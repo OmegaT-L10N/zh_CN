@@ -19688,6 +19688,14 @@ project_save.tmx 未真正上传，SVN 切换到不稳定状态。
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>During installation, depending on your operating system, you may receive several security warnings.&lt;br0/&gt;The certificate is signed by OmegaT's lead developer.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T072449Z" creationid="wynnc" creationdate="20210504T072449Z">
+        <seg>在安装过程中，根据操作系统不同，您可能会收到若干安全警告。&lt;br0/&gt;证书由 OmegaT 的首席开发人员签署。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>During the installation, depending on your operating system, you may receive several security warnings.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Puzzlist" changedate="20130922T041315Z" creationid="Puzzlist" creationdate="20130922T041315Z">
@@ -35151,8 +35159,8 @@ measures.</seg>
       <tuv lang="en">
         <seg>Notarized vs Unsigned</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T071958Z" creationid="wynnc" creationdate="20210504T071958Z">
-        <seg>已公正 vs 未签名</seg>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T072140Z" creationid="wynnc" creationdate="20210504T071958Z">
+        <seg>已公证 vs 未签名</seg>
       </tuv>
     </tu>
     <tu>
@@ -36674,8 +36682,8 @@ combination as such.</seg>
       <tuv lang="en">
         <seg>OmegaT for macOS is available in both Notarized and Unsigned versions; they are functionally identical, but the Notarized version is preferred as it is recognized by the system as being a) published by a known developer, and b) scanned by Apple.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T072136Z" creationid="wynnc" creationdate="20210504T072136Z">
-        <seg>适用于 macOS 的 OmegaT 具有已公证版本和未签名版都可用；他们在功能上相同，但首选签名版本，因为其是由已知开发者发布的。</seg>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T072311Z" creationid="wynnc" creationdate="20210504T072136Z">
+        <seg>适用于 macOS 的 OmegaT 具有已公证版本和未签名版本；它们在功能上完全相同，但首选已公证版本，因为系统会将其识别为 a) 由已知开发者发布 b) 已提供过了 Apple 的扫描。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53779,6 +53787,14 @@ protocols for communication across the network.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190402T044253Z" creationid="WynnChen" creationdate="20190402T044253Z">
         <seg>发布签名版本可能会有延迟。着急的用户也可改用未签名版本；如果您在启动应用时遇到问题，请参考&lt;a0&gt;如何打开未认证开发者的应用&lt;/a0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There may be a delay in publishing the Notarized version. Users in a hurry can use the Unsigned version instead; if you have difficulty launching the app, see &lt;a0&gt;how to open an app from an unidentified developer&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T072339Z" creationid="wynnc" creationdate="20210504T072339Z">
+        <seg>发布已公证版本可能会有延迟。着急的用户也可改用未签名版本；如果您在启动应用时遇到问题，请参考&lt;a0&gt;如何打开未认证开发者的应用&lt;/a0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
