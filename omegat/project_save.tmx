@@ -52564,6 +52564,14 @@ protocols for communication across the network.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The source term is displayed before the " = " sign and the target terms after. Comments are displayed after a number and each on a separate line. Terms from the project writable glossary are displayed in bold face. Terms from the reference glossaries are displayed in normal face.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T055706Z" creationid="wynnc" creationdate="20210504T055706Z">
+        <seg>在“=”号之前显示的是词汇原文，之后是词汇译文。注释前面会显示一个数字，并且每条注释都单独占一行。来自项目可写词汇表的词汇会使用粗体显示。来自参考词汇表的词汇则用标准字体显示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The source text</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190413T103235Z">
