@@ -1824,16 +1824,16 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Undo Changes</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190324T042426Z" creationid="wynnc" creationdate="20190324T042426Z">
-        <seg>撤销更改(&amp;U)</seg>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T024628Z" creationid="wynnc" creationdate="20190324T042426Z">
+        <seg>撤消更改(&amp;U)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&amp;Undo Last Action</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T092640Z" creationid="wynnc" creationdate="20190320T045507Z">
-        <seg>撤销前一操作(&amp;U)</seg>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T024628Z" creationid="wynnc" creationdate="20190320T045507Z">
+        <seg>撤消前一操作(&amp;U)</seg>
       </tuv>
     </tu>
     <tu>
@@ -58265,8 +58265,8 @@ Exact searches match the whole search string.</seg>
       <tuv lang="en">
         <seg>Undo Last Action</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20190409T045509Z">
-        <seg>撤销前一操作</seg>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T024628Z">
+        <seg>撤消前一操作</seg>
       </tuv>
     </tu>
     <tu>
