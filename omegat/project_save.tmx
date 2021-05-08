@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_a36a07247" segtype="paragraph" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_6a16391ac" segtype="paragraph" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2044,6 +2044,16 @@ java -jar OmegaT.jar $*</seg>
 (don't see your name on the lists, feel free to contact us.)</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190326T160812Z" creationid="WynnChen" creationdate="20190326T160812Z">
+        <seg>（如果您认为您对 OmegaT 项目做出了重大贡献但名字没有出现在列表中，
+　请随时与我们联系。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>(If you think you have significantly contributed to the OmegaT Project but you
+don't see your name on the lists, feel free to contact us.)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="Kos Ivantsov" changedate="20210508T170049Z" creationid="Kos Ivantsov" creationdate="20210508T170049Z">
         <seg>（如果您认为您对 OmegaT 项目做出了重大贡献但名字没有出现在列表中，
 　请随时与我们联系。）</seg>
       </tuv>
