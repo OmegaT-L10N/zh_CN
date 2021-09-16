@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_6a16391ac" segtype="paragraph" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_a36a07247" segtype="paragraph" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1530,6 +1530,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T170608Z" creationid="wynnc" creationdate="20190323T170608Z">
         <seg>重置此颜色(&amp;R)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Restart</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210916T040831Z" creationid="wynnc" creationdate="20210916T040831Z">
+        <seg>重启(&amp;R)</seg>
       </tuv>
     </tu>
     <tu>
@@ -14491,6 +14499,22 @@ Exception occurred:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210916T041011Z" creationid="wynnc" creationdate="20210916T041004Z">
+        <seg>字符数（含空格）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Characters (w/o spaces)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210916T041008Z" creationid="wynnc" creationdate="20210916T040848Z">
+        <seg>字符数（不含空格）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Characters (without spaces)</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T170939Z" creationid="wynnc" creationdate="20190320T170832Z">
@@ -23991,6 +24015,22 @@ authors of previous versions.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T121524Z" creationid="wynnc" creationdate="20190323T121524Z">
         <seg>Google Translate v2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Got unexpected HTTP response {0}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210916T041321Z" creationid="wynnc" creationdate="20210916T041321Z">
+        <seg>非预期的 HTTP 响应 {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Got unexpected MIME TYPE {0}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210916T041309Z" creationid="wynnc" creationdate="20210916T041309Z">
+        <seg>非预期的 MIME TYPE {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -36370,6 +36410,22 @@ combination as such.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT Classic</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210916T041434Z" creationid="wynnc" creationdate="20210916T041434Z">
+        <seg>OmegaT 经典</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT Default</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210916T041430Z" creationid="wynnc" creationdate="20210916T041430Z">
+        <seg>OmegaT 默认</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT Download Selector</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190330T074801Z" creationid="Zenobia Fang" creationdate="20180423T124526Z">
@@ -36562,6 +36618,14 @@ combination as such.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT classic theme</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210916T041446Z" creationid="wynnc" creationdate="20210916T041446Z">
+        <seg>OmegaT 经典主题</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT compatibility</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="cpeishan" changedate="20180407T140029Z" creationid="cpeishan" creationdate="20180407T140029Z">
@@ -36582,6 +36646,14 @@ combination as such.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Zenobia Fang" changedate="20180423T131838Z" creationid="Zenobia Fang" creationdate="20180423T131838Z">
         <seg>OmegaT 现要求 JRE 1.6 或更高版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT default theme</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210916T041432Z" creationid="wynnc" creationdate="20210916T041432Z">
+        <seg>OmegaT 默认主题</seg>
       </tuv>
     </tu>
     <tu>
@@ -42033,6 +42105,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Reload the current project to apply these changes</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210916T041413Z" creationid="wynnc" creationdate="20210916T041354Z">
+        <seg>重新加载当前项目以应用这些更改</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Reload your OmegaT project.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="think" changedate="20180416T023219Z" creationid="think" creationdate="20180416T023219Z">
@@ -42061,6 +42141,22 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T171937Z" creationid="wynnc" creationdate="20190320T171937Z">
         <seg>剩余字符数（计入空格）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remaining Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210916T041217Z" creationid="wynnc" creationdate="20210916T041217Z">
+        <seg>剩余字符数（含空格）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remaining Characters (w/o spaces)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210916T041037Z" creationid="wynnc" creationdate="20210916T041037Z">
+        <seg>剩余字符数（不含空格）</seg>
       </tuv>
     </tu>
     <tu>
@@ -42879,6 +42975,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="xulihang" changedate="20180425T042229Z" creationid="xulihang" creationdate="20180425T042229Z">
         <seg>资源</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Restart OmegaT to apply these changes</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210916T041420Z" creationid="wynnc" creationdate="20210916T041337Z">
+        <seg>重启 OmegaT 以应用这些更改</seg>
       </tuv>
     </tu>
     <tu>
@@ -53535,6 +53639,14 @@ protocols for communication across the network.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Theme:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210916T040836Z" creationid="wynnc" creationdate="20210916T040836Z">
+        <seg>主题：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Then click on &lt;e0&gt;Search&lt;/e0&gt; button to display all the corresponding occurrences.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20200123T055817Z" creationid="10353" creationdate="20180412T085957Z">
@@ -57205,6 +57317,22 @@ install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Total Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210916T041214Z" creationid="wynnc" creationdate="20210916T041214Z">
+        <seg>总字符数（含空格）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Total Characters (w/o spaces)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210916T041026Z" creationid="wynnc" creationdate="20210916T041026Z">
+        <seg>总字符数（不含空格）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Total Characters (without spaces)</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T171850Z" creationid="wynnc" creationdate="20190320T171850Z">
@@ -58353,6 +58481,22 @@ Exact searches match the whole search string.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unique Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210916T041220Z" creationid="wynnc" creationdate="20210916T041220Z">
+        <seg>不重复字符数（含空格）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unique Characters (w/o spaces)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210916T041141Z" creationid="wynnc" creationdate="20210916T041106Z">
+        <seg>不重复字符数（不含空格）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unique Characters (without spaces)</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T171914Z" creationid="wynnc" creationdate="20190320T171914Z">
@@ -58369,6 +58513,22 @@ Exact searches match the whole search string.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unique Remaining Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210916T041228Z" creationid="wynnc" creationdate="20210916T041228Z">
+        <seg>剩余不重复字符数（含空格）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unique Remaining Characters (w/o spaces)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210916T041206Z" creationid="wynnc" creationdate="20210916T041206Z">
+        <seg>剩余不重复字符数（不含空格）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unique Remaining Characters (without spaces)</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T171923Z" creationid="wynnc" creationdate="20190320T171923Z">
@@ -58379,40 +58539,40 @@ Exact searches match the whole search string.</seg>
       <tuv lang="en">
         <seg>Unique Remaining Segments</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T171725Z" creationid="wynnc" creationdate="20190320T171725Z">
-        <seg>剩余独特片段数</seg>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210916T041127Z" creationid="wynnc" creationdate="20190320T171725Z">
+        <seg>剩余不重复片段数</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Unique Remaining Words</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T171836Z" creationid="wynnc" creationdate="20190320T171836Z">
-        <seg>剩余独特单词数</seg>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210916T041136Z" creationid="wynnc" creationdate="20190320T171836Z">
+        <seg>剩余不重复单词数</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Unique Remaining:</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T171055Z" creationid="wynnc" creationdate="20190320T171055Z">
-        <seg>剩余独特片段：</seg>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210916T041115Z" creationid="wynnc" creationdate="20190320T171055Z">
+        <seg>剩余不重复片段：</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Unique Segments</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T171718Z" creationid="wynnc" creationdate="20190320T171718Z">
-        <seg>独特片段数</seg>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210916T041124Z" creationid="wynnc" creationdate="20190320T171718Z">
+        <seg>不重复片段数</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Unique Words</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T171828Z" creationid="wynnc" creationdate="20190320T171828Z">
-        <seg>独特单词数</seg>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210916T041131Z" creationid="wynnc" creationdate="20190320T171828Z">
+        <seg>不重复单词数</seg>
       </tuv>
     </tu>
     <tu>
@@ -58435,8 +58595,8 @@ Exact searches match the whole search string.</seg>
       <tuv lang="en">
         <seg>Unique:</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T171148Z" creationid="wynnc" creationdate="20190320T171148Z">
-        <seg>独特片段：</seg>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210916T041121Z" creationid="wynnc" creationdate="20190320T171148Z">
+        <seg>不重复片段：</seg>
       </tuv>
     </tu>
     <tu>
