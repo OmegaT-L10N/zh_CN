@@ -63783,6 +63783,40 @@ paragraph of section 11).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You project does not seem to contain translatable files.
+ 
+To add files to the project you can:
+ 
+	- drag and drop files on this pane,
+	- use Project &gt; Add Files...,
+	- use Project &gt; Source Files... and click on Add Files...
+	- or use your file manager to copy files to the 'source' folder,
+	   and then use Project &gt; Reload to reload the project.
+ 
+If the project contains files but their content is not displayed here:
+ 
+	- use Options &gt; File Filters... to verify that their format is supported by OmegaT,
+	- open them in their original application and verify that they are not empty.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T091325Z" creationid="wynnc" creationdate="20221111T091325Z">
+        <seg>你的项目似乎并不包含可翻译文件。
+ 
+要将文件添加到项目中，你可以：
+ 
+	- 将文件拖放到此窗格中、
+	- 使用“项目 &gt; 添加文件...”、
+	- 使用“项目 &gt; 原文文件...”并点击“添加文件...”、
+	- 或使用文件管理器将文件复制到“source”文件夹中，
+	   然后用“项目 &gt; 重新载入”来重新载入项目。
+ 
+如果项目中包含有文件但其内容并未显示在此：
+ 
+	- 使用“选项 &gt; 文件过滤器...”来确认其格式是否受 OmegaT 支持、
+	- 将其用原始应用程序打开来确认它们不是空的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You should add copies of files, portions of the log, screen shots, and anything else that you think will help the developers to find and fix your bug.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131112T114341Z" creationid="Fu Rhong" creationdate="20131112T114341Z">
