@@ -19230,6 +19230,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>DocBook files must have a proper DOCTYPE declaration.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T094358Z" creationid="wynnc" creationdate="20221111T094358Z">
+        <seg>DocBook 文件必须具有正确的 DOCTYPE 声明。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Dock</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -43685,6 +43693,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>SVG  / Adobe Illustrator Export</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T094330Z" creationid="wynnc" creationdate="20221111T094330Z">
+        <seg>SVG  / Adobe Illustrator 导出</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>SVG Image</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="钢" changedate="20130911T115656Z">
@@ -62313,6 +62329,14 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190322T071649Z" creationid="wynnc" creationdate="20190322T071649Z">
         <seg>Wordpress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wordpress XML export</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T094339Z" creationid="wynnc" creationdate="20221111T094339Z">
+        <seg>Wordpress XML 导出</seg>
       </tuv>
     </tu>
     <tu>
