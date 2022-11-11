@@ -85,3 +85,6 @@ search	查找	用于文本 search 和 replace 场合时，根据office等主流�
 TransTips	翻译提示
 alternative translation	多重译文
 Glossary Entry	词条
+load	载入
+reload	重新载入
+
