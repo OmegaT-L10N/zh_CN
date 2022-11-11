@@ -1406,6 +1406,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Preserve whitespace for all tags</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T102743Z" creationid="wynnc" creationdate="20221111T102743Z">
+        <seg>为所有标签保留空格(&amp;P)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Previous Segment</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T094720Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -4928,8 +4936,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;Aggregate tags&lt;/e0&gt;: if checked, tags with no translatable text between them will be aggregated into a single tag.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20190831T063802Z" creationid="WynnChen" creationdate="20190831T063802Z">
-        <seg>&lt;e0&gt;聚合标签&lt;/e0&gt;：如果选中，其间没有可翻译文本的多个标签将被聚合成单个标签。</seg>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T102848Z" creationid="WynnChen" creationdate="20190831T063802Z">
+        <seg>&lt;e0&gt;聚合标签&lt;/e0&gt;：如果勾选，其间没有可翻译文本的多个标签将被聚合成单个标签。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5432,8 +5440,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;Preserve spaces for all tags&lt;/e0&gt;: if checked, "white space" (i.e. spaces and newlines) will be preserved, even if this option is not defined in the document.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20190831T063924Z" creationid="WynnChen" creationdate="20190831T063924Z">
-        <seg>&lt;e0&gt;为所有标签保留空格&lt;/e0&gt;：如果选中，会保留“空白字符”（即空格和换行符），即使在文档中并未定义此选项也是如此。</seg>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T102856Z" creationid="WynnChen" creationdate="20190831T063924Z">
+        <seg>&lt;e0&gt;为所有标签保留空格&lt;/e0&gt;：如果勾选，会保留“空白字符”（即空格和换行符），即使在文档中并未定义此选项也是如此。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10006,6 +10014,14 @@ included in conveying the object code work.</seg>
         <seg>A&amp;ggregate Tags</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190322T082028Z" creationid="wynnc" creationdate="20190322T082028Z">
+        <seg>聚合标签(&amp;G)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A&amp;ggregate tags</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T102819Z" creationid="wynnc" creationdate="20221111T102727Z">
         <seg>聚合标签(&amp;G)</seg>
       </tuv>
     </tu>
@@ -47293,6 +47309,14 @@ of the GPL, as needed to protect the freedom of users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Start a new paragraph &amp;on Word soft-return</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T102836Z" creationid="wynnc" creationdate="20221111T102836Z">
+        <seg>在 Word 软回车处开始新段落(&amp;O)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Start a new paragraph on:</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T064042Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -49895,8 +49919,8 @@ software and other kinds of works.</seg>
       <tuv lang="en">
         <seg>The PO header will be skipped and left unchanged if this option is checked.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20190831T055921Z" creationid="WynnChen" creationdate="20190831T055921Z">
-        <seg>如果选中此选项，则将跳过 PO 头并保持其不变。</seg>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T102942Z" creationid="WynnChen" creationdate="20190831T055921Z">
+        <seg>如果勾选此选项，则将跳过 PO 头并保持其不变。</seg>
       </tuv>
     </tu>
     <tu>
@@ -59591,6 +59615,14 @@ OmegaT 选项：
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190405T135841Z" creationid="lenovo" creationdate="20180411T084643Z">
         <seg>使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use "needs-review-translation" instead of "translated"</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T102657Z" creationid="wynnc" creationdate="20221111T102657Z">
+        <seg>用“需要审查翻译”代替“已译”</seg>
       </tuv>
     </tu>
     <tu>
