@@ -10331,6 +10331,22 @@ included in conveying the object code work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add &amp;Files...</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T091611Z" creationid="wynnc" creationdate="20221111T091611Z">
+        <seg>添加文件(&amp;F)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add Files to Source Folder...</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T091624Z" creationid="wynnc" creationdate="20221111T091624Z">
+        <seg>将文件添加到原文文件夹...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add Glossary Entry</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T052645Z" creationid="wynnc" creationdate="20190323T090718Z">
@@ -36557,6 +36573,14 @@ combination as such.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT automatically chose the 'Yes' option.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T091347Z" creationid="wynnc" creationdate="20221111T091347Z">
+        <seg>OmegaT 自动选择了“是”选项。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT automatically saves translations every 10 minutes as well as when you close the project or quit OmegaT.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="weiyi" changedate="20180418T134255Z">
@@ -38587,6 +38611,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131117T003509Z" creationid="Fu Rhong" creationdate="20131117T003509Z">
         <seg>仅翻译dir-10文件夹中的test.html文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Op&amp;en Recent...</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T091556Z" creationid="wynnc" creationdate="20221111T091556Z">
+        <seg>打开最近的(&amp;E)...</seg>
       </tuv>
     </tu>
     <tu>
@@ -52267,6 +52299,14 @@ modification follow.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="xulihang" changedate="20180404T033349Z">
         <seg>在这个例子中显然项目已经完成了，因为已经翻译了所有的唯一片段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The project is empty</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T091331Z" creationid="wynnc" creationdate="20221111T091331Z">
+        <seg>项目是空的</seg>
       </tuv>
     </tu>
     <tu>
