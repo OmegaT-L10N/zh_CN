@@ -23198,6 +23198,14 @@ authors of previous versions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Force Unicode literals compatibility with Java 8</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T093652Z" creationid="wynnc" creationdate="20221111T093652Z">
+        <seg>强制让 Unicode 编码文字兼容于 Java 8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Force saving password as plain text</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="钢" changedate="20130504T151225Z">
@@ -34060,8 +34068,16 @@ later version.</seg>
       <tuv lang="en">
         <seg>Monolingual</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190322T063355Z" creationid="wynnc" creationdate="20190320T045507Z">
-        <seg>单一语言</seg>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T093723Z" creationid="wynnc" creationdate="20190320T045507Z">
+        <seg>单语</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Monolingual XLIFF</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T093714Z" creationid="wynnc" creationdate="20221111T093714Z">
+        <seg>单语 XLIFF</seg>
       </tuv>
     </tu>
     <tu>
