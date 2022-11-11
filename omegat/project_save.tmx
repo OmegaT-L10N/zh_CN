@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_a36a07247" segtype="paragraph" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_48351c11d" segtype="paragraph" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1858,6 +1858,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
         <seg>大写(&amp;U)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;User Guide...</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T040706Z" creationid="wynnc" creationdate="20221111T040706Z">
+        <seg>用户指南(&amp;U)...</seg>
       </tuv>
     </tu>
     <tu>
@@ -29063,6 +29071,17 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Initialized {0}-{1} team project. Place source files in ./source and supplementary
+material in ./tm, ./glossary, and ./dictionary as required, then commit
+everything.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T050352Z" creationid="wynnc" creationdate="20221111T050352Z">
+        <seg>初始化 {0}-{1} 团队项目。根据需要将原文文件放在 ./source 中、附加资料放在
+./tm、./glossary、和 ./dictionary 中，然后提交所有内容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Initializing</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -32942,6 +32961,14 @@ later version.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190405T045943Z" creationid="Fu Rhong" creationdate="20131108T030248Z">
         <seg>马耳他语（Maltese）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Manage RTL Languages</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T040359Z" creationid="wynnc" creationdate="20221111T040338Z">
+        <seg>驾驭从右向左的语言</seg>
       </tuv>
     </tu>
     <tu>
@@ -37450,6 +37477,37 @@ to be launched.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131114T074352Z" creationid="Fu Rhong" creationdate="20131114T074352Z">
         <seg>OmegaT项目和子文件夹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT ran out of memory and will close when you click OK.
+Possible solutions:
+ 
+1) Reduce the number of files in the source folder;
+ 
+2) Increase the amount of memory available to OmegaT.
+Use "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" from the command 
+line or in the OmegaT start script;
+The current setting is {0}MB;
+ 
+See "How To... Run OmegaT" in the user guide.
+ 
+OmegaT will now terminate.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T051014Z" creationid="wynnc" creationdate="20221111T050555Z">
+        <seg>OmegaT 内存不足，将在你单击“确定”后退出。
+可能的解决方案：
+ 
+1) 减少 source 文件夹中的文件数量；
+ 
+2) 增加 OmegaT 可用的内存量。
+在命令行或者 OmegaT 启动脚本中使用“java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar”；
+当前设置是 {0}MB；
+ 
+请参阅用户指南中的“如何... 运行 OmegaT”。
+ 
+OmegaT will now terminate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59127,6 +59185,168 @@ Commands:
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Usage: java -jar [&lt;java options&gt;] OmegaT.jar [&lt;OmegaT options&gt;] [&lt;project path&gt;]
+ 
+See Help &gt; User Guide for details, including available Java options.
+ 
+OmegaT options:
+ 
+	No option: Launch GUI
+ 
+	Project path only: Launch GUI and load specified project
+ 
+	-h, --help
+	  Print this help message.
+ 
+	--remote-project
+	  Download an omegat.project file from the URL given as &lt;project
+	  path&gt; and load the project.
+ 
+	--no-team
+	  Disable team project functionality.
+ 
+	team init &lt;source language&gt; &lt;target language&gt;
+	  Team project tool.
+	  Initialize a minimal team project with the specified languages.
+	  If invoked in a git working tree or svn checkout, the results
+	  will be staged/added.
+ 
+	--disable-project-locking
+	  Do not attempt to lock the omegat.project file.
+	--disable-location-save
+	  Do not remember the last directory opened in the file picker.
+ 
+	--ITokenizer=&lt;classname&gt;
+	--ITokenizerTarget=&lt;classname&gt;
+	  Source- or target-language tokenizer to use (overrides project
+	  settings). See OmegaT.jar/META-INF/MANIFEST.MF for valid values.
+ 
+	--config-file=&lt;path&gt;
+	  A Java .properties file from which to load default settings.
+ 
+	--config-dir=&lt;path&gt;
+	  The directory used to read or write OmegaT configuration files.
+ 
+	--resource-bundle=&lt;path&gt;
+	  A Java .properties file to use for the interface text
+ 
+	--mode=[console mode name]
+	  Specify a mode other than the GUI default. See below for details.
+ 
+Console mode names and their options:
+ 
+	--mode=console-translate
+	  --source-pattern=&lt;pattern&gt;
+	    A regex whitelist of source files to process.
+ 
+	--mode=console-createpseudotranslatetmx
+	  --pseudotranslatetmx=&lt;path&gt;
+	    The output pseudotranslated TMX file.
+	  --pseudotranslatetype=[equal|empty]
+	    What to put in the pseudotranslated TMX.
+ 
+	--mode=console-align
+	  --alignDir=&lt;path&gt;
+	    A directory containing the translated files.
+ 
+	--mode=console-stats
+	  project_path
+	    The path to the project
+	  --output-file=[stats-output-file]
+	    Prints to the specified file, or to standard output
+	    if no file is given or the option is not used.
+	  --stats-type=[xml|text|txt|json]
+	    Specifies the output format.
+	    If --stats-type is not specified, the format is
+	    detected from the file extension.
+	    Defaults to xml.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T050606Z" creationid="wynnc" creationdate="20221111T040636Z">
+        <seg>用法： java -jar [&lt;Java 选项&gt;] OmegaT.jar [&lt;OmegaT 选项&gt;] [&lt;项目路径&gt;]
+ 
+有关详细信息，包括可用的 Java 选项，请参阅“帮助 &gt; 用户指南”
+ 
+OmegaT 选项：
+ 
+	不带任何选项：启动图形界面
+ 
+	只提供了项目路径：启动图形界面并载入指定项目
+ 
+	-h, --help
+	  显示本帮助信息。
+ 
+	--remote-project
+	  从作为&lt;项目路径&gt;给出的网址下载 omegat.project 文件并载入此项目。
+ 
+	--no-team
+	  禁用团队项目功能。
+ 
+	team init &lt;原文语言&gt; &lt;译文语言&gt;
+	  团队项目工具。
+	  以指定语言初始化一个最小的团队项目。
+	  如果在 git 工作树或 svn 检出中调用，其结果会被 stage/add。
+ 
+	--disable-project-locking
+	  不要尝试锁定 omegat.project 文件。
+	--disable-location-save
+	  不要记忆最后一次在文件选择器中打开的目录。
+ 
+	--ITokenizer=&lt;类名&gt;
+	--ITokenizerTarget=&lt;类名&gt;
+	  原文语言或译文语言所使用的分词器（会覆盖项目设置）。
+	  有关有效的值，请参阅 OmegaT.jar/META-INF/MANIFEST.MF。
+ 
+	--config-file=&lt;路径&gt;
+	  用于加载默认设置的 Java .properties 文件。
+ 
+	--config-dir=&lt;路径&gt;
+	  用于读/写 OmegaT 配置文件的目录。
+ 
+	--resource-bundle=&lt;路径&gt;
+	  用于界面文本的 Java .properties 文件
+ 
+	--mode=[控制台模式名称]
+	  指定图形界面模式而不使用默认值。详情参见下文。
+ 
+控制台模式名称及其选项：
+ 
+	--mode=console-translate
+	  --source-pattern=&lt;正则模式&gt;
+	    代表要处理的原文文件的白名单的正则表达式。
+ 
+	--mode=console-createpseudotranslatetmx
+	  --pseudotranslatetmx=&lt;路径&gt;
+	    输出的伪翻译 TMX 文件。
+	  --pseudotranslatetype=[equal|empty]
+	    伪翻译 TMX 中放什么内容。
+ 
+	--mode=console-align
+	  --alignDir=&lt;路径&gt;
+	    包含已翻译文件的目录。
+ 
+	--mode=console-stats
+	  项目路径
+	    项目的路径
+	  --output-file=[统计数据输出文件]
+	    输出到指定文件，如果没有给出文件或未使用此选项则输出到 stdout。
+	  --stats-type=[xml|text|txt|json]
+	    指定输出格式。
+	    如果未指定 --stats-type，则通过文件扩展名来确定格式。
+	    默认为 xml。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Usage: team init &lt;source language&gt; &lt;target language&gt;
+	See --help</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T050224Z" creationid="wynnc" creationdate="20221111T050224Z">
+        <seg>用法：team init &lt;原文语言&gt; &lt;译文语言&gt;
+	请参阅 --help</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190405T135841Z" creationid="lenovo" creationdate="20180411T084643Z">
@@ -69091,6 +69311,38 @@ To add files to the project you can
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190404T135906Z">
         <seg>向右移动一个单词，但不会越过片段的末尾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>only options:
+ 
+	--quiet
+	  Reduce output to command line stdout.
+ 
+	--script=&lt;path&gt;
+	  A script file to be executed on project events.
+ 
+	--tag-validation=[abort|warn]
+	  Validate tags. Abort: Exit with an error if tags invalid.
+	  Warn: Report invalid tags to stdout.
+ 
+{0}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T044213Z" creationid="wynnc" creationdate="20221111T043939Z">
+        <seg>单独的选项：
+ 
+	--quiet
+	  减少输出到命令行 stdout 的内容。
+ 
+	--script=&lt;路径&gt;
+	  要在项目事件时执行的脚本文件。
+ 
+	--tag-validation=[abort|warn]
+	  验证标签。Abort：如果标签无效，则退出并报错。
+	  Warn: 将无效标签输出到 stdout。
+ 
+{0}</seg>
       </tuv>
     </tu>
     <tu>
