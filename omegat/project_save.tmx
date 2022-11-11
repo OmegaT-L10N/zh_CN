@@ -1014,6 +1014,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Force &lt;it pos="end"&gt; tags shortcut to "&lt;f &gt;"</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T094646Z" creationid="wynnc" creationdate="20221111T094646Z">
+        <seg>&amp;Force &lt;it pos="end"&gt; tags shortcut to "&lt;f &gt;"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Force shortcut to "f" for &lt;it pos="end"&gt; tags</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190322T074630Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -48245,6 +48253,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Tag handling compatibility</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T094413Z" creationid="wynnc" creationdate="20221111T094413Z">
+        <seg>标签处理兼容性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Tag name:</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190322T055206Z" creationid="wynnc" creationdate="20190322T055206Z">
@@ -48273,6 +48289,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
         <seg>标签操作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tag shortcuts (do not apply to OmegaT 2.6 compatible files):</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T094720Z" creationid="wynnc" creationdate="20221111T094510Z">
+        <seg>标签捷径（不适用于兼容 OmegaT 2.6 的文件）：</seg>
       </tuv>
     </tu>
     <tu>
