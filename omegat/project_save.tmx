@@ -1886,6 +1886,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Use local file filter settings</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T103600Z" creationid="wynnc" creationdate="20221111T103600Z">
+        <seg>使用本地文件过滤器设置(&amp;U)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;User Guide...</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T040706Z" creationid="wynnc" creationdate="20221111T040706Z">
@@ -12399,6 +12407,14 @@ menu, a prominent item in the list meets this criterion.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Are you sure you want to remove the {0} segmentation rules set?</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T105416Z" creationid="wynnc" creationdate="20221111T105416Z">
+        <seg>您确定要删除{0}分割规则集吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Are you sure you want to remove the {0} set of segmentation rules?</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T071427Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -16014,6 +16030,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Compress whitespace in translated file</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T104634Z" creationid="wynnc" creationdate="20221111T104634Z">
+        <seg>在译文文件中压缩空白字符</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Con&amp;figure</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190324T042620Z" creationid="wynnc" creationdate="20190324T042620Z">
@@ -16738,6 +16762,14 @@ makes it unnecessary.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190322T082900Z" creationid="wynnc" creationdate="20190322T082900Z">
         <seg>版权所有 © 2000-2019 Keith Godfrey、Maxym Mykhalchuk 等</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Copyright © 2000-2022 Keith Godfrey, Maxym Mykhalchuk and others</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T103047Z" creationid="wynnc" creationdate="20221111T103047Z">
+        <seg>Copyright © 2000-2022 Keith Godfrey、Maxym Mykhalchuk 及其他人等</seg>
       </tuv>
     </tu>
     <tu>
@@ -17901,6 +17933,16 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T153134Z" creationid="wynnc" creationdate="20190320T045507Z">
         <seg>自定义字符表(&amp;T)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Customize the processed source filename patterns, the translated file names and their respective encodings.
+Some filters do not allow encoding modifications.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T103509Z" creationid="wynnc" creationdate="20221111T103509Z">
+        <seg>自定义处理的原文文件名模式、译文文件名模式及其各自的编码。
+某些过滤器不允许修改编码。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19166,6 +19208,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Do not use the file name to &amp;identify alternate translations</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T104005Z" creationid="wynnc" creationdate="20221111T104005Z">
+        <seg>不要用文件名来标识多重译文(&amp;I)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Do you have a Java implementation compatible with Oracle's Java 1.6 JRE?</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131116T122238Z" creationid="Fu Rhong" creationdate="20131116T122136Z">
@@ -19194,6 +19244,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
         <seg>您真的想退出吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do you really want to remove pattern {0}?</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T103255Z" creationid="wynnc" creationdate="20221111T103255Z">
+        <seg>确实要删除模式 {0}？</seg>
       </tuv>
     </tu>
     <tu>
@@ -22110,6 +22168,14 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Filter Settings</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T103227Z" creationid="wynnc" creationdate="20221111T103227Z">
+        <seg>过滤器设置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Filter entries in editor according to search</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20200123T073136Z" creationid="WynnChen" creationdate="20200123T073116Z">
@@ -23769,6 +23835,22 @@ authors of previous versions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Global File Filters</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T103514Z" creationid="wynnc" creationdate="20221111T103514Z">
+        <seg>全局文件过滤器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Global Segmentation Rules</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T104742Z" creationid="wynnc" creationdate="20221111T104742Z">
+        <seg>全局分割规则</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Global spell checking</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="xulihang" changedate="20180408T115138Z" creationid="xulihang" creationdate="20180408T115138Z">
@@ -24279,6 +24361,14 @@ authors of previous versions.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Wyndy" changedate="20180418T075852Z" creationid="Wyndy" creationdate="20180418T075630Z">
         <seg>HTML 与 XHTML（前者的 XML 版），是最通用的网页文件格式 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>HTML file too big!</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T104254Z" creationid="wynnc" creationdate="20221111T104254Z">
+        <seg>HTML 文件太大！</seg>
       </tuv>
     </tu>
     <tu>
@@ -26542,8 +26632,8 @@ notice like this when it starts in an interactive mode:</seg>
       <tuv lang="en">
         <seg>If we want to avoid any mis-translations in case of segments with several possible target contents, checking this check box will cause &lt;e0&gt;Go To Next Untranslated Segment&lt;/e0&gt; to stop on the next such segment, irrespective of whether it has already been translated or not.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20190901T163013Z" creationid="Administrator" creationdate="20180411T085008Z">
-        <seg>如果我们想要避免在具有多个可能译文内容的片段上出现错译，选中此复选框会让&lt;e0&gt;转到下一个未译片段&lt;/e0&gt;在下一个此类片段处停下，无论其是否已被翻译。</seg>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T103008Z" creationid="Administrator" creationdate="20180411T085008Z">
+        <seg>如果我们想要避免在具有多个可能译文内容的片段上出现错译，勾选此复选框会让&lt;e0&gt;转到下一个未译片段&lt;/e0&gt;在下一个此类片段处停下，无论其是否已被翻译。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27687,8 +27777,8 @@ work and works based on it.</seg>
       <tuv lang="en">
         <seg>Ignore file context when identifying segments with alternate translations: by default, OmegaT uses the source file name as part of the identification of an alternative translation. If the option is checked, the source file name will not be used, and alternative translations will take effect in any file as long as the other context (previous/next segments or some sort of segment identifier, depending on the file format) matches.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T050251Z" creationid="WynnChen" creationdate="20190831T053431Z">
-        <seg>识别有替代翻译的片段时忽略文件上下文：默认情况下，OmegaT 用原文文件名作为备选译文的识别信息的一部分。如果勾选了此选项，则不使用原文文件名，而只要其他上下文（上一个/下一个片段或依赖于文件格式的某种片段标识）匹配，备选译文会在任意文件中生效。</seg>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T104142Z" creationid="WynnChen" creationdate="20190831T053431Z">
+        <seg>识别有多重译文的片段时忽略文件上下文：默认情况下，OmegaT 用原文文件名作为多重备选译文的识别信息的一部分。如果勾选了此选项，则不使用原文文件名，而只要其他上下文（上一个/下一个片段或依赖于文件格式的某种片段标识）匹配，备选译文会在任意文件中生效。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27721,6 +27811,30 @@ work and works based on it.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190324T033733Z" creationid="wynnc" creationdate="20190324T033733Z">
         <seg>忽略：“{0}”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ignored &lt;meta&gt; tags "content" attribute</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T104543Z" creationid="wynnc" creationdate="20221111T104543Z">
+        <seg>忽略 &lt;meta&gt; 标签的“content”属性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ignored paragraphs (regular expression)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T104526Z" creationid="wynnc" creationdate="20221111T104526Z">
+        <seg>忽略段落（正则表达式）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ignored tags (attribute=value)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T104606Z" creationid="wynnc" creationdate="20221111T104606Z">
+        <seg>忽略标签（属性=值）</seg>
       </tuv>
     </tu>
     <tu>
@@ -31461,6 +31575,14 @@ itself on the first run. Later calls do not need to be online.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Language sets</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T105304Z" creationid="wynnc" creationdate="20221111T105246Z">
+        <seg>语言集合</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>LanguageTool</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T114807Z" creationid="wynnc" creationdate="20190323T114807Z">
@@ -32477,6 +32599,14 @@ later version.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local File Filters</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T103544Z" creationid="wynnc" creationdate="20221111T103544Z">
+        <seg>本地文件过滤器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Local File/Folder</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T180824Z" creationid="wynnc" creationdate="20190320T180824Z">
@@ -32489,6 +32619,14 @@ later version.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="钢" changedate="20130504T151401Z">
         <seg>本地目录：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Local Segmentation Rules</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T104755Z" creationid="wynnc" creationdate="20221111T104755Z">
+        <seg>本地分割规则</seg>
       </tuv>
     </tu>
     <tu>
@@ -34054,6 +34192,14 @@ later version.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190403T154012Z" creationid="xulihang" creationdate="20180408T115021Z">
         <seg>修改的片段：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Modify encoding declaration</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T104508Z" creationid="wynnc" creationdate="20221111T104508Z">
+        <seg>修改编码声明</seg>
       </tuv>
     </tu>
     <tu>
@@ -35964,6 +36110,22 @@ Thus, for example, rules for Canadian French (FR-CA) should be higher than rules
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note: The Source File Encoding setting only affects HHC and HHK files with no encoding declaration. If there is a declaration, that encoding  be used regardless of the setting specified here.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T104728Z" creationid="wynnc" creationdate="20221111T104728Z">
+        <seg>注：原文文件编码设置只会影响没有编码声明的 HHC 和 HHK 文件。如果有编码声明则会使用该编码，而无视这里指定的设置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note: The Source File Encoding setting only affects HTML files with no encoding declaration. If there is a declaration, that encoding will be used regardless of the setting specified here.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T104459Z" creationid="wynnc" creationdate="20221111T104459Z">
+        <seg>注：原文文件编码设置只会影响没有编码声明的 HTML 文件。如果有编码声明则会使用该编码，而无视这里指定的设置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note: colors are customizable through the &lt;g0&gt;Options / Custom colours...&lt;/g0&gt; dialog.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="weiyi" changedate="20180406T063051Z" creationid="weiyi" creationdate="20180406T063051Z">
@@ -37224,6 +37386,36 @@ OmegaT uses the following libraries:
 
 OmegaT 最初的工作由 Keith Godfrey 完成。
 Aaron Madlon-Kay 是 OmegaT 的项目经理。
+
+以下人士贡献了代码：
+{0}
+ 
+readme.txt 文件中详细记录了其他贡献
+ 
+OmegaT 使用了以下库：
+{1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT is a free and open source multiplatform computer-assisted translation (CAT) tool offering fuzzy matching, translation memory, keyword search, glossaries, and translation leveraging into updated projects.
+ 
+OmegaT is the original work of Keith Godfrey.
+Jean-Christophe Helary is the OmegaT project manager.
+ 
+Code has been contributed by:
+{0}
+ 
+Other contributions are detailed in the readme.txt file
+ 
+OmegaT uses the following libraries:
+{1}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T103215Z" creationid="wynnc" creationdate="20221111T103215Z">
+        <seg>OmegaT 是自由且开源的多平台计算机辅助翻译（CAT）工具，提供了模糊匹配、翻译记忆、关键字查找、词汇表、以及为更新后的项目自动套用翻译等特性。
+
+OmegaT 最初的工作由 Keith Godfrey 完成。
+Jean-Christophe Helary 是 OmegaT 的项目经理。
 
 以下人士贡献了代码：
 {0}
@@ -41342,6 +41534,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Project autosaved at {0}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T104158Z" creationid="wynnc" creationdate="20221111T104158Z">
+        <seg>项目已在 {0} 自动保存</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Project autosaved on {0}</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T055447Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -42555,6 +42755,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remove HTML comments in translated file</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T104646Z" creationid="wynnc" creationdate="20221111T104646Z">
+        <seg>在译文文件中删除 HTML 注释</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remove LanguageTool from the /plugin folder before starting OmegaT.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131108T113430Z" creationid="Fu Rhong" creationdate="20131108T113430Z">
@@ -42695,6 +42903,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190403T154752Z" creationid="xulihang" creationdate="20180408T115621Z">
         <seg>删除助记符</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remove pattern</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T103303Z" creationid="wynnc" creationdate="20221111T103303Z">
+        <seg>删除模式</seg>
       </tuv>
     </tu>
     <tu>
@@ -44649,6 +44865,14 @@ When using regular expressions, the replacement string supports references to gr
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See /docs/libraries.txt</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T103220Z" creationid="wynnc" creationdate="20221111T103220Z">
+        <seg>参见 /docs/libraries.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;e2&gt;Translation editing&lt;/e2&gt; for more details.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120218T123755Z">
@@ -45337,6 +45561,14 @@ When using regular expressions, the replacement string supports references to gr
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select a filter and click on Edit... or Options... to customize it. Uncheck the box to disable it.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T103701Z" creationid="wynnc" creationdate="20221111T103701Z">
+        <seg>选定一个过滤器并点击“编辑...”或“选项...”来对它进行自定义。取消勾选可将其禁用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select a supplier from the list and, if necessary, click &lt;g0&gt;Configure&lt;/g0&gt; to enter the identification details provided by the supplier.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190801T154025Z" creationid="WynnChen" creationdate="20190801T154025Z">
@@ -45733,6 +45965,14 @@ When using regular expressions, the replacement string supports references to gr
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190901T153304Z">
         <seg>在“。”（日文句号）后进行分割</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Set contents</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T105259Z" creationid="wynnc" creationdate="20221111T105259Z">
+        <seg>集合内容</seg>
       </tuv>
     </tu>
     <tu>
@@ -47079,6 +47319,18 @@ of the GPL, as needed to protect the freedom of users.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190902T090722Z" creationid="wynnc" creationdate="20190902T090722Z">
         <seg>专用参数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Specific sets should be put above general sets:
+"FR-CA" should be above "FR.*", which should be above ".*".
+All sets that match the project source language are applied.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T105227Z" creationid="wynnc" creationdate="20221111T105227Z">
+        <seg>专门的集合应当放在通用集合之上：
+“FR-CA”应当在“FR.*”之上，而后者又应当在“.*”之上。
+所有与项目源语言相匹配的集合都会应用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -61356,6 +61608,14 @@ of selecting, obtaining and installing it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When entering an empty segment:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T105524Z" creationid="wynnc" creationdate="20221111T105524Z">
+        <seg>进入空片段时：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When hovering the mouse over the underlined phrase, an explanation will appear.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Lenovo" changedate="20180418T085641Z" creationid="Fu Rhong" creationdate="20131108T113242Z">
@@ -64270,6 +64530,14 @@ them.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Wyndy" changedate="20180418T000134Z" creationid="Wyndy" creationdate="20180418T000134Z">
         <seg>您的文件及翻译记忆都保存在本地， OmegaT 项目组将无法获取您的作品及相关信息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your name/ID is used to identify your translations.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T105442Z" creationid="wynnc" creationdate="20221111T105442Z">
+        <seg>你的姓名/ID用于标识你的翻译。</seg>
       </tuv>
     </tu>
     <tu>
