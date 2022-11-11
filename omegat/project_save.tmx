@@ -10355,6 +10355,22 @@ included in conveying the object code work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add Online Media&amp;Wiki Page...</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T091638Z" creationid="wynnc" creationdate="20221111T091638Z">
+        <seg>添加在线 MediaWiki 页面(&amp;W)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add Online MediaWiki Page</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T091653Z" creationid="wynnc" creationdate="20221111T091653Z">
+        <seg>添加在线 MediaWiki 页面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add Pattern</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -21571,8 +21587,8 @@ Gossamer threads hold you back
       <tuv lang="en">
         <seg>Failed to back up preferences file.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190322T060100Z" creationid="wynnc" creationdate="20190322T060009Z">
-        <seg>备份首选项文件失败。</seg>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T091923Z" creationid="wynnc" creationdate="20190322T060009Z">
+        <seg>无法备份首选项文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21601,10 +21617,26 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Failed to copy files</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T091910Z" creationid="wynnc" creationdate="20221111T091839Z">
+        <seg>无法复制文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Failed to create project!</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T165627Z" creationid="wynnc" creationdate="20190320T045507Z">
         <seg>无法创建项目！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to download Mediawiki page</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T091845Z" creationid="wynnc" creationdate="20221111T091834Z">
+        <seg>无法下载 Mediawiki 页面</seg>
       </tuv>
     </tu>
     <tu>
@@ -38507,6 +38539,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Zoe" changedate="20180411T120431Z" creationid="Zoe" creationdate="20180411T120431Z">
         <seg>一对多匹配</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Online Mediawiki Page URL</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T091805Z" creationid="wynnc" creationdate="20221111T091805Z">
+        <seg>在线 Mediawiki 页面网址</seg>
       </tuv>
     </tu>
     <tu>
