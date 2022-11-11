@@ -1,3 +1,4 @@
+# Glossary in tab-separated format -*- coding: utf-8 -*-
 segment	片段
 History Completion	历史完成
 History Prediction	历史预测
@@ -87,4 +88,4 @@ alternative translation	多重译文
 Glossary Entry	词条
 load	载入
 reload	重新载入
-
+shortcut	简写	用于 tag shortcut 这个上下文中，指的是OmegaT进行标签保护时自动将诸如<item>变成灰色的<i0>这样的行为，后者即为tag shortcut
