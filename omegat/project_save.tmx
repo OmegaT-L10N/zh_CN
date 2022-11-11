@@ -1016,8 +1016,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Force &lt;it pos="end"&gt; tags shortcut to "&lt;f &gt;"</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T094646Z" creationid="wynnc" creationdate="20221111T094646Z">
-        <seg>&amp;Force &lt;it pos="end"&gt; tags shortcut to "&lt;f &gt;"</seg>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T100641Z" creationid="wynnc" creationdate="20221111T094646Z">
+        <seg>(&amp;F)强制 &lt;it pos="end"&gt; tags shortcut to "&lt;f &gt;"</seg>
       </tuv>
     </tu>
     <tu>
