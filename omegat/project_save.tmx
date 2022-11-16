@@ -12914,6 +12914,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Authenticated proxy credentials:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221116T034509Z" creationid="wynnc" creationdate="20221116T034509Z">
+        <seg>需身份认证的代理所用凭据：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Authentication</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -17957,6 +17965,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T153134Z" creationid="wynnc" creationdate="20190320T045507Z">
         <seg>自定义字符表(&amp;T)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Customize segment modification &amp;information</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221116T034313Z" creationid="wynnc" creationdate="20221116T034313Z">
+        <seg>自定义片段修改信息(&amp;I)</seg>
       </tuv>
     </tu>
     <tu>
@@ -47607,6 +47623,14 @@ All sets that match the project source language are applied.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Standard template</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221116T034223Z" creationid="wynnc" creationdate="20221116T034223Z">
+        <seg>标准模板</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Start OmegaT again, download the team project, close OmegaT
 5.</seg>
       </tuv>
@@ -49093,6 +49117,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190405T051056Z" creationid="Fu Rhong" creationdate="20131108T101207Z">
         <seg>泰卢固语（Telugu）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Template for segments without date</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221116T034250Z" creationid="wynnc" creationdate="20221116T034250Z">
+        <seg>针对无日期片段的模板</seg>
       </tuv>
     </tu>
     <tu>
