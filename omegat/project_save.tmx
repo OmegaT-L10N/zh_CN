@@ -1782,6 +1782,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Stop at untranslated and at segments with  alternatives</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221116T033847Z" creationid="wynnc" creationdate="20221116T033847Z">
+        <seg>在未译片段和具有多重备选翻译的片段处停下(&amp;S)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Store for this session only</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T122419Z" creationid="wynnc" creationdate="20190323T122341Z">
@@ -12862,6 +12870,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
         <seg>插入模糊匹配时尝试转换数字(&amp;N)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Attempt to convert fuzzy match &amp;numbers</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221116T033910Z" creationid="wynnc" creationdate="20221116T033910Z">
+        <seg>尝试转换模糊匹配数字(&amp;N)</seg>
       </tuv>
     </tu>
     <tu>
@@ -29600,6 +29616,14 @@ everything.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="lenovo" changedate="20180416T102608Z" creationid="lenovo" creationdate="20180416T102435Z">
         <seg>首先安装Firefox（如果你尚未安装），然后添加ReloadEvery。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Install OmegaT</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221116T033615Z" creationid="wynnc" creationdate="20221116T033615Z">
+        <seg>安装 OmegaT</seg>
       </tuv>
     </tu>
     <tu>
