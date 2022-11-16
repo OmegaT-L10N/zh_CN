@@ -726,6 +726,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Check issues when leaving a segment</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221116T033928Z" creationid="wynnc" creationdate="20221116T033928Z">
+        <seg>离开片段时检查问题(&amp;C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Check simple printf-variables (e.g., %s, %d)</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="钢" changedate="20130503T161030Z">
@@ -33612,6 +33620,14 @@ later version.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mark all non-unique segments</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221116T034159Z" creationid="wynnc" creationdate="20221116T034159Z">
+        <seg>标记所有非独特片段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mark each paragraph by clicking on it repeatedly until the entire paragraph is highlighted.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Mac Pro" changedate="20180425T192035Z" creationid="Mac Pro" creationdate="20180425T191920Z">
@@ -36489,6 +36505,14 @@ combination as such.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="钢" changedate="20130503T150916Z">
         <seg>返回结果数量：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Number of segments to initially load:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221116T034031Z" creationid="wynnc" creationdate="20221116T034031Z">
+        <seg>初始加载的片段数量：</seg>
       </tuv>
     </tu>
     <tu>
@@ -40023,6 +40047,14 @@ Vanishing like mist</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Andrew" changedate="20191110T152737Z" creationid="wynnc" creationdate="20190323T075013Z">
         <seg>段落界定格式：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Paragraph delimiter:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221116T034044Z" creationid="wynnc" creationdate="20221116T034044Z">
+        <seg>段落分隔符：</seg>
       </tuv>
     </tu>
     <tu>
@@ -44221,6 +44253,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Save origin of &amp;translation</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221116T034009Z" creationid="wynnc" creationdate="20221116T034009Z">
+        <seg>保存翻译的原文(&amp;T)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Save the PDF.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="think" changedate="20180416T020312Z" creationid="think" creationdate="20180416T020312Z">
@@ -46113,6 +46153,14 @@ When using regular expressions, the replacement string supports references to gr
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Settings for tags originating from non-OmegaT TMX files:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221116T034115Z" creationid="wynnc" creationdate="20221116T034115Z">
+        <seg>源自非 OmegaT TMX 文件的标签设置：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Several filters (Text files, XHTML files, HTML and XHTML files, OpenDocument files and Microsoft Open XML files) have one or more specific options.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131113T114122Z" creationid="Fu Rhong" creationdate="20131113T114002Z">
@@ -46405,6 +46453,14 @@ When using regular expressions, the replacement string supports references to gr
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T081103Z" creationid="wynnc" creationdate="20190323T081103Z">
         <seg>简化受保护部件的工具提示(&amp;T)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Simplify tag &amp;tooltips</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221116T034218Z" creationid="wynnc" creationdate="20221116T034218Z">
+        <seg>简化标签工具提示(&amp;T)</seg>
       </tuv>
     </tu>
     <tu>
@@ -59931,6 +59987,14 @@ OmegaT 选项：
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T075330Z" creationid="wynnc" creationdate="20190320T045507Z">
         <seg>对独立标签使用 XML（例如&lt;i/&gt;）(&amp;X)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &amp;XML notation for standalone tags (e.g., &lt;i/&gt;)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221116T034148Z" creationid="wynnc" creationdate="20221116T034148Z">
+        <seg>对独立标签使用 XML 表示法（例如&lt;i/&gt;）(&amp;X)</seg>
       </tuv>
     </tu>
     <tu>
