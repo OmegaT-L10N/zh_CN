@@ -1174,6 +1174,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Install new language...</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221125T054045Z" creationid="wynnc" creationdate="20221125T054045Z">
+        <seg>安装新语言(&amp;I)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Jump To Segment</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190324T032855Z" creationid="wynnc" creationdate="20190324T032855Z">
@@ -10571,6 +10579,14 @@ included in conveying the object code work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add to Dictionary</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221125T053946Z" creationid="wynnc" creationdate="20221125T053946Z">
+        <seg>添加到词典</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Added {0} glossary entries from {1}</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T052810Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -13166,6 +13182,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
         <seg>可用词典：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Available languages:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221125T054016Z" creationid="wynnc" creationdate="20221125T054016Z">
+        <seg>可用语言：</seg>
       </tuv>
     </tu>
     <tu>
@@ -18079,6 +18103,14 @@ Some filters do not allow encoding modifications.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T065655Z" creationid="wynnc" creationdate="20190323T065646Z">
         <seg>捷克语（Czech）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>D&amp;elete</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221125T054052Z" creationid="wynnc" creationdate="20221125T054052Z">
+        <seg>删除(&amp;E)</seg>
       </tuv>
     </tu>
     <tu>
@@ -47649,6 +47681,14 @@ All sets that match the project source language are applied.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Spellcheck the tr&amp;anslation</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221125T054007Z" creationid="wynnc" creationdate="20221125T054007Z">
+        <seg>对译文进行拼写检查(&amp;A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Spellchecker</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T112545Z" creationid="wynnc" creationdate="20190323T112545Z">
@@ -47677,6 +47717,14 @@ All sets that match the project source language are applied.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="cpeishan" changedate="20180407T141544Z" creationid="cpeishan" creationdate="20180407T141544Z">
         <seg>拼写检查</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Spellchecking dictionaries location:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221125T054029Z" creationid="wynnc" creationdate="20221125T054029Z">
+        <seg>拼写检查词典位置：</seg>
       </tuv>
     </tu>
     <tu>
@@ -58977,6 +59025,14 @@ Exact searches match the whole search string.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>URL of downloadable spellchecking dictionaries:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221125T054139Z" creationid="wynnc" creationdate="20221125T054139Z">
+        <seg>可下载的拼写检查词典的网址：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>URL of online dictionaries:</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -63335,6 +63391,14 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="lenovo" changedate="20180416T120550Z" creationid="lenovo" creationdate="20180416T120550Z">
         <seg>您是OmegaT用户，并且被客户请求以DéjàVu的文件格式提供翻译。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You are deleting the spellchecking dictionary that your project currently uses. Proceed?</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221125T054224Z" creationid="wynnc" creationdate="20221125T054224Z">
+        <seg>您要删除当前项目正在使用的拼写检查词典。继续吗？</seg>
       </tuv>
     </tu>
     <tu>
