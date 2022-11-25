@@ -1342,6 +1342,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;None</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221125T052050Z" creationid="wynnc" creationdate="20221125T052050Z">
+        <seg>无(&amp;N)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Notes</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190322T075140Z" creationid="wynnc" creationdate="20190322T073326Z">
@@ -1714,6 +1722,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T103757Z" creationid="wynnc" creationdate="20190320T103757Z">
         <seg>自动显示相关建议(&amp;S)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Simple variables (e.g., %s, %d)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221125T052114Z" creationid="wynnc" creationdate="20221125T052114Z">
+        <seg>简单变量（如 %s、%d）(&amp;S)</seg>
       </tuv>
     </tu>
     <tu>
@@ -11323,6 +11339,14 @@ rights of fair use or other equivalent, as provided by copyright law.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All variables (e.g., %s, %-s)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221125T052128Z" creationid="wynnc" creationdate="20221125T052128Z">
+        <seg>所有变量（如 %s、%-s）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Allo&amp;w tag editing</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T073720Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -13614,6 +13638,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Block the creation of translated files with tag &amp;issues</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221125T052305Z" creationid="wynnc" creationdate="20221125T052305Z">
+        <seg>阻止创建有标签问题的译文文档(&amp;I)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Blog pages on OmegaT.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Zenobia Fang" changedate="20180423T124055Z" creationid="Zenobia Fang" creationdate="20180423T124036Z">
@@ -14579,6 +14611,14 @@ Exception occurred:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Changing the tag order may break the translated file!</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221125T052217Z" creationid="wynnc" creationdate="20221125T052217Z">
+        <seg>更改标签顺序可能会破坏译文文档！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Changing this flag does not modify the segmentation of already existing translation memories.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131118T035436Z" creationid="Fu Rhong" creationdate="20131118T035436Z">
@@ -14671,6 +14711,14 @@ Exception occurred:</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T095135Z" creationid="wynnc" creationdate="20190320T095135Z">
         <seg>检查问题(&amp;I)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check &amp;Java MessageFormat placeholders (e.g. {0})</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221125T052152Z" creationid="wynnc" creationdate="20221125T052152Z">
+        <seg>检查 &amp;Java MessageFormat 占位符（如 {0}）</seg>
       </tuv>
     </tu>
     <tu>
@@ -14919,6 +14967,14 @@ Exception occurred:</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190901T154859Z" creationid="WynnChen" creationdate="20190901T154859Z">
         <seg>是否要勾选这些规则取决于它们与您要翻译的文本的类型是否相关。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check printf function variables:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221125T052044Z" creationid="wynnc" creationdate="20221125T052044Z">
+        <seg>检查 printf 函数变量：</seg>
       </tuv>
     </tu>
     <tu>
@@ -16890,6 +16946,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T142639Z" creationid="wynnc" creationdate="20190320T045507Z">
         <seg>无法将凭据保存到文本文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Count &amp;flagged text and custom tags in statistics</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221125T052351Z" creationid="wynnc" creationdate="20221125T052351Z">
+        <seg>在统计数据中计入标记的文本和自定义标签(&amp;F)</seg>
       </tuv>
     </tu>
     <tu>
