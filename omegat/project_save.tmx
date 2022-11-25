@@ -38399,6 +38399,24 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT was refused access to the system property containing
+the name of your OS and/or the system property containing
+your home folder. Therefore, the location of OmegaT's
+configuration folder cannot be reliably determined. The
+current folder will be used instead. As a result of this,
+all settings will be at their defaults, due to which you
+may experience unexpected, but correct behaviour.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221125T053510Z" creationid="wynnc" creationdate="20221125T053510Z">
+        <seg>OmegaT 无法访问包含操作系统名称的系统属性及
+包含你的主文件夹的系统属性。因此，无法可靠地确定
+ OmegaT 的配置文件夹位置。将改用当前文件夹。
+这样的结果是所有设置都将处于其默认值，因此你可能
+会遇到意外但正确的行为。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT will automatically parse even the most complex source folder hierarchies, to access all the supported files, and produce a target folder with exactly the same structure, including copies of any non-supported files.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Puzzlist" changedate="20130922T041226Z" creationid="Puzzlist" creationdate="20130922T041226Z">
@@ -64817,6 +64835,20 @@ their defaults as a result of the location change.</seg>
         <seg>你的操作系统拒绝让 OmegaT 创建其配置文件夹。
 将改用当前文件夹。如果稍后给予了访问所需位置的权限，
 则将使用该位置，并且所有设置将因位置更改而恢复为其默认值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your operating system refused to let OmegaT
+create the configuration folder. The current folder will be used
+instead. If access to the desired location is granted later,
+that location will be used and all settings will be reset to
+their default values.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221125T053940Z" creationid="wynnc" creationdate="20221125T053940Z">
+        <seg>你的操作系统拒绝让 OmegaT 创建配置文件夹。将改用当前文件夹。
+如果稍后给予了访问所需位置的权限，将使用该位置，
+并且所有设置都会重置为其默认值。</seg>
       </tuv>
     </tu>
     <tu>
