@@ -9887,6 +9887,14 @@ or that patent license was granted, prior to 28 March 2007.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A rule ID can only contain Latin letters, underscores, and periods.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221125T054326Z" creationid="wynnc" creationdate="20221125T054326Z">
+        <seg>规则 ID 只能包括拉丁字母、下划线、和句点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A schematic diagram is shown below:</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="lenovo" changedate="20180416T090641Z" creationid="lenovo" creationdate="20180416T090641Z">
@@ -11847,6 +11855,14 @@ the predecessor has it or can get it with reasonable efforts.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190326T162642Z" creationid="WynnChen" creationdate="20190326T162642Z">
         <seg>下载字典时发生错误。请再试一次。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An error occurred while downloading the spellchecking dictionary. Try again later.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221125T054319Z" creationid="wynnc" creationdate="20221125T054319Z">
+        <seg>下载拼写检查字典时发生错误。请稍后再试。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16182,6 +16198,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Confirm deletion</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221125T054229Z" creationid="wynnc" creationdate="20221125T054229Z">
+        <seg>确认删除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Confirm removal of pattern {0}</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T054226Z" creationid="wynnc" creationdate="20190323T054226Z">
@@ -18335,6 +18359,14 @@ Some filters do not allow encoding modifications.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190902T102348Z" creationid="wynnc" creationdate="20190902T102348Z">
         <seg>删除原文文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Deletion failed</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221125T054239Z" creationid="wynnc" creationdate="20221125T054239Z">
+        <seg>删除失败</seg>
       </tuv>
     </tu>
     <tu>
@@ -20539,6 +20571,14 @@ by the Free Software Foundation.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120218T060901Z">
         <seg>每个都可以当作源或者目标使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Either update to the latest JDK 1.6, or remove the jaxb-*.jar files from the OmegaT /lib dir</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221125T054618Z" creationid="wynnc" creationdate="20221125T054618Z">
+        <seg>更新到最新的 JDK 1.6 或从 OmegaT 的 /lib 目录中删除 jaxb-*.jar 文件</seg>
       </tuv>
     </tu>
     <tu>
@@ -24313,6 +24353,14 @@ authors of previous versions.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190324T045042Z" creationid="wynnc" creationdate="20190324T045042Z">
         <seg>前往 首选项 &gt; 外部搜索 来启用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to Segment Source</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221125T054418Z" creationid="wynnc" creationdate="20221125T054418Z">
+        <seg>转到片段来源</seg>
       </tuv>
     </tu>
     <tu>
@@ -29588,6 +29636,14 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Insert Match or Selection into Translation</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221125T054433Z" creationid="wynnc" creationdate="20221125T054433Z">
+        <seg>将匹配或所选内容插入译文</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Insert Missing Source &amp;Tags</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T174533Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -29800,6 +29856,14 @@ everything.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="think" changedate="20180416T083106Z" creationid="think" creationdate="20180416T083106Z">
         <seg>在系统层面安装第二个非默认版本的Java，并明确使用此版本启动OmegaT。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Install failed</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221125T054243Z" creationid="wynnc" creationdate="20221125T054243Z">
+        <seg>安装失败</seg>
       </tuv>
     </tu>
     <tu>
@@ -31722,6 +31786,14 @@ itself on the first run. Later calls do not need to be online.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T165000Z" creationid="wynnc" creationdate="20190323T165000Z">
         <seg>语言检查器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Language Installer</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221125T054339Z" creationid="wynnc" creationdate="20221125T054339Z">
+        <seg>语言安装程序</seg>
       </tuv>
     </tu>
     <tu>
@@ -35484,6 +35556,14 @@ measures.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T115119Z" creationid="wynnc" creationdate="20190320T045507Z">
         <seg>远程服务器上没有新词典可用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No new languages available at the remote server.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221125T054411Z" creationid="wynnc" creationdate="20221125T054411Z">
+        <seg>远程服务器上没有可用的新语言。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45907,6 +45987,14 @@ When using regular expressions, the replacement string supports references to gr
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select the desired languages and click Install.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221125T054354Z" creationid="wynnc" creationdate="20221125T054354Z">
+        <seg>选择所需的语言然后点击安装。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select the first segment.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20200123T045157Z" creationid="WynnChen" creationdate="20200123T045157Z">
@@ -53854,6 +53942,22 @@ protocols for communication across the network.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The specified spellchecking dictionary folder cannot be used.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221125T054252Z" creationid="wynnc" creationdate="20221125T054252Z">
+        <seg>无法使用指定的拼写检查词典文件夹。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The specified spellchecking dictionary folder does not exist. Do you want to create it?</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221125T054257Z" creationid="wynnc" creationdate="20221125T054257Z">
+        <seg>指定的拼写检查词典文件夹不存在。要创建吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The specified translation direction is not supported</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T122239Z" creationid="wynnc" creationdate="20190323T122239Z">
@@ -59109,6 +59213,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T180632Z" creationid="wynnc" creationdate="20190320T180632Z">
         <seg>无法转换项目！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to delete the selected dictionary</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221125T054236Z" creationid="wynnc" creationdate="20221125T054236Z">
+        <seg>无法删除所选词典</seg>
       </tuv>
     </tu>
     <tu>
