@@ -17455,6 +17455,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Creation of new team project cancelled</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221125T060025Z" creationid="wynnc" creationdate="20221125T060025Z">
+        <seg>已取消创建新团队项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Creator</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T154235Z" creationid="wynnc" creationdate="20190323T154235Z">
@@ -18057,6 +18065,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Custom branch</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221125T060010Z" creationid="wynnc" creationdate="20221125T060010Z">
+        <seg>自定义分支</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Custom colours...</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="weiyi" changedate="20180406T065735Z" creationid="weiyi" creationdate="20180406T065735Z">
@@ -18255,6 +18271,14 @@ Some filters do not allow encoding modifications.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T054341Z" creationid="wynnc" creationdate="20190320T045507Z">
         <seg>默认</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Default branch</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221125T055957Z" creationid="wynnc" creationdate="20221125T055957Z">
+        <seg>默认分支</seg>
       </tuv>
     </tu>
     <tu>
@@ -20967,6 +20991,14 @@ Your help page not found</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
         <seg>输入片段序号：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enter username/password for {0}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221125T055947Z" creationid="wynnc" creationdate="20221125T055947Z">
+        <seg>输入{0}的用户名/密码</seg>
       </tuv>
     </tu>
     <tu>
@@ -42046,13 +42078,25 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Project conversion failed.
+Check whether your repository has correct commits and files.
+You may have forgotten an initial commit.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221125T055939Z" creationid="wynnc" creationdate="20221125T055839Z">
+        <seg>项目转换失败。
+请检查你的存储库是否有正确的提交和文件。
+你可能忘记进行初始提交。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Project conversion successful.
  
 Contact your project administrator to find out if any
 additional steps need to be taken.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20221125T055714Z" creationid="wynnc" creationdate="20221125T055714Z">
-        <seg>项目成功转换。
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221125T055849Z" creationid="wynnc" creationdate="20221125T055714Z">
+        <seg>项目转换成功。
 
 联系你的项目管理员来了解是否需要采取其他步骤。</seg>
       </tuv>
@@ -60971,6 +61015,14 @@ OmegaT 选项：
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131116T131248Z" creationid="Fu Rhong" creationdate="20131116T131248Z">
         <seg>用户国家</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>User credentials denied</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221125T060043Z" creationid="wynnc" creationdate="20221125T060043Z">
+        <seg>用户凭据被拒绝</seg>
       </tuv>
     </tu>
     <tu>
