@@ -37633,6 +37633,28 @@ combination as such.</seg>
       <tuv lang="en">
         <seg>OmegaT has detected a 3.6-style team project.
  
+Press 'OK' to convert the project into a 4.x team project. This will
+delete your local data and re-download the project contents from
+the server.
+ 
+Press 'Cancel' to leave the project unmodified and load it as a local
+project without team functionality. (You will still able to use OmegaT
+3.6 to edit this project as a team project.)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221125T055651Z" creationid="wynnc" creationdate="20221125T055651Z">
+        <seg>OmegaT 已检测到 3.6 格式的团队项目。
+
+按“确定”将此项目转换为 4.x 团队项目。
+这将删除你的本地数据并从服务器重新下载项目内容。
+
+按“取消”将保持项目不变，并将其作为没有团队功能的本地项目加载。
+（你依然可以用 OmegaT 3.6 来将此项目作为团队项目编辑。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT has detected a 3.6-style team project.
+ 
 Press 'OK' to convert the project into a 4.x-style team project. This
 will delete your local data and re-download the project contents from
 the server.
@@ -42024,6 +42046,19 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Project conversion successful.
+ 
+Contact your project administrator to find out if any
+additional steps need to be taken.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221125T055714Z" creationid="wynnc" creationdate="20221125T055714Z">
+        <seg>项目成功转换。
+
+联系你的项目管理员来了解是否需要采取其他步骤。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Project creating end</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -43683,6 +43718,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T180820Z" creationid="wynnc" creationdate="20190320T180820Z">
         <seg>存储库</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Repository (type: {0}) URL not defined on path: {1}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221125T055827Z" creationid="wynnc" creationdate="20221125T055827Z">
+        <seg>路径 {1} 上未定义存储库（类型：{0}）网址</seg>
       </tuv>
     </tu>
     <tu>
