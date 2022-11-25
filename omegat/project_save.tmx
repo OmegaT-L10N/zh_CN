@@ -55696,6 +55696,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This URL appears to be invalid. Double-check it and try again.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221125T060103Z" creationid="wynnc" creationdate="20221125T060103Z">
+        <seg>此网站似乎无效。请仔细检查，然后重试。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This URL appears to be invalid. Please double-check it.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190326T162740Z" creationid="WynnChen" creationdate="20190326T162740Z">
