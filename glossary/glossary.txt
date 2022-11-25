@@ -89,3 +89,4 @@ Glossary Entry	词条
 load	载入
 reload	重新载入
 shortcut	简写	用于 tag shortcut 这个上下文中，指的是OmegaT进行标签保护时自动将诸如<item>变成灰色的<i0>这样的行为，后者即为tag shortcut
+Translator	译者
