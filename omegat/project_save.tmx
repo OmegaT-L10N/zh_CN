@@ -20947,6 +20947,14 @@ Your help page not found</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enter the name of this set:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221125T055124Z" creationid="wynnc" creationdate="20221125T055124Z">
+        <seg>输入此集合的名称：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enter the new word or phrase (regular expressions are not supported) in the &lt;e0&gt;Replace with&lt;/e0&gt; box, then click one of the following options:</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20200123T055954Z" creationid="10353" creationdate="20180412T095052Z">
@@ -21703,6 +21711,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="zh-CN" changeid="think" changedate="20180416T064246Z" creationid="think" creationdate="20180416T012213Z">
         <seg>按照文件&gt;翻译&gt;导出XML，从PDF中导出Infix XML格式的文本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Export translation memory folder {0} does not exist.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221125T055218Z" creationid="wynnc" creationdate="20221125T055218Z">
+        <seg>导出翻译记忆库文件夹 {0} 不存在。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24047,6 +24063,14 @@ authors of previous versions.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T133610Z" creationid="wynnc" creationdate="20190320T045507Z">
         <seg>Git“{0}”执行开始</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Git notification: {0}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221125T055335Z" creationid="wynnc" creationdate="20221125T055335Z">
+        <seg>Git 通知：{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -35692,6 +35716,14 @@ measures.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T080116Z" creationid="wynnc" creationdate="20190323T080116Z">
         <seg>不考虑标签和数字</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No writable glossary file in the glossary folder.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221125T055244Z" creationid="wynnc" creationdate="20221125T055244Z">
+        <seg>词汇表文件夹中没有可写词汇表文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54030,6 +54062,14 @@ protocols for communication across the network.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The specified project is an OmegaT 3.6 team project. Conversion to the new team project format cannot be performed in console mode. The project will be loaded as a local project without team functionality. Open it in the OmegaT GUI tTo convert it to the new format.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221125T055516Z" creationid="wynnc" creationdate="20221125T055516Z">
+        <seg>指定项目是 OmegaT 3.6 团队项目。转换为新的团队项目格式在控制台模式下无法执行。此项目将作为没有团队功能的本地项目加载。在 OmegaT 图形界面中打开它来将其转换为新格式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The specified project is an OmegaT 3.6-style team project.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T140215Z" creationid="wynnc" creationdate="20190323T140215Z">
@@ -58637,6 +58677,14 @@ install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translate this plural as a plural form #{0}.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221125T055150Z" creationid="wynnc" creationdate="20221125T055150Z">
+        <seg>将此复数翻译为复数形式 #{0}。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translated</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="钢" changedate="20130503T150718Z">
@@ -59301,6 +59349,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T165618Z" creationid="wynnc" creationdate="20190320T045507Z">
         <seg>无法建立新的 TMX 文件！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to commit because remote translation was changed. Will be synchronized next time.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221125T055319Z" creationid="wynnc" creationdate="20221125T055319Z">
+        <seg>由于远程翻译已更改所以无法提交。将在下次同步。</seg>
       </tuv>
     </tu>
     <tu>
