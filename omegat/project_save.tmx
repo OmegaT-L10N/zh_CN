@@ -10123,6 +10123,22 @@ included in conveying the object code work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>API key (optional)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221125T054649Z" creationid="wynnc" creationdate="20221125T054649Z">
+        <seg>API 密钥（可选）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>API key:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221125T054645Z" creationid="wynnc" creationdate="20221125T054645Z">
+        <seg>API 密钥：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>API keys can be requested using &lt;u0&gt;API key request form&lt;/u0&gt;, and viewed on &lt;u1&gt;My Keys&lt;/u1&gt; page.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="17012" changedate="20180405T111821Z" creationid="17012" creationdate="20180405T111821Z">
@@ -18203,6 +18219,14 @@ Some filters do not allow encoding modifications.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>DeepL API key not available. See the user guide for instructions.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221125T054750Z" creationid="wynnc" creationdate="20221125T054750Z">
+        <seg>DeepL API 密钥不可用。相关说明请参阅用户指南。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>DeepL Api key not available.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T121749Z" creationid="wynnc" creationdate="20190323T121749Z">
@@ -24369,6 +24393,14 @@ authors of previous versions.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190409T134929Z" creationid="Fu Rhong" creationdate="20131110T023204Z">
         <seg>转到菜单</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Google API key not available. See the user guide for instructions.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221125T054804Z" creationid="wynnc" creationdate="20221125T054726Z">
+        <seg>Google API 密钥不可用。相关说明请参阅用户指南。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33123,6 +33155,14 @@ later version.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="cpeishan" changedate="20180407T142130Z" creationid="cpeishan" creationdate="20180407T142130Z">
         <seg>微软翻译</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>MT engine error({0}) {1}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221125T054640Z" creationid="wynnc" creationdate="20221125T054640Z">
+        <seg>机器翻译引擎错误（{0}）{1}</seg>
       </tuv>
     </tu>
     <tu>
