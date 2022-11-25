@@ -2214,6 +2214,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(Leave the Password empty if you are using an API key.)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221125T054926Z" creationid="wynnc" creationdate="20221125T054926Z">
+        <seg>（如果你正在使用 API 密钥，将密码留空即可。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(Not to be confused with the "Text Export" feature, which also enables scripts to be used with OmegaT, but on a more basic level.)</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="18261" changedate="20180413T022200Z" creationid="18261" creationdate="20180413T021041Z">
@@ -19103,6 +19111,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Displays alternative translations you have created for repeated segments in the project.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221125T055056Z" creationid="wynnc" creationdate="20221125T055056Z">
+        <seg>显示你为项目中重复片段所创建的备选译文。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Displays comments in the active segment if they exist in the source file and the file filter supports it (e.g. PO-filter).</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T105725Z" creationid="wynnc" creationdate="20190323T105725Z">
@@ -25497,6 +25513,14 @@ prior to 60 days after the cessation.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190326T162652Z" creationid="WynnChen" creationdate="20190326T162652Z">
         <seg>IBM Watson 不可用。有关说明，请参阅 OmegaT 手册。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>IBM Watson not available. See the user guide for instructions.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221125T054918Z" creationid="wynnc" creationdate="20221125T054918Z">
+        <seg>IBM Watson 不可用。相关说明请参阅用户指南。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34308,6 +34332,14 @@ later version.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Microsoft Translator Subscription Key not available. See the user guide for instructions.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221125T055024Z" creationid="wynnc" creationdate="20221125T055024Z">
+        <seg>Microsoft Translator 订阅密钥不可用。相关说明请参阅用户指南。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Microsoft Translator's Client ID or Client Secret not available.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="钢" changedate="20130503T165309Z">
@@ -34416,6 +34448,14 @@ later version.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190902T062009Z">
         <seg>在片段中混合从右向左和从左向右字符串</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Model ID:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221125T054901Z" creationid="wynnc" creationdate="20221125T054901Z">
+        <seg>模型 ID：</seg>
       </tuv>
     </tu>
     <tu>
@@ -44191,6 +44231,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Run script in slot #{0}.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221125T055113Z" creationid="wynnc" creationdate="20221125T055113Z">
+        <seg>运行 #{0} 栏中的脚本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Run script on slot #{0}.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T123539Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -46299,6 +46347,14 @@ When using regular expressions, the replacement string supports references to gr
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Set Empty Translation</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221125T055104Z" creationid="wynnc" creationdate="20221125T055104Z">
+        <seg>设置为空译文</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Set My Own Password</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190324T042251Z" creationid="wynnc" creationdate="20190324T042251Z">
@@ -48303,6 +48359,14 @@ All sets that match the project source language are applied.</seg>
         <seg>Subscription Key:</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T121921Z" creationid="wynnc" creationdate="20190323T121921Z">
+        <seg>订阅密钥：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Subscription key:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221125T054928Z" creationid="wynnc" creationdate="20221125T054928Z">
         <seg>订阅密钥：</seg>
       </tuv>
     </tu>
@@ -60992,6 +61056,14 @@ searchable without subscription:</seg>
         <seg>Username or API Key:</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T121758Z" creationid="wynnc" creationdate="20190323T121758Z">
+        <seg>用户名或 API 密钥：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Username or API key:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221125T054809Z" creationid="wynnc" creationdate="20221125T054809Z">
         <seg>用户名或 API 密钥：</seg>
       </tuv>
     </tu>
