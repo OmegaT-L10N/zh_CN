@@ -440,16 +440,16 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>${initialCreationDate}</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="Doris" changedate="20180419T015231Z" creationid="Doris" creationdate="20180419T015231Z">
-        <seg>字符串：${initialCreationDate}</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T130428Z" creationid="Doris" creationdate="20180419T015231Z">
+        <seg>${initialCreationDate}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>${initialCreationID}</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="Doris" changedate="20180419T015226Z" creationid="Doris" creationdate="20180419T015226Z">
-        <seg>字符串：${initialCreationID}</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T130421Z" creationid="Doris" creationdate="20180419T015226Z">
+        <seg>${initialCreationID}</seg>
       </tuv>
     </tu>
     <tu>
@@ -23714,8 +23714,8 @@ authors of previous versions.</seg>
       <tuv lang="en">
         <seg>Force Unicode literals compatibility with Java 8</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T093652Z" creationid="wynnc" creationdate="20221111T093652Z">
-        <seg>强制让 Unicode 编码文字兼容于 Java 8</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T130645Z" creationid="wynnc" creationdate="20221111T093652Z">
+        <seg>强制让 Unicode 编码文字与 Java 8 兼容</seg>
       </tuv>
     </tu>
     <tu>
@@ -30857,8 +30857,8 @@ everything.</seg>
       <tuv lang="en">
         <seg>It is possible to drag and drop files to each pane, which will react accordingly.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20200121T084831Z" creationid="Doris" creationdate="20180418T150134Z">
-        <seg>可以将文件拖放到各个窗格中，窗格将作出相应的反应。</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T130502Z" creationid="Doris" creationdate="20180418T150134Z">
+        <seg>可以将文件拖放到各个窗格中，窗格会作出相应的反应。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44739,8 +44739,8 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Same as ${diff}, but with the differences (what is to be inserted and deleted) inverted.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20190901T170313Z" creationid="Doris" creationdate="20180419T015208Z">
-        <seg>与 ${diff} 相同，但差异（要插入和删除的内容）是反向的。</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T130407Z" creationid="Doris" creationdate="20180419T015208Z">
+        <seg>与 ${diff} 相同，但差异（要插入和删除的内容）是颠倒的。</seg>
       </tuv>
     </tu>
     <tu>
