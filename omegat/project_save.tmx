@@ -9847,8 +9847,8 @@ this License.</seg>
       <tuv lang="en">
         <seg>A number of interactive tools are available to develop and test regular expressions. They generally follow much the same pattern (for an example from the Regular Expression Tester see below): the regular expression (top entry) analyzes the search text (Text box in the middle) , yielding the hits, shown in the result Text box.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20190522T060048Z" creationid="WynnChen" creationdate="20190522T060048Z">
-        <seg>有许多交互式工具可用于开发和测试正则表达式。它们大致上遵循相同的模式（见下面的 Regular Expression Tester 示例）：正则表达式（顶上的条目）分析要进行查找的文本（中间的文本框），产生命中，将其显示在结果文本框中。</seg>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221128T111103Z" creationid="WynnChen" creationdate="20190522T060048Z">
+        <seg>有许多交互式工具可用于开发和测试正则表达式。它们大致上遵循相同的模式（见下面的 Regular Expression Tester 示例）：正则表达式（顶上的条目）分析要进行搜索的文本（中间的文本框），产生命中，将其显示在结果文本框中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -71979,8 +71979,8 @@ To add files to the project you can
       <tuv lang="en">
         <seg>search for “is”, not “this” or “isn't” etc.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="Andrew" changedate="20191107T073806Z" creationid="Fu Rhong" creationdate="20131119T124718Z">
-        <seg>查找 “is”，但不匹配 “this” 或 “isn't” 等。</seg>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221128T111215Z" creationid="Fu Rhong" creationdate="20131119T124718Z">
+        <seg>搜索“is”，但不匹配“this”或“isn't”等。</seg>
       </tuv>
     </tu>
     <tu>
