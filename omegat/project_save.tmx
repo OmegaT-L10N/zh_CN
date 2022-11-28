@@ -22093,8 +22093,8 @@ Gossamer threads hold you back
       <tuv lang="en">
         <seg>Failed to load specified project!</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190322T055004Z" creationid="wynnc" creationdate="20190320T045507Z">
-        <seg>无法载入指定项目！</seg>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221128T105454Z" creationid="wynnc" creationdate="20190320T045507Z">
+        <seg>无法加载指定项目！</seg>
       </tuv>
     </tu>
     <tu>
@@ -33001,16 +33001,16 @@ later version.</seg>
       <tuv lang="en">
         <seg>Loading project...</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T113128Z" creationid="wynnc" creationdate="20190320T045507Z">
-        <seg>正在载入项目...</seg>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221128T105507Z" creationid="wynnc" creationdate="20190320T045507Z">
+        <seg>正在加载项目...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Loading: {0}</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T165414Z" creationid="wynnc" creationdate="20190320T045507Z">
-        <seg>正在载入：{0}</seg>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221128T105514Z" creationid="wynnc" creationdate="20190320T045507Z">
+        <seg>正在加载：{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -42758,6 +42758,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Re&amp;load</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221128T105429Z" creationid="wynnc" creationdate="20221128T105244Z">
+        <seg>重新加载(&amp;L)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Re&amp;move Filter</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T173753Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -47745,8 +47753,8 @@ of the GPL, as needed to protect the freedom of users.</seg>
       <tuv lang="en">
         <seg>Source file loading complete</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T175223Z" creationid="wynnc" creationdate="20190320T045507Z">
-        <seg>原文文件载入完成</seg>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221128T105520Z" creationid="wynnc" creationdate="20190320T045507Z">
+        <seg>原文文件加载完成</seg>
       </tuv>
     </tu>
     <tu>
@@ -60715,7 +60723,7 @@ Console only options:
  
 {0}</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20221128T104559Z" creationid="wynnc" creationdate="20221128T104559Z">
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221128T105419Z" creationid="wynnc" creationdate="20221128T104559Z">
         <seg>用法： java -jar [&lt;Java 选项&gt;] OmegaT.jar [&lt;OmegaT 选项&gt;] [&lt;项目路径&gt;]
  
 有关详细信息，包括可用的 Java 选项，请参阅“帮助 &gt; 用户指南”
@@ -60724,13 +60732,13 @@ OmegaT 选项：
  
 	不带任何选项：启动图形界面
  
-	只提供了项目路径：启动图形界面并载入指定项目
+	只提供了项目路径：启动图形界面并加载指定项目
  
 	-h, --help
 	  显示本帮助信息。
  
 	--remote-project
-	  从作为&lt;项目路径&gt;给出的网址下载 omegat.project 文件并载入此项目。
+	  从作为&lt;项目路径&gt;给出的网址下载 omegat.project 文件并加载此项目。
  
 	--no-team
 	  禁用团队项目功能。
@@ -65377,7 +65385,7 @@ If the project contains files but their content is not displayed here:
 	  otherwise use Options &gt; Global File Filters...;
 	- open them in their original application and verify that they are not empty.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20221128T105149Z" creationid="wynnc" creationdate="20221128T105108Z">
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221128T105443Z" creationid="wynnc" creationdate="20221128T105108Z">
         <seg>你的项目似乎并不包含可翻译文件。
  
 要将文件添加到项目中，你可以：
@@ -65386,7 +65394,7 @@ If the project contains files but their content is not displayed here:
 	- 使用“项目 &gt; 添加文件...”；
 	- 使用“项目 &gt; 原文文件...”并点击“添加文件...”；
 	- 使用文件管理器将文件复制到“source”文件夹中，
-	  然后用“项目 &gt; 重新载入”来重新载入项目。
+	  然后用“项目 &gt; 重新加载”来重新加载项目。
  
 如果项目中包含有文件但其内容并未显示在此：
  
