@@ -43465,8 +43465,8 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Remove OmegaT tags which have &lt;br&gt;lower case letter before and after it</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20190403T154529Z" creationid="xulihang" creationdate="20180408T115548Z">
-        <seg>删除前后都有小写字母的OmegaT 标签</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T114354Z" creationid="xulihang" creationdate="20180408T115548Z">
+        <seg>删除前后都有小写字母的 OmegaT 标签</seg>
       </tuv>
     </tu>
     <tu>
@@ -45295,8 +45295,8 @@ When using regular expressions, the replacement string supports references to gr
       <tuv lang="en">
         <seg>Search</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20190403T153835Z" creationid="xulihang" creationdate="20180408T115006Z">
-        <seg>查找</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T114119Z" creationid="xulihang" creationdate="20180408T115006Z">
+        <seg>搜索</seg>
       </tuv>
     </tu>
     <tu>
@@ -45351,8 +45351,8 @@ When using regular expressions, the replacement string supports references to gr
       <tuv lang="en">
         <seg>Search and Replace</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20190403T153847Z" creationid="xulihang" creationdate="20180408T115013Z">
-        <seg>查找与替换</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T114126Z" creationid="xulihang" creationdate="20180408T115013Z">
+        <seg>搜索与替换</seg>
       </tuv>
     </tu>
     <tu>
@@ -47119,8 +47119,8 @@ When using regular expressions, the replacement string supports references to gr
       <tuv lang="en">
         <seg>Simple search and replace script</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20190403T153805Z" creationid="xulihang" creationdate="20180408T115004Z">
-        <seg>简单的查找与替换脚本</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T114113Z" creationid="xulihang" creationdate="20180408T115004Z">
+        <seg>简单的搜索与替换脚本</seg>
       </tuv>
     </tu>
     <tu>
