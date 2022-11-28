@@ -43915,8 +43915,8 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Replaces the target segment with the translation, provided by the selected Machine Translation service.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="Andrew" changedate="20180413T130112Z">
-        <seg>使用选择的机器翻译服务提供的译文替换目标片段。</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T125542Z">
+        <seg>将译文片段替换为所选机器翻译服务提供的译文。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48552,8 +48552,8 @@ All sets that match the project source language are applied.</seg>
       <tuv lang="en">
         <seg>String showing the differences between the source and the match.&lt;e0&gt; Hint:&lt;/e0&gt; use this if the text you are translating has been updated.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20190901T170157Z" creationid="Doris" creationdate="20180419T015033Z">
-        <seg>显示原文和匹配之间差异的字符串。&lt;e0&gt;提示：&lt;/e0&gt;如果你正在翻译的文本已更新，请使用它。</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T130349Z" creationid="Doris" creationdate="20180419T015033Z">
+        <seg>显示原文和匹配之间差异的字符串。&lt;e0&gt;提示：&lt;/e0&gt;如果你正在翻译的文本已更新，请使用此内容。</seg>
       </tuv>
     </tu>
     <tu>
