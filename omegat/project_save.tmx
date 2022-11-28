@@ -806,6 +806,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Current Source File</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221128T110128Z" creationid="wynnc" creationdate="20221128T110128Z">
+        <seg>当前原文文件(&amp;C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Cycle</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T115608Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -962,6 +970,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T102935Z" creationid="wynnc" creationdate="20190320T045507Z">
         <seg>精确查找(&amp;E)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Exported TMs</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221128T110117Z" creationid="wynnc" creationdate="20221128T110117Z">
+        <seg>导出的翻译记忆库(&amp;E)</seg>
       </tuv>
     </tu>
     <tu>
@@ -15870,6 +15886,14 @@ Exception occurred:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Co&amp;mmit Source Files</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221128T105924Z" creationid="wynnc" creationdate="20221128T105924Z">
+        <seg>提交原文文件(&amp;M)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Code has been contributed by:
 {0}</seg>
       </tuv>
@@ -15910,6 +15934,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="zh-CN" changeid="10353" changedate="20180414T083434Z" creationid="10353" creationdate="20180414T083434Z">
         <seg>结合te-gloss-highlight和te-gloss-subst的替换和高亮显示功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Comm&amp;it Target Files</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221128T105935Z" creationid="wynnc" creationdate="20221128T105935Z">
+        <seg>提交译文文件(&amp;I)</seg>
       </tuv>
     </tu>
     <tu>
@@ -17086,10 +17118,26 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create &amp;Translated Files</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221128T105945Z" creationid="wynnc" creationdate="20221128T105945Z">
+        <seg>创建译文文件(&amp;T)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create Alternative Translation</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T050024Z" creationid="wynnc" creationdate="20190320T045507Z">
         <seg>创建不同译文</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create Current Translate&amp;d File</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221128T110004Z" creationid="wynnc" creationdate="20221128T110004Z">
+        <seg>创建当前译文文件(&amp;D)</seg>
       </tuv>
     </tu>
     <tu>
@@ -33015,6 +33063,14 @@ later version.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local File &amp;Filters...</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221128T110020Z" creationid="wynnc" creationdate="20221128T110020Z">
+        <seg>局部文件过滤器(&amp;F)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Local File Filters</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20221128T103434Z" creationid="wynnc" creationdate="20221111T103544Z">
@@ -35754,8 +35810,8 @@ measures.</seg>
       <tuv lang="en">
         <seg>No project loaded.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20190403T155747Z" creationid="WynnChen" creationdate="20190403T155747Z">
-        <seg>未载入项目。</seg>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221128T105838Z" creationid="WynnChen" creationdate="20190403T155747Z">
+        <seg>未加载任何项目。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40366,6 +40422,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190515T044735Z" creationid="WynnChen" creationdate="20190515T044735Z">
         <seg>覆盖模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>P&amp;roject Folder</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221128T110044Z" creationid="wynnc" creationdate="20221128T110044Z">
+        <seg>项目文件夹(&amp;R)</seg>
       </tuv>
     </tu>
     <tu>
@@ -47301,6 +47365,14 @@ When using regular expressions, the replacement string supports references to gr
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>So&amp;urce Files...</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221128T110030Z" creationid="wynnc" creationdate="20221128T110030Z">
+        <seg>原文文件(&amp;U)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>So, if the user's operating system is Russian and &lt;a4&gt;OmegaT&lt;/a4&gt; has been localized in Russian, &lt;a5&gt;OmegaT&lt;/a5&gt; is displayed with a Russian user interface, Russian menus, etc.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120223T155549Z">
@@ -49423,8 +49495,8 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       <tuv lang="en">
         <seg>Tagwipe finished, reloading project...</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20190403T160003Z" creationid="WynnChen" creationdate="20190403T160003Z">
-        <seg>Tagwipe 完成，重新载入项目...</seg>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221128T105858Z" creationid="WynnChen" creationdate="20190403T160003Z">
+        <seg>Tagwipe 完成，重新加载项目...</seg>
       </tuv>
     </tu>
     <tu>
