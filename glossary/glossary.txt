@@ -82,7 +82,6 @@ Segment	片段
 Delimitation	界定	发现有这种译法……先添加上吧。
 segmentation	分割
 Microsoft	Microsoft	MS官方网站中各处都是使用原文而不用微软，与其维持一致。
-search	查找	用于文本 search 和 replace 场合时，根据office等主流软件的习惯，统一将 search 译为 查找 而非 搜索。
 TransTips	翻译提示
 alternative translation	多重译文
 Glossary Entry	词条
@@ -90,3 +89,4 @@ shortcut	简写	用于 tag shortcut 这个上下文中，指的是OmegaT进行�
 Translator	译者
 load	加载
 reload	重新加载
+search	搜索
