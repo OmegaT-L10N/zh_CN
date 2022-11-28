@@ -86,7 +86,7 @@ search	查找	用于文本 search 和 replace 场合时，根据office等主流�
 TransTips	翻译提示
 alternative translation	多重译文
 Glossary Entry	词条
-load	载入
-reload	重新载入
 shortcut	简写	用于 tag shortcut 这个上下文中，指的是OmegaT进行标签保护时自动将诸如<item>变成灰色的<i0>这样的行为，后者即为tag shortcut
 Translator	译者
+load	加载
+reload	重新加载
