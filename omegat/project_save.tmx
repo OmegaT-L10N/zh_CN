@@ -72925,8 +72925,8 @@ To add files to the project you can
       <tuv lang="en">
         <seg>total number of segments (including repeats) in the project</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131031T063401Z">
-        <seg>项目中的片段总数（包括重复）</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T131948Z">
+        <seg>项目中的片段总数（包括重复的）</seg>
       </tuv>
     </tu>
     <tu>
