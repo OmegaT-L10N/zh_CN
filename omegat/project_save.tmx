@@ -3673,8 +3673,8 @@ not be entered.)</seg>
       <tuv lang="en">
         <seg>...matches the following</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="xulihang" changedate="20180408T105614Z">
-        <seg>...匹配下列内容</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T112940Z">
+        <seg>...匹配以下内容</seg>
       </tuv>
     </tu>
     <tu>
@@ -21569,8 +21569,8 @@ No one hears your screams</seg>
       <tuv lang="en">
         <seg>Example - Search and Replace</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20190403T153758Z" creationid="xulihang" creationdate="20180408T114953Z">
-        <seg>示例 - 查找与替换</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T113038Z" creationid="xulihang" creationdate="20180408T114953Z">
+        <seg>示例 - 搜索与替换</seg>
       </tuv>
     </tu>
     <tu>
