@@ -23803,7 +23803,7 @@ authors of previous versions.</seg>
       <tuv lang="en">
         <seg>Found in:</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T120907Z" creationid="wynnc" creationdate="20190320T045507Z">
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221128T111000Z" creationid="wynnc" creationdate="20190320T045507Z">
         <seg>查找范围：</seg>
       </tuv>
     </tu>
@@ -38001,8 +38001,8 @@ Other contributions are detailed in the readme.txt file
 OmegaT uses the following libraries:
 {1}</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T103215Z" creationid="wynnc" creationdate="20221111T103215Z">
-        <seg>OmegaT 是自由且开源的多平台计算机辅助翻译（CAT）工具，提供了模糊匹配、翻译记忆、关键字查找、词汇表、以及为更新后的项目自动套用翻译等特性。
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221128T110908Z" creationid="wynnc" creationdate="20221111T103215Z">
+        <seg>OmegaT 是自由且开源的多平台计算机辅助翻译（CAT）工具，提供了模糊匹配、翻译记忆、关键字搜索、词汇表、以及为更新后的项目自动套用翻译等特性。
 
 OmegaT 最初的工作由 Keith Godfrey 完成。
 Jean-Christophe Helary 是 OmegaT 的项目经理。
@@ -45303,8 +45303,8 @@ When using regular expressions, the replacement string supports references to gr
       <tuv lang="en">
         <seg>Search ({0})</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20221128T110336Z" creationid="wynnc" creationdate="20190324T042411Z">
-        <seg>查找({0})</seg>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221128T111011Z" creationid="wynnc" creationdate="20190324T042411Z">
+        <seg>搜索({0})</seg>
       </tuv>
     </tu>
     <tu>
@@ -53734,8 +53734,8 @@ additional steps need to be taken.</seg>
       <tuv lang="en">
         <seg>The regular expressions (or regex for short) used in searches and segmentation rules are those supported by Java. Should you need more specific information, consult the &lt;u0&gt;Java Regex documentation&lt;/u0&gt;. See additional references and examples below.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20190522T045647Z" creationid="WynnChen" creationdate="20190522T045647Z">
-        <seg>在查找功能和片段分割规则中所使用的是 Java 所支持的正则表达式。如果你需要更多详细信息，请参阅 &lt;u0&gt;Java 正则表达式文档&lt;/u0&gt;。参见以下的参考和范例。</seg>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221128T111021Z" creationid="WynnChen" creationdate="20190522T045647Z">
+        <seg>在搜索功能和片段分割规则中所使用的是 Java 所支持的正则表达式。如果你需要更多详细信息，请参阅 &lt;u0&gt;Java 正则表达式文档&lt;/u0&gt;。参见以下的参考和范例。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56077,8 +56077,8 @@ the server.</seg>
       <tuv lang="en">
         <seg>This chapter is intended for advanced users, who need to define their own variants of segmentation rules or devise more complex and powerful key search items.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20190522T045853Z">
-        <seg>本章内容是为高级用户准备的，用于定义自己的分割规则变体或设计更复杂更强大的关键字查找内容。</seg>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221128T111044Z">
+        <seg>本章内容是为高级用户准备的，用于定义自己的分割规则变体或设计更复杂更强大的关键字搜索项。</seg>
       </tuv>
     </tu>
     <tu>
