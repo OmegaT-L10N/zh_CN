@@ -33001,8 +33001,8 @@ later version.</seg>
       <tuv lang="en">
         <seg>Local File Filters</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T103544Z" creationid="wynnc" creationdate="20221111T103544Z">
-        <seg>本地文件过滤器</seg>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221128T103434Z" creationid="wynnc" creationdate="20221111T103544Z">
+        <seg>局部文件过滤器</seg>
       </tuv>
     </tu>
     <tu>
@@ -33025,8 +33025,8 @@ later version.</seg>
       <tuv lang="en">
         <seg>Local Segmentation Rules</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T104755Z" creationid="wynnc" creationdate="20221111T104755Z">
-        <seg>本地分割规则</seg>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221128T103522Z" creationid="wynnc" creationdate="20221111T104755Z">
+        <seg>局部分割规则</seg>
       </tuv>
     </tu>
     <tu>
@@ -49831,6 +49831,14 @@ The scope of a text replacement is the target segments of the project, whether t
         <seg>Text to be removed</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T143814Z" creationid="wynnc" creationdate="20190320T045507Z">
+        <seg>要删除的文本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Text to remove</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221128T103700Z" creationid="wynnc" creationdate="20221128T103700Z">
         <seg>要删除的文本</seg>
       </tuv>
     </tu>
