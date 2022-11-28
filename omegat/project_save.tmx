@@ -9981,7 +9981,7 @@ included in conveying the object code work.</seg>
       <tuv lang="en">
         <seg>A simple set of QA checks for current OmegaT project</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20190403T151048Z" creationid="xulihang" creationdate="20180408T112916Z">
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T113653Z" creationid="xulihang" creationdate="20180408T112916Z">
         <seg>针对当前 OmegaT 项目的一套简单的 QA 检查</seg>
       </tuv>
     </tu>
@@ -27971,8 +27971,8 @@ to use Java Web Start.</seg>
       <tuv lang="en">
         <seg>If you used linux-install.sh script, you should be able to launch OmegaT with:</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20190325T165827Z" creationid="xulihang" creationdate="20180408T105846Z">
-        <seg>如果您用了 linux-install.sh 脚本，你应当可以这样启动 OmegaT：</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T113527Z" creationid="xulihang" creationdate="20180408T105846Z">
+        <seg>如果您用了 linux-install.sh 脚本，应当可以这样启动 OmegaT：</seg>
       </tuv>
     </tu>
     <tu>
@@ -42692,8 +42692,8 @@ additional steps need to be taken.</seg>
       <tuv lang="en">
         <seg>QA - Check Rules</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T113235Z" creationid="xulihang" creationdate="20180408T112857Z">
-        <seg>质量保障检查规则</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T113640Z" creationid="xulihang" creationdate="20180408T112857Z">
+        <seg>QA 检查规则</seg>
       </tuv>
     </tu>
     <tu>
