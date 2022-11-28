@@ -17174,6 +17174,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create A&amp;lternative Translation</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T134601Z" creationid="WynnChen" creationdate="20221128T134601Z">
+        <seg>创建不同译文(&amp;L)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create Alternative Translation</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T050024Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -32621,10 +32629,26 @@ later version.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Left-to-Right Embedding (LRE U+202&amp;A)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T134331Z" creationid="WynnChen" creationdate="20221128T134331Z">
+        <seg>Left-to-Right Embedding (LRE U+202&amp;A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Left-to-Right Embedding (LRE U+202A)</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T094256Z" creationid="wynnc" creationdate="20190320T094256Z">
         <seg>Left-to-Right Embedding (LRE U+202A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Left-to-Right Mark (LRM U+200&amp;E)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T134320Z" creationid="WynnChen" creationdate="20221128T134320Z">
+        <seg>Left-to-Right Mark (LRM U+200&amp;E)</seg>
       </tuv>
     </tu>
     <tu>
@@ -41532,6 +41556,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Pop Directional Formatting (PDF U+202&amp;C)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T134544Z" creationid="WynnChen" creationdate="20221128T134544Z">
+        <seg>Pop Directional Formatting (PDF U+202&amp;C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Pop Directional Formatting (PDF U+202C)</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T094415Z" creationid="wynnc" creationdate="20190320T094415Z">
@@ -43399,6 +43431,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remo&amp;ve Translation</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T134632Z" creationid="WynnChen" creationdate="20221128T134632Z">
+        <seg>删除译文(&amp;V)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remote &amp;server</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T113922Z" creationid="wynnc" creationdate="20190323T113922Z">
@@ -44457,6 +44497,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Right-to-Left Embedding (RLE U+202&amp;B)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T134332Z" creationid="WynnChen" creationdate="20221128T134332Z">
+        <seg>Right-to-Left Embedding (RLE U+202&amp;B)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Right-to-Left Embedding (RLE U+202B)</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T094326Z" creationid="wynnc" creationdate="20190320T094326Z">
@@ -44467,8 +44515,8 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Right-to-Left Mark (RLM U+200&amp;F)</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T133833Z" creationid="WynnChen" creationdate="20221128T133833Z">
-        <seg>从右向左RLM U+200&amp;F)</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T134330Z" creationid="WynnChen" creationdate="20221128T134330Z">
+        <seg>Right-to-Left Mark (RLM U+200&amp;F)</seg>
       </tuv>
     </tu>
     <tu>
@@ -61189,6 +61237,14 @@ OmegaT 选项：
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190902T091653Z" creationid="wynnc" creationdate="20190902T091637Z">
         <seg>使用 SVN 或 Git 客户端添加要翻译的文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use as Default Translati&amp;on</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T134552Z" creationid="WynnChen" creationdate="20221128T134552Z">
+        <seg>用作默认译文(&amp;O)</seg>
       </tuv>
     </tu>
     <tu>
