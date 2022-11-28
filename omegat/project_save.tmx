@@ -4992,8 +4992,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;Adding files to the project: &lt;/e0&gt;You can add source files to the project by clicking on the "&lt;g1&gt;Import Source Files..."&lt;/g1&gt; button. This copies the selected files to the &lt;f2&gt;source&lt;/f2&gt; folder and reloads the project to import the new files. You can also add source files from Internet pages, written in MediaWiki, by clicking on&lt;g3&gt; "Import from MediaWiki"&lt;/g3&gt; button and providing the corresponding URL.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20200123T053624Z" creationid="WynnChen" creationdate="20200123T053326Z">
-        <seg>&lt;e0&gt;向项目中添加文件：&lt;/e0&gt;你可以通过点击“&lt;g1&gt;导入原文文件...&lt;/g1&gt;”按钮来向项目中添加原文文件。这会将所选择的文件复制到 &lt;f2&gt;source&lt;/f2&gt; 文件夹并重新载入项目以导入新文件。还可以通过点击&lt;g3&gt;“从 MediaWiki 导入”&lt;/g3&gt;按钮并提供相应的网址来从用 MediaWiki 编写的网页添加原文文件。</seg>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221128T105825Z" creationid="WynnChen" creationdate="20200123T053326Z">
+        <seg>&lt;e0&gt;向项目中添加文件：&lt;/e0&gt;你可以通过点击“&lt;g1&gt;导入原文文件...&lt;/g1&gt;”按钮来向项目中添加原文文件。这会将所选择的文件复制到 &lt;f2&gt;source&lt;/f2&gt; 文件夹并重新加载项目以导入新文件。还可以通过点击&lt;g3&gt;“从 MediaWiki 导入”&lt;/g3&gt;按钮并提供相应的网址来从用 MediaWiki 编写的网页添加原文文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6193,8 +6193,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;html&gt;&lt;center&gt;Loading...&lt;br&gt;&lt;br&gt;Tip: Enable/disable checks at any time from the Options menu.&lt;/center&gt;&lt;/html&gt;</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190324T033410Z" creationid="wynnc" creationdate="20190324T033410Z">
-        <seg>&lt;html&gt;&lt;center&gt;载入中...&lt;br&gt;&lt;br&gt;提示：可以随时从选项菜单中启用/禁用检查。&lt;/center&gt;&lt;/html&gt;</seg>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221128T105754Z" creationid="wynnc" creationdate="20190324T033410Z">
+        <seg>&lt;html&gt;&lt;center&gt;正在加载...&lt;br&gt;&lt;br&gt;提示：可以随时从选项菜单中启用/禁用检查。&lt;/center&gt;&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -21625,8 +21625,8 @@ No one hears your screams</seg>
       <tuv lang="en">
         <seg>Exceptions occurred while loading segmentation rules:</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T064717Z" creationid="wynnc" creationdate="20190320T045507Z">
-        <seg>载入分割规则时发生异常：</seg>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221128T105705Z" creationid="wynnc" creationdate="20190320T045507Z">
+        <seg>加载分割规则时发生异常：</seg>
       </tuv>
     </tu>
     <tu>
@@ -22490,8 +22490,8 @@ a description of how this error was produced.</seg>
       <tuv lang="en">
         <seg>Filter '{0}' could not be loaded from '{1}'</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190322T062559Z" creationid="wynnc" creationdate="20190320T045507Z">
-        <seg>无法从“{1}”载入过滤器“{0}”</seg>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221128T105622Z" creationid="wynnc" creationdate="20190320T045507Z">
+        <seg>无法从“{1}”加载过滤器“{0}”</seg>
       </tuv>
     </tu>
     <tu>
@@ -29726,8 +29726,8 @@ everything.</seg>
       <tuv lang="en">
         <seg>Initially load this many segments</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20190901T163730Z" creationid="Administrator" creationdate="20180411T111239Z">
-        <seg>初始载入片段数量</seg>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221128T105802Z" creationid="Administrator" creationdate="20180411T111239Z">
+        <seg>初始加载片段数量</seg>
       </tuv>
     </tu>
     <tu>
@@ -32969,16 +32969,16 @@ later version.</seg>
       <tuv lang="en">
         <seg>Loading Project</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T125446Z" creationid="wynnc" creationdate="20190320T045507Z">
-        <seg>正在载入项目</seg>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221128T105734Z" creationid="wynnc" creationdate="20190320T045507Z">
+        <seg>正在加载项目</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Loading TMX files...</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T165514Z" creationid="wynnc" creationdate="20190320T045507Z">
-        <seg>正在载入 TMX 文件...</seg>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221128T105530Z" creationid="wynnc" creationdate="20190320T045507Z">
+        <seg>正在加载 TMX 文件...</seg>
       </tuv>
     </tu>
     <tu>
@@ -32993,8 +32993,8 @@ later version.</seg>
       <tuv lang="en">
         <seg>Loading glossary {0}</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
-        <seg>载入词汇表 {0}</seg>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221128T105604Z" creationid="wynnc" creationdate="20190320T045507Z">
+        <seg>正在加载词汇表 {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -37329,8 +37329,8 @@ combination as such.</seg>
       <tuv lang="en">
         <seg>OmegaT also backs up the translation memory to project_save.tmx.YEARMMDDHHNN.bak in the same subfolder each time a project is opened or reloaded. YEAR is the 4-digit year, MM is the month, DD the day of the month, and HH and NN are the hours and minutes when the previous translation memory was saved.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190902T065823Z" creationid="wynnc" creationdate="20190902T065823Z">
-        <seg>OmegaT 在每次打开或者重新载入项目时也会将翻译记忆库备份到同一子目录下的 project_save.tmx.YEARMMDDHHNN.bak 文件。其中 YEAR 是 4 位数年份、MM 是月份、DD 是月份内的日期、而 HH 与 NN 是保存上一份翻译记忆库时的小时和分钟。</seg>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221128T105809Z" creationid="wynnc" creationdate="20190902T065823Z">
+        <seg>OmegaT 在每次打开或者重新加载项目时也会将翻译记忆库备份到同一子目录下的 project_save.tmx.YEARMMDDHHNN.bak 文件。其中 YEAR 是 4 位数年份、MM 是月份、DD 是月份内的日期、而 HH 与 NN 是保存上一份翻译记忆库时的小时和分钟。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41350,8 +41350,8 @@ language you would like to translate to.</seg>
       <tuv lang="en">
         <seg>Plugin successfully loaded from class '{0}'</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190322T062456Z" creationid="wynnc" creationdate="20190320T045507Z">
-        <seg>成功从类“{0}”中载入插件</seg>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221128T105650Z" creationid="wynnc" creationdate="20190320T045507Z">
+        <seg>已成功从类“{0}”加载插件</seg>
       </tuv>
     </tu>
     <tu>
@@ -42260,16 +42260,16 @@ additional steps need to be taken.</seg>
       <tuv lang="en">
         <seg>Project loading end</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
-        <seg>项目载入结束</seg>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221128T105726Z" creationid="wynnc" creationdate="20190320T045507Z">
+        <seg>项目加载结束</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Project loading start</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
-        <seg>项目载入开始</seg>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221128T105720Z" creationid="wynnc" creationdate="20190320T045507Z">
+        <seg>项目加载开始</seg>
       </tuv>
     </tu>
     <tu>
@@ -43137,8 +43137,8 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Reload</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190324T025704Z" creationid="wynnc" creationdate="20190324T025704Z">
-        <seg>重新载入</seg>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221128T105744Z" creationid="wynnc" creationdate="20190324T025704Z">
+        <seg>重新加载</seg>
       </tuv>
     </tu>
     <tu>
@@ -47239,8 +47239,8 @@ When using regular expressions, the replacement string supports references to gr
       <tuv lang="en">
         <seg>Skipping previously loaded plugin from class '{0}'</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20190419T033555Z" creationid="WynnChen" creationdate="20190419T033555Z">
-        <seg>正在跳过之前已经从类“{0}”中载入的插件</seg>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221128T105628Z" creationid="WynnChen" creationdate="20190419T033555Z">
+        <seg>正在跳过之前已经从类“{0}”中加载的插件</seg>
       </tuv>
     </tu>
     <tu>
@@ -51001,8 +51001,8 @@ Please try to correct the error and reload the project.</seg>
       <tuv lang="en">
         <seg>The TMX source language ({0}) differs from the project source language ({1}). The TMX file will still be loaded.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T092156Z" creationid="wynnc" creationdate="20221111T092156Z">
-        <seg>TMX 原文语言（{0}）与项目的原文语言（{1}）不同。TMX 文件仍将被载入。</seg>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221128T105541Z" creationid="wynnc" creationdate="20221111T092156Z">
+        <seg>TMX 原文语言（{0}）与项目的原文语言（{1}）不同。TMX 文件仍将被加载。</seg>
       </tuv>
     </tu>
     <tu>
@@ -57281,8 +57281,8 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
       <tuv lang="en">
         <seg>This window is displayed automatically when OmegaT loads a project, and at any time by pressing &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Project Files...&lt;/g2&gt; &lt;/m0&gt;.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20200123T050524Z" creationid="WynnChen" creationdate="20200123T050524Z">
-        <seg>当 OmegaT 载入项目时会自动显示此窗口，在任何时候，按下&lt;m0&gt; &lt;g1&gt;项目&lt;/g1&gt; &lt;g2&gt;项目文件...&lt;/g2&gt; &lt;/m0&gt;也会显示此窗口。</seg>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221128T105818Z" creationid="WynnChen" creationdate="20200123T050524Z">
+        <seg>当 OmegaT 加载项目时会自动显示此窗口，在任何时候，按下&lt;m0&gt; &lt;g1&gt;项目&lt;/g1&gt; &lt;g2&gt;项目文件...&lt;/g2&gt; &lt;/m0&gt;也会显示此窗口。</seg>
       </tuv>
     </tu>
     <tu>
@@ -62548,8 +62548,8 @@ of selecting, obtaining and installing it.</seg>
       <tuv lang="en">
         <seg>When a single file has more segments than this, additional segments will be loaded on-demand as you scroll.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T074839Z" creationid="wynnc" creationdate="20190323T074839Z">
-        <seg>当单个文件的片段数量多于此数字时，多出来的片段会随着滚动按需载入。</seg>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221128T105714Z" creationid="wynnc" creationdate="20190323T074839Z">
+        <seg>当单个文件的片段数量多于此数字时，多出来的片段会随着滚动按需加载。</seg>
       </tuv>
     </tu>
     <tu>
