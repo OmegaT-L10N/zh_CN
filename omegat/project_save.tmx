@@ -279,14 +279,14 @@ License.  Each licensee is addressed as "you".  "Licensees" and
 # Country
 -Duser.country=CA</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="Administrator" changedate="20180411T134800Z" creationid="Administrator" creationdate="20180411T134800Z">
-        <seg># OmegaT.exe runtime configuration
-# To use a parameter, remove the '#' before the '-'
-# Memory
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T125226Z" creationid="Administrator" creationdate="20180411T134800Z">
+        <seg># OmegaT.exe 运行时配置
+# 要使用某个参数，移除“-”前面的“#”
+# 内存
 -Xmx1024M
-# Language
+# 语言
 -Duser.language=FR
-# Country
+# 国家
 -Duser.country=CA </seg>
       </tuv>
     </tu>
@@ -15302,8 +15302,8 @@ Exception occurred:</seg>
       <tuv lang="en">
         <seg>Check this option to be warned about differences between source and target segments tags each time you leave a segment.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20190901T163444Z" creationid="Administrator" creationdate="20180411T110006Z">
-        <seg>勾选此选项后，在每次离开片段时，会提醒原文和译文片段之间的标签差异。</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T124953Z" creationid="Administrator" creationdate="20180411T110006Z">
+        <seg>勾选此选项后，在每次离开片段时，会提醒原文片段和译文片段之间的标签差异。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30320,8 +30320,8 @@ everything.</seg>
       <tuv lang="en">
         <seg>Integrates the Apertium machine translation functionality into OmegaT.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20200117T020859Z" creationid="18261" creationdate="20180413T022730Z">
-        <seg>将Apertium 机器翻译功能集成到 OmegaT 中 。</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T124829Z" creationid="18261" creationdate="20180413T022730Z">
+        <seg>将 Apertium 机器翻译功能集成到 OmegaT 中 。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39612,8 +39612,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="en">
         <seg>Open Document Format (ODF) files</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="Administrator" changedate="20180411T122130Z" creationid="Fu Rhong" creationdate="20131113T123428Z">
-        <seg>开放文件格式（ODF）文件</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T124917Z" creationid="Fu Rhong" creationdate="20131113T123428Z">
+        <seg>开放文档格式（ODF）文件</seg>
       </tuv>
     </tu>
     <tu>
@@ -61019,8 +61019,8 @@ OmegaT 选项：
       <tuv lang="en">
         <seg>Use &lt;a0&gt;OmegaT’s&lt;/a0&gt; default filter (PDF input), translate, create a target file (it will be a plain text file), add relevant formatting and items manually.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190902T100113Z" creationid="Administrator" creationdate="20180411T130530Z">
-        <seg>使用 &lt;a0&gt;OmegaT&lt;/a0&gt; 的默认过滤器 （PDF输入），翻译， 创建译文文件（将会是纯文本文件），手动添加相关的格式和项目。</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T125047Z" creationid="Administrator" creationdate="20180411T130530Z">
+        <seg>使用 &lt;a0&gt;OmegaT&lt;/a0&gt; 的默认过滤器 （PDF输入），翻译、创建译文文件（将会是纯文本文件），手动添加相关的格式和项目。</seg>
       </tuv>
     </tu>
     <tu>
