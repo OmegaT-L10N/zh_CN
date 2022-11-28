@@ -968,8 +968,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Exact search</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T102935Z" creationid="wynnc" creationdate="20190320T045507Z">
-        <seg>精确查找(&amp;E)</seg>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221128T110614Z" creationid="wynnc" creationdate="20190320T045507Z">
+        <seg>精确搜索(&amp;E)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1216,8 +1216,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Keyword search</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T102931Z" creationid="wynnc" creationdate="20190320T045507Z">
-        <seg>关键字查找(&amp;K)</seg>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221128T110606Z" creationid="wynnc" creationdate="20190320T045507Z">
+        <seg>关键字搜索(&amp;K)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1680,16 +1680,16 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Search for Selection</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20200123T062013Z" creationid="wynnc" creationdate="20190322T054619Z">
-        <seg>查找转选区(&amp;S)</seg>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221128T110856Z" creationid="wynnc" creationdate="20190322T054619Z">
+        <seg>搜索选定内容(&amp;S)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&amp;Search...</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20221128T110327Z" creationid="wynnc" creationdate="20221128T110327Z">
-        <seg>查找(&amp;S)...</seg>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221128T110539Z" creationid="wynnc" creationdate="20221128T110327Z">
+        <seg>搜索(&amp;S)...</seg>
       </tuv>
     </tu>
     <tu>
@@ -24711,8 +24711,8 @@ authors of previous versions.</seg>
       <tuv lang="en">
         <seg>Group {0} does not exist in search expression</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190322T053922Z" creationid="wynnc" creationdate="20190322T053922Z">
-        <seg>查找表达式中不存在组 {0}</seg>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221128T110701Z" creationid="wynnc" creationdate="20190322T053922Z">
+        <seg>搜索表达式中不存在组 {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -34334,8 +34334,8 @@ later version.</seg>
       <tuv lang="en">
         <seg>Maximum number of finds has been reached ({0})</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190322T053738Z" creationid="wynnc" creationdate="20190320T045507Z">
-        <seg>已达到最大查找数量（{0}）</seg>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221128T110652Z" creationid="wynnc" creationdate="20190320T045507Z">
+        <seg>已达到最大搜索数量（{0}）</seg>
       </tuv>
     </tu>
     <tu>
@@ -42952,8 +42952,8 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Recursi&amp;ve search</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T103121Z" creationid="wynnc" creationdate="20190320T045507Z">
-        <seg>递归查找(&amp;V)</seg>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221128T110635Z" creationid="wynnc" creationdate="20190320T045507Z">
+        <seg>递归搜索(&amp;V)</seg>
       </tuv>
     </tu>
     <tu>
@@ -45311,8 +45311,8 @@ When using regular expressions, the replacement string supports references to gr
       <tuv lang="en">
         <seg>Search Dictionaries</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T102822Z" creationid="wynnc" creationdate="20190320T102808Z">
-        <seg>查找词典</seg>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221128T110548Z" creationid="wynnc" creationdate="20190320T102808Z">
+        <seg>搜索词典</seg>
       </tuv>
     </tu>
     <tu>
@@ -45415,16 +45415,16 @@ When using regular expressions, the replacement string supports references to gr
       <tuv lang="en">
         <seg>Search for:</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
-        <seg>查找：</seg>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221128T110557Z" creationid="wynnc" creationdate="20190320T045507Z">
+        <seg>搜索：</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Search in</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T182147Z" creationid="wynnc" creationdate="20190320T045507Z">
-        <seg>查找范围</seg>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221128T110628Z" creationid="wynnc" creationdate="20190320T045507Z">
+        <seg>搜索范围</seg>
       </tuv>
     </tu>
     <tu>
@@ -49961,8 +49961,8 @@ The scope of a text replacement is the target segments of the project, whether t
       <tuv lang="en">
         <seg>Text Search</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T103126Z" creationid="wynnc" creationdate="20190320T045507Z">
-        <seg>文本查找</seg>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221128T110644Z" creationid="wynnc" creationdate="20190320T045507Z">
+        <seg>文本搜索</seg>
       </tuv>
     </tu>
     <tu>
