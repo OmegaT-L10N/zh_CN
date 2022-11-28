@@ -6778,8 +6778,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;l0&gt;${targetLocaleLCID}&lt;/l0&gt; - Microsoft target locale</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20200119T074416Z" creationid="Fu Rhong" creationdate="20131113T125020Z">
-        <seg>&lt;l0&gt;${targetLocaleLCID}&lt;/l0&gt;——Microsoft 目标区域设置 </seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T131221Z" creationid="Fu Rhong" creationdate="20131113T125020Z">
+        <seg>&lt;l0&gt;${targetLocaleLCID}&lt;/l0&gt;——Microsoft 译文区域设置</seg>
       </tuv>
     </tu>
     <tu>
