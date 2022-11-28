@@ -838,6 +838,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Dictionary</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T134939Z" creationid="WynnChen" creationdate="20221128T134939Z">
+        <seg>词典(&amp;D)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Display tags</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="钢" changedate="20130503T160150Z">
