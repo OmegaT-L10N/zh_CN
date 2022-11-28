@@ -11493,8 +11493,8 @@ rights of fair use or other equivalent, as provided by copyright law.</seg>
       <tuv lang="en">
         <seg>Allow translated tags to be in a different order</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="钢" changedate="20130503T161852Z">
-        <seg>允许翻译过的标签按不同顺序排列</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T112652Z">
+        <seg>允许在译文中改变标签顺序</seg>
       </tuv>
     </tu>
     <tu>
@@ -49143,8 +49143,8 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       <tuv lang="en">
         <seg>TMs</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="钢" changedate="20130503T150710Z">
-        <seg>TM 文件</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T112610Z">
+        <seg>翻译记忆库</seg>
       </tuv>
     </tu>
     <tu>
