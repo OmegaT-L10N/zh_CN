@@ -20981,16 +20981,16 @@ Your help page not found</seg>
       <tuv lang="en">
         <seg>English: the same check as above, but concerning consonants ("a", not "an")</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="Andrew" changedate="20191107T073746Z">
-        <seg>英语：检查的内容与上一条一样，但针对辅音（“a” 而非 “an”)</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T125400Z">
+        <seg>英语：检查的内容与上一条一样，但针对辅音（“a”而非“an”)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>English: words, beginning with vowels, should generally be preceded by "an", not "a"</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="Andrew" changedate="20191107T073611Z">
-        <seg>英语：以元音开头的单词前面应当是 “an” 而不是 “a”</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T125351Z">
+        <seg>英语：以元音开头的单词前面应当是“an”而不是“a”</seg>
       </tuv>
     </tu>
     <tu>
