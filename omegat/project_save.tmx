@@ -7845,8 +7845,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;p0&gt;Project&lt;/p0&gt; &lt;s1&gt;Create / open new&lt;/s1&gt;</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120208T114951Z">
-        <seg>&lt;p0&gt;项目&lt;/p0&gt; &lt;s1&gt;新创建/打开&lt;/s1&gt;</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T131858Z">
+        <seg>&lt;p0&gt;项目&lt;/p0&gt; &lt;s1&gt;创建/打开新项目&lt;/s1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9989,8 +9989,8 @@ included in conveying the object code work.</seg>
       <tuv lang="en">
         <seg>A source sentence might look like:</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131117T024129Z" creationid="Fu Rhong" creationdate="20131117T024129Z">
-        <seg>源语言也许类似这样：</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T131637Z" creationid="Fu Rhong" creationdate="20131117T024129Z">
+        <seg>原文语句也许类似这样：</seg>
       </tuv>
     </tu>
     <tu>
@@ -19241,8 +19241,8 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="en">
         <seg>Displays copyright, credits and license information.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
-        <seg>显示版权、制作人员和授权信息。</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T131716Z">
+        <seg>显示版权、制作人员和许可证信息。</seg>
       </tuv>
     </tu>
     <tu>
@@ -59203,8 +59203,8 @@ install.sh.</seg>
       <tuv lang="en">
         <seg>Translation memories</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120127T074805Z">
-        <seg>翻译记忆</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T131625Z">
+        <seg>翻译记忆库</seg>
       </tuv>
     </tu>
     <tu>
