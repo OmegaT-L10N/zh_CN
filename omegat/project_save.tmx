@@ -9237,8 +9237,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; is a free translation memory application that works on Windows, macOS, Linux... It is a tool intended for professional translators. It does not translate for you! (Software that does this is called "machine translation", and you will have to look elsewhere for it.)</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20190523T015705Z" creationid="WynnChen" creationdate="20190523T014940Z">
-        <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; 是免费的翻译记忆应用程序，适用于 Windows、macOS、Linux……它是为专业翻译人员设计的工具。它并不会替你翻译！（执行此操作的软件称为“机器翻译”，需要去他处找寻。）</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T133331Z" creationid="WynnChen" creationdate="20190523T014940Z">
+        <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; 是自由的翻译记忆应用程序，适用于 Windows、macOS、Linux……它是为专业翻译人员设计的工具。它并不会替你翻译！（执行此操作的软件称为“机器翻译”，需要去他处找寻。）</seg>
       </tuv>
     </tu>
     <tu>
@@ -12149,8 +12149,8 @@ to determine the source of the error and try again.</seg>
       <tuv lang="en">
         <seg>An important aspect of this freedom is that users may also modify the program's code. To the open-source movement, the freedom that users have to change the program to suit their own needs is more important than the fact that they do not have to pay for it. This is described as "free as in speech", in contrast to "free as in beer".</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20200116T112659Z" creationid="WynnChen" creationdate="20200116T112659Z">
-        <seg>这种自由的一个重要方面是用户也可以修改程序的代码。对于开源运动来说，用户拥有按需修改程序的自由比无需付费更加重要。这被称为“free as in speech（指“自由”，即 free speech（言论自由）中 free 的含义）”，于此相对的是“free as in beer（指“免费”，即 free beer（免费啤酒）中 free 的含义）”。</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T133438Z" creationid="WynnChen" creationdate="20200116T112659Z">
+        <seg>这种自由的一个重要方面是用户也可以修改程序的代码。对于开源运动来说，用户拥有按需修改程序的自由比无需付费更加重要。这被称为“free as in speech（指“自由”，即 free speech（言论自由）中 free 的含义）”，与此相对的是“free as in beer（指“免费”，即 free beer（免费啤酒）中 free 的含义）”。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13236,8 +13236,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="en">
         <seg>Automatically search segment text in dictionary</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20190801T161059Z" creationid="WynnChen" creationdate="20190801T161059Z">
-        <seg>自动在词典中查找片段文本</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T133108Z" creationid="WynnChen" creationdate="20190801T161059Z">
+        <seg>自动在词典中搜索片段文本</seg>
       </tuv>
     </tu>
     <tu>
