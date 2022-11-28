@@ -17489,8 +17489,8 @@ unpacking, reading or copying.</seg>
       <tuv lang="en">
         <seg>Creating a translation memory for selected documents</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131127T094410Z" creationid="Fu Rhong" creationdate="20131127T093058Z">
-        <seg>创建所选文档的翻译记忆</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T131446Z" creationid="Fu Rhong" creationdate="20131127T093058Z">
+        <seg>创建选定文档的翻译记忆库</seg>
       </tuv>
     </tu>
     <tu>
@@ -54250,8 +54250,8 @@ protocols for communication across the network.</seg>
       <tuv lang="en">
         <seg>The source segment and the fuzzy matches must contain the same list of numbers</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20190901T160511Z" creationid="Fu Rhong" creationdate="20131113T011520Z">
-        <seg>原文片段和模糊匹配中包含的数字清单必须相同</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T131328Z" creationid="Fu Rhong" creationdate="20131113T011520Z">
+        <seg>原文片段和模糊匹配中包含的数字列表必须相同</seg>
       </tuv>
     </tu>
     <tu>
@@ -57669,8 +57669,8 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="en">
         <seg>To avoid reusing the project and thus possibly polluting future cases, delete the project folder or archive it away from your workplace.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190902T081800Z" creationid="Fu Rhong" creationdate="20131127T095359Z">
-        <seg>要避免因为重用该项目而污染未来案例的可能，请删除项目文件夹或将其或存档到工作区外的其他位置。</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T131544Z" creationid="Fu Rhong" creationdate="20131127T095359Z">
+        <seg>要避免因为重用该项目导致污染未来案例的可能性，请删除项目文件夹或将其或存档到工作区外的其他位置。</seg>
       </tuv>
     </tu>
     <tu>
