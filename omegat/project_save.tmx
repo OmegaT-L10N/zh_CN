@@ -14965,8 +14965,8 @@ Exception occurred:</seg>
       <tuv lang="en">
         <seg>Check for equal source &amp; target</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="xulihang" changedate="20180408T114248Z" creationid="xulihang" creationdate="20180408T114248Z">
-        <seg>检查相同的原文和译文</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T113914Z" creationid="xulihang" creationdate="20180408T114248Z">
+        <seg>检查原文和译文是否相同</seg>
       </tuv>
     </tu>
     <tu>
@@ -43835,8 +43835,8 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Replace spaces with non-breakable spaces where appropriate in French</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="xulihang" changedate="20180408T114728Z" creationid="xulihang" creationdate="20180408T114728Z">
-        <seg>用不换行空格替换空格（在法语中适用）</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T114037Z" creationid="xulihang" creationdate="20180408T114728Z">
+        <seg>在法语中恰当的地方用不换行空格替换空格</seg>
       </tuv>
     </tu>
     <tu>
