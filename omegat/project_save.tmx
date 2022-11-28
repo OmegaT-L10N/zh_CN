@@ -21215,6 +21215,14 @@ No one hears your screams</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error retrieving {0} as remote project file</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221128T103047Z" creationid="wynnc" creationdate="20221128T103047Z">
+        <seg>Error retrieving {0} as remote project file</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error saving project file!</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T164832Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -35700,6 +35708,14 @@ measures.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20221125T054411Z" creationid="wynnc" creationdate="20221125T054411Z">
         <seg>远程服务器上没有可用的新语言。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No predefined credentials passed.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221128T103042Z" creationid="wynnc" creationdate="20221128T103042Z">
+        <seg>未传递预定义凭据。</seg>
       </tuv>
     </tu>
     <tu>
