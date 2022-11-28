@@ -34214,8 +34214,8 @@ later version.</seg>
       <tuv lang="en">
         <seg>Match propagation</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20190523T015721Z" creationid="18261" creationdate="20180412T072944Z">
-        <seg>扩展传播</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T120424Z" creationid="18261" creationdate="20180412T072944Z">
+        <seg>匹配传播</seg>
       </tuv>
     </tu>
     <tu>
@@ -62169,8 +62169,8 @@ searchable without subscription:</seg>
       <tuv lang="en">
         <seg>Video by &lt;a0&gt;CATguruEN&lt;/a0&gt; (Dominique Pivard)</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20190523T014922Z" creationid="10353" creationdate="20180414T110449Z">
-        <seg>视频上传者：&lt;a0&gt;CATguruEN&lt;/a0&gt;（Dominique Pivard）</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T120306Z" creationid="10353" creationdate="20180414T110449Z">
+        <seg>视频制作：&lt;a0&gt;CATguruEN&lt;/a0&gt;（Dominique Pivard）</seg>
       </tuv>
     </tu>
     <tu>
