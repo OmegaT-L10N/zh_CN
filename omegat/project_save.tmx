@@ -37943,9 +37943,9 @@ project without team functionality. (You will still able to use OmegaT
 tool with fuzzy matching, translation memory, keyword search, glossaries, and
 translation leveraging into updated projects.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20190325T163127Z" creationid="xulihang" creationdate="20180408T020046Z">
-        <seg>OmegaT 是自由且开源的多平台计算机辅助翻译工具，具有模糊匹配、翻译记忆、
-关键字查找、词汇表、以及为更新后的项目自动套用翻译等特性。</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T113341Z" creationid="xulihang" creationdate="20180408T020046Z">
+        <seg>OmegaT 是自由且开源的跨平台计算机辅助翻译工具，具有模糊匹配、翻译记忆、
+关键字搜索、词汇表、以及为更新后的项目自动套用翻译等特性。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42692,8 +42692,8 @@ additional steps need to be taken.</seg>
       <tuv lang="en">
         <seg>QA - Check Rules</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20190403T151020Z" creationid="xulihang" creationdate="20180408T112857Z">
-        <seg>QA - 检查规则</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T113235Z" creationid="xulihang" creationdate="20180408T112857Z">
+        <seg>质量保障检查规则</seg>
       </tuv>
     </tu>
     <tu>
