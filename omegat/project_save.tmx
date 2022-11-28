@@ -1726,6 +1726,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Sentence case</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T133707Z" creationid="WynnChen" creationdate="20221128T133606Z">
+        <seg>句子式（Sentence case）(&amp;S)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Sheet Names</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190322T080638Z" creationid="wynnc" creationdate="20190322T073732Z">
@@ -1896,8 +1904,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Title Case</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T115444Z" creationid="wynnc" creationdate="20190320T045507Z">
-        <seg>标题式大小写(&amp;T)</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T133640Z" creationid="wynnc" creationdate="20190320T045507Z">
+        <seg>标题式（Title Case）(&amp;T)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1922,6 +1930,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T173553Z" creationid="wynnc" creationdate="20190320T045507Z">
         <seg>译文语言(&amp;T)：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;UPPER CASE</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T133630Z" creationid="WynnChen" creationdate="20221128T133558Z">
+        <seg>大写（UPPER CASE）(&amp;U)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2018,6 +2034,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T092411Z" creationid="wynnc" creationdate="20190320T092411Z">
         <seg>可写词汇表(&amp;W)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;lower case</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T133617Z" creationid="WynnChen" creationdate="20221128T133549Z">
+        <seg>小写（lower case）(&amp;L)</seg>
       </tuv>
     </tu>
     <tu>
@@ -38020,8 +38044,8 @@ OmegaT 使用了以下库：
       <tuv lang="en">
         <seg>OmegaT is a free open-source translation memory application for professional translators written in Java.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20200731T010435Z" creationid="WynnChen" creationdate="20200731T010435Z">
-        <seg>OmegaT 是一个面向专业翻译人员的免费开源翻译记忆应用程序，用 Java 编写。</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T133513Z" creationid="WynnChen" creationdate="20200731T010435Z">
+        <seg>OmegaT 是一个面向专业翻译人员的自由开源翻译记忆应用程序，用 Java 编写。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43889,6 +43913,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Replace...</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T133534Z" creationid="WynnChen" creationdate="20221128T133534Z">
+        <seg>替换...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Replaces the current target segment contents with the selected match (the first match is selected by default)</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Kaname Madokami☆!" changedate="20180414T162340Z">
@@ -44620,6 +44652,14 @@ These words: 'Page not found'</seg>
         <seg>S&amp;witch Case To</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T115230Z" creationid="wynnc" creationdate="20190320T045507Z">
+        <seg>转换大小写为(&amp;W)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>S&amp;witch Case to</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T133540Z" creationid="WynnChen" creationdate="20221128T133540Z">
         <seg>转换大小写为(&amp;W)</seg>
       </tuv>
     </tu>
