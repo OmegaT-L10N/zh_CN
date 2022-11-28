@@ -23328,8 +23328,8 @@ know their rights.</seg>
       <tuv lang="en">
         <seg>For installation on Windows System.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20190330T075549Z" creationid="Zenobia Fang" creationdate="20180423T130006Z">
-        <seg>用于在 Windows系统上安装。</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T132211Z" creationid="Zenobia Fang" creationdate="20180423T130006Z">
+        <seg>用于在 Windows 系统上安装。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32399,8 +32399,8 @@ later version.</seg>
       <tuv lang="en">
         <seg>Latest Version - {{site.data.versions.latest.name}}</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="Zenobia Fang" changedate="20180423T154956Z" creationid="Zenobia Fang" creationdate="20180423T154956Z">
-        <seg>最新版本 - {{site.data.versions.latest.name}}</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T132335Z" creationid="Zenobia Fang" creationdate="20180423T154956Z">
+        <seg>最新版本 —— {{site.data.versions.latest.name}}</seg>
       </tuv>
     </tu>
     <tu>
@@ -48309,8 +48309,8 @@ All sets that match the project source language are applied.</seg>
       <tuv lang="en">
         <seg>Standard Version - {{site.data.versions.standard.name}}</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="Zenobia Fang" changedate="20180423T154539Z" creationid="Zenobia Fang" creationdate="20180423T154529Z">
-        <seg>标准版本 — {{site.data.versions.standard.name}}</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T132345Z" creationid="Zenobia Fang" creationdate="20180423T154529Z">
+        <seg>标准版本 —— {{site.data.versions.standard.name}}</seg>
       </tuv>
     </tu>
     <tu>
@@ -52603,8 +52603,8 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       <tuv lang="en">
         <seg>The included JRE is the 64-bit version.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="Zenobia Fang" changedate="20180423T134148Z" creationid="Zenobia Fang" creationdate="20180423T134148Z">
-        <seg>内含 64-bit 版本 JRE。</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T132233Z" creationid="Zenobia Fang" creationdate="20180423T134148Z">
+        <seg>内含 的 JRE 是 64-bit 版本。</seg>
       </tuv>
     </tu>
     <tu>
