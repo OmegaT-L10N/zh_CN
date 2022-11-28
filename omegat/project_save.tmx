@@ -45335,8 +45335,8 @@ When using regular expressions, the replacement string supports references to gr
       <tuv lang="en">
         <seg>Search Project...</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20190409T061214Z">
-        <seg>在项目中查找...</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T133035Z">
+        <seg>在项目中搜索...</seg>
       </tuv>
     </tu>
     <tu>
@@ -45359,8 +45359,8 @@ When using regular expressions, the replacement string supports references to gr
       <tuv lang="en">
         <seg>Search and Replace...</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T092814Z" creationid="wynnc" creationdate="20190320T092739Z">
-        <seg>查找并替换...</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T133042Z" creationid="wynnc" creationdate="20190320T092739Z">
+        <seg>搜索并替换...</seg>
       </tuv>
     </tu>
     <tu>
@@ -46567,8 +46567,8 @@ When using regular expressions, the replacement string supports references to gr
       <tuv lang="en">
         <seg>Self-paced online training course in English (for purchase)</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20190330T074427Z" creationid="cpeishan" creationdate="20180407T151236Z">
-        <seg>英语自学在线培训教程（付费）</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T132813Z" creationid="cpeishan" creationdate="20180407T151236Z">
+        <seg>英语的自学在线培训教程（付费）</seg>
       </tuv>
     </tu>
     <tu>
