@@ -279,9 +279,9 @@ License.  Each licensee is addressed as "you".  "Licensees" and
 # Country
 -Duser.country=CA</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T125226Z" creationid="Administrator" creationdate="20180411T134800Z">
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T134722Z" creationid="Administrator" creationdate="20180411T134800Z">
         <seg># OmegaT.exe 运行时配置
-# 要使用某个参数，移除“-”前面的“#”
+# 要使用某个参数，删除“-”前面的“#”
 # 内存
 -Xmx1024M
 # 语言
@@ -1282,6 +1282,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
         <seg>小写(&amp;L)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Machine Translation</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T134905Z" creationid="WynnChen" creationdate="20221128T134905Z">
+        <seg>机器翻译(&amp;M)</seg>
       </tuv>
     </tu>
     <tu>
@@ -14923,6 +14931,14 @@ Exception occurred:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check Issues for &amp;Current File</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T134859Z" creationid="WynnChen" creationdate="20221128T134859Z">
+        <seg>检查当前文件问题(&amp;C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check Issues for Current Document</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20200120T094226Z" creationid="WynnChen" creationdate="20200120T094226Z">
@@ -15646,8 +15662,8 @@ Exception occurred:</seg>
       <tuv lang="en">
         <seg>Click on &lt;g0&gt;Auto-text...&lt;/g0&gt; to configure Auto-text options and to add or remove entries.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20190901T153839Z" creationid="weiyi" creationdate="20180406T071053Z">
-        <seg>点击&lt;g0&gt;自动文本...&lt;/g0&gt;来配置自动文本选项以及添加或移除条目。</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T134710Z" creationid="weiyi" creationdate="20180406T071053Z">
+        <seg>点击&lt;g0&gt;自动文本...&lt;/g0&gt;来配置自动文本选项以及添加或删除条目。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33996,6 +34012,14 @@ later version.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mark &amp;Non-Breakable Spaces</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T134838Z" creationid="WynnChen" creationdate="20221128T134838Z">
+        <seg>标记不换行空格(&amp;N)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mark &amp;Non-breakable Spaces</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T115906Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -34056,6 +34080,14 @@ later version.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Andrew" changedate="20180413T145024Z" creationid="Fu Rhong" creationdate="20131110T025613Z">
         <seg>标记双向算法控制字符</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mark Gl&amp;ossary Matches</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T134849Z" creationid="WynnChen" creationdate="20221128T134849Z">
+        <seg>标记词汇表匹配(&amp;O)</seg>
       </tuv>
     </tu>
     <tu>
@@ -36254,8 +36286,8 @@ measures.</seg>
       <tuv lang="en">
         <seg>Note that &lt;f0&gt;Remove&lt;/f0&gt; physically removes the selected vocabularies. If they are used by some other application on your system, they will disappear from that application, too. If, for whatever reason, you need to do this from time to time, it may make sense to copy the files involved to a different folder, reserved just for use by OmegaT.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20190708T102953Z" creationid="WynnChen" creationdate="20190708T102953Z">
-        <seg>注意&lt;f0&gt;移除&lt;/f0&gt;会真正删除选定的字典。如果系统上有其他应用程序使用它们，则它们也会从那些程序中消失。如果出于某种原因，您需要不时地执行该操作，将这些文件复制到另一个文件夹（仅供 OmegaT 使用）可能会好一些。</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T134704Z" creationid="WynnChen" creationdate="20190708T102953Z">
+        <seg>注意&lt;f0&gt;删除&lt;/f0&gt;会真正删除选定的字典。如果系统上有其他应用程序使用它们，则它们也会从那些程序中消失。如果出于某种原因，您需要不时地执行该操作，将这些文件复制到另一个文件夹（仅供 OmegaT 使用）可能会好一些。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38377,8 +38409,8 @@ to be launched.</seg>
       <tuv lang="en">
         <seg>OmegaT leaves the editing field blank. This option allows you to enter the translation without the need to remove the source text, thus saving you two keystrokes (&lt;e0&gt;Ctrl+A &lt;/e0&gt;and &lt;e1&gt;Del). &lt;/e1&gt; Empty translations are now allowed. They are displayed as &lt;EMPTY&gt; in the Editor. To create one, right-click in a segment, and select "&lt;e2&gt;Set empty translation&lt;/e2&gt;". The entry &lt;e3&gt;Remove translation&lt;/e3&gt; in the same pop up menu also allows to delete the existing translation of the current segment. You achieve the same by clearing the target segment and pressing &lt;g4&gt;Enter.&lt;/g4&gt;</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20190901T155930Z" creationid="WynnChen" creationdate="20190901T155930Z">
-        <seg>OmegaT 将把编辑字段留空。该选项允许您直接输入翻译而无需删除原文文本，因此省掉了两次按键（&lt;e0&gt;Ctrl+A&lt;/e0&gt; 和 &lt;e1&gt;Del&lt;/e1&gt;）。现在还允许译文为空。它们在编辑器中显示为&lt;空&gt;。要创建空译文，在片段中点击右键并选择“&lt;e2&gt;设置为空译文&lt;/e2&gt;”。在同一个弹出菜单中的&lt;e3&gt;移除译文&lt;/e3&gt;还可以用来删除当前片段的现有译文。通过清除译文片段并按下&lt;g4&gt;回车&lt;/g4&gt;可以实现相同的效果。</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T134716Z" creationid="WynnChen" creationdate="20190901T155930Z">
+        <seg>OmegaT 将把编辑字段留空。该选项允许您直接输入翻译而无需删除原文文本，因此省掉了两次按键（&lt;e0&gt;Ctrl+A&lt;/e0&gt; 和 &lt;e1&gt;Del&lt;/e1&gt;）。现在还允许译文为空。它们在编辑器中显示为&lt;空&gt;。要创建空译文，在片段中点击右键并选择“&lt;e2&gt;设置为空译文&lt;/e2&gt;”。在同一个弹出菜单中的&lt;e3&gt;删除译文&lt;/e3&gt;还可以用来删除当前片段的现有译文。通过清除译文片段并按下&lt;g4&gt;回车&lt;/g4&gt;可以实现相同的效果。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41604,6 +41636,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Pre&amp;vious Note</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T134829Z" creationid="WynnChen" creationdate="20221128T134829Z">
+        <seg>上一个备注(&amp;V)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Pre-built binaries, are available as Nightly Builds.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Zenobia Fang" changedate="20180423T160434Z" creationid="Zenobia Fang" creationdate="20180423T160405Z">
@@ -43214,6 +43254,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Register I&amp;dentical Translation</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T134820Z" creationid="WynnChen" creationdate="20221128T134820Z">
+        <seg>登记全同译文(&amp;D)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Register Identical Translation</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T174608Z" creationid="wynnc" creationdate="20190320T093805Z">
@@ -43545,8 +43593,8 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Remove Script</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
-        <seg>移除脚本</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T134642Z" creationid="wynnc" creationdate="20190320T045507Z">
+        <seg>删除脚本</seg>
       </tuv>
     </tu>
     <tu>
@@ -43721,8 +43769,8 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Remove translation</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
-        <seg>移除译文</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T134649Z" creationid="wynnc" creationdate="20190320T045507Z">
+        <seg>删除译文</seg>
       </tuv>
     </tu>
     <tu>
@@ -61069,6 +61117,14 @@ OmegaT 选项：
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190322T053355Z" creationid="wynnc" creationdate="20190322T053355Z">
         <seg>用 $n 来引用第 n 个组。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &amp;Fuzzy Matching</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T134917Z" creationid="WynnChen" creationdate="20221128T134917Z">
+        <seg>使用模糊匹配(&amp;F)</seg>
       </tuv>
     </tu>
     <tu>
