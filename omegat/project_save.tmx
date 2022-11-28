@@ -1664,8 +1664,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Search</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T102927Z" creationid="wynnc" creationdate="20190320T045507Z">
-        <seg>查找(&amp;S)</seg>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221128T110514Z" creationid="wynnc" creationdate="20190320T045507Z">
+        <seg>搜索(&amp;S)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1682,6 +1682,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20200123T062013Z" creationid="wynnc" creationdate="20190322T054619Z">
         <seg>查找转选区(&amp;S)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Search...</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221128T110327Z" creationid="wynnc" creationdate="20221128T110327Z">
+        <seg>查找(&amp;S)...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1994,6 +2002,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T080224Z" creationid="wynnc" creationdate="20190320T045507Z">
         <seg>视图(&amp;V)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Writable Glossary</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221128T110150Z" creationid="wynnc" creationdate="20221128T110150Z">
+        <seg>可写词汇表(&amp;W)</seg>
       </tuv>
     </tu>
     <tu>
@@ -14315,6 +14331,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T174501Z" creationid="wynnc" creationdate="20190320T092248Z">
         <seg>当前译文文档(&amp;U)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>C&amp;urrent Target File</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221128T110137Z" creationid="wynnc" creationdate="20221128T110137Z">
+        <seg>当前译文文件(&amp;U)</seg>
       </tuv>
     </tu>
     <tu>
@@ -29868,10 +29892,18 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Insert Next Missing T&amp;ag</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221128T110244Z" creationid="wynnc" creationdate="20221128T110244Z">
+        <seg>插入下一个缺失的标签(&amp;A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Insert Next Missing Tag</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T093339Z" creationid="wynnc" creationdate="20190320T045507Z">
-        <seg>插入下一个缺失标签</seg>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221128T110254Z" creationid="wynnc" creationdate="20190320T045507Z">
+        <seg>插入下一个缺失的标签</seg>
       </tuv>
     </tu>
     <tu>
@@ -45245,6 +45277,14 @@ When using regular expressions, the replacement string supports references to gr
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Se&amp;lect Source Text</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221128T110207Z" creationid="wynnc" creationdate="20221128T110207Z">
+        <seg>选择原文文本(&amp;L)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Se&amp;t</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190324T045940Z" creationid="wynnc" creationdate="20190324T045940Z">
@@ -45263,8 +45303,8 @@ When using regular expressions, the replacement string supports references to gr
       <tuv lang="en">
         <seg>Search ({0})</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190324T042411Z" creationid="wynnc" creationdate="20190324T042411Z">
-        <seg>搜索({0})</seg>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221128T110336Z" creationid="wynnc" creationdate="20190324T042411Z">
+        <seg>查找({0})</seg>
       </tuv>
     </tu>
     <tu>
