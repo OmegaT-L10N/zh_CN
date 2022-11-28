@@ -43136,8 +43136,8 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Regex Tester</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120215T114323Z">
-        <seg>Regex Tester</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T130813Z">
+        <seg>正则表达式测试器</seg>
       </tuv>
     </tu>
     <tu>
