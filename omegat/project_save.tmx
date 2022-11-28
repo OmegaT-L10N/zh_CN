@@ -10483,6 +10483,14 @@ included in conveying the object code work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add Online MediaWiki Pa&amp;ge...</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221128T105225Z" creationid="wynnc" creationdate="20221128T105225Z">
+        <seg>添加在线 MediaWiki 页面(&amp;G)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add Online MediaWiki Page</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T091653Z" creationid="wynnc" creationdate="20221111T091653Z">
@@ -19556,6 +19564,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190324T024226Z" creationid="wynnc" creationdate="20190324T024226Z">
         <seg>你想用你正在移动的那个取而代之吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do&amp;wnload Team Project...</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221128T105210Z" creationid="wynnc" creationdate="20221128T105210Z">
+        <seg>下载团队项目(&amp;W)...</seg>
       </tuv>
     </tu>
     <tu>
@@ -65361,7 +65377,7 @@ If the project contains files but their content is not displayed here:
 	  otherwise use Options &gt; Global File Filters...;
 	- open them in their original application and verify that they are not empty.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20221128T105108Z" creationid="wynnc" creationdate="20221128T105108Z">
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20221128T105149Z" creationid="wynnc" creationdate="20221128T105108Z">
         <seg>你的项目似乎并不包含可翻译文件。
  
 要将文件添加到项目中，你可以：
@@ -65376,8 +65392,8 @@ If the project contains files but their content is not displayed here:
  
 	- 确认其格式是 OmegaT 所支持的，
 	  如果启用了项目专用过滤器设置
-	  使用“项目 &gt; 属性... &gt; 局部文件过滤器...,
-	  otherwise use Options &gt; Global File Filters...;
+	  使用“项目 &gt; 属性... &gt; 局部文件过滤器...”，
+	  否则使用“选项 &gt; 全局文件过滤器...”；
 	- 将其用原始应用程序打开来确认它们不是空的。</seg>
       </tuv>
     </tu>
