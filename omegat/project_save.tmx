@@ -24799,7 +24799,7 @@ authors of previous versions.</seg>
       <tuv lang="en">
         <seg>HTML and XHTML files</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="钢" changedate="20130503T154354Z">
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T112529Z">
         <seg>HTML 和 XHTML 文件</seg>
       </tuv>
     </tu>
@@ -41656,8 +41656,8 @@ language you would like to translate to.</seg>
       <tuv lang="en">
         <seg>Preserve spaces for all tags</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="钢" changedate="20130503T154310Z">
-        <seg>给所有标签预留空格</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T112447Z">
+        <seg>为所有标签保留空格</seg>
       </tuv>
     </tu>
     <tu>
@@ -43545,8 +43545,8 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Remove leading and trailing tags</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="钢" changedate="20130503T154233Z">
-        <seg>删除首尾的标签</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T112347Z">
+        <seg>删除开头和末尾的标签</seg>
       </tuv>
     </tu>
     <tu>
@@ -43569,8 +43569,8 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Remove leading and trailing whitespace in non-segmented projects</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="钢" changedate="20130503T154305Z">
-        <seg>在未分段的项目中删除首尾的空白字符。</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T112436Z">
+        <seg>删除非分割项目中开头和末尾的空白字符</seg>
       </tuv>
     </tu>
     <tu>
@@ -64005,7 +64005,7 @@ Your page is not found</seg>
       <tuv lang="en">
         <seg>XHTML Files</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="钢" changedate="20130503T155652Z">
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T112503Z">
         <seg>XHTML 文件</seg>
       </tuv>
     </tu>
