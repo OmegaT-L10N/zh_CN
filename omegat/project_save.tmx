@@ -29964,6 +29964,14 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Insert Unicode Control C&amp;haracter</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T133715Z" creationid="WynnChen" creationdate="20221128T133715Z">
+        <seg>插入 Unicode 控制字符($H)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Insert Unicode Control Character</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T093950Z" creationid="wynnc" creationdate="20190320T093950Z">
@@ -44453,6 +44461,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T094326Z" creationid="wynnc" creationdate="20190320T094326Z">
         <seg>Right-to-Left Embedding (RLE U+202B)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-to-Left Mark (RLM U+200&amp;F)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T133833Z" creationid="WynnChen" creationdate="20221128T133833Z">
+        <seg>从右向左RLM U+200&amp;F)</seg>
       </tuv>
     </tu>
     <tu>
