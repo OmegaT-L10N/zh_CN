@@ -510,6 +510,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Add Files...</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T065645Z" creationid="WynnChen" creationdate="20221129T065645Z">
+        <seg>添加文件(&amp;A)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Add...</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T085224Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -590,10 +598,34 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Always confirm quit</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T092408Z" creationid="WynnChen" creationdate="20221129T092408Z">
+        <seg>始终确认退出(&amp;A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Apply a different font size to the dictionary pane</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T065555Z" creationid="WynnChen" creationdate="20221129T065538Z">
+        <seg>对词典窗格应用不同的字体大小(&amp;A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Apply this font to tabular data (project files, statistics, etc.)</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T112155Z" creationid="wynnc" creationdate="20190320T045507Z">
         <seg>将此字体应用到表格数据（项目文件、统计、等等）(&amp;A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Apply this font to tabular data (source files list, statistics, etc.)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T065448Z" creationid="WynnChen" creationdate="20221129T065448Z">
+        <seg>将此字体应用到表格数据（原文文件列表、统计、等等）(&amp;A)</seg>
       </tuv>
     </tu>
     <tu>
@@ -614,9 +646,25 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Auto-Completion</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T063520Z" creationid="WynnChen" creationdate="20221129T063520Z">
+        <seg>自动完成(&amp;A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Auto-propagation of Translations</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
+        <seg>自动传播翻译(&amp;A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Auto-propagation of translations</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T071614Z" creationid="WynnChen" creationdate="20221129T071614Z">
         <seg>自动传播翻译(&amp;A)</seg>
       </tuv>
     </tu>
@@ -1126,6 +1174,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Go to Downloads</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T093212Z" creationid="WynnChen" creationdate="20221129T093212Z">
+        <seg>前往下载(&amp;G)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Help</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -1146,6 +1202,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190801T160335Z" creationid="wynnc" creationdate="20190320T102512Z">
         <seg>忽略大小写不同的命中（例如 FOO 和 foo）(&amp;I)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Ignore matches with very different case (e.g. FOO vs foo)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T092639Z" creationid="WynnChen" creationdate="20221129T092639Z">
+        <seg>忽略大小写完全不同的匹配（例如 FOO 与 foo）(&amp;I)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1222,6 +1286,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Jump to Segment</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T092222Z" creationid="WynnChen" creationdate="20221129T092222Z">
+        <seg>跳转至片段(&amp;J)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Keyword search</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20221128T110606Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -1250,6 +1322,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T113916Z" creationid="wynnc" creationdate="20190323T113916Z">
         <seg>启动本地服务器(&amp;L)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Layout:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T092705Z" creationid="WynnChen" creationdate="20221129T092705Z">
+        <seg>布局(&amp;L)：</seg>
       </tuv>
     </tu>
     <tu>
@@ -1598,6 +1678,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Reset Colour</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T091400Z" creationid="WynnChen" creationdate="20221129T091400Z">
+        <seg>重置颜色(&amp;R)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Reset Master Password</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190324T043354Z" creationid="wynnc" creationdate="20190324T043354Z">
@@ -1758,6 +1846,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Sheet names</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T080911Z" creationid="WynnChen" creationdate="20221129T080911Z">
+        <seg>工作表名称(&amp;S)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Show All</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190324T032900Z" creationid="wynnc" creationdate="20190324T032900Z">
@@ -1866,6 +1962,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T171329Z" creationid="wynnc" creationdate="20190320T045507Z">
         <seg>统计数据(&amp;S)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Stop at segments that are untranslated or have alternative translations</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T082652Z" creationid="WynnChen" creationdate="20221129T082652Z">
+        <seg>在未译片段和具有多重备选翻译的片段处停下(&amp;S)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3369,8 +3473,8 @@ not be entered.)</seg>
       <tuv lang="en">
         <seg>--/-- (--/--, --)</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T104822Z" creationid="wynnc" creationdate="20190320T104822Z">
-        <seg>--/-- (--/--, --)</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T065249Z" creationid="wynnc" creationdate="20190320T104822Z">
+        <seg>--/--（--/--，--）</seg>
       </tuv>
     </tu>
     <tu>
@@ -3735,6 +3839,14 @@ not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>/Applications/OmegaT.app/Contents/Java/</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T094137Z" creationid="WynnChen" creationdate="20221129T094137Z">
+        <seg>/Applications/OmegaT.app/Contents/Java/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>/docs/</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120202T064636Z">
@@ -3755,6 +3867,14 @@ not be entered.)</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120202T064754Z">
         <seg>/lib/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>/opt/omegat/</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T094136Z" creationid="WynnChen" creationdate="20221129T094136Z">
+        <seg>/opt/omegat/</seg>
       </tuv>
     </tu>
     <tu>
@@ -6275,6 +6395,22 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190324T023704Z" creationid="wynnc" creationdate="20190324T023704Z">
         <seg>&lt;html&gt;&lt;i&gt;首选项&lt;/i&gt; &amp;gt; &lt;i&gt;常规&lt;/i&gt; &amp;gt; &lt;i&gt;用 Tab 前进&lt;/i&gt;处于勾选状态&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;html&gt;&lt;i&gt;Preferences&lt;/i&gt; &amp;gt; &lt;i&gt;General&lt;/i&gt; &amp;gt; &lt;i&gt;Use TAB to advance&lt;/i&gt; is checked&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T091435Z" creationid="WynnChen" creationdate="20221129T091435Z">
+        <seg>&lt;html&gt;&lt;i&gt;首选项&lt;/i&gt; &amp;gt; &lt;i&gt;常规&lt;/i&gt; &amp;gt; &lt;i&gt;用 Tab 前进&lt;/i&gt;处于勾选状态&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;html&gt;Add patterns using wildcards (Apache Ant format): &lt;code&gt;*&lt;/code&gt;, &lt;code&gt;?&lt;/code&gt;, &lt;code&gt;**&lt;/code&gt;&lt;br&gt;Example: &lt;code&gt;**/.svn/**&lt;/code&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T085440Z" creationid="WynnChen" creationdate="20221129T085440Z">
+        <seg>&lt;html&gt;用通配符（Apache Ant 格式）添加模式：&lt;code&gt;*&lt;/code&gt;、&lt;code&gt;?&lt;/code&gt;、&lt;code&gt;**&lt;/code&gt;&lt;br&gt;例如：&lt;code&gt;**/.svn/**&lt;/code&gt;&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9789,6 +9925,14 @@ this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A link to the support page.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T094427Z" creationid="WynnChen" creationdate="20221129T094427Z">
+        <seg>指向支持页面的链接。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A list of possible arguments is given below.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
@@ -10347,6 +10491,14 @@ included in conveying the object code work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Access &amp;Configuration Folder</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T064334Z" creationid="WynnChen" creationdate="20221129T064334Z">
+        <seg>访问配置文件夹(&amp;C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Access Configurat&amp;ion Folder</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T110044Z" creationid="wynnc" creationdate="20190320T110044Z">
@@ -10703,6 +10855,14 @@ included in conveying the object code work.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20221125T053946Z" creationid="wynnc" creationdate="20221125T053946Z">
         <seg>添加到词典</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add to Dictionary: “{0}”</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T092227Z" creationid="WynnChen" creationdate="20221129T092227Z">
+        <seg>添加到词典：“{0}”</seg>
       </tuv>
     </tu>
     <tu>
@@ -11207,9 +11367,25 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Aligner "Accepted" group</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T091331Z" creationid="WynnChen" creationdate="20221129T091331Z">
+        <seg>对齐器“已接受”分组</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Aligner "Needs Review" Group</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190326T145738Z" creationid="wynnc" creationdate="20190323T170458Z">
+        <seg>对齐器“需要审查”分组</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Aligner "Needs Review" group</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T091333Z" creationid="WynnChen" creationdate="20221129T091333Z">
         <seg>对齐器“需要审查”分组</seg>
       </tuv>
     </tu>
@@ -11226,6 +11402,22 @@ the above requirements apply either way.</seg>
         <seg>Aligner Table Row Highlight</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190326T145746Z" creationid="wynnc" creationdate="20190323T170542Z">
+        <seg>对齐器表格行高亮部分</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Aligner highlight</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T091337Z" creationid="WynnChen" creationdate="20221129T091337Z">
+        <seg>对齐器高亮部分</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Aligner table row highlight</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T091340Z" creationid="WynnChen" creationdate="20221129T091340Z">
         <seg>对齐器表格行高亮部分</seg>
       </tuv>
     </tu>
@@ -11491,6 +11683,14 @@ rights of fair use or other equivalent, as provided by copyright law.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Allow local external search commands</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T093027Z" creationid="WynnChen" creationdate="20221129T093023Z">
+        <seg>允许局部外部搜索命令</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Allow tag editing</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="钢" changedate="20130503T155929Z">
@@ -11695,6 +11895,14 @@ rights of fair use or other equivalent, as provided by copyright law.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120201T123635Z">
         <seg>在项目创建或翻译过程中可对一些目录的位置进行变更。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Alternative</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T092136Z" creationid="WynnChen" creationdate="20221129T092136Z">
+        <seg>备选译文</seg>
       </tuv>
     </tu>
     <tu>
@@ -12281,6 +12489,14 @@ menu, a prominent item in the list meets this criterion.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An item with the name "{0}" already exists at this location. Do you want to overwrite it?</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T092219Z" creationid="WynnChen" creationdate="20221129T092219Z">
+        <seg>名为“{0}”的内容已存在于此位置。是否要覆盖？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An understanding of the processes involved is however important.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Wyndy" changedate="20180418T132019Z" creationid="Wyndy" creationdate="20180418T132019Z">
@@ -12523,6 +12739,14 @@ menu, a prominent item in the list meets this criterion.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190515T044637Z" creationid="WynnChen" creationdate="20190515T044637Z">
         <seg>附录</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Application Folder</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T093929Z" creationid="WynnChen" creationdate="20221129T093929Z">
+        <seg>应用程序文件夹</seg>
       </tuv>
     </tu>
     <tu>
@@ -12914,6 +13138,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Assign &amp;shortcut</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T093124Z" creationid="WynnChen" creationdate="20221129T093124Z">
+        <seg>关联快捷键(&amp;S)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>At each cursor position rules, consisting of a &lt;e0&gt;Before &lt;/e0&gt;and &lt;e1&gt;After &lt;/e1&gt;pattern, are applied in their given order to see if any of the&lt;e2&gt; Before&lt;/e2&gt; patterns are valid for the text on the left and the corresponding &lt;e3&gt;After&lt;/e3&gt; pattern for the text on the right of the cursor.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120215T142348Z">
@@ -13218,6 +13450,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Auto-sync with editor</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T074105Z" creationid="WynnChen" creationdate="20221129T074105Z">
+        <seg>自动与编辑器同步</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Auto-text configuration</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -13254,6 +13494,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190902T101211Z" creationid="wynnc" creationdate="20190902T101211Z">
         <seg>自动保存</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Automatically &amp;Show Relevant Suggestions</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T063535Z" creationid="WynnChen" creationdate="20221129T063535Z">
+        <seg>自动显示相关建议(&amp;S)</seg>
       </tuv>
     </tu>
     <tu>
@@ -13382,6 +13630,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
         <seg>浏览(&amp;R)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>B&amp;rowse...</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T073038Z" creationid="WynnChen" creationdate="20221129T073038Z">
+        <seg>浏览(&amp;R)...</seg>
       </tuv>
     </tu>
     <tu>
@@ -13910,6 +14166,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Break/exception</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T082525Z" creationid="WynnChen" creationdate="20221129T082525Z">
+        <seg>断句/例外</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Breton</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190405T031242Z">
@@ -13958,10 +14222,34 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Bro&amp;wse...</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T073026Z" creationid="WynnChen" creationdate="20221129T073026Z">
+        <seg>浏览(&amp;W)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Brow&amp;se...</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T073031Z" creationid="WynnChen" creationdate="20221129T073031Z">
+        <seg>浏览(&amp;S)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Brows&amp;e</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
         <seg>浏览(&amp;E)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Brows&amp;e...</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T073126Z" creationid="WynnChen" creationdate="20221129T073126Z">
+        <seg>浏览(&amp;E)...</seg>
       </tuv>
     </tu>
     <tu>
@@ -13978,6 +14266,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190801T160808Z" creationid="WynnChen" creationdate="20190801T160808Z">
         <seg>浏览 TaaS 词库...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Browse&amp;...</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T073018Z" creationid="WynnChen" creationdate="20221129T073018Z">
+        <seg>浏览&amp;...</seg>
       </tuv>
     </tu>
     <tu>
@@ -14383,6 +14679,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>C:\Program Files\OmegaT\</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T094135Z" creationid="WynnChen" creationdate="20221129T094135Z">
+        <seg>C:\Program Files\OmegaT\</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>C:\Program Files\apache-ant-1.7.0-bin\apache-ant-1.7.0\bin\ant</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="liufang" changedate="20180416T122121Z" creationid="liufang" creationdate="20180416T122121Z">
@@ -14403,6 +14707,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190324T030521Z" creationid="wynnc" creationdate="20190324T030521Z">
         <seg>计算器：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Call to external program was interrupted: {0}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T093400Z" creationid="WynnChen" creationdate="20221129T093400Z">
+        <seg>对外部程序的调用已中断：{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -14479,6 +14791,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Cannot find GPG executable on the bash $PATH</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T093345Z" creationid="WynnChen" creationdate="20221129T093345Z">
+        <seg>在 bash 的 $PATH 上找不到 GPG 可执行文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cannot install</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T112828Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -14515,6 +14835,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="钢" changedate="20130503T055456Z">
         <seg>无法打开链接 {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cannot prepare GPG environment properly</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T093353Z" creationid="WynnChen" creationdate="20221129T093353Z">
+        <seg>无法正确准备 GPG 环境</seg>
       </tuv>
     </tu>
     <tu>
@@ -16002,6 +16330,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Column index must be equal to 1</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T080850Z" creationid="WynnChen" creationdate="20221129T080850Z">
+        <seg>列索引必须为 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Combines the substitution and highlighting functions of te-gloss-highlight and te-gloss-subst.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="10353" changedate="20180414T083434Z" creationid="10353" creationdate="20180414T083434Z">
@@ -16294,6 +16630,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Completed and current translations saved as {0}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T065704Z" creationid="WynnChen" creationdate="20221129T065704Z">
+        <seg>已完成，当前翻译另存为 {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Compress whitespace in translated document</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T064006Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -16557,6 +16901,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
         <seg>Context Menu Priority:</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190324T045652Z" creationid="wynnc" creationdate="20190324T045652Z">
+        <seg>上下文菜单优先级：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Context menu priority:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T093049Z" creationid="WynnChen" creationdate="20221129T093024Z">
         <seg>上下文菜单优先级：</seg>
       </tuv>
     </tu>
@@ -17278,6 +17630,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create Project Folder</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T073223Z" creationid="WynnChen" creationdate="20221129T073223Z">
+        <seg>创建项目文件夹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create Translated Documents</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190409T045042Z">
@@ -17587,6 +17947,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T175226Z" creationid="wynnc" creationdate="20190320T045507Z">
         <seg>正在创建译文文档：{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Creating translated files: {0}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T065728Z" creationid="WynnChen" creationdate="20221129T065728Z">
+        <seg>正在创建译文文件：{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -18131,6 +18499,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="钢" changedate="20130505T161910Z">
         <seg>当前的虚拟内存使用：{0}兆字节，其中可用内存：{1}兆字节，最大可用：{2}兆字节;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Current project configuration will be overridden by the remote project configuration. The original file is backed up as: {0}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T073300Z" creationid="WynnChen" creationdate="20221129T073300Z">
+        <seg>当前项目配置将被远程项目配置覆盖。原始文件备份为：{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -18927,6 +19303,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Dictionaries folder:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T071329Z" creationid="WynnChen" creationdate="20221129T071329Z">
+        <seg>词典文件夹：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Dictionaries in &lt;a0&gt;OmegaT&lt;/a0&gt; are based on the StarDict or on the Lingvo DSL format.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131112T114520Z" creationid="Fu Rhong" creationdate="20131112T114520Z">
@@ -19187,6 +19571,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190409T135350Z">
         <seg>显示原文片段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Display TBX &amp;glossaries context description</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T092458Z" creationid="WynnChen" creationdate="20221129T092458Z">
+        <seg>显示 TBX 词汇表上下文说明(&amp;G)</seg>
       </tuv>
     </tu>
     <tu>
@@ -20232,10 +20624,26 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Duplicate fallbac&amp;k text</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T080930Z" creationid="WynnChen" creationdate="20221129T080930Z">
+        <seg>重复的后备文本(&amp;K)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Duplicate segments: {0}</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T110901Z" creationid="wynnc" creationdate="20190320T110901Z">
         <seg>重复片段：{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Duplicated</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T091901Z" creationid="WynnChen" creationdate="20221129T091901Z">
+        <seg>重复</seg>
       </tuv>
     </tu>
     <tu>
@@ -20392,6 +20800,14 @@ project_save.tmx 未真正上传，SVN 切换到不稳定状态。
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190322T054740Z" creationid="wynnc" creationdate="20190320T045507Z">
         <seg>导出所选部分(&amp;X)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>E&amp;xport the segment to a text file</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T082610Z" creationid="WynnChen" creationdate="20221129T082610Z">
+        <seg>将片段导出到文本文件(&amp;X)</seg>
       </tuv>
     </tu>
     <tu>
@@ -21083,6 +21499,16 @@ Your help page not found</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enter a language code in xx-YY, xxx-YY, xx_YY or xxx_YY format, where xx or xxx 
+is the language code and YY is the region or country code (optional).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T073526Z" creationid="WynnChen" creationdate="20221129T073526Z">
+        <seg>输入 xx-YY、xxx-YY、xx_YY 或 xxx_YY 格式的语言代码，其中 xx 或 xxx 
+是语言代码而 YY 是地区或国家代码（可选）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enter a source term, a target term and a comment:</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T081645Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -21167,6 +21593,14 @@ Your help page not found</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Kaname Madokami☆!" changedate="20180414T155941Z">
         <seg>在这里输入您的名字，它将附加到您翻译的所有片段中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enter your password again for confirmation.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T092242Z" creationid="WynnChen" creationdate="20221129T092242Z">
+        <seg>再次输入您的密码以进行确认。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21335,10 +21769,26 @@ No one hears your screams</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error loading plugin from class '{0}': {1}: {2}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T080846Z" creationid="WynnChen" creationdate="20221129T080434Z">
+        <seg>从类“{0}”中加载插件时出错：{1}：{2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error monitoring external command!</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T170206Z" creationid="wynnc" creationdate="20190320T045507Z">
         <seg>监视外部命令时发生错误！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error monitoring post-processing commands!</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T071206Z" creationid="WynnChen" creationdate="20221129T071206Z">
+        <seg>监控后处理命令时出错！</seg>
       </tuv>
     </tu>
     <tu>
@@ -21399,6 +21849,14 @@ No one hears your screams</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error searching folder tree!</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T074808Z" creationid="WynnChen" creationdate="20221129T074808Z">
+        <seg>搜索文件夹树时出错！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error starting external command: {0}</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T165919Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -21407,10 +21865,26 @@ No one hears your screams</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error starting post-processing commands: {0}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T070917Z" creationid="WynnChen" creationdate="20221129T070859Z">
+        <seg>启动后处理命令时出错：{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error unload plugin from class '{0}': {1}</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190322T062335Z" creationid="wynnc" creationdate="20190320T045507Z">
         <seg>从类“{0}”中卸载插件出错：{1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error unloading plugin from class '{0}': {1}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T080453Z" creationid="WynnChen" creationdate="20221129T080453Z">
+        <seg>从类“{0}”中卸载插件时出错：{1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -21427,6 +21901,22 @@ No one hears your screams</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190708T025425Z" creationid="WynnChen" creationdate="20190708T025425Z">
         <seg>更新存储库时出错。正在跳过。错误：{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error while getting output of external program</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T093315Z" creationid="WynnChen" creationdate="20221129T093315Z">
+        <seg>获取外部程序的输出时出错</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error while loading the source files.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T092208Z" creationid="WynnChen" creationdate="20221129T092208Z">
+        <seg>加载原文文件时发生错误。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21795,6 +22285,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Exclude pattern</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T073404Z" creationid="WynnChen" creationdate="20221129T073404Z">
+        <seg>排除模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Exclusion Patterns</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T160602Z" creationid="wynnc" creationdate="20190323T160602Z">
@@ -21815,6 +22313,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T165851Z" creationid="wynnc" creationdate="20190320T045507Z">
         <seg>正在执行外部命令...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Executing post-processing commands...</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T070855Z" creationid="WynnChen" creationdate="20221129T070855Z">
+        <seg>正在执行后处理命令……</seg>
       </tuv>
     </tu>
     <tu>
@@ -21891,6 +22397,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Export Translation Memory Files Folder</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T073132Z" creationid="WynnChen" creationdate="20221129T073132Z">
+        <seg>导出翻译记忆库文件文件夹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Export the segment to text files</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="钢" changedate="20130503T155831Z">
@@ -21903,6 +22417,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="zh-CN" changeid="think" changedate="20180416T064246Z" creationid="think" creationdate="20180416T012213Z">
         <seg>按照文件&gt;翻译&gt;导出XML，从PDF中导出Infix XML格式的文本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Export translation memories folder:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T071340Z" creationid="WynnChen" creationdate="20221129T071340Z">
+        <seg>导出翻译记忆库文件夹：</seg>
       </tuv>
     </tu>
     <tu>
@@ -21935,6 +22457,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20200120T032535Z" creationid="WynnChen" creationdate="20200120T032334Z">
         <seg>将当前选中内容导出至文本文件进行处理。如果未选择任何文本，则将当前原文片段写入该文件。当用户退出 &lt;a0&gt;OmegaT&lt;/a0&gt; 时，此文件并不会被清空，以与常规的剪贴板行为一致。导出的内容将被复制到位于用户偏好设置文件所在的文件夹内的 &lt;f1&gt;selection.txt&lt;/f1&gt; 文件中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>External GPG did not return a valid signature; got: {0}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T093910Z" creationid="WynnChen" creationdate="20221129T093910Z">
+        <seg>外部GPG未返回有效签名；得到的是：{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -21975,6 +22505,30 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190324T045447Z" creationid="wynnc" creationdate="20190324T045447Z">
         <seg>外部搜索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>External Search Command</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T093134Z" creationid="WynnChen" creationdate="20221129T093134Z">
+        <seg>外部搜索命令</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>External Search Set</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T093105Z" creationid="WynnChen" creationdate="20221129T093105Z">
+        <seg>外部搜索集合</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>External Search URL</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T093130Z" creationid="WynnChen" creationdate="20221129T093130Z">
+        <seg>外部搜索网址</seg>
       </tuv>
     </tu>
     <tu>
@@ -22071,6 +22625,22 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="zh-CN" changeid="cpeishan" changedate="20180407T144236Z" creationid="cpeishan" creationdate="20180407T144236Z">
         <seg>外部文档</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>External lin&amp;ks</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T080955Z" creationid="WynnChen" creationdate="20221129T080955Z">
+        <seg>外部链接(&amp;K)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>External program failed({1}): {0}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T093419Z" creationid="WynnChen" creationdate="20221129T093419Z">
+        <seg>外部程序失败（{1}）：{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -22199,6 +22769,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T165627Z" creationid="wynnc" creationdate="20190320T045507Z">
         <seg>无法创建项目！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to create the translated files!</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T064421Z" creationid="WynnChen" creationdate="20221129T064421Z">
+        <seg>创建译文文件失败！</seg>
       </tuv>
     </tu>
     <tu>
@@ -22360,6 +22938,14 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>File &amp;format</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T082335Z" creationid="WynnChen" creationdate="20221129T082335Z">
+        <seg>文件格式(&amp;F)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>File &gt; Close (&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;W&lt;/k2&gt; &lt;/k0&gt;): close the search window (in the same way as &lt;k3&gt;Esc&lt;/k3&gt;)</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20200123T062124Z" creationid="WynnChen" creationdate="20200123T062124Z">
@@ -22506,8 +23092,8 @@ a description of how this error was produced.</seg>
       <tuv lang="en">
         <seg>File: translated / number of segments (project: unique translated / unique, total number of segments)</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T111720Z" creationid="wynnc" creationdate="20190320T111509Z">
-        <seg>文件: 已译片段数 / 片段数 (项目: 已译独特片段数 / 独特片段数, 片段总数)</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T065405Z" creationid="wynnc" creationdate="20190320T111509Z">
+        <seg>文件：已译片段数 / 片段数（项目：已译独特片段数 / 独特片段数，片段总数）</seg>
       </tuv>
     </tu>
     <tu>
@@ -22522,8 +23108,8 @@ a description of how this error was produced.</seg>
       <tuv lang="en">
         <seg>File: unique translated % (unique left) / project: unique translated % (unique left), total number of segments</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T111731Z" creationid="wynnc" creationdate="20190320T111717Z">
-        <seg>文件: 已译独特片段百分比 (剩余独特片段数) / 项目: 已译独特片段百分比 (剩余独特片段数), 片段总数</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T065428Z" creationid="wynnc" creationdate="20190320T111717Z">
+        <seg>文件：已译独特片段百分比（剩余独特片段数）/ 项目：已译独特片段百分比（剩余独特片段数），片段总数</seg>
       </tuv>
     </tu>
     <tu>
@@ -22539,6 +23125,14 @@ a description of how this error was produced.</seg>
         <seg>Filename Variables:</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T055436Z" creationid="wynnc" creationdate="20190323T055436Z">
+        <seg>文件名变量：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Filename variables:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T082457Z" creationid="WynnChen" creationdate="20221129T082457Z">
         <seg>文件名变量：</seg>
       </tuv>
     </tu>
@@ -22795,6 +23389,14 @@ patents cannot be used to render the program non-free.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Flagged text</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T085451Z" creationid="WynnChen" creationdate="20221129T085451Z">
+        <seg>标记的文本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Flagged text (regular expression):</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20221125T052414Z" creationid="wynnc" creationdate="20221125T052414Z">
@@ -22855,6 +23457,14 @@ patents cannot be used to render the program non-free.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T112858Z" creationid="wynnc" creationdate="20190323T112858Z">
         <seg>文件夹不存在</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Folder exists and is not empty. Select a different folder.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T074915Z" creationid="WynnChen" creationdate="20221129T073801Z">
+        <seg>文件夹已经存在且不是空的。请选择其他文件夹。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24041,6 +24651,14 @@ authors of previous versions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Full/half-&amp;width char insensitive</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T073847Z" creationid="WynnChen" creationdate="20221129T073847Z">
+        <seg>不区分全角/半角字符(&amp;W)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Further points to note regarding TMX files:</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Wyndy" changedate="20180418T111004Z" creationid="Wyndy" creationdate="20180418T091623Z">
@@ -24315,6 +24933,30 @@ authors of previous versions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Global &amp;Segmentation Rules...</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T064028Z" creationid="WynnChen" creationdate="20221129T064028Z">
+        <seg>全局分割规则(&amp;S)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Global External Searches</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T092929Z" creationid="WynnChen" creationdate="20221129T092929Z">
+        <seg>全局外部搜索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Global File &amp;Filters...</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T064323Z" creationid="WynnChen" creationdate="20221129T064017Z">
+        <seg>全局文件过滤器(&amp;F)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Global File Filters</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T103514Z" creationid="wynnc" creationdate="20221111T103514Z">
@@ -24375,6 +25017,14 @@ authors of previous versions.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T050851Z" creationid="wynnc" creationdate="20210504T050851Z">
         <seg>词汇表是术语文件。可以手工创建和更新之，也可以从其他项目中导入。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossaries folder:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T071312Z" creationid="WynnChen" creationdate="20221129T071312Z">
+        <seg>词汇表文件夹：</seg>
       </tuv>
     </tu>
     <tu>
@@ -24499,6 +25149,14 @@ authors of previous versions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Glossary matches</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T085511Z" creationid="WynnChen" creationdate="20221129T085511Z">
+        <seg>词汇表匹配</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Glossary matching does not use stemming or stop words, but is case-insensitive.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="weiyi" changedate="20180406T075556Z" creationid="weiyi" creationdate="20180406T075556Z">
@@ -24617,6 +25275,14 @@ authors of previous versions.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190324T045042Z" creationid="wynnc" creationdate="20190324T045042Z">
         <seg>前往 首选项 &gt; 外部搜索 来启用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to Segment</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T064608Z" creationid="WynnChen" creationdate="20221129T064608Z">
+        <seg>转到片段</seg>
       </tuv>
     </tu>
     <tu>
@@ -24977,6 +25643,22 @@ authors of previous versions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Has Comment, see Comments Tab</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T091940Z" creationid="WynnChen" creationdate="20221129T091940Z">
+        <seg>有注释，请参阅注释选项卡</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Has Note, see Notes Tab</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T091923Z" creationid="WynnChen" creationdate="20221129T091923Z">
+        <seg>有备注，请参阅备注选项卡</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Has been tested on Linux.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="chloechao" changedate="20180412T082646Z" creationid="chloechao" creationdate="20180412T082646Z">
@@ -25324,6 +26006,22 @@ Note: not all filters allow you to select an encoding.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T105946Z" creationid="wynnc" creationdate="20190320T105946Z">
         <seg>历史</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>History &amp;Completion</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T063551Z" creationid="WynnChen" creationdate="20221129T063546Z">
+        <seg>历史完成(&amp;C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>History &amp;Prediction</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T064011Z" creationid="WynnChen" creationdate="20221129T063548Z">
+        <seg>历史预测(&amp;P)</seg>
       </tuv>
     </tu>
     <tu>
@@ -28775,6 +29473,14 @@ work and works based on it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In editor</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T093014Z" creationid="WynnChen" creationdate="20221129T093014Z">
+        <seg>在编辑器中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In fact, their structure is very similar to that of OpenOffice.org files: they consists of a zip archive containing multiple files, and the files containing the text are based upon the XML standard.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Wyndy" changedate="20180418T055130Z" creationid="Wyndy" creationdate="20180418T055130Z">
@@ -29686,6 +30392,14 @@ patent against the party.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Include pattern</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T073424Z" creationid="WynnChen" creationdate="20221129T073424Z">
+        <seg>包含模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Include the &amp;first non-unique segment when marking non-unique segments</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T081000Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -29722,6 +30436,14 @@ patent against the party.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190403T153236Z" creationid="xulihang" creationdate="20180408T113347Z">
         <seg>数量不一致</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Incorrect password.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T092232Z" creationid="WynnChen" creationdate="20221129T092232Z">
+        <seg>密码不正确。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29794,6 +30516,14 @@ patent against the party.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190330T073043Z" creationid="cpeishan" creationdate="20180407T144357Z">
         <seg>针对高级用户的 OmegaT 操作和功能的信息可在其他网站上找到。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Initial number of loaded segments:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T085307Z" creationid="WynnChen" creationdate="20221129T085307Z">
+        <seg>初始加载的片段数量：</seg>
       </tuv>
     </tu>
     <tu>
@@ -30522,6 +31252,14 @@ everything.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T180912Z" creationid="wynnc" creationdate="20190320T180912Z">
         <seg>无效的存储库类型：{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Invalid translated file language!</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T073540Z" creationid="WynnChen" creationdate="20221129T073540Z">
+        <seg>译文文件语言无效！</seg>
       </tuv>
     </tu>
     <tu>
@@ -31790,10 +32528,26 @@ itself on the first run. Later calls do not need to be online.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Keep Remote Version</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T091525Z" creationid="WynnChen" creationdate="20221129T091525Z">
+        <seg>保留远程版本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Keep Unico&amp;de literals (\uXXXX)</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T093557Z" creationid="wynnc" creationdate="20221111T093557Z">
         <seg>保留 Unico&amp;de 编码文字（\uXXXX）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Keep Your Version</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T091519Z" creationid="WynnChen" creationdate="20221129T091519Z">
+        <seg>保留你的版本</seg>
       </tuv>
     </tu>
     <tu>
@@ -32109,6 +32863,14 @@ itself on the first run. Later calls do not need to be online.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Language checker</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T085507Z" creationid="WynnChen" creationdate="20221129T085507Z">
+        <seg>语言检查器</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>语言中文名称参照中华人民共和国国家标准 GB/T 4880.2-2000。</note>
       <tuv lang="en">
         <seg>Language name</seg>
@@ -32129,8 +32891,16 @@ itself on the first run. Later calls do not need to be online.</seg>
       <tuv lang="en">
         <seg>Language not specified for translation unit variant. Variant skipped.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
-        <seg>没有为翻译单元变量指定语种。变量被忽略。</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T071608Z" creationid="wynnc" creationdate="20190320T045507Z">
+        <seg>未为翻译单元变量指定语言。已跳过变量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Language pattern</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T082522Z" creationid="WynnChen" creationdate="20221129T082522Z">
+        <seg>语言模式</seg>
       </tuv>
     </tu>
     <tu>
@@ -33175,6 +33945,22 @@ later version.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local External Searc&amp;hes...</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T073201Z" creationid="WynnChen" creationdate="20221129T073201Z">
+        <seg>局部外部搜索(&amp;H)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Local External Searches</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T093010Z" creationid="WynnChen" creationdate="20221129T093010Z">
+        <seg>局部外部搜索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Local File &amp;Filters...</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20221128T110020Z" creationid="wynnc" creationdate="20221128T110020Z">
@@ -33207,6 +33993,14 @@ later version.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local Segmentation R&amp;ules...</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T071240Z" creationid="WynnChen" creationdate="20221129T071240Z">
+        <seg>局部分割规则(&amp;U)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Local Segmentation Rules</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20221128T103522Z" creationid="wynnc" creationdate="20221111T104755Z">
@@ -33223,10 +34017,50 @@ later version.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local file/folder</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T073355Z" creationid="WynnChen" creationdate="20221129T073355Z">
+        <seg>本地文件/文件夹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Local installation path:</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T113938Z" creationid="wynnc" creationdate="20190323T113938Z">
         <seg>本地安装路径：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Local post-processing commands</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T071625Z" creationid="WynnChen" creationdate="20221129T071625Z">
+        <seg>局部后处理命令</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Local post-processing commands (disabled):</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T071637Z" creationid="WynnChen" creationdate="20221129T071637Z">
+        <seg>局部后处理命令（禁用）：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Local post-processing commands are disabled and will not be executed. Enable them in Preferences &gt; Saving and Output....</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T072903Z" creationid="WynnChen" creationdate="20221129T072903Z">
+        <seg>局部后处理命令已被禁用，不会执行。在“选项 &gt; 保存与输出...”中可启用它们。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Local project commands are disabled for security reasons. Go to Preferences &gt; Global External Searches to enable them.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T092915Z" creationid="WynnChen" creationdate="20221129T092915Z">
+        <seg>出于安全原因禁用局部项目命令。前往“首选项 &gt; 全局外部搜索”来启用他们。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33363,6 +34197,14 @@ later version.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190413T080202Z">
         <seg>朗文当代英语词典（Longman Dictionary of Contemporary English）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Looking for a GPG executable: path {0} from $PATH is not accessible; skipping</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T093533Z" creationid="WynnChen" creationdate="20221129T093533Z">
+        <seg>正在查找 GPG 可执行文件：$PATH 中的路径 {0} 无法访问；正在跳过</seg>
       </tuv>
     </tu>
     <tu>
@@ -33595,6 +34437,14 @@ later version.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131127T120439Z" creationid="Fu Rhong" creationdate="20131127T120439Z">
         <seg>机器翻译窗格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Machine translate highlight</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T091354Z" creationid="WynnChen" creationdate="20221129T091354Z">
+        <seg>机器翻译高亮部分</seg>
       </tuv>
     </tu>
     <tu>
@@ -33919,6 +34769,14 @@ later version.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T180817Z" creationid="wynnc" creationdate="20190320T180739Z">
         <seg>本地文件夹到存储库中远程文件夹的映射</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mapping of local folders to remote folders in repositories</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T073347Z" creationid="WynnChen" creationdate="20221129T073347Z">
+        <seg>将本地文件夹映射到存储库中的远程文件夹</seg>
       </tuv>
     </tu>
     <tu>
@@ -34260,6 +35118,14 @@ later version.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Master password:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T093146Z" creationid="WynnChen" creationdate="20221129T093146Z">
+        <seg>主密码：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Match Statistics</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T172042Z" creationid="wynnc" creationdate="20190320T172042Z">
@@ -34332,6 +35198,14 @@ later version.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Match term groups even if the terms appear separately</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T092519Z" creationid="WynnChen" creationdate="20221129T092519Z">
+        <seg>即使术语单独出现也匹配术语组</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Match type</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190324T025432Z" creationid="wynnc" creationdate="20190324T025432Z">
@@ -34396,6 +35270,46 @@ later version.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Matches changed</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T085514Z" creationid="WynnChen" creationdate="20221129T085514Z">
+        <seg>匹配中变化的部分</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matches deleted active</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T085547Z" creationid="WynnChen" creationdate="20221129T085547Z">
+        <seg>活动的匹配中删除的部分</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matches deleted inactive</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T085555Z" creationid="WynnChen" creationdate="20221129T085555Z">
+        <seg>不活动的匹配中删除的部分</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matches inserted active</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T085543Z" creationid="WynnChen" creationdate="20221129T085543Z">
+        <seg>活动的匹配中插入的部分</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matches inserted inactive</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T085545Z" creationid="WynnChen" creationdate="20221129T085545Z">
+        <seg>不活动的匹配中插入的部分</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Matches pane</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120208T123134Z">
@@ -34408,6 +35322,22 @@ later version.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131127T125714Z" creationid="Fu Rhong" creationdate="20131127T125714Z">
         <seg>匹配窗格设置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matches unchanged</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T085515Z" creationid="WynnChen" creationdate="20221129T085515Z">
+        <seg>匹配中未变化的部分</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matching segments: {0}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T080308Z" creationid="WynnChen" creationdate="20221129T080308Z">
+        <seg>匹配的片段：{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -34528,6 +35458,14 @@ later version.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T045918Z" creationid="wynnc" creationdate="20210504T045918Z">
         <seg>合并同一词汇的不同定义</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Merge alternate definitions of the same term</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T092652Z" creationid="WynnChen" creationdate="20221129T092652Z">
+        <seg>合并同一词汇的不同备选定义</seg>
       </tuv>
     </tu>
     <tu>
@@ -34728,6 +35666,14 @@ later version.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190902T062009Z">
         <seg>在片段中混合从右向左和从左向右字符串</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mo&amp;ve Up</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T082546Z" creationid="WynnChen" creationdate="20221129T082546Z">
+        <seg>上移(&amp;V)</seg>
       </tuv>
     </tu>
     <tu>
@@ -35150,6 +36096,14 @@ Lost to paradise</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190324T025715Z" creationid="wynnc" creationdate="20190324T025715Z">
         <seg>下移</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Move F&amp;irst</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T082541Z" creationid="WynnChen" creationdate="20221129T082541Z">
+        <seg>移到开头(&amp;I)</seg>
       </tuv>
     </tu>
     <tu>
@@ -35638,6 +36592,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>New language and country</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T082552Z" creationid="WynnChen" creationdate="20221129T082552Z">
+        <seg>新语言和国家</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>New spelling dictionaries can be installed from within OmegaT in the Options &gt; Spell Checking dialog.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Zoe" changedate="20180411T135421Z" creationid="Zoe" creationdate="20180411T135421Z">
@@ -35800,6 +36762,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T091905Z" creationid="WynnChen" creationdate="20221129T091905Z">
+        <seg>否</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No .DOCX files to clean.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190403T155948Z" creationid="WynnChen" creationdate="20190403T155948Z">
@@ -35808,10 +36778,42 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No Comment</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T091944Z" creationid="WynnChen" creationdate="20221129T091944Z">
+        <seg>无注释</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No GPG executable found; set it in the Git preferences in section "Committing", or define it in the git config gpg.program</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T093751Z" creationid="WynnChen" creationdate="20221129T093751Z">
+        <seg>找不到 GPG 可执行文件；在 Git 首选项的“Committing”区段中设置它，或在 Git 的 gpg.Program 配置项中定义它</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No GPG key found for key ID ''{0}''; check or set git config user.signingKey</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T093513Z" creationid="WynnChen" creationdate="20221129T093513Z">
+        <seg>找不到密钥 ID“{0}”的 GPG 密钥；请检查或设置 GIT 的 user.signingKey 配置项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No Issues Found</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190324T033423Z" creationid="wynnc" creationdate="20190324T033413Z">
         <seg>没找到问题</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No Note</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T091928Z" creationid="WynnChen" creationdate="20221129T091928Z">
+        <seg>无备注</seg>
       </tuv>
     </tu>
     <tu>
@@ -36068,6 +37070,14 @@ measures.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Non-visible instruction te&amp;xt</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T080919Z" creationid="WynnChen" creationdate="20221129T080919Z">
+        <seg>不可见说明性文本(&amp;X)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>None</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190324T043835Z" creationid="wynnc" creationdate="20190324T043835Z">
@@ -36156,6 +37166,14 @@ measures.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Not Alternative</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T092141Z" creationid="WynnChen" creationdate="20221129T092141Z">
+        <seg>非备选译文</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Not Set</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190324T043429Z" creationid="wynnc" creationdate="20190324T043429Z">
@@ -36188,6 +37206,14 @@ measures.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Not assigned</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T093141Z" creationid="WynnChen" creationdate="20221129T093141Z">
+        <seg>未关联</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Not only may it be used free of charge, users are also free to make copies of it and distribute them.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="18261" changedate="20180412T121305Z" creationid="18261" creationdate="20180412T121305Z">
@@ -36200,6 +37226,14 @@ measures.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T154109Z" creationid="wynnc" creationdate="20190323T154109Z">
         <seg>不存在</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Not set</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T093153Z" creationid="WynnChen" creationdate="20221129T093153Z">
+        <seg>未设置</seg>
       </tuv>
     </tu>
     <tu>
@@ -36782,6 +37816,22 @@ Thus, for example, rules for Canadian French (FR-CA) should be higher than rules
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note: The Source file encoding setting only affects HHC and HHK files with no encoding declaration. If there is a declaration, that encoding will be used regardless of the setting specified here.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T082519Z" creationid="WynnChen" creationdate="20221129T082519Z">
+        <seg>注：原文文件编码设置只会影响没有编码声明的 HHC 和 HHK 文件。如果有编码声明则会使用该编码，而无视这里指定的设置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note: The Source file encoding setting only affects HTML files with no encoding declaration. If there is a declaration, that encoding will be used regardless of the setting specified here.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T082512Z" creationid="WynnChen" creationdate="20221129T082512Z">
+        <seg>注：原文文件编码设置只会影响没有编码声明的 HTML 文件。如果有编码声明则会使用该编码，而无视这里指定的设置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note: colors are customizable through the &lt;g0&gt;Options / Custom colours...&lt;/g0&gt; dialog.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="weiyi" changedate="20180406T063051Z" creationid="weiyi" creationdate="20180406T063051Z">
@@ -37015,6 +38065,14 @@ otherwise be available to you under applicable patent law.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T105537Z" creationid="wynnc" creationdate="20190323T105526Z">
         <seg>片段有备注时通知我</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Notify even When No Result found on Dictionary Search</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T085341Z" creationid="WynnChen" creationdate="20221129T085341Z">
+        <seg>即使在词典搜索中未找到结果也通知</seg>
       </tuv>
     </tu>
     <tu>
@@ -37683,6 +38741,14 @@ combination as such.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="lenovo" changedate="20180414T083408Z" creationid="lenovo" creationdate="20180414T083054Z">
         <seg>OmegaT 不提供整体预览功能，但是可以使用附加软件实现类似功能。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT does not have read and write permissions for this folder. Select a different folder.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T074918Z" creationid="WynnChen" creationdate="20221129T073836Z">
+        <seg>OmegaT 对此文件夹无读写权限。请选择其他文件夹。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38455,6 +39521,16 @@ to be launched.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT needs to reload the project to take the modifications into account.
+Reload the project now?</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T064408Z" creationid="WynnChen" creationdate="20221129T064408Z">
+        <seg>OmegaT 需要重新加载项目才能让修改生效。
+是否立即重新加载项目？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT on Linux HowTo</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20200731T010702Z" creationid="WynnChen" creationdate="20200731T010702Z">
@@ -39130,6 +40206,22 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT's distribution license. The GPL version 3.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T094200Z" creationid="WynnChen" creationdate="20221129T094200Z">
+        <seg>OmegaT 的分发许可证。GPL 版本 3。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT's executable. Used when launching OmegaT from the command line. See &lt;l0/&gt; for details.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T094235Z" creationid="WynnChen" creationdate="20221129T094235Z">
+        <seg>OmegaT 的可执行文件。从命令行启动 OmegaT 时使用。详细信息请参阅 &lt;l0/&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT's glossary files are plain-text files in the format:</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Wyndy" changedate="20180418T115812Z" creationid="Wyndy" creationdate="20180418T115514Z">
@@ -39158,6 +40250,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20200119T103139Z" creationid="Fu Rhong" creationdate="20131117T024214Z">
         <seg>但 OmegaT 会将该语句以如下方式呈现：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT-license.txt</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T094143Z" creationid="WynnChen" creationdate="20221129T094143Z">
+        <seg>OmegaT-license.txt</seg>
       </tuv>
     </tu>
     <tu>
@@ -40314,10 +41414,26 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Origin</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T092153Z" creationid="WynnChen" creationdate="20221129T092153Z">
+        <seg>原始</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Original author of the OmegaT application</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190327T165640Z" creationid="cpeishan" creationdate="20180407T104931Z">
         <seg>OmegaT 应用程序的原作者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Original version</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T091506Z" creationid="WynnChen" creationdate="20221129T091506Z">
+        <seg>原始版本</seg>
       </tuv>
     </tu>
     <tu>
@@ -40482,6 +41598,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Other options:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T080958Z" creationid="WynnChen" creationdate="20221129T080958Z">
+        <seg>其他选项：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Other plain text file types can be handled by &lt;a0&gt;OmegaT&lt;/a0&gt; by associating their file extension to a supported file type (for example, .pod files can be associated to the ASCII text filter) and by pre-processing them with specific segmentation rules.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120202T113537Z">
@@ -40494,6 +41618,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190902T100454Z">
         <seg>还存在其他适合 OmegaT 处理的纯文本或格式化文本文件格式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Other plugins are available online.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T093207Z" creationid="WynnChen" creationdate="20221129T093207Z">
+        <seg>线上有其他插件可用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40873,6 +42005,22 @@ Vanishing like mist</seg>
         <seg>Pattern Before</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T065539Z" creationid="wynnc" creationdate="20190323T065518Z">
+        <seg>前模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pattern after</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T082530Z" creationid="WynnChen" creationdate="20221129T082530Z">
+        <seg>后模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pattern before</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T082527Z" creationid="WynnChen" creationdate="20221129T082527Z">
         <seg>前模式</seg>
       </tuv>
     </tu>
@@ -41628,10 +42776,58 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Post-processing command failed. Exit code {0}: "{1}"</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T071100Z" creationid="WynnChen" creationdate="20221129T071100Z">
+        <seg>后处理命令失败。退出代码 {0}：“{1}”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Post-processing commands completed. Exit code {0}: "{1}"</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T071008Z" creationid="WynnChen" creationdate="20221129T070901Z">
+        <seg>后处理命令已完成。退出代码 {0}：“{1}”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Post-processing commands completed. Exit code: {0}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T071023Z" creationid="WynnChen" creationdate="20221129T070937Z">
+        <seg>后处理命令已完成。退出代码：{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Post-processing commands failed. Exit code: {0}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T071043Z" creationid="WynnChen" creationdate="20221129T071043Z">
+        <seg>后处理命令失败。退出代码：{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Post-processing commands were interrupted.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T071107Z" creationid="WynnChen" creationdate="20221129T071107Z">
+        <seg>后处理命令被中断。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Power Point</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190322T080640Z" creationid="wynnc" creationdate="20190322T080640Z">
         <seg>Power Point</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PowerPoint</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T080942Z" creationid="WynnChen" creationdate="20221129T080942Z">
+        <seg>PowerPoint</seg>
       </tuv>
     </tu>
     <tu>
@@ -41754,6 +42950,14 @@ language you would like to translate to.</seg>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190325T163714Z" creationid="xulihang" creationdate="20180408T020637Z">
         <seg>安装 OmegaT 的先决条件
 ===================================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Preserve &amp;spaces for all tags</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T082436Z" creationid="WynnChen" creationdate="20221129T082436Z">
+        <seg>为所有标签保留空格(&amp;S)</seg>
       </tuv>
     </tu>
     <tu>
@@ -42998,6 +44202,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Re&amp;pository Mapping...</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T073144Z" creationid="WynnChen" creationdate="20221129T073144Z">
+        <seg>存储库映射(&amp;P)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Read the tag operations section to see what can be done with tags.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120205T121335Z">
@@ -43367,6 +44579,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Reload the project?</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T064706Z" creationid="WynnChen" creationdate="20221129T064706Z">
+        <seg>是否重新加载项目？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Reload your OmegaT project.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="think" changedate="20180416T023219Z" creationid="think" creationdate="20180416T023219Z">
@@ -43519,6 +44739,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remote file/folder</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T073359Z" creationid="WynnChen" creationdate="20221129T073359Z">
+        <seg>远程文件/文件夹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remote location of the files to translate.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190902T095054Z" creationid="wynnc" creationdate="20190902T095054Z">
@@ -43535,10 +44763,26 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remote repositories</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T073305Z" creationid="WynnChen" creationdate="20221129T073305Z">
+        <seg>远程存储库</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remote repository network communication error: {0}</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T143326Z" creationid="wynnc" creationdate="20190323T143326Z">
         <seg>远程存储库网络通信出错：{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remote version</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T091513Z" creationid="WynnChen" creationdate="20221129T091513Z">
+        <seg>远程版本</seg>
       </tuv>
     </tu>
     <tu>
@@ -43739,6 +44983,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T054231Z" creationid="wynnc" creationdate="20190323T054231Z">
         <seg>删除模式？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remove ta&amp;gs</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T071617Z" creationid="WynnChen" creationdate="20221129T071617Z">
+        <seg>删除标签(&amp;G)</seg>
       </tuv>
     </tu>
     <tu>
@@ -43957,6 +45209,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T052810Z" creationid="WynnChen" creationdate="20190801T154645Z">
         <seg>插入原文文本时替换命中的词条</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replace matches when inserting source text</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T092553Z" creationid="WynnChen" creationdate="20221129T092553Z">
+        <seg>插入原文文本时替换匹配项</seg>
       </tuv>
     </tu>
     <tu>
@@ -44253,6 +45513,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190324T024433Z" creationid="wynnc" creationdate="20190324T024433Z">
         <seg>解决冲突</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Resolve the conflicts by choosing a translation for each segment below.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T085434Z" creationid="WynnChen" creationdate="20221129T085434Z">
+        <seg>通过为以下各个片段选择翻译来解决冲突。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44761,6 +46029,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>S&amp;lide comments</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T080947Z" creationid="WynnChen" creationdate="20221129T080947Z">
+        <seg>幻灯片批注(&amp;L)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>S&amp;pace matches nbsp</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190325T162709Z" creationid="wynnc" creationdate="20190320T182112Z">
@@ -45210,6 +46486,49 @@ These words: 'Page not found'</seg>
     <tu>
       <tuv lang="en">
         <seg>Scope:
+Searches apply to the project and cover its source and target text, reference TMs, glossaries, notes, and comments by default. Tick or untick the approrpiate boxes to change these settings.
+Searches can also be performed on a specified folder hierarchy.
+ 
+Types:
+Exact searches match the whole search string.
+Keyword searches match all space-separated keywords in any order.
+Regular expression searches match Java regular expressions as documented in the user guide.
+ 
+Wildcards:
+Both exact and keyword searches support the * and ? wildcards.
+'*' matches zero or more characters ('run*' matches 'run', 'runs', 'running', etc.)
+'?' matches exactly one character ('run?' matches 'runs' and 'rung', but not 'run' or 'running').
+ 
+Text Replace:
+Replace applies to the target segments of the project.
+Keyword searches are not available in the search string.
+When using regular expressions, the replacement string supports references to groups defined in the search string. Use $n to refer to the nth group.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T074755Z" creationid="WynnChen" creationdate="20221129T074059Z">
+        <seg>范围：
+默认情况下，搜索作用于整个项目，覆盖其原文和译文文本、参考翻译记忆库、词汇表、备注和注释。勾选或取消勾选恰当的复选框可以更改这些设置。
+搜索还可以在指定文件夹层次上执行。
+
+类型：
+精确搜索完全匹配整个搜索字符串。
+关键字搜索会匹配以空格分隔的所有关键字，顺序任意。
+正则表达式搜索则以用户指南中所记载的 Java 正则表达式来进行匹配。
+ 
+通配符：
+精确搜索和关键字搜索都支持 * 和 ? 通配符。
+“*” 匹配零个或若干个字符（“run*”匹配“run”、“runs”、“running”，等等）
+“?” 匹配单个字符（“run?”匹配“runs”和“rung”，但不匹配“run”或“running”）。
+ 
+文本替换：
+替换作用于项目的译文片段。
+在搜索字符串处没有关键字搜索模式。
+当使用正则表达式时，替换字符串支持引用搜索字符串中所定义的组。用 $n 来引用第 n 个组。
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Scope:
 The scope of a search is by default the project and can be set to be any files located in a specified folder hierarchy.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190322T023816Z" creationid="wynnc" creationdate="20190322T023418Z">
@@ -45445,6 +46764,14 @@ When using regular expressions, the replacement string supports references to gr
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Se&amp;ntence-level segmenting</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T071224Z" creationid="WynnChen" creationdate="20221129T071224Z">
+        <seg>语句级别分割(&amp;N)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Se&amp;t</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190324T045940Z" creationid="wynnc" creationdate="20190324T045940Z">
@@ -45457,6 +46784,14 @@ When using regular expressions, the replacement string supports references to gr
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T114119Z" creationid="xulihang" creationdate="20180408T115006Z">
         <seg>搜索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search &amp;automatically</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T092715Z" creationid="WynnChen" creationdate="20221129T092715Z">
+        <seg>自动搜索(&amp;A)</seg>
       </tuv>
     </tu>
     <tu>
@@ -45581,6 +46916,14 @@ When using regular expressions, the replacement string supports references to gr
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Search found mark</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T085804Z" creationid="WynnChen" creationdate="20221129T085750Z">
+        <seg>搜索所找到的标记</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Search in</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20221128T110628Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -45621,6 +46964,14 @@ When using regular expressions, the replacement string supports references to gr
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Search replaced mark</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T091325Z" creationid="WynnChen" creationdate="20221129T091325Z">
+        <seg>搜索所替换的标记</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Search results display</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20200123T070910Z">
@@ -45641,6 +46992,14 @@ When using regular expressions, the replacement string supports references to gr
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190322T053943Z" creationid="wynnc" creationdate="20190322T053943Z">
         <seg>查找线程意外终止！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search thread died unexpectedly! Close the search window.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T074842Z" creationid="WynnChen" creationdate="20221129T074842Z">
+        <seg>搜索线程意外终止！请关闭搜索窗口。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46477,6 +47836,14 @@ When using regular expressions, the replacement string supports references to gr
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select appropriate version</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T091446Z" creationid="WynnChen" creationdate="20221129T091446Z">
+        <seg>选择恰当的版本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select issue types to check.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190324T040728Z" creationid="wynnc" creationdate="20190324T040728Z">
@@ -46653,6 +48020,14 @@ When using regular expressions, the replacement string supports references to gr
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select your version, the original version or the remote version.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T091502Z" creationid="WynnChen" creationdate="20221129T091502Z">
+        <seg>选择你的版本、原始版本或远程版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select: "Send to", then select "Desktop (create shortcut)".</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="10353" changedate="20180414T105958Z" creationid="10353" creationdate="20180414T105958Z">
@@ -46816,6 +48191,14 @@ When using regular expressions, the replacement string supports references to gr
         <seg>Set &amp; Stored</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190324T043417Z" creationid="wynnc" creationdate="20190324T043417Z">
+        <seg>设置并存储</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Set &amp; stored</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T093150Z" creationid="WynnChen" creationdate="20221129T093150Z">
         <seg>设置并存储</seg>
       </tuv>
     </tu>
@@ -47277,6 +48660,14 @@ When using regular expressions, the replacement string supports references to gr
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Simple installation and running instructions.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T094432Z" creationid="WynnChen" creationdate="20221129T094432Z">
+        <seg>简单的安装和运行说明。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Simple search and replace script</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T114113Z" creationid="xulihang" creationdate="20180408T115004Z">
@@ -47501,6 +48892,14 @@ When using regular expressions, the replacement string supports references to gr
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Skipped translation units for which no source segment was found.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T080346Z" creationid="WynnChen" creationdate="20221129T080346Z">
+        <seg>跳过找不到原文片段的翻译单元。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Skipping previously loaded plugin from class '{0}'</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20221128T105628Z" creationid="WynnChen" creationdate="20190419T033555Z">
@@ -47517,9 +48916,25 @@ When using regular expressions, the replacement string supports references to gr
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sli&amp;de masters</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T080950Z" creationid="WynnChen" creationdate="20221129T080950Z">
+        <seg>幻灯片母版(&amp;D)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Slide La&amp;youts</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190322T080945Z" creationid="wynnc" creationdate="20190322T080945Z">
+        <seg>幻灯片版式(&amp;Y)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Slide la&amp;youts</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T080953Z" creationid="WynnChen" creationdate="20221129T080953Z">
         <seg>幻灯片版式(&amp;Y)</seg>
       </tuv>
     </tu>
@@ -47731,6 +49146,14 @@ of the GPL, as needed to protect the freedom of users.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T180340Z" creationid="wynnc" creationdate="20190320T180340Z">
         <seg>某些项目文件夹似乎已被移走。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Some project folders seem to have been moved. Specify their new location or recreate them.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T073213Z" creationid="WynnChen" creationdate="20221129T073213Z">
+        <seg>某些项目文件夹似乎已被移走。指定它们的新位置或重新创建它们。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47951,6 +49374,22 @@ of the GPL, as needed to protect the freedom of users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source Files ({0} of {1})</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T065637Z" creationid="WynnChen" creationdate="20221129T065637Z">
+        <seg>原文文件（第 {0} 个，共 {1} 个）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source Files ({0})</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T065608Z" creationid="WynnChen" creationdate="20221129T065608Z">
+        <seg>原文文件（{0}）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source Files Folder</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T180025Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -48023,6 +49462,22 @@ of the GPL, as needed to protect the freedom of users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source file encoding</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T080858Z" creationid="WynnChen" creationdate="20221129T080858Z">
+        <seg>原文文件编码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source file encoding:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T082444Z" creationid="WynnChen" creationdate="20221129T082444Z">
+        <seg>原文文件编码：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source file loading complete</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20221128T105520Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -48035,6 +49490,22 @@ of the GPL, as needed to protect the freedom of users.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190831T101137Z">
         <seg>原文文件类型、文件名模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source filename pattern</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T080855Z" creationid="WynnChen" creationdate="20221129T080855Z">
+        <seg>原文文件名模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source filename pattern:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T082442Z" creationid="WynnChen" creationdate="20221129T082442Z">
+        <seg>原文文件名模式：</seg>
       </tuv>
     </tu>
     <tu>
@@ -48063,6 +49534,22 @@ of the GPL, as needed to protect the freedom of users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source files folder:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T071305Z" creationid="WynnChen" creationdate="20221129T071305Z">
+        <seg>原文文件文件夹：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source files language:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T071422Z" creationid="WynnChen" creationdate="20221129T071422Z">
+        <seg>原文文件语言：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source folder {0} does not exist.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T125538Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -48071,10 +49558,18 @@ of the GPL, as needed to protect the freedom of users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source language tokenizer:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T071446Z" creationid="WynnChen" creationdate="20221129T071435Z">
+        <seg>原文语言分词器：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source language: {0}</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
-        <seg>原文语种：{0}</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T071524Z" creationid="wynnc" creationdate="20190320T045507Z">
+        <seg>原文语言：{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -48163,6 +49658,14 @@ of the GPL, as needed to protect the freedom of users.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190403T143027Z" creationid="Wyndy" creationdate="20180418T051954Z">
         <seg>原文文本（待翻译文件）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source/translation length (characters)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T065156Z" creationid="WynnChen" creationdate="20221129T064715Z">
+        <seg>原文长度/译文长度（字符数）</seg>
       </tuv>
     </tu>
     <tu>
@@ -48517,6 +50020,14 @@ All sets that match the project source language are applied.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Start a new paragraph &amp;on Word soft return</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T082326Z" creationid="WynnChen" creationdate="20221129T082326Z">
+        <seg>在 Word 软回车处开始新段落(&amp;O)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Start a new paragraph &amp;on Word soft-return</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T102836Z" creationid="wynnc" creationdate="20221111T102836Z">
@@ -48529,6 +50040,14 @@ All sets that match the project source language are applied.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T064042Z" creationid="wynnc" creationdate="20190320T045507Z">
         <seg>在此处开始新段落：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Start new project.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T065711Z" creationid="WynnChen" creationdate="20221129T065711Z">
+        <seg>开始新项目。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49228,6 +50747,22 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>TMX Level 1</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T071412Z" creationid="WynnChen" creationdate="20221129T071412Z">
+        <seg>TMX 级别 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TMX Level 2</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T071415Z" creationid="WynnChen" creationdate="20221129T071415Z">
+        <seg>TMX 级别 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>TMX file was created by OmegaT 1.4.x or earlier.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190322T061651Z" creationid="wynnc" creationdate="20190322T061651Z">
@@ -49777,6 +51312,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T125547Z" creationid="wynnc" creationdate="20190320T045507Z">
         <seg>译文文件夹 {0} 不存在。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Target language tokenizer:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T071502Z" creationid="WynnChen" creationdate="20221129T071441Z">
+        <seg>译文语言分词器：</seg>
       </tuv>
     </tu>
     <tu>
@@ -51463,6 +53006,22 @@ Please try to correct the error and reload the project.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The application folder contains the &lt;f0&gt;OmegaT.jar&lt;/f0&gt; application and a number of other important files.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T094059Z" creationid="WynnChen" creationdate="20221129T094059Z">
+        <seg>应用程序文件夹中包含 &lt;f0&gt;OmegaT.jar&lt;/f0&gt; 应用程序和许多其他重要文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The application folder location depends on your platform and on the way you have installed OmegaT. The recommended or default locations are the following:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T094134Z" creationid="WynnChen" creationdate="20221129T094134Z">
+        <seg>应用程序文件夹的位置取决于您的平台和安装 OmegaT 的方式。建议或默认位置如下：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The application runs on your machine only.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
@@ -52057,6 +53616,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The dictionary files folder does not exist!</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T073704Z" creationid="WynnChen" creationdate="20221129T073704Z">
+        <seg>词典文件文件夹不存在！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The difference between "Number of segments" and "Number of unique segments" provides an approximate idea of the number of repetitions in the text.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="xulihang" changedate="20180404T033349Z">
@@ -52117,6 +53684,22 @@ instead.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190405T115618Z" creationid="WynnChen" creationdate="20190405T115618Z">
         <seg>随 &lt;a0&gt;OmegaT&lt;/a0&gt; 分发的文档包括用户手册与 readme.txt 文档。该文档版权所有 ©2013 Vito Smolej、©2014-2016 Vincent Bidaux。章节《&lt;e1&gt;五分钟内学会使用 OmegaT！&lt;/e1&gt;》的作者是 Samuel Murray，版权所有 ©2005-2012。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The documentation distribution license. The GPL version 3.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T094404Z" creationid="WynnChen" creationdate="20221129T094404Z">
+        <seg>文档分发许可证。GPL 版本 3。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The documentation folder.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T094444Z" creationid="WynnChen" creationdate="20221129T094444Z">
+        <seg>文档文件夹。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52237,6 +53820,14 @@ instead.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Zoe" changedate="20180412T144453Z" creationid="Zoe" creationdate="20180412T144453Z">
         <seg>所提供的样例脚本 &lt;a0&gt;这里&lt;/a0&gt;都会运行一个窗口，但那些可以在背景中实现功能的脚本都十分好理解。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The export translation memory folder does not exist!</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T073641Z" creationid="WynnChen" creationdate="20221129T073641Z">
+        <seg>导出翻译记忆库文件夹不存在！</seg>
       </tuv>
     </tu>
     <tu>
@@ -52681,6 +54272,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The glossary files folder does not exist!</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T073610Z" creationid="WynnChen" creationdate="20221129T073610Z">
+        <seg>词汇表文件文件夹不存在！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The glossary function only finds exact matches with the glossary entry (e.g. does not find inflected forms etc.).</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="xulihang" changedate="20180404T021248Z">
@@ -52773,6 +54372,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190902T095512Z" creationid="wynnc" creationdate="20190902T095512Z">
         <seg>包含规则优先于排除规则。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The index to the multilingual user guide.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T094420Z" creationid="WynnChen" creationdate="20221129T094420Z">
+        <seg>多语言用户指南的索引。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53001,6 +54608,14 @@ your programs, too.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Wyndy" changedate="20180418T052639Z" creationid="Wyndy" creationdate="20180418T052639Z">
         <seg>而以下列表仅包含一般用户最感兴趣的文件格式，并未列出 OmegaT  支持的所有文件格式。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The list of improvements and bug fixes. Check it if you need information on OmegaT's evolution.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T094356Z" creationid="WynnChen" creationdate="20221129T094356Z">
+        <seg>改进之处和 Bug 修复的清单。如果您需要有关 OmegaT 进展的信息，请查看它。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53473,6 +55088,14 @@ your programs, too.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190324T041241Z" creationid="wynnc" creationdate="20190324T041241Z">
         <seg>您输入的密码不匹配。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The passwords do not match. Double-check and try again.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T092254Z" creationid="WynnChen" creationdate="20221129T092254Z">
+        <seg>密码不匹配。请仔细检查，然后重试。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54394,8 +56017,8 @@ protocols for communication across the network.</seg>
       <tuv lang="en">
         <seg>The source file language entered is invalid!</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T181053Z" creationid="wynnc" creationdate="20190320T181053Z">
-        <seg>输入的原文文件语种无效！</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T071516Z" creationid="wynnc" creationdate="20190320T181053Z">
+        <seg>输入的原文文件语言无效！</seg>
       </tuv>
     </tu>
     <tu>
@@ -54404,6 +56027,14 @@ protocols for communication across the network.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
         <seg>输入的源文件语种无效！\n</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The source files folder does not exist!</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T073558Z" creationid="WynnChen" creationdate="20221129T073558Z">
+        <seg>原文文件文件夹不存在！</seg>
       </tuv>
     </tu>
     <tu>
@@ -54880,6 +56511,14 @@ protocols for communication across the network.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The translated files folder does not exist!</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T073605Z" creationid="WynnChen" creationdate="20221129T073605Z">
+        <seg>译文文件文件夹不存在！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The translated files will then need to be converted back to the original format.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120202T123425Z">
@@ -54932,6 +56571,14 @@ protocols for communication across the network.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Wyndy" changedate="20180418T125508Z" creationid="Wyndy" creationdate="20180418T125508Z">
         <seg>比如翻译后的文件需要送给校对人员进行编辑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The translation memory files folder does not exist!</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T073627Z" creationid="WynnChen" creationdate="20221129T073627Z">
+        <seg>翻译记忆库文件文件夹不存在！</seg>
       </tuv>
     </tu>
     <tu>
@@ -55185,6 +56832,22 @@ protocols for communication across the network.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The writable glossary file folder does not exist!</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T073616Z" creationid="WynnChen" creationdate="20221129T073616Z">
+        <seg>可写词汇表文件文件夹不存在！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The writable glossary file must be inside the glossary folder</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T073621Z" creationid="WynnChen" creationdate="20221129T073621Z">
+        <seg>可写词汇表文件必须在词汇表文件夹里</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The writeable glossary file is not in the glossary folder.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -55415,6 +57078,14 @@ protocols for communication across the network.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190324T042548Z" creationid="wynnc" creationdate="20190324T042548Z">
         <seg>线上有很多 OmegaT 插件可供使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There are no Git settings in the remote project file. Check whether this is intentional.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T064605Z" creationid="WynnChen" creationdate="20221129T064605Z">
+        <seg>远程项目文件中没有 Git 设置。请检查是否有意如此。</seg>
       </tuv>
     </tu>
     <tu>
@@ -59223,6 +60894,30 @@ install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translated file created</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T065754Z" creationid="WynnChen" creationdate="20221129T065739Z">
+        <seg>译文文件已创建</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translated file encoding</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T080900Z" creationid="WynnChen" creationdate="20221129T080900Z">
+        <seg>译文文件编码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translated file encoding:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T082449Z" creationid="WynnChen" creationdate="20221129T082449Z">
+        <seg>译文文件编码：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translated file path cannot be identical to the source file path:
 {0}</seg>
       </tuv>
@@ -59241,10 +60936,42 @@ install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translated filename pattern</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T080904Z" creationid="WynnChen" creationdate="20221129T080904Z">
+        <seg>译文文件名模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translated files created</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T065739Z" creationid="WynnChen" creationdate="20221129T065739Z">
+        <seg>译文文件已创建</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translated files folder entered does not exist!</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T181330Z" creationid="wynnc" creationdate="20190320T045507Z">
         <seg>输入的译文文件文件夹不存在！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translated files folder:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T071331Z" creationid="WynnChen" creationdate="20221129T071331Z">
+        <seg>译文文件文件夹：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translated files language:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T071427Z" creationid="WynnChen" creationdate="20221129T071427Z">
+        <seg>译文文件语言：</seg>
       </tuv>
     </tu>
     <tu>
@@ -59377,6 +61104,14 @@ install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translation memories folder:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T071310Z" creationid="WynnChen" creationdate="20221129T071310Z">
+        <seg>翻译记忆库文件夹：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translation memories in OmegaT</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120217T122559Z">
@@ -59389,6 +61124,14 @@ install.sh.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120218T062205Z">
         <seg>翻译记忆还可以包含参考翻译：多国法律，例如欧共体的法律是个实际的例子。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translation memories to export:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T071406Z" creationid="WynnChen" creationdate="20221129T071406Z">
+        <seg>要导出的翻译记忆库：</seg>
       </tuv>
     </tu>
     <tu>
@@ -59851,6 +61594,16 @@ Exact searches match the whole search string.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unable to create the translated files due to missing or damaged tags.
+Use Tools &gt; Check Issues... to correct the tag errors and try again.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T064531Z" creationid="WynnChen" creationdate="20221129T064531Z">
+        <seg>由于标签缺失或损坏，无法创建译文文件。
+用“工具 &gt; 检查问题...”来更正标签错误，然后重试。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unable to delete the selected dictionary</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20221125T054236Z" creationid="wynnc" creationdate="20221125T054236Z">
@@ -59870,6 +61623,14 @@ Exact searches match the whole search string.</seg>
         <seg>Unable to initialize read of XML file!</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190322T054849Z" creationid="wynnc" creationdate="20190320T045507Z">
+        <seg>无法初始化 XML 文件的读取！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to initialize reading of XML file!</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T080317Z" creationid="WynnChen" creationdate="20221129T080317Z">
         <seg>无法初始化 XML 文件的读取！</seg>
       </tuv>
     </tu>
@@ -59919,6 +61680,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T180624Z" creationid="wynnc" creationdate="20190320T180624Z">
         <seg>无法读取项目文件！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to read project file! Trying with backup file</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T073237Z" creationid="WynnChen" creationdate="20221129T073237Z">
+        <seg>无法读取项目文件！正在尝试备份文件</seg>
       </tuv>
     </tu>
     <tu>
@@ -60239,6 +62008,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="钢" changedate="20130503T151815Z">
         <seg>在'{0}'中遇到未知插件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unknown/Manual</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T091853Z" creationid="WynnChen" creationdate="20221129T091853Z">
+        <seg>未知/手动</seg>
       </tuv>
     </tu>
     <tu>
@@ -61129,6 +62906,14 @@ OmegaT 选项：
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &amp;Condensed view</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T092835Z" creationid="WynnChen" creationdate="20221129T092835Z">
+        <seg>使用精简视图(&amp;C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &amp;Fuzzy Matching</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T134917Z" creationid="WynnChen" creationdate="20221128T134917Z">
@@ -61153,6 +62938,14 @@ OmegaT 选项：
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &amp;TAB to advance</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T092341Z" creationid="WynnChen" creationdate="20221129T092322Z">
+        <seg>用 &amp;Tab 前进</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &amp;XML for standalone tags (e.g., &lt;i/&gt;)</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T075330Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -61169,10 +62962,26 @@ OmegaT 选项：
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &amp;fuzzy matching</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T092710Z" creationid="WynnChen" creationdate="20221129T092710Z">
+        <seg>使用模糊匹配(&amp;F)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &amp;fuzzy matching for dictionary entries</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T102738Z" creationid="wynnc" creationdate="20190320T102738Z">
         <seg>对词典条目使用模糊匹配(&amp;F)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &amp;stemming</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T092532Z" creationid="WynnChen" creationdate="20221129T092532Z">
+        <seg>使用词干分析(&amp;S)</seg>
       </tuv>
     </tu>
     <tu>
@@ -61357,6 +63166,22 @@ OmegaT 选项：
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131116T143539Z" creationid="Fu Rhong" creationdate="20131116T143539Z">
         <seg>使用此参数能让OmegaT不同步项目内容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use local &amp;segmentation rules</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T071251Z" creationid="WynnChen" creationdate="20221129T071251Z">
+        <seg>使用局部分割规则(&amp;S)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use local file fil&amp;ter settings</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T082427Z" creationid="WynnChen" creationdate="20221129T082427Z">
+        <seg>使用局部文件过滤器设置(&amp;T)</seg>
       </tuv>
     </tu>
     <tu>
@@ -61600,6 +63425,14 @@ OmegaT 选项：
       </tuv>
       <tuv lang="zh-CN" changeid="xulihang" changedate="20180408T105614Z">
         <seg>用户手册...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>User canceled signing (no passphrase provided)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T093619Z" creationid="WynnChen" creationdate="20221129T093619Z">
+        <seg>用户已取消签名（未提供口令）</seg>
       </tuv>
     </tu>
     <tu>
@@ -62589,6 +64422,14 @@ searchable without subscription:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Warning! You are trying to use the HunspellTokenizer with {0}, but no spelling dictionaries are installed for this language. For best results, install the appropriate dictionaries via Preferences &gt; Spellchecker.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T085422Z" creationid="WynnChen" creationdate="20221129T085422Z">
+        <seg>警告！你正试图在 {0} 中使用 HunspellTokenizer，但没有为该语言安装拼写词典。为获得最佳效果，请通过“首选项 &gt; 拼写检查器”安装相应的词典。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Warning: Changing tag order may break the translated document!</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T085328Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -62870,6 +64711,14 @@ of selecting, obtaining and installing it.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120211T060930Z">
         <seg>当其他窗口挡在前面时，点击主窗口使它位于前方，或者按 &lt;k0&gt;Esc&lt;/k0&gt; 键关闭当前窗口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When checked, the items in the glossary auto-completer view will also contain the source text.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T085346Z" creationid="WynnChen" creationdate="20221129T085346Z">
+        <seg>勾选后，在词汇表自动完成视图中的项目中也将包含原文文本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -63995,6 +65844,22 @@ Your page is not found</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Writable Glossary File</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T073137Z" creationid="WynnChen" creationdate="20221129T073137Z">
+        <seg>可写词汇表文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Writable glossary file:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T071326Z" creationid="WynnChen" creationdate="20221129T071326Z">
+        <seg>可写词汇表文件：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Writeable Glossary File</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T173453Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -64047,6 +65912,14 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20200117T021733Z" creationid="WynnChen" creationdate="20200117T021733Z">
         <seg>用 Python/Perl 编写。由 Didier Briel 提供。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wrong URL detected in Linkifier: {0}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T073734Z" creationid="WynnChen" creationdate="20221129T073734Z">
+        <seg>在 Linkifier 中检测到错误的网址：{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -64311,6 +66184,14 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20200730T052149Z" creationid="WynnChen" creationdate="20200730T052149Z">
         <seg>Yandex.Cloud</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Yes</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T091907Z" creationid="WynnChen" creationdate="20221129T091902Z">
+        <seg>是</seg>
       </tuv>
     </tu>
     <tu>
@@ -65856,6 +67737,14 @@ them.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Your current project uses sentence segmentation, but the TMX file was created using paragraph segmentation. OmegaT will try to resegment the TMX file...</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T080420Z" creationid="WynnChen" creationdate="20221129T080420Z">
+        <seg>你的当前项目使用的是语句分割，但 TMX 文件创建时用的是段落分割。OmegaT 将尝试重新分割 TMX 文件……</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Your documents and translation memories remain on your computer, and the &lt;a2&gt;OmegaT&lt;/a2&gt; project will have no access to your work or information.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120207T121901Z">
@@ -65977,6 +67866,14 @@ To add files to the project you can
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
         <seg>项目没有包含任何所支持格式的文件。（在用户手册中，请参阅要翻译的文件&gt;文件格式列表来了解支持的文件格式。）\n要添加文件到项目中，打开项目文件窗口并点击复制文件到源文件夹按钮或者从项目菜单中调用该功能并选择想导入的源文件。您也可以使用您喜欢的文件管理工具将文件复制到项目的源文件夹，然后通过调用项目菜单的 项目 -&gt; 重新载入 来重新载入项目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your version</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T091509Z" creationid="WynnChen" creationdate="20221129T091509Z">
+        <seg>你的版本</seg>
       </tuv>
     </tu>
     <tu>
@@ -67672,6 +69569,14 @@ To add files to the project you can
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120202T070629Z">
         <seg>doc-license.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>docs/</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T094433Z" creationid="WynnChen" creationdate="20221129T094433Z">
+        <seg>docs/</seg>
       </tuv>
     </tu>
     <tu>
@@ -69670,6 +71575,14 @@ To add files to the project you can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>index.html</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T094405Z" creationid="WynnChen" creationdate="20221129T094405Z">
+        <seg>index.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>infix1.png</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="think" changedate="20180416T011934Z" creationid="think" creationdate="20180416T011934Z">
@@ -70424,6 +72337,14 @@ To add files to the project you can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>loaded {0} attributes.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T080337Z" creationid="WynnChen" creationdate="20221129T080337Z">
+        <seg>已加载 {0} 个属性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>logs/OmegaT.log</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120202T060621Z">
@@ -70508,6 +72429,14 @@ To add files to the project you can
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T053811Z" creationid="wynnc" creationdate="20190323T053039Z">
         <seg>mALIGNa (MIT 许可证)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>macOS</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T094136Z" creationid="WynnChen" creationdate="20221129T094136Z">
+        <seg>macOS</seg>
       </tuv>
     </tu>
     <tu>
@@ -71557,6 +73486,14 @@ To add files to the project you can
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131108T030740Z" creationid="Fu Rhong" creationdate="20131108T030740Z">
         <seg>oss</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>other platforms</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T094140Z" creationid="WynnChen" creationdate="20221129T094140Z">
+        <seg>其他平台</seg>
       </tuv>
     </tu>
     <tu>
@@ -73781,8 +75718,8 @@ To add files to the project you can
       <tuv lang="en">
         <seg>{0} ({1} left) / {2} ({3} left), {4}</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T111209Z" creationid="wynnc" creationdate="20190320T104941Z">
-        <seg>{0} (剩余 {1}) / {2} (剩余 {3}), {4}</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T065351Z" creationid="wynnc" creationdate="20190320T104941Z">
+        <seg>{0}（剩余 {1}）/ {2}（剩余 {3}），{4}</seg>
       </tuv>
     </tu>
     <tu>
