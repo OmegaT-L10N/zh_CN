@@ -40824,8 +40824,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="en">
         <seg>Only this preference currently requires manual modification.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221205T121743Z" creationid="WynnChen" creationdate="20221205T121743Z">
-        <seg>目前只有Only this preference currently requires manual modification.</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221205T121914Z" creationid="WynnChen" creationdate="20221205T121743Z">
+        <seg>目前只有此首选项必须手动修改。</seg>
       </tuv>
     </tu>
     <tu>
@@ -57451,6 +57451,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>These files record various internal state and program event messages generated while OmegaT is running. If OmegaT behaves erratically, include this file, or the relevant part thereof, to your report.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221205T122145Z" creationid="WynnChen" creationdate="20221205T122145Z">
+        <seg>这些文件记录了 OmegaT 运行中的各种内部状态和生成的程序事件消息。如果 OmegaT 运行不稳定，请在你的报告中附上此文件或其相关的部分。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>These formats are formally known as "Office Open XML", and have the extensions .docx, .xlsx and .pptx respectively.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="liufang" changedate="20180416T122646Z" creationid="liufang" creationdate="20180416T122646Z">
@@ -58266,6 +58274,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This file describes the overall OmegaT layout.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221205T121932Z" creationid="WynnChen" creationdate="20221205T121932Z">
+        <seg>此文件描述了 OmegaT 的整体布局。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This file format enables OmegaT users to deliver bilingual files to users of Déjà Vu DVX, who are then able to edit them further or to incorporate them into automated workflows.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="lenovo" changedate="20180416T120422Z" creationid="lenovo" creationdate="20180416T120422Z">
@@ -58294,6 +58310,14 @@ the server.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120202T063506Z">
         <seg>该文件记录了 &lt;a0&gt;OmegaT&lt;/a0&gt; 运行时的 Java 错误信息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This folder contains a number of log files. The most current is &lt;f0&gt;OmegaT.log&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221205T122011Z" creationid="WynnChen" creationdate="20221205T122011Z">
+        <seg>此文件夹包含许多日志文件。最新的是 &lt;f0&gt;OmegaT.log&lt;/f0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -72533,6 +72557,14 @@ To add files to the project you can
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T080337Z" creationid="WynnChen" creationdate="20221129T080337Z">
         <seg>已加载 {0} 个属性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>logs/</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221205T121933Z" creationid="WynnChen" creationdate="20221205T121933Z">
+        <seg>logs/</seg>
       </tuv>
     </tu>
     <tu>
