@@ -18811,6 +18811,14 @@ Some filters do not allow encoding modifications.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Default contents</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221205T121325Z" creationid="WynnChen" creationdate="20221205T121325Z">
+        <seg>默认内容</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Default encoding</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
@@ -19956,6 +19964,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="钢" changedate="20130503T162118Z">
         <seg>不允许创建有标签问题的译文文档。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do not automatically display the Source Files list</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221205T121428Z" creationid="WynnChen" creationdate="20221205T121428Z">
+        <seg>不自动显示原文文件列表</seg>
       </tuv>
     </tu>
     <tu>
@@ -49158,6 +49174,14 @@ of the GPL, as needed to protect the freedom of users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Some preference do not have an equivalent in the user interface. They must be modified manually.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221205T121414Z" creationid="WynnChen" creationdate="20221205T121414Z">
+        <seg>一些首选项在用户界面中没有对应项。它们必须手动进行修改。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Some project folders seem to have been moved.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T180340Z" creationid="wynnc" creationdate="20190320T180340Z">
@@ -58234,6 +58258,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This file includes a number of important user preferences.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221205T121341Z" creationid="WynnChen" creationdate="20221205T121341Z">
+        <seg>此文件包含许多重要的用户首选项。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This file is very important and you should make sure you read it before launching OmegaT.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120202T070650Z">
@@ -59950,6 +59982,14 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Administrator" changedate="20180411T081111Z" creationid="Fu Rhong" creationdate="20131112T114557Z">
         <seg>要为StarDict格式安装需要的文件，进行如下操作：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To keep the Source Files list window to automatically open when a project is loaded, find &lt;t0&gt;&lt;project_files_show_on_load&gt;&lt;/t0&gt; and replace &lt;t1&gt;true&lt;/t1&gt; to &lt;t2&gt;false&lt;/t2&gt;:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221205T121620Z" creationid="WynnChen" creationdate="20221205T121620Z">
+        <seg>要让原文文件列表窗口在加载项目时自动打开，查找 &lt;t0&gt;&lt;project_files_show_on_load&gt;&lt;/t0&gt; 并将&lt;t1&gt;true&lt;/t1&gt; 替换为 &lt;t2&gt;false&lt;/t2&gt;：</seg>
       </tuv>
     </tu>
     <tu>
@@ -66570,6 +66610,14 @@ from there.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120207T113539Z">
         <seg>您还可以使用 AppleScript 或 Automator 创建能够自动频繁查询的服务或脚本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also use non default configuration folders by starting OmegaT from the command line. See &lt;l0/&gt; for details</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221205T121313Z" creationid="WynnChen" creationdate="20221205T121313Z">
+        <seg>你可以通过从命令行启动 OmegaT 来使用非默认配置文件夹。详情请参阅&lt;l0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -76040,6 +76088,30 @@ To add files to the project you can
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131109T023406Z" creationid="Fu Rhong" creationdate="20131109T023406Z">
         <seg>}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>~/.omegat</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221205T121232Z" creationid="WynnChen" creationdate="20221205T121232Z">
+        <seg>~/.omegat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>~/Library/Preferences/OmegaT</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221205T121233Z" creationid="WynnChen" creationdate="20221205T121233Z">
+        <seg>~/Library/Preferences/OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>~\AppData\Roaming\OmegaT</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221205T121234Z" creationid="WynnChen" creationdate="20221205T121234Z">
+        <seg>~\AppData\Roaming\OmegaT</seg>
       </tuv>
     </tu>
     <tu>
