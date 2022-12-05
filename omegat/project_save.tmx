@@ -20904,6 +20904,14 @@ for enforcing compliance by third parties with this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Each translated user guide comes in a different language folder.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221205T120552Z" creationid="WynnChen" creationdate="20221205T120552Z">
+        <seg>各个已翻译的用户指南位于不同的语言文件夹中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Each version is given a distinguishing version number.  If the
 Program specifies that a certain numbered version of the GNU General
 Public License "or any later version" applies to it, you have the
@@ -54024,6 +54032,38 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The folder where distributed scripts are located. See &lt;l0/&gt; for details.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221205T120910Z" creationid="WynnChen" creationdate="20221205T120910Z">
+        <seg>分发的脚本位于此文件夹中。详情请参阅&lt;l0/&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The folder where images used by OmegaT are stored.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221205T120646Z" creationid="WynnChen" creationdate="20221205T120646Z">
+        <seg>OmegaT 所使用的图像存储在此文件夹。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The folder where the libraries used by OmegaT are stored.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221205T120705Z" creationid="WynnChen" creationdate="20221205T120705Z">
+        <seg>OmegaT 所使用的库存储在此文件夹。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The folder where you can install external plugins. See &lt;l0/&gt; for details.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221205T120756Z" creationid="WynnChen" creationdate="20221205T120756Z">
+        <seg>你可以在此文件夹中安装外部插件。详情请参阅&lt;l0/&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The following code snippet in groovy for instance scans through all the segments in all files in the current project and, if the translation exists, prints out the source and the target of the segment:</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131109T023350Z" creationid="Fu Rhong" creationdate="20131109T023021Z">
@@ -54616,6 +54656,22 @@ your programs, too.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T094356Z" creationid="WynnChen" creationdate="20221129T094356Z">
         <seg>改进之处和 Bug 修复的清单。如果您需要有关 OmegaT 进展的信息，请查看它。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The list of individual contributors.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221205T120510Z" creationid="WynnChen" creationdate="20221205T120510Z">
+        <seg>个人贡献者名单。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The list of libraries used by OmegaT.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221205T120614Z" creationid="WynnChen" creationdate="20221205T120614Z">
+        <seg>OmegaT 所使用的库的列表。</seg>
       </tuv>
     </tu>
     <tu>
@@ -69255,6 +69311,14 @@ To add files to the project you can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>contributors.txt</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221205T120458Z" creationid="WynnChen" creationdate="20221205T120458Z">
+        <seg>contributors.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>copy the files to the &lt;f0&gt;/source&lt;/f0&gt; folder</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190902T091714Z" creationid="wynnc" creationdate="20190902T091714Z">
@@ -69905,6 +69969,14 @@ To add files to the project you can
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20200123T042319Z">
         <seg>zh_CN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>en/</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221205T120511Z" creationid="WynnChen" creationdate="20221205T120511Z">
+        <seg>en/</seg>
       </tuv>
     </tu>
     <tu>
@@ -71503,6 +71575,14 @@ To add files to the project you can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>images/</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221205T120615Z" creationid="WynnChen" creationdate="20221205T120615Z">
+        <seg>images/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>import the file into ODF writer</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190902T100809Z" creationid="Fu Rhong" creationdate="20131116T035044Z">
@@ -72261,6 +72341,22 @@ To add files to the project you can
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131108T025924Z" creationid="Fu Rhong" creationdate="20131108T025924Z">
         <seg>li</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lib/</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221205T120647Z" creationid="WynnChen" creationdate="20221205T120647Z">
+        <seg>lib/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>libraries.txt</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221205T120554Z" creationid="WynnChen" creationdate="20221205T120554Z">
+        <seg>libraries.txt</seg>
       </tuv>
     </tu>
     <tu>
@@ -73570,6 +73666,14 @@ To add files to the project you can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>plugins/</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221205T120706Z" creationid="WynnChen" creationdate="20221205T120706Z">
+        <seg>plugins/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>pol</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131108T030804Z" creationid="Fu Rhong" creationdate="20131108T030804Z">
@@ -74070,6 +74174,14 @@ To add files to the project you can
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131115T002110Z" creationid="Fu Rhong" creationdate="20131115T002110Z">
         <seg>script/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>scripts/</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221205T120758Z" creationid="WynnChen" creationdate="20221205T120758Z">
+        <seg>scripts/</seg>
       </tuv>
     </tu>
     <tu>
