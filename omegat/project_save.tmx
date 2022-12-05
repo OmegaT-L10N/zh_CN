@@ -16678,6 +16678,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Configuration Folder</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221205T121021Z" creationid="WynnChen" creationdate="20221205T121021Z">
+        <seg>配置文件夹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Confirm</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -53334,6 +53342,14 @@ Please try to correct the error and reload the project.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The configuration folder stores the majority of the OmegaT options and preferences for the user.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221205T121101Z" creationid="WynnChen" creationdate="20221205T121101Z">
+        <seg>配置文件夹中存储了用户的大部分 OmegaT 选项和首选项。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The configuration folder will be used
 instead.</seg>
       </tuv>
@@ -54720,6 +54736,14 @@ your programs, too.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="17012" changedate="20180405T023649Z" creationid="17012" creationdate="20180405T023649Z">
         <seg>&lt;f1&gt;.tbx&lt;/f1&gt; 文件的地址必须在 &lt;f2&gt;/glossary&lt;/f2&gt;文件夹中，但也能存在其子文件夹下，如 &lt;f3&gt;glossary/sub/MyGlossary.tbx。&lt;/f3&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The location of the default configuration folder varies by system (the &lt;e0&gt;~&lt;/e0&gt; character represents your home folder):</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221205T121230Z" creationid="WynnChen" creationdate="20221205T121230Z">
+        <seg>配置文件夹的默认位置因系统而异（&lt;e0&gt;~&lt;/e0&gt; 字符代表你的主文件夹）：</seg>
       </tuv>
     </tu>
     <tu>
@@ -66546,6 +66570,14 @@ from there.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120207T113539Z">
         <seg>您还可以使用 AppleScript 或 Automator 创建能够自动频繁查询的服务或脚本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can always access it directly from &lt;l0/&gt; in the &lt;l1/&gt; menu.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221205T121134Z" creationid="WynnChen" creationdate="20221205T121134Z">
+        <seg>你始终可以通过“&lt;l1/&gt;”菜单中的“&lt;l0/&gt;”来直接访问它。</seg>
       </tuv>
     </tu>
     <tu>
