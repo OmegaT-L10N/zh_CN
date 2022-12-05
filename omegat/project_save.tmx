@@ -58330,6 +58330,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This file stores the currently selected text when the &lt;l0/&gt; command in the &lt;l1/&gt; menu is used. The text in the file is replaced each time this function is called.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221205T122717Z" creationid="WynnChen" creationdate="20221205T122717Z">
+        <seg>当使用了“&lt;l1/&gt;”菜单中的“&lt;l0/&gt;”命令后，此文件存储着当前选定的文本。每次调用此功能都会替换此文件中的文本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This folder contains a number of log files. The most current is &lt;f0&gt;OmegaT.log&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221205T122011Z" creationid="WynnChen" creationdate="20221205T122011Z">
@@ -74423,6 +74431,14 @@ To add files to the project you can
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20200120T094213Z" creationid="WynnChen" creationdate="20200120T094213Z">
         <seg>选定一行或将鼠标移到这一行上会在最后一列中显示一个弹出菜单图标，其中包含纠正或忽略该错误的操作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>selection.txt</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221205T122533Z" creationid="WynnChen" creationdate="20221205T122533Z">
+        <seg>selection.txt</seg>
       </tuv>
     </tu>
     <tu>
