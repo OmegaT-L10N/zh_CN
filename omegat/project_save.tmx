@@ -9209,6 +9209,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;project_files_show_on_load&gt;&lt;t0&gt;false&lt;/t0&gt;&lt;/project_files_show_on_load&gt;</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221205T121624Z" creationid="WynnChen" creationdate="20221205T121624Z">
+        <seg>&lt;project_files_show_on_load&gt;&lt;t0&gt;false&lt;/t0&gt;&lt;/project_files_show_on_load&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;r0&gt;Note:&lt;/r0&gt; On an Apple Mac, use the &lt;k1&gt;Command&lt;/k1&gt; key instead of the &lt;k2&gt;Control&lt;/k2&gt; key.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20200119T100000Z" creationid="Fu Rhong" creationdate="20131117T004638Z">
@@ -40814,6 +40822,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Only this preference currently requires manual modification.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221205T121743Z" creationid="WynnChen" creationdate="20221205T121743Z">
+        <seg>目前只有Only this preference currently requires manual modification.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Op&amp;en Recent...</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T091556Z" creationid="wynnc" creationdate="20221111T091556Z">
@@ -59988,8 +60004,8 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
       <tuv lang="en">
         <seg>To keep the Source Files list window to automatically open when a project is loaded, find &lt;t0&gt;&lt;project_files_show_on_load&gt;&lt;/t0&gt; and replace &lt;t1&gt;true&lt;/t1&gt; to &lt;t2&gt;false&lt;/t2&gt;:</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221205T121620Z" creationid="WynnChen" creationdate="20221205T121620Z">
-        <seg>要让原文文件列表窗口在加载项目时自动打开，查找 &lt;t0&gt;&lt;project_files_show_on_load&gt;&lt;/t0&gt; 并将&lt;t1&gt;true&lt;/t1&gt; 替换为 &lt;t2&gt;false&lt;/t2&gt;：</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221205T121726Z" creationid="WynnChen" creationdate="20221205T121620Z">
+        <seg>要让原文文件列表窗口在加载项目时不自动打开，查找 &lt;t0&gt;&lt;project_files_show_on_load&gt;&lt;/t0&gt; 并将&lt;t1&gt;true&lt;/t1&gt; 替换为 &lt;t2&gt;false&lt;/t2&gt;：</seg>
       </tuv>
     </tu>
     <tu>
