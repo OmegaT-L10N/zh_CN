@@ -58426,6 +58426,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This folder provides an alternative location for manually installed OmegaT extension plugins. See &lt;l0/&gt; for details.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221206T141743Z" creationid="WynnChen" creationdate="20221206T141743Z">
+        <seg>此文件夹为手动安装的 OmegaT 扩展插件提供了备选位置。详情请参见&lt;l0/&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This format can be converted easily to the TMX format by third-party utilities such as &lt;a0&gt;Wf2TMX&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Wyndy" changedate="20180418T115118Z" creationid="Wyndy" creationdate="20180418T115118Z">
