@@ -10915,6 +10915,14 @@ included in conveying the object code work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Additional contents</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221206T140932Z" creationid="WynnChen" creationdate="20221206T140932Z">
+        <seg>其他内容</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Additional parameter is required in this case, specifying the location of the target data:</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20200119T090433Z">
@@ -21227,6 +21235,14 @@ by the Free Software Foundation.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20200120T075102Z" creationid="WynnChen" creationdate="20200120T075102Z">
         <seg>编辑器...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>EditorShortcuts.properties</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221206T140933Z" creationid="WynnChen" creationdate="20221206T140933Z">
+        <seg>EditorShortcuts.properties</seg>
       </tuv>
     </tu>
     <tu>
@@ -58298,6 +58314,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This file contains the &lt;e0&gt;translated text&lt;/e0&gt; from the current segment when &lt;l1/&gt; is active. The text in the file is replaced each time a new segment is entered.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221206T140809Z" creationid="WynnChen" creationdate="20221206T140809Z">
+        <seg>当“&lt;l1/&gt;”激活时，此文件包含当前片段的&lt;e0&gt;译文文本&lt;/e0&gt;。每次进入一个新片段时都会替换此文件中的文本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This file describes the overall OmegaT layout.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221205T121932Z" creationid="WynnChen" creationdate="20221205T121932Z">
@@ -59050,6 +59074,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This parameter file contains customized editor shortcuts. See &lt;l0/&gt; for details.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221206T141016Z" creationid="WynnChen" creationdate="20221206T141016Z">
+        <seg>这个参数文件包含自定义的编辑器快捷键。详情请参阅&lt;l0/&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This plan shows what translation/localization work has already been done on OmegaT, and what work is currently in progress.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="lenovo" changedate="20180416T131731Z" creationid="lenovo" creationdate="20180416T131731Z">
@@ -59418,6 +59450,14 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120219T124136Z">
         <seg>然而，一旦启动项目的翻译工作，就应该避免发生这样的事情。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Those three files provide as a simple way to access some OmegaT content and process it with local programs such as shell scripts.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221206T140925Z" creationid="WynnChen" creationdate="20221206T140925Z">
+        <seg>这三个文件提供了一种简便的办法来访问某些 OmegaT 内容并可用诸如 shell 脚本等本地程序来对其进行处理。</seg>
       </tuv>
     </tu>
     <tu>
@@ -74880,6 +74920,14 @@ To add files to the project you can
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131109T023405Z" creationid="Fu Rhong" creationdate="20131109T023405Z">
         <seg>target = project.getTranslationInfo(currSegment).translation;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>target.txt</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221206T140736Z" creationid="WynnChen" creationdate="20221206T140736Z">
+        <seg>target.txt</seg>
       </tuv>
     </tu>
     <tu>
