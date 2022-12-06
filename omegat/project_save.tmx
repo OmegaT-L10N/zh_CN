@@ -23074,6 +23074,14 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>File filters are either local and specific to a given project, or global and available to all the projects that share a configuration folder.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221206T142402Z" creationid="WynnChen" creationdate="20221206T142402Z">
+        <seg>文件过滤器要么是局部且专属于给定项目的，要么是全局且可用于共享配置文件夹的所有项目的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>File filters are pieces of code capable of:</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Administrator" changedate="20180411T112102Z">
@@ -23302,6 +23310,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T112517Z" creationid="wynnc" creationdate="20190320T112517Z">
         <seg>过滤器：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Filters in bold are used in the current project.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221206T142849Z" creationid="WynnChen" creationdate="20221206T142849Z">
+        <seg>以粗体显示的过滤器是在当前项目中所使用的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47476,6 +47492,14 @@ When using regular expressions, the replacement string supports references to gr
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221206T142415Z" creationid="WynnChen" creationdate="20221206T142415Z">
+        <seg>详情请参阅</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Seen from this point of view, they are plain text files&lt;e1&gt; plus&lt;/e1&gt; translation memories.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131116T033202Z" creationid="Fu Rhong" creationdate="20131116T033202Z">
@@ -58420,8 +58444,8 @@ the server.</seg>
       <tuv lang="en">
         <seg>This folder contains your spelling dictionaries. See &lt;l0/&gt; for details.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221206T141806Z" creationid="WynnChen" creationdate="20221206T141806Z">
-        <seg>此文件夹包含你的拼写词典。详情请参见&lt;l0/&gt;。</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221206T142430Z" creationid="WynnChen" creationdate="20221206T141806Z">
+        <seg>此文件夹包含你的拼写词典。详情请参阅&lt;l0/&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -67362,8 +67386,8 @@ linux-install.sh 脚本的文件夹，然后用 ./linux-install.sh 执行脚本�
       <tuv lang="en">
         <seg>You can specify a configuration folder other than the default when you start OmegaT from the command line. See &lt;l0/&gt; for details.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221206T141959Z" creationid="WynnChen" creationdate="20221206T141959Z">
-        <seg>从命令行启动 OmegaT 时，可以另行指定非默认值的配置文件夹。详情请参见&lt;l0/&gt;。</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221206T142440Z" creationid="WynnChen" creationdate="20221206T141959Z">
+        <seg>从命令行启动 OmegaT 时，可以另行指定非默认值的配置文件夹。详情请参阅&lt;l0/&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -70595,6 +70619,14 @@ To add files to the project you can
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131109T023359Z" creationid="Fu Rhong" creationdate="20131109T023359Z">
         <seg>for (j in 0 ..&lt; files[i].entries.size())</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>for details.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221206T142455Z" creationid="WynnChen" creationdate="20221206T142455Z">
+        <seg>。</seg>
       </tuv>
     </tu>
     <tu>
