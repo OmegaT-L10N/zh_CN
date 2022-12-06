@@ -35846,6 +35846,14 @@ later version.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Modified preferences are stored in the configuration folder used by the project. If you do not use the default configuration folder, all modifications made in &lt;l0/&gt; will be stored in the specified configuration folder and will not appear when you resume work with the default configuration folder.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221206T142227Z" creationid="WynnChen" creationdate="20221206T142227Z">
+        <seg>修改后的首选项存储在项目所使用的配置文件夹中。如果不使用默认配置文件夹，那么在&lt;l0/&gt;中所做的所有修改都会存储在指定的配置文件夹中，并且在恢复为使用默认配置文件夹继续工作时不会出现。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Modify encoding declaration</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T104508Z" creationid="wynnc" creationdate="20221111T104508Z">
