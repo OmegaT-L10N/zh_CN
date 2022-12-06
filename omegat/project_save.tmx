@@ -58410,6 +58410,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This folder contains your spelling dictionaries. See &lt;l0/&gt; for details.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221206T141806Z" creationid="WynnChen" creationdate="20221206T141806Z">
+        <seg>此文件夹包含你的拼写词典。详情请参见&lt;l0/&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This folder is initially empty.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131114T075526Z" creationid="Fu Rhong" creationdate="20131114T075503Z">
@@ -67344,6 +67352,14 @@ linux-install.sh 脚本的文件夹，然后用 ./linux-install.sh 执行脚本�
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can specify a configuration folder other than the default when you start OmegaT from the command line. See &lt;l0/&gt; for details.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221206T141959Z" creationid="WynnChen" creationdate="20221206T141959Z">
+        <seg>从命令行启动 OmegaT 时，可以另行指定非默认值的配置文件夹。详情请参见&lt;l0/&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can start the selected macros from the main menu as well by using their entries in the &lt;g0&gt;Tools &lt;/g0&gt;menu or by pressing&lt;k1&gt; Ctrl+Alt+F#&lt;/k1&gt; (# 1 to 12).</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131123T104725Z" creationid="Fu Rhong" creationdate="20131123T104725Z">
@@ -74840,6 +74856,14 @@ To add files to the project you can
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190831T162803Z" creationid="WynnChen" creationdate="20190831T162803Z">
         <seg>指定不应分开的文本部件。尽管其中有个句点，但&lt;e0&gt;“Mrs. Dalloway”&lt;/e0&gt;不应当分割为两个片段，因此应当为后面跟着句点的 Mrs（以及 Mr、Dr、prof 等）制定一条例外规则。要将一条规则定义为例外规则，请取消对断句/离外复选框的勾选。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>spelling/</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221206T141745Z" creationid="WynnChen" creationdate="20221206T141745Z">
+        <seg>spelling/</seg>
       </tuv>
     </tu>
     <tu>
