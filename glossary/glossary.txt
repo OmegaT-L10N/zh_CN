@@ -90,3 +90,4 @@ Translator	译者
 load	加载
 reload	重新加载
 search	搜索
+autotext	自动文本
