@@ -58290,6 +58290,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This file contains the &lt;e0&gt;original text&lt;/e0&gt; from of the current segment when &lt;l1/&gt; is active. The text in the file is replaced each time a new segment is entered.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221206T140735Z" creationid="WynnChen" creationdate="20221206T140735Z">
+        <seg>当“&lt;l1/&gt;”激活时，此文件包含当前片段的&lt;e0&gt;原文文本&lt;/e0&gt;。每次进入一个新片段时都会替换此文件中的文本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This file describes the overall OmegaT layout.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221205T121932Z" creationid="WynnChen" creationdate="20221205T121932Z">
@@ -74648,6 +74656,14 @@ To add files to the project you can
       </tuv>
       <tuv lang="zh-CN" changeid="Wyndy" changedate="20180418T115850Z" creationid="Wyndy" creationdate="20180418T115850Z">
         <seg>源语言术语   &lt;tab&gt;   目标语言术语    &lt;tab&gt;    附属信息</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>source.txt</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221206T135455Z" creationid="WynnChen" creationdate="20221206T135455Z">
+        <seg>source.txt</seg>
       </tuv>
     </tu>
     <tu>
