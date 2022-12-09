@@ -64271,8 +64271,8 @@ OmegaT 选项：
       <tuv lang="en">
         <seg>User can select from three options, Previous and next paragraphs, &lt;trans unit&gt; ID, or, &lt;trans-unit&gt; resname attribute when available, when unavailable, the ID will be used as a fallback.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T111657Z" creationid="WynnChen" creationdate="20221209T111328Z">
-        <seg>用户可以选择三个选项之一：前后段落、&lt;trans unit&gt; ID, or, &lt;trans-unit&gt; resname attribute when available, when unavailable, the ID will be used as a fallback.</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T112017Z" creationid="WynnChen" creationdate="20221209T111328Z">
+        <seg>用户可以选择三个选项之一：前后段落、&lt;trans unit&gt; 的 ID、或 &lt;trans-unit&gt; 的 resname 属性（当其可用时，若不可用则 ID 将用作后备）。</seg>
       </tuv>
     </tu>
     <tu>
