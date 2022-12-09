@@ -16814,6 +16814,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Compatibility with OmegaT 2.6</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T110820Z" creationid="WynnChen" creationdate="20221209T110820Z">
+        <seg>兼容 OmegaT 2.6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Compatible with other translation memory applications (TMX, TTX, TXML, XLIFF, SDLXLIFF)</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190523T020648Z" creationid="18261" creationdate="20180412T084238Z">
@@ -21591,6 +21599,14 @@ Your help page not found</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T175953Z" creationid="wynnc" creationdate="20190320T175953Z">
         <seg>在&lt;b&gt;首选项 &gt; 保存与输出...&lt;/b&gt;中可以启用它们。&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enable this option if you need to work with XLIFF files created with OmegaT 2.6.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T111238Z" creationid="WynnChen" creationdate="20221209T111238Z">
+        <seg>如果需要处理 OmegaT 2.6 所创建的 XLIFF 文件，请启用此选项。</seg>
       </tuv>
     </tu>
     <tu>
