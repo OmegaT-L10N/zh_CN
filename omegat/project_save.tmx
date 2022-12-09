@@ -6944,6 +6944,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt;${extension-0}&lt;/l0&gt;: &lt;f1&gt;docx&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T110705Z" creationid="WynnChen" creationdate="20221209T110705Z">
+        <seg>&lt;l0&gt;${extension-0}&lt;/l0&gt;：&lt;f1&gt;docx&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;l0&gt;${extension-1}&lt;/l0&gt; xx.docx</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131113T125832Z" creationid="Fu Rhong" creationdate="20131113T125832Z">
@@ -6952,10 +6960,26 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt;${extension-1}&lt;/l0&gt;: &lt;f1&gt;xx.docx&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T110708Z" creationid="WynnChen" creationdate="20221209T110708Z">
+        <seg>&lt;l0&gt;${extension-1}&lt;/l0&gt;：&lt;f1&gt;xx.docx&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;l0&gt;${extension-2}&lt;/l0&gt; Document.xx.docx</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131113T125835Z" creationid="Fu Rhong" creationdate="20131113T125835Z">
         <seg>&lt;l0&gt;${extension-2}&lt;/l0&gt; Document.xx.docx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;${extension-2}&lt;/l0&gt;: &lt;f1&gt;Document.xx.docx&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T110713Z" creationid="WynnChen" creationdate="20221209T110713Z">
+        <seg>&lt;l0&gt;${extension-2}&lt;/l0&gt;：&lt;f1&gt;Document.xx.docx&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6992,6 +7016,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt;${nameOnly-0}&lt;/l0&gt;: &lt;f1&gt;Document&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T110659Z" creationid="WynnChen" creationdate="20221209T110649Z">
+        <seg>&lt;l0&gt;${nameOnly-0}&lt;/l0&gt;：&lt;f1&gt;Document&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;l0&gt;${nameOnly-1}&lt;/l0&gt; Document.xx</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131113T125831Z" creationid="Fu Rhong" creationdate="20131113T125831Z">
@@ -7000,10 +7032,26 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt;${nameOnly-1}&lt;/l0&gt;: &lt;f1&gt;Document.xx&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T110656Z" creationid="WynnChen" creationdate="20221209T110656Z">
+        <seg>&lt;l0&gt;${nameOnly-1}&lt;/l0&gt;：&lt;f1&gt;Document.xx&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;l0&gt;${nameOnly-2}&lt;/l0&gt; Document.xx.docx</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131113T125831Z" creationid="Fu Rhong" creationdate="20131113T125831Z">
         <seg>&lt;l0&gt;${nameOnly-2}&lt;/l0&gt; Document.xx.docx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;${nameOnly-2}&lt;/l0&gt;: &lt;f1&gt;Document.xx.docx&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T110702Z" creationid="WynnChen" creationdate="20221209T110702Z">
+        <seg>&lt;l0&gt;${nameOnly-2}&lt;/l0&gt;：&lt;f1&gt;Document.xx.docx&lt;/f1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23913,8 +23961,8 @@ can then launch the Kaptain launch script with:</seg>
       <tuv lang="en">
         <seg>For a source file named Document.xx.docx, using the variable variants below will produce the following results:</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T110425Z" creationid="WynnChen" creationdate="20221209T110425Z">
-        <seg>For a source file named Document.xx.docx, using the variable variants below will produce the following results:</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T110647Z" creationid="WynnChen" creationdate="20221209T110425Z">
+        <seg>对于名为 Document.xx.docx 的原文文件，下面这些变量变体会生成如下结果：</seg>
       </tuv>
     </tu>
     <tu>
@@ -48832,6 +48880,14 @@ When using regular expressions, the replacement string supports references to gr
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T103754Z" creationid="WynnChen" creationdate="20190831T054740Z">
         <seg>好些筛选器（文本文件、XHTML 文件、HTML 和 XHTML 文件、OpenDocument 文件和 Microsoft Open XML 文件）有一个或多个特定选项。要修改这些选项，在列表中选定此筛选器并点击&lt;e0&gt;选项&lt;/e0&gt;。可用选项包括：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Several filters offer options. Select the filter in the list and click &lt;g0&gt;Options...&lt;/g0&gt; to modify them.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T110803Z" creationid="WynnChen" creationdate="20221209T110803Z">
+        <seg>有一些筛选器提供了选项。在列表中选定筛选器并点击“&lt;g0&gt;选项...&lt;/g0&gt;”可以修改之。</seg>
       </tuv>
     </tu>
     <tu>
