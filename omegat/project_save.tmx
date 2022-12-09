@@ -398,6 +398,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>${extension}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T105356Z" creationid="WynnChen" creationdate="20221209T105356Z">
+        <seg>${extension}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>${fileNameOnly}</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131127T130446Z" creationid="Fu Rhong" creationdate="20131127T130446Z">
@@ -418,6 +426,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131127T130501Z" creationid="Fu Rhong" creationdate="20131127T130501Z">
         <seg>${fileShortPath}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${filename}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T105354Z" creationid="WynnChen" creationdate="20221209T105354Z">
+        <seg>${filename}</seg>
       </tuv>
     </tu>
     <tu>
@@ -454,6 +470,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>${nameOnly}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T105355Z" creationid="WynnChen" creationdate="20221209T105355Z">
+        <seg>${nameOnly}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>${noStemScore}</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131127T130244Z" creationid="Fu Rhong" creationdate="20131127T130244Z">
@@ -474,6 +498,22 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131127T130018Z" creationid="Fu Rhong" creationdate="20131127T130018Z">
         <seg>${sourceText}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${targetLanguage}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T105400Z" creationid="WynnChen" creationdate="20221209T105400Z">
+        <seg>${targetLanguage}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${targetLocale}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T105357Z" creationid="WynnChen" creationdate="20221209T105357Z">
+        <seg>${targetLocale}</seg>
       </tuv>
     </tu>
     <tu>
@@ -53880,6 +53920,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The default pattern. It represents the complete filename of the source file, including the extension. Using this pattern assigns the translated file the exact same name as the source file.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T105505Z" creationid="WynnChen" creationdate="20221209T105505Z">
+        <seg>这是默认的模式。它代表原文文件的完整文件名，包括扩展名。使用此模式可为译文文件分配和原文文件完全相同的名字。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The default writable glossary is located in the the &lt;f0&gt;/glossary&lt;/f0&gt; project folder and is called &lt;f1&gt;glossary.txt&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T051156Z" creationid="wynnc" creationdate="20210504T051156Z">
@@ -73521,6 +73569,14 @@ To add files to the project you can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>name of the source file, without the extension</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T105519Z" creationid="WynnChen" creationdate="20221209T105519Z">
+        <seg>原文文件的名字，不带扩展名。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>nau</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131108T030408Z" creationid="Fu Rhong" creationdate="20131108T030408Z">
@@ -74158,6 +74214,14 @@ To add files to the project you can
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131108T030737Z" creationid="Fu Rhong" creationdate="20131108T030737Z">
         <seg>ori</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>original file extension</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T105533Z" creationid="WynnChen" creationdate="20221209T105533Z">
+        <seg>原始文件扩展名</seg>
       </tuv>
     </tu>
     <tu>
