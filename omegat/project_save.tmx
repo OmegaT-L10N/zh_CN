@@ -1056,8 +1056,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Filter</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
-        <seg>过滤器(&amp;F)</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T103754Z" creationid="wynnc" creationdate="20190320T045507Z">
+        <seg>筛选器(&amp;F)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1640,8 +1640,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Remove Filter</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T085444Z" creationid="wynnc" creationdate="20190320T085444Z">
-        <seg>删除过滤器(&amp;R)</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T103754Z" creationid="wynnc" creationdate="20190320T085444Z">
+        <seg>删除筛选器(&amp;R)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2558,8 +2558,8 @@ not be entered.)</seg>
       <tuv lang="en">
         <seg>(X)HTML Filter Options</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T062205Z" creationid="wynnc" creationdate="20190323T062205Z">
-        <seg>(X)HTML 过滤器选项</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T103754Z" creationid="wynnc" creationdate="20190323T062205Z">
+        <seg>(X)HTML 筛选器选项</seg>
       </tuv>
     </tu>
     <tu>
@@ -5176,8 +5176,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;Add or rewrite encoding declaration in HTML and XHTML files&lt;/e0&gt;: the target files often need to have a different character set encoding from the one in the source file (whether it is explicitly defined or implied). Using this option, the translator can specify whether the target files should have the encoding declaration included. For instance, if the file filter specifies UTF8 as the encoding scheme for the target files, selecting Always will ensure that this information is included in the translated files.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20190831T064507Z" creationid="WynnChen" creationdate="20190831T064507Z">
-        <seg>&lt;e0&gt;在 HTML 和 XHTML 文件中新增或重写编码声明&lt;/e0&gt;：译文文件通常需要具有与原文文件（无论是显式定义还是隐含）不同的字符集编码。使用此选项，译者可以指定译文文件是否应当包含编码声明。例如，如果文件过滤器指定 UTF8 作为译文文件的编码方案，则勾选本选项将始终确保此信息包含在已译文件中。</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T103754Z" creationid="WynnChen" creationdate="20190831T064507Z">
+        <seg>&lt;e0&gt;在 HTML 和 XHTML 文件中新增或重写编码声明&lt;/e0&gt;：译文文件通常需要具有与原文文件（无论是显式定义还是隐含）不同的字符集编码。使用此选项，译者可以指定译文文件是否应当包含编码声明。例如，如果文件筛选器指定 UTF8 作为译文文件的编码方案，则勾选本选项将始终确保此信息包含在已译文件中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6048,8 +6048,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;Warning: &lt;/e0&gt;because the text will segment differently after filter options have been changed, so you may have to start translating from scratch. At the same time the previous valid segments in the project translation memory will turn into orphan segments. If you change segmentation options when a project is open, you must reload the project in order for the changes to take effect.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20190831T160038Z" creationid="WynnChen" creationdate="20190831T160038Z">
-        <seg>&lt;e0&gt;警告：&lt;/e0&gt;由于在更改过滤器选项后文本将以不同的方式进行分割，因此您可能需要从头开始翻译。同时，项目的翻译记忆库中之前的那些有效片段会变为孤立片段。如果在项目开启状态下更改分割规则，则必须重新加载项目才能使更改生效。</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T103754Z" creationid="WynnChen" creationdate="20190831T160038Z">
+        <seg>&lt;e0&gt;警告：&lt;/e0&gt;由于在更改筛选器选项后文本将以不同的方式进行分割，因此您可能需要从头开始翻译。同时，项目的翻译记忆库中之前的那些有效片段会变为孤立片段。如果在项目开启状态下更改分割规则，则必须重新加载项目才能使更改生效。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10221,8 +10221,8 @@ included in conveying the object code work.</seg>
       <tuv lang="en">
         <seg>A step-by-step guide on how to use the Text Extraction and the Text Merging utilities from Rainbow to pre- and post-process files to be translated using OmegaT. These utilities enable OmegaT to be used to translate file formats for which XLIFF conversion filters are available.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20190330T073633Z" creationid="WynnChen" creationdate="20190330T073633Z">
-        <seg>关于如何用 Rainbow 的文本提取和文本合并功能来对要用 OmegaT 翻译的文件进行预处理和后处理的详细指南。这些功能让 OmegaT 可用于翻译那些 XLIFF 转换过滤器可用的文件格式。</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T103754Z" creationid="WynnChen" creationdate="20190330T073633Z">
+        <seg>关于如何用 Rainbow 的文本提取和文本合并功能来对要用 OmegaT 翻译的文件进行预处理和后处理的详细指南。这些功能让 OmegaT 可用于翻译那些 XLIFF 转换筛选器可用的文件格式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13164,8 +13164,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="en">
         <seg>Associating a file extension to a filter is not sufficient to have the filter properly handle the file. The file structure must also be compatible with the filter: even if you associate &lt;l0&gt;.odt&lt;/l0&gt; to the XHMTL filter, the filter will not be able to understand the contents of a LibreOffice Writer file.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T103611Z" creationid="WynnChen" creationdate="20221209T103450Z">
-        <seg>将文件扩展名关联给过滤器并不足与让过滤器正确处理该文件。文件结构还必须与此过滤器兼容。 even if you associate &lt;l0&gt;.odt&lt;/l0&gt; to the XHMTL filter, the filter will not be able to understand the contents of a LibreOffice Writer file.</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T103910Z" creationid="WynnChen" creationdate="20221209T103450Z">
+        <seg>将文件扩展名关联给筛选器并不足以让筛选器正确处理该文件。文件结构还必须与此筛选器兼容。即便将 &lt;l0&gt;.odt&lt;/l0&gt; 关联给 XHMTL 筛选器，这个筛选器也无法理解 LibreOffice Writer 文件的内容。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14160,8 +14160,8 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>Both dialogs allow you to customize the filename patterns for the source and target files associated to this the filter, and select their respective encoding.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T103057Z" creationid="WynnChen" creationdate="20221209T103057Z">
-        <seg>以上两种对话框都允许你自定义此过滤器所关联的原文和译文文件名模式并可以选择各自的编码。</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T103754Z" creationid="WynnChen" creationdate="20221209T103057Z">
+        <seg>以上两种对话框都允许你自定义此筛选器所关联的原文和译文文件名模式并可以选择各自的编码。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14907,8 +14907,8 @@ Buy another drink</seg>
  
 Exception occurred:</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20190326T162439Z" creationid="WynnChen" creationdate="20190326T162439Z">
-        <seg>无法将过滤器重置为默认模式。
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T103754Z" creationid="WynnChen" creationdate="20190326T162439Z">
+        <seg>无法将筛选器重置为默认模式。
 
 发生异常：</seg>
       </tuv>
@@ -16182,8 +16182,8 @@ Exception occurred:</seg>
       <tuv lang="en">
         <seg>Click the &lt;g0&gt;Restore Defaults&lt;/g0&gt; button to reset the file filters to their default settings.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T101517Z" creationid="WynnChen" creationdate="20221209T101428Z">
-        <seg>点击“&lt;g0&gt;恢复默认值&lt;/g0&gt;”按钮可将文件过滤器重置为其默认设置。</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T103754Z" creationid="WynnChen" creationdate="20221209T101428Z">
+        <seg>点击“&lt;g0&gt;恢复默认值&lt;/g0&gt;”按钮可将文件筛选器重置为其默认设置。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18724,9 +18724,9 @@ unpacking, reading or copying.</seg>
         <seg>Customize the processed source filename patterns, the translated file names and their respective encodings.
 Some filters do not allow encoding modifications.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T103509Z" creationid="wynnc" creationdate="20221111T103509Z">
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T103754Z" creationid="wynnc" creationdate="20221111T103509Z">
         <seg>自定义处理的原文文件名模式、译文文件名模式及其各自的编码。
-某些过滤器不允许修改编码。</seg>
+某些筛选器不允许修改编码。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19569,8 +19569,8 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="en">
         <seg>Disable a filter by unchecking its box if you prefer not to translate the files that are associated to it. Their contents will not be displayed for translation.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T101201Z" creationid="WynnChen" creationdate="20221209T101134Z">
-        <seg>如果不想翻译某个过滤器所关联的文件，可以通过取消对其勾选框的勾选来禁用它。这些文件的内容就不会显示供翻译。</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T103754Z" creationid="WynnChen" creationdate="20221209T101134Z">
+        <seg>如果不想翻译某个筛选器所关联的文件，可以通过取消对其勾选框的勾选来禁用它。这些文件的内容就不会显示供翻译。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21120,8 +21120,8 @@ by the Free Software Foundation.</seg>
       <tuv lang="en">
         <seg>Edit Filter Patterns</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
-        <seg>编辑过滤器模式</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T103754Z" creationid="wynnc" creationdate="20190320T045507Z">
+        <seg>编辑筛选器模式</seg>
       </tuv>
     </tu>
     <tu>
@@ -21168,8 +21168,8 @@ by the Free Software Foundation.</seg>
       <tuv lang="en">
         <seg>Edit filter dialog</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
-        <seg>编辑过滤器对话框</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T103754Z">
+        <seg>编辑筛选器对话框</seg>
       </tuv>
     </tu>
     <tu>
@@ -23092,16 +23092,16 @@ a description of how this error was produced.</seg>
       <tuv lang="en">
         <seg>File Filters</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
-        <seg>文件过滤器</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T103754Z" creationid="wynnc" creationdate="20190320T045507Z">
+        <seg>文件筛选器</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>File Filters...</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190324T030504Z" creationid="wynnc" creationdate="20190324T030504Z">
-        <seg>文件过滤器...</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T103754Z" creationid="wynnc" creationdate="20190324T030504Z">
+        <seg>文件筛选器...</seg>
       </tuv>
     </tu>
     <tu>
@@ -23124,8 +23124,8 @@ a description of how this error was produced.</seg>
       <tuv lang="en">
         <seg>File entries include their names, file filter types, their encoding and the number of segments each file contains</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20200123T052101Z" creationid="Fu Rhong" creationdate="20131128T001834Z">
-        <seg>每个文件条目包括其名称、文件过滤器类型、编码和每个文件所包含的片段数</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T103754Z" creationid="Fu Rhong" creationdate="20131128T001834Z">
+        <seg>每个文件条目包括其名称、文件筛选器类型、编码和每个文件所包含的片段数</seg>
       </tuv>
     </tu>
     <tu>
@@ -23140,8 +23140,8 @@ a description of how this error was produced.</seg>
       <tuv lang="en">
         <seg>File filters are either local and specific to a given project, or global and available to all the projects that share a configuration folder.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221206T142402Z" creationid="WynnChen" creationdate="20221206T142402Z">
-        <seg>文件过滤器要么是局部且专属于给定项目的，要么是全局且可用于共享配置文件夹的所有项目的。</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T103754Z" creationid="WynnChen" creationdate="20221206T142402Z">
+        <seg>文件筛选器要么是局部且专属于给定项目的，要么是全局且可用于共享配置文件夹的所有项目的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23332,24 +23332,24 @@ a description of how this error was produced.</seg>
       <tuv lang="en">
         <seg>Filter</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
-        <seg>过滤器</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T103754Z" creationid="wynnc" creationdate="20190320T045507Z">
+        <seg>筛选器</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Filter '{0}' could not be loaded from '{1}'</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20221128T105622Z" creationid="wynnc" creationdate="20190320T045507Z">
-        <seg>无法从“{1}”加载过滤器“{0}”</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T103754Z" creationid="wynnc" creationdate="20190320T045507Z">
+        <seg>无法从“{1}”加载筛选器“{0}”</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Filter Settings</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T103227Z" creationid="wynnc" creationdate="20221111T103227Z">
-        <seg>过滤器设置</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T103754Z" creationid="wynnc" creationdate="20221111T103227Z">
+        <seg>筛选器设置</seg>
       </tuv>
     </tu>
     <tu>
@@ -23364,32 +23364,32 @@ a description of how this error was produced.</seg>
       <tuv lang="en">
         <seg>Filter options</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120201T040850Z">
-        <seg>过滤器选项</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T103754Z">
+        <seg>筛选器选项</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Filter:</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T112517Z" creationid="wynnc" creationdate="20190320T112517Z">
-        <seg>过滤器：</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T103754Z" creationid="wynnc" creationdate="20190320T112517Z">
+        <seg>筛选器：</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Filters in bold are used in the current project.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221206T142849Z" creationid="WynnChen" creationdate="20221206T142849Z">
-        <seg>以粗体显示的过滤器是在当前项目中所使用的。</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T103754Z" creationid="WynnChen" creationdate="20221206T142849Z">
+        <seg>以粗体显示的筛选器是在当前项目中所使用的。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Filters...</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190324T030553Z" creationid="wynnc" creationdate="20190324T030553Z">
-        <seg>过滤器...</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T103754Z" creationid="wynnc" creationdate="20190324T030553Z">
+        <seg>筛选器...</seg>
       </tuv>
     </tu>
     <tu>
@@ -24058,8 +24058,8 @@ know their rights.</seg>
       <tuv lang="en">
         <seg>For example, the pattern &lt;l0&gt;.xhtml&lt;/l0&gt; registered in the XHTML filter matches any file with the &lt;f1&gt;xhtml&lt;/f1&gt; extension. If such a file is found in the &lt;l2/&gt; folder, the file will be handled by the XHTML filter.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T103421Z" creationid="WynnChen" creationdate="20221209T103421Z">
-        <seg>例如，XHTML 过滤器中注册的模式 &lt;l0&gt;.xhtml&lt;/l0&gt; 会匹配任何具有 &lt;f1&gt;xhtml&lt;/f1&gt; 扩展名的文件。如果在 &lt;l2/&gt; 文件夹中找到这样的文件，那么此文件就会由 XHTML 过滤器处理。</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T103754Z" creationid="WynnChen" creationdate="20221209T103421Z">
+        <seg>例如，XHTML 筛选器中注册的模式 &lt;l0&gt;.xhtml&lt;/l0&gt; 会匹配任何具有 &lt;f1&gt;xhtml&lt;/f1&gt; 扩展名的文件。如果在 &lt;l2/&gt; 文件夹中找到这样的文件，那么此文件就会由 XHTML 筛选器处理。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24114,8 +24114,8 @@ know their rights.</seg>
       <tuv lang="en">
         <seg>For file formats and filters that support comments (e.g. PO-filter), displays the comments for the translator concerning the active segment, if any.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20221125T053321Z" creationid="wynnc" creationdate="20221125T053219Z">
-        <seg>对于支持注释的文件格式和过滤器（例如 PO 过滤器），为译者显示关于当前活动片段的注释（如果有）。</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T103754Z" creationid="wynnc" creationdate="20221125T053219Z">
+        <seg>对于支持注释的文件格式和筛选器（例如 PO 筛选器），为译者显示关于当前活动片段的注释（如果有）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25095,16 +25095,16 @@ authors of previous versions.</seg>
       <tuv lang="en">
         <seg>Global File &amp;Filters...</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T064323Z" creationid="WynnChen" creationdate="20221129T064017Z">
-        <seg>全局文件过滤器(&amp;F)...</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T103754Z" creationid="WynnChen" creationdate="20221129T064017Z">
+        <seg>全局文件筛选器(&amp;F)...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Global File Filters</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T103514Z" creationid="wynnc" creationdate="20221111T103514Z">
-        <seg>全局文件过滤器</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T103754Z" creationid="wynnc" creationdate="20221111T103514Z">
+        <seg>全局文件筛选器</seg>
       </tuv>
     </tu>
     <tu>
@@ -26399,8 +26399,8 @@ prior to 60 days after the cessation.</seg>
       <tuv lang="en">
         <seg>Howto - Creating a new file filter</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20200731T011847Z" creationid="xulihang" creationdate="20180425T043118Z">
-        <seg>指南：创建新的文件过滤器</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T103754Z" creationid="xulihang" creationdate="20180425T043118Z">
+        <seg>指南：创建新的文件筛选器</seg>
       </tuv>
     </tu>
     <tu>
@@ -26931,8 +26931,8 @@ need not be entered.)</seg>
       <tuv lang="en">
         <seg>If a file does not load into the &lt;g0&gt;Editor&lt;/g0&gt; pane, then it could be that it is in a format that doesn't work in OmegaT. See &lt;m1&gt;&lt;g2&gt;Options&lt;/g2&gt;&lt;g3&gt;Preferences...&lt;/g3&gt;&lt;g4&gt;File Filters&lt;/g4&gt;&lt;/m1&gt; for a list of file formats that OmegaT can handle.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20200120T014811Z" creationid="WynnChen" creationdate="20200120T014805Z">
-        <seg>如果文件没有加载到&lt;g0&gt;编辑器&lt;/g0&gt;窗格中，则可能因为此文件是 OmegaT 无法处理的格式。有关 OmegaT 能够处理的文件格式清单，参见&lt;m1&gt;&lt;g2&gt;选项&lt;/g2&gt;&lt;g3&gt;首选项...&lt;/g3&gt;&lt;g4&gt;文件过滤器&lt;/g4&gt;&lt;/m1&gt;。</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T103754Z" creationid="WynnChen" creationdate="20200120T014805Z">
+        <seg>如果文件没有加载到&lt;g0&gt;编辑器&lt;/g0&gt;窗格中，则可能因为此文件是 OmegaT 无法处理的格式。有关 OmegaT 能够处理的文件格式清单，参见&lt;m1&gt;&lt;g2&gt;选项&lt;/g2&gt;&lt;g3&gt;首选项...&lt;/g3&gt;&lt;g4&gt;文件筛选器&lt;/g4&gt;&lt;/m1&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30466,8 +30466,8 @@ patent against the party.</seg>
       <tuv lang="en">
         <seg>In this mode, OmegaT will align files found in the &lt;f0&gt;/source/&lt;/f0&gt; folder of the project with the contents found at the specified location. The resulting TMX is stored in the &lt;f1&gt;/omegat/&lt;/f1&gt; folder under the name &lt;f2&gt;align.tmx&lt;/f2&gt;. Which files are used for alignment depends on if the file filter supports it. Some supported filters: ILIAS Language File, Java(TM) Resource Bundles, Key=Value Text, Magento CE Locale CSV, MoodlePHP, Mozilla DTD, Mozilla FTL, PO, RC, SubRip Subtitles, Windows Resources</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20200725T154323Z" creationid="WynnChen" creationdate="20200725T154159Z">
-        <seg>在此模式下，OmegaT 会将出现在项目的 &lt;f0&gt;/source/&lt;/f0&gt; 目录中的文件与在指定位置出现的内容对齐。生成的 TMX 存放在 &lt;f1&gt;/omegat/&lt;/f1&gt; 文件夹下，名称为 &lt;f2&gt;align.tmx&lt;/f2&gt;。哪些文件会用来进行对齐取决于文件过滤器是否支持它。一些已支持的过滤器有：ILIAS 语言文件、Java(TM) 资源包、键=值文本、Magento CE 语言环境 CSV、MoodlePHP、Mozilla DTD、Mozilla FTL、PO、RC、SubRip 字幕、Windows 资源</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T103754Z" creationid="WynnChen" creationdate="20200725T154159Z">
+        <seg>在此模式下，OmegaT 会将出现在项目的 &lt;f0&gt;/source/&lt;/f0&gt; 目录中的文件与在指定位置出现的内容对齐。生成的 TMX 存放在 &lt;f1&gt;/omegat/&lt;/f1&gt; 文件夹下，名称为 &lt;f2&gt;align.tmx&lt;/f2&gt;。哪些文件会用来进行对齐取决于文件筛选器是否支持它。一些已支持的筛选器有：ILIAS 语言文件、Java(TM) 资源包、键=值文本、Magento CE 语言环境 CSV、MoodlePHP、Mozilla DTD、Mozilla FTL、PO、RC、SubRip 字幕、Windows 资源</seg>
       </tuv>
     </tu>
     <tu>
@@ -32402,8 +32402,8 @@ itself on the first run. Later calls do not need to be online.</seg>
       <tuv lang="en">
         <seg>Java Resource Bundles Filter Options</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190322T065040Z" creationid="wynnc" creationdate="20190322T065040Z">
-        <seg>Java 资源包过滤器选项</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T103754Z" creationid="wynnc" creationdate="20190322T065040Z">
+        <seg>Java 资源包筛选器选项</seg>
       </tuv>
     </tu>
     <tu>
@@ -34139,16 +34139,16 @@ later version.</seg>
       <tuv lang="en">
         <seg>Local File &amp;Filters...</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20221128T110020Z" creationid="wynnc" creationdate="20221128T110020Z">
-        <seg>局部文件过滤器(&amp;F)...</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T103754Z" creationid="wynnc" creationdate="20221128T110020Z">
+        <seg>局部文件筛选器(&amp;F)...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Local File Filters</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20221128T103434Z" creationid="wynnc" creationdate="20221111T103544Z">
-        <seg>局部文件过滤器</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T103754Z" creationid="wynnc" creationdate="20221111T103544Z">
+        <seg>局部文件筛选器</seg>
       </tuv>
     </tu>
     <tu>
@@ -35960,16 +35960,16 @@ later version.</seg>
       <tuv lang="en">
         <seg>Modified global file filter preferences are saved in &lt;l0/&gt;, in the configuration folder. See &lt;l1/&gt; for details. Deleting that file also resets the filter preferences.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T101627Z" creationid="WynnChen" creationdate="20221209T101627Z">
-        <seg>修改过的全局文件过滤器首选项保存在配置文件夹的 &lt;l0/&gt; 中。详情请参阅&lt;l1/&gt;。删除此文件也会重置过滤器首选项。</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T103754Z" creationid="WynnChen" creationdate="20221209T101627Z">
+        <seg>修改过的全局文件筛选器首选项保存在配置文件夹的 &lt;l0/&gt; 中。详情请参阅&lt;l1/&gt;。删除此文件也会重置筛选器首选项。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Modified local file filters are saved in &lt;l0/&gt;, in the project folder. See &lt;l1/&gt; for details. Deleting that file also resets the filter preferences and reverts the project to global file filters.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T101721Z" creationid="WynnChen" creationdate="20221209T101721Z">
-        <seg>修改过的局部文件过滤器首选项保存在项目文件夹的 &lt;l0/&gt; 中。详情请参阅&lt;l1/&gt;。删除此文件也会重置过滤器首选项并将项目恢复为使用全局文件过滤器。</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T103754Z" creationid="WynnChen" creationdate="20221209T101721Z">
+        <seg>修改过的局部文件筛选器首选项保存在项目文件夹的 &lt;l0/&gt; 中。详情请参阅&lt;l1/&gt;。删除此文件也会重置筛选器首选项并将项目恢复为使用全局文件筛选器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36056,8 +36056,8 @@ later version.</seg>
       <tuv lang="en">
         <seg>Moodle PHP Filter Options</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190322T063558Z" creationid="wynnc" creationdate="20190322T063558Z">
-        <seg>Moodle PHP 过滤器选项</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T103754Z" creationid="wynnc" creationdate="20190322T063558Z">
+        <seg>Moodle PHP 筛选器选项</seg>
       </tuv>
     </tu>
     <tu>
@@ -36489,8 +36489,8 @@ appropriate location such as the Applications folder.</seg>
       <tuv lang="en">
         <seg>Mozilla DTD Filter Options</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190322T063724Z" creationid="wynnc" creationdate="20190322T063724Z">
-        <seg>Mozilla DTD 过滤器选项</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T103754Z" creationid="wynnc" creationdate="20190322T063724Z">
+        <seg>Mozilla DTD 筛选器选项</seg>
       </tuv>
     </tu>
     <tu>
@@ -36505,8 +36505,8 @@ appropriate location such as the Applications folder.</seg>
       <tuv lang="en">
         <seg>Mozilla FTL Filter Options</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20200730T052111Z" creationid="WynnChen" creationdate="20200730T052111Z">
-        <seg>Mozilla FTL 过滤器选项</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T103754Z" creationid="WynnChen" creationdate="20200730T052111Z">
+        <seg>Mozilla FTL 筛选器选项</seg>
       </tuv>
     </tu>
     <tu>
@@ -38586,8 +38586,8 @@ combination as such.</seg>
       <tuv lang="en">
         <seg>Okapi Filters Plugin</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20200117T020747Z" creationid="18261" creationdate="20180413T022318Z">
-        <seg>Okapi 过滤器插件</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T103754Z" creationid="18261" creationdate="20180413T022318Z">
+        <seg>Okapi 筛选器插件</seg>
       </tuv>
     </tu>
     <tu>
@@ -41112,8 +41112,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="en">
         <seg>Open XML Filter Options</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190322T074957Z" creationid="wynnc" creationdate="20190322T074957Z">
-        <seg>Open XML 过滤器选项</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T103754Z" creationid="wynnc" creationdate="20190322T074957Z">
+        <seg>Open XML 筛选器选项</seg>
       </tuv>
     </tu>
     <tu>
@@ -41288,8 +41288,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="en">
         <seg>OpenDocument Filter Options</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190322T072722Z" creationid="wynnc" creationdate="20190322T072722Z">
-        <seg>OpenDocument 过滤器选项</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T103754Z" creationid="wynnc" creationdate="20190322T072722Z">
+        <seg>OpenDocument 筛选器选项</seg>
       </tuv>
     </tu>
     <tu>
@@ -41968,8 +41968,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="en">
         <seg>PO Filter Options</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
-        <seg>PO 过滤器选项</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T103754Z" creationid="wynnc" creationdate="20190320T045507Z">
+        <seg>PO 筛选器选项</seg>
       </tuv>
     </tu>
     <tu>
@@ -44072,8 +44072,8 @@ additional steps need to be taken.</seg>
       <tuv lang="en">
         <seg>Provides filters for handling further file formats, including Trados TTX, and Markdown.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T072515Z" creationid="wynnc" creationdate="20210504T072515Z">
-        <seg>提供用于处理其他文件格式的过滤器，包括 Trados TTX 和 Markdown。</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T103754Z" creationid="wynnc" creationdate="20210504T072515Z">
+        <seg>提供用于处理其他文件格式的筛选器，包括 Trados TTX 和 Markdown。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46543,8 +46543,8 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Save changes to filter settings?</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190324T032130Z" creationid="wynnc" creationdate="20190324T032130Z">
-        <seg>保存对过滤器设置的更改？</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T103754Z" creationid="wynnc" creationdate="20190324T032130Z">
+        <seg>保存对筛选器设置的更改？</seg>
       </tuv>
     </tu>
     <tu>
@@ -48046,8 +48046,8 @@ When using regular expressions, the replacement string supports references to gr
       <tuv lang="en">
         <seg>Select a filter and click on Edit... or Options... to customize it. Uncheck the box to disable it.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T103701Z" creationid="wynnc" creationdate="20221111T103701Z">
-        <seg>选定一个过滤器并点击“编辑...”或“选项...”来对它进行自定义。取消勾选可将其禁用。</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T103754Z" creationid="wynnc" creationdate="20221111T103701Z">
+        <seg>选定一个筛选器并点击“编辑...”或“选项...”来对它进行自定义。取消勾选可将其禁用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48630,8 +48630,8 @@ When using regular expressions, the replacement string supports references to gr
       <tuv lang="en">
         <seg>Several filters (text files, XHTML files, HTML and XHTML files, OpenDocument files and Microsoft Open XML files) have one or more specific options. To modify the options, select the filter in the list and click &lt;e0&gt;Options&lt;/e0&gt;. The available options are:</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20190831T054740Z" creationid="WynnChen" creationdate="20190831T054740Z">
-        <seg>好些过滤器（文本文件、XHTML 文件、HTML 和 XHTML 文件、OpenDocument 文件和 Microsoft Open XML 文件）有一个或多个特定选项。要修改这些选项，在列表中选定此过滤器并点击&lt;e0&gt;选项&lt;/e0&gt;。可用选项包括：</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T103754Z" creationid="WynnChen" creationdate="20190831T054740Z">
+        <seg>好些筛选器（文本文件、XHTML 文件、HTML 和 XHTML 文件、OpenDocument 文件和 Microsoft Open XML 文件）有一个或多个特定选项。要修改这些选项，在列表中选定此筛选器并点击&lt;e0&gt;选项&lt;/e0&gt;。可用选项包括：</seg>
       </tuv>
     </tu>
     <tu>
@@ -49336,8 +49336,8 @@ of the GPL, as needed to protect the freedom of users.</seg>
       <tuv lang="en">
         <seg>Some filters provide a &lt;g0&gt;Options...&lt;/g0&gt; button to further customize their settings.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T101329Z" creationid="WynnChen" creationdate="20221209T101329Z">
-        <seg>一些过滤器提供了“&lt;g0&gt;选项...&lt;/g0&gt;”按钮来进一步自定义其设置。</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T103754Z" creationid="WynnChen" creationdate="20221209T101329Z">
+        <seg>一些筛选器提供了“&lt;g0&gt;选项...&lt;/g0&gt;”按钮来进一步自定义其设置。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49496,8 +49496,8 @@ of the GPL, as needed to protect the freedom of users.</seg>
       <tuv lang="en">
         <seg>Sometimes you may wish to rename the files you translate automatically, for example adding a language code after the file name. The target filename pattern uses a special syntax, so if you want to edit this field, you must click &lt;e0&gt;Edit...&lt;/e0&gt;and use the Edit Pattern Dialog. If you want to revert to the filter's default configuration, click &lt;e1&gt;Defaults.&lt;/e1&gt; You can also modify the name directly in the target filename pattern field of the file filters dialog. The Edit Pattern Dialog offers among others the following options:</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20190831T151640Z" creationid="WynnChen" creationdate="20190831T151640Z">
-        <seg>有时候你可能希望自动重命名所翻译的文件，例如在文件名后添加语言代码。译文文件名模式使用特殊的语法，因此如果要编辑此字段，你必须点击&lt;e0&gt;编辑...&lt;/e0&gt;并使用编辑模式对话框。如果要还原为过滤器的默认配置，点击&lt;e1&gt;恢复默认值&lt;/e1&gt;。你还可以在文件过滤器对话框的译文文件名模式字段中直接修改名称。编辑模式对话框提供了以下选项：</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T103754Z" creationid="WynnChen" creationdate="20190831T151640Z">
+        <seg>有时候你可能希望自动重命名所翻译的文件，例如在文件名后添加语言代码。译文文件名模式使用特殊的语法，因此如果要编辑此字段，你必须点击&lt;e0&gt;编辑...&lt;/e0&gt;并使用编辑模式对话框。如果要还原为筛选器的默认配置，点击&lt;e1&gt;恢复默认值&lt;/e1&gt;。你还可以在文件筛选器对话框的译文文件名模式字段中直接修改名称。编辑模式对话框提供了以下选项：</seg>
       </tuv>
     </tu>
     <tu>
@@ -49762,6 +49762,14 @@ of the GPL, as needed to protect the freedom of users.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T082442Z" creationid="WynnChen" creationdate="20221129T082442Z">
         <seg>原文文件名模式：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source filename patterns use wild card characters : the &lt;l0&gt;*&lt;/l0&gt; character matches zero or more characters, while the &lt;l1&gt;?&lt;/l1&gt; character matches exactly one character.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T104039Z" creationid="WynnChen" creationdate="20221209T104039Z">
+        <seg>原文文件名模式使用通配符： &lt;l0&gt;*&lt;/l0&gt; 字符匹配零个或更多个字符，而 &lt;l1&gt;?&lt;/l1&gt; 字符只匹配一个字符。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51894,8 +51902,8 @@ material under section 10.</seg>
       <tuv lang="en">
         <seg>Text Filter Options</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190322T064548Z" creationid="wynnc" creationdate="20190320T045507Z">
-        <seg>纯文本过滤器选项</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T103754Z" creationid="wynnc" creationdate="20190320T045507Z">
+        <seg>纯文本筛选器选项</seg>
       </tuv>
     </tu>
     <tu>
@@ -52654,8 +52662,8 @@ software and other kinds of works.</seg>
       <tuv lang="en">
         <seg>The Java Resource Bundles filter threw an exception:</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190322T065411Z" creationid="wynnc" creationdate="20190322T065411Z">
-        <seg>Java 资源包过滤器抛出异常：</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T103754Z" creationid="wynnc" creationdate="20190322T065411Z">
+        <seg>Java 资源包筛选器抛出异常：</seg>
       </tuv>
     </tu>
     <tu>
@@ -52790,8 +52798,8 @@ software and other kinds of works.</seg>
       <tuv lang="en">
         <seg>The Moodle PHP filter threw an exception:</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190322T063711Z" creationid="wynnc" creationdate="20190322T063711Z">
-        <seg>Moodle PHP 过滤器抛出异常：</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T103754Z" creationid="wynnc" creationdate="20190322T063711Z">
+        <seg>Moodle PHP 筛选器抛出异常：</seg>
       </tuv>
     </tu>
     <tu>
@@ -52806,16 +52814,16 @@ software and other kinds of works.</seg>
       <tuv lang="en">
         <seg>The Mozilla DTD filter threw an exception:</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190322T063816Z" creationid="wynnc" creationdate="20190322T063816Z">
-        <seg>Mozilla DTD 过滤器抛出异常：</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T103754Z" creationid="wynnc" creationdate="20190322T063816Z">
+        <seg>Mozilla DTD 筛选器抛出异常：</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>The Mozilla FTL filter threw an exception:</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20200730T052123Z" creationid="WynnChen" creationdate="20200730T052123Z">
-        <seg>The Mozilla FTL 过滤器抛出异常：</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T103754Z" creationid="WynnChen" creationdate="20200730T052123Z">
+        <seg>The Mozilla FTL 筛选器抛出异常：</seg>
       </tuv>
     </tu>
     <tu>
@@ -52942,8 +52950,8 @@ software and other kinds of works.</seg>
       <tuv lang="en">
         <seg>The PO filter threw an exception:</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190322T063403Z" creationid="wynnc" creationdate="20190320T045507Z">
-        <seg>PO 过滤器抛出异常：</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T103754Z" creationid="wynnc" creationdate="20190320T045507Z">
+        <seg>PO 筛选器抛出异常：</seg>
       </tuv>
     </tu>
     <tu>
@@ -58348,8 +58356,8 @@ the server.</seg>
       <tuv lang="en">
         <seg>This dialog enables you to specify the source filename patterns for files to be processed by the filter, customize the filenames of translated files and select which encodings should be used for loading the source file and saving the translation. To modify a file filter pattern, either modify the fields directly or click &lt;e0&gt;Edit&lt;/e0&gt;. To add a new file filter pattern, click &lt;e1&gt;Add&lt;/e1&gt;. The same dialog is used to add a pattern or to edit a particular pattern. The dialog includes a special target filename pattern editor, which you can use to customize the names of output files.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20190831T093301Z" creationid="WynnChen" creationdate="20190831T093301Z">
-        <seg>此对话框让您能够指定要由过滤器处理的原文文件的文件名模式、自定义已译文件的文件名和选择用什么编码来加载原文文件和保存翻译。要修改文件过滤器模式，请直接修改字段名或点击&lt;e0&gt;编辑&lt;/e0&gt;。要添加新的文件过滤器模式，点击&lt;e1&gt;添加&lt;/e1&gt;。添加模式和编辑特定模式使用相同的对话框。该对话框包含一个专门的译文文件名模式编辑器，您可以使用它来自定义输出文件的名称。</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T103754Z" creationid="WynnChen" creationdate="20190831T093301Z">
+        <seg>此对话框让您能够指定要由筛选器处理的原文文件的文件名模式、自定义已译文件的文件名和选择用什么编码来加载原文文件和保存翻译。要修改文件筛选器模式，请直接修改字段名或点击&lt;e0&gt;编辑&lt;/e0&gt;。要添加新的文件筛选器模式，点击&lt;e1&gt;添加&lt;/e1&gt;。添加模式和编辑特定模式使用相同的对话框。该对话框包含一个专门的译文文件名模式编辑器，您可以使用它来自定义输出文件的名称。</seg>
       </tuv>
     </tu>
     <tu>
@@ -58380,8 +58388,8 @@ the server.</seg>
       <tuv lang="en">
         <seg>This dialog lists the file filters available. The filters used by the current project are displayed in bold. If you prefer not to use OmegaT to translate files of a certain type, you can turn off the corresponding filter by deactivating the check box beside its name. OmegaT will then omit the corresponding files when loading projects, and will copy them unmodified to the target folder when creating target documents. When you wish to use the filter again, just tick the check box. Click &lt;e0&gt;Defaults&lt;/e0&gt; to reset the file filters to the default settings. To edit the files and encodings a filter is used for, select the filter in the list and click &lt;e1&gt;Edit.&lt;/e1&gt;</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20190831T050057Z" creationid="WynnChen" creationdate="20190831T050057Z">
-        <seg>此对话框列出了可用的文件过滤器。当前项目所使用的过滤器以粗体显示。如果你不想用 OmegaT 翻译某种类型的文件，可以通过对其名称旁边的复选框的勾选来关闭相应的过滤器。然后，OmegaT 在加载项目时会忽略相应的文件，并在创建译文文档时不加修改地将它们复制到译文文件夹。如果你想再次使用此过滤器，只需要勾选相应复选框即可。点击&lt;e0&gt;默认&lt;/e0&gt;可以将文件过滤器重置为默认设置。要编辑过滤器所针对的文件和编码，请在列表中选中此过滤器然后点击&lt;e1&gt;编辑&lt;/e1&gt;。</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T103754Z" creationid="WynnChen" creationdate="20190831T050057Z">
+        <seg>此对话框列出了可用的文件筛选器。当前项目所使用的筛选器以粗体显示。如果你不想用 OmegaT 翻译某种类型的文件，可以通过对其名称旁边的复选框的勾选来关闭相应的筛选器。然后，OmegaT 在加载项目时会忽略相应的文件，并在创建译文文档时不加修改地将它们复制到译文文件夹。如果你想再次使用此筛选器，只需要勾选相应复选框即可。点击&lt;e0&gt;默认&lt;/e0&gt;可以将文件筛选器重置为默认设置。要编辑筛选器所针对的文件和编码，请在列表中选中此筛选器然后点击&lt;e1&gt;编辑&lt;/e1&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -59316,8 +59324,8 @@ the server.</seg>
       <tuv lang="en">
         <seg>This parameter file contains customized file filters. See &lt;l0/&gt; for details.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221206T141041Z" creationid="WynnChen" creationdate="20221206T141041Z">
-        <seg>这个参数文件包含自定义的文件过滤器。详情请参阅&lt;l0/&gt;。</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T103754Z" creationid="WynnChen" creationdate="20221206T141041Z">
+        <seg>这个参数文件包含自定义的文件筛选器。详情请参阅&lt;l0/&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -59884,8 +59892,8 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="en">
         <seg>To add a filter pattern, click on &lt;g0&gt;Add...&lt;/g0&gt; to open a similar dialog.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T102953Z" creationid="WynnChen" creationdate="20221209T102953Z">
-        <seg>要添加过滤器模式，点击“&lt;g0&gt;添加...&lt;/g0&gt;”来打开一个类似的对话框。</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T103754Z" creationid="WynnChen" creationdate="20221209T102953Z">
+        <seg>要添加筛选器模式，点击“&lt;g0&gt;添加...&lt;/g0&gt;”来打开一个类似的对话框。</seg>
       </tuv>
     </tu>
     <tu>
@@ -59948,8 +59956,8 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="en">
         <seg>To associate a filter to a file, OmegaT checks its file extension and attempts to match it to a source filename patterns in a filter.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T103249Z" creationid="WynnChen" creationdate="20221209T103249Z">
-        <seg>为了将过滤器和文件关联起来，OmegaT 会检查其文件扩展名并尝试与过滤器中的原文文件名模式进行匹配。</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T103754Z" creationid="WynnChen" creationdate="20221209T103249Z">
+        <seg>为了将筛选器和文件关联起来，OmegaT 会检查其文件扩展名并尝试与筛选器中的原文文件名模式进行匹配。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60517,8 +60525,8 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
       <tuv lang="en">
         <seg>To modify the file extensions, target file name and encodings associated to a filter, select it in the list and click the &lt;g0&gt;Edit...&lt;/g0&gt; button.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T101259Z" creationid="WynnChen" creationdate="20221209T101156Z">
-        <seg>要修改某个过滤器所关联的文件扩展名、译文文件名和编码，请在列表中选择它并单击“&lt;g0&gt;编辑...&lt;/g0&gt;”按钮。</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T103754Z" creationid="WynnChen" creationdate="20221209T101156Z">
+        <seg>要修改某个筛选器所关联的文件扩展名、译文文件名和编码，请在列表中选择它并单击“&lt;g0&gt;编辑...&lt;/g0&gt;”按钮。</seg>
       </tuv>
     </tu>
     <tu>
@@ -61916,8 +61924,8 @@ Exact searches match the whole search string.</seg>
       <tuv lang="en">
         <seg>Typing any text will open a &lt;g0&gt;Filter&lt;/g0&gt; field where parts of filenames can be entered. You can select a file with &lt;k1&gt;Up&lt;/k1&gt; and &lt;k2&gt;Down&lt;/k2&gt; keys, and open it for translation by pressing &lt;k3&gt;Enter&lt;/k3&gt;</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20200123T051745Z" creationid="WynnChen" creationdate="20200123T051745Z">
-        <seg>输入任何文本都会打开&lt;g0&gt;过滤器&lt;/g0&gt;字段，其中可以输入文件名片段。可以用&lt;k1&gt;上&lt;/k1&gt;和&lt;k2&gt;下&lt;/k2&gt;方向键来选择文件，并按 &lt;k3&gt;Enter&lt;/k3&gt; 键将其打开进行翻译。</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T103754Z" creationid="WynnChen" creationdate="20200123T051745Z">
+        <seg>输入任何文本都会打开&lt;g0&gt;筛选器&lt;/g0&gt;字段，其中可以输入文件名片段。可以用&lt;k1&gt;上&lt;/k1&gt;和&lt;k2&gt;下&lt;/k2&gt;方向键来选择文件，并按 &lt;k3&gt;Enter&lt;/k3&gt; 键将其打开进行翻译。</seg>
       </tuv>
     </tu>
     <tu>
@@ -62158,8 +62166,8 @@ Use Tools &gt; Check Issues... to correct the tag errors and try again.</seg>
       <tuv lang="en">
         <seg>Unable to parse filters configuration file</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
-        <seg>无法解析过滤器配置文件</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T103754Z" creationid="wynnc" creationdate="20190320T045507Z">
+        <seg>无法解析筛选器配置文件</seg>
       </tuv>
     </tu>
     <tu>
@@ -62222,8 +62230,8 @@ Use Tools &gt; Check Issues... to correct the tag errors and try again.</seg>
       <tuv lang="en">
         <seg>Unable to save filters configuration file</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
-        <seg>无法保存过滤器配置文件</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T103754Z" creationid="wynnc" creationdate="20190320T045507Z">
+        <seg>无法保存筛选器配置文件</seg>
       </tuv>
     </tu>
     <tu>
@@ -63508,8 +63516,8 @@ OmegaT 选项：
       <tuv lang="en">
         <seg>Use &lt;a0&gt;OmegaT’s&lt;/a0&gt; default filter (PDF input), translate, create a target file (it will be a plain text file), add relevant formatting and items manually.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T125047Z" creationid="Administrator" creationdate="20180411T130530Z">
-        <seg>使用 &lt;a0&gt;OmegaT&lt;/a0&gt; 的默认过滤器 （PDF输入），翻译、创建译文文件（将会是纯文本文件），手动添加相关的格式和项目。</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T103754Z" creationid="Administrator" creationdate="20180411T130530Z">
+        <seg>使用 &lt;a0&gt;OmegaT&lt;/a0&gt; 的默认筛选器 （PDF输入），翻译、创建译文文件（将会是纯文本文件），手动添加相关的格式和项目。</seg>
       </tuv>
     </tu>
     <tu>
@@ -63692,8 +63700,8 @@ OmegaT 选项：
       <tuv lang="en">
         <seg>Use local file fil&amp;ter settings</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T082427Z" creationid="WynnChen" creationdate="20221129T082427Z">
-        <seg>使用局部文件过滤器设置(&amp;T)</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T103754Z" creationid="WynnChen" creationdate="20221129T082427Z">
+        <seg>使用局部文件筛选器设置(&amp;T)</seg>
       </tuv>
     </tu>
     <tu>
@@ -63772,8 +63780,8 @@ OmegaT 选项：
       <tuv lang="en">
         <seg>Use the Iceni Infix filter. See &lt;u0&gt;Howto - Translating PDF files with Iceni Infix and OmegaT&lt;/u0&gt;.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190902T100200Z" creationid="wynnc" creationdate="20190902T100200Z">
-        <seg>使用 Iceni Infix 过滤器。参见&lt;u0&gt;指南 - 用 Iceni Infix 和 OmegaT 翻译 PDF 文件&lt;/u0&gt;。</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T103754Z" creationid="wynnc" creationdate="20190902T100200Z">
+        <seg>使用 Iceni Infix 筛选器。参见&lt;u0&gt;指南 - 用 Iceni Infix 和 OmegaT 翻译 PDF 文件&lt;/u0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -64474,8 +64482,8 @@ searchable without subscription:</seg>
       <tuv lang="en">
         <seg>Utility for converting Trados TagEditor (TTX) files to an intermediate format, enabling them to be translated in OmegaT. This collection of scripts may be useful to scripters with a knowledge of tcl/tk. Other users are advised to use the &lt;a0&gt;Okapi Filters Plugin&lt;/a0&gt; instead. Toxic was contributed by Marc Prior.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20200117T022532Z" creationid="WynnChen" creationdate="20200117T022236Z">
-        <seg>工具程序，用来将 Trados TagEditor（TTX）文件转换为一种中间格式，使其可以在 OmegaT 中进行翻译。这系列脚本对于熟悉 tcl/tk 的脚本编写者可能会比较有用。其他用户则建议改用 &lt;a0&gt;Okapi 过滤器插件&lt;/a0&gt;。Toxic 由 Marc Prior 提供。</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T103754Z" creationid="WynnChen" creationdate="20200117T022236Z">
+        <seg>工具程序，用来将 Trados TagEditor（TTX）文件转换为一种中间格式，使其可以在 OmegaT 中进行翻译。这系列脚本对于熟悉 tcl/tk 的脚本编写者可能会比较有用。其他用户则建议改用 &lt;a0&gt;Okapi 筛选器插件&lt;/a0&gt;。Toxic 由 Marc Prior 提供。</seg>
       </tuv>
     </tu>
     <tu>
@@ -65181,8 +65189,8 @@ of selecting, obtaining and installing it.</seg>
       <tuv lang="en">
         <seg>When OmegaT encounters a file in its source folder, it attempts to select the filter based upon the file's extension. More precisely, OmegaT attempts to match each filter's source filename patterns against the filename. For example, the pattern &lt;l0&gt;*.xhtml &lt;/l0&gt;matches any file with the &lt;l1&gt;.xhtml&lt;/l1&gt; extension. If the appropriate filter is found, the file is assigned to it for processing. For example, by default, the XHTML filter is used to process files with the .xhtml extension. You can change or add filename patterns for files to be handled by each file filter. Source filename patterns use wild card characters similar to those used in &lt;e2&gt;Searches. &lt;/e2&gt;The '*' character matches zero or more characters. The '?' character matches exactly one character. All other characters represent themselves. For example, if you wish the text filter to handle readme files (&lt;l3&gt;readme, read.me&lt;/l3&gt;, and &lt;l4&gt;readme.txt&lt;/l4&gt;) you should use the pattern &lt;l5&gt;read*&lt;/l5&gt;.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20190831T101756Z" creationid="WynnChen" creationdate="20190831T101756Z">
-        <seg>当 OmegaT 在其原文文件夹中遇到文件时，它会尝试根据文件的扩展名选择过滤器。更确切地说，OmegaT 尝试将每个过滤器的原文文件名模式与文件名进行匹配。例如，&lt;l0&gt;*.xhtml &lt;/l0&gt;模式将会匹配任何扩展名为 &lt;l1&gt;.xhtml&lt;/l1&gt; 的文件。如果找到了合适的过滤器，则将文件分配给它进行处理。例如，默认情况下，XHTML 过滤器用于处理扩展名为 .xhtml 的文件。您可以更改或添加由每个文件过滤器处理的文件的文件名模式。原文文件名模式使用的通配符类似于&lt;e2&gt;搜索&lt;/e2&gt;中所用的。“*”字符匹配零个或多个字符。“?”字符只匹配一个字符。所有其他字符代表其自身。例如，如果您希望文本过滤器处理 readme 文件（&lt;l3&gt;readme、read.me&lt;/l3&gt; 和 &lt;l4&gt;readme.txt&lt;/l4&gt;），那么您应该使用模式 &lt;l5&gt;read*&lt;/l5&gt;。</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T103754Z" creationid="WynnChen" creationdate="20190831T101756Z">
+        <seg>当 OmegaT 在其原文文件夹中遇到文件时，它会尝试根据文件的扩展名选择筛选器。更确切地说，OmegaT 尝试将每个筛选器的原文文件名模式与文件名进行匹配。例如，&lt;l0&gt;*.xhtml &lt;/l0&gt;模式将会匹配任何扩展名为 &lt;l1&gt;.xhtml&lt;/l1&gt; 的文件。如果找到了合适的筛选器，则将文件分配给它进行处理。例如，默认情况下，XHTML 筛选器用于处理扩展名为 .xhtml 的文件。您可以更改或添加由每个文件筛选器处理的文件的文件名模式。原文文件名模式使用的通配符类似于&lt;e2&gt;搜索&lt;/e2&gt;中所用的。“*”字符匹配零个或多个字符。“?”字符只匹配一个字符。所有其他字符代表其自身。例如，如果您希望文本筛选器处理 readme 文件（&lt;l3&gt;readme、read.me&lt;/l3&gt; 和 &lt;l4&gt;readme.txt&lt;/l4&gt;），那么您应该使用模式 &lt;l5&gt;read*&lt;/l5&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -66582,8 +66590,8 @@ Your page is not found</seg>
       <tuv lang="en">
         <seg>XHTML Filter Options</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T064655Z" creationid="wynnc" creationdate="20190323T064655Z">
-        <seg>XHTML 过滤器选项</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T103754Z" creationid="wynnc" creationdate="20190323T064655Z">
+        <seg>XHTML 筛选器选项</seg>
       </tuv>
     </tu>
     <tu>
@@ -66614,8 +66622,8 @@ Your page is not found</seg>
       <tuv lang="en">
         <seg>XLIFF Filter Options</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190322T073751Z" creationid="wynnc" creationdate="20190320T045507Z">
-        <seg>XLIFF 过滤器选项</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T103754Z" creationid="wynnc" creationdate="20190320T045507Z">
+        <seg>XLIFF 筛选器选项</seg>
       </tuv>
     </tu>
     <tu>
@@ -67064,8 +67072,8 @@ from there.</seg>
       <tuv lang="en">
         <seg>You can change or add filename patterns to associate different files to a filter.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T103456Z" creationid="WynnChen" creationdate="20221209T103446Z">
-        <seg>你可以修改或添加文件名模式来将不同的文件关联给过滤器。</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T103754Z" creationid="WynnChen" creationdate="20221209T103446Z">
+        <seg>你可以修改或添加文件名模式来将不同的文件关联给筛选器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -71985,8 +71993,8 @@ To add files to the project you can
       <tuv lang="en">
         <seg>if existing, it contains project-specific file filters.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20200123T033218Z" creationid="WynnChen" creationdate="20200123T033218Z">
-        <seg>如果存在，则包含项目专用的文件过滤器。</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T103754Z" creationid="WynnChen" creationdate="20200123T033218Z">
+        <seg>如果存在，则包含项目专用的文件筛选器。</seg>
       </tuv>
     </tu>
     <tu>
