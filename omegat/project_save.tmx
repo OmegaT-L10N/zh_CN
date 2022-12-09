@@ -52240,8 +52240,8 @@ The scope of a text replacement is the target segments of the project, whether t
       <tuv lang="en">
         <seg>Text files do not have generic paragraph markers. Choose here the way OmegaT creates paragraphs in your text files.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T112809Z" creationid="WynnChen" creationdate="20221209T112809Z">
-        <seg>文本文件Text files do not have generic paragraph markers. Choose here the way OmegaT creates paragraphs in your text files.</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T112932Z" creationid="WynnChen" creationdate="20221209T112809Z">
+        <seg>文本文件没有通用的段落标记。在此处选择 OmegaT 在文本文件中创建段落的方式。</seg>
       </tuv>
     </tu>
     <tu>
