@@ -39539,6 +39539,14 @@ published by the Free Software Foundation, either version 3 of the License, or
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT is instructed to use a mandatory encoding for certain file formats (Java properties, for example).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T104934Z" creationid="WynnChen" creationdate="20221209T104803Z">
+        <seg>对于某些文件格式（例如 Java properties），OmegaT 会使用某个强制性编码。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT is not particularly difficult to install or use, but it does require a willingness to read and follow the instructions.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Zenobia Fang" changedate="20180423T154917Z" creationid="Zenobia Fang" creationdate="20180423T154338Z">
@@ -40150,6 +40158,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190831T151113Z">
         <seg>OmegaT 使用操作系统的默认编码来处理文本文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT uses the encoding declaration in the source file, if present, to identify the encoding (HTML or XML based files).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T104805Z" creationid="WynnChen" creationdate="20221209T104800Z">
+        <seg>对于基于 XHTML 或 XML 的文件，如果原文文件中存在编码声明，那么 OmegaT 会用它来识别编码。</seg>
       </tuv>
     </tu>
     <tu>
