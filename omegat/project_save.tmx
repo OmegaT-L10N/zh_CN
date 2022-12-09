@@ -16582,6 +16582,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Common preferences</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T101826Z" creationid="WynnChen" creationdate="20221209T101747Z">
+        <seg>公共首选项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Comparison Mode:</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190324T030537Z" creationid="wynnc" creationdate="20190324T030537Z">
@@ -33495,6 +33503,14 @@ later version.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Leading and trailing tags are generally required by OmegaT to properly recreate the translated segment. Removing them from the translatable contents ensures that you will not erase or modify them by mistake.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T102013Z" creationid="WynnChen" creationdate="20221209T102013Z">
+        <seg>OmegaT 通常都需要开头和末尾的标签才能正确地重新创建译文片段。将其从可翻译内容中删除可确保你不会错误地删除或修改它们。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Learn</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="xulihang" changedate="20180408T115220Z" creationid="xulihang" creationdate="20180408T115220Z">
@@ -35882,6 +35898,14 @@ later version.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T101627Z" creationid="WynnChen" creationdate="20221209T101627Z">
         <seg>修改过的全局文件过滤器首选项保存在配置文件夹的 &lt;l0/&gt; 中。详情请参阅&lt;l1/&gt;。删除此文件也会重置过滤器首选项。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Modified local file filters are saved in &lt;l0/&gt;, in the project folder. See &lt;l1/&gt; for details. Deleting that file also resets the filter preferences and reverts the project to global file filters.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T101721Z" creationid="WynnChen" creationdate="20221209T101721Z">
+        <seg>修改过的局部文件过滤器首选项保存在项目文件夹的 &lt;l0/&gt; 中。详情请参阅&lt;l1/&gt;。删除此文件也会重置过滤器首选项并将项目恢复为使用全局文件过滤器。</seg>
       </tuv>
     </tu>
     <tu>
