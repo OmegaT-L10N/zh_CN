@@ -23911,6 +23911,14 @@ can then launch the Kaptain launch script with:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For a source file named Document.xx.docx, using the variable variants below will produce the following results:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T110425Z" creationid="WynnChen" creationdate="20221209T110425Z">
+        <seg>For a source file named Document.xx.docx, using the variable variants below will produce the following results:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For advanced users, the chapter describes the command line mode and its possibilities.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Yujun Yin" changedate="20131007T080839Z" creationid="Yujun Yin" creationdate="20131007T080839Z">
@@ -27807,8 +27815,8 @@ copy of the Program in return for a fee.</seg>
       <tuv lang="en">
         <seg>If the file name is ambiguous, variables of the form &lt;l0&gt;${nameonly&lt;/l0&gt;&lt;e1&gt;-extension number&lt;/e1&gt;} and &lt;l2&gt;${extension&lt;/l2&gt;-&lt;e3&gt;extension number} &lt;/e3&gt; can be used.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T110330Z" creationid="WynnChen" creationdate="20221209T110330Z">
-        <seg>如果文件名有歧义，可以使用形如 &lt;l0&gt;${nameonly&lt;/l0&gt;&lt;e1&gt;-扩展数字&lt;/e1&gt;} 和 &lt;l2&gt;${extension&lt;/l2&gt;-&lt;e3&gt;扩展数字} &lt;/e3&gt; 的变量。</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T110540Z" creationid="WynnChen" creationdate="20221209T110330Z">
+        <seg>如果文件名会引发歧义，可以使用形如 &lt;l0&gt;${nameonly&lt;/l0&gt;&lt;e1&gt;-扩展数字&lt;/e1&gt;} 和 &lt;l2&gt;${extension&lt;/l2&gt;-&lt;e3&gt;扩展数字} &lt;/e3&gt; 的变量。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51752,6 +51760,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T155141Z" creationid="wynnc" creationdate="20190323T155141Z">
         <seg>译文数量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Target file names</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T110342Z" creationid="WynnChen" creationdate="20221209T110342Z">
+        <seg>译文文件名</seg>
       </tuv>
     </tu>
     <tu>
