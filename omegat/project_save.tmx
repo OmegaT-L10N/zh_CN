@@ -27728,6 +27728,14 @@ notice like this when it starts in an interactive mode:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the source documents contain whitespace used to control the layout, the whitespace that must be will retained in the translated document.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T102532Z" creationid="WynnChen" creationdate="20221209T102532Z">
+        <seg>如果原文文档中包含用于控制排版布局的空白字符，则这些空白字符在译文文档中也必须保留。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the source file is modified after you have begun translating, &lt;a1&gt;OmegaT&lt;/a1&gt; may be unable to find a segment that you have already translated.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120211T140624Z">
