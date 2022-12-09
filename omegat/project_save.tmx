@@ -9677,16 +9677,16 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;trans-unit&gt; &amp;resname attribute when available</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190322T074152Z" creationid="wynnc" creationdate="20190322T074152Z">
-        <seg>&lt;翻译单元&gt;资源名称属性，如果可用(&amp;R)</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T111622Z" creationid="wynnc" creationdate="20190322T074152Z">
+        <seg>&lt;trans-unit&gt; 的 &amp;resname 属性，如果可用(&amp;R)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&lt;trans-unit&gt; I&amp;D</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190322T074035Z" creationid="wynnc" creationdate="20190322T074035Z">
-        <seg>&lt;翻译单元&gt; I&amp;D</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T111634Z" creationid="WynnChen" creationdate="20221209T111540Z">
+        <seg>&lt;trans-unit&gt; 的 I&amp;D</seg>
       </tuv>
     </tu>
     <tu>
@@ -56681,8 +56681,8 @@ protocols for communication across the network.</seg>
       <tuv lang="en">
         <seg>The source file name is one of the elements that characterize an alternative translation. If this option is checked, only the previous/next segments or a segment identifier will be used to characterize an alternative translation.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T111408Z" creationid="WynnChen" creationdate="20221209T102744Z">
-        <seg>原文文件名是表征备选译文的元素之一。如果勾选此选项，则只使用上一片段/下一片段或片段标识符来表征备选翻译。</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T111708Z" creationid="WynnChen" creationdate="20221209T102744Z">
+        <seg>原文文件名是表征备选译文的元素之一。如果勾选此选项，则只使用前后片段或片段标识符来表征备选翻译。</seg>
       </tuv>
     </tu>
     <tu>
@@ -64271,8 +64271,8 @@ OmegaT 选项：
       <tuv lang="en">
         <seg>User can select from three options, Previous and next paragraphs, &lt;trans unit&gt; ID, or, &lt;trans-unit&gt; resname attribute when available, when unavailable, the ID will be used as a fallback.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T111328Z" creationid="WynnChen" creationdate="20221209T111328Z">
-        <seg>用户可以选择三个选项之一：Previous and next paragraphs, &lt;trans unit&gt; ID, or, &lt;trans-unit&gt; resname attribute when available, when unavailable, the ID will be used as a fallback.</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T111657Z" creationid="WynnChen" creationdate="20221209T111328Z">
+        <seg>用户可以选择三个选项之一：前后段落、&lt;trans unit&gt; ID, or, &lt;trans-unit&gt; resname attribute when available, when unavailable, the ID will be used as a fallback.</seg>
       </tuv>
     </tu>
     <tu>
