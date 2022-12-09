@@ -13162,6 +13162,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Associating a file extension to a filter is not sufficient to have the filter properly handle the file. The file structure must also be compatible with the filter: even if you associate &lt;l0&gt;.odt&lt;/l0&gt; to the XHMTL filter, the filter will not be able to understand the contents of a LibreOffice Writer file.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T103611Z" creationid="WynnChen" creationdate="20221209T103450Z">
+        <seg>将文件扩展名关联给过滤器并不足与让过滤器正确处理该文件。文件结构还必须与此过滤器兼容。 even if you associate &lt;l0&gt;.odt&lt;/l0&gt; to the XHMTL filter, the filter will not be able to understand the contents of a LibreOffice Writer file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>At each cursor position rules, consisting of a &lt;e0&gt;Before &lt;/e0&gt;and &lt;e1&gt;After &lt;/e1&gt;pattern, are applied in their given order to see if any of the&lt;e2&gt; Before&lt;/e2&gt; patterns are valid for the text on the left and the corresponding &lt;e3&gt;After&lt;/e3&gt; pattern for the text on the right of the cursor.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120215T142348Z">
@@ -67050,6 +67058,14 @@ from there.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Administrator" changedate="20180411T122711Z" creationid="Administrator" creationdate="20180411T122711Z">
         <seg>您可以更改或添加文件名模式，以便通过每个文件过滤器处理文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can change or add filename patterns to associate different files to a filter.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T103456Z" creationid="WynnChen" creationdate="20221209T103446Z">
+        <seg>你可以修改或添加文件名模式来将不同的文件关联给过滤器。</seg>
       </tuv>
     </tu>
     <tu>
