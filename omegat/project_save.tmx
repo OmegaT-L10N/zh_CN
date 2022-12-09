@@ -52238,6 +52238,14 @@ The scope of a text replacement is the target segments of the project, whether t
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Text files do not have generic paragraph markers. Choose here the way OmegaT creates paragraphs in your text files.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T112809Z" creationid="WynnChen" creationdate="20221209T112809Z">
+        <seg>文本文件Text files do not have generic paragraph markers. Choose here the way OmegaT creates paragraphs in your text files.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Text files segmentation</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -63740,8 +63748,8 @@ OmegaT 选项：
       <tuv lang="en">
         <seg>Use "needs-review-translation" instead of "translated"</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T102657Z" creationid="wynnc" creationdate="20221111T102657Z">
-        <seg>用“需要审查翻译”代替“已译”</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T112431Z" creationid="wynnc" creationdate="20221111T102657Z">
+        <seg>用“needs-review-translation”而非“translated”</seg>
       </tuv>
     </tu>
     <tu>
