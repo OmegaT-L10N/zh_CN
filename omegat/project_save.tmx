@@ -23298,6 +23298,14 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Files in the &lt;l0/&gt; folder are overwritten everytime you create them if they are created with the same name.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T105105Z" creationid="WynnChen" creationdate="20221209T105105Z">
+        <seg>如果每次创建 &lt;l0/&gt; 文件夹中的文件时用的都是同样的文件名，那么它们会被覆盖。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Files must be deleted by the project manager.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20201125T060508Z" creationid="wynnc" creationdate="20201125T060508Z">
@@ -38881,6 +38889,14 @@ combination as such.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT can automatically create new file names for the files you create, by adding a language code or a time stamp, for example.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T105224Z" creationid="WynnChen" creationdate="20221209T105209Z">
+        <seg>OmegaT 可以通过诸如添加语言代码或时间戳的方式自动为你所创建的文件建立新的文件名。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT can be customized to support other file formats as well.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="钢" changedate="20130514T152050Z">
@@ -40156,8 +40172,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>OmegaT uses the default encoding of the operating system for text files.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20190831T151113Z">
-        <seg>OmegaT 使用操作系统的默认编码来处理文本文件。</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T104954Z">
+        <seg>对于文本文件，OmegaT 使用操作系统的默认编码。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56747,6 +56763,14 @@ protocols for communication across the network.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="xulihang" changedate="20180408T105614Z">
         <seg>目标文件名模式使用特殊的语法规则，因此如果希望编辑这些字段的话，您必须点击&lt;e0&gt;编辑...&lt;/e0&gt;以使用&lt;i1/&gt;编辑模式对话框。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The target filename pattern uses a special syntax. The easiest way to modify it is to use the &lt;g0&gt;Edit Pattern&lt;/g0&gt; dialog. The dialog offers various options:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T105351Z" creationid="WynnChen" creationdate="20221209T105214Z">
+        <seg>译文文件名模式使用特殊的语法规则。修改它最简单的方法是使用“&lt;g0&gt;编辑模式&lt;/g0&gt;”对话框。此对话框提供了各种选项：</seg>
       </tuv>
     </tu>
     <tu>
