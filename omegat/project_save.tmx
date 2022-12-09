@@ -14511,6 +14511,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By default, OmegaT removes any leading and trailing whitespace from the translatable contents. In non-segmented projects, disable this option to make leading and trailing whitespace modifiable in the translation.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T102422Z" creationid="WynnChen" creationdate="20221209T102422Z">
+        <seg>默认情况下，OmegaT 会从可翻译内容中移除开头和末尾的所有空白字符。在未分割的项目中，禁用此选项可以让开头和末尾的空白字符在译文中可修改。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By default, OmegaT uses automatic match propagation.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="lenovo" changedate="20180416T115357Z" creationid="lenovo" creationdate="20180416T115357Z">
@@ -28647,6 +28655,14 @@ to use Java Web Start.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190402T043457Z" creationid="WynnChen" creationdate="20190402T043435Z">
         <seg>如果您的计算机上已经安装了 JRE 而您又安装带 JRE 的 OmegaT 版本，OmegaT 的 JRE 会单独安装，不会与之冲突。因此，安装带 JRE 的 OmegaT 版本总是安全的。如果您不确定是否具有合适版本的 JRE，请选择具有 JRE 的版本（或默认版本）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you keep the leading and trailing tags, make sure that they are leading and trailing as well in the translation.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T102053Z" creationid="WynnChen" creationdate="20221209T102053Z">
+        <seg>如果你保留开头和末尾的标签，请确保它们在译文中也位于开头和末尾。</seg>
       </tuv>
     </tu>
     <tu>
