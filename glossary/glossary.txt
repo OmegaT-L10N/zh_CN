@@ -91,3 +91,4 @@ reload	重新加载
 search	搜索
 autotext	自动文本
 file filter	文件筛选器
+Tag shortcut	标签简写	指的是OmegaT进行标签保护时自动将诸如<item>变成灰色的<i0>这样的行为，后者即为tag shortcut
