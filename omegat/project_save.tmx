@@ -24048,6 +24048,14 @@ know their rights.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, the pattern &lt;l0&gt;.xhtml&lt;/l0&gt; registered in the XHTML filter matches any file with the &lt;f1&gt;xhtml&lt;/f1&gt; extension. If such a file is found in the &lt;l2/&gt; folder, the file will be handled by the XHTML filter.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T103421Z" creationid="WynnChen" creationdate="20221209T103421Z">
+        <seg>例如，XHTML 过滤器中注册的模式 &lt;l0&gt;.xhtml&lt;/l0&gt; 会匹配任何具有 &lt;f1&gt;xhtml&lt;/f1&gt; 扩展名的文件。如果在 &lt;l2/&gt; 文件夹中找到这样的文件，那么此文件就会由 XHTML 过滤器处理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, there is nothing to stop a user writing their own user manual or a demonstration video for OmegaT, and if the project considers it remotely useful, it is likely to be made available to OmegaT's community of users.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="18261" changedate="20180412T124431Z" creationid="18261" creationdate="20180412T124058Z">
@@ -59930,6 +59938,14 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To associate a filter to a file, OmegaT checks its file extension and attempts to match it to a source filename patterns in a filter.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T103249Z" creationid="WynnChen" creationdate="20221209T103249Z">
+        <seg>为了将过滤器和文件关联起来，OmegaT 会检查其文件扩展名并尝试与过滤器中的原文文件名模式进行匹配。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To associate a script with a number:</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20200121T024929Z" creationid="WynnChen" creationdate="20200121T024929Z">
@@ -63718,6 +63734,14 @@ OmegaT 选项：
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20200117T065738Z" creationid="WynnChen" creationdate="20200117T065738Z">
         <seg>用位于 &lt;f1&gt;OmegaT.app/Contents/MacOS/Java/&lt;/f1&gt; 中的 &lt;f0&gt;OmegaT.jar&lt;/f0&gt; 文件来从命令行启动 &lt;a2&gt;OmegaT&lt;/a2&gt;。更多信息，请参考下文的“命令行启动”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the &lt;g0&gt;Filename Variables&lt;/g0&gt; drop-down menu to customize the target file name.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T103122Z" creationid="WynnChen" creationdate="20221209T103122Z">
+        <seg>用“&lt;g0&gt;文件名变量&lt;/g0&gt;”下拉菜单来自定义译文文件名。</seg>
       </tuv>
     </tu>
     <tu>
