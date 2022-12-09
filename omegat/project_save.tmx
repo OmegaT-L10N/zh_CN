@@ -49688,8 +49688,8 @@ of the GPL, as needed to protect the freedom of users.</seg>
       <tuv lang="en">
         <seg>Source and Translated file encoding</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20190831T145502Z" creationid="WynnChen" creationdate="20190831T145502Z">
-        <seg>原文文件和译文文件编码</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T104356Z" creationid="WynnChen" creationdate="20190831T145502Z">
+        <seg>原文文件编码和译文文件编码</seg>
       </tuv>
     </tu>
     <tu>
@@ -49704,8 +49704,8 @@ of the GPL, as needed to protect the freedom of users.</seg>
       <tuv lang="en">
         <seg>Source and translated file encoding</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T104210Z" creationid="WynnChen" creationdate="20221209T104210Z">
-        <seg>原文文件和译文文件编码</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T104349Z" creationid="WynnChen" creationdate="20221209T104210Z">
+        <seg>原文文件编码和译文文件编码</seg>
       </tuv>
     </tu>
     <tu>
@@ -56377,8 +56377,8 @@ protocols for communication across the network.</seg>
       <tuv lang="en">
         <seg>The source and target encoding fields use drop-down menus listing all supported encodings. Selecting the &lt;g0&gt;&lt;auto&gt;&lt;/g0&gt; option leaves the choice of encoding to OmegaT, based on the following criteria:</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T104337Z" creationid="WynnChen" creationdate="20221209T104337Z">
-        <seg>原文文件和译文文件编码字段The source and target encoding fields use drop-down menus listing all supported encodings. Selecting the &lt;g0&gt;&lt;auto&gt;&lt;/g0&gt; option leaves the choice of encoding to OmegaT, based on the following criteria:</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T104630Z" creationid="WynnChen" creationdate="20221209T104337Z">
+        <seg>原文文件编码和译文文件编码字段用下拉菜单列出了所有支持的编码。选择“&lt;g0&gt;&lt;自动&gt;&lt;/g0&gt;”选项让 OmegaT 基于以下条件自行选择编码：</seg>
       </tuv>
     </tu>
     <tu>
