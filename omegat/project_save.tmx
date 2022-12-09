@@ -502,6 +502,22 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>${targetCountryCode}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T105617Z" creationid="WynnChen" creationdate="20221209T105617Z">
+        <seg>${targetCountryCode}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${targetLanguageCode}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T105608Z" creationid="WynnChen" creationdate="20221209T105608Z">
+        <seg>${targetLanguageCode}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>${targetLanguage}</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T105400Z" creationid="WynnChen" creationdate="20221209T105400Z">
@@ -522,6 +538,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131127T130028Z" creationid="Fu Rhong" creationdate="20131127T130028Z">
         <seg>${targetText}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${timestamp-????}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T105752Z" creationid="WynnChen" creationdate="20221209T105752Z">
+        <seg>${timestamp-????}</seg>
       </tuv>
     </tu>
     <tu>
@@ -47644,6 +47668,14 @@ When using regular expressions, the replacement string supports references to gr
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;u0&gt; Oracle documentation&lt;/u0&gt; for examples.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T105839Z" creationid="WynnChen" creationdate="20221209T105839Z">
+        <seg>范例可参阅 &lt;u0&gt; Oracle 文档&lt;/u0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the GNU General Public License for more detail.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120130T070503Z">
@@ -71783,6 +71815,14 @@ To add files to the project you can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>https://docs.oracle.com/javase/8/docs/api/java/text/SimpleDateFormat.html</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T105816Z" creationid="WynnChen" creationdate="20221209T105816Z">
+        <seg>https://docs.oracle.com/javase/8/docs/api/java/text/SimpleDateFormat.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>https://docs.oracle.com/javase/8/docs/api/java/util/regex/Pattern.html</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T060723Z" creationid="wynnc" creationdate="20210504T060723Z">
@@ -75372,6 +75412,14 @@ To add files to the project you can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>system time when the file is was created</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T105814Z" creationid="WynnChen" creationdate="20221209T105814Z">
+        <seg>创建文件时的系统时间</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ta</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131108T101150Z" creationid="Fu Rhong" creationdate="20131108T101150Z">
@@ -75408,6 +75456,38 @@ To add files to the project you can
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131109T023405Z" creationid="Fu Rhong" creationdate="20131109T023405Z">
         <seg>target = project.getTranslationInfo(currSegment).translation;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>target language code (xx)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T105616Z" creationid="WynnChen" creationdate="20221209T105616Z">
+        <seg>译文语言代码（xx）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>target language+region (xx-YY)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T105605Z" creationid="WynnChen" creationdate="20221209T105605Z">
+        <seg>译文语言+地区（xx-YY）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>target language+region code (xx_YY)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T105550Z" creationid="WynnChen" creationdate="20221209T105550Z">
+        <seg>译文语言+地区代码（xx_YY）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>target region code (YY)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T105750Z" creationid="WynnChen" creationdate="20221209T105750Z">
+        <seg>译文地区代码（YY）</seg>
       </tuv>
     </tu>
     <tu>
