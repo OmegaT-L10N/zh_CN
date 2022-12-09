@@ -37534,6 +37534,14 @@ measures.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Non-visible instruction text, comments, footnotes, endnotes, footers, duplicate fallback text, and document properties.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T113945Z" creationid="WynnChen" creationdate="20221209T113945Z">
+        <seg>不可见说明性文本、批注、脚注、尾注、页脚、复制后备文本、以及文档属性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>None</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190324T043835Z" creationid="wynnc" creationdate="20190324T043835Z">
@@ -67466,6 +67474,14 @@ from there.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120213T143637Z">
         <seg>可以通过在&lt;e1&gt;选项&lt;/e1&gt;菜单中选择&lt;e0&gt;文件过滤器&lt;/e0&gt;菜单项来检查是不是这样。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can choose additional document elements to translate. They will appear as separate segments in the editor.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T113417Z" creationid="WynnChen" creationdate="20221209T113417Z">
+        <seg>你可以选择要翻译的其他文档元素。它们在编辑器中将呈现为单独的片段。</seg>
       </tuv>
     </tu>
     <tu>
