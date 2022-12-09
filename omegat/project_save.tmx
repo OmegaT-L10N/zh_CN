@@ -16156,6 +16156,14 @@ Exception occurred:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Click the &lt;g0&gt;Restore Defaults&lt;/g0&gt; button to reset the file filters to their default settings.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T101517Z" creationid="WynnChen" creationdate="20221209T101428Z">
+        <seg>点击“&lt;g0&gt;恢复默认值&lt;/g0&gt;”按钮可将文件过滤器重置为其默认设置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Click the dropdown arrow of the &lt;e0&gt;Search for&lt;/e0&gt; box to access the last 10 searches.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20200123T061745Z" creationid="WynnChen" creationdate="20200123T061745Z">
@@ -35870,6 +35878,14 @@ later version.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Modified global file filter preferences are saved in &lt;l0/&gt;, in the configuration folder. See &lt;l1/&gt; for details. Deleting that file also resets the filter preferences.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T101627Z" creationid="WynnChen" creationdate="20221209T101627Z">
+        <seg>修改过的全局文件过滤器首选项保存在配置文件夹的 &lt;l0/&gt; 中。详情请参阅&lt;l1/&gt;。删除此文件也会重置过滤器首选项。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Modified preferences are stored in the configuration folder used by the project. If you do not use the default configuration folder, all modifications made in &lt;l0/&gt; will be stored in the specified configuration folder and will not appear when you resume work with the default configuration folder.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221206T142227Z" creationid="WynnChen" creationdate="20221206T142227Z">
@@ -49218,6 +49234,14 @@ have designed this version of the GPL to prohibit the practice for those
 products.  If such problems arise substantially in other domains, we
 stand ready to extend this provision to those domains in future versions
 of the GPL, as needed to protect the freedom of users.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Some filters provide a &lt;g0&gt;Options...&lt;/g0&gt; button to further customize their settings.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T101329Z" creationid="WynnChen" creationdate="20221209T101329Z">
+        <seg>一些过滤器提供了“&lt;g0&gt;选项...&lt;/g0&gt;”按钮来进一步自定义其设置。</seg>
       </tuv>
     </tu>
     <tu>
