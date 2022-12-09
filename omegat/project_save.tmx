@@ -24088,6 +24088,14 @@ know their rights.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, use the pattern &lt;l0&gt;read*&lt;/l0&gt; if you want to have the text filter handle readme files (&lt;l1&gt;readme, read.me&lt;/l1&gt;, or &lt;l2&gt;readme.txt&lt;/l2&gt;).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T104200Z" creationid="WynnChen" creationdate="20221209T104200Z">
+        <seg>例如，如果要让文本筛选器处理 readme 文件（&lt;l1&gt;readme、read.me&lt;/l1&gt;、或&lt;l2&gt;readme.txt&lt;/l2&gt;），使用模式 &lt;l0&gt;read*&lt;/l0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, when you have a Czech text file (very probably written in the &lt;e2&gt;ISO-8859-2&lt;/e2&gt; code) you just need to change the extension&lt;l3&gt; .txt&lt;/l3&gt; to &lt;l4&gt;.txt2 &lt;/l4&gt;and &lt;a5&gt;OmegaT&lt;/a5&gt; will interpret its contents correctly.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120213T143817Z">
@@ -36156,6 +36164,14 @@ your receipt of the notice.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="think" changedate="20180416T084540Z" creationid="think" creationdate="20180416T084540Z">
         <seg>大多数Linux发行版默认使用OpenJDK版本的Java。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Most file formats allow various possible encodings. By default, the encoding of the translated file is the same as that of the source file.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T104258Z" creationid="WynnChen" creationdate="20221209T104258Z">
+        <seg>大多数文件格式允许各种可能的编码。默认情况下，译文文件的编码和原文文件相同。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49686,6 +49702,14 @@ of the GPL, as needed to protect the freedom of users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source and translated file encoding</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T104210Z" creationid="WynnChen" creationdate="20221209T104210Z">
+        <seg>原文文件和译文文件编码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source code</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="xulihang" changedate="20180425T043302Z" creationid="xulihang" creationdate="20180425T043302Z">
@@ -56347,6 +56371,14 @@ protocols for communication across the network.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190902T083606Z" creationid="wynnc" creationdate="20190902T083606Z">
         <seg>在这个例子中，解决方案是将已有的翻译记忆库复制到 tm/tmx2source/ 子文件夹中并将其重命名为 ZH_CN.tmx 来指示此 tmx 的译文语言。这样荷兰语的原文片段会以英文翻译的形式显示给译者，译者就能用它们来创建中文翻译。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The source and target encoding fields use drop-down menus listing all supported encodings. Selecting the &lt;g0&gt;&lt;auto&gt;&lt;/g0&gt; option leaves the choice of encoding to OmegaT, based on the following criteria:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T104337Z" creationid="WynnChen" creationdate="20221209T104337Z">
+        <seg>原文文件和译文文件编码字段The source and target encoding fields use drop-down menus listing all supported encodings. Selecting the &lt;g0&gt;&lt;auto&gt;&lt;/g0&gt; option leaves the choice of encoding to OmegaT, based on the following criteria:</seg>
       </tuv>
     </tu>
     <tu>
