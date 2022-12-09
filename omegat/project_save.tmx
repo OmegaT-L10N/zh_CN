@@ -14150,6 +14150,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Both dialogs allow you to customize the filename patterns for the source and target files associated to this the filter, and select their respective encoding.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T103057Z" creationid="WynnChen" creationdate="20221209T103057Z">
+        <seg>以上两种对话框都允许你自定义此过滤器所关联的原文和译文文件名模式并可以选择各自的编码。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Both search types support the wildcard characters * and ?.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="钢" changedate="20130503T151030Z">
@@ -20088,6 +20096,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Do not use the file name to identify alternate translations</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T102543Z" creationid="WynnChen" creationdate="20221209T102543Z">
+        <seg>不要用文件名来标识多重译文</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Do you have a Java implementation compatible with Oracle's Java 1.6 JRE?</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131116T122238Z" creationid="Fu Rhong" creationdate="20131116T122136Z">
@@ -20396,6 +20412,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120207T112411Z">
         <seg>双击 &lt;e0&gt; &lt;a1&gt;OmegaT&lt;/a1&gt;.app&lt;/e0&gt; 或点击它在 Dock 中的位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Double-click the editable fields to make simple modifications or click on the &lt;g0&gt;Edit...&lt;/g0&gt; button to access the modification dialog.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T102929Z" creationid="WynnChen" creationdate="20221209T102929Z">
+        <seg>双击可编辑字段来进行简单编辑，或者点击“&lt;g0&gt;编辑...&lt;/g0&gt;”按钮来访问修改对话框。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47764,6 +47788,14 @@ When using regular expressions, the replacement string supports references to gr
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Segments with the same characteristics located in other files will be translated the same way.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T102852Z" creationid="WynnChen" creationdate="20221209T102832Z">
+        <seg>在其他文件中具备相同表征的片段将以相同方式翻译。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -56319,6 +56351,14 @@ protocols for communication across the network.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The source file name is one of the elements that characterize an alternative translation. If this option is checked, only the previous/next segments or a segment identifier will be used to characterize an alternative translation.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T102744Z" creationid="WynnChen" creationdate="20221209T102744Z">
+        <seg>原文文件名是表征备选译文的元素之一。如果勾选此选项，则只使用前一/后一片段或片段标识符来表征备选翻译。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The source files folder does not exist!</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T073558Z" creationid="WynnChen" creationdate="20221129T073558Z">
@@ -59822,6 +59862,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="xulihang" changedate="20180408T105614Z">
         <seg>要激活某种机器翻译服务，请前往&lt;g0&gt;选项&gt;机器翻译...&lt;/g0&gt;，然后激活需要的服务。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To add a filter pattern, click on &lt;g0&gt;Add...&lt;/g0&gt; to open a similar dialog.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T102953Z" creationid="WynnChen" creationdate="20221209T102953Z">
+        <seg>要添加过滤器模式，点击“&lt;g0&gt;添加...&lt;/g0&gt;”来打开一个类似的对话框。</seg>
       </tuv>
     </tu>
     <tu>
