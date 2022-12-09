@@ -49,7 +49,6 @@ social network	社交网络
 Instant Start Guide	快速入门指南
 HOWTO	指南
 Howto	指南
-file filter	文件过滤器
 Web Start	Web Start	java的专有名词，不翻译。
 Open Document Format	OpenDocument 格式	统一专有名词的呈现。
 leading	开头
@@ -91,3 +90,4 @@ load	加载
 reload	重新加载
 search	搜索
 autotext	自动文本
+file filter	文件筛选器
