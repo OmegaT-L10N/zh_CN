@@ -34081,6 +34081,14 @@ later version.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Line length</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T112939Z" creationid="WynnChen" creationdate="20221209T112939Z">
+        <seg>行长度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Line length in target files (0 = no limit)</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T093131Z" creationid="wynnc" creationdate="20221111T093131Z">
@@ -35746,6 +35754,14 @@ later version.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
         <seg>最大化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Maximum line length</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T113143Z" creationid="WynnChen" creationdate="20221209T113143Z">
+        <seg>最大行长度</seg>
       </tuv>
     </tu>
     <tu>
@@ -75472,6 +75488,22 @@ To add files to the project you can
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131108T101122Z" creationid="Fu Rhong" creationdate="20131108T101122Z">
         <seg>spa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>specifies the maximum number of characters before breaking a long line. A value of 0 sets no limits.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T113133Z" creationid="WynnChen" creationdate="20221209T113133Z">
+        <seg>在所指定的最大字符数之后将长行断开。值设为 0 为无限制。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>specifies the maximum number of characters before cutting a line and ignoring the rest. A value of 0 sets no limits.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T113309Z" creationid="WynnChen" creationdate="20221209T113309Z">
+        <seg>在所指定的最大字符数之后将行断开并略去剩下的部分。值设为 0 为无限制。</seg>
       </tuv>
     </tu>
     <tu>
