@@ -26386,6 +26386,14 @@ Note: not all filters allow you to select an encoding.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Here, you can decide whether to add or modify the declaration of the target file</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T020737Z" creationid="WynnChen" creationdate="20221212T020737Z">
+        <seg>在此处，你可以决定是否添加或者修改译文文件的声明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Herero</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190405T043442Z" creationid="Fu Rhong" creationdate="20131107T150223Z">
@@ -50233,6 +50241,14 @@ of the GPL, as needed to protect the freedom of users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source and target files sometimes require a different encoding.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T020707Z" creationid="WynnChen" creationdate="20221212T020707Z">
+        <seg>原文和译文文件有时需要不同的编码。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source and translated file encoding</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T104349Z" creationid="WynnChen" creationdate="20221209T104210Z">
@@ -69791,6 +69807,14 @@ If the project contains files but their content is not displayed here:
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>always, based on the file filter settings,</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T020805Z" creationid="WynnChen" creationdate="20221212T020749Z">
+        <seg>总是，基于文件筛选器设置，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>am</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131107T142607Z" creationid="Fu Rhong" creationdate="20131107T142607Z">
@@ -74641,6 +74665,22 @@ If the project contains files but their content is not displayed here:
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>only if the file already has a &lt;head&gt; tag,</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T020832Z" creationid="WynnChen" creationdate="20221212T020832Z">
+        <seg>仅当该文件已经具有 &lt;head&gt; 标签时，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>only if the file already has a declaration,</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T020910Z" creationid="WynnChen" creationdate="20221212T020910Z">
+        <seg>仅当该文件已经具有声明时，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>only options:
  
 	--quiet
@@ -74901,6 +74941,14 @@ If the project contains files but their content is not displayed here:
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190405T050507Z" creationid="WynnChen" creationdate="20190405T050507Z">
         <seg>or</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>or never and only save the target file in the encoding specified in the file filter settings.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T021027Z" creationid="WynnChen" creationdate="20221212T021027Z">
+        <seg>或从不，仅以文件筛选器设置中的编码来保存译文文件。</seg>
       </tuv>
     </tu>
     <tu>
