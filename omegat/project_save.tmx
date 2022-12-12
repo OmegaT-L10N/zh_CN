@@ -32816,6 +32816,14 @@ itself on the first run. Later calls do not need to be online.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Java 8 requires ISO-8859-1 encoding and uses Unicode literals for characters outside that character set. Java 9 and above requires UTF-8 encoding. This option forces Java 8 compatibility.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T022603Z" creationid="WynnChen" creationdate="20221212T022404Z">
+        <seg>Java 8 要求使用 ISO-8859-1 编码并且对此字符集之外的字符使用 Unicode 编码文字。Java 9 及更高版本要求使用 UTF-8 编码。此选项强制维持 Java 8 兼容性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Java Properties XML</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190322T065624Z" creationid="wynnc" creationdate="20190322T065624Z">
