@@ -54659,6 +54659,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The encoding of an HTML document is generally declared within a &lt;meta&gt; element situated in the &lt;head&gt; element.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T020654Z" creationid="WynnChen" creationdate="20221212T020654Z">
+        <seg>HTML 文档的编码通常在位于  element situated in the &lt;head&gt; 元素中的 &lt;meta&gt; 元素内声明。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The encoding of glossaries is determined automatically.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="17012" changedate="20180405T023307Z" creationid="17012" creationdate="20180405T023215Z">
