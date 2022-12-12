@@ -17596,8 +17596,8 @@ makes it unnecessary.</seg>
       <tuv lang="en">
         <seg>Copying the files manually makes sense if you already have suitable dictionary files on your system, for instance as part of your Apache OpenOffice, LibreOffice, Firefox or Thunderbird installation. It is simpler, however, to look for dictionaries online, using the &lt;e0&gt;URL of online dictionaries&lt;/e0&gt; field:</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20190708T030517Z" creationid="WynnChen" creationdate="20190708T030517Z">
-        <seg>如果您系统中已经有合适的词典文件，例如来自于 Apache OpenOffice、LibreOffice、Firefox 或 Thunderbird 的已安装文件，那么手工复制文件是有意义的。但是，用&lt;e0&gt;在线词典的网址&lt;/e0&gt;字段来在线查找词典会更简单：</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T023248Z" creationid="WynnChen" creationdate="20190708T030517Z">
+        <seg>如果您系统中已经有合适的词典文件，例如来自于 Apache OpenOffice、LibreOffice、Firefox 或 Thunderbird 的已安装文件，那么手工复制文件是有意义的。但是，用&lt;e0&gt;在线词典的 URL&lt;/e0&gt;字段来在线查找词典会更简单：</seg>
       </tuv>
     </tu>
     <tu>
@@ -22967,8 +22967,8 @@ Gossamer threads hold you back
       <tuv lang="en">
         <seg>External Search URL</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T093130Z" creationid="WynnChen" creationdate="20221129T093130Z">
-        <seg>外部搜索网址</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T023233Z" creationid="WynnChen" creationdate="20221129T093130Z">
+        <seg>外部搜索 URL</seg>
       </tuv>
     </tu>
     <tu>
@@ -37138,8 +37138,8 @@ appropriate location such as the Applications folder.</seg>
       <tuv lang="en">
         <seg>Name of the remote folder or file, relative to the repository url.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190902T095150Z" creationid="wynnc" creationdate="20190902T095150Z">
-        <seg>远程文件夹或文件的名称，相对于存储库网址。</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T023427Z" creationid="wynnc" creationdate="20190902T095150Z">
+        <seg>远程文件夹或文件的名称，相对于存储库 URL。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53923,8 +53923,8 @@ Please try to correct the error and reload the project.</seg>
       <tuv lang="en">
         <seg>The URL must include "{target}", which will be replaced with the search text.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190324T050657Z" creationid="wynnc" creationdate="20190324T050657Z">
-        <seg>网址必须包含“{target}”，它将被替换为搜索文字。</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T023243Z" creationid="wynnc" creationdate="20190324T050657Z">
+        <seg>URL 中必须包含“{target}”，它将被替换为搜索文字。</seg>
       </tuv>
     </tu>
     <tu>
@@ -62887,32 +62887,32 @@ Exact searches match the whole search string.</seg>
       <tuv lang="en">
         <seg>URL does not contain "{0}"</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190324T045312Z" creationid="wynnc" creationdate="20190324T045312Z">
-        <seg>网址未包含“{0}”</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T023144Z" creationid="wynnc" creationdate="20190324T045312Z">
+        <seg>URL 未包含“{0}”</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>URL is missing URL string</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T023123Z" creationid="wynnc" creationdate="20190324T045301Z">
-        <seg>URL 中缺少 URL 字符串</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T023149Z" creationid="wynnc" creationdate="20190324T045301Z">
+        <seg>URL 中没有 URL 字符串</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>URL is missing encoding</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190324T045335Z" creationid="wynnc" creationdate="20190324T045335Z">
-        <seg>网址缺少编码</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T023154Z" creationid="wynnc" creationdate="20190324T045335Z">
+        <seg>URL 缺少编码</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>URL is missing target</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190324T045321Z" creationid="wynnc" creationdate="20190324T045321Z">
-        <seg>网址中缺少目标</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T023218Z" creationid="wynnc" creationdate="20190324T045321Z">
+        <seg>URL 中缺少目标</seg>
       </tuv>
     </tu>
     <tu>
@@ -62943,8 +62943,8 @@ Exact searches match the whole search string.</seg>
       <tuv lang="en">
         <seg>URLs</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190324T045438Z" creationid="wynnc" creationdate="20190324T045438Z">
-        <seg>网址</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T023225Z" creationid="wynnc" creationdate="20190324T045438Z">
+        <seg>URL</seg>
       </tuv>
     </tu>
     <tu>
@@ -75659,8 +75659,8 @@ If the project contains files but their content is not displayed here:
       <tuv lang="en">
         <seg>repository url</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190902T095259Z" creationid="wynnc" creationdate="20190902T095040Z">
-        <seg>存储库网址（repository url）</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T023328Z" creationid="wynnc" creationdate="20190902T095040Z">
+        <seg>存储库 URL（repository url）</seg>
       </tuv>
     </tu>
     <tu>
