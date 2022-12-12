@@ -6578,8 +6578,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;html&gt;Repository URL:&lt;/html&gt;</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T142204Z" creationid="wynnc" creationdate="20190323T142204Z">
-        <seg>&lt;html&gt;存储库网址：&lt;/html&gt;</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T023118Z" creationid="wynnc" creationdate="20190323T142204Z">
+        <seg>&lt;html&gt;存储库 URL：&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -18939,8 +18939,8 @@ unpacking, reading or copying.</seg>
       <tuv lang="en">
         <seg>Custom server URL</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20200116T060701Z" creationid="WynnChen" creationdate="20200116T060701Z">
-        <seg>自定义服务器网址</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T023059Z" creationid="WynnChen" creationdate="20200116T060701Z">
+        <seg>自定义服务器 URL</seg>
       </tuv>
     </tu>
     <tu>
@@ -21677,8 +21677,8 @@ Your help page not found</seg>
       <tuv lang="en">
         <seg>Empty repository URL in the mapping</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T181024Z" creationid="wynnc" creationdate="20190320T181024Z">
-        <seg>映射中的存储库网址为空</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T022906Z" creationid="wynnc" creationdate="20190320T181024Z">
+        <seg>映射中的存储库 URL 为空</seg>
       </tuv>
     </tu>
     <tu>
@@ -32690,8 +32690,8 @@ itself on the first run. Later calls do not need to be online.</seg>
       <tuv lang="en">
         <seg>Item has neither URLs nor commands. Name: {0}</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20190326T163032Z" creationid="WynnChen" creationdate="20190326T163032Z">
-        <seg>项目既没有网址也没有命令。名称：{0}</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T023130Z" creationid="WynnChen" creationdate="20190326T163032Z">
+        <seg>项目既没有 URL 也没有命令。名称：{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -33699,8 +33699,8 @@ itself on the first run. Later calls do not need to be online.</seg>
       <tuv lang="en">
         <seg>LanguageTool: Bad URL</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T113348Z" creationid="wynnc" creationdate="20190323T113348Z">
-        <seg>LanguageTool：错误的网址</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T023047Z" creationid="wynnc" creationdate="20190323T113348Z">
+        <seg>LanguageTool：错误的 URL</seg>
       </tuv>
     </tu>
     <tu>
@@ -33739,8 +33739,8 @@ itself on the first run. Later calls do not need to be online.</seg>
       <tuv lang="en">
         <seg>LanguageTool: server returned XML when JSON was expected. Ensure you are specifying the right API version (the URL should include "/v2/").</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20190326T162649Z" creationid="WynnChen" creationdate="20190326T162649Z">
-        <seg>LanguageTool：服务器在预期 JSON 的情况下返回了 XML。确保你指定了正确的 API 版本（网址中应当包含“/v2/”）。</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T023041Z" creationid="WynnChen" creationdate="20190326T162649Z">
+        <seg>LanguageTool：服务器在预期 JSON 的情况下返回了 XML。确保你指定了正确的 API 版本（URL 中应当包含“/v2/”）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41432,8 +41432,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="en">
         <seg>Online Mediawiki Page URL</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T091805Z" creationid="wynnc" creationdate="20221111T091805Z">
-        <seg>在线 Mediawiki 页面网址</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T022853Z" creationid="wynnc" creationdate="20221111T091805Z">
+        <seg>在线 Mediawiki 页面 URL</seg>
       </tuv>
     </tu>
     <tu>
@@ -46175,8 +46175,8 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Repository (type: {0}) URL not defined on path: {1}</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20221125T055827Z" creationid="wynnc" creationdate="20221125T055827Z">
-        <seg>路径 {1} 上未定义存储库（类型：{0}）网址</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T023113Z" creationid="wynnc" creationdate="20221125T055827Z">
+        <seg>路径 {1} 上未定义存储库（类型：{0}）URL</seg>
       </tuv>
     </tu>
     <tu>
@@ -62879,8 +62879,8 @@ Exact searches match the whole search string.</seg>
       <tuv lang="en">
         <seg>URL</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T180714Z" creationid="wynnc" creationdate="20190320T180714Z">
-        <seg>网址</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T022900Z" creationid="wynnc" creationdate="20190320T180714Z">
+        <seg>URL</seg>
       </tuv>
     </tu>
     <tu>
@@ -62895,8 +62895,8 @@ Exact searches match the whole search string.</seg>
       <tuv lang="en">
         <seg>URL is missing URL string</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190324T045325Z" creationid="wynnc" creationdate="20190324T045301Z">
-        <seg>网址中缺少 URL 字符串</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T023123Z" creationid="wynnc" creationdate="20190324T045301Z">
+        <seg>URL 中缺少 URL 字符串</seg>
       </tuv>
     </tu>
     <tu>
@@ -62919,8 +62919,8 @@ Exact searches match the whole search string.</seg>
       <tuv lang="en">
         <seg>URL of downloadable spellchecking dictionaries:</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20221125T054139Z" creationid="wynnc" creationdate="20221125T054139Z">
-        <seg>可下载的拼写检查词典的网址：</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T023032Z" creationid="wynnc" creationdate="20221125T054139Z">
+        <seg>可下载的拼写检查词典的 URL：</seg>
       </tuv>
     </tu>
     <tu>
@@ -62935,8 +62935,8 @@ Exact searches match the whole search string.</seg>
       <tuv lang="en">
         <seg>URL:</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T113941Z" creationid="wynnc" creationdate="20190323T113941Z">
-        <seg>网址：</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T023053Z" creationid="wynnc" creationdate="20190323T113941Z">
+        <seg>URL：</seg>
       </tuv>
     </tu>
     <tu>
@@ -62999,8 +62999,8 @@ Exact searches match the whole search string.</seg>
       <tuv lang="en">
         <seg>Unable to connect to server. Ensure the server URL is correct.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20200116T060730Z" creationid="WynnChen" creationdate="20200116T060730Z">
-        <seg>无法连接到服务器。请确保服务器网址正确。</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T023104Z" creationid="WynnChen" creationdate="20200116T060730Z">
+        <seg>无法连接到服务器。请确保服务器 URL 正确。</seg>
       </tuv>
     </tu>
     <tu>
@@ -67381,8 +67381,8 @@ Your page is not found</seg>
       <tuv lang="en">
         <seg>Wrong URL detected in Linkifier: {0}</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T073734Z" creationid="WynnChen" creationdate="20221129T073734Z">
-        <seg>在 Linkifier 中检测到错误的网址：{0}</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T022919Z" creationid="WynnChen" creationdate="20221129T073734Z">
+        <seg>在 Linkifier 中检测到错误的 URL：{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -72248,8 +72248,8 @@ If the project contains files but their content is not displayed here:
       <tuv lang="en">
         <seg>href (URL of &amp;links)</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
-        <seg>href（链接的网址）(&amp;L)</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T023011Z" creationid="wynnc" creationdate="20190320T045507Z">
+        <seg>href（链接的 URL）(&amp;L)</seg>
       </tuv>
     </tu>
     <tu>
@@ -76221,8 +76221,8 @@ If the project contains files but their content is not displayed here:
       <tuv lang="en">
         <seg>src (URL of &amp;images)</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
-        <seg>src（图像的网址）(&amp;I)</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T023024Z" creationid="wynnc" creationdate="20190320T045507Z">
+        <seg>src（图像的 URL）(&amp;I)</seg>
       </tuv>
     </tu>
     <tu>
