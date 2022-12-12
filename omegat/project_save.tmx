@@ -5304,8 +5304,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;e0&gt;Adding files to the project: &lt;/e0&gt;You can add source files to the project by clicking on the "&lt;g1&gt;Import Source Files..."&lt;/g1&gt; button. This copies the selected files to the &lt;f2&gt;source&lt;/f2&gt; folder and reloads the project to import the new files. You can also add source files from Internet pages, written in MediaWiki, by clicking on&lt;g3&gt; "Import from MediaWiki"&lt;/g3&gt; button and providing the corresponding URL.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20221128T105825Z" creationid="WynnChen" creationdate="20200123T053326Z">
-        <seg>&lt;e0&gt;向项目中添加文件：&lt;/e0&gt;你可以通过点击“&lt;g1&gt;导入原文文件...&lt;/g1&gt;”按钮来向项目中添加原文文件。这会将所选择的文件复制到 &lt;f2&gt;source&lt;/f2&gt; 文件夹并重新加载项目以导入新文件。还可以通过点击&lt;g3&gt;“从 MediaWiki 导入”&lt;/g3&gt;按钮并提供相应的网址来从用 MediaWiki 编写的网页添加原文文件。</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T023506Z" creationid="WynnChen" creationdate="20200123T053326Z">
+        <seg>&lt;e0&gt;向项目中添加文件：&lt;/e0&gt;你可以通过点击“&lt;g1&gt;导入原文文件...&lt;/g1&gt;”按钮来向项目中添加原文文件。这会将所选择的文件复制到 &lt;f2&gt;source&lt;/f2&gt; 文件夹并重新加载项目以导入新文件。还可以通过点击&lt;g3&gt;“从 MediaWiki 导入”&lt;/g3&gt;按钮并提供相应的 URL 来从用 MediaWiki 编写的网页添加原文文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21567,6 +21567,14 @@ by the Free Software Foundation.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Editor Pane</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T023603Z" creationid="WynnChen" creationdate="20221212T023603Z">
+        <seg>编辑器窗格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Editor Panel</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T120709Z" creationid="WynnChen" creationdate="20221209T120709Z">
@@ -25505,14 +25513,6 @@ authors of previous versions.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T060520Z" creationid="wynnc" creationdate="20210504T060520Z">
         <seg>读取词汇表时使用的编码取决于文件扩展名：</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>Glossaries are terminology files stored in the &lt;l0/&gt; folder.</seg>
-      </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T022720Z" creationid="WynnChen" creationdate="20221212T022720Z">
-        <seg>Glossaries are terminology files stored in the &lt;l0/&gt; folder.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32882,8 +32882,8 @@ itself on the first run. Later calls do not need to be online.</seg>
       <tuv lang="en">
         <seg>Java Web Start technology (part of Java 8 and above) can be used to deploy standalone Java software applications with a single click over the network. Java Web Start ensures that the latest version of the application will be deployed, as well as the correct version of the Java Runtime Environment (JRE) used. To start OmegaT for the first time with Java Web Start, load the following URL in your browser:</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20200117T151246Z" creationid="WynnChen" creationdate="20200117T151246Z">
-        <seg>Java Web Start 技术（是 Java 8 或更高版本的一部分）可用于通过网络部署独立的 Java 软件应用程序，只需一次点击。Java Web Start 确保将部署的是应用程序的最新版本，以及使用的是正确版本的 Java Runtime Environment（JRE）。要首次通过 Java Web Start 启动 OmegaT，请在浏览器中打开以下网址：</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T023456Z" creationid="WynnChen" creationdate="20200117T151246Z">
+        <seg>Java Web Start 技术（是 Java 8 或更高版本的一部分）可用于通过网络部署独立的 Java 软件应用程序，只需一次点击。Java Web Start 确保将部署的是应用程序的最新版本，以及使用的是正确版本的 Java Runtime Environment（JRE）。要首次通过 Java Web Start 启动 OmegaT，请在浏览器中打开以下 URL：</seg>
       </tuv>
     </tu>
     <tu>
@@ -38653,6 +38653,14 @@ Thus, for example, rules for Canadian French (FR-CA) should be higher than rules
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T090933Z" creationid="wynnc" creationdate="20190323T090933Z">
         <seg>备注</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Notes Pane</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T023559Z" creationid="WynnChen" creationdate="20221212T023559Z">
+        <seg>笔记窗格</seg>
       </tuv>
     </tu>
     <tu>
@@ -62491,6 +62499,14 @@ install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translation is</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T023634Z" creationid="WynnChen" creationdate="20221212T023611Z">
+        <seg>译文是</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translation is fuzzy</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190324T025101Z" creationid="wynnc" creationdate="20190324T025101Z">
@@ -71862,6 +71878,14 @@ If the project contains files but their content is not displayed here:
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>fuzzy</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T023637Z" creationid="WynnChen" creationdate="20221212T023637Z">
+        <seg>模糊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>fy</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131108T101941Z" creationid="Fu Rhong" creationdate="20131108T101941Z">
@@ -74618,8 +74642,8 @@ If the project contains files but their content is not displayed here:
       <tuv lang="en">
         <seg>no</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131108T030534Z" creationid="Fu Rhong" creationdate="20131108T030534Z">
-        <seg>no</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T023623Z" creationid="Fu Rhong" creationdate="20131108T030534Z">
+        <seg>否</seg>
       </tuv>
     </tu>
     <tu>
@@ -74653,6 +74677,14 @@ If the project contains files but their content is not displayed here:
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131108T030534Z" creationid="Fu Rhong" creationdate="20131108T030534Z">
         <seg>nor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>not fuzzy</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T023742Z" creationid="WynnChen" creationdate="20221212T023742Z">
+        <seg>非模糊</seg>
       </tuv>
     </tu>
     <tu>
