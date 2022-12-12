@@ -13634,6 +13634,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Auto replace plural specification</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T021852Z" creationid="WynnChen" creationdate="20221212T021852Z">
+        <seg>自动替换复数格式规范(&amp;R)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Auto-Completion</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T105844Z" creationid="wynnc" creationdate="20190320T105844Z">
@@ -14298,6 +14306,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190405T031234Z" creationid="Fu Rhong" creationdate="20131107T142648Z">
         <seg>比斯拉玛语（Bislama）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Blank source segments sometimes act as placeholders for parts that do not exist in the source language but are necessary in the target language. Use this option to provide a translation based on the associated comments.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T021807Z" creationid="WynnChen" creationdate="20221212T021807Z">
+        <seg>空白原文片段有时充当原文语言中不存在但译文语言中必需的部分的占位符。使用此选项则可以根据关联的注释为这类片段提供翻译。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29505,6 +29521,14 @@ work and works based on it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Ignore PO header</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T021814Z" creationid="WynnChen" creationdate="20221212T021809Z">
+        <seg>忽略 PO 头</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Ignore file context when identifying segments with alternate translations: by default, OmegaT uses the source file name as part of the identification of an alternate translation.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Administrator" changedate="20180411T121819Z" creationid="Administrator" creationdate="20180411T121819Z">
@@ -42390,6 +42414,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Override the plural specification in the header and use the target language default.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T021927Z" creationid="WynnChen" creationdate="20221212T021927Z">
+        <seg>覆盖头部中的复数规范并使用译文语言的默认值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Overwrite Mode</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190515T044735Z" creationid="WynnChen" creationdate="20190515T044735Z">
@@ -53639,6 +53671,14 @@ software and other kinds of works.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The PO header will not be displayed for translation.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T021848Z" creationid="WynnChen" creationdate="20221212T021810Z">
+        <seg>不会显示 PO 头部供翻译。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Project Files Window displays the following information:</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120219T120609Z">
@@ -62061,6 +62101,14 @@ install.sh.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190902T095814Z" creationid="wynnc" creationdate="20190902T095814Z">
         <seg>翻译 PDF 文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translate blank source segments</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T021615Z" creationid="WynnChen" creationdate="20221212T021615Z">
+        <seg>翻译空原文片段(&amp;B)</seg>
       </tuv>
     </tu>
     <tu>
