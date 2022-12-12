@@ -32621,6 +32621,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It will be created the first time you add an entry to the glossary.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T024451Z" creationid="WynnChen" creationdate="20221212T024451Z">
+        <seg>它会在首次往词汇表中添加词条时创建。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It will be used automatically by OmegaT if &lt;g0&gt;Options &gt; Language Checker&lt;/g0&gt; is checked.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131108T112513Z" creationid="Fu Rhong" creationdate="20131108T112513Z">
@@ -56553,6 +56561,14 @@ modification follow.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The project glossary</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T024241Z" creationid="WynnChen" creationdate="20221212T024241Z">
+        <seg>项目词汇表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The project in the example is evidently finished, as all the unique segments have been translated.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="xulihang" changedate="20180404T033349Z">
@@ -58240,6 +58256,14 @@ protocols for communication across the network.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
         <seg>然后，在命令行输入：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There are 2 kinds of glossary files:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T024238Z" creationid="WynnChen" creationdate="20221212T024238Z">
+        <seg>有 2 种词汇表文件：</seg>
       </tuv>
     </tu>
     <tu>
@@ -67889,6 +67913,14 @@ covered work, you indicate your acceptance of this License to do so.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can also access it with &lt;l0/&gt;, open it in a text editor and modify it.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T024350Z" creationid="WynnChen" creationdate="20221212T024350Z">
+        <seg>也可以用&lt;l0/&gt;来访问它，在文本编辑器中打开它并对其进行修改。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can also add source files from Internet pages, written in MediaWiki, by clicking on&lt;g4&gt; "Import from MediaWiki"&lt;/g4&gt; button and providing the corresponding URL.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131124T133124Z">
@@ -68671,6 +68703,14 @@ linux-install.sh 脚本的文件夹，然后用 ./linux-install.sh 执行脚本�
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can use &lt;l0/&gt; to enter new terms in this glossary. It is called the &lt;e1&gt;writable&lt;/e1&gt; glossary for this reason.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T024324Z" creationid="WynnChen" creationdate="20221212T024324Z">
+        <seg>你可以用&lt;l0/&gt;在此词汇表中输入新术语。因此，它被称为&lt;e1&gt;可写&lt;/e1&gt;词汇表。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can use a similar procedure to create a button for your macro:</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Mac Pro" changedate="20180425T195531Z" creationid="Mac Pro" creationdate="20180425T195531Z">
@@ -68731,6 +68771,14 @@ linux-install.sh 脚本的文件夹，然后用 ./linux-install.sh 执行脚本�
       </tuv>
       <tuv lang="zh-CN" changeid="lenovo" changedate="20180416T165103Z" creationid="lenovo" creationdate="20180416T165103Z">
         <seg>您无需翻译整个软件包，可以只翻译一部分，比如只翻译用户界面或快速入门指南。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You do not need to prepare the file in advance.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T024410Z" creationid="WynnChen" creationdate="20221212T024410Z">
+        <seg>并不需要事先准备此文件。</seg>
       </tuv>
     </tu>
     <tu>
