@@ -25509,6 +25509,14 @@ authors of previous versions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Glossaries are terminology files stored in the &lt;l0/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T022720Z" creationid="WynnChen" creationdate="20221212T022720Z">
+        <seg>Glossaries are terminology files stored in the &lt;l0/&gt; folder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Glossaries are terminology files. They can be created and updated manually or imported from other projects.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T050851Z" creationid="wynnc" creationdate="20210504T050851Z">
@@ -31024,6 +31032,14 @@ patent against the party.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Index entries, bookmarks, bookmark references, notes, comments, presentation notes, links (URL), and sheet names.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T022709Z" creationid="WynnChen" creationdate="20221212T022709Z">
+        <seg>索引条目、书签、书签引用、备注、批注、演讲备注、链接（URL）、和工作表名称。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Indicate that this match is fuzzy (currently only for translations from PO files with the #fuzzy mark)</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190901T171010Z" creationid="Fu Rhong" creationdate="20131127T130811Z">
@@ -33148,6 +33164,14 @@ itself on the first run. Later calls do not need to be online.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T093557Z" creationid="wynnc" creationdate="20221111T093557Z">
         <seg>保留 Unico&amp;de 编码文字（\uXXXX）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Keep Unicode literals (\\uXXXX)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T022630Z" creationid="WynnChen" creationdate="20221212T022630Z">
+        <seg>保留 Unicode 编码文字（\\uXXXX）</seg>
       </tuv>
     </tu>
     <tu>
@@ -49967,6 +49991,14 @@ When using regular expressions, the replacement string supports references to gr
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Some applications require some Unicode literals to be kept. This option allows for that.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T022654Z" creationid="WynnChen" creationdate="20221212T022654Z">
+        <seg>一些应用程序需要保留某些 Unicode 编码文字。此选项可实现这点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Some devices are designed to deny users access to install or run
 modified versions of the software inside them, although the manufacturer
 can do so.  This is fundamentally incompatible with the aim of
@@ -57020,8 +57052,8 @@ protocols for communication across the network.</seg>
       <tuv lang="en">
         <seg>The server is not a valid Apertium server. Ensure the URL is correct.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20200116T060801Z" creationid="WynnChen" creationdate="20200116T060801Z">
-        <seg>此服务器不是有效的 Apertium 服务器。请确保网址正确。</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T022831Z" creationid="WynnChen" creationdate="20200116T060801Z">
+        <seg>此服务器不是有效的 Apertium 服务器。请确保 URL 正确。</seg>
       </tuv>
     </tu>
     <tu>
@@ -62185,6 +62217,14 @@ install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translate the following elements</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T022701Z" creationid="WynnChen" creationdate="20221212T022701Z">
+        <seg>翻译以下元素</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translate the following elements:</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190322T073224Z" creationid="wynnc" creationdate="20190322T073224Z">
@@ -64163,7 +64203,7 @@ Console only options:
  
 {0}</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20221128T105419Z" creationid="wynnc" creationdate="20221128T104559Z">
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T022821Z" creationid="wynnc" creationdate="20221128T104559Z">
         <seg>用法： java -jar [&lt;Java 选项&gt;] OmegaT.jar [&lt;OmegaT 选项&gt;] [&lt;项目路径&gt;]
  
 有关详细信息，包括可用的 Java 选项，请参阅“帮助 &gt; 用户指南”
@@ -64178,7 +64218,7 @@ OmegaT 选项：
 	  显示本帮助信息。
  
 	--remote-project
-	  从作为&lt;项目路径&gt;给出的网址下载 omegat.project 文件并加载此项目。
+	  从作为&lt;项目路径&gt;给出的 URL 下载 omegat.project 文件并加载此项目。
  
 	--no-team
 	  禁用团队项目功能。
