@@ -93,3 +93,5 @@ autotext	自动文本
 file filter	文件筛选器
 Tag shortcut	标签简写	指的是OmegaT进行标签保护时自动将诸如<item>变成灰色的<i0>这样的行为，后者即为tag shortcut
 Panel	面板	似乎和Pane（窗格）是一回事，例如 editor Panel，之前称为 editor Pane。
+Unicode literals	Unicode 编码文字
+Java Resource bundle	Java 资源包
