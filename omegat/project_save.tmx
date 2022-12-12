@@ -28754,6 +28754,14 @@ OmegaT.exe，请修改设置以显示文件扩展名。</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you choose to use an existing file as the default glossary, all new entries will be recorded in tab-separated format and saved in UTF-8 by default.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T024618Z" creationid="WynnChen" creationdate="20221212T024618Z">
+        <seg>如果选择使用一个现有文件作为默认词汇表，则默认情况下，所有新词条会以 tab 分隔的格式进行记录并以 UTF-8 保存。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you click on the button &lt;g0&gt;Advanced options&lt;/g0&gt; additional criteria (author or changer of the translation, date translated, excluding orphan segments, etc) can be selected. When &lt;e1&gt;Full/Half width char insensitive&lt;/e1&gt; option is checked, searches for fullwidth forms (CJK characters) will match halfwidth forms and vice versa.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20200123T070900Z" creationid="WynnChen" creationdate="20200123T070836Z">
@@ -29311,6 +29319,14 @@ to use Java Web Start.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="anton" changedate="20180416T080150Z" creationid="anton" creationdate="20180416T080053Z">
         <seg>如果您想选择基础订阅（免费，每月高达两百万字符），在订阅列表的顶部点击“注册”.&lt;br8/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you want to specify a different encoding, you can do so by adding a “magic” comment that takes the following form:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T024718Z" creationid="WynnChen" creationdate="20221212T024718Z">
+        <seg>如果要指定不同的编码，可以通过添加以下格式的“魔术”注释：</seg>
       </tuv>
     </tu>
     <tu>
