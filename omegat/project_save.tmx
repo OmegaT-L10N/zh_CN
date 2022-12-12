@@ -1390,6 +1390,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Install plugin from disk</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T120835Z" creationid="WynnChen" creationdate="20221209T120835Z">
+        <seg>从磁盘安装插件(&amp;I)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Jump To Segment</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190324T032855Z" creationid="wynnc" creationdate="20190324T032855Z">
@@ -7329,6 +7337,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;meta name="robots" content="index, follow"&gt;</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T121029Z" creationid="WynnChen" creationdate="20221209T121029Z">
+        <seg>&lt;meta name="robots" content="index, follow"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;name and path of the Java executable file&gt; -jar OmegaT.jar</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
@@ -9659,6 +9675,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;span translate="no"&gt;This content is not translatable&lt;/span&gt;</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T121132Z" creationid="WynnChen" creationdate="20221209T121132Z">
+        <seg>&lt;span translate="no"&gt;This content is not translatable&lt;/span&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;t0&gt; &lt;t1&gt;TSV&lt;/t1&gt; &lt;t2&gt; &lt;f3&gt;.txt&lt;/f3&gt; &lt;/t2&gt; &lt;t4&gt;UTF-8&lt;/t4&gt; &lt;/t0&gt; &lt;t5&gt; &lt;t6&gt;TSV&lt;/t6&gt; &lt;t7&gt; &lt;f8&gt;.utf8&lt;/f8&gt; &lt;/t7&gt; &lt;t9&gt;UTF-8&lt;/t9&gt; &lt;/t5&gt; &lt;t10&gt; &lt;t11&gt;TSV&lt;/t11&gt; &lt;t12&gt; &lt;f13&gt;.tab&lt;/f13&gt; &lt;/t12&gt; &lt;t14&gt;OS default encoding&lt;/t14&gt; &lt;/t10&gt; &lt;t15&gt; &lt;t16&gt;TSV&lt;/t16&gt; &lt;t17&gt; &lt;f18&gt;.tsv&lt;/f18&gt; &lt;/t17&gt; &lt;t19&gt;OS default encoding&lt;/t19&gt; &lt;/t15&gt; &lt;t20&gt; &lt;t21&gt;CSV&lt;/t21&gt; &lt;t22&gt; &lt;f23&gt;.csv&lt;/f23&gt; &lt;/t22&gt; &lt;t24&gt;UTF-8&lt;/t24&gt; &lt;/t20&gt; &lt;t25&gt; &lt;t26&gt;TBX&lt;/t26&gt; &lt;t27&gt; &lt;f28&gt;.tbx&lt;/f28&gt; &lt;/t27&gt; &lt;t29&gt;UTF-8&lt;/t29&gt; &lt;/t25&gt;</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T060606Z" creationid="wynnc" creationdate="20210504T060606Z">
@@ -10009,6 +10033,14 @@ this License.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
         <seg>一些简单的例子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A file is not a plugin archive</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T120947Z" creationid="WynnChen" creationdate="20221209T120947Z">
+        <seg>文件不是插件文件包。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11447,6 +11479,14 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Aggregate tags</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T114921Z" creationid="WynnChen" creationdate="20221209T114915Z">
+        <seg>聚合标签</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Aggressive &amp;Font Fallback</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T120623Z" creationid="wynnc" creationdate="20190323T120229Z">
@@ -11831,6 +11871,14 @@ rights of fair use or other equivalent, as provided by copyright law.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190409T035739Z" creationid="WynnChen" creationdate="20190409T035739Z">
         <seg>所有的语言都能访问 OmegaT 对象模型，其中的顶级对象为项目。例如下面的 groovy 代码片段扫描当前项目中所有文件内的所有片段，且当某个片段的翻译存在时打印出它的原文和译文：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>All the tags that are marked with &lt;c0&gt;translate="no"&lt;/c0&gt; will be ignored.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T121227Z" creationid="WynnChen" creationdate="20221209T121227Z">
+        <seg>所有用 &lt;c0&gt;translate="no"&lt;/c0&gt; 标记的标签都会被忽略。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13342,6 +13390,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120215T142348Z">
         <seg>在每个光标位置，由 &lt;e0&gt;之前&lt;/e0&gt;和&lt;e1&gt;之后&lt;/e1&gt;的模式组成的规则以指定的顺序应用，即对左边的文本使用&lt;e2&gt;之前&lt;/e2&gt;模式同时对光标右边的文本使用 &lt;e3&gt;之后&lt;/e3&gt; 模式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>At loading, any paragraph matching the regular expression will be ignored and will not be displayed for translation.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T115950Z" creationid="WynnChen" creationdate="20221209T115950Z">
+        <seg>在加载时，所有和此正则表达式相匹配的段落都会被忽略，并且不会显示供翻译。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16694,6 +16750,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Comments and sheet names.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T114810Z" creationid="WynnChen" creationdate="20221209T114810Z">
+        <seg>批注和工作表名称。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Comments by the author in PO files, or the name of the attribute being translated (in XHTML)</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131127T120934Z" creationid="Fu Rhong" creationdate="20131127T120934Z">
@@ -19091,6 +19155,22 @@ Some filters do not allow encoding modifications.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Define the &lt;meta&gt; tag attribute values for which the associated "content" attribute will not be translated.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T120322Z" creationid="WynnChen" creationdate="20221209T120110Z">
+        <seg>定义 &lt;meta&gt; 标签中的“content”属性有哪些值不要翻译。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Define the attribute values that make a tag non-translatable.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T121108Z" creationid="WynnChen" creationdate="20221209T121108Z">
+        <seg>定义让标签变为不可翻译的属性值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Define the paragraph tags, in this case by changing the line:</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="anton" changedate="20180416T084951Z" creationid="anton" creationdate="20180416T084951Z">
@@ -20188,6 +20268,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131101T070808Z" creationid="Fu Rhong" creationdate="20131101T070808Z">
         <seg>Dmitri Gabinski</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do not add quotation marks and separate the values with a comma.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T120259Z" creationid="WynnChen" creationdate="20221209T120259Z">
+        <seg>不要添加引号，多个值之间用英文逗号分隔。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21447,6 +21535,14 @@ by the Free Software Foundation.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Editor Panel</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T120709Z" creationid="WynnChen" creationdate="20221209T120709Z">
+        <seg>编辑器面板</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Editor pane</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120218T104053Z">
@@ -21599,6 +21695,14 @@ Your help page not found</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T175953Z" creationid="wynnc" creationdate="20190320T175953Z">
         <seg>在&lt;b&gt;首选项 &gt; 保存与输出...&lt;/b&gt;中可以启用它们。&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enable this option if soft-returns are intended to be paragraph starters.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T115324Z" creationid="WynnChen" creationdate="20221209T115324Z">
+        <seg>如果软回车符是段落开头，请启用此选项。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22937,6 +23041,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T080955Z" creationid="WynnChen" creationdate="20221129T080955Z">
         <seg>外部链接(&amp;K)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>External links, charts, diagrams, drawings, and WordArt.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T114905Z" creationid="WynnChen" creationdate="20221209T114905Z">
+        <seg>外部链接、数据图表、图表、绘图和艺术字。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29393,6 +29505,22 @@ work and works based on it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Ignore tags that contain translate="no"</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T121123Z" creationid="WynnChen" creationdate="20221209T121123Z">
+        <seg>忽略包含 translate="no" 的标签</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ignore the content part of &lt;meta name="robots" content="index, follow"&gt;</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T121020Z" creationid="WynnChen" creationdate="20221209T120333Z">
+        <seg>忽略 &lt;meta name="robots" content="index, follow"&gt; 的 content 部分</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Ignore type and ctype attributes when building &lt;&amp;bpt&gt; and &lt;ept&gt; tag shortcuts</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T100919Z" creationid="wynnc" creationdate="20190322T074936Z">
@@ -29411,24 +29539,32 @@ work and works based on it.</seg>
       <tuv lang="en">
         <seg>Ignored &lt;meta&gt; tags "content" attribute</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T104543Z" creationid="wynnc" creationdate="20221111T104543Z">
-        <seg>忽略 &lt;meta&gt; 标签的“content”属性</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T120119Z" creationid="wynnc" creationdate="20221111T104543Z">
+        <seg>要忽略的 &lt;meta&gt; 标签“content”属性</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Ignored paragraphs (regular expression)</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T104526Z" creationid="wynnc" creationdate="20221111T104526Z">
-        <seg>忽略段落（正则表达式）</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T120405Z" creationid="wynnc" creationdate="20221111T104526Z">
+        <seg>要忽略的段落（正则表达式）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ignored paragraphs at loading (regular expression)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T115858Z" creationid="WynnChen" creationdate="20221209T115858Z">
+        <seg>加载时要忽略的段落（正则表达式）</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Ignored tags (attribute=value)</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T104606Z" creationid="wynnc" creationdate="20221111T104606Z">
-        <seg>忽略标签（属性=值）</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T120419Z" creationid="wynnc" creationdate="20221111T104606Z">
+        <seg>要忽略的标签（属性=值）</seg>
       </tuv>
     </tu>
     <tu>
@@ -31274,6 +31410,22 @@ everything.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20221125T054243Z" creationid="wynnc" creationdate="20221125T054243Z">
         <seg>安装失败</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Install plugin file</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T120843Z" creationid="WynnChen" creationdate="20221209T120843Z">
+        <seg>安装插件文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Install plugin {0} {1}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T120901Z" creationid="WynnChen" creationdate="20221209T120901Z">
+        <seg>安装插件 {0} {1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -38272,6 +38424,14 @@ Thus, for example, rules for Canadian French (FR-CA) should be higher than rules
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note: The Source File Encoding setting only affects HHC and HHK files with no encoding declaration. If there is a declaration, that encoding will be used regardless of the setting specified here.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T120748Z" creationid="WynnChen" creationdate="20221209T120748Z">
+        <seg>注：原文文件编码设置只会影响没有编码声明的 HHC 和 HHK 文件。如果有编码声明则会使用该编码，而无视这里指定的设置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note: The Source File Encoding setting only affects HTML files with no encoding declaration. If there is a declaration, that encoding will be used regardless of the setting specified here.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T104459Z" creationid="wynnc" creationdate="20221111T104459Z">
@@ -38397,6 +38557,14 @@ Thus, for example, rules for Canadian French (FR-CA) should be higher than rules
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T090933Z" creationid="wynnc" creationdate="20190323T090933Z">
         <seg>备注</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Notes Panel</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T120538Z" creationid="WynnChen" creationdate="20221209T120538Z">
+        <seg>备注面板</seg>
       </tuv>
     </tu>
     <tu>
@@ -41270,6 +41438,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Only the options not available under the XHTML files filter (see above) are described here.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T121317Z" creationid="WynnChen" creationdate="20221209T121317Z">
+        <seg>这里只描述在 XHTML 文件筛选器（见上文）中不可用的选项。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Only this preference currently requires manual modification.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221205T121914Z" creationid="WynnChen" creationdate="20221205T121743Z">
@@ -43180,6 +43356,22 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20200730T052501Z" creationid="WynnChen" creationdate="20200730T052501Z">
         <seg>插件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Plugin Installer</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T120756Z" creationid="WynnChen" creationdate="20221209T120756Z">
+        <seg>插件安装程序</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Plugin installation failed.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T120919Z" creationid="WynnChen" creationdate="20221209T120919Z">
+        <seg>插件安装失败。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46982,6 +47174,49 @@ These words: 'Page not found'</seg>
     <tu>
       <tuv lang="en">
         <seg>Scope:
+Searches apply to the project and cover its source and target text, reference TMs, glossaries, notes, and comments by default. Tick or untick the appropriate boxes to change these settings.
+Searches can also be performed on a specified folder hierarchy.
+ 
+Types:
+Exact searches match the whole search string.
+Keyword searches match all space-separated keywords in any order.
+Regular expression searches match Java regular expressions as documented in the user guide.
+ 
+Wildcards:
+Both exact and keyword searches support the * and ? wildcards.
+'*' matches zero or more characters ('run*' matches 'run', 'runs', 'running', etc.)
+'?' matches exactly one character ('run?' matches 'runs' and 'rung', but not 'run' or 'running').
+ 
+Text Replace:
+Replace applies to the target segments of the project.
+Keyword searches are not available in the search string.
+When using regular expressions, the replacement string supports references to groups defined in the search string. Use $n to refer to the nth group.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T120743Z" creationid="WynnChen" creationdate="20221209T120743Z">
+        <seg>范围：
+默认情况下，搜索作用于整个项目，覆盖其原文和译文文本、参考翻译记忆库、词汇表、备注和注释。勾选或取消勾选相应的复选框可以更改这些设置。
+搜索还可以在指定文件夹层次上执行。
+
+类型：
+精确搜索完全匹配整个搜索字符串。
+关键字搜索会匹配以空格分隔的所有关键字，顺序任意。
+正则表达式搜索则以用户指南中所记载的 Java 正则表达式来进行匹配。
+ 
+通配符：
+精确搜索和关键字搜索都支持 * 和 ? 通配符。
+“*” 匹配零个或若干个字符（“run*”匹配“run”、“runs”、“running”，等等）
+“?” 匹配单个字符（“run?”匹配“runs”和“rung”，但不匹配“run”或“running”）。
+ 
+文本替换：
+替换作用于项目的译文片段。
+在搜索字符串处没有关键字搜索模式。
+当使用正则表达式时，替换字符串支持引用搜索字符串中所定义的组。用 $n 来引用第 n 个组。
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Scope:
 Searches apply to the project and cover its source and target text, reference TMs, glossaries, notes, and comments by default. Tick or untick the approrpiate boxes to change these settings.
 Searches can also be performed on a specified folder hierarchy.
  
@@ -48340,6 +48575,14 @@ When using regular expressions, the replacement string supports references to gr
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select a plugin file (*.jar, *.zip)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T120817Z" creationid="WynnChen" creationdate="20221209T120817Z">
+        <seg>选择插件文件（*.jar, *.zip）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select a supplier from the list and, if necessary, click &lt;g0&gt;Configure&lt;/g0&gt; to enter the identification details provided by the supplier.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190801T154025Z" creationid="WynnChen" creationdate="20190801T154025Z">
@@ -49464,6 +49707,14 @@ When using regular expressions, the replacement string supports references to gr
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190322T080945Z" creationid="wynnc" creationdate="20190322T080945Z">
         <seg>幻灯片版式(&amp;Y)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Slide comments, slide masters, and slide layouts.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T114838Z" creationid="WynnChen" creationdate="20221209T114838Z">
+        <seg>幻灯片批注、幻灯片母版、和幻灯片版式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50604,10 +50855,26 @@ All sets that match the project source language are applied.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Start a new paragraph on</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T115638Z" creationid="WynnChen" creationdate="20221209T115510Z">
+        <seg>新段落开始于</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Start a new paragraph on Word soft-returns</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T115236Z" creationid="WynnChen" creationdate="20221209T115236Z">
+        <seg>在 Word 软回车处开始新段落</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Start a new paragraph on:</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T064042Z" creationid="wynnc" creationdate="20190320T045507Z">
-        <seg>在此处开始新段落：</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T115530Z" creationid="wynnc" creationdate="20190320T045507Z">
+        <seg>新段落开始于：</seg>
       </tuv>
     </tu>
     <tu>
@@ -51796,6 +52063,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Tags that do not enclose translatable text will be aggregated into a single tag.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T115029Z" creationid="WynnChen" creationdate="20221209T115029Z">
+        <seg>其间没有可翻译文本的多个标签会被聚合成单个标签。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Tagwipe</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190403T155718Z" creationid="WynnChen" creationdate="20190403T155718Z">
@@ -52695,6 +52970,14 @@ form of a work.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120209T062908Z">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; 并不强迫用户使用谷歌翻译。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;br&gt; HTML tag will constitute a paragraph break for segmentation purposes.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T115833Z" creationid="WynnChen" creationdate="20221209T115833Z">
+        <seg>在分割时将 &lt;br&gt; HTML 标签视为段落分隔标记。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56527,6 +56810,14 @@ protocols for communication across the network.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The selected attributes will appear as translatable segments in the &lt;g0&gt;Editor&lt;/g0&gt; pane.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T115433Z" creationid="WynnChen" creationdate="20221209T115433Z">
+        <seg>所选属性将作为可翻译片段呈现在&lt;g0&gt;编辑器&lt;/g0&gt;窗格中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The selected fuzzy match is highlighted in bold, words that are missing in the segment you are translating are colored blue and words adjacent to the missing parts green.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120218T125640Z">
@@ -56850,6 +57141,14 @@ protocols for communication across the network.</seg>
         <seg>The specified project is an OmegaT 3.6 team project. Conversion to the new team project format cannot be performed in console mode. The project will be loaded as a local project without team functionality. Open it in the OmegaT GUI tTo convert it to the new format.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20221125T055516Z" creationid="wynnc" creationdate="20221125T055516Z">
+        <seg>指定项目是 OmegaT 3.6 团队项目。转换为新的团队项目格式在控制台模式下无法执行。此项目将作为没有团队功能的本地项目加载。在 OmegaT 图形界面中打开它来将其转换为新格式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The specified project is an OmegaT 3.6 team project. Conversion to the new team project format cannot be performed in console mode. The project will be loaded as a local project without team functionality. Open it in the OmegaT GUI to convert it to the new format.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T120822Z" creationid="WynnChen" creationdate="20221209T120822Z">
         <seg>指定项目是 OmegaT 3.6 团队项目。转换为新的团队项目格式在控制台模式下无法执行。此项目将作为没有团队功能的本地项目加载。在 OmegaT 图形界面中打开它来将其转换为新格式。</seg>
       </tuv>
     </tu>
@@ -59618,6 +59917,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This option is convenient when dealing with HTML parts that only contain non translatable text.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T120036Z" creationid="WynnChen" creationdate="20221209T120036Z">
+        <seg>此选项在处理仅包含不可翻译文本的 HTML 部件时非常方便。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This option is useful for some Chinese, Japanese or Korean character input systems.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120211T031537Z">
@@ -60690,6 +60997,14 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To ignore this content:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T120958Z" creationid="WynnChen" creationdate="20221209T120958Z">
+        <seg>要忽略此内容：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To install &lt;a0&gt;OmegaT&lt;/a0&gt;, double-click on the program you have downloaded.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190902T103452Z" creationid="Fu Rhong" creationdate="20131116T122423Z">
@@ -61674,6 +61989,14 @@ install.sh.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="lenovo" changedate="20180416T171343Z" creationid="lenovo" creationdate="20180416T171343Z">
         <seg>翻译你选择的文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translate the following attributes</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T115333Z" creationid="WynnChen" creationdate="20221209T115333Z">
+        <seg>翻译以下属性</seg>
       </tuv>
     </tu>
     <tu>
@@ -63149,6 +63472,18 @@ Please try to correct the error and reload the project.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="xulihang" changedate="20180404T021248Z" creationid="Fu Rhong" creationdate="20131116T121544Z">
         <seg>因此更新术语表变得非常简单：按下&lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt;并输入新术语、其翻译及注释（确保在字段间使用了TAB）并保存文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Upgrade/override plugin {0}
+current: {1}
+new version: {2}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T120915Z" creationid="WynnChen" creationdate="20221209T120854Z">
+        <seg>升级/覆盖插件 {0}
+当前：{1}
+新版本：{2}</seg>
       </tuv>
     </tu>
     <tu>
@@ -66238,6 +66573,14 @@ technological measures.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Whitespace (i.e., spaces and newlines) will be preserved, even if this option is not defined in the document.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T115228Z" creationid="WynnChen" creationdate="20221209T115228Z">
+        <seg>会保留空白字符（即空格和换行符），即使在文档中并未定义此选项也是如此。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Whitespace - leading</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190403T152110Z" creationid="xulihang" creationdate="20180408T113022Z">
@@ -68802,6 +69145,46 @@ To add files to the project you can
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
         <seg>项目没有包含任何所支持格式的文件。（在用户手册中，请参阅要翻译的文件&gt;文件格式列表来了解支持的文件格式。）\n要添加文件到项目中，打开项目文件窗口并点击复制文件到源文件夹按钮或者从项目菜单中调用该功能并选择想导入的源文件。您也可以使用您喜欢的文件管理工具将文件复制到项目的源文件夹，然后通过调用项目菜单的 项目 -&gt; 重新载入 来重新载入项目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your project does not seem to contain translatable files.
+ 
+To add files to the project you can:
+ 
+	- drag and drop files on this pane;
+	- use Project &gt; Add Files...;
+	- use Project &gt; Source Files... and click on Add Files...;
+	- use your file manager to copy files to the 'source' folder,
+	  and then use Project &gt; Reload to reload the project.
+ 
+If the project contains files but their content is not displayed here:
+ 
+	- verify that their format is supported by OmegaT:
+	  if per-project filter settings are enabled
+	  use Project &gt; Properties... &gt; Local File Filters...,
+	  otherwise use Options &gt; Global File Filters...;
+	- open them in their original application and verify that they are not empty.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T120439Z" creationid="WynnChen" creationdate="20221209T120439Z">
+        <seg>你的项目似乎并不包含可翻译文件。
+ 
+要将文件添加到项目中，你可以：
+ 
+	- 将文件拖放到此窗格中；
+	- 使用“项目 &gt; 添加文件...”；
+	- 使用“项目 &gt; 原文文件...”并点击“添加文件...”；
+	- 使用文件管理器将文件复制到“source”文件夹中，
+	  然后用“项目 &gt; 重新加载”来重新加载项目。
+ 
+如果项目中包含有文件但其内容并未显示在此：
+ 
+	- 确认其格式是 OmegaT 所支持的，
+	  如果启用了项目专用过滤器设置
+	  使用“项目 &gt; 属性... &gt; 局部文件过滤器...”，
+	  否则使用“选项 &gt; 全局文件过滤器...”；
+	- 将其用原始应用程序打开来确认它们不是空的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -73881,6 +74264,14 @@ To add files to the project you can
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>name=robots</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T121034Z" creationid="WynnChen" creationdate="20221209T121034Z">
+        <seg>name=robots</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>nau</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131108T030408Z" creationid="Fu Rhong" creationdate="20131108T030408Z">
@@ -76440,6 +76831,22 @@ To add files to the project you can
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190902T091735Z" creationid="wynnc" creationdate="20190902T091735Z">
         <seg>使用 &lt;m0&gt; &lt;g1&gt;项目&lt;/g1&gt; &lt;g2&gt;提交原文文件&lt;/g2&gt; &lt;/m0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>use:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T121032Z" creationid="WynnChen" creationdate="20221209T121032Z">
+        <seg>使用：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>use: &lt;l0&gt;translate=no&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T121207Z" creationid="WynnChen" creationdate="20221209T121207Z">
+        <seg>使用：&lt;l0&gt;translate=no&lt;/l0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
