@@ -32832,6 +32832,14 @@ itself on the first run. Later calls do not need to be online.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Java Resource bundle</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T022201Z" creationid="WynnChen" creationdate="20221212T022201Z">
+        <seg>Java 资源包</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Java Web Start ensures that the latest version of the application will be deployed, as well as the correct version of the Java Runtime Environment (JRE) used.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120223T155650Z">
@@ -42514,6 +42522,22 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120202T113152Z">
         <seg>PO 文件（*.po）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PO files that use &lt;l0&gt;msgid&lt;/l0&gt; as an ID code, use &lt;l1&gt;msgstr&lt;/l1&gt; as the source container and expect the translation to overwrite &lt;l2&gt;msgstr&lt;/l2&gt;</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T022151Z" creationid="WynnChen" creationdate="20221212T022104Z">
+        <seg>用 &lt;l0&gt;msgid&lt;/l0&gt; 作为 ID 代码、用 &lt;l1&gt;msgstr&lt;/l1&gt; 作为原文容器并预期用翻译覆盖 &lt;l2&gt;msgstr&lt;/l2&gt; 的 PO 文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PO files that use &lt;l0&gt;msgid&lt;/l0&gt; as the source container and expect the translation to be put in &lt;l1&gt;msgstr&lt;/l1&gt;</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T022110Z" creationid="WynnChen" creationdate="20221212T022047Z">
+        <seg>用 &lt;l0&gt;msgid&lt;/l0&gt; 作为原文容器并预期将翻译放在 &lt;l1&gt;msgstr&lt;/l1&gt; 中的 PO 文件</seg>
       </tuv>
     </tu>
     <tu>
@@ -54959,6 +54983,14 @@ instead.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20200117T025709Z" creationid="chloechao" creationdate="20180412T091211Z">
         <seg>本网站的文件，以便捷打包的形式提供给想要将其本地化的人。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The filter checks Java MessageFormat patterns (e.g. \{0\}) by default. See &lt;l0/&gt; for details.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T022309Z" creationid="WynnChen" creationdate="20221212T022309Z">
+        <seg>默认情况下，筛选器会检查 Java MessageFormat 模式（例如 \{0\}）。详情请参阅&lt;l0/&gt;。</seg>
       </tuv>
     </tu>
     <tu>
