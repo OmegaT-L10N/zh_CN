@@ -11915,6 +11915,14 @@ rights of fair use or other equivalent, as provided by copyright law.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Allow blank target segments</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T021437Z" creationid="WynnChen" creationdate="20221212T021437Z">
+        <seg>允许译文片段为空</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Allow local external search commands</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T093027Z" creationid="WynnChen" creationdate="20221129T093023Z">
@@ -26196,6 +26204,14 @@ authors of previous versions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Having untranslated contents in the translated files sometimes create compatibility issues.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T021350Z" creationid="WynnChen" creationdate="20221212T021350Z">
+        <seg>在译文文件中包含未翻译的内容有时候会产生兼容性问题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>He&amp;aders</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190322T075948Z" creationid="wynnc" creationdate="20190322T075449Z">
@@ -39241,6 +39257,14 @@ combination as such.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT always reproduces the source contents when a segment is not provided. Use this option to leave a non translated segment blank.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T021611Z" creationid="WynnChen" creationdate="20221212T021611Z">
+        <seg>在未提供片段内容时，OmegaT 总是会复制原文内容。使用此选项可将未翻译的片段留空。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT automatically chose the 'Yes' option.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T091347Z" creationid="wynnc" creationdate="20221111T091347Z">
@@ -45735,6 +45759,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T134649Z" creationid="wynnc" creationdate="20190320T045507Z">
         <seg>删除译文</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remove untranslated strings in the target files</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T021319Z" creationid="WynnChen" creationdate="20221212T021319Z">
+        <seg>删除译文文件中的未翻译字符串</seg>
       </tuv>
     </tu>
     <tu>
@@ -54887,6 +54919,14 @@ instead.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20200117T025709Z" creationid="chloechao" creationdate="20180412T091211Z">
         <seg>本网站的文件，以便捷打包的形式提供给想要将其本地化的人。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The filter checks printf variables ('%s', etc.) by default. See &lt;l0/&gt; for details.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T021432Z" creationid="WynnChen" creationdate="20221212T021432Z">
+        <seg>默认情况下，筛选器会检查 printf 变量（“%s”等）。详情请参阅&lt;l0/&gt;。</seg>
       </tuv>
     </tu>
     <tu>
