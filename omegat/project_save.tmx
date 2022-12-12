@@ -270,6 +270,14 @@ License.  Each licensee is addressed as "you".  "Licensees" and
     </tu>
     <tu>
       <tuv lang="en">
+        <seg># -*- coding: ISO-8859-1 -*-</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T025006Z" creationid="WynnChen" creationdate="20221212T025006Z">
+        <seg># -*- coding: ISO-8859-1 -*-</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg># OmegaT.exe runtime configuration
 # To use a parameter, remove the '#' before the '-'
 # Memory
@@ -2741,6 +2749,14 @@ not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(or any of the ISO-8859-1 to ISO-8859-10 character sets).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T025027Z" creationid="WynnChen" creationdate="20221212T025027Z">
+        <seg>（或任何 ISO-8859-1 到 ISO-8859-10 之间的字符集）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>* The Beginner's Tutorial&lt;br4/&gt;</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="lenovo" changedate="20180415T144213Z" creationid="lenovo" creationdate="20180415T144213Z">
@@ -5081,6 +5097,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="钢" changedate="20130504T153512Z">
         <seg>&lt;br&gt;按 &lt;u&gt;{0}&lt;/u&gt; 键返回到建议 &lt;b&gt;{1}&lt;/b&gt; 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;c0&gt;# -*- coding: &lt;p1&gt;&lt;charset&gt;&lt;/p1&gt; -*-&lt;/c0&gt;,</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T024741Z" creationid="WynnChen" creationdate="20221212T024741Z">
+        <seg>&lt;c0&gt;# -*- coding: &lt;p1&gt;&lt;charset&gt;&lt;/p1&gt; -*-&lt;/c0&gt;，</seg>
       </tuv>
     </tu>
     <tu>
@@ -72654,6 +72678,14 @@ If the project contains files but their content is not displayed here:
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>http://www.iana.org/assignments/character-sets/character-sets.xhtml</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T024742Z" creationid="WynnChen" creationdate="20221212T024742Z">
+        <seg>http://www.iana.org/assignments/character-sets/character-sets.xhtml</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>http://www.ibm.com/developerworks/java/jdk/linux/download.html</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120207T114121Z">
@@ -77455,6 +77487,14 @@ If the project contains files but their content is not displayed here:
       </tuv>
       <tuv lang="zh-CN" changeid="lenovo" changedate="20180416T103831Z" creationid="lenovo" creationdate="20180416T103831Z">
         <seg>其中&lt;i0&gt;路径&lt;/ i0&gt;是放置preview.tcl的文件夹的完整路径名。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>where &lt;p0&gt;&lt;charset&gt;&lt;/p0&gt; is typically one of the sets listed in the &lt;u1&gt;IANA Charset Registry&lt;/u1&gt;. To specify a glossary in the latin encoding, for example, use:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T025003Z" creationid="WynnChen" creationdate="20221212T025003Z">
+        <seg>其中 &lt;p0&gt;&lt;charset&gt;&lt;/p0&gt; 通常是 &lt;u1&gt;IANA Charset Registry&lt;/u1&gt; 中所列出的集合之一。例如，要指定某个词汇表使用拉丁语编码，请使用：</seg>
       </tuv>
     </tu>
     <tu>
