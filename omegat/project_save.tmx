@@ -2751,8 +2751,8 @@ not be entered.)</seg>
       <tuv lang="en">
         <seg>(or any of the ISO-8859-1 to ISO-8859-10 character sets).</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T025027Z" creationid="WynnChen" creationdate="20221212T025027Z">
-        <seg>（或任何 ISO-8859-1 到 ISO-8859-10 之间的字符集）。</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T025032Z" creationid="WynnChen" creationdate="20221212T025027Z">
+        <seg>（或任何 ISO-8859-1 到 ISO-8859-10 的字符集）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14827,6 +14827,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20200725T153901Z" creationid="WynnChen" creationdate="20200725T153901Z">
         <seg>默认情况下，所有未被排除的文件都会被包含。所以只在要否决某些排除项的时候才需要指定本项内容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By default, each project contains a &lt;l0/&gt; folder to store the writable glossary and any reference glossaries you want to add to the project. See &lt;l1/&gt; for details.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T025355Z" creationid="WynnChen" creationdate="20221212T025355Z">
+        <seg>默认情况下，每个项目都包含一个 &lt;l0/&gt; 文件夹，用于存储可写词汇表和需要添加到项目中的所有参考词汇表。详情请参阅&lt;l1/&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36494,6 +36502,14 @@ later version.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Modifications made to any glossary are immediately recognized by OmegaT displayed in the &lt;l0/&gt; pane.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T025256Z" creationid="WynnChen" creationdate="20221212T025256Z">
+        <seg>对任何一个词汇表做出的修改都会立刻被 OmegaT 识别到并显示在 &lt;l0/&gt; 窗格中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Modifications to the original document are thus handled with greater ease.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Yujun Yin" changedate="20131007T074415Z" creationid="Yujun Yin" creationdate="20131007T074415Z">
@@ -45206,6 +45222,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190403T143510Z" creationid="WynnChen" creationdate="20190403T143510Z">
         <seg>有关所有支持的文件格式的最新列表，请参阅 OmegaT 用户手册。以下列表仅限于典型用户特别感兴趣的那些格式，&lt;s0&gt;并非&lt;/s0&gt; OmegaT 支持的所有文件格式的详尽列表。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Reference glossaries</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T025041Z" creationid="WynnChen" creationdate="20221212T025028Z">
+        <seg>参考词汇表</seg>
       </tuv>
     </tu>
     <tu>
@@ -55451,6 +55475,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The glossaries folder</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T025302Z" creationid="WynnChen" creationdate="20221212T025302Z">
+        <seg>词汇表文件夹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The glossary file does not have the correct encoding.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190522T044950Z">
@@ -58766,6 +58798,14 @@ You, victim of one</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131117T024426Z" creationid="Fu Rhong" creationdate="20131117T024310Z">
         <seg>这些标签受到保护，这样您无法修改它们的内容，可以删除、手动输入或移动它们在目标语句中的位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They are terminology files in a format recognized by OmegaT. You cannot modify them from the OmegaT interface like the project glossary, but you can do so in a text editor.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T025156Z" creationid="WynnChen" creationdate="20221212T025156Z">
+        <seg>它们是 OmegaT 可识别格式的术语文件。你不能像项目词汇表那般从 OmegaT 的界面修改它们，但可以在文本编辑器中做到这点。</seg>
       </tuv>
     </tu>
     <tu>
