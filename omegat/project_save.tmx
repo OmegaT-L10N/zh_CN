@@ -11827,6 +11827,14 @@ rights of fair use or other equivalent, as provided by copyright law.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All terms in a segment with a match in &lt;e0&gt;any&lt;/e0&gt; of the glossaries will be displayed in the &lt;l1/&gt; pane.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T024039Z" creationid="WynnChen" creationdate="20221212T024039Z">
+        <seg>片段中所有在&lt;e0&gt;任意&lt;/e0&gt;词汇表中存在匹配的术语都会显示在&lt;l1/&gt;窗格中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All the contents of &lt;f0&gt;https://repo_for_All_OmegaT_team_project_sources&lt;/f0&gt; are mapped to the local OmegaT project source folder, except all *.bak files but readme.bak.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20201125T055535Z" creationid="wynnc" creationdate="20201125T055535Z">
@@ -25513,6 +25521,14 @@ authors of previous versions.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T060520Z" creationid="wynnc" creationdate="20210504T060520Z">
         <seg>读取词汇表时使用的编码取决于文件扩展名：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossaries are terminology files stored in the &lt;l0/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T023842Z" creationid="WynnChen" creationdate="20221212T023842Z">
+        <seg>词汇表是存储在 &lt;l0/&gt; 文件夹中的术语文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50621,6 +50637,14 @@ of the GPL, as needed to protect the freedom of users.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T081741Z" creationid="wynnc" creationdate="20190320T045507Z">
         <seg>原文词汇：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source terms can be multi-word expressions.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T024216Z" creationid="WynnChen" creationdate="20221212T024216Z">
+        <seg>原文术语可以是多个单词的语句。</seg>
       </tuv>
     </tu>
     <tu>
