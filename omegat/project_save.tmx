@@ -16774,6 +16774,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Comments within an HTML file are generally addressed to developers.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T021221Z" creationid="WynnChen" creationdate="20221212T021221Z">
+        <seg> HTML 文件中的注释通常是针对开发人员的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Commit Source Files</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T174337Z" creationid="wynnc" creationdate="20190320T091705Z">
@@ -52569,6 +52577,14 @@ The scope of a text replacement is the target segments of the project, whether t
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Text in HTML comments (between &lt;l0&gt;&lt;!--&lt;/l0&gt; and &lt;l1&gt;--&gt;&lt;/l1&gt;) will not be copied into the translated document.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T021302Z" creationid="WynnChen" creationdate="20221212T021302Z">
+        <seg>HTML 注释中的文本（位于 &lt;l0&gt;&lt;!--&lt;/l0&gt; 和 &lt;l1&gt;--&gt;&lt;/l1&gt; 之间）不会复制到译文文档中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Text in source segment that matches is shown in italic.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131113T122352Z" creationid="Fu Rhong" creationdate="20131113T122352Z">
@@ -59933,6 +59949,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This option converts such multiple continuous whitespace characters into a single space in the translated document.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T021204Z" creationid="WynnChen" creationdate="20221212T021204Z">
+        <seg>此选项会将这类多个连续空白字符在译文文档中转换为单个空格。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This option displays &lt;u0&gt;bidirectional control characters&lt;/u0&gt;</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20200121T032949Z" creationid="weiyi" creationdate="20180406T030238Z">
@@ -66617,6 +66641,14 @@ technological measures.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190403T152113Z" creationid="xulihang" creationdate="20180408T113032Z">
         <seg>空白字符 - 末尾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Whitespace outside the tags is considered non significant in HTML/XHTML.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T021124Z" creationid="WynnChen" creationdate="20221212T021124Z">
+        <seg>在 HTML/XHTML 中，位于标签之外的空白字符一般认为是不重要的。</seg>
       </tuv>
     </tu>
     <tu>
