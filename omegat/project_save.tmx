@@ -3967,10 +3967,58 @@ not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>.csv</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T101627Z" creationid="WynnChen" creationdate="20221212T101627Z">
+        <seg>.csv</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>.repositories</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20200123T033309Z" creationid="WynnChen" creationdate="20200123T033309Z">
         <seg>.repositories</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>.tab</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T101617Z" creationid="WynnChen" creationdate="20221212T101617Z">
+        <seg>.tab</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>.tbx</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T101702Z" creationid="WynnChen" creationdate="20221212T101702Z">
+        <seg>.tbx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>.tsv</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T101625Z" creationid="WynnChen" creationdate="20221212T101625Z">
+        <seg>.tsv</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>.txt</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T101615Z" creationid="WynnChen" creationdate="20221212T101615Z">
+        <seg>.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>.utf8</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T101616Z" creationid="WynnChen" creationdate="20221212T101616Z">
+        <seg>.utf8</seg>
       </tuv>
     </tu>
     <tu>
@@ -10515,6 +10563,14 @@ included in conveying the object code work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A writable glossary created for the project by OmegaT will be a TSV file saved in UTF-8. User-created files that use only latin characters may be recognized and treated as ISO-8859-1 if it does not contain non-ASCII characters or other characters interpreted as UTF-8.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T101521Z" creationid="WynnChen" creationdate="20221212T101521Z">
+        <seg>由 OmegaT 为项目创建的可写词汇表将是以 UTF-8 保存的 TSV 文件。用户创建的仅使用拉丁字符的文件如果不包含非 ASCII 字符或其他会被解析为 UTF-8 的字符，那么可能会被识别并视为 ISO-8859-1 进行处理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A&amp;dd</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T085300Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -12943,6 +12999,14 @@ menu, a prominent item in the list meets this criterion.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Any single digit from 0 to 9.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221213T020024Z" creationid="WynnChen" creationdate="20221213T020024Z">
+        <seg>0 到 9 之间的任何一位数字。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Any text, already translated and stored in those files, will appear among the fuzzy matches, if it is sufficiently similar to the text currently being translated.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120217T132106Z">
@@ -15035,6 +15099,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20200117T033908Z" creationid="WynnChen" creationdate="20200117T033908Z">
         <seg>CJ Translations</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>CSV</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T101626Z" creationid="WynnChen" creationdate="20221212T101626Z">
+        <seg>CSV</seg>
       </tuv>
     </tu>
     <tu>
@@ -19009,10 +19081,26 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Custom tags</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221213T020558Z" creationid="WynnChen" creationdate="20221213T020558Z">
+        <seg>自定义标签</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Custom tags (regular expression):</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20221125T052403Z" creationid="wynnc" creationdate="20221125T052403Z">
         <seg>自定义标签（正则表达式）：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Custom tags are tags defined with regular expressions that are handled exactly like native OmegaT tags. See &lt;l0/&gt; for details.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221213T020647Z" creationid="WynnChen" creationdate="20221213T020647Z">
+        <seg>自定义标签是使用正则表达式定义的标签，其处理方式和原生的 OmegaT 标签完全相同。详情请参阅&lt;l0/&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22957,6 +23045,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Extension</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T101613Z" creationid="WynnChen" creationdate="20221212T101613Z">
+        <seg>扩展名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>External GPG did not return a valid signature; got: {0}</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T093910Z" creationid="WynnChen" creationdate="20221129T093910Z">
@@ -23913,6 +24009,14 @@ patents cannot be used to render the program non-free.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120218T070109Z">
         <seg>修补是琐碎的操作，OmegaT 将会在相关的错误信息中给您一些提示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Flagged fragments</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221213T020721Z" creationid="WynnChen" creationdate="20221213T020721Z">
+        <seg>标记的片段</seg>
       </tuv>
     </tu>
     <tu>
@@ -24946,6 +25050,14 @@ authors of previous versions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Format</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T101610Z" creationid="WynnChen" creationdate="20221212T101610Z">
+        <seg>格式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Format, extensions and expected encoding</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T060535Z" creationid="wynnc" creationdate="20210504T060535Z">
@@ -25577,6 +25689,14 @@ authors of previous versions.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T050851Z" creationid="wynnc" creationdate="20210504T050851Z">
         <seg>词汇表是术语文件。可以手工创建和更新之，也可以从其他项目中导入。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossaries can be “tab-separated values” (TSV) or “comma-separated values” (CSV) files or can also use the TermBase eXchange (TBX) format.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T101203Z" creationid="WynnChen" creationdate="20221212T101203Z">
+        <seg>词汇表可以是“tab 分隔的值”（TSV）或“逗号分隔的值”（CSV）文件，也可以使用 TermBase eXchange（TBX）格式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26404,6 +26524,14 @@ Its winter has come</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131116T032215Z" creationid="Fu Rhong" creationdate="20131116T031922Z">
         <seg>在这里应先考虑的是标准Java形式的平台独立安装包。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Here are a few examples.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221213T020005Z" creationid="WynnChen" creationdate="20221213T020005Z">
+        <seg>这里有一些例子。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35465,6 +35593,14 @@ later version.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Many OmegaT functions rely on regular expressions or make them available as an option:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221213T020354Z" creationid="WynnChen" creationdate="20221213T020354Z">
+        <seg>很多 OmegaT 功能依赖于正则表达式或将其作为一个选项提供：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Many of you reading this will be translators who have translated a lot of user documentation.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="18261" changedate="20180412T102632Z" creationid="18261" creationdate="20180412T102632Z">
@@ -39112,6 +39248,14 @@ combination as such.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OS default encoding</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T101623Z" creationid="WynnChen" creationdate="20221212T101623Z">
+        <seg>操作系统默认编码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OVR</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190515T045100Z" creationid="WynnChen" creationdate="20190515T044830Z">
@@ -39709,6 +39853,14 @@ combination as such.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T072311Z" creationid="wynnc" creationdate="20210504T072136Z">
         <seg>适用于 macOS 的 OmegaT 具有已公证版本和未签名版本；它们在功能上完全相同，但首选已公证版本，因为系统会将其识别为 a) 由已知开发者发布 b) 已提供过了 Apple 的扫描。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT glossary files are simple plain text files containing three-column lists, with the source term in the first column, an optional target term in the second column, and an optional comment in the third column.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T101056Z" creationid="WynnChen" creationdate="20221212T101056Z">
+        <seg>OmegaT 的词汇表文件是包含三列列表的简单纯文本文件，第一列是词汇原文，第二列是词汇译文，而第三列则是注释。第二列和第三列都是可选的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40578,6 +40730,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190403T143002Z" creationid="WynnChen" creationdate="20190403T143002Z">
         <seg>OmegaT 可在任何可以运行合适版本的 Java 运行环境（JRE）的操作系统上运行。目前，这包括从 Windows 98 开始的所有版本的Microsoft Windows、Mac OS X 和大多数 Linux 发行版。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT searches include a &lt;l0/&gt; option that allows you to make extremely powerful searches across your files.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221213T020500Z" creationid="WynnChen" creationdate="20221213T020500Z">
+        <seg>OmegaT 的搜索包含一个&lt;l0/&gt;选项，允许你在文件中进行极其强大的搜索。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41634,6 +41794,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131117T003509Z" creationid="Fu Rhong" creationdate="20131117T003509Z">
         <seg>仅翻译dir-10文件夹中的test.html文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Only the fundamentals most useful to translators are covered. The &lt;l0/&gt; section at the end of this appendix provides a few starting points to explore advanced or complex uses beyond the scope of this guide. If you need help for a specific case, you can also ask questions in the various support channels.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221213T015845Z" creationid="WynnChen" creationdate="20221213T015845Z">
+        <seg>此处仅涵盖对翻译人员最有用的基础知识。本附录末尾的&lt;l0/&gt;章节提供一些起点，可供探索超出本指南范围的高级或复杂用途。如果你需要针对特定案例的帮助，也可以在各种支持渠道中提问。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45483,6 +45651,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Regular expressions use a combination of letters, digits, and symbols (collectively known as &lt;e0&gt;characters&lt;/e0&gt;) to define an &lt;e1&gt;expression&lt;/e1&gt; that represents a specific text pattern.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221213T015953Z" creationid="WynnChen" creationdate="20221213T015953Z">
+        <seg>正则表达式使用字母、数字和符号（统称为&lt;e0&gt;字符&lt;/e0&gt;）的组合来定义表示特定文本模式的&lt;e1&gt;表达式&lt;/e1&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Release details</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="钢" changedate="20130514T145313Z">
@@ -46345,6 +46521,22 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T180929Z" creationid="wynnc" creationdate="20190320T180929Z">
         <seg>存储库 {0} 未知</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Represents one or more “word characters”, namely the letters of the alphabet, digits, and underscore symbols.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221213T020135Z" creationid="WynnChen" creationdate="20221213T020135Z">
+        <seg>表示一个或多个“单词字符”，即字母表中的字母、数字、和下划线符号。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Represents zero or one horizontal whitespace character (this includes regular and non-breaking spaces as well as tabs, but not line break characters, which belong to the “vertical whitespace” category: \v.)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221213T020327Z" creationid="WynnChen" creationdate="20221213T020327Z">
+        <seg>表示零个或一个水平空格字符（这包括常规空格和不换行空格以及制表符，但不包括换行符，后者属于“垂直空格”类别（用 \v 表示）。)</seg>
       </tuv>
     </tu>
     <tu>
@@ -51768,6 +51960,14 @@ All sets that match the project source language are applied.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>TBX</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T101628Z" creationid="WynnChen" creationdate="20221212T101628Z">
+        <seg>TBX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>TBX - Term Base eXchange - is the open, XML-based standard for exchanging structured terminological data, TBX has been approved as an international standard by LISA and ISO.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131116T120432Z" creationid="Fu Rhong" creationdate="20131116T120432Z">
@@ -51947,6 +52147,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T112610Z">
         <seg>翻译记忆库</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TSV</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T101614Z" creationid="WynnChen" creationdate="20221212T101614Z">
+        <seg>TSV</seg>
       </tuv>
     </tu>
     <tu>
@@ -54971,6 +55179,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The encoding used to read reference glossaries depends on their file extension:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T101608Z" creationid="WynnChen" creationdate="20221212T101608Z">
+        <seg>读取参考词汇表时使用的编码取决于其文件扩展名：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The end of a line</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
@@ -56974,6 +57190,14 @@ protocols for communication across the network.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
         <seg>新增模式和编辑特定模式使用的是相同的对话框。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The same option in the &lt;l0/&gt; dialog allows you to apply regular expressions to both the search and replaced text.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221213T020553Z" creationid="WynnChen" creationdate="20221213T020553Z">
+        <seg>&lt;l0/&gt;对话框中的相同选项则允许你将正则表达式应用于搜索文本和替换文本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -59145,6 +59369,14 @@ the server.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190901T153234Z">
         <seg>这是一条例外规则，因此此规则的复选框必须取消勾选。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This appendix is intended for users interested in exploring a powerful way to boost their productivity. Although seen as daunting and complex, even the simplest regular expressions (often abbreviated &lt;e0&gt;regex&lt;/e0&gt; or &lt;e1&gt;regexp&lt;/e1&gt;) are extremely useful, not only in OmegaT, but in many other applications you might use on a day-to-day basis, with some variations.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221213T015641Z" creationid="WynnChen" creationdate="20221213T015641Z">
+        <seg>本附录面向对探索提高工作效率的强大方法感兴趣的用户。尽管看起来令人生畏且复杂，但即使是最简单的正则表达式（regulax expression，通常缩写为 &lt;e0&gt;regex&lt;/e0&gt; 或 &lt;e1&gt;regexp&lt;/e1&gt;）也十分有用，不仅在 OmegaT 中，在很多其他应用程序中你也可能会天天用到（可能是某种变体）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -63133,6 +63365,14 @@ Exact searches match the whole search string.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>UTF-8</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T101615Z" creationid="WynnChen" creationdate="20221212T101615Z">
+        <seg>UTF-8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Uighur, Uyghur</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190405T102342Z" creationid="Fu Rhong" creationdate="20131108T101737Z">
@@ -64805,6 +65045,22 @@ OmegaT 选项：
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190801T154255Z" creationid="WynnChen" creationdate="20190801T154255Z">
         <seg>使用分开出现在原文文本中的词条</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the &lt;c0&gt;|&lt;/c0&gt; (OR) character to separate individual fragment definitions.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221213T020932Z" creationid="WynnChen" creationdate="20221213T020932Z">
+        <seg>使用 &lt;c0&gt;|&lt;/c0&gt;（或）字符来分隔各个片段定义。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the &lt;c0&gt;|&lt;/c0&gt; (OR) character to separate individual tag definitions.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221213T020714Z" creationid="WynnChen" creationdate="20221213T020714Z">
+        <seg>使用 &lt;c0&gt;|&lt;/c0&gt;（或）字符来分隔各个标签定义。</seg>
       </tuv>
     </tu>
     <tu>
@@ -69677,6 +69933,14 @@ If the project contains files but their content is not displayed here:
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>[0-9]</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221213T020006Z" creationid="WynnChen" creationdate="20221213T020006Z">
+        <seg>[0-9]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>[Fuzzy]</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -69949,6 +70213,14 @@ If the project contains files but their content is not displayed here:
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>\h?</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221213T020136Z" creationid="WynnChen" creationdate="20221213T020136Z">
+        <seg>\h?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>\n</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120214T033534Z">
@@ -70065,6 +70337,14 @@ If the project contains files but their content is not displayed here:
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120214T035208Z">
         <seg>\w</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\w+</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221213T020025Z" creationid="WynnChen" creationdate="20221213T020025Z">
+        <seg>\w+</seg>
       </tuv>
     </tu>
     <tu>
@@ -70219,6 +70499,14 @@ If the project contains files but their content is not displayed here:
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T182509Z" creationid="wynnc" creationdate="20190320T045507Z">
         <seg>所有匹配的片段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>allow you to define strings that OmegaT will mark in red by default, and treat as extraneous tags for validation purposes.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221213T020916Z" creationid="WynnChen" creationdate="20221213T020916Z">
+        <seg>让你能定义一些字符串，OmegaT 默认情况下会将其显示为红色，并且会将其排除在验证目的之外。</seg>
       </tuv>
     </tu>
     <tu>
