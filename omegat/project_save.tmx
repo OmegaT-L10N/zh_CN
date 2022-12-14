@@ -10189,6 +10189,14 @@ this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A language pattern that matches the source language of the project will apply to that project.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221214T110743Z" creationid="WynnChen" creationdate="20221214T110743Z">
+        <seg>与项目的原文语言相匹配的语言模式将应用于该项目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A launch script file is not supplied with the Windows OmegaT versions.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="10353" changedate="20180414T094718Z" creationid="10353" creationdate="20180414T094718Z">
@@ -10289,6 +10297,14 @@ this License.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T105529Z" creationid="wynnc" creationdate="20190323T105422Z">
         <seg>备注就是关于这一组原文与译文的注释。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A number of characters or combinations of characters have a special meaning in a regular expression.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221214T111201Z" creationid="WynnChen" creationdate="20221214T111201Z">
+        <seg>许多字符或字符组合在正则表达式中具有特殊含义。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21396,6 +21412,14 @@ project_save.tmx 未真正上传，SVN 切换到不稳定状态。
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Each and every character in the expression is relevant when determining a match.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221214T111134Z" creationid="WynnChen" creationdate="20221214T111134Z">
+        <seg>在确定匹配时，表达式中的每一个字符都是有实际意义的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Each contributor grants you a non-exclusive, worldwide, royalty-free
 patent license under the contributor's essential patent claims, to
 make, use, sell, offer for sale, import and otherwise run, modify and
@@ -24564,6 +24588,14 @@ know their rights.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T103754Z" creationid="WynnChen" creationdate="20221209T103421Z">
         <seg>例如，XHTML 筛选器中注册的模式 &lt;l0&gt;.xhtml&lt;/l0&gt; 会匹配任何具有 &lt;f1&gt;xhtml&lt;/f1&gt; 扩展名的文件。如果在 &lt;l2/&gt; 文件夹中找到这样的文件，那么此文件就会由 XHTML 筛选器处理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, the seven letters spelling out the word “&lt;e0&gt;example&lt;/e0&gt;” simply tell the search function to match exactly those letters, in that order. Simply put, the search just looks for the word “&lt;e1&gt;example&lt;/e1&gt;”.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221214T111727Z" creationid="WynnChen" creationdate="20221214T111727Z">
+        <seg>例如，以七个字母拼出的单词“&lt;e0&gt;example&lt;/e0&gt;”只是告诉搜索功能要按此顺序精确匹配这些字母。简而言之，这样的搜索只是在查找单词“&lt;e1&gt;example&lt;/e1&gt;”。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36872,6 +36904,14 @@ your receipt of the notice.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Most characters simply match themselves</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221214T111505Z" creationid="WynnChen" creationdate="20221214T111454Z">
+        <seg>大多数字符只是匹配其自身</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Most file formats allow various possible encodings. By default, the encoding of the translated file is the same as that of the source file.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T104258Z" creationid="WynnChen" creationdate="20221209T104258Z">
@@ -45651,6 +45691,22 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Regular expressions are used to find text (including characters that are not visible on the screen or when printed out, such as spaces, tabs, or line breaks. Any given expression either &lt;e0&gt;matches&lt;/e0&gt;, or &lt;e1&gt;does &lt;e2&gt;not&lt;/e2&gt; match&lt;/e1&gt; a word, phrase, or other sequence of text.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221214T111013Z" creationid="WynnChen" creationdate="20221214T111013Z">
+        <seg>正则表达式用于查找文本（包括在屏幕上或打印输出时不可见的字符，例如空格、tab、或断行。任何给定表达式要么&lt;e0&gt;匹配&lt;/e0&gt;要么&lt;e1&gt;&lt;e2&gt;不&lt;/e2&gt;匹配&lt;/e1&gt;单词、短语、或其他文本序列。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Regular expressions only match text. They cannot match decorations such as &lt;e0&gt;bold&lt;/e0&gt;, &lt;e1&gt;italics&lt;/e1&gt;, or other &lt;e2&gt;stylistic effects&lt;/e2&gt;.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221214T111418Z" creationid="WynnChen" creationdate="20221214T111418Z">
+        <seg>正则表达式只匹配文本。它们不会匹配诸如&lt;e0&gt;粗体&lt;/e0&gt;、&lt;e1&gt;斜体&lt;/e1&gt;等修饰或其他&lt;e2&gt;格式效果&lt;/e2&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Regular expressions use a combination of letters, digits, and symbols (collectively known as &lt;e0&gt;characters&lt;/e0&gt;) to define an &lt;e1&gt;expression&lt;/e1&gt; that represents a specific text pattern.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221213T015953Z" creationid="WynnChen" creationdate="20221213T015953Z">
@@ -48711,10 +48767,26 @@ When using regular expressions, the replacement string supports references to gr
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Segmentation or exception rules define the position in a segment where a split will, or will not, be made. Two regular expressions are required to define that position: a “before” expression to define the text pattern ahead of where the rule should apply, and an “after” expression to define the text pattern following that position.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221214T110705Z" creationid="WynnChen" creationdate="20221214T110705Z">
+        <seg>分割规则或例外规则定义了在片段中进行拆分或不能拆分的位置。定义该位置需要两个正则表达式：“前”表达式定义了需要应用该规则的位置之前的文本模式，而“后”表达式这定义此位置之后的文本模式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Segmentation rules</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120215T141234Z">
         <seg>片段分割规则</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Segmentation rules and language patterns are defined with regular expressions. You can modify them freely to improve the segmentation of a document or add additional general rules. See &lt;l0/&gt; for details.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221214T110353Z" creationid="WynnChen" creationdate="20221214T110353Z">
+        <seg>分割规则和语言模式是用正则表达式定义的。你可以随意修改它们以改进文档的片段分割或者添加其他通用规则。详情请参阅&lt;l0/&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53430,6 +53502,14 @@ form of a work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The 4 rules</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221214T110755Z" creationid="WynnChen" creationdate="20221214T110755Z">
+        <seg>4 条规则</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;a0&gt;Java Development Kit&lt;/a0&gt; is required.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="xulihang" changedate="20180420T021923Z" creationid="liufang" creationdate="20180416T121614Z">
@@ -56263,6 +56343,14 @@ your programs, too.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The majority of characters in a regular expression simply &lt;e0&gt;look for themselves&lt;/e0&gt; in the text sequence.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221214T111601Z" creationid="WynnChen" creationdate="20221214T111456Z">
+        <seg>正则表达式中的大多数字符只是在文本序列中&lt;e0&gt;查找其自身&lt;/e0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The mappings can be added by editing &lt;f0&gt;omegat.project&lt;/f0&gt; or via the UI: &lt;m1&gt; &lt;g2&gt;Project&lt;/g2&gt; &lt;g3&gt;Properties&lt;/g3&gt; &lt;g4&gt;Repository Mapping&lt;/g4&gt; &lt;/m1&gt;</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20201125T055235Z" creationid="wynnc" creationdate="20201125T055235Z">
@@ -58641,6 +58729,14 @@ protocols for communication across the network.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120217T114202Z">
         <seg>进行这个操作实际分成两步。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There are four rules to keep in mind.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221214T111442Z" creationid="WynnChen" creationdate="20221214T111442Z">
+        <seg>有四条规则需要牢记。</seg>
       </tuv>
     </tu>
     <tu>
