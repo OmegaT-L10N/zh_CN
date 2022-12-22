@@ -24489,6 +24489,14 @@ can then launch the Kaptain launch script with:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For details, see:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T111344Z" creationid="WynnChen" creationdate="20221222T111344Z">
+        <seg>详情请参阅：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For easier navigation in the search result set, you can apply the search to the editor. Press the &lt;e0&gt;Filter&lt;/e0&gt; button on the bottom to limit the shown entries in the editor window to those that match the current search. You can use normal navigation to go to e.g. the next (untranslated) segment that matches the search criteria.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20200123T073443Z" creationid="WynnChen" creationdate="20200123T073121Z">
@@ -36808,6 +36816,14 @@ later version.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Modified local file filters are saved in the &lt;l0/&gt; file, located in the project folder. See the &lt;l1/&gt; chapter for details. Deleting that file also resets the filter preferences and reverts the project to global file filters.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T111415Z" creationid="WynnChen" creationdate="20221222T111415Z">
+        <seg>修改过的局部文件筛选器首选项保存在位于项目文件夹内的 &lt;l0/&gt; 文件中。详情请参阅章节&lt;l1/&gt;。删除此文件也会重置筛选器首选项并将项目恢复为使用全局文件筛选器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Modified preferences are stored in the configuration folder used by the project. If you do not use the default configuration folder, all modifications made in &lt;l0/&gt; will be stored in the specified configuration folder and will not appear when you resume work with the default configuration folder.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221206T142227Z" creationid="WynnChen" creationdate="20221206T142227Z">
@@ -48723,6 +48739,14 @@ When using regular expressions, the replacement string supports references to gr
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l0/&gt; how-to for details.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T105113Z" creationid="WynnChen" creationdate="20221222T105113Z">
+        <seg>详情请参阅指南&lt;l0/&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the &lt;u0&gt; Oracle documentation&lt;/u0&gt; for examples.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T105839Z" creationid="WynnChen" creationdate="20221209T105839Z">
@@ -60153,6 +60177,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This folder contains your spelling dictionaries. See the &lt;l0/&gt; preferences for details.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T111330Z" creationid="WynnChen" creationdate="20221222T111330Z">
+        <seg>此文件夹包含你的拼写词典。详情请参阅&lt;l0/&gt;首选项。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This folder is initially empty.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131114T075526Z" creationid="Fu Rhong" creationdate="20131114T075503Z">
@@ -60173,6 +60205,14 @@ the server.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221206T141743Z" creationid="WynnChen" creationdate="20221206T141743Z">
         <seg>此文件夹为手动安装的 OmegaT 扩展插件提供了备选位置。详情请参见&lt;l0/&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This folder provides an alternative location for manually installed OmegaT extension plugins. See the &lt;l0/&gt; preference for details.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T105147Z" creationid="WynnChen" creationdate="20221222T105147Z">
+        <seg>此文件夹为手动安装的 OmegaT 扩展插件提供了备选位置。详情请参见&lt;l0/&gt;首选项。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60881,6 +60921,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This parameter file contains customized autotext parameters. See the &lt;l0/&gt; preferences for details.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T105101Z" creationid="WynnChen" creationdate="20221222T105101Z">
+        <seg>这个参数文件包含自定义的自动文本参数。详情请参阅&lt;l0/&gt;首选项。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This parameter file contains customized editor shortcuts. See &lt;l0/&gt; for details.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221206T141016Z" creationid="WynnChen" creationdate="20221206T141016Z">
@@ -60905,6 +60953,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This parameter file contains customized external search parameters. See the &lt;l0/&gt; preferences for details.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T105055Z" creationid="WynnChen" creationdate="20221222T105055Z">
+        <seg>这个参数文件包含自定义的外部搜索参数。详情请参阅&lt;l0/&gt;首选项。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This parameter file contains customized file filters. See &lt;l0/&gt; for details.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T103754Z" creationid="WynnChen" creationdate="20221206T141041Z">
@@ -60913,10 +60969,26 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This parameter file contains customized file filters. See the &lt;l0/&gt; preferences for details.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T105044Z" creationid="WynnChen" creationdate="20221222T105044Z">
+        <seg>这个参数文件包含自定义的文件筛选器。详情请参阅&lt;l0/&gt;首选项。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This parameter file contains customized segmentation parameters. See &lt;l0/&gt; for details.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221206T141525Z" creationid="WynnChen" creationdate="20221206T141525Z">
         <seg>这个参数文件包含自定义的片段分割参数。详情请参阅&lt;l0/&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This parameter file contains customized segmentation parameters. See the &lt;l0/&gt; preferences for details.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T105141Z" creationid="WynnChen" creationdate="20221222T105141Z">
+        <seg>这个参数文件包含自定义分割参数。详情请参阅&lt;l0/&gt;首选项。</seg>
       </tuv>
     </tu>
     <tu>
