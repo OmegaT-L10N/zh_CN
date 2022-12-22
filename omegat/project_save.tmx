@@ -2977,6 +2977,36 @@ not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>- Anthony Baldwin (localisation manager)
+- Vincent Bidaux (documentation manager)
+- Didier Briel (project manager)
+- Alex Buloichik (lead developer)
+- Sabine Cretella
+- Dmitri Gabinski
+- Aaron Madlon-Kay (project manager)
+- Maxym Mykhalchuk (lead developer)
+- Samuel Murray
+- Henry Pijffers (release manager)
+- Marc Prior (project co-ordinator, webmaster)
+- Vito Smolej (documentation manager)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T103220Z" creationid="WynnChen" creationdate="20221222T103220Z">
+        <seg>- Anthony Baldwin（本地化经理）
+- Vincent Bidaux（文档经理）
+- Didier Briel（项目经理）
+- Alex Buloichik（首席开发人员）
+- Sabine Cretella
+- Dmitri Gabinski
+- Aaron Madlon-Kay（项目经理）
+- Maxym Mykhalchuk（首席开发人员）
+- Samuel Murray
+- Henry Pijffers（发布经理）
+- Marc Prior（项目调度员、网站管理员）
+- Vito Smolej（文档经理）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>- Before editing OmegaT.l4J.ini&lt;br2/&gt;</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="anton" changedate="20180416T081554Z" creationid="anton" creationdate="20180416T081554Z">
@@ -3205,6 +3235,26 @@ not be entered.)</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="钢" changedate="20130514T151900Z">
         <seg>- Magento CE Locale CSV (*.csv)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>- Marco Cevoli (Telegram community manager)
+- Jean-Christophe Helary (Twitter community manager)
+- Kos Ivantsov (localisation manager)
+- Concepción Martin (Facebook community manager)
+- Hiroshi Miura (lead developer)
+- Briac Pilpré (webmaster)
+- Lucie Vecerova (Facebook community manager)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T103114Z" creationid="WynnChen" creationdate="20221222T103114Z">
+        <seg>- Marco Cevoli（Telegram 社区经理）
+- Jean-Christophe Helary（Twitter 社区经理）
+- Kos Ivantsov（本地化经理）
+- Concepción Martin（Facebook 社区经理）
+- Hiroshi Miura（首席开发人员）
+- Briac Pilpré（网站管理员）
+- Lucie Vecerova（Facebook 社区经理）</seg>
       </tuv>
     </tu>
     <tu>
@@ -33256,6 +33306,14 @@ itself on the first run. Later calls do not need to be online.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Jean-Christophe Helary is the OmegaT project manager.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T102947Z" creationid="WynnChen" creationdate="20221222T102947Z">
+        <seg>Jean-Christophe Helary 是 OmegaT 的项目经理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Jean-Christophe Helary: special thanks to JC for his concise description of OmegaT run, command line parameters and all other details, I have yet to notice.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190404T131622Z" creationid="Fu Rhong" creationdate="20131102T030310Z">
@@ -41332,6 +41390,14 @@ unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T094235Z" creationid="WynnChen" creationdate="20221129T094235Z">
         <seg>OmegaT 的可执行文件。从命令行启动 OmegaT 时使用。详细信息请参阅 &lt;l0/&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT's executable. Used when launching OmegaT from the command line. See the &lt;l0/&gt; chapter for details.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T102855Z" creationid="WynnChen" creationdate="20221222T102855Z">
+        <seg>OmegaT 的可执行文件。从命令行启动 OmegaT 时使用。详细信息请参阅章节 &lt;l0/&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -59955,6 +60021,14 @@ the server.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221205T121341Z" creationid="WynnChen" creationdate="20221205T121341Z">
         <seg>此文件包含许多重要的用户首选项。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This file is not a plugin archive.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T102825Z" creationid="WynnChen" creationdate="20221222T102825Z">
+        <seg>此文件不是插件文件包。</seg>
       </tuv>
     </tu>
     <tu>
