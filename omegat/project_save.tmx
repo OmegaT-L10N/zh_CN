@@ -5215,6 +5215,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;c0&gt;# -*- coding: &lt;charset&gt; -*-&lt;/c0&gt;,</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T111724Z" creationid="WynnChen" creationdate="20221222T111724Z">
+        <seg>&lt;c0&gt;# -*- coding: &lt;charset&gt; -*-&lt;/c0&gt;,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;c0&gt;# -*- coding: &lt;p1&gt;&lt;charset&gt;&lt;/p1&gt; -*-&lt;/c0&gt;,</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T024741Z" creationid="WynnChen" creationdate="20221212T024741Z">
@@ -14997,6 +15005,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T025355Z" creationid="WynnChen" creationdate="20221212T025355Z">
         <seg>默认情况下，每个项目都包含一个 &lt;l0/&gt; 文件夹，用于存储可写词汇表和需要添加到项目中的所有参考词汇表。详情请参阅&lt;l1/&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By default, each project contains a &lt;l0/&gt; folder to store the writable glossary and any reference glossaries you want to add to the project. See the &lt;l1/&gt; project property for details.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T111804Z" creationid="WynnChen" creationdate="20221222T111804Z">
+        <seg>默认情况下，每个项目都包含一个 &lt;l0/&gt; 文件夹，用于存储可写词汇表和需要添加到项目中的所有参考词汇表。详情请参阅&lt;l1/&gt;项目属性。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44084,6 +44100,14 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Post-Processing Commands</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T112005Z" creationid="WynnChen" creationdate="20221222T112005Z">
+        <seg>后处理命令</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Post-processing command failed. Exit code {0}: "{1}"</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T071100Z" creationid="WynnChen" creationdate="20221129T071100Z">
@@ -48759,6 +48783,14 @@ When using regular expressions, the replacement string supports references to gr
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T105113Z" creationid="WynnChen" creationdate="20221222T105113Z">
         <seg>详情请参阅指南&lt;l0/&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See the &lt;l0/&gt; projet property for project specific commands.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T112057Z" creationid="WynnChen" creationdate="20221222T112057Z">
+        <seg>有关See the &lt;l0/&gt; projet property for project specific commands.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65597,6 +65629,14 @@ OmegaT 选项：
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use the &lt;l0/&gt; project property to set the location of the reference glossaries folder. This folder can be set outside the project, enabling you to use it, or one of the specific subfolders, in other projects.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T111824Z" creationid="WynnChen" creationdate="20221222T111824Z">
+        <seg>用&lt;l0/&gt;项目属性来设置参考词汇表文件夹的位置。此文件夹可以设置为使用在项目之外的文件夹或其他项目的特定子文件夹之一。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use the &lt;l0&gt;option&lt;/l0&gt; to set the location of the reference glossaries folder. This folder can be set outside the project, enabling you to use it, or one of the specific subfolders, in other projects.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T100621Z" creationid="WynnChen" creationdate="20221212T100621Z">
@@ -78379,6 +78419,14 @@ If the project contains files but their content is not displayed here:
       </tuv>
       <tuv lang="zh-CN" changeid="lenovo" changedate="20180416T103831Z" creationid="lenovo" creationdate="20180416T103831Z">
         <seg>其中&lt;i0&gt;路径&lt;/ i0&gt;是放置preview.tcl的文件夹的完整路径名。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>where &lt;p0&gt;&lt;charset&gt;&lt;/p0&gt; is typically one of the sets listed in the &lt;u1&gt;IANA Charset Registry&lt;/u1&gt;.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T111739Z" creationid="WynnChen" creationdate="20221222T111739Z">
+        <seg>其中 &lt;p0&gt;&lt;charset&gt;&lt;/p0&gt; 通常是 &lt;u1&gt;IANA Charset Registry&lt;/u1&gt; 中所列出的集合之一。</seg>
       </tuv>
     </tu>
     <tu>
