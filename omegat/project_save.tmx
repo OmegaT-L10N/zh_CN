@@ -19315,6 +19315,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Custom tags are tags defined with regular expressions that are handled exactly like native OmegaT tags. See the &lt;l0/&gt; preference for details.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T114514Z" creationid="WynnChen" creationdate="20221222T114514Z">
+        <seg>自定义标签是使用正则表达式定义的标签，其处理方式和原生的 OmegaT 标签完全相同。详情请参阅&lt;l0/&gt;首选项。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Customer ID (corresponds to &lt;c0&gt;microsoft.api.client_id&lt;/c0&gt; command-line parameter)</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="weiyi" changedate="20180405T145331Z" creationid="weiyi" creationdate="20180405T145331Z">
@@ -32434,6 +32442,14 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Invoke-Item ${targetRoot}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T114419Z" creationid="WynnChen" creationdate="20221222T114419Z">
+        <seg>Invoke-Item ${targetRoot}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Irish</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190405T043623Z">
@@ -42250,6 +42266,14 @@ unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Only the fundamentals most useful to translators are covered. The &lt;l0/&gt; section at the end of this appendix provides a few starting points to explore advanced or complex uses beyond the scope of this manual. If you need help for a specific case, you can also ask questions in the various support channels.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T114444Z" creationid="WynnChen" creationdate="20221222T114444Z">
+        <seg>此处仅涵盖对翻译人员最有用的基础知识。本附录末尾的&lt;l0/&gt;章节提供一些起点，可供探索超出本手册范围的高级或复杂用途。如果你需要针对特定案例的帮助，也可以在各种支持渠道中提问。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Only the options not available under the XHTML files filter (see above) are described here.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T121317Z" creationid="WynnChen" creationdate="20221209T121317Z">
@@ -42470,6 +42494,30 @@ unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20200123T024152Z" creationid="WynnChen" creationdate="20200123T024152Z">
         <seg>打开项目。更改会体现出来。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open the target folder in Linux</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T114342Z" creationid="WynnChen" creationdate="20221222T114342Z">
+        <seg>在 Linux 中打开 target 文件夹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open the target folder in Windows Powershell</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T114414Z" creationid="WynnChen" creationdate="20221222T114414Z">
+        <seg>在 Windows Powershell 中打开  target 文件夹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open the target folder in macOS</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T114355Z" creationid="WynnChen" creationdate="20221222T114355Z">
+        <seg>在 macOS 中打开 target 文件夹</seg>
       </tuv>
     </tu>
     <tu>
@@ -50407,6 +50455,14 @@ When using regular expressions, the replacement string supports references to gr
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190901T164512Z" creationid="WynnChen" creationdate="20190901T164512Z">
         <seg>类似地，输入 &lt;u0&gt;&lt;.*?&gt;&lt;/u0&gt; 可以确保原文文本中的 HTML 标记（例）在翻译过程中维持原封不动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Simple example of a post-processing commands:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T114324Z" creationid="WynnChen" creationdate="20221222T114324Z">
+        <seg>后处理命令的简单示例：</seg>
       </tuv>
     </tu>
     <tu>
@@ -76309,6 +76365,14 @@ If the project contains files but their content is not displayed here:
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>open ${targetRoot}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T114356Z" creationid="WynnChen" creationdate="20221222T114356Z">
+        <seg>open ${targetRoot}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>open Auto-completer dialog box with contextual suggestions (Mac: &lt;e0&gt;Esc&lt;/e0&gt;). Once Auto-completer is open, use &lt;e1&gt;Ctrl+Space&lt;/e1&gt; again to switch successively from &lt;e2&gt;Glossaries entries&lt;/e2&gt;, &lt;e3&gt;Auto-text entries,&lt;/e3&gt; &lt;e4&gt;Missing tags&lt;/e4&gt; and &lt;e5&gt;Character table&lt;/e5&gt; options.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190405T021431Z" creationid="WynnChen" creationdate="20190403T153137Z">
@@ -78859,6 +78923,14 @@ If the project contains files but their content is not displayed here:
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120214T033418Z">
         <seg>x</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>xdg-open ${targetRoot}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T114342Z" creationid="WynnChen" creationdate="20221222T114342Z">
+        <seg>xdg-open ${targetRoot}</seg>
       </tuv>
     </tu>
     <tu>
