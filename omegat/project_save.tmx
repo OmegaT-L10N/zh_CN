@@ -47673,6 +47673,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>STDOUT and STDERR are written to the &lt;l0&gt;omegat.log&lt;/l0&gt; file. The exit code and STDERR or the last STDOUT will appear on the status bar.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T113910Z" creationid="WynnChen" creationdate="20221222T113910Z">
+        <seg>STDOUT 和 STDERR 会被写入 &lt;l0&gt;omegat.log&lt;/l0&gt; 文件中。退出码和 STDERR 或最后一个 STDOUT 会出现在状态栏上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>SVG  / Adobe Illustrator Export</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T094330Z" creationid="wynnc" creationdate="20221111T094330Z">
