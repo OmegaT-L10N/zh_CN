@@ -21546,6 +21546,14 @@ for enforcing compliance by third parties with this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Each translated user manual comes in a different language folder.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T104503Z" creationid="WynnChen" creationdate="20221222T104503Z">
+        <seg>各个已翻译的用户手册位于不同的语言文件夹中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Each version is given a distinguishing version number.  If the
 Program specifies that a certain numbered version of the GNU General
 Public License "or any later version" applies to it, you have the
@@ -36808,6 +36816,14 @@ later version.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Modified preferences are stored in the configuration folder used by the project. If you do not use the default configuration folder, all modifications made in the &lt;l0&gt;preferences&lt;/l0&gt; will be stored in the specified configuration folder and will not appear when you resume work with the default configuration folder.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T104647Z" creationid="WynnChen" creationdate="20221222T104647Z">
+        <seg>修改后的首选项存储在项目所使用的配置文件夹中。如果不使用默认配置文件夹，那么在&lt;l0&gt;首选项&lt;/l0&gt;中所做的所有修改都会存储在指定的配置文件夹中，并且在恢复为使用默认配置文件夹继续工作时不会出现。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Modify encoding declaration</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T104508Z" creationid="wynnc" creationdate="20221111T104508Z">
@@ -50605,6 +50621,14 @@ of the GPL, as needed to protect the freedom of users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Some preferences do not have an equivalent in the user interface. They must be modified manually.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T104651Z" creationid="WynnChen" creationdate="20221222T104651Z">
+        <seg>一些首选项在用户界面中没有对应项。它们必须手动进行修改。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Some project folders seem to have been moved.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T180340Z" creationid="wynnc" creationdate="20190320T180340Z">
@@ -55687,6 +55711,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The folder where distributed scripts are located. See the &lt;l0/&gt; window for details.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T104538Z" creationid="WynnChen" creationdate="20221222T104538Z">
+        <seg>分发的脚本位于此文件夹中。详情请参阅&lt;l0/&gt;窗口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The folder where images used by OmegaT are stored.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221205T120646Z" creationid="WynnChen" creationdate="20221205T120646Z">
@@ -55707,6 +55739,14 @@ instead.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221205T120756Z" creationid="WynnChen" creationdate="20221205T120756Z">
         <seg>你可以在此文件夹中安装外部插件。详情请参阅&lt;l0/&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The folder where you can install external plugins. See the &lt;l0/&gt; preferences for details.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T104524Z" creationid="WynnChen" creationdate="20221222T104524Z">
+        <seg>你可以在此文件夹中安装外部插件。详情请参阅&lt;l0/&gt;首选项。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56075,6 +56115,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T094420Z" creationid="WynnChen" creationdate="20221129T094420Z">
         <seg>多语言用户指南的索引。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The index to the multilingual user manual.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T104456Z" creationid="WynnChen" creationdate="20221222T104456Z">
+        <seg>多语言用户手册的索引。</seg>
       </tuv>
     </tu>
     <tu>
@@ -62082,6 +62130,14 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To prevent the Source Files list window from automatically opening when a project is loaded, find &lt;t0&gt;&lt;project_files_show_on_load&gt;&lt;/t0&gt; and replace &lt;t1&gt;true&lt;/t1&gt; to &lt;t2&gt;false&lt;/t2&gt;:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T104725Z" creationid="WynnChen" creationdate="20221222T104725Z">
+        <seg>要避免在加载项目时自动打开原文文件列表窗口，请查找 &lt;t0&gt;&lt;project_files_show_on_load&gt;&lt;/t0&gt; 并将&lt;t1&gt;true&lt;/t1&gt; 替换为 &lt;t2&gt;false&lt;/t2&gt;：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To produce a screenshot, launch OmegaT and create a suitable screen for a screenshot, such as the "Create new project" dialog showing typical paths.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="lenovo" changedate="20180417T024841Z" creationid="lenovo" creationdate="20180417T024841Z">
@@ -65105,6 +65161,14 @@ OmegaT 选项：
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20200123T044359Z" creationid="WynnChen" creationdate="20200123T043215Z">
         <seg>用 &lt;g0&gt;ID 比较&lt;/g0&gt;模式来对齐 键=值 文本。即使两个文件中键的顺序不同或两个文件包含的信息数量不等，这种方式也有效。仅当两个文件都被识别为 键=值 文件时才会出现此选项。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to access it directly.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T104551Z" creationid="WynnChen" creationdate="20221222T104551Z">
+        <seg>用 &lt;l0/&gt;&lt;l1/&gt; 可以直接访问它。</seg>
       </tuv>
     </tu>
     <tu>
@@ -69215,6 +69279,14 @@ linux-install.sh 脚本的文件夹，然后用 ./linux-install.sh 执行脚本�
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221206T142440Z" creationid="WynnChen" creationdate="20221206T141959Z">
         <seg>从命令行启动 OmegaT 时，可以另行指定非默认值的配置文件夹。详情请参阅&lt;l0/&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can specify a configuration folder other than the default when you start OmegaT from the command line. See the &lt;l0/&gt; how-to for details.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T104620Z" creationid="WynnChen" creationdate="20221222T104606Z">
+        <seg>从命令行启动 OmegaT 时，可以另行指定非默认值的配置文件夹。详情请参阅指南&lt;l0/&gt;。</seg>
       </tuv>
     </tu>
     <tu>
