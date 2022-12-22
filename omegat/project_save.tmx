@@ -390,6 +390,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>${dictRoot}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T112934Z" creationid="WynnChen" creationdate="20221222T112934Z">
+        <seg>${dictRoot}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>${diffReversed}</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190901T170209Z" creationid="Doris" creationdate="20180419T015054Z">
@@ -430,10 +438,26 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>${fileExtension}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T113231Z" creationid="WynnChen" creationdate="20221222T113231Z">
+        <seg>${fileExtension}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>${fileNameOnly}</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131127T130446Z" creationid="Fu Rhong" creationdate="20131127T130446Z">
         <seg>${fileNameOnly}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${fileName}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T113207Z" creationid="WynnChen" creationdate="20221222T113207Z">
+        <seg>${fileName}</seg>
       </tuv>
     </tu>
     <tu>
@@ -542,6 +566,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>${sourceLang}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T113120Z" creationid="WynnChen" creationdate="20221222T113120Z">
+        <seg>${sourceLang}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>${sourceRoot}</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T112734Z" creationid="WynnChen" creationdate="20221222T112734Z">
@@ -606,6 +638,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>${targetLang}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T113125Z" creationid="WynnChen" creationdate="20221222T113125Z">
+        <seg>${targetLang}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>${targetLocaleLCID}</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T105922Z" creationid="WynnChen" creationdate="20221209T105922Z">
@@ -650,6 +690,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T112854Z" creationid="WynnChen" creationdate="20221222T112854Z">
         <seg>${tmAutoRoot}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>${tmOtherLangRoot}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T113053Z" creationid="WynnChen" creationdate="20221222T113053Z">
+        <seg>${tmOtherLangRoot}</seg>
       </tuv>
     </tu>
     <tu>
@@ -23231,6 +23279,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Extension of source file without a dot</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T113258Z" creationid="WynnChen" creationdate="20221222T113258Z">
+        <seg>不带点号的原文文件扩展名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>External GPG did not return a valid signature; got: {0}</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T093910Z" creationid="WynnChen" creationdate="20221129T093910Z">
@@ -25477,6 +25533,14 @@ authors of previous versions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Full name of source file</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T113214Z" creationid="WynnChen" creationdate="20221222T113214Z">
+        <seg>原文文件的完整文件名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Full path of the TMX</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131127T130501Z" creationid="Fu Rhong" creationdate="20131127T130501Z">
@@ -25485,10 +25549,18 @@ authors of previous versions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Full path to source file</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T113149Z" creationid="WynnChen" creationdate="20221222T113149Z">
+        <seg>原文文件的完整路径</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Full path to the TM auto folder</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T112908Z" creationid="WynnChen" creationdate="20221222T112908Z">
-        <seg>Full path to the TM auto folder</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T112945Z" creationid="WynnChen" creationdate="20221222T112908Z">
+        <seg> TM 下的 auto 文件夹的完整路径</seg>
       </tuv>
     </tu>
     <tu>
@@ -25497,6 +25569,14 @@ authors of previous versions.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T112932Z" creationid="WynnChen" creationdate="20221222T112853Z">
         <seg>TM 根文件夹的完整路径</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Full path to the dictionary folder</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T113052Z" creationid="WynnChen" creationdate="20221222T113011Z">
+        <seg>dictionary 文件夹的完整路径</seg>
       </tuv>
     </tu>
     <tu>
@@ -37638,6 +37718,14 @@ appropriate location such as the Applications folder.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T155048Z" creationid="wynnc" creationdate="20190323T155048Z">
         <seg>名称</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Name of source file without extension</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T113230Z" creationid="WynnChen" creationdate="20221222T113230Z">
+        <seg>不带扩展名的原文文件名</seg>
       </tuv>
     </tu>
     <tu>
@@ -51181,6 +51269,14 @@ of the GPL, as needed to protect the freedom of users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source file name relative to given root</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T113206Z" creationid="WynnChen" creationdate="20221222T113206Z">
+        <seg>相对于给定根目录的原文文件名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source file type, filename pattern</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190831T101137Z">
@@ -51265,6 +51361,14 @@ of the GPL, as needed to protect the freedom of users.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T125538Z" creationid="wynnc" creationdate="20190320T045507Z">
         <seg>原文文件夹 {0} 不存在。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source language</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T113125Z" creationid="WynnChen" creationdate="20221222T113125Z">
+        <seg>原文语言</seg>
       </tuv>
     </tu>
     <tu>
@@ -52490,6 +52594,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>TM Root + tmx2source (See the &lt;l0/&gt; how-to for details.)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T113120Z" creationid="WynnChen" creationdate="20221222T113120Z">
+        <seg>TM 根 + tmx2source（详情请参阅指南&lt;l0/&gt;。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>TMX Level 1</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T071412Z" creationid="WynnChen" creationdate="20221129T071412Z">
@@ -53087,6 +53199,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T125547Z" creationid="wynnc" creationdate="20190320T045507Z">
         <seg>译文文件夹 {0} 不存在。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Target language</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T113140Z" creationid="WynnChen" creationdate="20221222T113140Z">
+        <seg>译文语言</seg>
       </tuv>
     </tu>
     <tu>
