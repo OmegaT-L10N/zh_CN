@@ -60041,10 +60041,26 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This file contains the &lt;e0&gt;original text&lt;/e0&gt; from of the current segment when the &lt;l1/&gt; preference is enabled. The text in the file is replaced each time a new segment is entered.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T104900Z" creationid="WynnChen" creationdate="20221222T104900Z">
+        <seg>当启用了首选项&lt;l1/&gt;后，此文件包含当前片段的&lt;e0&gt;原文文本&lt;/e0&gt;。每次进入一个新片段时都会替换此文件中的文本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This file contains the &lt;e0&gt;translated text&lt;/e0&gt; from the current segment when &lt;l1/&gt; is active. The text in the file is replaced each time a new segment is entered.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221206T140809Z" creationid="WynnChen" creationdate="20221206T140809Z">
         <seg>当“&lt;l1/&gt;”激活时，此文件包含当前片段的&lt;e0&gt;译文文本&lt;/e0&gt;。每次进入一个新片段时都会替换此文件中的文本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This file contains the &lt;e0&gt;translated text&lt;/e0&gt; from the current segment when the &lt;l1/&gt; preference is enabled. The text in the file is replaced each time a new segment is entered.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T104923Z" creationid="WynnChen" creationdate="20221222T104923Z">
+        <seg>当启用了首选项&lt;l1/&gt;后，此文件包含当前片段的&lt;e0&gt;译文文本&lt;/e0&gt;。每次进入一个新片段时都会替换此文件中的文本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60101,6 +60117,14 @@ the server.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120202T063506Z">
         <seg>该文件记录了 &lt;a0&gt;OmegaT&lt;/a0&gt; 运行时的 Java 错误信息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This file stores the currently selected text when &lt;l0/&gt;&lt;l1/&gt; is used. The text in the file is replaced each time this function is called.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T104841Z" creationid="WynnChen" creationdate="20221222T104841Z">
+        <seg>当使用了&lt;l1/&gt;&lt;l0/&gt;后，此文件存储着当前选定的文本。每次调用此功能都会替换此文件中的文本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60865,6 +60889,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This parameter file contains customized editor shortcuts. See the &lt;l0/&gt; appendix for details.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T105014Z" creationid="WynnChen" creationdate="20221222T105014Z">
+        <seg>这个参数文件包含自定义的编辑器快捷键。详情请参阅附录&lt;l0/&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This parameter file contains customized external search parameters. See &lt;l0/&gt; for details.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221206T141057Z" creationid="WynnChen" creationdate="20221206T141057Z">
@@ -60893,6 +60925,14 @@ the server.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221206T141029Z" creationid="WynnChen" creationdate="20221206T141029Z">
         <seg>这个参数文件包含自定义的用户界面快捷键。详情请参阅&lt;l0/&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This parameter file contains customized user interface shortcuts. See the &lt;l0/&gt; appendix for details.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T105024Z" creationid="WynnChen" creationdate="20221222T105024Z">
+        <seg>这个参数文件包含自定义的用户界面快捷键。详情请参阅附录&lt;l0/&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -65169,6 +65209,14 @@ OmegaT 选项：
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T104551Z" creationid="WynnChen" creationdate="20221222T104551Z">
         <seg>用 &lt;l0/&gt;&lt;l1/&gt; 可以直接访问它。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to view the contents of the file.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T104806Z" creationid="WynnChen" creationdate="20221222T104806Z">
+        <seg>用&lt;l0/&gt;&lt;l1/&gt;来查看文件的内容。</seg>
       </tuv>
     </tu>
     <tu>
