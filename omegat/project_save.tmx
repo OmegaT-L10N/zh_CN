@@ -48787,10 +48787,18 @@ When using regular expressions, the replacement string supports references to gr
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l0/&gt; preference for global commands.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T112237Z" creationid="WynnChen" creationdate="20221222T112237Z">
+        <seg>有关全局命令，参见&lt;l0/&gt;首选项。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the &lt;l0/&gt; projet property for project specific commands.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T112057Z" creationid="WynnChen" creationdate="20221222T112057Z">
-        <seg>有关See the &lt;l0/&gt; projet property for project specific commands.</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T112210Z" creationid="WynnChen" creationdate="20221222T112057Z">
+        <seg>有关专属于项目的命令，参见&lt;l0/&gt;项目属性。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53187,6 +53195,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Template Variables</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T112242Z" creationid="WynnChen" creationdate="20221222T112242Z">
+        <seg>模板变量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Template for segments without date</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20221116T034250Z" creationid="wynnc" creationdate="20221116T034250Z">
@@ -54985,6 +55001,14 @@ Please try to correct the error and reload the project.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="think" changedate="20180416T090623Z" creationid="think" creationdate="20180416T090623Z">
         <seg>该命令区分大小写。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The command is passed to Java runtime exec as a string with the template values expanded. All the arguments should be quoted, e.g. &lt;l0&gt;"${fileName}"&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T112553Z" creationid="WynnChen" creationdate="20221222T112553Z">
+        <seg>该命令以带有展开的模板值的字符串的形式传递给 Java Runtime 的 exec 方法。所有的参数都应当用引号括起来，例如 &lt;l0&gt;"${fileName}"&lt;/l0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
