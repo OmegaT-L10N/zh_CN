@@ -55975,6 +55975,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The following template variables are always available. The other items on the template list are environment variables for your system.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T112702Z" creationid="WynnChen" creationdate="20221222T112702Z">
+        <seg>以下模板变量始终可用。模板列表中的其他条目是系统的环境变量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The following terms, to be used in the text below, deserve a short explanation:</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190410T030709Z" creationid="Fu Rhong" creationdate="20131110T071421Z">
