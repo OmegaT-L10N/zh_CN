@@ -39979,6 +39979,14 @@ combination as such.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT for CAT beginners tutorial (2020 edition)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T103254Z" creationid="WynnChen" creationdate="20221222T103254Z">
+        <seg>面向 CAT 初学者的 OmegaT 教程（2020 版）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT for Mac OS X is available in both signed and unsigned versions; they are functionally identical, but the signed version is preferred as it is recognized by the system as being published by a known developer.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Zenobia Fang" changedate="20180424T124148Z" creationid="Zenobia Fang" creationdate="20180424T123038Z">
