@@ -23884,6 +23884,14 @@ a description of how this error was produced.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Files in the &lt;l0/&gt; folder are overwritten every time you create them if they are created with the same name.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T111436Z" creationid="WynnChen" creationdate="20221222T111436Z">
+        <seg>如果每次创建 &lt;l0/&gt; 文件夹中的文件时用的都是同样的文件名，那么它们会被覆盖。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Files in the &lt;l0/&gt; folder are overwritten everytime you create them if they are created with the same name.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T105105Z" creationid="WynnChen" creationdate="20221209T105105Z">
@@ -28347,6 +28355,14 @@ copy of the Program in return for a fee.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="lenovo" changedate="20180416T112612Z" creationid="lenovo" creationdate="20180416T112612Z">
         <seg>如果浏览器中显示的文件未更新，请检查以下内容：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the file name is ambiguous, variables of the form &lt;l0&gt;${nameonly-&lt;/l0&gt;&lt;e1&gt;extension number&lt;/e1&gt;} and &lt;l2&gt;${extension-&lt;/l2&gt;&lt;e3&gt;extension number} &lt;/e3&gt; can be used.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T111526Z" creationid="WynnChen" creationdate="20221222T111526Z">
+        <seg>如果文件名会引发歧义，可以使用形如 &lt;l0&gt;${nameonly-&lt;/l0&gt;&lt;e1&gt;扩展数字&lt;/e1&gt;} 和 &lt;l2&gt;${extension-&lt;/l2&gt;&lt;e3&gt;扩展数字} &lt;/e3&gt; 的变量。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48755,6 +48771,14 @@ When using regular expressions, the replacement string supports references to gr
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;u0&gt;Oracle documentation&lt;/u0&gt; for examples.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T111452Z" creationid="WynnChen" creationdate="20221222T111452Z">
+        <seg>范例可参阅 &lt;u0&gt;Oracle 文档&lt;/u0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the GNU General Public License for more detail.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120130T070503Z">
@@ -51033,6 +51057,14 @@ of the GPL, as needed to protect the freedom of users.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T082442Z" creationid="WynnChen" creationdate="20221129T082442Z">
         <seg>原文文件名模式：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source filename patterns use wild card characters : The &lt;l0&gt;*&lt;/l0&gt; character matches zero or more characters, while the &lt;l1&gt;?&lt;/l1&gt; character matches exactly one character.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T111433Z" creationid="WynnChen" creationdate="20221222T111433Z">
+        <seg>原文文件名模式使用通配符：&lt;l0&gt;*&lt;/l0&gt; 字符匹配零个或更多个字符，而 &lt;l1&gt;?&lt;/l1&gt; 字符只匹配一个字符。</seg>
       </tuv>
     </tu>
     <tu>
@@ -55639,10 +55671,26 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The filter checks Java MessageFormat patterns (e.g. \{0\}) by default. See the &lt;l0/&gt; preference for details.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T111553Z" creationid="WynnChen" creationdate="20221222T111553Z">
+        <seg>默认情况下，筛选器会检查 Java MessageFormat 模式（例如 \{0\}）。详情请参阅&lt;l0/&gt;首选项。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The filter checks printf variables ('%s', etc.) by default. See &lt;l0/&gt; for details.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T021432Z" creationid="WynnChen" creationdate="20221212T021432Z">
         <seg>默认情况下，筛选器会检查 printf 变量（“%s”等）。详情请参阅&lt;l0/&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The filter checks printf variables ('%s', etc.) by default. See the &lt;l0/&gt; preference for details.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T111545Z" creationid="WynnChen" creationdate="20221222T111545Z">
+        <seg>默认情况下，筛选器会检查 printf 变量（“%s”等）。详情请参阅&lt;l0/&gt;首选项。</seg>
       </tuv>
     </tu>
     <tu>
@@ -65285,6 +65333,22 @@ OmegaT 选项：
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to directly access it. You can then open it in a text editor and modify it.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T111717Z" creationid="WynnChen" creationdate="20221222T111717Z">
+        <seg>用&lt;l0/&gt;&lt;l1/&gt;可直访问它。然后可以用文本编辑器打开它并进行修改。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to enter new terms in this glossary. It is called the &lt;e2&gt;writable&lt;/e2&gt; glossary for this reason.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T111646Z" creationid="WynnChen" creationdate="20221222T111646Z">
+        <seg>用&lt;l0/&gt;&lt;l1/&gt;可在词汇表中输入新词汇。因此，它被称为&lt;e2&gt;可写&lt;/e2&gt;词汇表。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l0/&gt;&lt;l1/&gt; to view the contents of the file.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T104806Z" creationid="WynnChen" creationdate="20221222T104806Z">
@@ -65724,6 +65788,14 @@ OmegaT 选项：
       </tuv>
       <tuv lang="zh-CN" changeid="xulihang" changedate="20180408T105614Z">
         <seg>用户手册...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>User can select from three options, Previous and next paragraphs, &lt;trans unit&gt; ID, or &lt;trans-unit&gt; resname attribute when available, when unavailable, the ID will be used as a fallback.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T111538Z" creationid="WynnChen" creationdate="20221222T111538Z">
+        <seg>用户可以选择三个选项之一：前后段落、&lt;trans unit&gt; 的 ID、或 &lt;trans-unit&gt; 的 resname 属性（当其可用时，若不可用则 ID 将用作后备）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -77306,6 +77378,14 @@ If the project contains files but their content is not displayed here:
         <seg>system time when the file is was created</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T105814Z" creationid="WynnChen" creationdate="20221209T105814Z">
+        <seg>创建文件时的系统时间</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>system time when the file was created</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T111442Z" creationid="WynnChen" creationdate="20221222T111442Z">
         <seg>创建文件时的系统时间</seg>
       </tuv>
     </tu>
