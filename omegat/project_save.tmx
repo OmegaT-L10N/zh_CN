@@ -34971,6 +34971,14 @@ later version.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Linux and macOS</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T113914Z" creationid="WynnChen" creationdate="20221222T113914Z">
+        <seg>Linux 和 macOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Linux binary version of Toxic.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20200117T022635Z" creationid="chloechao" creationdate="20180412T073312Z">
@@ -70464,6 +70472,14 @@ them.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T180411Z" creationid="wynnc" creationdate="20190320T180344Z">
         <seg>你应当指定它们的新位置或重新创建它们。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You should use a shebang, e.g. &lt;l0&gt;#! /bin/bash&lt;/l0&gt; or &lt;l1&gt;#! /usr/bin/env python3&lt;/l1&gt;. And the script must be executable. Chaining commands with &lt;l2&gt;&amp;&amp;&lt;/l2&gt; or &lt;l3&gt;||&lt;/l3&gt; or pipes &lt;l4&gt;|&lt;/l4&gt; will not work here.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T114305Z" creationid="WynnChen" creationdate="20221222T114305Z">
+        <seg>你应当使用 shebang，例如 &lt;l0&gt;#! /bin/bash&lt;/l0&gt; 或 &lt;l1&gt;#! /usr/bin/env python3&lt;/l1&gt;。并且脚本必须是可执行的。使用 &lt;l2&gt;&amp;&amp;&lt;/l2&gt; 或 &lt;l3&gt;||&lt;/l3&gt; 或管道 &lt;l4&gt;|&lt;/l4&gt; 链接命令在这里不起作用。</seg>
       </tuv>
     </tu>
     <tu>
