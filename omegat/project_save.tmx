@@ -30371,6 +30371,14 @@ work and works based on it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In addition to a regular command, you can call a script. Never run post-processing scripts from untrusted sources. For security reasons, local post-processing commands are disabled by default.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T113406Z" creationid="WynnChen" creationdate="20221222T113406Z">
+        <seg>除了常规命令外，你还可以调用脚本。切勿运行来自不受信任来源的后处理脚本。出于安全原因，默认情况下禁用局部后处理命令。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In addition to the plain text format, TBX format &lt;i0/&gt; is also supported as a read-only glossary format.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="17012" changedate="20180405T023521Z" creationid="17012" creationdate="20180405T023521Z">
@@ -53435,6 +53443,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Template variables can be used with both regular commands and custom scripts. You may need to use an absolute path for your script. The PATH OmegaT uses may not be the same as the current user’s PATH.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T113642Z" creationid="WynnChen" creationdate="20221222T113642Z">
+        <seg>常规命令和自定义脚本皆可使用模板变量。对于脚本，你可能需要使用绝对路径。OmegaT 所使用的 PATH 环境变量和当前用户的 PATH 可能并不相同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Template variables:</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -66076,6 +66092,14 @@ OmegaT 选项：
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20200116T064202Z" creationid="xulihang" creationdate="20180408T110300Z">
         <seg>重要链接
 ============</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>User Defined Scripts</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T113307Z" creationid="WynnChen" creationdate="20221222T113307Z">
+        <seg>用户定义的脚本</seg>
       </tuv>
     </tu>
     <tu>
