@@ -1598,6 +1598,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Next Segment from tm/auto/</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T102545Z" creationid="WynnChen" creationdate="20221222T102545Z">
+        <seg>下一个来自 tm/auto/ 的片段(&amp;N)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;None</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20221125T052050Z" creationid="wynnc" creationdate="20221125T052050Z">
@@ -1690,6 +1698,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T094720Z" creationid="wynnc" creationdate="20190320T045507Z">
         <seg>上一个片段(&amp;P)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Previous Segment from tm/auto/</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T102559Z" creationid="WynnChen" creationdate="20221222T102559Z">
+        <seg>上一个来自 tm/auto/ 的片段(&amp;P)</seg>
       </tuv>
     </tu>
     <tu>
@@ -13766,6 +13782,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T105844Z" creationid="wynnc" creationdate="20190320T105844Z">
         <seg>自动完成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Auto-Popu&amp;lated Segments</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T102511Z" creationid="WynnChen" creationdate="20221222T102505Z">
+        <seg>自动填充片段(&amp;L)</seg>
       </tuv>
     </tu>
     <tu>
@@ -37366,6 +37390,14 @@ appropriate location such as the Applications folder.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>N&amp;ext Segment from tm/enforce/</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T102612Z" creationid="WynnChen" creationdate="20221222T102612Z">
+        <seg>下一个来自 tm/enforce/ 的片段(&amp;E)</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>（源自拉丁文nota bene）</note>
       <tuv lang="en">
         <seg>NB:</seg>
@@ -39009,6 +39041,14 @@ otherwise be available to you under applicable patent law.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T170204Z" creationid="wynnc" creationdate="20190323T170204Z">
         <seg>通知（稳定）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Notify Me Even If There Are No Search Results</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T102637Z" creationid="WynnChen" creationdate="20221222T102637Z">
+        <seg>即使没有搜索结果也通知我</seg>
       </tuv>
     </tu>
     <tu>
@@ -41086,6 +41126,24 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT was refused access to the system property containing
+the name of your OS and/or the system property containing
+your home folder. Therefore, the location of OmegaT's
+configuration folder cannot be reliably determined. The
+current folder will be used instead. This will reset all
+settings to their defaults. You may therefore experience
+unexpected, but correct behaviour.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T102816Z" creationid="WynnChen" creationdate="20221222T102816Z">
+        <seg>OmegaT 无法访问包含操作系统名称的系统属性及
+包含你的主文件夹的系统属性。因此，无法可靠地确定
+ OmegaT 的配置文件夹位置。将改用当前文件夹。
+这会将所有设置重置为其默认值，因此你可能
+会经历意外但正确的行为。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT will automatically parse even the most complex source folder hierarchies, to access all the supported files, and produce a target folder with exactly the same structure, including copies of any non-supported files.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Puzzlist" changedate="20130922T041226Z" creationid="Puzzlist" creationdate="20130922T041226Z">
@@ -42770,6 +42828,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190515T044735Z" creationid="WynnChen" creationdate="20190515T044735Z">
         <seg>覆盖模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>P&amp;revious Segment from tm/enforce/</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T102621Z" creationid="WynnChen" creationdate="20221222T102621Z">
+        <seg>上一个来自 tm/enforce/ 的片段(&amp;R)</seg>
       </tuv>
     </tu>
     <tu>
