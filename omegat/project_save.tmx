@@ -53685,6 +53685,14 @@ The scope of a text replacement is the target segments of the project, whether t
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Text highlighting in alignments</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T114826Z" creationid="WynnChen" creationdate="20221222T114600Z">
+        <seg>对齐功能中的文本高亮</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Text in HTML comments (between &lt;l0&gt;&lt;!--&lt;/l0&gt; and &lt;l1&gt;--&gt;&lt;/l1&gt;) will not be copied into the translated document.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T021302Z" creationid="WynnChen" creationdate="20221212T021302Z">
@@ -54215,6 +54223,14 @@ form of a work.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120202T124448Z">
         <seg>&lt;k4&gt; &lt;k5&gt;Shift&lt;/k5&gt; &lt;k6&gt;Ctrl&lt;/k6&gt; &lt;k7&gt;O&lt;/k7&gt; &lt;/k4&gt;切换有三种状态：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;l0/&gt; preference allows you to define strings that OmegaT will mark in red by default, and treat as extraneous tags for validation purposes.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T114541Z" creationid="WynnChen" creationdate="20221222T114541Z">
+        <seg>&lt;l0/&gt;首选项让你能定义一些字符串，OmegaT 默认情况下会将其显示为红色，并且会将其排除在验证目的之外。</seg>
       </tuv>
     </tu>
     <tu>
