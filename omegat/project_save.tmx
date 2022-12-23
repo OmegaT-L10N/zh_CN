@@ -4249,6 +4249,14 @@ not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>0\.[0-9]</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221223T102936Z" creationid="WynnChen" creationdate="20221223T102936Z">
+        <seg>0\.[0-9]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>1 conflict</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T153913Z" creationid="wynnc" creationdate="20190323T153913Z">
@@ -21638,6 +21646,14 @@ project_save.tmx 未真正上传，SVN 切换到不稳定状态。
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Each character is briefly described below with examples of regular expressions that rely on the character as well as of text that they do, or do not, match.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221223T102910Z" creationid="WynnChen" creationdate="20221223T102910Z">
+        <seg>下面用依赖于各个字符的正则表达式以及与其匹配或不匹配的文本来作为例子简要介绍每个字符。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Each contributor grants you a non-exclusive, worldwide, royalty-free
 patent license under the contributor's essential patent claims, to
 make, use, sell, offer for sale, import and otherwise run, modify and
@@ -36492,6 +36508,14 @@ later version.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190324T025432Z" creationid="wynnc" creationdate="20190324T025432Z">
         <seg>匹配类型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matches</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221223T102942Z" creationid="WynnChen" creationdate="20221223T102942Z">
+        <seg>匹配</seg>
       </tuv>
     </tu>
     <tu>
@@ -54363,6 +54387,14 @@ form of a work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The BACKSLASH: &lt;l0&gt;\&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221223T102920Z" creationid="WynnChen" creationdate="20221223T102920Z">
+        <seg>反斜杠：&lt;l0&gt;\&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Britannica Concise Encyclopedia</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190413T080238Z">
@@ -60373,6 +60405,14 @@ the server.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20221128T111044Z">
         <seg>本章内容是为高级用户准备的，用于定义自己的分割规则变体或设计更复杂更强大的关键字搜索项。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This character either cancels or activates the special meaning of the following character.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221223T102934Z" creationid="WynnChen" creationdate="20221223T102934Z">
+        <seg>此字符取消或激活后继字符的特殊含义。</seg>
       </tuv>
     </tu>
     <tu>
