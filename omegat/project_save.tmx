@@ -42290,6 +42290,14 @@ unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Only the letters &lt;e0&gt;i j l m o&lt;/e0&gt;, and &lt;e1&gt;y&lt;/e1&gt;, in both lower- and uppercase, have no special meaning when preceded by a backslash. This manual only describes a small subset of letters that take on a special meaning.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221223T101120Z" creationid="WynnChen" creationdate="20221223T101120Z">
+        <seg>字母中只有 &lt;e0&gt;i j l m o&lt;/e0&gt; 和 &lt;e1&gt;y&lt;/e1&gt;（大写和小写都算）在其前面加上反斜杠时没有特殊含义。本手册只介绍一小部分具有特殊含义的字母。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Only the options not available under the XHTML files filter (see above) are described here.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T121317Z" creationid="WynnChen" creationdate="20221209T121317Z">
