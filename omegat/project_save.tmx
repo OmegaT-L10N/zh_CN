@@ -54307,6 +54307,14 @@ form of a work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;l0&gt;\&lt;/l0&gt; can cancel its own special meaning by doubling up to form &lt;l1&gt;\\&lt;/l1&gt;, which simply matches the &lt;e2&gt;backslash&lt;/e2&gt; character itself.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221223T102157Z" creationid="WynnChen" creationdate="20221223T102157Z">
+        <seg>可以通过双写 &lt;l0&gt;\&lt;/l0&gt; 来取消其自身的特殊含义，即 &lt;l1&gt;\\&lt;/l1&gt; 的形式，这只会匹配&lt;e2&gt;反斜杠&lt;/e2&gt;字符本身。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;l0&gt;\&lt;/l0&gt; character is a very special character</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221223T101709Z" creationid="WynnChen" creationdate="20221223T101709Z">
