@@ -13193,6 +13193,14 @@ menu, a prominent item in the list meets this criterion.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Any character that is &lt;e0&gt;not&lt;/e0&gt; “a”, “b”, or “c”. In the word “back”, for instance, only the “k” is matched.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221223T103747Z" creationid="WynnChen" creationdate="20221223T103747Z">
+        <seg>任意&lt;e0&gt;不是&lt;/e0&gt;“a”、“b”、或“c”的字符。例如，在单词“back”中，只有“k”是匹配的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Any letter except an uppercase letter (subtraction)</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190522T054222Z">
@@ -54473,6 +54481,14 @@ Source.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The DOLLAR sign: &lt;l0&gt;$&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221223T103859Z" creationid="WynnChen" creationdate="20221223T103859Z">
+        <seg>美元符号：&lt;l0&gt;$&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Déjà Vu "External View" file format is a feature of Déjà Vu DVX.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="lenovo" changedate="20180416T120619Z" creationid="lenovo" creationdate="20180416T120619Z">
@@ -57107,6 +57123,14 @@ your programs, too.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The lowercase “a”, “b”, or “c” in the word “back”.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221223T103842Z" creationid="WynnChen" creationdate="20221223T103842Z">
+        <seg>单词“back”中的小写“a”、“b”、或“c”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The machine translation pane, when opened, contains the suggestions by machine translation tools for the current segment.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120219T040414Z">
@@ -59147,6 +59171,22 @@ protocols for communication across the network.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120218T123120Z">
         <seg>上面部分是源语言，使用绿色背景并加粗字体显示；下面部分是编辑区域，以标记结尾：&lt;i0/&gt;这里的标记是 &lt;l1&gt;&lt;segment nnnn&gt;&lt;/l1&gt;，其中 nnnn 为当前片段在项目中的编号。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The uppercase “A” in the following sentence: “A long, but exciting journey was about to begin”.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221223T103655Z" creationid="WynnChen" creationdate="20221223T103655Z">
+        <seg>The uppercase “A” 以下句子中的大写“A”：“A long, but exciting journey was about to begin”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The uppercase “A” in the following sentence: “My friend is writing a book called &lt;e0&gt;A Long Journey&lt;/e0&gt;”.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221223T103814Z" creationid="WynnChen" creationdate="20221223T103814Z">
+        <seg>以下句子中的大写“A”：“My friend is writing a book called &lt;e0&gt;A Long Journey&lt;/e0&gt;”。</seg>
       </tuv>
     </tu>
     <tu>
@@ -71541,6 +71581,14 @@ If the project contains files but their content is not displayed here:
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120214T035237Z">
         <seg>^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>^A</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221223T103614Z" creationid="WynnChen" creationdate="20221223T103614Z">
+        <seg>^A</seg>
       </tuv>
     </tu>
     <tu>
