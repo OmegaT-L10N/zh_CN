@@ -34721,6 +34721,14 @@ later version.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Letters of the alphabet preceded by a backslash (&lt;l0&gt;\&lt;/l0&gt;) take on a special meaning</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221223T100539Z" creationid="WynnChen" creationdate="20221223T100539Z">
+        <seg>前面有反斜杠（&lt;l0&gt;\&lt;/l0&gt;）的字母具有特殊含义</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Level</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190403T160131Z" creationid="WynnChen" creationdate="20190403T160131Z">
@@ -46167,6 +46175,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Regular expressions are used to find text, including characters that are not visible on the screen or when printed out, such as spaces, tabs, or line breaks. Any given expression either &lt;e0&gt;matches&lt;/e0&gt;, or &lt;e1&gt;does &lt;e2&gt;not&lt;/e2&gt; match&lt;/e1&gt; a word, phrase, or other sequence of text.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221223T100459Z" creationid="WynnChen" creationdate="20221223T100459Z">
+        <seg>正则表达式用于查找文本，包括在屏幕上或打印输出时不可见的字符，例如空格、tab、或断行。任何给定表达式要么&lt;e0&gt;匹配&lt;/e0&gt;要么&lt;e1&gt;&lt;e2&gt;不&lt;/e2&gt;匹配&lt;/e1&gt;单词、短语、或其他文本序列。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Regular expressions only match text. They cannot match decorations such as &lt;e0&gt;bold&lt;/e0&gt;, &lt;e1&gt;italics&lt;/e1&gt;, or other &lt;e2&gt;stylistic effects&lt;/e2&gt;.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221214T111418Z" creationid="WynnChen" creationdate="20221214T111418Z">
@@ -49295,6 +49311,14 @@ When using regular expressions, the replacement string supports references to gr
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221214T110353Z" creationid="WynnChen" creationdate="20221214T110353Z">
         <seg>分割规则和语言模式是用正则表达式定义的。你可以随意修改它们以改进文档的片段分割或者添加其他通用规则。详情请参阅&lt;l0/&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Segmentation rules and language patterns are defined with regular expressions. You can modify them freely to improve the segmentation of a document or add additional general rules. See the &lt;l0/&gt; appendix for details.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221223T100445Z" creationid="WynnChen" creationdate="20221223T100445Z">
+        <seg>分割规则和语言模式是用正则表达式定义的。你可以随意修改它们以改进文档的片段分割或者添加其他通用规则。详情请参阅附录&lt;l0/&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53687,8 +53711,8 @@ The scope of a text replacement is the target segments of the project, whether t
       <tuv lang="en">
         <seg>Text highlighting in alignments</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T114826Z" creationid="WynnChen" creationdate="20221222T114600Z">
-        <seg>对齐功能中的文本高亮</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221223T100308Z" creationid="WynnChen" creationdate="20221222T114600Z">
+        <seg>对齐中的文本高亮</seg>
       </tuv>
     </tu>
     <tu>
@@ -65941,6 +65965,14 @@ OmegaT 选项：
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use the &lt;c0&gt;|&lt;/c0&gt; (OR) character to separate individual expressions.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221223T100429Z" creationid="WynnChen" creationdate="20221223T100429Z">
+        <seg>使用 &lt;c0&gt;|&lt;/c0&gt;（或）字符来分隔各个表达式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use the &lt;c0&gt;|&lt;/c0&gt; (OR) character to separate individual fragment definitions.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221213T020932Z" creationid="WynnChen" creationdate="20221213T020932Z">
@@ -67123,6 +67155,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131116T035027Z" creationid="Fu Rhong" creationdate="20131116T035027Z">
         <seg>Visio (*.vxd)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Visual cues can help verifying that your alignment is correct. The &lt;l0/&gt; setting allows you to define strings that OmegaT will highlight in the aligned documents.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221223T100353Z" creationid="WynnChen" creationdate="20221223T100306Z">
+        <seg>视觉提示有助于验证你的对齐是否正确。&lt;l0/&gt;设置允许你定义 OmegaT 会在对齐的文档中高亮显示的字符串。</seg>
       </tuv>
     </tu>
     <tu>
