@@ -24665,6 +24665,14 @@ can then launch the Kaptain launch script with:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, &lt;e0&gt;r&lt;/e0&gt; is just a normal character but preceding it with &lt;l1&gt;\&lt;/l1&gt; to make it &lt;l2&gt;\r&lt;/l2&gt; turns it into a special combination that matches a &lt;e3&gt;carriage return character&lt;/e3&gt;. Similarly, &lt;l4&gt;\R&lt;/l4&gt; matches &lt;e5&gt;any line break character&lt;/e5&gt;.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221223T100851Z" creationid="WynnChen" creationdate="20221223T100851Z">
+        <seg>例如，&lt;e0&gt;r&lt;/e0&gt; 只是一个普通的字符，但前面加上 &lt;l1&gt;\&lt;/l1&gt; 变成 &lt;l2&gt;\r&lt;/l2&gt; 就将其变为匹配&lt;e3&gt;回车字符&lt;/e3&gt;的特殊组合。类似地，&lt;l4&gt;\R&lt;/l4&gt; 匹配 &lt;e5&gt;任意换行符&lt;/e5&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, &lt;f1&gt;LANGUAGE="-Duser.language=ja"&lt;/f1&gt; (without the #) will launch &lt;a2&gt;OmegaT&lt;/a2&gt; with the user interface in Japanese.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="17012" changedate="20180405T103806Z" creationid="17012" creationdate="20180405T103806Z">
@@ -64727,6 +64735,14 @@ Use Tools &gt; Check Issues... to correct the tag errors and try again.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T091853Z" creationid="WynnChen" creationdate="20221129T091853Z">
         <seg>未知/手动</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unlike a letter on its own, which simply represents itself as noted above, a letter preceded by a &lt;l0&gt;\&lt;/l0&gt; has a special function in a regular expression.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221223T100655Z" creationid="WynnChen" creationdate="20221223T100655Z">
+        <seg>与单独的字母（如上文所述，仅表示其自身）不同，前面有 &lt;l0&gt;\&lt;/l0&gt; 的字母在正则表达式中具有特殊功能。</seg>
       </tuv>
     </tu>
     <tu>
