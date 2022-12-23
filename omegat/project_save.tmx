@@ -67846,6 +67846,14 @@ of selecting, obtaining and installing it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When it is the last character in an expression, the &lt;e0&gt;dollar&lt;/e0&gt; sign matches the end of a line.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221223T103932Z" creationid="WynnChen" creationdate="20221223T103932Z">
+        <seg>当它是表达式的最后一个字符时，&lt;e0&gt;美元&lt;/e0&gt;符号匹配一行的末尾。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When launched in console mode, no GUI is loaded ( it will work therefore on any console) and the given project is automatically translated.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120211T063227Z">
@@ -71589,6 +71597,14 @@ If the project contains files but their content is not displayed here:
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221223T103614Z" creationid="WynnChen" creationdate="20221223T103614Z">
         <seg>^A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>^\w+:$</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221223T104015Z" creationid="WynnChen" creationdate="20221223T104015Z">
+        <seg>^\w+:$</seg>
       </tuv>
     </tu>
     <tu>
