@@ -54146,6 +54146,14 @@ form of a work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The 12 characters</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221223T102209Z" creationid="WynnChen" creationdate="20221223T102209Z">
+        <seg>12 个字符</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The 3 other options are described in the specific page concerning &lt;l0&gt;TaaS&lt;/l0&gt; (Terminology as a Service).</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Andrew" changedate="20180414T135747Z" creationid="weiyi" creationdate="20180406T080026Z">
@@ -59018,6 +59026,14 @@ protocols for communication across the network.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131127T102930Z" creationid="Fu Rhong" creationdate="20131127T102930Z">
         <seg>这样将显示给译员荷兰语的源片段其译文为英文，并使用它们创建中文译文。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The twelve special characters are the &lt;e0&gt;backslash&lt;/e0&gt; &lt;l1&gt;\&lt;/l1&gt;, the &lt;e2&gt;caret&lt;/e2&gt; &lt;l3&gt;^&lt;/l3&gt;, the &lt;e4&gt;dollar sign&lt;/e4&gt; &lt;l5&gt;$&lt;/l5&gt;, the &lt;e6&gt;period&lt;/e6&gt; (or &lt;e7&gt;dot&lt;/e7&gt;) &lt;l8&gt;.&lt;/l8&gt;, the &lt;e9&gt;vertical bar&lt;/e9&gt; (or &lt;e10&gt;pipe symbol&lt;/e10&gt;) &lt;l11&gt;|&lt;/l11&gt;, the &lt;e12&gt;question mark&lt;/e12&gt; &lt;l13&gt;?&lt;/l13&gt;, the &lt;e14&gt;asterisk&lt;/e14&gt; (or &lt;e15&gt;star&lt;/e15&gt;) &lt;l16&gt;*&lt;/l16&gt;, the &lt;e17&gt;plus sign&lt;/e17&gt; &lt;l18&gt;+&lt;/l18&gt;, the opening &lt;e19&gt;parenthesis&lt;/e19&gt; &lt;l20&gt;(&lt;/l20&gt;, the closing &lt;e21&gt;parenthesis&lt;/e21&gt;, &lt;l22&gt;)&lt;/l22&gt;, the opening &lt;e23&gt;square bracket&lt;/e23&gt; &lt;l24&gt;[&lt;/l24&gt;, and the opening &lt;e25&gt;curly brace&lt;/e25&gt; &lt;l26&gt;{&lt;/l26&gt;.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221223T102739Z" creationid="WynnChen" creationdate="20221223T102739Z">
+        <seg>十二个特殊字符是&lt;e0&gt;反斜杠&lt;/e0&gt; &lt;l1&gt;\&lt;/l1&gt;、&lt;e2&gt;脱字符&lt;/e2&gt; &lt;l3&gt;^&lt;/l3&gt;、&lt;e4&gt;美元符号&lt;/e4&gt; &lt;l5&gt;$&lt;/l5&gt;、&lt;e6&gt;句点&lt;/e6&gt;（或者叫&lt;e7&gt;点号&lt;/e7&gt;）&lt;l8&gt;.&lt;/l8&gt;、&lt;e9&gt;竖线&lt;/e9&gt;（或者叫&lt;e10&gt;管道符号&lt;/e10&gt;）&lt;l11&gt;|&lt;/l11&gt;、&lt;e12&gt;问号&lt;/e12&gt; &lt;l13&gt;?&lt;/l13&gt;、&lt;e14&gt;星号&lt;/e14&gt; &lt;l16&gt;*&lt;/l16&gt;、&lt;e17&gt;加号&lt;/e17&gt; &lt;l18&gt;+&lt;/l18&gt;、左&lt;e19&gt;括号&lt;/e19&gt; &lt;l20&gt;(&lt;/l20&gt;、右&lt;e21&gt;括号&lt;/e21&gt; &lt;l22&gt;)&lt;/l22&gt;、左&lt;e23&gt;方括号&lt;/e23&gt; &lt;l24&gt;[&lt;/l24&gt;、和左&lt;e25&gt;花括号&lt;/e25&gt; &lt;l26&gt;{&lt;/l26&gt;。</seg>
       </tuv>
     </tu>
     <tu>
