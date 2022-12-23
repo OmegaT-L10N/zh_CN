@@ -17508,6 +17508,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Consult the sites in the &lt;l0/&gt; section below for information on combinations not covered here.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221223T101237Z" creationid="WynnChen" creationdate="20221223T101237Z">
+        <seg>关于这里未涵盖的组合的信息，请参阅下文&lt;l0/&gt;部分中的站点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Contact</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="xulihang" changedate="20180425T042441Z" creationid="xulihang" creationdate="20180425T042222Z">
@@ -53829,6 +53837,14 @@ The scope of a text replacement is the target segments of the project, whether t
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>That special meaning has to be cancelled by another character to match the character itself.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221223T101343Z" creationid="WynnChen" creationdate="20221223T101343Z">
+        <seg>这种特殊含义必须用另一个字符来取消才能匹配此字符本身。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>That the file conversion utility is installed properly and is working.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="lenovo" changedate="20180416T112755Z" creationid="lenovo" creationdate="20180416T112755Z">
@@ -56443,6 +56459,14 @@ instead.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120203T123532Z">
         <seg>您复制的标签组所代表的格式将会应用到原标签和复制标签的两个部分。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The full list of characters is presented &lt;l0&gt;below&lt;/l0&gt;. One example is &lt;l1&gt;.&lt;/l1&gt;: on its own, it has the special meaning of matching &lt;e2&gt;any single character&lt;/e2&gt;.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221223T101519Z" creationid="WynnChen" creationdate="20221223T101519Z">
+        <seg>完整的字符列表呈现在&lt;l0&gt;下文&lt;/l0&gt;。范例之一是 &lt;l1&gt;.&lt;/l1&gt;：单独出现时，它具有匹配&lt;e2&gt;任意单个字符&lt;/e2&gt;的特殊含义。</seg>
       </tuv>
     </tu>
     <tu>
@@ -64035,6 +64059,14 @@ install.sh.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="cpeishan" changedate="20180407T134601Z" creationid="cpeishan" creationdate="20180407T134601Z">
         <seg>教程</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Twelve characters have a special meaning by default</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221223T101302Z" creationid="WynnChen" creationdate="20221223T101302Z">
+        <seg>默认情况下，有十二个字符具有特殊含义</seg>
       </tuv>
     </tu>
     <tu>
