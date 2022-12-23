@@ -10487,6 +10487,14 @@ this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A number between &lt;e0&gt;0.0&lt;/e0&gt; and &lt;e1&gt;0.9&lt;/e1&gt;, or just the final &lt;e2&gt;0.5&lt;/e2&gt; in numbers such as 10.5 or 560.5.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221223T103043Z" creationid="WynnChen" creationdate="20221223T103043Z">
+        <seg>&lt;e0&gt;0.0&lt;/e0&gt; 到 &lt;e1&gt;0.9&lt;/e1&gt; 的数字，或者诸如 10.5 或 560.5 之类的数字中最后的 &lt;e2&gt;0.5&lt;/e2&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A number of characters or combinations of characters have a special meaning in a regular expression.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221214T111201Z" creationid="WynnChen" creationdate="20221214T111201Z">
@@ -20966,6 +20974,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190901T160909Z" creationid="WynnChen" creationdate="20190901T160909Z">
         <seg>要翻译的文档也许包括了一些在译文文档中也要保持原封不动的商标、姓名或其他专有名词。对于只包含此类不可变文本的片段可以采取两种策略。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Does not match</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221223T103234Z" creationid="WynnChen" creationdate="20221223T103234Z">
+        <seg>不匹配</seg>
       </tuv>
     </tu>
     <tu>
@@ -50011,6 +50027,14 @@ When using regular expressions, the replacement string supports references to gr
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sequences such as 0,1, 0-3, or the first three characters of 0x002E, which would be matched if the expression was just &lt;l0&gt;0.[0-9]&lt;/l0&gt;, with no backslash before the period</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221223T103414Z" creationid="WynnChen" creationdate="20221223T103414Z">
+        <seg>诸如 0、1、0-3 这样的序列，或 0x002E 的前三个字符（如果正则表达式只是 &lt;l0&gt;0.[0-9]&lt;/l0&gt; 就能匹配了，其中句点前面没有反斜杠）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Serbian</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190405T050813Z">
@@ -54335,6 +54359,14 @@ form of a work.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20200119T072641Z" creationid="WynnChen" creationdate="20200119T072131Z">
         <seg>&lt;l0&gt;-Duser.language=&lt;p1&gt;XX&lt;/p1&gt;&lt;/l0&gt; 参数会让 &lt;a2&gt;OmegaT&lt;/a2&gt; 使用指定的语言而非用户操作系统的语言。此命令中的 &lt;p3&gt;XX&lt;/p3&gt; 代表期望语言的两位代码。要用法语界面启动 &lt;a4&gt;OmegaT&lt;/a4&gt;（举例说，在俄语操作系统上），命令就应该是：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;l0&gt;\.&lt;/l0&gt; cancels the “any character” meaning of the period to match the decimal point, while the &lt;l1&gt;\d&lt;/l1&gt; turns the ordinarily lowercase “d” letter into an expression that matches any digit between 0 and 9.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221223T103231Z" creationid="WynnChen" creationdate="20221223T103231Z">
+        <seg>&lt;l0&gt;\.&lt;/l0&gt; 取消了句点的“任意字符”的含义，让其匹配小数点，而 &lt;l1&gt;\d&lt;/l1&gt; 将普通的小写“d”字母转变为匹配任意 0 到 9 数字的表达式。</seg>
       </tuv>
     </tu>
     <tu>
