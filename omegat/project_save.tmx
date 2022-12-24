@@ -55687,8 +55687,8 @@ Please try to correct the error and reload the project.</seg>
       <tuv lang="en">
         <seg>The complete phrase in “run-on” or “run'n'gun”, because the hyphen and apostrophe are not included in &lt;l0&gt;\w&lt;/l0&gt;. Only the initial “run” in those phrases is matched.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221224T033056Z" creationid="WynnChen" creationdate="20221224T032914Z">
-        <seg>整个“run-on”或“run'n'gun”，因为 &lt;l0&gt;\w&lt;/l0&gt; 中不包括连字符和撇号。这些片语中只有开头的“run”是匹配的。</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221224T033858Z" creationid="WynnChen" creationdate="20221224T032914Z">
+        <seg>整个“run-on”或“run'n'gun”，因为 &lt;l0&gt;\w&lt;/l0&gt; 中不包括连字符和撇号。这些片语中只有开头的“run”才是匹配的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56195,6 +56195,14 @@ instead.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
         <seg>行尾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The entire value of numbers such as “5,235.8” or “21,571.9”. Only the portion of the after the thousands separator will be matched.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221224T033844Z" creationid="WynnChen" creationdate="20221224T033844Z">
+        <seg>整个“5,235.8”或“21,571.9”。只有千位分隔符后面的部分会被匹配。</seg>
       </tuv>
     </tu>
     <tu>
