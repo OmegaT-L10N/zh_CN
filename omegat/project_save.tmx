@@ -59487,6 +59487,14 @@ protocols for communication across the network.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The word “run”, as well as “runs”, “runner”, “runway”, “runt” in “grunt” or “brunt”, and any other word or sequence of characters containing “run” followed by zero or more “&lt;e0&gt;word characters&lt;/e0&gt;” (which include digits and the underscore, so the part before the “@” in an email address such as run_123@example.email.org is also a match).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221224T032732Z" creationid="WynnChen" creationdate="20221224T032527Z">
+        <seg>单词“run”，还有“runs”、“runner”、“runway”、“grunt”或“brunt”中的“runt”，以及包含“run”后面跟着零个或多个“&lt;e0&gt;单词字符&lt;/e0&gt;”（包括数字和下划线，因此诸如 run_123@example.email.org 这样的 Email 地址中“@”之前的部分也是匹配项）的任意其他单词或字符序列。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The writable glossary file folder does not exist!</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T073616Z" creationid="WynnChen" creationdate="20221129T073616Z">
@@ -60653,6 +60661,14 @@ the server.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221224T031033Z" creationid="WynnChen" creationdate="20221224T031033Z">
         <seg>此字符说明应该匹配前面的那个字符或表达式的零个或一个实例。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This character specifies that zero or more instances of the preceding character or expression should be matched.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221224T032537Z" creationid="WynnChen" creationdate="20221224T032414Z">
+        <seg>此字符说明应该匹配前面的那个字符或表达式的零个或多个实例。</seg>
       </tuv>
     </tu>
     <tu>
@@ -77705,6 +77721,14 @@ If the project contains files but their content is not displayed here:
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131108T065801Z" creationid="Fu Rhong" creationdate="20131108T065801Z">
         <seg>run</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>run\w*</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221224T032415Z" creationid="WynnChen" creationdate="20221224T032415Z">
+        <seg>run\w*</seg>
       </tuv>
     </tu>
     <tu>
