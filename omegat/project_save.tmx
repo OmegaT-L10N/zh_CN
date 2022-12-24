@@ -33279,6 +33279,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It will also find the final “an ” of “Can ” in a sentence such as “Can I help you?”, or the final “a ” of “pasta” in “We had pasta for lunch.”</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221224T031915Z" creationid="WynnChen" creationdate="20221224T031915Z">
+        <seg>它也会找到诸如“Can I help you?”这样的句子中“Can ”最后的“an ”，或者“We had pasta for lunch.”中“pasta ”最后的“a ”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It will be created the first time you add an entry to the glossary.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T024451Z" creationid="WynnChen" creationdate="20221212T024451Z">
@@ -79843,6 +79851,22 @@ If the project contains files but their content is not displayed here:
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221224T030704Z" creationid="WynnChen" creationdate="20221224T030704Z">
         <seg>“An apple a day…”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>“I have a question.”</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221224T031138Z" creationid="WynnChen" creationdate="20221224T031138Z">
+        <seg>“I have a question.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>“I know an excellent doctor.”</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221224T031139Z" creationid="WynnChen" creationdate="20221224T031139Z">
+        <seg>“I know an excellent doctor.”</seg>
       </tuv>
     </tu>
     <tu>
