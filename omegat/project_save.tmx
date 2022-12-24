@@ -54507,6 +54507,14 @@ form of a work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The ASTERISK: &lt;l0&gt;*&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221224T032355Z" creationid="WynnChen" creationdate="20221224T032355Z">
+        <seg>星号：&lt;l0&gt;*&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Add Finished!</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131111T125442Z" creationid="Fu Rhong" creationdate="20131111T123706Z">
@@ -56867,6 +56875,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190902T095512Z" creationid="wynnc" creationdate="20190902T095512Z">
         <seg>包含规则优先于排除规则。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The indefinite article: “a” (or “an”).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221224T032041Z" creationid="WynnChen" creationdate="20221224T032041Z">
+        <seg>The indefinite article: “a” (or “an”).</seg>
       </tuv>
     </tu>
     <tu>
@@ -60136,8 +60152,8 @@ You, victim of one</seg>
       <tuv lang="en">
         <seg>They are not followed by a space.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221224T032037Z" creationid="WynnChen" creationdate="20221224T032037Z">
-        <seg>They are not followed by a space.</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221224T032340Z" creationid="WynnChen" creationdate="20221224T032037Z">
+        <seg>它们后面没有跟着空格。</seg>
       </tuv>
     </tu>
     <tu>
