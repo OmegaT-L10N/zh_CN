@@ -32925,8 +32925,8 @@ everything.</seg>
       <tuv lang="en">
         <seg>It is often useful to search for words and phrases in the source text and in your translation, so press &lt;k0&gt;Ctrl+F&lt;/k0&gt; for the &lt;g1&gt;Text Search&lt;/g1&gt; dialog at any time.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20200120T021452Z" creationid="Fu Rhong" creationdate="20131117T031654Z">
-        <seg>在原文文本和你的译文中搜索单词和短语通常会很有用，因此随时都可以按下 &lt;k0&gt;Ctrl+F&lt;/k0&gt; 来打开&lt;g1&gt;文本搜索&lt;/g1&gt;对话框。</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221224T033014Z" creationid="Fu Rhong" creationdate="20131117T031654Z">
+        <seg>在原文文本和你的译文中搜索单词和片语通常会很有用，因此随时都可以按下 &lt;k0&gt;Ctrl+F&lt;/k0&gt; 来打开&lt;g1&gt;文本搜索&lt;/g1&gt;对话框。</seg>
       </tuv>
     </tu>
     <tu>
@@ -55003,6 +55003,14 @@ software and other kinds of works.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The PLUS sign: &lt;l0&gt;+&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221224T033156Z" creationid="WynnChen" creationdate="20221224T033156Z">
+        <seg>加号：&lt;l0&gt;+&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The PO filter threw an exception:</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T103754Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -55671,8 +55679,8 @@ Please try to correct the error and reload the project.</seg>
       <tuv lang="en">
         <seg>The complete phrase in “run-on” or “run'n'gun”, because the hyphen and apostrophe are not included in &lt;l0&gt;\w&lt;/l0&gt;. Only the initial “run” in those phrases is matched.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221224T032914Z" creationid="WynnChen" creationdate="20221224T032914Z">
-        <seg>整个“run-on”或“run'n'gun”，因为 &lt;l0&gt;\w&lt;/l0&gt; 中不包括连字符和撇号。这些短语中只有 , because the hyphen and apostrophe are not included in  Only the initial “run” in those phrases is matched.</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221224T033056Z" creationid="WynnChen" creationdate="20221224T032914Z">
+        <seg>整个“run-on”或“run'n'gun”，因为 &lt;l0&gt;\w&lt;/l0&gt; 中不包括连字符和撇号。这些片语中只有开头的“run”是匹配的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60667,16 +60675,24 @@ the server.</seg>
       <tuv lang="en">
         <seg>This character specifies that either zero or one instance of the preceding character or expression should be matched.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221224T031033Z" creationid="WynnChen" creationdate="20221224T031033Z">
-        <seg>此字符说明应该匹配前面的那个字符或表达式的零个或一个实例。</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221224T033248Z" creationid="WynnChen" creationdate="20221224T031033Z">
+        <seg>此字符指定应该匹配前面那个字符或表达式的零个或一个实例。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This character specifies that one or more instances of the preceding character or expression should be matched.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221224T033316Z" creationid="WynnChen" creationdate="20221224T033231Z">
+        <seg>此字符指定应该匹配前面那个字符或表达式的一个或多个实例。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>This character specifies that zero or more instances of the preceding character or expression should be matched.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221224T032537Z" creationid="WynnChen" creationdate="20221224T032414Z">
-        <seg>此字符说明应该匹配前面的那个字符或表达式的零个或多个实例。</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221224T033241Z" creationid="WynnChen" creationdate="20221224T032414Z">
+        <seg>此字符指定应该匹配前面那个字符或表达式的零个或多个实例。</seg>
       </tuv>
     </tu>
     <tu>
