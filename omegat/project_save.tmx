@@ -55011,6 +55011,14 @@ software and other kinds of works.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The QUESTION MARK: &lt;l0&gt;?&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221224T030951Z" creationid="WynnChen" creationdate="20221224T030951Z">
+        <seg>问号：&lt;l0&gt;?&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Quit button closes Priorview and also deletes the temporary files that it creates.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="lenovo" changedate="20180416T111209Z" creationid="lenovo" creationdate="20180416T111209Z">
@@ -56859,6 +56867,14 @@ might be different; for a GUI interface, you would use an "about box".</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131127T115930Z" creationid="Fu Rhong" creationdate="20131127T115930Z">
         <seg>下面的信息概述了它们的用途和调用方式：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The initial “An” or “The” in phrases such as:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221224T030745Z" creationid="WynnChen" creationdate="20221224T030703Z">
+        <seg>诸如以下短语中开头的“An”或“The”，比如：</seg>
       </tuv>
     </tu>
     <tu>
@@ -60565,6 +60581,14 @@ the server.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221223T102934Z" creationid="WynnChen" creationdate="20221223T102934Z">
         <seg>此字符取消或激活后继字符的特殊含义。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This character functions as an “OR” and matches either of the expressions that precede or follow it.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221224T030639Z" creationid="WynnChen" creationdate="20221224T030639Z">
+        <seg>此字符起到了“或”的作用，匹配其前面或者后面表达式任一者。</seg>
       </tuv>
     </tu>
     <tu>
@@ -71681,6 +71705,14 @@ If the project contains files but their content is not displayed here:
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>^An|^The</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221224T030640Z" creationid="WynnChen" creationdate="20221224T030640Z">
+        <seg>^An|^The</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>^\w+:$</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221223T104015Z" creationid="WynnChen" creationdate="20221223T104015Z">
@@ -79771,6 +79803,38 @@ If the project contains files but their content is not displayed here:
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190327T174448Z" creationid="WynnChen" creationdate="20190327T174448Z">
         <seg>助力译者：10 个 OmegaT 的小贴士</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>“A story called &lt;e0&gt;An Unsung Hero&lt;/e0&gt;.”</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221224T030731Z" creationid="WynnChen" creationdate="20221224T030731Z">
+        <seg>“A story called &lt;e0&gt;An Unsung Hero&lt;/e0&gt;.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>“An apple a day…”</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221224T030704Z" creationid="WynnChen" creationdate="20221224T030704Z">
+        <seg>“An apple a day…”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>“The apple of my eye…”</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221224T030704Z" creationid="WynnChen" creationdate="20221224T030704Z">
+        <seg>“The apple of my eye…”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>“They work for &lt;e0&gt;The Daily Post&lt;/e0&gt;.”</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221224T030733Z" creationid="WynnChen" creationdate="20221224T030733Z">
+        <seg>“They work for &lt;e0&gt;The Daily Post&lt;/e0&gt;.”</seg>
       </tuv>
     </tu>
     <tu>
