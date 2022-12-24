@@ -54883,6 +54883,14 @@ software and other kinds of works.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The OPENING PARENTHESIS: &lt;l0&gt;(&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221224T034014Z" creationid="WynnChen" creationdate="20221224T034014Z">
+        <seg>左括号：&lt;l0&gt;(&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The OmegaT Project</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T114720Z" creationid="xulihang" creationdate="20180425T042247Z">
@@ -60709,6 +60717,14 @@ the server.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221224T033335Z" creationid="WynnChen" creationdate="20221224T032414Z">
         <seg>此字符指定应该匹配前面那个字符或表达式的零个或更多个实例。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This character starts a &lt;e0&gt;group&lt;/e0&gt;, which is a set of characters treated as a single unit. Groups are numbered, and their contents group are stored in memory. They can be reused later in the search expression using &lt;l1&gt;\&lt;o2&gt;n&lt;/o2&gt;&lt;/l1&gt;, where &lt;o3&gt;n&lt;/o3&gt; is the number of the group.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221224T034832Z" creationid="WynnChen" creationdate="20221224T034832Z">
+        <seg>此字符开启一个&lt;e0&gt;分组&lt;/e0&gt;，这是一组被视为单一单元的字符。分组会被编号，其内容组存储在内存中。之后可以在搜索表达式中用 &lt;l1&gt;\&lt;o2&gt;n&lt;/o2&gt;&lt;/l1&gt; 来重用它们，其中 &lt;o3&gt;n&lt;/o3&gt; 是分组的编号。</seg>
       </tuv>
     </tu>
     <tu>
