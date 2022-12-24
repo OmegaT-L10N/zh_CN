@@ -13217,6 +13217,14 @@ menu, a prominent item in the list meets this criterion.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Any combinations of three letters starting with “c” and ending with “t”: “&lt;e0&gt;cat&lt;/e0&gt;”, “&lt;e1&gt;cut&lt;/e1&gt;”, “&lt;e2&gt;cot&lt;/e2&gt;”, or even nonsensical combinations such as “&lt;e3&gt;czt&lt;/e3&gt;” or “&lt;e4&gt;cqt&lt;/e4&gt;”.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221224T030419Z" creationid="WynnChen" creationdate="20221224T030419Z">
+        <seg>任何以“c”开头并以“t”结尾的三字母组合：“&lt;e0&gt;cat&lt;/e0&gt;”、“&lt;e1&gt;cut&lt;/e1&gt;”、“&lt;e2&gt;cot&lt;/e2&gt;”、或者甚至诸如“&lt;e3&gt;czt&lt;/e3&gt;”或“&lt;e4&gt;cqt&lt;/e4&gt;”这样无意义的组合。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Any letter except an uppercase letter (subtraction)</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190522T054222Z">
@@ -17008,6 +17016,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T080850Z" creationid="WynnChen" creationdate="20221129T080850Z">
         <seg>列索引必须为 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Combinations containing three letters that start with “c” and ending with “t”, but are split across more than one line.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221224T030516Z" creationid="WynnChen" creationdate="20221224T030516Z">
+        <seg>包含以“c”开头并以“t”结尾、但拆分成多行的三字母组合：</seg>
       </tuv>
     </tu>
     <tu>
@@ -36608,6 +36624,14 @@ later version.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Matches any single character.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221224T030257Z" creationid="WynnChen" creationdate="20221224T030257Z">
+        <seg>匹配任何单个字符。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Matches can be found in your current translation or in the TMX files that you have put in the /tm/ folder.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190324T033305Z" creationid="wynnc" creationdate="20190323T090204Z">
@@ -55157,6 +55181,14 @@ Please try to correct the error and reload the project.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The VERTICAL BAR: &lt;l0&gt;|&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221224T030537Z" creationid="WynnChen" creationdate="20221224T030537Z">
+        <seg>竖线：&lt;l0&gt;|&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Web Start version is the "install and forget" version.&lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Zenobia Fang" changedate="20180423T125645Z" creationid="Zenobia Fang" creationdate="20180423T125515Z">
@@ -67726,6 +67758,14 @@ of selecting, obtaining and installing it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>What is the missing letter?</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221224T030521Z" creationid="WynnChen" creationdate="20221224T030521Z">
+        <seg>What is the missing letter?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>What you expected to see</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190411T015421Z">
@@ -72258,6 +72298,14 @@ If the project contains files but their content is not displayed here:
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>c</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221224T030522Z" creationid="WynnChen" creationdate="20221224T030522Z">
+        <seg>c</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>c) Convey individual copies of the object code with a copy of the
     written offer to provide the Corresponding Source.  This
     alternative is allowed only occasionally and noncommercially, and
@@ -72302,6 +72350,14 @@ If the project contains files but their content is not displayed here:
     regardless of how they are packaged.  This License gives no
     permission to license the work in any other way, but it does not
     invalidate such permission if you have separately received it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>c.t</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221224T030317Z" creationid="WynnChen" creationdate="20221224T030317Z">
+        <seg>c.t</seg>
       </tuv>
     </tu>
     <tu>
@@ -78171,6 +78227,14 @@ If the project contains files but their content is not displayed here:
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T111442Z" creationid="WynnChen" creationdate="20221222T111442Z">
         <seg>创建文件时的系统时间</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>t</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221224T030522Z" creationid="WynnChen" creationdate="20221224T030522Z">
+        <seg>t</seg>
       </tuv>
     </tu>
     <tu>
