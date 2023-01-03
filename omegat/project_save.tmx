@@ -60857,10 +60857,18 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This character must be paired with the closing curly brace to encloses an &lt;e0&gt;exact number&lt;/e0&gt;, &lt;e1&gt;minimum&lt;/e1&gt;, &lt;e2&gt;maximum&lt;/e2&gt;, or &lt;e3&gt;range&lt;/e3&gt; specifying how many instances of the preceding character or group should be matched.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230103T061836Z" creationid="WynnChen" creationdate="20230103T061529Z">
+        <seg>此字符必须与右大括号成对出现，括起一个&lt;e0&gt;精确数字&lt;/e0&gt;、&lt;e1&gt;最小值&lt;/e1&gt;、&lt;e2&gt;最大值&lt;/e2&gt;、或&lt;e3&gt;区间&lt;/e3&gt;，用于指定应匹配前一个字符或分组实例的数量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This character must be paired with the closing square bracket to enclose a set of individual characters that each represent a valid potential match.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230103T060623Z" creationid="WynnChen" creationdate="20230103T060623Z">
-        <seg>此字符必须与右方括号成对出现来括起一组单个字符，其中每个字符都代表一个有效的潜在匹配项。</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230103T061537Z" creationid="WynnChen" creationdate="20230103T060623Z">
+        <seg>此字符必须与右方括号成对出现，括起一组单个字符，其中每个字符都代表一个有效的潜在匹配项。</seg>
       </tuv>
     </tu>
     <tu>
