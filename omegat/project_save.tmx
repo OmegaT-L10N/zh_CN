@@ -37376,6 +37376,14 @@ later version.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>More egregious misspellings such as “licensse” or “lissense”.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230103T061457Z" creationid="WynnChen" creationdate="20230103T061457Z">
+        <seg>诸如“licensse”或“lissense”这类更严重的错误拼写。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>More experienced Linux users may prefer to install the Oracle (formerly Sun) JRE at system level.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Zenobia Fang" changedate="20180424T122105Z" creationid="Zenobia Fang" creationdate="20180424T122105Z">
@@ -55978,6 +55986,14 @@ instead.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190522T051746Z">
         <seg>对应于 x 的控制字符</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The correct “licence” and “license” spellings, as well as the potential “lisence” and “lisense” misspellings</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230103T061432Z" creationid="WynnChen" creationdate="20230103T061432Z">
+        <seg>正确的“licence”和“license”拼写，以及潜在的错误拼写“lisence”和“lisense”。</seg>
       </tuv>
     </tu>
     <tu>
@@ -76088,6 +76104,14 @@ If the project contains files but their content is not displayed here:
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131108T025924Z" creationid="Fu Rhong" creationdate="20131108T025924Z">
         <seg>li</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>li[cs]en[cs]e</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230103T061338Z" creationid="WynnChen" creationdate="20230103T061338Z">
+        <seg>li[cs]en[cs]e</seg>
       </tuv>
     </tu>
     <tu>
