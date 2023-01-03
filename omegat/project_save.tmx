@@ -17036,6 +17036,22 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Codes such as “123/45”, “1472/6985”, or “95133/15746”.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230103T062037Z" creationid="WynnChen" creationdate="20230103T062037Z">
+        <seg>诸如“123/45”、“1472/6985”、或“95133/15746”这样的代码。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Codes such as “1234/5”, “1472/69”, or “9513/842” consisting of four digits, a forward slash, and one to three more digits.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230103T062016Z" creationid="WynnChen" creationdate="20230103T062016Z">
+        <seg>诸如“1234/5”、“1472/69”、或“9513/842”这样由四个数字、一个斜杠再加一到三个数字组成的代码。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Colours</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T170933Z" creationid="wynnc" creationdate="20190323T170933Z">
@@ -42494,6 +42510,14 @@ unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221223T101120Z" creationid="WynnChen" creationdate="20221223T101120Z">
         <seg>字母中只有 &lt;e0&gt;i j l m o&lt;/e0&gt; 和 &lt;e1&gt;y&lt;/e1&gt;（大写和小写都算）在其前面加上反斜杠时没有特殊含义。本手册只介绍一小部分具有特殊含义的字母。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Only the opening brace is special and needs to be preceded by a backslash to search for the brace character itself. If you only want to match the closing brace as itself, you do not need to precede it with a backslash. (You can still add it, but it will have no effect on the expression or the result.)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230103T061938Z" creationid="WynnChen" creationdate="20230103T061938Z">
+        <seg>只有左花括号是特殊的，需要在前面加上反斜杠才能搜索花括号字符本身。如果只需要匹配右花括号本身，并不需要在前面加上反斜杠。（你还是可以加，但这并不会对表达式或结果产生任何影响。）</seg>
       </tuv>
     </tu>
     <tu>
@@ -71845,6 +71869,14 @@ If the project contains files but their content is not displayed here:
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221224T033416Z" creationid="WynnChen" creationdate="20221224T033416Z">
         <seg>\d+.d</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\d{4}/\d{1,3}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230103T061939Z" creationid="WynnChen" creationdate="20230103T061939Z">
+        <seg>\d{4}/\d{1,3}</seg>
       </tuv>
     </tu>
     <tu>
