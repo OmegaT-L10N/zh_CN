@@ -43646,6 +43646,14 @@ Vanishing like mist</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Parentheses are always used in opening and closing pairs. Trying to use only the opening or closing parenthesis on its own will cause an error.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230103T055653Z" creationid="WynnChen" creationdate="20230103T055653Z">
+        <seg>括号始终要左右成对使用，试图单独使用左括号或右括号会导致错误。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Parse error encountered reading preferences file!</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190322T055918Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -55754,6 +55762,14 @@ instead.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190901T162652Z" creationid="WynnChen" creationdate="20190901T162652Z">
         <seg>文件的内容在打开新片段（source.txt 和 target.txt）或导出新的所选部分（selection.txt）时会被覆盖。这些文件是无格式的纯文本文件。整个过程可以通过基于 Tck/Tcl 的脚本来操纵控制。关于细节、示例和建议，请参阅&lt;u0&gt;使用 OmegaT 的文本导出功能&lt;/u0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The content of the group can also be used in the &lt;l0&gt;replacement text&lt;/l0&gt;. Use &lt;l1&gt;$&lt;o2&gt;n&lt;/o2&gt;&lt;/l1&gt;, where &lt;o3&gt;n&lt;/o3&gt; is the number of the group defined in the search.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230103T055616Z" creationid="WynnChen" creationdate="20230103T055616Z">
+        <seg>分组的内容可以用在&lt;l0&gt;替换文本&lt;/l0&gt;中。使用 &lt;l1&gt;$&lt;o2&gt;n&lt;/o2&gt;&lt;/l1&gt;，其中 &lt;o3&gt;n&lt;/o3&gt; 是在搜索中该定义的分组编号。</seg>
       </tuv>
     </tu>
     <tu>
