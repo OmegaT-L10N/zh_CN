@@ -42490,6 +42490,14 @@ unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Only the opening bracket is special and needs to be preceded by a backslash to search for the bracket character itself. If you only want to match the closing bracket as itself, you do not need to precede it with a backslash. (You can still add it, but it will have no effect on the expression or the result.)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230103T061334Z" creationid="WynnChen" creationdate="20230103T061334Z">
+        <seg>只有左方括号是特殊的，需要在前面加上反斜杠才能搜索方括号字符本身。如果只需要匹配右方括号本身，并不需要在前面加上反斜杠。（你还是可以加，但这并不会对表达式或结果产生任何影响。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Only the options not available under the XHTML files filter (see above) are described here.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T121317Z" creationid="WynnChen" creationdate="20221209T121317Z">
