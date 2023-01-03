@@ -52363,6 +52363,14 @@ All sets that match the project source language are applied.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Step 2) …</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230103T060230Z" creationid="WynnChen" creationdate="20230103T060230Z">
+        <seg>Step 2) …</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Step 2: Add files to translate and other resources</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190902T091617Z" creationid="wynnc" creationdate="20190902T091617Z">
@@ -54963,10 +54971,26 @@ software and other kinds of works.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The OPENING CURLY BRACE: &lt;l0&gt;{&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230103T060508Z" creationid="WynnChen" creationdate="20230103T060508Z">
+        <seg>左花括号：&lt;l0&gt;{&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The OPENING PARENTHESIS: &lt;l0&gt;(&lt;/l0&gt;</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221224T034014Z" creationid="WynnChen" creationdate="20221224T034014Z">
         <seg>左括号：&lt;l0&gt;(&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The OPENING SQUARE BRACKET: &lt;l0&gt;[&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230103T060402Z" creationid="WynnChen" creationdate="20230103T060402Z">
+        <seg>左方括号：&lt;l0&gt;[&lt;/l0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -60805,6 +60829,14 @@ the server.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221224T030639Z" creationid="WynnChen" creationdate="20221224T030639Z">
         <seg>此字符起到了“或”的作用，匹配其前面或者后面表达式任一者。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This character must be paired with the closing square bracket to enclose a set of individual characters that each represent a valid potential match.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230103T060623Z" creationid="WynnChen" creationdate="20230103T060623Z">
+        <seg>此字符必须与右方括号成对出现来括起一组单个字符，其中每个字符都代表一个有效的潜在匹配项。</seg>
       </tuv>
     </tu>
     <tu>
