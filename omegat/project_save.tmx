@@ -2829,6 +2829,14 @@ not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(\b\w+\b)\h\1\b</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230103T055655Z" creationid="WynnChen" creationdate="20230103T055655Z">
+        <seg>(\b\w+\b)\h\1\b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(\b\w+\b)\s\1\b</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120215T114745Z">
@@ -21182,6 +21190,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190403T151433Z" creationid="xulihang" creationdate="20180408T113059Z">
         <seg>重复空白</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Doubled up words separated by a space, such as the consecutive “an” in the following sentence:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230103T055853Z" creationid="WynnChen" creationdate="20230103T055853Z">
+        <seg>空格隔开的重复单词，例如以下句子中的连续“an”：</seg>
       </tuv>
     </tu>
     <tu>
@@ -59591,6 +59607,14 @@ protocols for communication across the network.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The “that, that” in the following sentence:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230103T055919Z" creationid="WynnChen" creationdate="20230103T055919Z">
+        <seg>以下句子中的“that, that”：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The&lt;u0&gt; &lt;a1&gt;OmegaT&lt;/a1&gt; web site &lt;/u0&gt;contains links to numerous &lt;a2&gt;OmegaT&lt;/a2&gt; resources.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120130T070905Z">
@@ -79987,6 +80011,22 @@ If the project contains files but their content is not displayed here:
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221224T030704Z" creationid="WynnChen" creationdate="20221224T030704Z">
         <seg>“An apple a day…”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>“But that, that is just unbelievable”, because the first “that” is followed by both a comma and a space rather than only a space.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230103T060005Z" creationid="WynnChen" creationdate="20230103T060005Z">
+        <seg>“But that, that is just unbelievable”，因为第一个“that”后面跟的是逗号加上空格而非仅只一个空格。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>“I bought an an apple.”</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230103T055901Z" creationid="WynnChen" creationdate="20230103T055901Z">
+        <seg>“I bought an an apple.”</seg>
       </tuv>
     </tu>
     <tu>
