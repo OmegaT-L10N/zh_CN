@@ -4281,6 +4281,14 @@ not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>1) Apples</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230103T060202Z" creationid="WynnChen" creationdate="20230103T060202Z">
+        <seg>1) Apples</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>1) Reduce the number of source files and translate in batches;</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T173949Z" creationid="wynnc" creationdate="20190320T085705Z">
@@ -4423,6 +4431,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>2) Oranges</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230103T060202Z" creationid="WynnChen" creationdate="20230103T060202Z">
+        <seg>2) Oranges</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>2- or 3-letter language code followed by the 2-letter country code (e.g. EN-US - See &lt;x0/&gt; for a partial list of language and country codes).</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120218T061243Z">
@@ -4459,6 +4475,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="liufang" changedate="20180416T122458Z" creationid="liufang" creationdate="20180416T122458Z">
         <seg>第二个示例修改：将显示的模糊匹配数量从五个增加到十个</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>3) Pears</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230103T060204Z" creationid="WynnChen" creationdate="20230103T060204Z">
+        <seg>3) Pears</seg>
       </tuv>
     </tu>
     <tu>
@@ -24499,6 +24523,14 @@ patents cannot be used to render the program non-free.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20200117T071605Z">
         <seg>请按照所需安装包的说明进行操作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Follow these steps:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230103T060226Z" creationid="WynnChen" creationdate="20230103T060226Z">
+        <seg>Follow these steps:</seg>
       </tuv>
     </tu>
     <tu>
@@ -50155,6 +50187,14 @@ When using regular expressions, the replacement string supports references to gr
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sequence numbers that are not at the beginning of a line.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230103T060219Z" creationid="WynnChen" creationdate="20230103T060219Z">
+        <seg>不在行首处的序列号。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Sequences such as 0,1, 0-3, or the first three characters of 0x002E, which would be matched if the expression was just &lt;l0&gt;0.[0-9]&lt;/l0&gt;, with no backslash before the period</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221223T103414Z" creationid="WynnChen" creationdate="20221223T103414Z">
@@ -52279,6 +52319,14 @@ All sets that match the project source language are applied.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190410T152952Z" creationid="wynnc" creationdate="20190323T080105Z">
         <seg>词干分析，不考虑标签和数字</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Step 1) Preparation</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230103T060229Z" creationid="WynnChen" creationdate="20230103T060229Z">
+        <seg>Step 1) Preparation</seg>
       </tuv>
     </tu>
     <tu>
@@ -54575,6 +54623,14 @@ form of a work.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221223T103419Z" creationid="WynnChen" creationdate="20221223T103419Z">
         <seg>脱字符：&lt;l0&gt;^&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The CLOSING PARENTHESIS: &lt;l0&gt;)&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230103T060015Z" creationid="WynnChen" creationdate="20230103T060015Z">
+        <seg>右括号：&lt;l0&gt;)&lt;/l0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -58550,6 +58606,14 @@ protocols for communication across the network.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The sequence number (including the parenthesis) at the beginning of each line in a list such as:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230103T060202Z" creationid="WynnChen" creationdate="20230103T060202Z">
+        <seg>列表中每一行开头的序号（包括括弧），诸如：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The server can exist in the local network but in the majority of cases it will be available on internet, i.e. via URL address.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131124T132948Z" creationid="Fu Rhong" creationdate="20131110T073204Z">
@@ -60717,6 +60781,14 @@ the server.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20221128T111044Z">
         <seg>本章内容是为高级用户准备的，用于定义自己的分割规则变体或设计更复杂更强大的关键字搜索项。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This character closes a group. It is special because it can never be used on its own. It must be preceded by the &lt;l0&gt;\&lt;/l0&gt; if you need to match the closing parenthesis character itself.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230103T060133Z" creationid="WynnChen" creationdate="20230103T060133Z">
+        <seg>此字符结束一个分组。它十分特别，因为它永远不能单独使用。如果需要匹配右括号字符本身，则必须在其前面加上 &lt;l0&gt;\&lt;/l0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -71893,6 +71965,14 @@ If the project contains files but their content is not displayed here:
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221224T030640Z" creationid="WynnChen" creationdate="20221224T030640Z">
         <seg>^An|^The</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>^\d+\)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230103T060134Z" creationid="WynnChen" creationdate="20230103T060134Z">
+        <seg>^\d+\)</seg>
       </tuv>
     </tu>
     <tu>
