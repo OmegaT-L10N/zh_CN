@@ -46615,6 +46615,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remember that most &lt;e0&gt;alphabetic&lt;/e0&gt; characters preceded by a &lt;l1&gt;\&lt;/l1&gt; turn into an expression that represents &lt;e2&gt;not the character itself, but its associated special meaning&lt;/e2&gt;.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230109T033401Z" creationid="WynnChen" creationdate="20230109T033401Z">
+        <seg>要记住，大部分&lt;e0&gt;字母&lt;/e0&gt;字符在前面加一个 &lt;l1&gt;\&lt;/l1&gt; 时会变为一个&lt;e2&gt;表示有关特定含义而非此字符本身&lt;/e2&gt;的表达式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remember that you will first have to save in OmegaT and produce the translated documents, then launch the conversion utility, then wait for the display to be updated in the browser.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="lenovo" changedate="20180416T085540Z" creationid="lenovo" creationdate="20180416T085532Z">
@@ -62249,6 +62257,14 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
       </tuv>
       <tuv lang="zh-CN" changeid="think" changedate="20180416T085038Z" creationid="think" creationdate="20180416T085038Z">
         <seg>该脚本：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This section presents various types of regular expression, ranging from the simple to the complex.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230109T033222Z" creationid="WynnChen" creationdate="20230109T033222Z">
+        <seg>本章节介绍各种正则表达式，由浅入深。</seg>
       </tuv>
     </tu>
     <tu>
