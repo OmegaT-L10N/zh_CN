@@ -5656,6 +5656,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Caution:&lt;/e0&gt; Although the last two codes above are not matched completely, the expression will return the “&lt;e1&gt;1472/698&lt;/e1&gt;” portion of “1472/6985”, as well as the “&lt;e2&gt;5133/157&lt;/e2&gt;” of “95133/15746”.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230109T032811Z" creationid="WynnChen" creationdate="20230109T032811Z">
+        <seg>&lt;e0&gt;注意：&lt;/e0&gt; 虽然上面的代码中最后两个并不完全匹配，但是表达式会返回“1472/6985”中的“&lt;e1&gt;1472/698&lt;/e1&gt;”部分，以及“95133/15746”中的“&lt;e2&gt;5133/157&lt;/e2&gt;”部分。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Close:&lt;/e0&gt; close the window without any change.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="10353" changedate="20180412T100335Z" creationid="10353" creationdate="20180412T100335Z">
@@ -35647,6 +35655,14 @@ later version.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120201T123132Z">
         <seg>丢失这些文件可能导致 OmegaT 恢复“出厂”设置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Lots of expressions</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230109T033146Z" creationid="WynnChen" creationdate="20230109T033146Z">
+        <seg>大量表达式</seg>
       </tuv>
     </tu>
     <tu>
