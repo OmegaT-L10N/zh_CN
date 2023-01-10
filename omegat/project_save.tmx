@@ -36267,6 +36267,14 @@ later version.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Many frequently used sets have a shorthand form consisting of a backslash followed by a letter of the alphabet. For example, &lt;l0&gt;\d&lt;/l0&gt; is a shorthand for &lt;l1&gt;[0-9]&lt;/l1&gt;, which matches any digit between 0 and 9. In many cases, the corresponding uppercase later is used to negate the class: &lt;l2&gt;\D&lt;/l2&gt; matches any character that is &lt;e3&gt;not&lt;/e3&gt; a digit.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230110T095028Z" creationid="WynnChen" creationdate="20230110T095028Z">
+        <seg>许多常用的集合都有一个反斜杠后跟一个字母组成的简写形式。例如，&lt;l0&gt;\d&lt;/l0&gt; 是 &lt;l1&gt;[0-9]&lt;/l1&gt; 的简写，它匹配 0 到 9 之间的任意数字，后面字母的对应大写用于取反这个类：&lt;l2&gt;\D&lt;/l2&gt; 匹配任何&lt;e3&gt;不是&lt;/e3&gt;数字的字符。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Many of you reading this will be translators who have translated a lot of user documentation.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="18261" changedate="20180412T102632Z" creationid="18261" creationdate="20180412T102632Z">
@@ -59306,6 +59314,14 @@ protocols for communication across the network.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20230110T092600Z" creationid="WynnChen" creationdate="20230110T092600Z">
         <seg>制表符（Tab），而不是字母“t”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The table below provides various additional examples. These classes never represent only the actual letter used to form the shorthand.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230110T095050Z" creationid="WynnChen" creationdate="20230110T095050Z">
+        <seg>The table below provides various additional examples. These classes never represent only the actual letter used to form the shorthand.</seg>
       </tuv>
     </tu>
     <tu>
