@@ -2512,6 +2512,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(?-i)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230110T093220Z" creationid="WynnChen" creationdate="20230110T093220Z">
+        <seg>(?-i)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(?i)</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120214T033411Z">
@@ -16601,6 +16609,14 @@ Exception occurred:</seg>
         <seg>Class</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20200730T052448Z" creationid="WynnChen" creationdate="20200730T052448Z">
+        <seg>类</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Classes</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230110T093526Z" creationid="WynnChen" creationdate="20230110T093526Z">
         <seg>类</seg>
       </tuv>
     </tu>
@@ -36135,6 +36151,14 @@ later version.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20230110T093219Z" creationid="WynnChen" creationdate="20230110T093219Z">
         <seg>让修饰符右侧的表达式片段不区分大小写。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Makes the part of the expression to the right of the modifier case sensitive.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230110T093236Z" creationid="WynnChen" creationdate="20230110T093236Z">
+        <seg>让修饰符右侧的表达式片段区分大小写。</seg>
       </tuv>
     </tu>
     <tu>
@@ -70799,6 +70823,14 @@ linux-install.sh 脚本的文件夹，然后用 ./linux-install.sh 执行脚本�
       </tuv>
       <tuv lang="zh-CN" changeid="lenovo" changedate="20180416T081613Z" creationid="lenovo" creationdate="20180416T081613Z">
         <seg>你仍然可以使用以上描述的浏览器方案来预览文件，但是你仍然需要一个转换器来将文件转换成.html格式，以及自动启动转换器的功能，这样你就不用手动转换文件了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can take advantage of this to apply a fine degree of control to case sensitivity in searches. Suppose, for example, that you want to find instances of “OmegaT” and “omegat”, but not “OMEGAT”. You can do so with the following expression: &lt;l0&gt;(?i)o&lt;/l0&gt;&lt;l1&gt;(?-i)mega&lt;/l1&gt; &lt;l2&gt;(?i)t&lt;/l2&gt;, which represents a case insensitive “o” followed by a case sensitive “mega”, followed by a case insensitive “t”.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230110T093519Z" creationid="WynnChen" creationdate="20230110T093519Z">
+        <seg>可以利用这一点在搜索中对大小写区分进行精细控制。举例说，假设要查找“OmegaT”和“omegat”的实例但不想要“OMEGAT”。可以用以下表达式做到这点：&lt;l0&gt;(?i)o&lt;/l0&gt;&lt;l1&gt;(?-i)mega&lt;/l1&gt; &lt;l2&gt;(?i)t&lt;/l2&gt;，这表示一个不区分大小写的“o”后面跟着区分大小写的“mega”然后在跟上一个不区分大小写的“t”。</seg>
       </tuv>
     </tu>
     <tu>
