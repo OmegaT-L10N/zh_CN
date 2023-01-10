@@ -46671,6 +46671,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Regular expressions are not limited to alphanumeric characters. They cover the entire Unicode character set. Use Unicode blocks, scripts and categories to specify character classes outside the alphanumeric character range. A few examples are presented in the table below.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230110T101322Z" creationid="WynnChen" creationdate="20230110T101322Z">
+        <seg>正则表达式并不限于字母数字字符。它们覆盖了整个 Unicode 字符集。可以用 Unicode 的 block（区段）、script（文字）或 category（类别）来指定字母数字区间以外的字符类。下表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Regular expressions are used to find text (including characters that are not visible on the screen or when printed out, such as spaces, tabs, or line breaks. Any given expression either &lt;e0&gt;matches&lt;/e0&gt;, or &lt;e1&gt;does &lt;e2&gt;not&lt;/e2&gt; match&lt;/e1&gt; a word, phrase, or other sequence of text.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221224T032947Z" creationid="WynnChen" creationdate="20221214T111013Z">
