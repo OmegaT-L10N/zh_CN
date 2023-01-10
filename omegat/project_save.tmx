@@ -46673,8 +46673,8 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Regular expressions are not limited to alphanumeric characters. They cover the entire Unicode character set. Use Unicode blocks, scripts and categories to specify character classes outside the alphanumeric character range. A few examples are presented in the table below.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230110T101322Z" creationid="WynnChen" creationdate="20230110T101322Z">
-        <seg>正则表达式并不限于字母数字字符。它们覆盖了整个 Unicode 字符集。可以用 Unicode 的 block（区段）、script（文字）或 category（类别）来指定字母数字区间以外的字符类。下表</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230110T101352Z" creationid="WynnChen" creationdate="20230110T101322Z">
+        <seg>正则表达式并不限于字母数字字符。它们覆盖了整个 Unicode 字符集。可以用 Unicode 的 block（区段）、script（文字）或 category（类别）来指定字母数字区间以外的字符类。下表列出了一些示例：</seg>
       </tuv>
     </tu>
     <tu>
@@ -49495,6 +49495,14 @@ When using regular expressions, the replacement string supports references to gr
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
         <seg>查阅下面提到的附加参考和范例。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See also &lt;u0&gt;Unicode Regular Expressions&lt;/u0&gt; for a thorough review of Unicode regular expressions.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230110T101429Z" creationid="WynnChen" creationdate="20230110T101429Z">
+        <seg>另请参阅 &lt;u0&gt;Unicode 正则表达式&lt;/u0&gt;以全面了解 Unicode 正则表达式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -59440,8 +59448,8 @@ protocols for communication across the network.</seg>
       <tuv lang="en">
         <seg>The table below provides various additional examples. These classes never represent only the actual letter used to form the shorthand.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230110T095222Z" creationid="WynnChen" creationdate="20230110T095050Z">
-        <seg>下表呈现了各式其他示例。这些类绝不会只表示用于形成简写的实际字母。</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230110T101332Z" creationid="WynnChen" creationdate="20230110T095050Z">
+        <seg>下表提供了各式其他示例。这些类绝不会只表示用于形成简写的实际字母。</seg>
       </tuv>
     </tu>
     <tu>
@@ -75510,6 +75518,14 @@ If the project contains files but their content is not displayed here:
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131112T114347Z" creationid="Fu Rhong" creationdate="20131112T114347Z">
         <seg>https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=9UB6Y2BBF99LL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://www.regular-expressions.info/unicode.html</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230110T101353Z" creationid="WynnChen" creationdate="20230110T101353Z">
+        <seg>https://www.regular-expressions.info/unicode.html</seg>
       </tuv>
     </tu>
     <tu>
