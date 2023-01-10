@@ -30811,6 +30811,14 @@ work and works based on it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In contrast, Regular expressions are case sensitive by default. This means that a regular expression search for “OmegaT”, for example, will not match “omegat”. However, regular expressions also provide special modifiers to specify case sensitivity within the expression:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230110T093127Z" creationid="WynnChen" creationdate="20230110T093127Z">
+        <seg>相比之下，正则表达式在默认情况下是区分大小写的。举例说，这意味着用正则表达式“OmegaT”进行搜索是不会匹配“omegat”的。但是，正则表达式还提供特殊修饰符来在表达式内指定区分大小写：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In each case, &lt;i0&gt;file&lt;/i0&gt; is the name of a .docx or .odt file.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="lenovo" changedate="20180416T113010Z" creationid="lenovo" creationdate="20180416T113010Z">
@@ -36119,6 +36127,14 @@ later version.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131111T114758Z" creationid="Fu Rhong" creationdate="20131111T114758Z">
         <seg>确保&lt;e1&gt;检出目录&lt;/e1&gt;无误，即指定您创建的空文件夹并按下&lt;e2&gt;OK&lt;/e2&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Makes the part of the expression to the right of the modifier case insensitive.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230110T093219Z" creationid="WynnChen" creationdate="20230110T093219Z">
+        <seg>让修饰符右侧的表达式片段不区分大小写。</seg>
       </tuv>
     </tu>
     <tu>
