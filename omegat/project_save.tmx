@@ -70771,6 +70771,14 @@ linux-install.sh 脚本的文件夹，然后用 ./linux-install.sh 执行脚本�
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can search for any of the four class special characters as normal characters by preceding them with a backslash. You can also search for the caret, closing bracket, and hyphen as themselves by placing them at a position that does not trigger their special meaning: anywhere except right after the opening bracket for the caret, immediately after either opening bracket or the caret following it for the closing bracket, and either just after the opening bracket or just before the closing bracket for the hyphen.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230110T094743Z" creationid="WynnChen" creationdate="20230110T094743Z">
+        <seg>可以通过在前面加上反斜杠来搜索这四个类特殊字符本身。对于脱字符、右方括号和连字符，还可以通过将其放在不会触发其特殊含义的位置来搜索其本身：对于脱字符，是除了紧跟在左方括号的位置之外的任何位置；对于右方括号，是紧跟在左方括号之后、或紧跟在左方括号后面的脱字符之后的位置；对于连字符，是紧跟在左方括号之后或紧挨在右方括号之前的位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can select a file with &lt;k0&gt;Up&lt;/k0&gt; and &lt;k1&gt;Down&lt;/k1&gt; keys, and open it for translation by pressing &lt;k2&gt;Enter&lt;/k2&gt;</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Doris" changedate="20180419T022553Z" creationid="Doris" creationdate="20180419T022553Z">
