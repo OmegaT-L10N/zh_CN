@@ -16622,6 +16622,14 @@ Exception occurred:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Classes are defined by enclosing the desired characters in square brackets, and can be specified either by listing each individual character to include, or by specifying a range of characters. For example, you could create the &lt;l0&gt;[£€$]&lt;/l0&gt; class to find any of those three currency symbols in the text, or [1-3] to find the number 1, 2 or 3.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230110T093807Z" creationid="WynnChen" creationdate="20230110T093807Z">
+        <seg>类是通过将所需的字符括在方括号中来定义的，并且可以通过罗列每一个需要包括的字符或者通过指定字符范围来指定。例如，可以创建 &lt;l0&gt;[£€$]&lt;/l0&gt; 类来在文本中查找这三个货币符号中的任何一个，或创建 [1-3] 来查找数字 1、2 或 3。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cleaning entry '{0}'...</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190403T160031Z" creationid="WynnChen" creationdate="20190403T160031Z">
@@ -32232,6 +32240,14 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Inside a class, only the backslash (&lt;l0&gt;\&lt;/l0&gt;), caret (&lt;l1&gt;^&lt;/l1&gt;), closing bracket (&lt;l2&gt;]&lt;/l2&gt;) and hyphen (&lt;l3&gt;-&lt;/l3&gt;) are special. The rest of the twelve characters are normal, and do not have to be preceded by a backslash if you want to search for those characters themselves.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230110T094104Z" creationid="WynnChen" creationdate="20230110T094104Z">
+        <seg>在一个类中，只有反斜杠（&lt;l0&gt;\&lt;/l0&gt;）、脱字符（&lt;l1&gt;^&lt;/l1&gt;）、右方括号（&lt;l2&gt;]&lt;/l2&gt;）和连字符（&lt;l3&gt;-&lt;/l3&gt;）是特殊的。十二个字符的其他几个则是普通的，如果需要搜索这些字符本身，不必在前面加上反斜杠。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Install</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -46523,6 +46539,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
         <seg>正则表达式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Regular expressions allow you to create sets of characters—known as &lt;e0&gt;classes&lt;/e0&gt;. Searches will match any of the characters in the set.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230110T093559Z" creationid="WynnChen" creationdate="20230110T093559Z">
+        <seg>正则表达式允许你创建字符集合——称为&lt;e0&gt;类&lt;/e0&gt;。搜索将匹配集合中的任何一个字符。</seg>
       </tuv>
     </tu>
     <tu>
