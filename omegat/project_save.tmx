@@ -15869,6 +15869,14 @@ Exception occurred:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Characters</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230110T092508Z" creationid="WynnChen" creationdate="20230110T092508Z">
+        <seg>字符</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Characters (including spaces)</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T170935Z" creationid="wynnc" creationdate="20190320T170838Z">
@@ -23443,6 +23451,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20200120T032535Z" creationid="WynnChen" creationdate="20200120T032334Z">
         <seg>将当前选中内容导出至文本文件进行处理。如果未选择任何文本，则将当前原文片段写入该文件。当用户退出 &lt;a0&gt;OmegaT&lt;/a0&gt; 时，此文件并不会被清空，以与常规的剪贴板行为一致。导出的内容将被复制到位于用户偏好设置文件所在的文件夹内的 &lt;f1&gt;selection.txt&lt;/f1&gt; 文件中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Expression</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230110T092512Z" creationid="WynnChen" creationdate="20230110T092512Z">
+        <seg>表达式</seg>
       </tuv>
     </tu>
     <tu>
@@ -36584,6 +36600,14 @@ later version.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Match</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230110T092514Z" creationid="WynnChen" creationdate="20230110T092514Z">
+        <seg>匹配</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Match Statistics</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T172042Z" creationid="wynnc" creationdate="20190320T172042Z">
@@ -37494,6 +37518,14 @@ your receipt of the notice.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="think" changedate="20180416T084540Z" creationid="think" creationdate="20180416T084540Z">
         <seg>大多数Linux发行版默认使用OpenJDK版本的Java。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Most characters match themselves.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230110T092535Z" creationid="WynnChen" creationdate="20230110T092535Z">
+        <seg>大多数字符匹配其自身</seg>
       </tuv>
     </tu>
     <tu>
@@ -55781,6 +55813,14 @@ Please try to correct the error and reload the project.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The character “x” itself</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230110T092524Z" creationid="WynnChen" creationdate="20230110T092524Z">
+        <seg>字符“x”本身</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The check boxes in the lower half of the dialog window serve the following purpose:</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190901T160306Z" creationid="Fu Rhong" creationdate="20131112T121124Z">
@@ -57787,6 +57827,14 @@ your programs, too.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The newline (line feed) character, not the letter “n”.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230110T092618Z" creationid="WynnChen" creationdate="20230110T092618Z">
+        <seg>换行符，而不是字母“n”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The next segment with a note attached to it, will open.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20200120T063515Z" creationid="Fu Rhong" creationdate="20131117T114526Z">
@@ -59162,6 +59210,14 @@ protocols for communication across the network.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190522T051726Z">
         <seg>Tab（制表符）（'\u0009'）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The tab character, not the letter “t”.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230110T092600Z" creationid="WynnChen" creationdate="20230110T092600Z">
+        <seg>制表符（Tab），而不是字母“t”。</seg>
       </tuv>
     </tu>
     <tu>
