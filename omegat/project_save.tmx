@@ -10659,8 +10659,8 @@ or that patent license was granted, prior to 28 March 2007.</seg>
       <tuv lang="en">
         <seg>A range is defined by the first character in a series, followed by a hyphen, followed by last character in the series. Any number of ranges can be defined: &lt;l0&gt;[a-zA-Z0-9]&lt;/l0&gt; means any lowercase character from “a” to “z”, or any uppercase character from “A” to “Z”, or any digit from “0” to “9”. A hyphen placed outside the series is just a hyphen: &lt;l1&gt;[a-z-]&lt;/l1&gt; means any lowercase character from “a” to “z”, or the hyphen character itself.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230110T095816Z" creationid="WynnChen" creationdate="20230110T095429Z">
-        <seg>区间是通过序列中的第一个字符后跟一个连字符再跟上序列中的最后一个字符来定义的。可以定义任意数量的区间：&lt;l0&gt;[a-zA-Z0-9]&lt;/l0&gt; 意味着从“a”到“z”的任意小写字符、或从“A”到“Z”的任意大写字符、或从“0”到“9”的任意数字。放置在序列外的连字符则就只是连字符：&lt;l1&gt;[a-z-]&lt;/l1&gt; 意思是任意从“a”到“z”的小写字符，或连字符本身。</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230110T095824Z" creationid="WynnChen" creationdate="20230110T095429Z">
+        <seg>区间是通过序列中的第一个字符后跟一个连字符再跟上序列中的最后一个字符来定义的。可以定义任意数量的区间：&lt;l0&gt;[a-zA-Z0-9]&lt;/l0&gt; 意味着从“a”到“z”的任意小写字符、或从“A”到“Z”的任意大写字符、或从“0”到“9”的任意数字。放置在序列外的连字符则就只是连字符：&lt;l1&gt;[a-z-]&lt;/l1&gt; 意思是任意从“a”到“z”的小写字符或连字符本身。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13269,6 +13269,14 @@ menu, a prominent item in the list meets this criterion.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190522T054533Z">
         <seg>任意字符（行终止符除外）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Any character &lt;e0&gt;except&lt;/e0&gt; a newline, a carriage return, or tab.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230110T095932Z" creationid="WynnChen" creationdate="20230110T095932Z">
+        <seg>换行符、回车符、或制表符&lt;e0&gt;以外&lt;/e0&gt;的任意字符。</seg>
       </tuv>
     </tu>
     <tu>
@@ -55845,6 +55853,14 @@ Please try to correct the error and reload the project.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The caret placed immediately after the opening square bracket excludes the rest of the characters in the class.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230110T100025Z" creationid="WynnChen" creationdate="20230110T100025Z">
+        <seg>紧跟在左方括号之后的脱字符将排除掉类中的其他字符。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The carriage-return character ('\u000D')</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190522T051349Z">
@@ -59352,8 +59368,8 @@ protocols for communication across the network.</seg>
       <tuv lang="en">
         <seg>The tab character, not the letter “t”.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230110T092600Z" creationid="WynnChen" creationdate="20230110T092600Z">
-        <seg>制表符（Tab），而不是字母“t”。</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230110T095941Z" creationid="WynnChen" creationdate="20230110T092600Z">
+        <seg>制表符，而不是字母“t”。</seg>
       </tuv>
     </tu>
     <tu>
@@ -71901,6 +71917,14 @@ If the project contains files but their content is not displayed here:
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120214T034744Z">
         <seg>[\p{L}&amp;&amp;[^\p{Lu}]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[^\n\r\t]</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230110T095818Z" creationid="WynnChen" creationdate="20230110T095818Z">
+        <seg>[^\n\r\t]</seg>
       </tuv>
     </tu>
     <tu>
