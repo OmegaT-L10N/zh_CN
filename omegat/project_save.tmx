@@ -10201,8 +10201,8 @@ on the Program.</seg>
       <tuv lang="en">
         <seg>A character in the range of letters from “C” through “X”.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230110T095417Z" creationid="WynnChen" creationdate="20230110T095417Z">
-        <seg>在“C”到“X”范围内的单个字母。</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230110T095630Z" creationid="WynnChen" creationdate="20230110T095417Z">
+        <seg>从“C”到“X”区间内的单个字母。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10653,6 +10653,14 @@ or that patent license was granted, prior to 28 March 2007.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120218T070707Z">
         <seg>通过下列命令行参数可生成伪翻译记忆：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A range is defined by the first character in a series, followed by a hyphen, followed by last character in the series. Any number of ranges can be defined: &lt;l0&gt;[a-zA-Z0-9]&lt;/l0&gt; means any lowercase character from “a” to “z”, or any uppercase character from “A” to “Z”, or any digit from “0” to “9”. A hyphen placed outside the series is just a hyphen: &lt;l1&gt;[a-z-]&lt;/l1&gt; means any lowercase character from “a” to “z”, or the hyphen character itself.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230110T095816Z" creationid="WynnChen" creationdate="20230110T095429Z">
+        <seg>区间是通过序列中的第一个字符后跟一个连字符再跟上序列中的最后一个字符来定义的。可以定义任意数量的区间：&lt;l0&gt;[a-zA-Z0-9]&lt;/l0&gt; 意味着从“a”到“z”的任意小写字符、或从“A”到“Z”的任意大写字符、或从“0”到“9”的任意数字。放置在序列外的连字符则就只是连字符：&lt;l1&gt;[a-z-]&lt;/l1&gt; 意思是任意从“a”到“z”的小写字符，或连字符本身。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16640,8 +16648,8 @@ Exception occurred:</seg>
       <tuv lang="en">
         <seg>Classes are defined by enclosing the desired characters in square brackets, and can be specified either by listing each individual character to include, or by specifying a range of characters. For example, you could create the &lt;l0&gt;[£€$]&lt;/l0&gt; class to find any of those three currency symbols in the text, or [1-3] to find the number 1, 2 or 3.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230110T093807Z" creationid="WynnChen" creationdate="20230110T093807Z">
-        <seg>类是通过将所需的字符括在方括号中来定义的，并且可以通过罗列每一个需要包括的字符或者通过指定字符范围来指定。例如，可以创建 &lt;l0&gt;[£€$]&lt;/l0&gt; 类来在文本中查找这三个货币符号中的任何一个，或创建 [1-3] 来查找数字 1、2 或 3。</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230110T095453Z" creationid="WynnChen" creationdate="20230110T093807Z">
+        <seg>类是通过将所需的字符括在方括号中来定义的，并且可以通过罗列每一个需要包括的字符或者通过指定字符区间来指定。例如，可以创建 &lt;l0&gt;[£€$]&lt;/l0&gt; 类来在文本中查找这三个货币符号中的任何一个，或创建 [1-3] 来查找数字 1、2 或 3。</seg>
       </tuv>
     </tu>
     <tu>
