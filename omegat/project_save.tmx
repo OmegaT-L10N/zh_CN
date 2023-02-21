@@ -20537,6 +20537,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Display &amp;Paragraph Delimitations</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230221T083231Z" creationid="WynnChen" creationdate="20230221T083231Z">
+        <seg>显示段落界定(&amp;P)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Display &amp;Source Segments</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T115616Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -27348,10 +27356,34 @@ Note: not all filters allow you to select an encoding.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Highlight &amp;Untranslated Segments</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230221T083206Z" creationid="WynnChen" creationdate="20230221T083206Z">
+        <seg>高亮未译片段(&amp;U)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Highlight Pattern...</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190324T030446Z" creationid="wynnc" creationdate="20190324T030446Z">
         <seg>高亮模式...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Highlight Repeated Se&amp;gments</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230221T083304Z" creationid="WynnChen" creationdate="20230221T083304Z">
+        <seg>高亮重复片段(&amp;G)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Highlight Segments &amp;with Notes</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230221T083322Z" creationid="WynnChen" creationdate="20230221T083322Z">
+        <seg>高亮含备注的片段(&amp;W)</seg>
       </tuv>
     </tu>
     <tu>
