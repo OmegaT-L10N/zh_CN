@@ -20497,6 +20497,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Directional Formatting Characters</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230221T084819Z" creationid="WynnChen" creationdate="20230221T084819Z">
+        <seg>定向格式化字符</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Dis&amp;play all results</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="钢" changedate="20130503T150724Z">
@@ -27400,6 +27408,14 @@ Note: not all filters allow you to select an encoding.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T181728Z" creationid="wynnc" creationdate="20190320T181728Z">
         <seg>隐藏高级选项(&amp;O)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hide Tags</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230221T084632Z" creationid="WynnChen" creationdate="20230221T084632Z">
+        <seg>隐藏标签</seg>
       </tuv>
     </tu>
     <tu>
@@ -47487,6 +47503,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Repeated</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230221T084623Z" creationid="WynnChen" creationdate="20230221T084623Z">
+        <seg>重复的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Repeated segments</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20230221T084454Z" creationid="WynnChen" creationdate="20230221T084454Z">
@@ -50021,8 +50045,8 @@ When using regular expressions, the replacement string supports references to gr
       <tuv lang="en">
         <seg>Segment marker background</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T164104Z" creationid="wynnc" creationdate="20190323T164104Z">
-        <seg>片段标记背景</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230221T084557Z" creationid="wynnc" creationdate="20190323T164104Z">
+        <seg>片段标记的背景</seg>
       </tuv>
     </tu>
     <tu>
