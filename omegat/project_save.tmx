@@ -32400,6 +32400,14 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Insert a LRM after a weak-directionality character that must run left-to-right in a right-to-left segment (e.g. an English excerpt inside Arabic text).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230221T090956Z" creationid="WynnChen" creationdate="20230221T090956Z">
+        <seg>在从右向左的片段中必须从左向右排列的弱方向性字符（例如阿拉伯语文本中的英语摘录）之后插入 LRM。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Insert an invisible character with a strong directionality to force a specific position for a character with weak or neutral directionality.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20230221T090339Z" creationid="WynnChen" creationdate="20230221T090339Z">
