@@ -14818,8 +14818,8 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>Bidi control characters are available from &lt;l0/&gt;&lt;l1/&gt;. They can be used to:</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230221T085951Z" creationid="WynnChen" creationdate="20230221T085951Z">
-        <seg>双向控制符 &lt;l0/&gt;&lt;l1/&gt;. They can be used to:</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230221T090200Z" creationid="WynnChen" creationdate="20230221T085951Z">
+        <seg>双向控制符可从&lt;l0/&gt;&lt;l1/&gt;获得。它们可用于：</seg>
       </tuv>
     </tu>
     <tu>
@@ -18676,6 +18676,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Mac Pro" changedate="20180425T200055Z" creationid="Mac Pro" creationdate="20180425T200055Z">
         <seg>创建一个自己的第二个宏（带有自己的按钮和/或键盘快捷键），它只能突出显示文本级别，而不是整个段落。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create a section of text that flows in the direction opposite that of the segment.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230221T090403Z" creationid="WynnChen" creationdate="20230221T090403Z">
+        <seg>创建一段和所在片段排列方向相反的文本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32388,6 +32396,14 @@ everything.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T093950Z" creationid="wynnc" creationdate="20190320T093950Z">
         <seg>插入 Unicode 控制字符</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert an invisible character with a strong directionality to force a specific position for a character with weak or neutral directionality.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230221T090339Z" creationid="WynnChen" creationdate="20230221T090339Z">
+        <seg>插入具有强方向性的不可见字符来强制弱方向性或中性方向性字符放在特定位置。</seg>
       </tuv>
     </tu>
     <tu>
