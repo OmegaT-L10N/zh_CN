@@ -13,7 +13,6 @@ domain	领域	查询TaaS术语时可以选择特定的领域
 API Key	API 密钥	专业名词就不翻译了
 spreadsheet	电子表格
 Drag and drop	拖放
-bidirectional control characters	双向控制字符
 Auto-Populated	自动填充
 Note	备注
 comment	注释
@@ -95,3 +94,5 @@ Tag shortcut	标签简写	指的是OmegaT进行标签保护时自动将诸如<it
 Panel	面板	似乎和Pane（窗格）是一回事，例如 editor Panel，之前称为 editor Pane。
 Unicode literals	Unicode 编码文字
 Java Resource bundle	Java 资源包
+bidirectional control character	双向控制符	unicode中涉及到格式和控制的 xx character 一般翻译成 xx-符。具体的控制符例如LRM一般保留原文。
+Directional Formatting Character	定向格式符	unicode中涉及到格式和控制的 xx character 一般翻译成 xx-符
