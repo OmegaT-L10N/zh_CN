@@ -22427,8 +22427,8 @@ by the Free Software Foundation.</seg>
       <tuv lang="en">
         <seg>Embeddings can be used to create a longer section of text (containing several words and spaces) that must flow in the direction opposite that of the segment. You can create two kinds of embeddings depending on the directionality of the segment:</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230221T091359Z" creationid="WynnChen" creationdate="20230221T091359Z">
-        <seg>Embedding 可用于创建较长的必须与所在片段反向排列的文本段（包含多个单词和空格）。可以根据所在片段的方向性创建两种不同的 embedding：</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230221T091548Z" creationid="WynnChen" creationdate="20230221T091359Z">
+        <seg>Embedding 可用于创建较长的必须与所在片段反向排列的文本段（包含多个单词和空格）。可以根据所在片段的方向性创建两种不同的嵌入文本：</seg>
       </tuv>
     </tu>
     <tu>
@@ -63655,6 +63655,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T140339Z" creationid="wynnc" creationdate="20190323T140339Z">
         <seg>要将其转换为新的团队项目，请在 OmegaT 图形界面中打开它。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To create a left-to-right embedding in a right-to-left segment, insert a left-to-right embedding (LRE) character, type or insert the left-to-right text, and then insert the pop directional formatting (PDF) character.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230221T091510Z" creationid="WynnChen" creationdate="20230221T091510Z">
+        <seg>To create a left-to-right embedding in a right-to-left segment, insert a left-to-right embedding (LRE) character, type or insert the left-to-right text, and then insert the pop directional formatting (PDF) character.</seg>
       </tuv>
     </tu>
     <tu>
