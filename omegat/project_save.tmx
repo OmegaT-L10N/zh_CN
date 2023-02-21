@@ -1286,6 +1286,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Find Next</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230221T081540Z" creationid="WynnChen" creationdate="20230221T081540Z">
+        <seg>查找下一个(&amp;F)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Find...</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T124155Z" creationid="wynnc" creationdate="20190323T124155Z">
@@ -1918,6 +1926,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Replace and Find Next</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230221T081610Z" creationid="WynnChen" creationdate="20230221T081610Z">
+        <seg>替换并查找下一个(&amp;R)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Replace...</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T124203Z" creationid="wynnc" creationdate="20190323T124203Z">
@@ -2114,6 +2130,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T102844Z" creationid="wynnc" creationdate="20190320T102812Z">
         <seg>自动显示相关建议(&amp;S)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Show Replacements</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230221T081521Z" creationid="WynnChen" creationdate="20230221T081521Z">
+        <seg>显示替换(&amp;S)</seg>
       </tuv>
     </tu>
     <tu>
@@ -27316,6 +27340,14 @@ Note: not all filters allow you to select an encoding.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Highlight &amp;Translated Segments</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230221T082248Z" creationid="WynnChen" creationdate="20230221T081704Z">
+        <seg>高亮已译片段(&amp;T)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Highlight Pattern...</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190324T030446Z" creationid="wynnc" creationdate="20190324T030446Z">
@@ -32100,6 +32132,14 @@ everything.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="lenovo" changedate="20180416T121138Z" creationid="lenovo" creationdate="20180416T121138Z">
         <seg>段内的内联标签采用大括号内的序列号形式，即{1}，{2}等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert Bidi Control C&amp;haracter</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230221T081639Z" creationid="WynnChen" creationdate="20230221T081639Z">
+        <seg>插入双向控制字符($H)</seg>
       </tuv>
     </tu>
     <tu>
@@ -39727,6 +39767,14 @@ Thus, for example, rules for Canadian French (FR-CA) should be higher than rules
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190901T164603Z" creationid="WynnChen" creationdate="20190901T164603Z">
         <seg>注：可以通过写入 &lt;u0&gt;(&lt;.*?&gt;)|(\d+)&lt;/u0&gt; 来组合这两个指令。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Notepad</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230221T081648Z" creationid="WynnChen" creationdate="20230221T081648Z">
+        <seg>记事本</seg>
       </tuv>
     </tu>
     <tu>
