@@ -95,4 +95,5 @@ Panel	面板	似乎和Pane（窗格）是一回事，例如 editor Panel，之�
 Unicode literals	Unicode 编码文字
 Java Resource bundle	Java 资源包
 bidirectional control character	双向控制符	unicode中涉及到格式和控制的 xx character 一般翻译成 xx-符。具体的控制符例如LRM一般保留原文。
+bidi control character	双向控制符	即 bidirectional control character
 Directional Formatting Character	定向格式符	unicode中涉及到格式和控制的 xx character 一般翻译成 xx-符
