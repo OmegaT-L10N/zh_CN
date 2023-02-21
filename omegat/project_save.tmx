@@ -36944,6 +36944,14 @@ later version.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Marks</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230221T090559Z" creationid="WynnChen" creationdate="20230221T090559Z">
+        <seg>Mark</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Marshallese</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190405T050012Z" creationid="Fu Rhong" creationdate="20131108T030345Z">
@@ -60906,6 +60914,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>These control characters change directionality but are invisible. Use &lt;l0/&gt;&lt;l1/&gt; to show a visual indication of their position.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230221T090530Z" creationid="WynnChen" creationdate="20230221T090530Z">
+        <seg>这些控制符改变方向但本身不可见。使用&lt;l0/&gt;&lt;l1/&gt;可以在其位置上显示可见的标记。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>These define subsegments that are presented outside the segment in which they are contained (footnotes are a good example).</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="anton" changedate="20180416T085705Z" creationid="anton" creationdate="20180416T085705Z">
@@ -63543,6 +63559,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="xulihang" changedate="20180408T105614Z">
         <seg>项目创建之后要改变目录的位置，请打开菜单中的&lt;g0&gt;项目&gt;属性...&lt;/g0&gt;或使用 &lt;g1&gt;Ctrl+E&lt;/g1&gt; 进行必要的修改。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To change the position of a character with weak or neutral directionality (like punctuation symbols), insert an LRM or RLM character after the character, depending on the directionality of the segment:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230221T090757Z" creationid="WynnChen" creationdate="20230221T090757Z">
+        <seg>要改变具有弱方向性或中性方向性字符（例如标点符号）的位置，请根据片段的方向性在此字符后面插入 LRM 或 RLM 字符：</seg>
       </tuv>
     </tu>
     <tu>
