@@ -36203,6 +36203,14 @@ later version.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Main Memor&amp;y</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230221T083830Z" creationid="WynnChen" creationdate="20230221T083804Z">
+        <seg>主记忆库(&amp;Y)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Main Menu</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
@@ -37296,10 +37304,26 @@ later version.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Microsoft Office Open XML</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230221T083838Z" creationid="WynnChen" creationdate="20230221T083838Z">
+        <seg>Microsoft Office Open XML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Microsoft Office Open XML (*.docx, *.dotx, *.xlsx, *.xltx, *.pptx)</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120202T114544Z">
         <seg>Microsoft Office Open XML (*.docx, *.dotx, *.xlsx, *.xltx, *.pptx)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Microsoft Office Open XML (legacy filter)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230221T083909Z" creationid="WynnChen" creationdate="20230221T083909Z">
+        <seg>Microsoft Office Open XML（旧版筛选器）</seg>
       </tuv>
     </tu>
     <tu>
@@ -46550,6 +46574,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Reference T&amp;Ms</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230221T083825Z" creationid="WynnChen" creationdate="20230221T083825Z">
+        <seg>参考翻译记忆库(&amp;M)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Reference glossaries</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T025041Z" creationid="WynnChen" creationdate="20221212T025028Z">
@@ -47371,6 +47403,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120205T120430Z">
         <seg>通过标签检验功能可以轻松地修正标签和重新创建目标文档。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Repeated segments: {0}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230221T083700Z" creationid="WynnChen" creationdate="20230221T083700Z">
+        <seg>重复的片段：{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -52145,6 +52185,14 @@ of the GPL, as needed to protect the freedom of users.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T071422Z" creationid="WynnChen" creationdate="20221129T071422Z">
         <seg>原文文件语言：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source files loaded but skipping files(s) by filter error(s)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230221T083748Z" creationid="WynnChen" creationdate="20230221T083748Z">
+        <seg>已加载原文文件，但由于筛选器错误跳过了若干文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -70123,6 +70171,14 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131116T035023Z" creationid="Fu Rhong" creationdate="20131116T035023Z">
         <seg>XLIFF (*.xlf, *.xliff, *.sdlxliff)——一个源对应多个目标</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>XLIFF 2</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230221T083914Z" creationid="WynnChen" creationdate="20230221T083914Z">
+        <seg>XLIFF 2</seg>
       </tuv>
     </tu>
     <tu>
