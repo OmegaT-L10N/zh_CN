@@ -14816,10 +14816,18 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Bidi control characters are available from &lt;l0/&gt;&lt;l1/&gt;. They can be used to:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230221T085951Z" creationid="WynnChen" creationdate="20230221T085951Z">
+        <seg>双向控制符 &lt;l0/&gt;&lt;l1/&gt;. They can be used to:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Bidirectional control characters</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T164810Z" creationid="wynnc" creationdate="20190323T164810Z">
-        <seg>双向控制字符</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230221T085612Z" creationid="wynnc" creationdate="20190323T164810Z">
+        <seg>双向控制符</seg>
       </tuv>
     </tu>
     <tu>
@@ -20499,8 +20507,8 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="en">
         <seg>Directional Formatting Characters</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230221T085552Z" creationid="WynnChen" creationdate="20230221T084819Z">
-        <seg>Pop Directional Formatting (PDF U+202C)</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230221T085701Z" creationid="WynnChen" creationdate="20230221T084819Z">
+        <seg>定向格式符</seg>
       </tuv>
     </tu>
     <tu>
@@ -20563,8 +20571,8 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="en">
         <seg>Display &amp;Bidi Control Characters</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230221T083407Z" creationid="WynnChen" creationdate="20230221T083407Z">
-        <seg>显示双向控制字符(&amp;B)</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230221T085612Z" creationid="WynnChen" creationdate="20230221T083407Z">
+        <seg>显示双向控制符(&amp;B)</seg>
       </tuv>
     </tu>
     <tu>
@@ -32258,8 +32266,8 @@ everything.</seg>
       <tuv lang="en">
         <seg>Insert Bidi Control C&amp;haracter</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230221T081639Z" creationid="WynnChen" creationdate="20230221T081639Z">
-        <seg>插入双向控制字符($H)</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230221T085612Z" creationid="WynnChen" creationdate="20230221T081639Z">
+        <seg>插入双向控制符($H)</seg>
       </tuv>
     </tu>
     <tu>
@@ -36778,8 +36786,8 @@ later version.</seg>
       <tuv lang="en">
         <seg>Mark Bidirectional Algorithm Control Characters</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="Andrew" changedate="20180413T145024Z" creationid="Fu Rhong" creationdate="20131110T025613Z">
-        <seg>标记双向算法控制字符</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230221T085612Z" creationid="Fu Rhong" creationdate="20131110T025613Z">
+        <seg>标记双向算法控制符</seg>
       </tuv>
     </tu>
     <tu>
