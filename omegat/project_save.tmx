@@ -22417,6 +22417,22 @@ by the Free Software Foundation.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Embeddings</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230221T091117Z" creationid="WynnChen" creationdate="20230221T091117Z">
+        <seg>Embedding</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Embeddings can be used to create a longer section of text (containing several words and spaces) that must flow in the direction opposite that of the segment. You can create two kinds of embeddings depending on the directionality of the segment:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230221T091359Z" creationid="WynnChen" creationdate="20230221T091359Z">
+        <seg>Embedding 可用于创建较长的必须与所在片段反向排列的文本段（包含多个单词和空格）。可以根据所在片段的方向性创建两种不同的 embedding：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Emptiness of soul
 Forever aching blackness
 Your help page not found</seg>
@@ -32404,6 +32420,14 @@ everything.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20230221T090956Z" creationid="WynnChen" creationdate="20230221T090956Z">
         <seg>在从右向左的片段中必须从左向右排列的弱方向性字符（例如阿拉伯语文本中的英语摘录）之后插入 LRM。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert a RLM after a weak-directionality character that must run right-to-left in a left-to-right segment (e.g. an Arabic excerpt inside English text).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230221T091109Z" creationid="WynnChen" creationdate="20230221T091109Z">
+        <seg>在从左向右的片段中必须从右向左排列的弱方向性字符（例如英语文本中的阿拉伯语摘录）之后插入 RLM。</seg>
       </tuv>
     </tu>
     <tu>
