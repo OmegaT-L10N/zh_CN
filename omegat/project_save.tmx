@@ -1134,6 +1134,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Do not insert the source text</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230221T084220Z" creationid="WynnChen" creationdate="20230221T084220Z">
+        <seg>不插入原文文本(&amp;D)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Do not unescape Unicode literals (\uXXXX)</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190322T065347Z" creationid="wynnc" creationdate="20190322T065347Z">
@@ -26899,8 +26907,8 @@ authors of previous versions.</seg>
       <tuv lang="en">
         <seg>HTML Help Compiler</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T064525Z" creationid="wynnc" creationdate="20190323T064525Z">
-        <seg>HTML Help Compiler</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230221T084200Z" creationid="wynnc" creationdate="20190323T064525Z">
+        <seg>HTML Help 编译器</seg>
       </tuv>
     </tu>
     <tu>
@@ -27352,6 +27360,14 @@ Note: not all filters allow you to select an encoding.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190405T043442Z" creationid="Fu Rhong" creationdate="20131107T150223Z">
         <seg>赫雷罗语（Herero）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hide &amp;leading and trailing tags</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230221T084031Z" creationid="WynnChen" creationdate="20230221T084031Z">
+        <seg>隐藏开头和末尾的标签(&amp;L)</seg>
       </tuv>
     </tu>
     <tu>
@@ -33882,6 +33898,14 @@ itself on the first run. Later calls do not need to be online.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Java Resource Bundles</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230221T084001Z" creationid="WynnChen" creationdate="20230221T084001Z">
+        <seg>Java 资源包</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Java Resource Bundles Filter Options</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T103754Z" creationid="wynnc" creationdate="20190322T065040Z">
@@ -37468,6 +37492,14 @@ later version.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190403T153343Z" creationid="wynnc" creationdate="20190320T045507Z">
         <seg>缺失</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Missing attribute '{0}' in &lt;{1}&gt;</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230221T083933Z" creationid="WynnChen" creationdate="20230221T083933Z">
+        <seg>&lt;{1}&gt;中缺少属性“{0}”</seg>
       </tuv>
     </tu>
     <tu>
@@ -47135,6 +47167,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remove HTML comments</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230221T084044Z" creationid="WynnChen" creationdate="20230221T084044Z">
+        <seg>删除 HTML 注释</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remove HTML comments in translated document</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T064020Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -48417,6 +48457,22 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>SDL XLIFF</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230221T083934Z" creationid="WynnChen" creationdate="20230221T083934Z">
+        <seg>SDL XLIFF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SDL project (beta)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230221T083947Z" creationid="WynnChen" creationdate="20230221T083947Z">
+        <seg>SDL 项目（测试版）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>SQLJet (GPL License)</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T053741Z" creationid="wynnc" creationdate="20190323T052318Z">
@@ -48445,6 +48501,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T094330Z" creationid="wynnc" creationdate="20221111T094330Z">
         <seg>SVG  / Adobe Illustrator 导出</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SVG / Adobe Illustrator Export</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230221T084012Z" creationid="WynnChen" creationdate="20230221T084012Z">
+        <seg>SVG / Adobe Illustrator 导出</seg>
       </tuv>
     </tu>
     <tu>
@@ -52723,6 +52787,14 @@ All sets that match the project source language are applied.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Start a new segment on:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230221T084116Z" creationid="WynnChen" creationdate="20230221T084116Z">
+        <seg>新片段开始于：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Start new project.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T065711Z" creationid="WynnChen" creationdate="20221129T065711Z">
@@ -55263,6 +55335,14 @@ software and other kinds of works.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20200122T091110Z" creationid="WynnChen" creationdate="20200122T091110Z">
         <seg>词汇表窗格允许您使用在词汇表文件中建立的表达方式和专业术语的自有集。它会显示出现在当前片段中的词汇的翻译。下面的例子中原文片段和上面模糊匹配的例子里一样是“&lt;e0&gt;Context menu command&lt;/e0&gt;”，而显示的词汇条目则是出现在可用词汇表（Microsoft 名词集和斯洛文尼亚 Linux 用户组词汇表）中的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The HTML parser threw an exception during file processing:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230221T084151Z" creationid="WynnChen" creationdate="20230221T084151Z">
+        <seg>在文件处理过程中，HTML解析器抛出异常：</seg>
       </tuv>
     </tu>
     <tu>
@@ -70171,6 +70251,14 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131116T035023Z" creationid="Fu Rhong" creationdate="20131116T035023Z">
         <seg>XLIFF (*.xlf, *.xliff, *.sdlxliff)——一个源对应多个目标</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>XLIFF (legacy filter)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230221T083955Z" creationid="WynnChen" creationdate="20230221T083955Z">
+        <seg>XLIFF（旧版筛选器）</seg>
       </tuv>
     </tu>
     <tu>
