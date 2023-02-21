@@ -14076,6 +14076,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Attempt to replace fuzzy match &amp;numbers</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230221T084238Z" creationid="WynnChen" creationdate="20230221T084238Z">
+        <seg>尝试替换模糊匹配数字(&amp;N)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Attribute:</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -24595,6 +24603,14 @@ patents cannot be used to render the program non-free.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="lenovo" changedate="20180414T084551Z" creationid="lenovo" creationdate="20180414T084551Z">
         <seg>火狐：&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>First Steps</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230221T084336Z" creationid="WynnChen" creationdate="20230221T084336Z">
+        <seg>第一步</seg>
       </tuv>
     </tu>
     <tu>
@@ -36171,6 +36187,14 @@ later version.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Machine Translations</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230221T084301Z" creationid="WynnChen" creationdate="20230221T084301Z">
+        <seg>机器翻译</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Machine Translations pane</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131127T120439Z" creationid="Fu Rhong" creationdate="20131127T120439Z">
@@ -36852,6 +36876,14 @@ later version.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20221116T034159Z" creationid="wynnc" creationdate="20221116T034159Z">
         <seg>标记所有非独特片段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mark all repeated segments</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230221T084251Z" creationid="WynnChen" creationdate="20230221T084251Z">
+        <seg>标记所有重复的片段</seg>
       </tuv>
     </tu>
     <tu>
@@ -47127,6 +47159,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remote repository git+ssh credential error: {0}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230221T084436Z" creationid="WynnChen" creationdate="20230221T084436Z">
+        <seg>远程存储库 git+ssh 凭据错误：{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remote repository network communication error: {0}</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T143326Z" creationid="wynnc" creationdate="20190323T143326Z">
@@ -47443,6 +47483,22 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120205T120430Z">
         <seg>通过标签检验功能可以轻松地修正标签和重新创建目标文档。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Repeated segments</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230221T084454Z" creationid="WynnChen" creationdate="20230221T084454Z">
+        <seg>重复的片段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Repeated segments background</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230221T084536Z" creationid="WynnChen" creationdate="20230221T084536Z">
+        <seg>重复的片段的背景</seg>
       </tuv>
     </tu>
     <tu>
@@ -53400,6 +53456,14 @@ All sets that match the project source language are applied.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
         <seg>同步错误</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Synchronization of repositories</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230221T084446Z" creationid="WynnChen" creationdate="20230221T084446Z">
+        <seg>存储库的同步</seg>
       </tuv>
     </tu>
     <tu>
@@ -59546,6 +59610,14 @@ protocols for communication across the network.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190324T025536Z" creationid="wynnc" creationdate="20190324T025536Z">
         <seg>不支持所指定的文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The specified folder is not an OmegaT project, or the project file is broken, or there is no valid backup.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230221T084416Z" creationid="WynnChen" creationdate="20230221T084416Z">
+        <seg>指定的文件夹并非 OmegaT 项目、或项目文件已损坏、或没有有效的备份。</seg>
       </tuv>
     </tu>
     <tu>
@@ -68359,6 +68431,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20221125T053116Z" creationid="wynnc" creationdate="20221125T053116Z">
         <seg>查看、添加、删除或编辑活动片段中的备注。备注仅仅是关于原文或其翻译的注释。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>View, add, remove or edit a note in the active segment. A note is simply a remark about the source text or its translation. It is stored in the TMX file.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230221T084332Z" creationid="WynnChen" creationdate="20230221T084332Z">
+        <seg>查看、添加、删除或编辑活动片段中的备注。备注仅仅是关于原文或其翻译的注释。它存储在 TMX 文件中。</seg>
       </tuv>
     </tu>
     <tu>
