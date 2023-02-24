@@ -7683,6 +7683,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt;\P{InGreek}&lt;/l0&gt; is any character that is &lt;e1&gt;not&lt;/e1&gt; in the Greek block.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230224T115402Z" creationid="WynnChen" creationdate="20230224T115315Z">
+        <seg>&lt;l0&gt;\P{InGreek}&lt;/l0&gt; 是任意&lt;e1&gt;不&lt;/e1&gt;在希腊字母区中的字符。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;l0&gt;\S&lt;/l0&gt; is any character that is &lt;e1&gt;not&lt;/e1&gt; a whitespace character (&lt;l2&gt;[^\s]&lt;/l2&gt;).</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20230110T100207Z" creationid="WynnChen" creationdate="20230110T100207Z">
@@ -10255,6 +10263,14 @@ on the Program.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A character in the Greek block (&lt;u0&gt;Unicode block&lt;/u0&gt;)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230224T115329Z" creationid="WynnChen" creationdate="20230224T115203Z">
+        <seg>希腊字母区（&lt;u0&gt;Unicode 区块&lt;/u0&gt;）中的一个字符</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A character in the Greek block (simple &lt;u0&gt; block&lt;/u0&gt;)</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190522T054331Z">
@@ -11605,6 +11621,14 @@ the above requirements apply either way.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T110119Z" creationid="WynnChen" creationdate="20221209T110119Z">
         <seg>对于 &lt;l0&gt;${nameOnly}&lt;/l0&gt; 和 &lt;l1&gt;${Extension}&lt;/l1&gt; 还有其他变体可用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Additional variants are available for &lt;l0&gt;${nameOnly}&lt;/l0&gt; and &lt;l1&gt;${extension}&lt;/l1&gt;.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230224T113235Z" creationid="WynnChen" creationdate="20230224T113235Z">
+        <seg>对于 &lt;l0&gt;${nameOnly}&lt;/l0&gt; 和 &lt;l1&gt;${extension}&lt;/l1&gt; 还有其他变体可用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13405,6 +13429,14 @@ menu, a prominent item in the list meets this criterion.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131116T081858Z" creationid="Fu Rhong" creationdate="20131116T081858Z">
         <seg>之后在目标片段中的任何匹配将显示为红色，这样就很容易发现和纠正。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Any paragraph matching the regular expression is ignored while loading and is not displayed for translation.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230224T113919Z" creationid="WynnChen" creationdate="20230224T113919Z">
+        <seg>在加载时，所有和此正则表达式相匹配的段落都会被忽略，并且不会显示供翻译。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17412,6 +17444,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131127T120934Z" creationid="Fu Rhong" creationdate="20131127T120934Z">
         <seg>对于PO文件为作者的注解，对于XHTML为待译属性名称。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Comments in an HTML file are generally addressed to developers. Use this option to remove them. If unchecked, the comments are displayed as tags.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230224T114014Z" creationid="WynnChen" creationdate="20230224T114014Z">
+        <seg>HTML 文件中的注释通常是针对开发人员的，使用此选项可以删除它们。如果未勾选，注释将显示为标签。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26479,6 +26519,14 @@ authors of previous versions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Glossaries can be “tab-separated values” (TSV) or “comma-separated values” (CSV) files or can also use the TermBase eXchange (TBX 2) format.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230224T114238Z" creationid="WynnChen" creationdate="20230224T114238Z">
+        <seg>词汇表可以是“tab 分隔的值”（TSV）或“逗号分隔的值”（CSV）文件，也可以使用 TermBase eXchange（TBX 2）格式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Glossaries can be “tab-separated values” (TSV) or “comma-separated values” (CSV) files or can also use the TermBase eXchange (TBX) format.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T101203Z" creationid="WynnChen" creationdate="20221212T101203Z">
@@ -27198,6 +27246,14 @@ authors of previous versions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Having untranslated contents in the translated files sometimes creates compatibility issues.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230224T114057Z" creationid="WynnChen" creationdate="20230224T114057Z">
+        <seg>在译文文件中包含未翻译的内容有时候会产生兼容性问题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>He&amp;aders</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190322T075948Z" creationid="wynnc" creationdate="20190322T075449Z">
@@ -27448,6 +27504,14 @@ Note: not all filters allow you to select an encoding.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20230221T084632Z" creationid="WynnChen" creationdate="20230221T084632Z">
         <seg>隐藏标签</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hide leading and trailing tags</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230224T113127Z" creationid="WynnChen" creationdate="20230224T113127Z">
+        <seg>隐藏开头和末尾的标签</seg>
       </tuv>
     </tu>
     <tu>
@@ -29258,6 +29322,14 @@ notice like this when it starts in an interactive mode:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the use of multiple periods makes identifying the file name and extension ambiguous, you can use variables of the form &lt;l0&gt;${nameOnly-&lt;/l0&gt;&lt;e1&gt;number&lt;/e1&gt;} or &lt;l2&gt;${extension-&lt;/l2&gt;&lt;e3&gt;number} &lt;/e3&gt; to specify which portions are part of the name or extension, as shown in the example below.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230224T113522Z" creationid="WynnChen" creationdate="20230224T113522Z">
+        <seg>如果出现了多个句点导致文件名和扩展名的划分变得不明确，可以使用形如 &lt;l0&gt;${nameOnly-&lt;/l0&gt;&lt;e1&gt;数字&lt;/e1&gt;} 或 &lt;l2&gt;${extension-&lt;/l2&gt;&lt;e3&gt;数字} &lt;/e3&gt; 这样的变体来指定哪一部分归属于文件名或扩展名，如以下例子所示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the value is &lt;l1&gt;abort&lt;/l1&gt;, then on tag errors the errors are printed and the program stops.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120208T112345Z">
@@ -30145,6 +30217,14 @@ to use Java Web Start.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T102053Z" creationid="WynnChen" creationdate="20221209T102053Z">
         <seg>如果你保留开头和末尾的标签，请确保它们在译文中也位于开头和末尾。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you keep the leading and trailing tags, make sure you also include them in the translated text.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230224T113225Z" creationid="WynnChen" creationdate="20230224T113225Z">
+        <seg>如果你保留了开头和末尾处的标签，请确保译文中也包含它们。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33322,6 +33402,14 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It is also possible to install plugins in the application &lt;l0/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230224T112944Z" creationid="WynnChen" creationdate="20230224T112944Z">
+        <seg>也可以在应用程序的 &lt;l0/&gt; 文件夹中安装插件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It is also worth asking on the &lt;a1&gt;localizers' list&lt;/a1&gt; (OmT-l10n) whether anyone has any reference material which might facilitate your translation.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="lenovo" changedate="20180416T171329Z" creationid="lenovo" creationdate="20180416T171329Z">
@@ -33723,6 +33811,14 @@ instead.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190902T032009Z" creationid="wynnc" creationdate="20190320T045507Z">
         <seg>无法创建译文文档，因为某些标签丢失或损坏。在再次创建译文文档前请修正标签问题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It will also find the final “an ” of “Can ” in a sentence such as “Can I help you?”, or the final “a ” of “pasta ” in “We had pasta for lunch.”</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230224T114250Z" creationid="WynnChen" creationdate="20230224T114250Z">
+        <seg>它也会找到诸如“Can I help you?”这样的句子中“Can ”最后的“an ”，或者“We had pasta for lunch.”中“pasta ”最后的“a ”。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35181,6 +35277,14 @@ later version.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190327T165652Z" creationid="cpeishan" creationdate="20180407T105005Z">
         <seg>首席开发人员</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Leading and trailing tags are generally required by OmegaT to properly recreate the translated segment. Hiding them from the translatable contents ensures that you will not erase or modify them by mistake.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230224T113145Z" creationid="WynnChen" creationdate="20230224T113145Z">
+        <seg>OmegaT 通常都需要开头和末尾的标签才能正确地重新创建译文片段。将其从可翻译内容中隐藏掉可确保你不会错误地删除或修改它们。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44242,6 +44346,14 @@ Vanishing like mist</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190831T054905Z">
         <seg>在断行、空行处进行段落分割或不分割：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Paragraphs ignored when loading (regular expression)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230224T113902Z" creationid="WynnChen" creationdate="20230224T113902Z">
+        <seg>加载时要忽略的段落（正则表达式）</seg>
       </tuv>
     </tu>
     <tu>
@@ -54693,6 +54805,14 @@ The scope of a text replacement is the target segments of the project, whether t
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Text in HTML comments (between &lt;l0&gt;&lt;!--&lt;/l0&gt; and &lt;l1&gt;--&gt;&lt;/l1&gt;) are not copied into the translated document.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230224T114048Z" creationid="WynnChen" creationdate="20230224T114048Z">
+        <seg>HTML 注释中的文本（在 &lt;l0&gt;&lt;!--&lt;/l0&gt; 和 &lt;l1&gt;--&gt;&lt;/l1&gt; 之间）会被复制到译文文档中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Text in HTML comments (between &lt;l0&gt;&lt;!--&lt;/l0&gt; and &lt;l1&gt;--&gt;&lt;/l1&gt;) will not be copied into the translated document.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T021302Z" creationid="WynnChen" creationdate="20221212T021302Z">
@@ -55150,6 +55270,14 @@ form of a work.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T115833Z" creationid="WynnChen" creationdate="20221209T115833Z">
         <seg>在分割时将 &lt;br&gt; HTML 标签视为段落分隔标记。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The &lt;c0&gt;Microsoft Office Open XML (legacy filter)&lt;/c0&gt; is the original OmegaT filter. You should only use it to avoid compatibility issues with previous projects containing files you handled with that filter.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230224T113852Z" creationid="WynnChen" creationdate="20230224T113540Z">
+        <seg>&lt;c0&gt;Microsoft Office Open XML（旧版筛选器）&lt;/c0&gt;是原始的 OmegaT 筛选器。你应当只用它来避免包含使用该筛选器处理的文件的那些过往项目出现兼容性问题。</seg>
       </tuv>
     </tu>
     <tu>
@@ -62025,6 +62153,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This filter is the original OmegaT XLIFF filter. You should only use it to avoir compatibility issues with previous projects containing files you handled with that filter.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230224T114118Z" creationid="WynnChen" creationdate="20230224T114118Z">
+        <seg>此筛选器是原始的 OmegaT XLIFF 筛选器。你应当只用它来避免包含使用该筛选器处理的文件的那些过往项目出现兼容性问题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This folder contains a number of log files. The most current is &lt;f0&gt;OmegaT.log&lt;/f0&gt;.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221205T122011Z" creationid="WynnChen" creationdate="20221205T122011Z">
@@ -62077,6 +62213,14 @@ the server.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T105147Z" creationid="WynnChen" creationdate="20221222T105147Z">
         <seg>此文件夹为手动安装的 OmegaT 扩展插件提供了备选位置。详情请参见&lt;l0/&gt;首选项。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This folder provides the standard location for manually installed OmegaT extension plugins. See the &lt;l0/&gt; preference for details.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230224T112921Z" creationid="WynnChen" creationdate="20230224T112921Z">
+        <seg>此文件夹提供了手动安装 OmegaT 扩展插件的标准位置。详情请参见&lt;l0/&gt;首选项。</seg>
       </tuv>
     </tu>
     <tu>
@@ -63661,8 +63805,16 @@ public, and in some countries other activities as well.</seg>
       <tuv lang="en">
         <seg>To create a left-to-right embedding in a right-to-left segment, insert a left-to-right embedding (LRE) character, type or insert the left-to-right text, and then insert the pop directional formatting (PDF) character.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230221T091510Z" creationid="WynnChen" creationdate="20230221T091510Z">
-        <seg>To create a left-to-right embedding in a right-to-left segment, insert a left-to-right embedding (LRE) character, type or insert the left-to-right text, and then insert the pop directional formatting (PDF) character.</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230224T112817Z" creationid="WynnChen" creationdate="20230224T112740Z">
+        <seg>要在从右向左的片段中创建从左向右的嵌入文本，请插入一个 left-to-right embedding（LRE）字符，输入或插入从左向右的文本，然后再插入 pop directional formatting（PDF）字符。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To create a right-to-left embedding in a left-to-right segment, insert a right-to-left embedding (RLE) character, type or insert the right-to-left text, and then insert the PDF character.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230224T112843Z" creationid="WynnChen" creationdate="20230224T112843Z">
+        <seg>要在从左向右的片段中创建从右向左的嵌入文本，请插入一个 left-to-right embedding（LRE）字符，输入或插入从右向左的文本，然后再插入 pop directional formatting（PDF）字符。</seg>
       </tuv>
     </tu>
     <tu>
@@ -65983,6 +66135,14 @@ Use Tools &gt; Check Issues... to correct the tag errors and try again.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190523T020522Z" creationid="18261" creationdate="20180412T082919Z">
         <seg>Unicode（UTF-8）支持：可用于非拉丁字母</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unicode blocks, scripts and categories</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230224T115212Z" creationid="WynnChen" creationdate="20230224T115111Z">
+        <seg>Unicode 区块（block）、字符体系（script）与类别（category）</seg>
       </tuv>
     </tu>
     <tu>
@@ -71443,6 +71603,14 @@ linux-install.sh 脚本的文件夹，然后用 ./linux-install.sh 执行脚本�
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can sort the filters by name or by whether they are enabled. Click on the relevant header to sort them in ascending or descending order.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230224T113119Z" creationid="WynnChen" creationdate="20230224T113119Z">
+        <seg>可以根据名称或者是否启用来对筛选器进行排序。点击相关表头即可按升序或降序对它们进行排序。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can specify a configuration folder other than the default when you start OmegaT from the command line. See &lt;l0/&gt; for details.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221206T142440Z" creationid="WynnChen" creationdate="20221206T141959Z">
@@ -72363,7 +72531,7 @@ If the project contains files but their content is not displayed here:
 	  otherwise use Options &gt; Global File Filters...;
 	- open them in their original application and verify that they are not empty.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T120439Z" creationid="WynnChen" creationdate="20221209T120439Z">
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230224T113602Z" creationid="WynnChen" creationdate="20221209T120439Z">
         <seg>你的项目似乎并不包含可翻译文件。
  
 要将文件添加到项目中，你可以：
@@ -72377,9 +72545,9 @@ If the project contains files but their content is not displayed here:
 如果项目中包含有文件但其内容并未显示在此：
  
 	- 确认其格式是 OmegaT 所支持的，
-	  如果启用了项目专用过滤器设置
-	  使用“项目 &gt; 属性... &gt; 局部文件过滤器...”，
-	  否则使用“选项 &gt; 全局文件过滤器...”；
+	  如果启用了项目专用筛选器设置
+	  使用“项目 &gt; 属性... &gt; 局部文件筛选器...”，
+	  否则使用“选项 &gt; 全局文件筛选器...”；
 	- 将其用原始应用程序打开来确认它们不是空的。</seg>
       </tuv>
     </tu>
@@ -72781,6 +72949,14 @@ If the project contains files but their content is not displayed here:
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120214T034636Z">
         <seg>\p{InGreek}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\p{IsHan}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230224T115403Z" creationid="WynnChen" creationdate="20230224T115403Z">
+        <seg>\p{IsHan}</seg>
       </tuv>
     </tu>
     <tu>
@@ -76002,6 +76178,22 @@ If the project contains files but their content is not displayed here:
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>https://unicode.org/reports/tr18/#Blocks</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230224T115113Z" creationid="WynnChen" creationdate="20230224T115113Z">
+        <seg>https://unicode.org/reports/tr18/#Blocks</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://unicode.org/reports/tr18/#Script_Property</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230224T115404Z" creationid="WynnChen" creationdate="20230224T115404Z">
+        <seg>https://unicode.org/reports/tr18/#Script_Property</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>https://www.libreoffice.org/discover/draw/</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Administrator" changedate="20180411T134412Z" creationid="Administrator" creationdate="20180411T134412Z">
@@ -76110,6 +76302,14 @@ If the project contains files but their content is not displayed here:
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131109T023403Z" creationid="Fu Rhong" creationdate="20131109T023403Z">
         <seg>if (project.getTranslationInfo(currSegment))</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>if checked, OmegaT changes the XLIFF target state to “needs-review-translation” instead of “translated”.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230224T114155Z" creationid="WynnChen" creationdate="20230224T114155Z">
+        <seg>如果勾选，OmegaT 会将 XLIFF 译文的状态更改为“needs-review-translation”（需要审查翻译）而非“translated”（已翻译）。</seg>
       </tuv>
     </tu>
     <tu>
