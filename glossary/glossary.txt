@@ -69,7 +69,6 @@ requests for enhancements	改进建议
 dictionary	词典
 Priority glossary	重点词汇表
 regex	正则表达式
-Block	字区	仅指 unicode block
 Miscellanea	杂记
 bold	粗体	作为动词则为“加粗”。统一使用“粗体”而非“黑体”
 validator	验证器	统一使用，避免使用 校验器 检验器 等。
@@ -97,3 +96,4 @@ Java Resource bundle	Java 资源包
 bidirectional control character	双向控制符	unicode中涉及到格式和控制的 xx character 一般翻译成 xx-符。具体的控制符例如LRM一般保留原文。
 bidi control character	双向控制符	即 bidirectional control character
 Directional Formatting Character	定向格式符	unicode中涉及到格式和控制的 xx character 一般翻译成 xx-符
+Block	区块	仅指 unicode block
