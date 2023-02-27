@@ -2544,10 +2544,42 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(?!u)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T112554Z" creationid="WynnChen" creationdate="20230227T112554Z">
+        <seg>(?!u)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(?-i)</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20230110T093220Z" creationid="WynnChen" creationdate="20230110T093220Z">
         <seg>(?-i)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>(?&lt;!q)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T112842Z" creationid="WynnChen" creationdate="20230227T112842Z">
+        <seg>(?&lt;!q)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>(?&lt;=q)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T112740Z" creationid="WynnChen" creationdate="20230227T112740Z">
+        <seg>(?&lt;=q)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>(?=u)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T112400Z" creationid="WynnChen" creationdate="20230227T112400Z">
+        <seg>(?=u)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3025,6 +3057,14 @@ not be entered.)</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190409T044246Z">
         <seg>，人们可以找到：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>,\h[\h(\w+\.\w+)\w,'ʼ"“”-]+[\.,]</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T113615Z" creationid="WynnChen" creationdate="20230227T113615Z">
+        <seg>,\h[\h(\w+\.\w+)\w,'ʼ"“”-]+[\.,]</seg>
       </tuv>
     </tu>
     <tu>
@@ -4441,6 +4481,14 @@ not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>1969.7.20</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T114302Z" creationid="WynnChen" creationdate="20230227T114302Z">
+        <seg>1969.7.20</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>1st example modification: changing the colour of segment highlighting</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="liufang" changedate="20180416T122248Z" creationid="liufang" creationdate="20180416T122248Z">
@@ -4499,6 +4547,22 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190404T012329Z" creationid="WynnChen" creationdate="20190404T012329Z">
         <seg>2. Basic Permissions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>2002/11/8</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T114302Z" creationid="WynnChen" creationdate="20230227T114302Z">
+        <seg>2002/11/8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>2022-10-31</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T114739Z" creationid="WynnChen" creationdate="20230227T114739Z">
+        <seg>2022-10-31</seg>
       </tuv>
     </tu>
     <tu>
@@ -6088,6 +6152,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Not&lt;/e0&gt; a word boundary</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T112359Z" creationid="WynnChen" creationdate="20230227T112359Z">
+        <seg>&lt;e0&gt;非&lt;/e0&gt;单词边界</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Note: &lt;/e0&gt;In some cases it may take quite some time for OmegaT to update the display after the font setting has been changed.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120211T135233Z">
@@ -6140,6 +6212,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190404T110856Z" creationid="Yujun Yin" creationdate="20131007T085745Z">
         <seg>&lt;e0&gt;网络上的 OmegaT：&lt;/e0&gt;有关在线 OmegaT 资源的信息</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;Paragraph segmentation&lt;/e0&gt; works well with more literary or creative texts, as well as, more generally, with documents for which translation memory matches are not so important.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T121226Z" creationid="WynnChen" creationdate="20230227T121226Z">
+        <seg>&lt;e0&gt;段落分割&lt;/e0&gt;适用于更具文学性或创意性的文本，更一般地，也适用于翻译记忆库自动匹配并不显得那么重要的文档。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6292,6 +6372,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190404T105435Z" creationid="WynnChen" creationdate="20190404T105435Z">
         <seg>&lt;e0&gt;片段分割&lt;/e0&gt;：翻译记忆库工具使用称作片段的文本单元。在 OmegaT 中，片段可根据段落或片段分割规则进行划分。段落分割使用得较少，但在所谓“创造性”文本的情况下可能很有用。基于规则的分割通常就是指基于句子的分割。软件中已经提供了许多规则集，与此同时用户还可自定义其他规则，如本章所述。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;Sentence segmentation&lt;/e0&gt; relies on a number of rules (called &lt;e1&gt;segmentation rules&lt;/e1&gt;) that define what constitutes a sentence in the source language. This setting works well with documents where repetitions or similar sentences are common, such as technical or legal documents.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T121427Z" creationid="WynnChen" creationdate="20230227T121306Z">
+        <seg>&lt;e0&gt;语句分割&lt;/e0&gt;依赖于许多规则（称为&lt;e1&gt;分割规则&lt;/e1&gt;），这些规则定义了在原文语言中怎么样才是一个句子。此设置是用于经常出现重复或相似句子的文档，例如技术或法律文档。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7218,6 +7306,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; or &lt;k1&gt;Control&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T125136Z" creationid="WynnChen" creationdate="20230227T125136Z">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; 或 &lt;k1&gt;Control&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;k0&gt;F1:&lt;/k0&gt; Opens this manual in the default browser.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Kaname Madokami☆!" changedate="20180414T160807Z" creationid="weiyi" creationdate="20180406T071402Z">
@@ -7254,6 +7350,38 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120211T061509Z">
         <seg>&lt;k0&gt;Shift&lt;/k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;W&lt;/k2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;k0&gt;alt / option&lt;/k0&gt; or &lt;k1&gt;⌥&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T125208Z" creationid="WynnChen" creationdate="20230227T125208Z">
+        <seg>&lt;k0&gt;alt / option&lt;/k0&gt; 或 &lt;k1&gt;⌥&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;k0&gt;command&lt;/k0&gt; or &lt;k1&gt;⌘&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T125153Z" creationid="WynnChen" creationdate="20230227T125153Z">
+        <seg>&lt;k0&gt;command&lt;/k0&gt; 或 &lt;k1&gt;⌘&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;k0&gt;control&lt;/k0&gt; or &lt;k1&gt;⌃&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T125212Z" creationid="WynnChen" creationdate="20230227T125212Z">
+        <seg>&lt;k0&gt;control&lt;/k0&gt; 或 &lt;k1&gt;⌃&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;k0&gt;shift&lt;/k0&gt; or &lt;k1&gt;⇧&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T125132Z" creationid="WynnChen" creationdate="20230227T125132Z">
+        <seg>&lt;k0&gt;shift&lt;/k0&gt; 或 &lt;k1&gt;⇧&lt;/k1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10157,6 +10285,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T125205Z" creationid="WynnChen" creationdate="20230227T125205Z">
+        <seg>A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A "Standard Interface" means an interface that either is an official
 standard defined by a recognized standards body, or, in the case of
 interfaces specified for a particular programming language, one that
@@ -10263,6 +10399,14 @@ on the Program.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A character followed by a “u”.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T112426Z" creationid="WynnChen" creationdate="20230227T112423Z">
+        <seg>后面跟着“u”的字符。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A character in the Greek block (&lt;u0&gt;Unicode block&lt;/u0&gt;)</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20230224T115329Z" creationid="WynnChen" creationdate="20230224T115203Z">
@@ -10283,6 +10427,30 @@ on the Program.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20230110T095630Z" creationid="WynnChen" creationdate="20230110T095417Z">
         <seg>从“C”到“X”区间内的单个字母。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A character preceded by the letter “q”.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T112756Z" creationid="WynnChen" creationdate="20230227T112756Z">
+        <seg>前面是字母“q”的字符。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A character that is &lt;e0&gt;not&lt;/e0&gt; followed by the letter “u”.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T112616Z" creationid="WynnChen" creationdate="20230227T112616Z">
+        <seg>后面&lt;e0&gt;不&lt;/e0&gt;跟着字母“u”的字符。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A character that is &lt;e0&gt;not&lt;/e0&gt; preceded by the letter “q”.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T112905Z" creationid="WynnChen" creationdate="20230227T112905Z">
+        <seg>前面&lt;e0&gt;不&lt;/e0&gt;是字母“q”的字符。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10391,6 +10559,14 @@ this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A currency symbol, which is also a &lt;u0&gt;Unicode category&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T110604Z" creationid="WynnChen" creationdate="20230227T110604Z">
+        <seg>货币符号，同样也是一个 &lt;u0&gt;Unicode 类别&lt;/u0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A default script called Switch Colour Themes provides a default "Dark".</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Andrew" changedate="20180414T155316Z" creationid="weiyi" creationdate="20180406T065946Z">
@@ -10427,6 +10603,14 @@ this License.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120214T035153Z">
         <seg>数字：[0-9]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A few additional resources are presented below.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T115631Z" creationid="WynnChen" creationdate="20230227T115631Z">
+        <seg>下面介绍了一些额外的资源。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10583,6 +10767,14 @@ this License.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A logogram (&lt;e0&gt;Han&lt;/e0&gt;/&lt;e1&gt;kanji&lt;/e1&gt;/&lt;e2&gt;hanja&lt;/e2&gt; character) found in CJK languages (&lt;u3&gt;Unicode script&lt;/u3&gt;)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T110451Z" creationid="WynnChen" creationdate="20230227T110451Z">
+        <seg>出现在 CJK 语言（&lt;u3&gt;Unicode 字符体系&lt;/u3&gt;）中的意音文字（logogram）（&lt;e0&gt;汉语&lt;/e0&gt;/&lt;e1&gt;日本汉字&lt;/e1&gt;（kanji）/&lt;e2&gt;朝鲜汉字&lt;/e2&gt;（hanja）字符）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A new version of the master TM is then created, either to be put in team members' &lt;e3&gt;tm/auto&lt;/e3&gt;subfolders or to replace their &lt;f4&gt;project_save.tmx&lt;/f4&gt; files.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131126T105946Z" creationid="Fu Rhong" creationdate="20131126T105946Z">
@@ -10717,6 +10909,14 @@ conveyed by you (or copies made from those copies), or (b) primarily
 for and in connection with specific products or compilations that
 contain the covered work, unless you entered into that arrangement,
 or that patent license was granted, prior to 28 March 2007.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A period followed by a whitespace</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T124159Z" creationid="WynnChen" creationdate="20230227T124159Z">
+        <seg>一个句点后面跟着一个空白字符</seg>
       </tuv>
     </tu>
     <tu>
@@ -11809,6 +12009,14 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>After dividing the source file into structural units, OmegaT further divides those units into segments.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T122146Z" creationid="WynnChen" creationdate="20230227T122146Z">
+        <seg>在将原文文件划分成结构单元之后，OmegaT 进一步将这些单元划分成片段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>After downloading the zip archive of the full or minimal package or the website localization package, unpack the archive.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="lenovo" changedate="20180416T171640Z" creationid="lenovo" creationdate="20180416T171640Z">
@@ -12629,6 +12837,14 @@ rights of fair use or other equivalent, as provided by copyright law.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Alt</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T125204Z" creationid="WynnChen" creationdate="20230227T125204Z">
+        <seg>Alt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Alt+F2</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="xulihang" changedate="20180408T105849Z" creationid="xulihang" creationdate="20180408T105849Z">
@@ -12721,6 +12937,14 @@ rights of fair use or other equivalent, as provided by copyright law.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="think" changedate="20180416T004846Z" creationid="think" creationdate="20180415T231453Z">
         <seg>虽然Infix是一个 Windows平台上的应用程序，但通过Iceni它也已能满足Linux和Macintosh平台的使用者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Although OmegaT does not offer fancy colouring for your regular expressions, you can get a lot of practice by using the &lt;l0/&gt; window since OmegaT does colour the matching results.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T115616Z" creationid="WynnChen" creationdate="20230227T115616Z">
+        <seg>虽然 OmegaT 并不会为正则表达式提供花哨的着色，但你可以通过使用&lt;l0/&gt;窗口来进行大量的练习，因为 OmegaT 会对匹配结果进行着色。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13243,10 +13467,26 @@ menu, a prominent item in the list meets this criterion.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An online regular expression matcher that lets you enter the text you want to search and the regular expressions you want to test.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T115912Z" creationid="WynnChen" creationdate="20230227T115912Z">
+        <seg>在线正则表达式匹配器，允许你输入要搜索的文本以及要测试的正则表达式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An understanding of the processes involved is however important.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Wyndy" changedate="20180418T132019Z" creationid="Wyndy" creationdate="20180418T132019Z">
         <seg>无论如何，理解相关流程非常重要。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An uppercase letter (&lt;u0&gt;Unicode category&lt;/u0&gt;)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T110536Z" creationid="WynnChen" creationdate="20230227T110536Z">
+        <seg>大写字母（&lt;u0&gt;Unicode 类别&lt;/u0&gt;）</seg>
       </tuv>
     </tu>
     <tu>
@@ -13677,6 +13917,14 @@ menu, a prominent item in the list meets this criterion.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="xulihang" changedate="20180404T033741Z">
         <seg>由于 &lt;a0&gt;OmegaT&lt;/a0&gt; 将相同片段视为同一实体，因此将只显示第一个唯一的片段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>As a reminder, rules work the following way: when a rule matches, OmegaT puts a marker at the match location so that rules that come after ignore that location. That is the reason why exception rules must come before segmentation rules.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T123247Z" creationid="WynnChen" creationdate="20230227T123247Z">
+        <seg>需要提醒的时，规则的作用方式如下：当规则匹配时，OmegaT 就会在此位置做上标记，这样后继的规则就会忽略此位置。这就是例外规则必须放在分割规则之前的原因。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15016,6 +15264,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Break rule, box checked, lower in the list</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T124033Z" creationid="WynnChen" creationdate="20230227T124033Z">
+        <seg>断开规则，复选框已勾选，在列表中位于较低位置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Break/Exception</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190831T161854Z" creationid="wynnc" creationdate="20190323T064834Z">
@@ -15433,6 +15689,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By default, segmentation settings are global and shared by all projects.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T122744Z" creationid="WynnChen" creationdate="20230227T122744Z">
+        <seg>默认情况下，片段分割设置是全局的，由所有项目共享。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By default, the /tm folder is below the project's root folder (e.g. ...&lt;e0&gt;/MyProject/tm&lt;/e0&gt;), but you can choose a different folder in the project properties dialog if you wish.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131127T092958Z" creationid="Fu Rhong" creationdate="20131127T092958Z">
@@ -15509,6 +15773,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Andrew" changedate="20180414T132013Z" creationid="weiyi" creationdate="20180406T071917Z">
         <seg>关闭&lt;e0&gt;自动获取翻译&lt;/e0&gt;选项，程序只会在按下&lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;M&lt;/k3&gt; &lt;/k1&gt; （在OS X操作系统中为&lt;k4&gt; &lt;k5&gt;Cmd&lt;/k5&gt; &lt;k6&gt;M&lt;/k6&gt; &lt;/k4&gt;）后获取当前片段的机器翻译。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>C</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T125136Z" creationid="WynnChen" creationdate="20230227T125136Z">
+        <seg>C</seg>
       </tuv>
     </tu>
     <tu>
@@ -15785,6 +16057,14 @@ Exception occurred:</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190405T031020Z" creationid="wynnc" creationdate="20190320T045507Z">
         <seg>加泰隆语（Catalan）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Category</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T123523Z" creationid="WynnChen" creationdate="20230227T123523Z">
+        <seg>类别</seg>
       </tuv>
     </tu>
     <tu>
@@ -16239,8 +16519,8 @@ Exception occurred:</seg>
       <tuv lang="en">
         <seg>Check for doubled words</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20190403T152333Z" creationid="xulihang" creationdate="20180408T114202Z">
-        <seg>检查重复词</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T113527Z" creationid="xulihang" creationdate="20180408T114202Z">
+        <seg>检查重复单词</seg>
       </tuv>
     </tu>
     <tu>
@@ -19049,6 +19329,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Ctrl</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T125209Z" creationid="WynnChen" creationdate="20230227T125209Z">
+        <seg>Ctrl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Ctrl is used on Windows, UNIX and UNIX-like operating systems with keyboards featuring a &lt;k0&gt;Ctrl&lt;/k0&gt; / &lt;k1&gt;Control key&lt;/k1&gt;.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120211T061127Z">
@@ -19679,6 +19967,14 @@ unpacking, reading or copying.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="weiyi" changedate="20180405T145331Z" creationid="weiyi" creationdate="20180405T145331Z">
         <seg>客户ID（对应&lt;c0&gt;microsoft.api.client_id&lt;/c0&gt;命令行参数）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Customization</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T125457Z" creationid="WynnChen" creationdate="20230227T125457Z">
+        <seg>自定义</seg>
       </tuv>
     </tu>
     <tu>
@@ -21114,6 +21410,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Do not segment after Ms.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T123624Z" creationid="WynnChen" creationdate="20230227T123624Z">
+        <seg>不要在 Ms. 之后进行分割</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Do not translate the content attribute of meta-tags with \</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -21516,8 +21820,8 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="en">
         <seg>Doubled words</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20190403T151557Z" creationid="xulihang" creationdate="20180408T113105Z">
-        <seg>重复词</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T113459Z" creationid="xulihang" creationdate="20180408T113105Z">
+        <seg>重复单词</seg>
       </tuv>
     </tu>
     <tu>
@@ -22076,6 +22380,14 @@ propagate the contents of its contributor version.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Each time the cursor moves to the next character, OmegaT checks whether:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T122357Z" creationid="WynnChen" creationdate="20230227T122357Z">
+        <seg>每次光标移动到下一个字符时，OmegaT 都会检查：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Each time you convey a covered work, the recipient automatically
 receives a license from the original licensors, to run, modify and
 propagate that work, subject to this License.  You are not responsible
@@ -22405,6 +22717,14 @@ by the Free Software Foundation.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20200120T075102Z" creationid="WynnChen" creationdate="20200120T075102Z">
         <seg>编辑器...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>EditorShortcuts.mac.properties</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T130146Z" creationid="WynnChen" creationdate="20230227T130146Z">
+        <seg>EditorShortcuts.mac.properties</seg>
       </tuv>
     </tu>
     <tu>
@@ -23451,10 +23771,26 @@ No one hears your screams</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Examples of regular expressions that use the above expressions</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T113421Z" creationid="WynnChen" creationdate="20230227T113421Z">
+        <seg>使用以上各表达式的正则表达式示例</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Excel</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190322T080533Z" creationid="wynnc" creationdate="20190322T080533Z">
         <seg>Excel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Excel cells with lines breaks that do not represent segments</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T123851Z" creationid="WynnChen" creationdate="20230227T123851Z">
+        <seg>带有换行的 Excel 单元格不表示有多个片段</seg>
       </tuv>
     </tu>
     <tu>
@@ -23495,6 +23831,14 @@ No one hears your screams</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190901T153434Z" creationid="WynnChen" creationdate="20190901T153434Z">
         <seg>例外规则——参见正则表达式中 ? 的用法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Exception rule, box unchecked, higher in the list</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T123612Z" creationid="WynnChen" creationdate="20230227T123612Z">
+        <seg>例外规则，复选框未勾选，在列表中位于较高位置</seg>
       </tuv>
     </tu>
     <tu>
@@ -23647,6 +23991,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Explanation</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T123533Z" creationid="WynnChen" creationdate="20230227T123533Z">
+        <seg>说明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Explanation:</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120208T063845Z">
@@ -23739,6 +24091,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20230110T092512Z" creationid="WynnChen" creationdate="20230110T092512Z">
         <seg>表达式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Expressions that mark a position</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T112343Z" creationid="WynnChen" creationdate="20230227T112343Z">
+        <seg>标记位置的表达式</seg>
       </tuv>
     </tu>
     <tu>
@@ -24639,6 +24999,54 @@ patents cannot be used to render the program non-free.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Find a period followed by an uppercase letter. Useful to find possible missing spaces between the period and the start of a new sentence</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T115301Z" creationid="WynnChen" creationdate="20230227T115301Z">
+        <seg>查找一个句点后面跟着一个大写字母。这有助于找到句点和新句子开头之间可能缺少空格的情况。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Find an email address. This simple expression may not cover every possible valid email address format.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T115451Z" creationid="WynnChen" creationdate="20230227T115451Z">
+        <seg>查找电子邮件地址。这个简单的表达式可能无法涵盖所有可能的有效电子邮件格式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Find clauses that start with a comma followed by a whitespace character, contain one or more words (including words in quotation marks, contractions, and filenames with a file extension), and end either with a comma or period.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T113802Z" creationid="WynnChen" creationdate="20230227T113802Z">
+        <seg>查找以逗号开头、后面跟着一个空白字符、包含一个或多个单词（包括引号括起来的单词、缩写词、以及带有扩展名的文件名）、并以逗号或句点结尾的子句。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Find double words.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T113451Z" creationid="WynnChen" creationdate="20230227T113451Z">
+        <seg>查找重复单词</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Find extra whitespace after the period at the end of a line.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T113857Z" creationid="WynnChen" creationdate="20230227T113857Z">
+        <seg>查找出现在行尾句点之后多余空白字符。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Find numerical dates in year, month, and day order with the month and day separated by a slash, period, or hyphen, such as:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T114301Z" creationid="WynnChen" creationdate="20230227T114301Z">
+        <seg>查找按年、月、日顺序排列的数字日期，其中月和日之间用斜杠、句点、或连字符分隔，例如：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Find the line</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="liufang" changedate="20180416T122404Z" creationid="liufang" creationdate="20180416T122404Z">
@@ -24651,6 +25059,22 @@ patents cannot be used to render the program non-free.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="anton" changedate="20180416T090840Z" creationid="anton" creationdate="20180416T090840Z">
         <seg>查找到以下行：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Find words starting with a vowel that come after the article “a” rather than “an”.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T113925Z" creationid="WynnChen" creationdate="20230227T113925Z">
+        <seg>查找出现在“a”而非“an”之后的元音开头的单词。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Find “is” as a whole word in a sentence, without matching “this”, “isn’t”, or even “Is”.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T115352Z" creationid="WynnChen" creationdate="20230227T115352Z">
+        <seg>在句子中查找作为完整单词的“is”，不匹配“this”、“isn’t”、甚或是“Is”。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25161,10 +25585,42 @@ can then launch the Kaptain launch script with:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, &lt;l0&gt;(?&lt;!q)u&lt;/l0&gt; matches the letter “u” if it does &lt;e1&gt;not&lt;/e1&gt; come after “q”. It therefore matches the “u” in “run”, but &lt;e2&gt;not&lt;/e2&gt; the one in “quick”.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T113210Z" creationid="WynnChen" creationdate="20230227T113210Z">
+        <seg>例如，&lt;l0&gt;(?&lt;!q)u&lt;/l0&gt; 匹配&lt;e1&gt;不&lt;/e1&gt;跟在“q”后面的“u”。因此它匹配“run”中的“u”，但&lt;e2&gt;不&lt;/e2&gt;匹配“quick”中的“u”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, &lt;l0&gt;(?&lt;=q)u&lt;/l0&gt; matches the letter “u” if it comes after “q”. It therefore matches the “u” in “quick”, but not the one in “run”.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T112836Z" creationid="WynnChen" creationdate="20230227T112836Z">
+        <seg>例如，&lt;l0&gt;(?&lt;=q)u&lt;/l0&gt; 匹配出现在“q”后面的“u”。因此它匹配“quick”中的“u”，但是不匹配“run”中的“u”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, &lt;l0&gt;&lt;div class="hide"&gt; &lt;span translate="no"&gt;&lt;/l0&gt; You can define key-value pairs for tags to be left untranslated.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131113T123317Z" creationid="Fu Rhong" creationdate="20131113T123317Z">
         <seg>例如，对于&lt;l0&gt;&lt;div class="hide"&gt; &lt;span translate="no"&gt;&lt;/l0&gt;您可以定义键值对来保持其未译状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, &lt;l0&gt;q(?!u)&lt;/l0&gt; matches the letter “q” when it is &lt;e1&gt;not&lt;/e1&gt; followed by a “u”. It therefore matches the “q” in “qigong” or “Iraq”, but &lt;e2&gt;not&lt;/e2&gt; the one in “equal” or “question”.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T112739Z" creationid="WynnChen" creationdate="20230227T112739Z">
+        <seg>例如，&lt;l0&gt;q(?!u)&lt;/l0&gt; 匹配后面&lt;e1&gt;不&lt;/e1&gt;跟着“u”的字母“q”。因此它匹配“qigong”或“Iraq”中的“q”，但&lt;e2&gt;不&lt;/e2&gt;匹配“equal”或“question”中的“q”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, &lt;l0&gt;q(?=u)&lt;/l0&gt; matches the letter “q” when it is followed by a “u”. It therefore matches the “q” in “equal” or “question”, but &lt;e1&gt;not&lt;/e1&gt; the one in “qigong” or “Iraq”.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T112553Z" creationid="WynnChen" creationdate="20230227T112424Z">
+        <seg>例如，&lt;l0&gt;q(?=u)&lt;/l0&gt; 匹配后面跟着“u”的字母“q”。因此它可以匹配“equal”或“question”中的“q”，但&lt;e1&gt;不&lt;/e1&gt;匹配“qigong”或“Iraq”中的“q”。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25278,6 +25734,14 @@ know their rights.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120217T072153Z">
         <seg>例如，为加拿大法语 (FR-CA) 创建的规则优先级应该比为法语 (FR.*) 创建规则的优先级要高，也比缺省规则(.*) 要高。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, text files may be segmented on line breaks, empty lines, or not at all. Files containing formatting (ODF, HTML, or other documents) are divided at block-level (paragraph) tags. Translatable object attributes in XHTML or HTML files can be extracted as separate "paragraphs".</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T122050Z" creationid="WynnChen" creationdate="20230227T122050Z">
+        <seg>例如，文本文件可能会在断行、空行处分割，或者完全不分割。包含格式的文件（ODF、HTML、或其他文档）则在块级（段落）标签处划分。在 XHTML 或 HTML 文件中的可翻译对象属性可以提取为单独的“段落”。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26459,6 +26923,14 @@ authors of previous versions.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T104742Z" creationid="wynnc" creationdate="20221111T104742Z">
         <seg>全局分割规则</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Global or local?</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T122647Z" creationid="WynnChen" creationdate="20230227T122647Z">
+        <seg>全局还是局部？</seg>
       </tuv>
     </tu>
     <tu>
@@ -27745,6 +28217,14 @@ Note: not all filters allow you to select an encoding.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="cpeishan" changedate="20180407T145032Z" creationid="cpeishan" creationdate="20180407T145032Z">
         <seg>如何翻译 Wordpress XLIFF 文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>How we avoid listing multiple notations:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T125408Z" creationid="WynnChen" creationdate="20230227T125325Z">
+        <seg>我们如何避免列出多种记号：</seg>
       </tuv>
     </tu>
     <tu>
@@ -29184,6 +29664,14 @@ copy of the Program in return for a fee.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the location matches both rules, it is considered either as a break, or as a non-break, depending on what the rule defined.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T122632Z" creationid="WynnChen" creationdate="20230227T122605Z">
+        <seg>如果此位置与两条规则都匹配，则根据规则的定义将其视为断开或非断开。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the option is OFF, the glossary entry above will not be found.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Andrew" changedate="20180414T133552Z" creationid="weiyi" creationdate="20180406T073550Z">
@@ -29844,6 +30332,14 @@ OmegaT.exe，请修改设置以显示文件扩展名。</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you change the segmentation while translating, you will have to reload the project for the new segmentation to take effect. This will split or merge some previously translated segments, which will therefore no longer be considered translated. Nonetheless, their original translation will still be in the project memory.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T123518Z" creationid="WynnChen" creationdate="20230227T123518Z">
+        <seg>如果在翻译过程中更改了片段分割方案，则必须重新加载项目才能让新的分割方案生效。这会拆分或合并一些之前已经翻译好的片段，因此它们会不再视为已译。尽管如此，它们原本的翻译依然保存在项目记忆库中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you check the corresponding checkbox, the OmegaT.l4J.ini file is modified to use the language selected (see next section for details).</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131116T123035Z" creationid="Fu Rhong" creationdate="20131116T122813Z">
@@ -30397,6 +30893,14 @@ to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you use local rules, you can still access the global rules, but modifying them will have no effect on your project.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T123012Z" creationid="WynnChen" creationdate="20230227T123012Z">
+        <seg>如果使用了局部规则，你依然可以访问全局规则，但对其进行修改并不会作用于你的项目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you used OmegaT or another CAT tool for the work, please also upload your translation memory (TMX file) to the &lt;a0&gt;translation memory repository in the online user group&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="lenovo" changedate="20180417T030053Z" creationid="lenovo" creationdate="20180417T030053Z">
@@ -30417,6 +30921,14 @@ to use Java Web Start.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120218T123644Z">
         <seg>如果您想让译文等同于原文，只需简单地删除所有文本使编辑区域为空（&lt;k0&gt;Ctrl+A&lt;/k0&gt; 然后用 &lt;k1&gt;Del&lt;/k1&gt; 删除）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you want to learn more about using regular expressions, the two following sites have proven very useful.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T115836Z" creationid="WynnChen" creationdate="20230227T115836Z">
+        <seg>如果你想了解更多关于使用正则表达式的内容，以下两个站点已被证明非常有用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32006,6 +32518,14 @@ patent against the party.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="anton" changedate="20180416T084355Z" creationid="anton" creationdate="20180416T084355Z">
         <seg>在这个文件夹中，分别将两个文件HelpandManualDialect.java和HelpandManualFilter.java重命名为TmxDialect.java和TmxFilter.java.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In this manual: &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;N&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T125453Z" creationid="WynnChen" creationdate="20230227T125453Z">
+        <seg>在本手册中：&lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;N&lt;/k3&gt;&lt;/k0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -34082,6 +34602,14 @@ itself on the first run. Later calls do not need to be online.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Java Regex documentation</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T115719Z" creationid="WynnChen" creationdate="20230227T115719Z">
+        <seg>Java 正则表达式文档</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Java Resource Bundles</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20230221T084001Z" creationid="WynnChen" creationdate="20230221T084001Z">
@@ -34486,6 +35014,14 @@ itself on the first run. Later calls do not need to be online.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120130T040147Z">
         <seg>组合键</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Key identifier</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T125202Z" creationid="WynnChen" creationdate="20230227T125121Z">
+        <seg>键标识</seg>
       </tuv>
     </tu>
     <tu>
@@ -35313,6 +35849,14 @@ later version.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Learning the most frequent shortcuts will not take long once you start working with OmegaT. The shortcuts are indicated next to each menu item, allowing them to learn new shortcuts gradually as you use the software.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T124634Z" creationid="WynnChen" creationdate="20230227T124634Z">
+        <seg>一旦开始使用 OmegaT，学习最常用的那些快捷键不会花费很长时间。快捷键显示在每个菜单项目旁边，让你能在使用软件时逐渐学会新的快捷键。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Leave the segment empty</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
@@ -35595,6 +36139,14 @@ later version.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Line break, followed by anything.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T123909Z" creationid="WynnChen" creationdate="20230227T123909Z">
+        <seg>换行，后跟任意内容</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Line length</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T112939Z" creationid="WynnChen" creationdate="20221209T112939Z">
@@ -35743,6 +36295,14 @@ later version.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120202T060350Z">
         <seg>Linux/Solaris/FreeBSD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Linux/Windows</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T125059Z" creationid="WynnChen" creationdate="20230227T125059Z">
+        <seg>Linux/Windows</seg>
       </tuv>
     </tu>
     <tu>
@@ -36471,6 +37031,14 @@ later version.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
         <seg>主菜单</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>MainMenuShortcuts.mac.properties</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T130145Z" creationid="WynnChen" creationdate="20230227T130145Z">
+        <seg>MainMenuShortcuts.mac.properties</seg>
       </tuv>
     </tu>
     <tu>
@@ -37896,6 +38464,14 @@ later version.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Modifier key identifiers</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T125159Z" creationid="WynnChen" creationdate="20230227T125059Z">
+        <seg>修饰键标识</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Modify encoding declaration</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T104508Z" creationid="wynnc" creationdate="20221111T104508Z">
@@ -37984,6 +38560,14 @@ later version.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>More advanced expressions</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T112105Z" creationid="WynnChen" creationdate="20230227T112105Z">
+        <seg>更高深的表达式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>More can be found in the &lt;u0&gt;Painless Bug Tracking&lt;/u0&gt; article by Joel Spolsky.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190411T015934Z">
@@ -37996,6 +38580,14 @@ later version.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20230103T061457Z" creationid="WynnChen" creationdate="20230103T061457Z">
         <seg>诸如“licensse”或“lissense”这类更严重的错误拼写。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>More examples</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T113218Z" creationid="WynnChen" creationdate="20230227T113218Z">
+        <seg>更多示例</seg>
       </tuv>
     </tu>
     <tu>
@@ -38477,6 +39069,22 @@ appropriate location such as the Applications folder.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120217T113043Z">
         <seg>Mr\.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ms, followed by a period, followed by a whitespace.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T123652Z" creationid="WynnChen" creationdate="20230227T123652Z">
+        <seg>Ms 后面跟着一个句点然后是一个空白字符。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ms\.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T123625Z" creationid="WynnChen" creationdate="20230227T123625Z">
+        <seg>Ms\.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39432,6 +40040,14 @@ measures.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Not using &lt;e0&gt;sentence&lt;/e0&gt; segmentation on a document is equivalent to using &lt;e1&gt;paragraph&lt;/e1&gt; segmentation. In that case, each paragraph (as defined in the original document format) is displayed as a single segment, and the translator is free to reorganize the sentences within the segment in the translation.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T121008Z" creationid="WynnChen" creationdate="20230227T120733Z">
+        <seg>在文档上不使用&lt;e0&gt;语句&lt;/e0&gt;分割就相当于使用&lt;e1&gt;段落&lt;/e1&gt;分割。在这种情况下，每个段落（以原始文档格式的定义）呈现为一个单独片段，翻译人员在译文中可以自由地在片段内部重新组织句子。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Notarized vs Unsigned</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T072140Z" creationid="wynnc" creationdate="20210504T071958Z">
@@ -39716,6 +40332,14 @@ measures.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120217T115038Z">
         <seg>请注意“安装”功能需要网络连接。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note that the &lt;l0&gt;Pattern After&lt;/l0&gt; field can be empty.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T124253Z" creationid="WynnChen" creationdate="20230227T124253Z">
+        <seg>要注意，&lt;l0&gt;后模式&lt;/l0&gt;字段可以是空的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40771,6 +41395,14 @@ combination as such.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT Shortcuts</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T124312Z" creationid="WynnChen" creationdate="20230227T124312Z">
+        <seg>OmegaT 快捷键</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT Team Projects</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190410T022259Z" creationid="Fu Rhong" creationdate="20131110T033111Z">
@@ -40839,6 +41471,14 @@ combination as such.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T021611Z" creationid="WynnChen" creationdate="20221212T021611Z">
         <seg>在未提供片段内容时，OmegaT 总是会复制原文内容。使用此选项可将未翻译的片段留空。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT assigns shortcuts to most of the functions available in the &lt;l0/&gt;, &lt;l1/&gt;, and &lt;l2/&gt; menus and to a number of functions in the &lt;l3/&gt; pane. You can also add or modify the shortcuts for most of the functions.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T125608Z" creationid="WynnChen" creationdate="20230227T125608Z">
+        <seg>OmegaT 为&lt;l0/&gt;、&lt;l1/&gt;、和&lt;l2/&gt;菜单中的大多数功能以及&lt;l3/&gt;窗格中的许多功能都分配了快捷键。你还可以添加或修改大多数功能的快捷键。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41043,6 +41683,14 @@ combination as such.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT does not support either site in any way. If you find other interesting references—in any language—the OmegaT team would love to hear about them.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T120154Z" creationid="WynnChen" creationdate="20230227T115914Z">
+        <seg>OmegaT 不以任何方式支持这两个站点。如果你找到了其他有意思的参考资料——任何语言皆可——OmegaT 团队都很乐意了解它们。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT does not support these formats directly.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Wyndy" changedate="20180418T071549Z" creationid="Wyndy" creationdate="20180418T071549Z">
@@ -41087,6 +41735,14 @@ combination as such.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Administrator" changedate="20180411T111959Z">
         <seg>OmegaT 的特色之一是可高度自定义过滤器，您可以配置众多的过滤器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT first parses the text for paragraph-level segmentation. This process relies only on the structure of the source file to produce segments.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T121922Z" creationid="WynnChen" creationdate="20230227T121922Z">
+        <seg>OmegaT 首先解析文本进行段落级分割。此过程仅依赖于原文文件的结构来生成片段。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41803,6 +42459,14 @@ to be launched.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT must be restarted after a shortcut definition file has been modified for the new shortcuts to take effect.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T125837Z" creationid="WynnChen" creationdate="20230227T125837Z">
+        <seg>修改快捷键定义文件后，必须重新启动 OmegaT 才能让新的快捷键生效。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT needs to reload the project to take the modifications into account.
 Reload the project now?</seg>
       </tuv>
@@ -41873,6 +42537,14 @@ Reload the project now?</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131114T074352Z" creationid="Fu Rhong" creationdate="20131114T074352Z">
         <seg>OmegaT项目和子文件夹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT provides predefined segmentation rules, and the translator can use regular expressions to modify them. See the &lt;l0/&gt; appendix for details.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T123113Z" creationid="WynnChen" creationdate="20230227T123113Z">
+        <seg>OmegaT 提供了预定义的分割规则，翻译人员可以用正则表达式对其进行修改。有关详细信息，请参阅&lt;l0/&gt;附录。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42012,6 +42684,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190403T143002Z" creationid="WynnChen" creationdate="20190403T143002Z">
         <seg>OmegaT 可在任何可以运行合适版本的 Java 运行环境（JRE）的操作系统上运行。目前，这包括从 Windows 98 开始的所有版本的Microsoft Windows、Mac OS X 和大多数 Linux 发行版。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT runs on any platform that runs a Java Runtime Environment (Windows, macOS, and Linux being the most mainstream). The modifier keys that form the shortcuts vary slightly depending between platforms. To make reading easier we have adopted the following convention for modifier keys:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T125039Z" creationid="WynnChen" creationdate="20230227T125039Z">
+        <seg>OmegaT 可以在任意能运行 Java Runtime Environment 的平台上运行（最主流的是 Windows、macOS、和 Linux）。根据平台的不同，构成快捷键的修饰键会略有不同。为了便于阅读，我们对修饰键进行以下约定：</seg>
       </tuv>
     </tu>
     <tu>
@@ -42642,6 +43322,14 @@ unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>On Windows and Linux: &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;Shift&lt;/k2&gt;&lt;k3&gt;N&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T125419Z" creationid="WynnChen" creationdate="20230227T125403Z">
+        <seg>在 Windows 和 Linux上：&lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;Shift&lt;/k2&gt;&lt;k3&gt;N&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>On Windows it is called an "MS-DOS window" and is available from the Start Menu, inside Programs, through the "MS-DOS" item.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
@@ -42654,6 +43342,14 @@ unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20200119T035232Z" creationid="WynnChen" creationdate="20200119T035232Z">
         <seg>在 macOS 上</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On macOS: &lt;k0&gt;&lt;k1&gt;Shift&lt;/k1&gt;&lt;k2&gt;Command&lt;/k2&gt;&lt;k3&gt;N&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T125429Z" creationid="WynnChen" creationdate="20230227T125429Z">
+        <seg>在 macOS 上：&lt;k0&gt;&lt;k1&gt;Shift&lt;/k1&gt;&lt;k2&gt;Command&lt;/k2&gt;&lt;k3&gt;N&lt;/k3&gt;&lt;/k0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -42942,6 +43638,14 @@ unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20200122T065759Z" creationid="WynnChen" creationdate="20200122T065759Z">
         <seg>上述片段其中之一是当前片段。该片段分为两部分显示。上半部分以原文语言显示，为带绿色背景色的粗体字符；下半部分是编辑区域，以一个标记结尾：标记格式为 &lt;l0&gt;&lt;片段 nnnn&gt;&lt;/l0&gt;，其中 nnnn 是此片段在项目中的编号。以上半部分为参照，并用你的翻译替换或修改编辑区域的内容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>One of the most thorough regular expression tutorial and reference on the web.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T115935Z" creationid="WynnChen" creationdate="20230227T115913Z">
+        <seg>网上最全面的正则表达式教程和参考资料之一。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44326,6 +45030,14 @@ Vanishing like mist</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Paragraph or sentence?</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T120225Z" creationid="WynnChen" creationdate="20230227T120225Z">
+        <seg>段落还是句子？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Paragraph segmentation is advantageous in certain cases, such as highly creative or stylistic translations in which the translator may wish to change the order of entire sentences; for the majority of projects, however, sentence segmentation is a choice to be preferred, since it delivers better matches from previous translations.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120215T135411Z">
@@ -44346,6 +45058,14 @@ Vanishing like mist</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190831T054905Z">
         <seg>在断行、空行处进行段落分割或不分割：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Paragraph-Level segmentation</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T121456Z" creationid="WynnChen" creationdate="20230227T121456Z">
+        <seg>段落级分割</seg>
       </tuv>
     </tu>
     <tu>
@@ -46854,6 +47574,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>References</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T115455Z" creationid="WynnChen" creationdate="20230227T115455Z">
+        <seg>参考</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>References:</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T124607Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -48673,6 +49401,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>S</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T125124Z" creationid="WynnChen" creationdate="20230227T125124Z">
+        <seg>S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>S&amp;lide Comments</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190322T080832Z" creationid="wynnc" creationdate="20190322T080832Z">
@@ -49493,8 +50229,8 @@ When using regular expressions, the replacement string supports references to gr
       <tuv lang="en">
         <seg>Se&amp;ntence-level segmenting</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T071224Z" creationid="WynnChen" creationdate="20221129T071224Z">
-        <seg>语句级别分割(&amp;N)</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T121534Z" creationid="WynnChen" creationdate="20221129T071224Z">
+        <seg>语句级分割(&amp;N)</seg>
       </tuv>
     </tu>
     <tu>
@@ -50363,6 +51099,14 @@ When using regular expressions, the replacement string supports references to gr
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Segments are by default &lt;e0&gt;paragraphs&lt;/e0&gt; defined by the file format itself.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T120706Z" creationid="WynnChen" creationdate="20230227T120706Z">
+        <seg>默认情况下，片段就是文件格式本身所定义的&lt;e0&gt;段落&lt;/e0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Segments which occur more than once are described in OmegaT as "non-unique segments".</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="lenovo" changedate="20180416T120046Z" creationid="lenovo" creationdate="20180416T115952Z">
@@ -50947,6 +51691,14 @@ When using regular expressions, the replacement string supports references to gr
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sentence-level segmentation</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T122055Z" creationid="WynnChen" creationdate="20230227T122055Z">
+        <seg>语句级分割</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Separates the source text into segments.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120215T144124Z">
@@ -51287,6 +52039,14 @@ When using regular expressions, the replacement string supports references to gr
       </tuv>
       <tuv lang="zh-CN" changeid="Zoe" changedate="20180412T151345Z" creationid="Zoe" creationdate="20180412T151345Z">
         <seg>随后她发现短语“abc”应被译作“def”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Shift</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T125123Z" creationid="WynnChen" creationdate="20230227T125123Z">
+        <seg>Shift</seg>
       </tuv>
     </tu>
     <tu>
@@ -51985,6 +52745,14 @@ have designed this version of the GPL to prohibit the practice for those
 products.  If such problems arise substantially in other domains, we
 stand ready to extend this provision to those domains in future versions
 of the GPL, as needed to protect the freedom of users.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Some expressions specify a position rather than a character. They indicate where in the text to look for the match, but do not include any characters in that match. The table below list a few of the more common examples. Consult the sites in the &lt;l0/&gt; section for more information.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T112333Z" creationid="WynnChen" creationdate="20230227T112333Z">
+        <seg>有些表达式指定的是位置而非字符。它们指示在文本中的什么位置查找匹配项，但在此匹配中并不包含任何字符。下表列出了一些较常见的示例。更多相关信息，请参阅&lt;l0/&gt;章节中的站点。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53043,10 +53811,26 @@ All sets that match the project source language are applied.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Start a new segment after “。” (Japanese period).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T124228Z" creationid="WynnChen" creationdate="20230227T124228Z">
+        <seg>在“。”（日文句号）之后开始一个新片段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Start a new segment on:</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20230221T084116Z" creationid="WynnChen" creationdate="20230221T084116Z">
         <seg>新片段开始于：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Start a new segment start after a period followed by a space, tab, or other whitespace.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T124143Z" creationid="WynnChen" creationdate="20230227T124143Z">
+        <seg>一个句点后跟一个空格、tab、或其他空白字符之后的位置处开始一个新片段。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53664,6 +54448,14 @@ All sets that match the project source language are applied.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20230221T084446Z" creationid="WynnChen" creationdate="20230221T084446Z">
         <seg>存储库的同步</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Syntax</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T130250Z" creationid="WynnChen" creationdate="20230227T130250Z">
+        <seg>语法</seg>
       </tuv>
     </tu>
     <tu>
@@ -55290,6 +56082,14 @@ form of a work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;e0&gt;Key identifiers&lt;/e0&gt; above enable us to avoid listing multiple notations for every shortcut.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T125402Z" creationid="WynnChen" creationdate="20230227T125304Z">
+        <seg>上面的&lt;e0&gt;键标识&lt;/e0&gt;让我们能避免为每个快捷键列出多种表示记号。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;e0&gt;Replace Glossary Hits when Inserting Source Text&lt;/e0&gt; option allows to replace automatically glossary hits with the target term when source text is inserted.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Andrew" changedate="20180414T134611Z" creationid="weiyi" creationdate="20180406T074443Z">
@@ -55659,6 +56459,14 @@ software and other kinds of works.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Java technical reference is useful as a canonical reference.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T115708Z" creationid="WynnChen" creationdate="20230227T115708Z">
+        <seg>Java 技术参考作为权威参考是非常有用的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Java version used (the same font may appear quite different on Sun and OpenJDK versions of Java)</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="lenovo" changedate="20180420T062234Z" creationid="lenovo" creationdate="20180415T130501Z">
@@ -55863,6 +56671,14 @@ software and other kinds of works.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190327T171336Z" creationid="WynnChen" creationdate="20190327T171116Z">
         <seg>OmegaT 开发人员的邮件列表。此邮件列表针对的是关于功能和开发的更技术性的讨论，适用于 OmegaT 的开发人员和其他相关方。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The OmegaT interface generally does not rely on buttons to give access to its functions. Instead, they are called from the menus or, for the majority of functions, from their assigned default shortcut.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T124452Z" creationid="WynnChen" creationdate="20230227T124452Z">
+        <seg>OmegaT 界面通常并不依赖按钮来访问其功能。相反，功能是从菜单中调用的，或者，对于大多数功能来说，可以通过分配给它们的默认快捷键来调用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -57479,6 +58295,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The flip side of the preceding example. Find words starting with consonant that come after “an” rather than “a”.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T114116Z" creationid="WynnChen" creationdate="20230227T114116Z">
+        <seg>与上一个例子相反。查找出现在“an”而非“a”之后的辅音开头的单词。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The folder contains 2 files: index.html and &lt;e3&gt;&lt;a4&gt;OmegaT&lt;/a4&gt;.app.&lt;/e3&gt; Copy the folder to a suitable folder (e.g. Applications).</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120207T112154Z">
@@ -57531,6 +58355,14 @@ instead.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T104524Z" creationid="WynnChen" creationdate="20221222T104524Z">
         <seg>你可以在此文件夹中安装外部插件。详情请参阅&lt;l0/&gt;首选项。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The folder where you can install external plugins. The prefered location for plugin manual installs is the &lt;l0/&gt; folder located in the &lt;l1&gt;configuration&lt;/l1&gt; folder. See the &lt;l2/&gt; preferences for details.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T125953Z" creationid="WynnChen" creationdate="20230227T105909Z">
+        <seg>可以在此文件夹中安装外部插件。手动安装插件的首选位置是位于&lt;l1&gt;配置信息&lt;/l1&gt;文件夹中的 &lt;l0/&gt; 文件夹。有关详细信息，请参阅 &lt;l2/&gt; 首选项。</seg>
       </tuv>
     </tu>
     <tu>
@@ -58307,6 +59139,14 @@ your programs, too.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The macOS files must be renamed &lt;l0/&gt; and &lt;l1/&gt; for OmegaT to recognize them.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T130214Z" creationid="WynnChen" creationdate="20230227T130214Z">
+        <seg>macOS 文件必须重命名为 &lt;l0/&gt; 和 &lt;l1/&gt; 后 OmegaT 才能识别它们。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The machine translation pane, when opened, contains the suggestions by machine translation tools for the current segment.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120219T040414Z">
@@ -58603,6 +59443,14 @@ your programs, too.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The next section describes the syntax used in the shortcut definition files, and provides an example modification.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T130243Z" creationid="WynnChen" creationdate="20230227T130243Z">
+        <seg>下一章节介绍快捷键定义文件中所使用的语法，并提供修改示例。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The next segment with a note attached to it, will open.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20200120T063515Z" creationid="Fu Rhong" creationdate="20131117T114526Z">
@@ -58631,6 +59479,14 @@ your programs, too.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="weiyi" changedate="20180420T082107Z" creationid="weiyi" creationdate="20180405T150323Z">
         <seg>获得的API Key需启动时通过 &lt;c0&gt;yandex.api.key&lt;/c0&gt; 命令行参数传入在OmegaT。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The official reference for regular expressions used in Java.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T120117Z" creationid="WynnChen" creationdate="20230227T115801Z">
+        <seg>Java 中使用的正则表达式的官方参考资料。</seg>
       </tuv>
     </tu>
     <tu>
@@ -59318,6 +60174,14 @@ protocols for communication across the network.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The same mechanisms and dialogs are used to define global and local segmentation rules.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T122723Z" creationid="WynnChen" creationdate="20230227T122723Z">
+        <seg>定义全局和局部分割规则使用的是相同的机制和对话框。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The same option in the &lt;l0/&gt; dialog allows you to apply regular expressions to both the search and replaced text.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221213T020553Z" creationid="WynnChen" creationdate="20221213T020553Z">
@@ -59594,6 +60458,22 @@ protocols for communication across the network.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120203T120842Z">
         <seg>使用的快捷字符尝试反映标签所代表的格式含义（例如 b 表示粗体，i 表示斜体）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The shortcut definition file for the editor.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T125805Z" creationid="WynnChen" creationdate="20230227T125805Z">
+        <seg>编辑器的快捷键定义文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The shortcut definition file for the menus and a few other items.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T125752Z" creationid="WynnChen" creationdate="20230227T125752Z">
+        <seg>菜单和其他一些项目的快捷键定义文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60929,6 +61809,14 @@ protocols for communication across the network.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>There are two shortcut definition files.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T125739Z" creationid="WynnChen" creationdate="20230227T125739Z">
+        <seg>有两个快捷键定义文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>There are two strategies for segments that contain only such invariable text.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120131T133002Z">
@@ -62021,6 +62909,14 @@ the server.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="18261" changedate="20180413T012154Z" creationid="18261" creationdate="20180412T125810Z">
         <seg>这确保了用户的利益受到保护，并且使OmegaT有&lt;a0&gt; Softpedia“100％免费”的保证&lt;/a0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This expression finds number and separator patterns matching possible dates, but does not validate them. It will also find patterns such as “5136/36/71”.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T114910Z" creationid="WynnChen" creationdate="20230227T114910Z">
+        <seg>此表达式查找与可能的日期相匹配的数字和分隔符模式，但并不会对其进行验证。它可能会找到诸如“5136/36/71”这样的模式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -63141,6 +64037,14 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This section presents a few examples demonstrating how the various expressions described above can be combined to perform powerful searches in OmegaT.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T113252Z" creationid="WynnChen" creationdate="20230227T113252Z">
+        <seg>本章节提供一些示例，演示如何将上述各种表达式组合在一起来在 OmegaT 中执行强大的搜索。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This section presents various types of regular expression, ranging from the simple to the complex.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20230109T033222Z" creationid="WynnChen" creationdate="20230109T033222Z">
@@ -63917,6 +64821,14 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
 to attach them to the start of each source file to most effectively
 state the exclusion of warranty; and each file should have at least
 the "copyright" line and a pointer to where the full notice is found.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To do so, you have to put the appropriate shortcut definition file in your OmegaT configuration folder. See the &lt;l0/&gt; appendix for details.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T125650Z" creationid="WynnChen" creationdate="20230227T125650Z">
+        <seg>为此，你必须将相应的快捷键定义文件放在 OmegaT 的配置文件夹中。详细信息请参阅&lt;l0/&gt;附录。</seg>
       </tuv>
     </tu>
     <tu>
@@ -65451,6 +66363,14 @@ install.sh.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190831T155405Z" creationid="WynnChen" creationdate="20190831T155405Z">
         <seg>翻译记忆工具使用称为片段的文本单元。&lt;a0&gt;OmegaT&lt;/a0&gt; 有两种方式来分割文本：按段落或按语句分割（亦称为“基于规则的分割”）。要选择分割的类型，请从主菜单中选择&lt;m1&gt; &lt;g2&gt;项目&lt;/g2&gt; &lt;g3&gt;属性...&lt;/g3&gt; &lt;/m1&gt;，然后勾选或取消勾选所提供的复选框。段落分割在某些情况下是有利的，例如在高度创造性或讲究文体的翻译中，译者可能想要整个改变语句的顺序；然而，对于大多数项目而言，语句分割是首选的选择，因为它能更好地与之前的翻译相匹配。如果选用了语句分割，你可以通过从主菜单中选择&lt;m4&gt; &lt;g5&gt;选项&lt;/g5&gt; &lt;g6&gt;片段分割...&lt;/g6&gt; &lt;/m4&gt;来设置规则。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translation memory tools work with textual units called segments. When a translation is entered, the segment containing the source text is stored with its translation in the project memory, and subsequently used to match other source segments in the project.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T120540Z" creationid="WynnChen" creationdate="20230227T120540Z">
+        <seg>翻译记忆工具使用称为片段（segment）的文本单元。输入翻译时，包含着原文文本的片段会与其译文一起存储在项目记忆库中，随后用于匹配项目中的其他原文片段。</seg>
       </tuv>
     </tu>
     <tu>
@@ -67633,6 +68553,22 @@ OmegaT 选项：
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T071808Z" creationid="wynnc" creationdate="20210504T071808Z">
         <seg>用 &lt;g0&gt;ID&lt;/g0&gt; 比较模式来对齐 键=值 文本。即使两个文件中键的顺序不同或两个文件包含的信息数量不等，这种方式也有效。仅当两个文件都被识别为 键=值 文件时才会出现此选项。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the &lt;l0/&gt; project property to limit the scope of the segmentation rules to the current project.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T122817Z" creationid="WynnChen" creationdate="20230227T122817Z">
+        <seg>使用&lt;l0/&gt;项目属性可以将片段分割规则的作用范围限制为当前项目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the &lt;l0/&gt; project property to select the type of segmentation.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T120613Z" creationid="WynnChen" creationdate="20230227T120613Z">
+        <seg>使用&lt;l0/&gt;项目属性来选择片段分割类型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -69991,6 +70927,14 @@ Your page is not found</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Windows and Linux default shortcuts</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T130142Z" creationid="WynnChen" creationdate="20230227T130124Z">
+        <seg>Windows 和 Linux 的默认快捷键</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Windows and Linux users: if you are confident that your system already has a suitable version of the JRE installed, you can install the version of OmegaT without the JRE (this is indicated in the name of the version,"Without_JRE").</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Puzzlist" changedate="20130922T041416Z" creationid="Puzzlist" creationdate="20130922T041416Z">
@@ -70869,6 +71813,14 @@ covered work, you indicate your acceptance of this License to do so.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can achieve a similar result by starting OmegaT from the command line. See the &lt;l0/&gt; how-to for details.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T122913Z" creationid="WynnChen" creationdate="20230227T122913Z">
+        <seg>可以通过从命令行启动 OmegaT 达成类似的结果。有关详细信息，请参阅&lt;l0/&gt;指南。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can add &lt;a0&gt;OmegaT&lt;/a0&gt; to your menus as follows:</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190902T105721Z">
@@ -71153,6 +72105,14 @@ from there.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can copy the default OmegaT shortcut files from the OmegaT development site on Sourceforge to &lt;l0&gt;your configuration folder&lt;/l0&gt; and modify them to suit your needs:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T130108Z" creationid="WynnChen" creationdate="20230227T125904Z">
+        <seg>你可以从 Sourceforge 上的 OmegaT 开发站点复制默认的 OmegaT 快捷键文件到&lt;l0&gt;你的配置信息文件夹&lt;/l0&gt;，然后根据你的需要对其进行修改：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can create a new project for each new job, and you can add new source files to a project at anytime.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20200120T014920Z" creationid="17012" creationdate="20180405T112814Z">
@@ -71189,6 +72149,14 @@ from there.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="lenovo" changedate="20180420T061824Z" creationid="think" creationdate="20180416T085731Z">
         <seg>您可以自定义 kaptain 启动脚本，以使您的偏好设置为默认； 只需在文本编辑器中编辑 omegat.kaptn 文件即可。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can customize the majority of the shortcuts in OmegaT. See the &lt;l0/&gt; section for details.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T124704Z" creationid="WynnChen" creationdate="20230227T124704Z">
+        <seg>你可以自定义 OmegaT 中的大多数快捷键。详细信息请参阅&lt;l0/&gt;章节。</seg>
       </tuv>
     </tu>
     <tu>
@@ -71775,6 +72743,14 @@ linux-install.sh 脚本的文件夹，然后用 ./linux-install.sh 执行脚本�
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131114T132835Z" creationid="Fu Rhong" creationdate="20131114T132835Z">
         <seg>您可以选择&lt;g0&gt;工具&gt;统计&lt;/g0&gt;查看该文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can visualize segmentation as the process of moving the cursor along the text, one character at a time, and looking for the position where a break will occur, or where a break will not be allowed.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T122616Z" creationid="WynnChen" creationdate="20230227T122338Z">
+        <seg>你可以将片段分割想象为沿着文本移动光标的过程，一次移动一个字符，查找会进行断开或不允许进行断开的位置。</seg>
       </tuv>
     </tu>
     <tu>
@@ -72641,6 +73617,14 @@ If the project contains files but their content is not displayed here:
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>[\w\.-]+@[\w\.-]+</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T115352Z" creationid="WynnChen" creationdate="20230227T115352Z">
+        <seg>[\w\.-]+@[\w\.-]+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>[^\n\r\t]</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20230110T095818Z" creationid="WynnChen" creationdate="20230110T095818Z">
@@ -72733,6 +73717,14 @@ If the project contains files but their content is not displayed here:
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120215T114843Z">
         <seg>\.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\. \h+$</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T113807Z" creationid="WynnChen" creationdate="20230227T113807Z">
+        <seg>\. \h+$</seg>
       </tuv>
     </tu>
     <tu>
@@ -72889,6 +73881,14 @@ If the project contains files but their content is not displayed here:
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>\d{4}([/\.-]\d{1,2}){2}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T114116Z" creationid="WynnChen" creationdate="20230227T114116Z">
+        <seg>\d{4}([/\.-]\d{1,2}){2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>\d{4}/\d{1,3}</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20230103T061939Z" creationid="WynnChen" creationdate="20230103T061939Z">
@@ -72909,6 +73909,22 @@ If the project contains files but their content is not displayed here:
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120214T033556Z">
         <seg>\f</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\h+a\h+[aeiou]</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T113857Z" creationid="WynnChen" creationdate="20230227T113857Z">
+        <seg>\h+a\h+[aeiou]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\h+an\h+[^aeiou]</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T113926Z" creationid="WynnChen" creationdate="20230227T113926Z">
+        <seg>\h+an\h+[^aeiou]</seg>
       </tuv>
     </tu>
     <tu>
@@ -73335,6 +74351,14 @@ If the project contains files but their content is not displayed here:
       </tuv>
       <tuv lang="zh-CN" changeid="liufang" changedate="20180416T122343Z" creationid="liufang" creationdate="20180416T122343Z">
         <seg>并用&lt;c1&gt; COLOR_BLUE &lt;/ c1&gt;替换&lt;c0&gt; COLOR_GREEN &lt;/ c0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>and the text after the location corresponds to the associated &lt;e0&gt;After&lt;/e0&gt; rule.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T122519Z" creationid="WynnChen" creationdate="20230227T122519Z">
+        <seg>且，此位置之后的文本是否符合相应的&lt;e0&gt;后&lt;/e0&gt;规则。</seg>
       </tuv>
     </tu>
     <tu>
@@ -76002,6 +77026,38 @@ If the project contains files but their content is not displayed here:
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>https://github.com/omegat-org/omegat/tree/master/src/org/omegat/gui/main/EditorShortcuts.mac.properties</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T130145Z" creationid="WynnChen" creationdate="20230227T130145Z">
+        <seg>https://github.com/omegat-org/omegat/tree/master/src/org/omegat/gui/main/EditorShortcuts.mac.properties</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://github.com/omegat-org/omegat/tree/master/src/org/omegat/gui/main/EditorShortcuts.properties</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T130129Z" creationid="WynnChen" creationdate="20230227T130129Z">
+        <seg>https://github.com/omegat-org/omegat/tree/master/src/org/omegat/gui/main/EditorShortcuts.properties</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://github.com/omegat-org/omegat/tree/master/src/org/omegat/gui/main/MainMenuShortcuts.mac.properties</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T130144Z" creationid="WynnChen" creationdate="20230227T130144Z">
+        <seg>https://github.com/omegat-org/omegat/tree/master/src/org/omegat/gui/main/MainMenuShortcuts.mac.properties</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://github.com/omegat-org/omegat/tree/master/src/org/omegat/gui/main/MainMenuShortcuts.properties</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T130127Z" creationid="WynnChen" creationdate="20230227T130127Z">
+        <seg>https://github.com/omegat-org/omegat/tree/master/src/org/omegat/gui/main/MainMenuShortcuts.properties</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>https://groups.yahoo.com/neo/groups/OmegaT/info</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190326T160944Z" creationid="WynnChen" creationdate="20190326T160944Z">
@@ -76062,6 +77118,14 @@ If the project contains files but their content is not displayed here:
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20200116T062246Z" creationid="WynnChen" creationdate="20200116T062246Z">
         <seg>https://omegat.sourceforge.net/webstart/OmegaT.jnlp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://regex101.com</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T115836Z" creationid="WynnChen" creationdate="20230227T115836Z">
+        <seg>https://regex101.com</seg>
       </tuv>
     </tu>
     <tu>
@@ -76186,6 +77250,14 @@ If the project contains files but their content is not displayed here:
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>https://unicode.org/reports/tr18/#General_Category_Property</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T110454Z" creationid="WynnChen" creationdate="20230227T110454Z">
+        <seg>https://unicode.org/reports/tr18/#General_Category_Property</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>https://unicode.org/reports/tr18/#Script_Property</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20230224T115404Z" creationid="WynnChen" creationdate="20230224T115404Z">
@@ -76206,6 +77278,14 @@ If the project contains files but their content is not displayed here:
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131112T114347Z" creationid="Fu Rhong" creationdate="20131112T114347Z">
         <seg>https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=9UB6Y2BBF99LL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://www.regular-expressions.info</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T115912Z" creationid="WynnChen" creationdate="20230227T115912Z">
+        <seg>https://www.regular-expressions.info</seg>
       </tuv>
     </tu>
     <tu>
@@ -77448,6 +78528,14 @@ If the project contains files but their content is not displayed here:
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190909T025349Z" creationid="wynnc" creationdate="20190909T025349Z">
         <seg>macOS 用户</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>macOS default shortcuts</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T130140Z" creationid="WynnChen" creationdate="20230227T130140Z">
+        <seg>macOS 的默认快捷键</seg>
       </tuv>
     </tu>
     <tu>
@@ -79987,6 +81075,14 @@ If the project contains files but their content is not displayed here:
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190410T105053Z" creationid="Fu Rhong" creationdate="20131111T122217Z">
         <seg>项目专用的过滤器定义文件 - &lt;f0&gt;omegat\filters.xml&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the text before the location corresponds to a &lt;e0&gt;Before&lt;/e0&gt; rule,</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T122435Z" creationid="WynnChen" creationdate="20230227T122435Z">
+        <seg>此位置之前的文本是否符合&lt;e0&gt;前&lt;/e0&gt;规则，</seg>
       </tuv>
     </tu>
     <tu>
