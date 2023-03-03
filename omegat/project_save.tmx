@@ -4329,6 +4329,14 @@ not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>0 or more &lt;c0&gt;modifier&lt;/c0&gt;</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230303T104106Z" creationid="WynnChen" creationdate="20230303T104039Z">
+        <seg>0 个或更多个&lt;c0&gt;修饰键&lt;/c0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>0. Definitions.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190404T012326Z" creationid="WynnChen" creationdate="20190404T012326Z">
@@ -56074,6 +56082,14 @@ form of a work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;c0&gt;shortcut&lt;/c0&gt; represents the key combination pressed by the user. It takes the following form:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230303T104025Z" creationid="WynnChen" creationdate="20230303T104025Z">
+        <seg>&lt;c0&gt;快捷键&lt;/c0&gt;表示用户按下的组合键。它采用以下形式：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;e0&gt;"-Duser.language=XX"&lt;/e0&gt; argument causes &lt;a1&gt;OmegaT&lt;/a1&gt; to use the language specified rather than the language of the user's operating system.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120208T040139Z">
@@ -57257,6 +57273,14 @@ Please try to correct the error and reload the project.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120203T122651Z">
         <seg>基本的做法是标签序列必须保持相同的顺序。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The basic syntax of the shortcut definitions files is simply:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230303T103917Z" creationid="WynnChen" creationdate="20230303T103856Z">
+        <seg>快捷键定义文件的基本语法很简单：</seg>
       </tuv>
     </tu>
     <tu>
@@ -68613,6 +68637,14 @@ OmegaT 选项：
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use the tables in the &lt;l0/&gt; section below to find the values for &lt;c1&gt;function code&lt;/c1&gt;.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230303T103955Z" creationid="WynnChen" creationdate="20230303T103955Z">
+        <seg>用下面&lt;l0/&gt;章节中的表格来查找&lt;c1&gt;功能代码&lt;/c1&gt;的值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use the upper part as a reference and replace or modify the contents of the editing field with your translation.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120218T123148Z">
@@ -76082,6 +76114,22 @@ If the project contains files but their content is not displayed here:
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>followed by 0 or 1 &lt;c0&gt;event&lt;/c0&gt;</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230303T104102Z" creationid="WynnChen" creationdate="20230303T104102Z">
+        <seg>后面跟着 0 个或 1 个&lt;c0&gt;事件&lt;/c0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>followed by 1 &lt;c0&gt;key&lt;/c0&gt;</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230303T104124Z" creationid="WynnChen" creationdate="20230303T104124Z">
+        <seg>然后跟着 1 个&lt;c0&gt;按键&lt;/c0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>for &amp;All Segments</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20230221T083609Z" creationid="WynnChen" creationdate="20230221T083609Z">
@@ -76158,6 +76206,14 @@ If the project contains files but their content is not displayed here:
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131107T145713Z" creationid="Fu Rhong" creationdate="20131107T145713Z">
         <seg>ful</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>function code=shortcut</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230303T103927Z" creationid="WynnChen" creationdate="20230303T103927Z">
+        <seg>功能代码=快捷键</seg>
       </tuv>
     </tu>
     <tu>
