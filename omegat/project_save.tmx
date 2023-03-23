@@ -2600,6 +2600,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(Call Last Search Window)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043720Z" creationid="WynnChen" creationdate="20230323T043720Z">
+        <seg>（打开上次搜索窗口）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(Do not confuse this folder with the "dictionary" folder in OmegaT projects.) Then select the URL (website address) of an online repository from which to download the dictionary or dictionaries, and paste this URL into the "URL of online dictionaries" field.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Zoe" changedate="20180411T140137Z" creationid="Zoe" creationdate="20180411T135807Z">
@@ -11469,6 +11477,14 @@ included in conveying the object code work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Access Project Contents/Exported TMs</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043600Z" creationid="WynnChen" creationdate="20230323T043600Z">
+        <seg>访问项目内容/导出的翻译记忆库</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Access Project Contents/Glossaries</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190409T045338Z" creationid="lenovo" creationdate="20180411T124310Z">
@@ -11513,6 +11529,14 @@ included in conveying the object code work.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190409T045356Z" creationid="lenovo" creationdate="20180411T124453Z">
         <seg>访问项目内容/译文文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Access Project Contents/Writable Glossary</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043613Z" creationid="WynnChen" creationdate="20230323T043613Z">
+        <seg>访问项目内容/可写词汇表</seg>
       </tuv>
     </tu>
     <tu>
@@ -33032,6 +33056,46 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Insert Bidi Control Character/Left-to-Right Embedding (LRE U+202A)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043814Z" creationid="WynnChen" creationdate="20230323T043814Z">
+        <seg>插入双向控制符/Left-to-Right Embedding (LRE U+202A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert Bidi Control Character/Left-to-Right Mark (LRM U+200E)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043801Z" creationid="WynnChen" creationdate="20230323T043801Z">
+        <seg>插入双向控制符/Left-to-Right Mark (LRM U+200E)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert Bidi Control Character/Pop Directional Formatting (PDF U+202C)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043835Z" creationid="WynnChen" creationdate="20230323T043835Z">
+        <seg>插入双向控制符/Pop Directional Formatting (PDF U+202C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert Bidi Control Character/Right-to-Left Embedding (RLE U+202B)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043822Z" creationid="WynnChen" creationdate="20230323T043822Z">
+        <seg>插入双向控制符/Right-to-Left Embedding (RLE U+202B)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert Bidi Control Character/Right-to-Left Mark (RLM U+200F)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043810Z" creationid="WynnChen" creationdate="20230323T043810Z">
+        <seg>插入双向控制符/Right-to-Left Mark (RLM U+200F)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Insert Match Into Translation</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="钢" changedate="20130503T165111Z">
@@ -49105,6 +49169,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Restart</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043626Z" creationid="WynnChen" creationdate="20230323T043626Z">
+        <seg>重启</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Restart OmegaT to apply these changes</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210916T041420Z" creationid="wynnc" creationdate="20210916T041337Z">
@@ -51519,6 +51591,14 @@ When using regular expressions, the replacement string supports references to gr
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T123248Z" creationid="wynnc" creationdate="20190320T045507Z">
         <seg>选择脚本文件夹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select Source Text</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043641Z" creationid="WynnChen" creationdate="20230323T043641Z">
+        <seg>选择原文文本</seg>
       </tuv>
     </tu>
     <tu>
@@ -74579,6 +74659,14 @@ If the project contains files but their content is not displayed here:
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>alt shift D</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043725Z" creationid="WynnChen" creationdate="20230323T043725Z">
+        <seg>alt shift D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>always, based on the file filter settings,</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T020805Z" creationid="WynnChen" creationdate="20221212T020749Z">
@@ -75482,10 +75570,58 @@ If the project contains files but their content is not displayed here:
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ctrl 1</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043728Z" creationid="WynnChen" creationdate="20230323T043728Z">
+        <seg>ctrl 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl 2</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043729Z" creationid="WynnChen" creationdate="20230323T043729Z">
+        <seg>ctrl 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl 3</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043729Z" creationid="WynnChen" creationdate="20230323T043729Z">
+        <seg>ctrl 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl 4</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043730Z" creationid="WynnChen" creationdate="20230323T043730Z">
+        <seg>ctrl 4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl 5</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043730Z" creationid="WynnChen" creationdate="20230323T043730Z">
+        <seg>ctrl 5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ctrl D</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043449Z" creationid="WynnChen" creationdate="20230323T043449Z">
         <seg>ctrl D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl DOWN</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043727Z" creationid="WynnChen" creationdate="20230323T043727Z">
+        <seg>ctrl DOWN</seg>
       </tuv>
     </tu>
     <tu>
@@ -75498,10 +75634,50 @@ If the project contains files but their content is not displayed here:
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ctrl F</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043648Z" creationid="WynnChen" creationdate="20230323T043648Z">
+        <seg>ctrl F</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl I</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043632Z" creationid="WynnChen" creationdate="20230323T043632Z">
+        <seg>ctrl I</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl K</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043722Z" creationid="WynnChen" creationdate="20230323T043722Z">
+        <seg>ctrl K</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ctrl L</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043516Z" creationid="WynnChen" creationdate="20230323T043516Z">
         <seg>ctrl L</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl M</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043633Z" creationid="WynnChen" creationdate="20230323T043633Z">
+        <seg>ctrl M</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl N (Enter/Tab)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043841Z" creationid="WynnChen" creationdate="20230323T043841Z">
+        <seg>ctrl N (Enter/Tab)</seg>
       </tuv>
     </tu>
     <tu>
@@ -75514,10 +75690,82 @@ If the project contains files but their content is not displayed here:
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ctrl Q</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043628Z" creationid="WynnChen" creationdate="20230323T043628Z">
+        <seg>ctrl Q</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl R</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043632Z" creationid="WynnChen" creationdate="20230323T043632Z">
+        <seg>ctrl R</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ctrl S</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043434Z" creationid="WynnChen" creationdate="20230323T043434Z">
         <seg>ctrl S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl T</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043645Z" creationid="WynnChen" creationdate="20230323T043645Z">
+        <seg>ctrl T</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl U</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043839Z" creationid="WynnChen" creationdate="20230323T043839Z">
+        <seg>ctrl U</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl UP</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043727Z" creationid="WynnChen" creationdate="20230323T043727Z">
+        <seg>ctrl UP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl Y</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043631Z" creationid="WynnChen" creationdate="20230323T043631Z">
+        <seg>ctrl Y</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl Z</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043630Z" creationid="WynnChen" creationdate="20230323T043630Z">
+        <seg>ctrl Z</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl shift A</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043642Z" creationid="WynnChen" creationdate="20230323T043642Z">
+        <seg>ctrl shift A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl shift C</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043646Z" creationid="WynnChen" creationdate="20230323T043646Z">
+        <seg>ctrl shift C</seg>
       </tuv>
     </tu>
     <tu>
@@ -75530,6 +75778,30 @@ If the project contains files but their content is not displayed here:
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ctrl shift F</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043721Z" creationid="WynnChen" creationdate="20230323T043721Z">
+        <seg>ctrl shift F</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl shift G</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043647Z" creationid="WynnChen" creationdate="20230323T043647Z">
+        <seg>ctrl shift G</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl shift I</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043636Z" creationid="WynnChen" creationdate="20230323T043636Z">
+        <seg>ctrl shift I</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ctrl shift N</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043354Z" creationid="WynnChen" creationdate="20230323T043354Z">
@@ -75538,10 +75810,50 @@ If the project contains files but their content is not displayed here:
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ctrl shift R</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043635Z" creationid="WynnChen" creationdate="20230323T043635Z">
+        <seg>ctrl shift R</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl shift S</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043838Z" creationid="WynnChen" creationdate="20230323T043838Z">
+        <seg>ctrl shift S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl shift T</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043643Z" creationid="WynnChen" creationdate="20230323T043643Z">
+        <seg>ctrl shift T</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl shift U</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043840Z" creationid="WynnChen" creationdate="20230323T043840Z">
+        <seg>ctrl shift U</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ctrl shift W</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043432Z" creationid="WynnChen" creationdate="20230323T043432Z">
         <seg>ctrl shift W</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl shift X</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043837Z" creationid="WynnChen" creationdate="20230323T043837Z">
+        <seg>ctrl shift X</seg>
       </tuv>
     </tu>
     <tu>
@@ -76040,6 +76352,14 @@ If the project contains files but their content is not displayed here:
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>editSearchDictionaryMenuItem</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043724Z" creationid="WynnChen" creationdate="20230323T043724Z">
+        <seg>editSearchDictionaryMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>editSelectFuzzy1MenuItem</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190409T061430Z" creationid="WynnChen" creationdate="20190409T061430Z">
@@ -76092,6 +76412,14 @@ If the project contains files but their content is not displayed here:
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190409T061406Z" creationid="WynnChen" creationdate="20190409T061406Z">
         <seg>editSelectFuzzyPrevMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editSelectSourceMenuItem</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043641Z" creationid="WynnChen" creationdate="20230323T043641Z">
+        <seg>editSelectSourceMenuItem</seg>
       </tuv>
     </tu>
     <tu>
@@ -78084,6 +78412,46 @@ If the project contains files but their content is not displayed here:
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>insertCharsLRE</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043815Z" creationid="WynnChen" creationdate="20230323T043815Z">
+        <seg>insertCharsLRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>insertCharsLRM</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043802Z" creationid="WynnChen" creationdate="20230323T043802Z">
+        <seg>insertCharsLRM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>insertCharsPDF</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043836Z" creationid="WynnChen" creationdate="20230323T043836Z">
+        <seg>insertCharsPDF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>insertCharsRLE</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043823Z" creationid="WynnChen" creationdate="20230323T043823Z">
+        <seg>insertCharsRLE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>insertCharsRLM</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043810Z" creationid="WynnChen" creationdate="20230323T043810Z">
+        <seg>insertCharsRLM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>interfaces that do not display Appropriate Legal Notices, your</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="xulihang" changedate="20180405T033423Z" creationid="weiyi" creationdate="20180404T162916Z">
@@ -79068,10 +79436,58 @@ If the project contains files but their content is not displayed here:
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>meta 1</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043728Z" creationid="WynnChen" creationdate="20230323T043728Z">
+        <seg>meta 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta 2</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043729Z" creationid="WynnChen" creationdate="20230323T043729Z">
+        <seg>meta 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta 3</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043730Z" creationid="WynnChen" creationdate="20230323T043730Z">
+        <seg>meta 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta 4</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043730Z" creationid="WynnChen" creationdate="20230323T043730Z">
+        <seg>meta 4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta 5</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043731Z" creationid="WynnChen" creationdate="20230323T043731Z">
+        <seg>meta 5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>meta D</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043450Z" creationid="WynnChen" creationdate="20230323T043450Z">
         <seg>meta D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta DOWN</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043728Z" creationid="WynnChen" creationdate="20230323T043728Z">
+        <seg>meta DOWN</seg>
       </tuv>
     </tu>
     <tu>
@@ -79084,10 +79500,50 @@ If the project contains files but their content is not displayed here:
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>meta F</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043648Z" creationid="WynnChen" creationdate="20230323T043648Z">
+        <seg>meta F</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta I</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043633Z" creationid="WynnChen" creationdate="20230323T043633Z">
+        <seg>meta I</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta K</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043723Z" creationid="WynnChen" creationdate="20230323T043723Z">
+        <seg>meta K</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>meta L</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043516Z" creationid="WynnChen" creationdate="20230323T043516Z">
         <seg>meta L</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta M</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043634Z" creationid="WynnChen" creationdate="20230323T043634Z">
+        <seg>meta M</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta N (Enter/Tab)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043851Z" creationid="WynnChen" creationdate="20230323T043851Z">
+        <seg>meta N (Enter/Tab)</seg>
       </tuv>
     </tu>
     <tu>
@@ -79100,10 +79556,82 @@ If the project contains files but their content is not displayed here:
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>meta Q</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043629Z" creationid="WynnChen" creationdate="20230323T043629Z">
+        <seg>meta Q</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta R</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043632Z" creationid="WynnChen" creationdate="20230323T043632Z">
+        <seg>meta R</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>meta S</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043434Z" creationid="WynnChen" creationdate="20230323T043434Z">
         <seg>meta S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta T</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043645Z" creationid="WynnChen" creationdate="20230323T043645Z">
+        <seg>meta T</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta U</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043839Z" creationid="WynnChen" creationdate="20230323T043839Z">
+        <seg>meta U</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta UP</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043727Z" creationid="WynnChen" creationdate="20230323T043727Z">
+        <seg>meta UP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta Y</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043631Z" creationid="WynnChen" creationdate="20230323T043631Z">
+        <seg>meta Y</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta Z</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043630Z" creationid="WynnChen" creationdate="20230323T043630Z">
+        <seg>meta Z</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta shift A</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043642Z" creationid="WynnChen" creationdate="20230323T043642Z">
+        <seg>meta shift A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta shift C</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043646Z" creationid="WynnChen" creationdate="20230323T043646Z">
+        <seg>meta shift C</seg>
       </tuv>
     </tu>
     <tu>
@@ -79116,6 +79644,30 @@ If the project contains files but their content is not displayed here:
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>meta shift F</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043722Z" creationid="WynnChen" creationdate="20230323T043722Z">
+        <seg>meta shift F</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta shift G</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043648Z" creationid="WynnChen" creationdate="20230323T043648Z">
+        <seg>meta shift G</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta shift I</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043636Z" creationid="WynnChen" creationdate="20230323T043636Z">
+        <seg>meta shift I</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>meta shift N</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043355Z" creationid="WynnChen" creationdate="20230323T043355Z">
@@ -79124,10 +79676,50 @@ If the project contains files but their content is not displayed here:
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>meta shift R</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043635Z" creationid="WynnChen" creationdate="20230323T043635Z">
+        <seg>meta shift R</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta shift S</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043838Z" creationid="WynnChen" creationdate="20230323T043838Z">
+        <seg>meta shift S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta shift T</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043644Z" creationid="WynnChen" creationdate="20230323T043644Z">
+        <seg>meta shift T</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta shift U</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043840Z" creationid="WynnChen" creationdate="20230323T043840Z">
+        <seg>meta shift U</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>meta shift W</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043433Z" creationid="WynnChen" creationdate="20230323T043433Z">
         <seg>meta shift W</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta shift X</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043837Z" creationid="WynnChen" creationdate="20230323T043837Z">
+        <seg>meta shift X</seg>
       </tuv>
     </tu>
     <tu>
@@ -80293,6 +80885,14 @@ If the project contains files but their content is not displayed here:
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>projectAccessExportTMMenuItem</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043600Z" creationid="WynnChen" creationdate="20230323T043600Z">
+        <seg>projectAccessExportTMMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>projectAccessGlossaryMenuItem</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190409T045340Z" creationid="WynnChen" creationdate="20190409T045340Z">
@@ -80313,6 +80913,14 @@ If the project contains files but their content is not displayed here:
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190409T045353Z" creationid="WynnChen" creationdate="20190409T045353Z">
         <seg>projectAccessSourceMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectAccessTMMenuItem</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043544Z" creationid="WynnChen" creationdate="20230323T043544Z">
+        <seg>projectAccessTMMenuItem</seg>
       </tuv>
     </tu>
     <tu>
@@ -80457,6 +81065,14 @@ If the project contains files but their content is not displayed here:
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190409T045022Z" creationid="WynnChen" creationdate="20190409T045022Z">
         <seg>projectReloadMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectRestartMenuItem</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043627Z" creationid="WynnChen" creationdate="20230323T043627Z">
+        <seg>projectRestartMenuItem</seg>
       </tuv>
     </tu>
     <tu>
@@ -80946,6 +81562,14 @@ If the project contains files but their content is not displayed here:
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131108T070121Z" creationid="Fu Rhong" creationdate="20131108T070121Z">
         <seg>sg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>shift F3</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043726Z" creationid="WynnChen" creationdate="20230323T043726Z">
+        <seg>shift F3</seg>
       </tuv>
     </tu>
     <tu>
