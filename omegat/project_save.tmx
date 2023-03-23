@@ -22526,6 +22526,14 @@ project_save.tmx 未真正上传，SVN 切换到不稳定状态。
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>END</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T045910Z" creationid="WynnChen" creationdate="20230323T045910Z">
+        <seg>END</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>END OF TERMS AND CONDITIONS</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190404T012417Z" creationid="WynnChen" creationdate="20190404T012417Z">
@@ -27641,6 +27649,14 @@ authors of previous versions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Go to First Row in Table</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T045905Z" creationid="WynnChen" creationdate="20230323T045905Z">
+        <seg>转到表格第一行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Go to First Segment</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T044921Z" creationid="WynnChen" creationdate="20230323T044921Z">
@@ -27653,6 +27669,14 @@ authors of previous versions.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T045718Z" creationid="WynnChen" creationdate="20230323T045718Z">
         <seg>转到一个表格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to Last Row in Table</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T045910Z" creationid="WynnChen" creationdate="20230323T045910Z">
+        <seg>转到表格最后一行</seg>
       </tuv>
     </tu>
     <tu>
@@ -27917,6 +27941,14 @@ authors of previous versions.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
         <seg>HHC 文件过大！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>HOME</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T045906Z" creationid="WynnChen" creationdate="20230323T045906Z">
+        <seg>HOME</seg>
       </tuv>
     </tu>
     <tu>
@@ -51571,6 +51603,14 @@ When using regular expressions, the replacement string supports references to gr
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l0/&gt; chapter for details.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T050021Z" creationid="WynnChen" creationdate="20230323T050021Z">
+        <seg>有关详细信息，请参阅&lt;l0/&gt;一章。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the &lt;l0/&gt; how-to for details.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T105113Z" creationid="WynnChen" creationdate="20221222T105113Z">
@@ -52311,6 +52351,14 @@ When using regular expressions, the replacement string supports references to gr
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20200121T025011Z" creationid="WynnChen" creationdate="20200121T025011Z">
         <seg>从左侧列表中选择所需的脚本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the source and target languages from the drop-down list, or enter them manually.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T050053Z" creationid="WynnChen" creationdate="20230323T050053Z">
+        <seg>从下拉列表中选择原文语言和译文语言，或手动输入。</seg>
       </tuv>
     </tu>
     <tu>
@@ -63713,6 +63761,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This dialog is used to set the initial project properties when creating a new project or to modify them later, after the project has been created.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T045954Z" creationid="WynnChen" creationdate="20230323T045954Z">
+        <seg>此对话框用于在创建新项目时设置初始项目属性，或在创建项目后对其进行修改。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This dialog lists available file filters, where the filters used by the current project are displayed in bold.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Administrator" changedate="20180411T113001Z" creationid="Administrator" creationdate="20180411T113001Z">
@@ -69225,6 +69281,14 @@ OmegaT 选项：
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T111646Z" creationid="WynnChen" creationdate="20221222T111646Z">
         <seg>用&lt;l0/&gt;&lt;l1/&gt;可在词汇表中输入新词汇。因此，它被称为&lt;e2&gt;可写&lt;/e2&gt;词汇表。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to open the dialog.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T045930Z" creationid="WynnChen" creationdate="20230323T045930Z">
+        <seg>使用&lt;l0/&gt;&lt;l1/&gt;打开该对话框。</seg>
       </tuv>
     </tu>
     <tu>
@@ -75555,10 +75619,26 @@ If the project contains files but their content is not displayed here:
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>autocompleterTableFirstInRow</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T045905Z" creationid="WynnChen" creationdate="20230323T045905Z">
+        <seg>autocompleterTableFirstInRow</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>autocompleterTableLast</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T045726Z" creationid="WynnChen" creationdate="20230323T045726Z">
         <seg>autocompleterTableLast</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>autocompleterTableLastInRow</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T045910Z" creationid="WynnChen" creationdate="20230323T045910Z">
+        <seg>autocompleterTableLastInRow</seg>
       </tuv>
     </tu>
     <tu>
@@ -80680,6 +80760,14 @@ If the project contains files but their content is not displayed here:
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043506Z" creationid="WynnChen" creationdate="20230323T043506Z">
         <seg>meta E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta END</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T045728Z" creationid="WynnChen" creationdate="20230323T045728Z">
+        <seg>meta END</seg>
       </tuv>
     </tu>
     <tu>
