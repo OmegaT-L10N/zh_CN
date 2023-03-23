@@ -14620,6 +14620,22 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Auto-completion/History Completion</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T044331Z" creationid="WynnChen" creationdate="20230323T044331Z">
+        <seg>自动完成/历史完成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Auto-completion/History Prediction</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T044336Z" creationid="WynnChen" creationdate="20230323T044336Z">
+        <seg>自动完成/历史预测</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Auto-completion/Show Relevant Suggestions Automatically</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190409T140458Z" creationid="lenovo" creationdate="20180412T004339Z">
@@ -20889,6 +20905,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Dictionary/Use Fuzzy Matching for Dictionary Entries</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T044323Z" creationid="WynnChen" creationdate="20230323T044323Z">
+        <seg>词典/对词典条目使用模糊匹配</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Dictonary pane</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131127T120251Z" creationid="Fu Rhong" creationdate="20131127T120251Z">
@@ -22821,6 +22845,14 @@ by the Free Software Foundation.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T120709Z" creationid="WynnChen" creationdate="20221209T120709Z">
         <seg>编辑器面板</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Editor functions</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T044426Z" creationid="WynnChen" creationdate="20230323T044426Z">
+        <seg>编辑器功能</seg>
       </tuv>
     </tu>
     <tu>
@@ -26765,6 +26797,14 @@ authors of previous versions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Function</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T044501Z" creationid="WynnChen" creationdate="20230323T044501Z">
+        <seg>功能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Function code</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043351Z" creationid="WynnChen" creationdate="20230323T043351Z">
@@ -27355,6 +27395,14 @@ authors of previous versions.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190409T135835Z" creationid="lenovo" creationdate="20180411T135759Z">
         <seg>词汇表/显示 TBX 词汇表的上下文描述</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossary/Use Fuzzy Matching for Glossary Entries</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T044312Z" creationid="WynnChen" creationdate="20230323T044312Z">
+        <seg>词汇表/对词汇表条目使用模糊匹配</seg>
       </tuv>
     </tu>
     <tu>
@@ -34195,6 +34243,14 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It is not possible to add a shortcut to call the script editor, or to modify the shortcuts assigned to the scripts.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T044239Z" creationid="WynnChen" creationdate="20230323T044239Z">
+        <seg>不能添加快捷键来调用脚本编辑器，也不能修改分配给脚本的快捷键。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It is often useful to search for words and phrases in the source text and in your translation, so press &lt;k0&gt;Ctrl+F&lt;/k0&gt; for the &lt;g1&gt;Text Search&lt;/g1&gt; dialog at any time.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221224T033014Z" creationid="Fu Rhong" creationdate="20131117T031654Z">
@@ -35030,6 +35086,14 @@ itself on the first run. Later calls do not need to be online.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20200117T033912Z" creationid="WynnChen" creationdate="20200117T033912Z">
         <seg>Julian Rippon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Jump to Entry in Editor</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T044421Z" creationid="WynnChen" creationdate="20230323T044421Z">
+        <seg>在编辑器中跳转至条目</seg>
       </tuv>
     </tu>
     <tu>
@@ -37119,6 +37183,14 @@ later version.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120211T031642Z">
         <seg>机器翻译</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Machine Translate/Automatically Fetch Translations</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T044250Z" creationid="WynnChen" creationdate="20230323T044250Z">
+        <seg>机器翻译/自动获取翻译</seg>
       </tuv>
     </tu>
     <tu>
@@ -44178,6 +44250,14 @@ unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Open Context Menu</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T044508Z" creationid="WynnChen" creationdate="20230323T044508Z">
+        <seg>打开上下文菜单</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Open Document Format (LibreOffice, OpenOffice.org)</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190523T020344Z" creationid="18261" creationdate="20180412T080631Z">
@@ -50655,6 +50735,14 @@ When using regular expressions, the replacement string supports references to gr
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190515T045433Z" creationid="WynnChen" creationdate="20190515T045433Z">
         <seg>查找所替换的标记</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search Window</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T044345Z" creationid="WynnChen" creationdate="20230323T044345Z">
+        <seg>搜索窗口</seg>
       </tuv>
     </tu>
     <tu>
@@ -60946,6 +61034,14 @@ protocols for communication across the network.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120211T062048Z">
         <seg>选中匹配窗口中显示的第 N 个匹配内容（缺省情况下选中第一个匹配）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The shortcuts that can be modified in the &lt;f0&gt;EditorShortcuts.properties&lt;/f0&gt; file, along with their default values, are presented in the table below</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T044458Z" creationid="WynnChen" creationdate="20230323T044458Z">
+        <seg>下表中列出了可在 &lt;f0&gt;EditorShortcuts.properties&lt;/f0&gt; 文件中修改的快捷键及其默认值</seg>
       </tuv>
     </tu>
     <tu>
@@ -77498,6 +77594,14 @@ If the project contains files but their content is not displayed here:
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>helpUpdateCheckMenuItem</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T044340Z" creationid="WynnChen" creationdate="20230323T044340Z">
+        <seg>helpUpdateCheckMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>her</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131107T150224Z" creationid="Fu Rhong" creationdate="20131107T150224Z">
@@ -78960,6 +79064,14 @@ If the project contains files but their content is not displayed here:
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T053748Z" creationid="wynnc" creationdate="20190323T052843Z">
         <seg>jsch-agent-proxy (jsch-agent-proxy 许可证)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>jumpToEntryInEditor</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T044422Z" creationid="WynnChen" creationdate="20230323T044422Z">
+        <seg>jumpToEntryInEditor</seg>
       </tuv>
     </tu>
     <tu>
@@ -80861,6 +80973,22 @@ If the project contains files but their content is not displayed here:
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>optionsAutoCompleteHistoryCompletionMenuItem</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T044331Z" creationid="WynnChen" creationdate="20230323T044331Z">
+        <seg>optionsAutoCompleteHistoryCompletionMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>optionsAutoCompleteHistoryPredictionMenuItem</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T044339Z" creationid="WynnChen" creationdate="20230323T044339Z">
+        <seg>optionsAutoCompleteHistoryPredictionMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>optionsAutoCompleteShowAutomaticallyItem</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190409T140459Z" creationid="WynnChen" creationdate="20190409T140459Z">
@@ -80873,6 +81001,14 @@ If the project contains files but their content is not displayed here:
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190409T140548Z" creationid="WynnChen" creationdate="20190409T140548Z">
         <seg>optionsColorsSelectionMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>optionsDictionaryFuzzyMatchingCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T044323Z" creationid="WynnChen" creationdate="20230323T044323Z">
+        <seg>optionsDictionaryFuzzyMatchingCheckBoxMenuItem</seg>
       </tuv>
     </tu>
     <tu>
@@ -80901,6 +81037,14 @@ If the project contains files but their content is not displayed here:
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>optionsGlossaryFuzzyMatchingCheckBoxMenuItem</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T044313Z" creationid="WynnChen" creationdate="20230323T044313Z">
+        <seg>optionsGlossaryFuzzyMatchingCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>optionsGlossaryStemmingCheckBoxMenuItem</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190409T140426Z" creationid="WynnChen" creationdate="20190409T140426Z">
@@ -80913,6 +81057,22 @@ If the project contains files but their content is not displayed here:
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190409T140329Z" creationid="WynnChen" creationdate="20190409T140329Z">
         <seg>optionsGlossaryTBXDisplayContextCheckBoxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>optionsMTAutoFetchCheckboxMenuItem</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T044252Z" creationid="WynnChen" creationdate="20230323T044252Z">
+        <seg>optionsMTAutoFetchCheckboxMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>optionsPreferencesMenuItem</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T044240Z" creationid="WynnChen" creationdate="20230323T044240Z">
+        <seg>optionsPreferencesMenuItem</seg>
       </tuv>
     </tu>
     <tu>
