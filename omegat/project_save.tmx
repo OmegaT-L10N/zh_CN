@@ -300,6 +300,14 @@ License.  Each licensee is addressed as "you".  "Licensees" and
     </tu>
     <tu>
       <tuv lang="en">
+        <seg># editMultipleAlternate=</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T031849Z" creationid="WynnChen" creationdate="20230323T031849Z">
+        <seg># editMultipleAlternate=</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>#!/bin/bash java
 java -jar OmegaT.jar $*</seg>
       </tuv>
@@ -5503,6 +5511,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;c0&gt;event&lt;/c0&gt; can be: &lt;o1&gt;typed&lt;/o1&gt;, &lt;o2&gt;pressed&lt;/o2&gt;, &lt;o3&gt;released&lt;/o3&gt;</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T025928Z" creationid="WynnChen" creationdate="20230323T025846Z">
+        <seg>&lt;c0&gt;事件&lt;/c0&gt;可以是：&lt;o1&gt;键入&lt;/o1&gt;、&lt;o2&gt;按下&lt;/o2&gt;、&lt;o3&gt;释放&lt;/o3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;c0&gt;projectOpenMenuItem=shift ctrl O&lt;/c0&gt;.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190409T044502Z" creationid="WynnChen" creationdate="20190409T044502Z">
@@ -7851,10 +7867,26 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;l0&gt;altGraph&lt;/l0&gt; refers to the &lt;e1&gt;Alt&lt;/e1&gt; key to the right of the spacebar on keyboards with two &lt;e2&gt;Alt&lt;/e2&gt; keys.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T025804Z" creationid="WynnChen" creationdate="20230323T025804Z">
+        <seg>&lt;l0&gt;altGraph&lt;/l0&gt; 指的是带有两个 &lt;e2&gt;Alt&lt;/e2&gt; 键的键盘上在空格右边的那个 &lt;e1&gt;Alt&lt;/e1&gt; 键。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;l0&gt;an?␣&lt;/l0&gt; (where “␣” represents a single space).</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221224T031108Z" creationid="WynnChen" creationdate="20221224T031108Z">
         <seg>&lt;l0&gt;an?␣&lt;/l0&gt;（其中的“␣”代表单个空格）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;meta&lt;/l0&gt; refers to the key with the Windows logo on most keyboards for Windows or Linux systems, and to the &lt;l1&gt;command&lt;/l1&gt; on macOS.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T025633Z" creationid="WynnChen" creationdate="20230323T025633Z">
+        <seg>&lt;l0&gt;meta&lt;/l0&gt; 对于 Windows 或 Linux 系统指的是大多数键盘上带有 Windows 徽标的那个键，在 macOS 上则是 &lt;l1&gt;command&lt;/l1&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11789,6 +11821,14 @@ included in conveying the object code work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Adding a shortcut</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T031118Z" creationid="WynnChen" creationdate="20230323T031118Z">
+        <seg>添加快捷键</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Adding new source files</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190902T102210Z" creationid="wynnc" creationdate="20190902T102210Z">
@@ -14104,6 +14144,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190902T084916Z" creationid="wynnc" creationdate="20190902T084752Z">
         <seg>由于很容易获得大量关于 SVN 和 Git 的信息，在这里我们不描述它们如何工作，而只描述 OmegaT 如何使用它们。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>As shown in the &lt;l0&gt;Edit menu table&lt;/l0&gt; below, the function code for the &lt;g1&gt;Create Alternative Translation&lt;/g1&gt; function is &lt;c2&gt;editMultipleAlternate&lt;/c2&gt;.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T031821Z" creationid="WynnChen" creationdate="20230323T031607Z">
+        <seg>如下&lt;l0&gt;编辑菜单表格&lt;/l0&gt;所示，&lt;g1&gt;创建不同译文&lt;/g1&gt;功能对应的功能代码为 &lt;c2&gt;editMultipleAlternate&lt;/c2&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22821,6 +22869,14 @@ Your help page not found</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Empty lines and comments can be added to organize the list and make it easier to read. A comment line starts with a &lt;c0&gt;#&lt;/c0&gt;, and everything after that is ignored by the application.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T030214Z" creationid="WynnChen" creationdate="20230323T030214Z">
+        <seg>可以添加空行和注释来组织列表使其更易于阅读。注释行以 &lt;c0&gt;#&lt;/c0&gt; 开头，之后的所有内容都会被应用程序忽略。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Empty lines are accepted and comment lines should start with "//".</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120221T114701Z">
@@ -28335,6 +28391,14 @@ prior to 60 days after the cessation.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>However, you may want to remove the &lt;k0&gt;S&lt;/k0&gt; key from the shortcut to make it only &lt;k1&gt;&lt;k2&gt;Ctrl&lt;/k2&gt;&lt;k3&gt;W&lt;/k3&gt;&lt;/k1&gt; (or &lt;k4&gt;&lt;k5&gt;Command&lt;/k5&gt;&lt;k6&gt;W&lt;/k6&gt;&lt;/k4&gt; on macOS) to match the shortcut you use in other applications.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T031020Z" creationid="WynnChen" creationdate="20230323T030832Z">
+        <seg>但是，你可能想要从中删除 &lt;k0&gt;S&lt;/k0&gt; 键让它只要 &lt;k1&gt;&lt;k2&gt;Ctrl&lt;/k2&gt;&lt;k3&gt;W&lt;/k3&gt;&lt;/k1&gt;（或者 &lt;k4&gt;&lt;k5&gt;Command&lt;/k5&gt;&lt;k6&gt;W&lt;/k6&gt;&lt;/k4&gt;，在 macOS 上）来匹配在其他应用程序中使用的快捷键。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>However, you should take precautions against data loss when using &lt;a1&gt;OmegaT&lt;/a1&gt;, just as with any other application.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120211T135656Z">
@@ -31073,6 +31137,14 @@ to use Java Web Start.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="think" changedate="20180416T065358Z" creationid="think" creationdate="20180416T065358Z">
         <seg>如果您的文件里含有大量此类不方便的中断，通过在OmegaT和Infix之间切换来找到它们的位置并一次性删除它们将会更加高效。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If your language pair calls for the frequent use of &lt;l0&gt;alternative translations&lt;/l0&gt;, you may want to assign a shortcut to that function since it does not have one by default.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T031407Z" creationid="WynnChen" creationdate="20230323T031219Z">
+        <seg>如果你的语言组合需要经常使用&lt;l0&gt;多重备选译文&lt;/l0&gt;，你可能希望为其分配一个快捷键，因为在默认情况下它没有快捷键。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38488,6 +38560,14 @@ later version.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Modifying a shortcut</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T030718Z" creationid="WynnChen" creationdate="20230323T030718Z">
+        <seg>修改快捷键</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Modifying tag group order may result in the nesting of a tag group within another tag group.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120205T115421Z">
@@ -44022,6 +44102,14 @@ unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20200120T082736Z" creationid="WynnChen" creationdate="20200120T082736Z">
         <seg>打开生成的 &lt;f1&gt;/target&lt;/f1&gt; 文件夹中 &lt;f0&gt;.UTF8&lt;/f0&gt; 文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open the &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; you have copied to &lt;l1&gt;your configuration folder&lt;/l1&gt; in a text editor.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T031523Z" creationid="WynnChen" creationdate="20230323T031523Z">
+        <seg>用文本编辑器打开复制到&lt;l1&gt;你的配置文件夹&lt;/l1&gt;中的 &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49737,6 +49825,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Save and close the file. The next time you start OmegaT, your new shortcut should be active and displayed next to the name of the function in the menu.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T032058Z" creationid="WynnChen" creationdate="20230323T032058Z">
+        <seg>保存并关闭文件。下一次启动 OmegaT 时，这个新的快捷键就会生效并显示在菜单中此功能的名称旁边。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Save aut&amp;o-populated status</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T074406Z" creationid="wynnc" creationdate="20190323T074406Z">
@@ -50519,6 +50615,14 @@ When using regular expressions, the replacement string supports references to gr
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120215T125232Z">
         <seg>搜索 &lt;l0&gt;open file&lt;/l0&gt; 将找到所有 &lt;e1&gt;&lt;l2&gt;open file&lt;/l2&gt;&lt;/e1&gt; 字符串出现的地方，但不会找到 &lt;e3&gt;&lt;l4&gt;file opened&lt;/l4&gt;&lt;/e3&gt; 或 &lt;e5&gt;&lt;l6&gt;open input file&lt;/l6&gt;&lt;/e5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Searching for that code in the file will bring you to the following line:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T031848Z" creationid="WynnChen" creationdate="20230323T031848Z">
+        <seg>在文件中搜索此代码将定位到如下行：</seg>
       </tuv>
     </tu>
     <tu>
@@ -57783,6 +57887,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The default shortcut for &lt;l0&gt;closing a project&lt;/l0&gt; is defined on Windows and Linux as:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T030834Z" creationid="WynnChen" creationdate="20230323T030757Z">
+        <seg>&lt;l0&gt;关闭项目&lt;/l0&gt;的默认快捷键在 Windows 和 Linux 上定义为：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The default writable glossary is located in the the &lt;f0&gt;/glossary&lt;/f0&gt; project folder and is called &lt;f1&gt;glossary.txt&lt;/f1&gt;.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T051156Z" creationid="wynnc" creationdate="20210504T051156Z">
@@ -57995,6 +58107,14 @@ instead.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Wyndy" changedate="20180418T131819Z" creationid="Wyndy" creationdate="20180418T131819Z">
         <seg>对客户而言，要确保满足上述两个条件，最简单的方法就是在把文本发给译员之前先自行预翻译（从而确定了切分规则），并且在收到中间形式的译后双语文件后，用自选的 CAT 工具创建翻译记忆（从而确保翻译记忆所包含的格式信息与今后的项目兼容）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The easiest way to modify the shortcuts is to download copies of the default files to &lt;l0&gt;your configuration folder&lt;/l0&gt;, as noted above, and make the changes you want there.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T030713Z" creationid="WynnChen" creationdate="20230323T030713Z">
+        <seg>修改快捷键最简单的方法是下载默认文件的副本到上文所述的&lt;l0&gt;你的配置文件夹&lt;/l0&gt;中，并按需对其进行修改。</seg>
       </tuv>
     </tu>
     <tu>
@@ -59015,6 +59135,14 @@ software for all its users.  We, the Free Software Foundation, use the
 GNU General Public License for most of our software; it applies also to
 any other work released this way by its authors.  You can apply it to
 your programs, too.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The line is currently a comment. Delete the &lt;c0&gt;#&lt;/c0&gt; at the beginning of the line so OmegaT will recognize the shortcut, and add &lt;o1&gt;alt X&lt;/o1&gt; after the &lt;c2&gt;=&lt;/c2&gt; sign at the end of the line:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T032009Z" creationid="WynnChen" creationdate="20230323T032009Z">
+        <seg>这行目前是个注释。删除行首的 &lt;c0&gt;#&lt;/c0&gt;，这样 OmegaT 就能识别此快捷键，并且在行尾的 &lt;c2&gt;=&lt;/c2&gt; 之后添加 &lt;o1&gt;alt X&lt;/o1&gt;：</seg>
       </tuv>
     </tu>
     <tu>
@@ -60842,6 +60970,14 @@ protocols for communication across the network.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20200122T093356Z" creationid="WynnChen" creationdate="20200122T093356Z">
         <seg>状态栏在主窗口的底部显示有关工作流的信息。该栏为用户提供了关于正在进行的特定操作的反馈。它还显示着针对当前片段的模糊匹配和词汇表匹配的数量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The steps below demonstrate how to assign the &lt;k0&gt;&lt;k1&gt;Alt&lt;/k1&gt;&lt;k2&gt;X&lt;/k2&gt;&lt;/k0&gt; shortcut to the &lt;l3/&gt;&lt;l4/&gt; menu item.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T031433Z" creationid="WynnChen" creationdate="20230323T031433Z">
+        <seg>以下步骤演示了如何将 &lt;k0&gt;&lt;k1&gt;Alt&lt;/k1&gt;&lt;k2&gt;X&lt;/k2&gt;&lt;/k0&gt; 快捷键分配给 &lt;l3/&gt;&lt;l4/&gt; 菜单项。</seg>
       </tuv>
     </tu>
     <tu>
@@ -64845,6 +64981,14 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
 to attach them to the start of each source file to most effectively
 state the exclusion of warranty; and each file should have at least
 the "copyright" line and a pointer to where the full notice is found.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To do so, modify the &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt; as follows for Windows or Linux:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T031102Z" creationid="WynnChen" creationdate="20230323T031102Z">
+        <seg>要达成这点，对于 Windows 或 Linux，要这么修改 &lt;f0&gt;MainMenuShortcuts.properties&lt;/f0&gt;：</seg>
       </tuv>
     </tu>
     <tu>
@@ -74339,6 +74483,14 @@ If the project contains files but their content is not displayed here:
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>and &lt;c0&gt;key&lt;/c0&gt; can be any key available on your keyboard. You can refer to the &lt;l1&gt;table presenting the different editor shortcuts&lt;/l1&gt; to find the values for keys such as &lt;l2&gt;Home&lt;/l2&gt;, &lt;l3&gt;Page Up&lt;/l3&gt;, or the arrow keys.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T030121Z" creationid="WynnChen" creationdate="20230323T025908Z">
+        <seg>而&lt;c0&gt;按键&lt;/c0&gt;可以是键盘上的任意键。可以参考&lt;l1&gt;展示不同编辑器快捷键的表格&lt;/l1&gt;来查找诸如 &lt;l2&gt;Home&lt;/l2&gt;、&lt;l3&gt;Page Up&lt;/l3&gt;、或方向键等各种按键的值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>and confirm with ENTER.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="lenovo" changedate="20180420T061946Z" creationid="think" creationdate="20180416T090504Z">
@@ -74367,6 +74519,14 @@ If the project contains files but their content is not displayed here:
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20200116T064124Z">
         <seg>以及很多、很多大有助益的人</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>and on macOS as:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T030807Z" creationid="WynnChen" creationdate="20230323T030807Z">
+        <seg>在 macOS 上是：</seg>
       </tuv>
     </tu>
     <tu>
@@ -75596,6 +75756,14 @@ If the project contains files but their content is not displayed here:
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190409T134859Z" creationid="WynnChen" creationdate="20190409T134859Z">
         <seg>editMultipleAlternate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editMultipleAlternate=alt X</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T032010Z" creationid="WynnChen" creationdate="20230323T032010Z">
+        <seg>editMultipleAlternate=alt X</seg>
       </tuv>
     </tu>
     <tu>
@@ -79637,6 +79805,14 @@ If the project contains files but their content is not displayed here:
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>or as follows for macOS:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T031109Z" creationid="WynnChen" creationdate="20230323T031109Z">
+        <seg>对于 macOS 则是：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>or never and only save the target file in the encoding specified in the file filter settings.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T021027Z" creationid="WynnChen" creationdate="20221212T021027Z">
@@ -79897,6 +80073,38 @@ If the project contains files but their content is not displayed here:
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190409T045027Z" creationid="WynnChen" creationdate="20190409T045027Z">
         <seg>projectCloseMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectCloseMenuItem=ctrl W</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T031103Z" creationid="WynnChen" creationdate="20230323T031103Z">
+        <seg>projectCloseMenuItem=ctrl W</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectCloseMenuItem=ctrl shift W</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T030758Z" creationid="WynnChen" creationdate="20230323T030758Z">
+        <seg>projectCloseMenuItem=ctrl shift W</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectCloseMenuItem=meta W</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T031110Z" creationid="WynnChen" creationdate="20230323T031110Z">
+        <seg>projectCloseMenuItem=meta W</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectCloseMenuItem=meta shift W</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T030812Z" creationid="WynnChen" creationdate="20230323T030812Z">
+        <seg>projectCloseMenuItem=meta shift W</seg>
       </tuv>
     </tu>
     <tu>
@@ -81859,6 +82067,14 @@ If the project contains files but their content is not displayed here:
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20200117T033918Z" creationid="WynnChen" creationdate="20200117T033918Z">
         <seg>weLocalize</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>where &lt;c0&gt;modifier&lt;/c0&gt; can be: &lt;l1&gt;shift&lt;/l1&gt;, &lt;l2&gt;ctrl&lt;/l2&gt;, &lt;l3&gt;meta&lt;/l3&gt;, &lt;l4&gt;alt&lt;/l4&gt;, or &lt;l5&gt;altGraph&lt;/l5&gt;</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T025513Z" creationid="WynnChen" creationdate="20230323T025513Z">
+        <seg>其中&lt;c0&gt;修饰键&lt;/c0&gt;可以是：&lt;l1&gt;shift&lt;/l1&gt;、&lt;l2&gt;ctrl&lt;/l2&gt;、&lt;l3&gt;meta&lt;/l3&gt;、&lt;l4&gt;alt&lt;/l4&gt;、或&lt;l5&gt;altGraph&lt;/l5&gt;</seg>
       </tuv>
     </tu>
     <tu>
