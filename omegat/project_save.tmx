@@ -14652,6 +14652,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Auto-propagation of translations</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T052729Z" creationid="WynnChen" creationdate="20230323T052729Z">
+        <seg>自动传播翻译</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Auto-sync with Editor</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190322T053605Z" creationid="wynnc" creationdate="20190322T053605Z">
@@ -30374,6 +30382,14 @@ notice like this when it starts in an interactive mode:</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131117T003432Z" creationid="Fu Rhong" creationdate="20131117T003208Z">
         <seg>如果在其子目录下有名为test.html的文件，它们会被忽略。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If there are repeated segments in the source documents, checking this option will set the first translated segment as the default translation and automatically use the same target text in the remaining repeated segments.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T052851Z" creationid="WynnChen" creationdate="20230323T052851Z">
+        <seg>如果在原文文档中有重复的片段，勾选此选项会将第一个翻译的片段设置为默认翻译，并自动在其余重复片段中使用相同的译文文本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -65887,6 +65903,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120205T115212Z">
         <seg>要删除标签组，仅需将它们从片段中移除。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To disable local segmentation rules, disable this option or remove that file.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T052613Z" creationid="WynnChen" creationdate="20230323T052613Z">
+        <seg>要禁用局部分割规则，请禁用此选项或删除该文件。</seg>
       </tuv>
     </tu>
     <tu>
