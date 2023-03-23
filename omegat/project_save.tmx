@@ -14684,6 +14684,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Autocompleter</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T045545Z" creationid="WynnChen" creationdate="20230323T045154Z">
+        <seg>自动完成界面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Automatic Java Properties Aligner</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131118T033923Z">
@@ -15989,6 +15997,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20200117T033908Z" creationid="WynnChen" creationdate="20200117T033908Z">
         <seg>CJ Translations</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>CONTEXT_MENU</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T044528Z" creationid="WynnChen" creationdate="20230323T044528Z">
+        <seg>菜单键</seg>
       </tuv>
     </tu>
     <tu>
@@ -17566,6 +17582,14 @@ Exception occurred:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Close Autocompleter</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T045457Z" creationid="WynnChen" creationdate="20230323T045411Z">
+        <seg>关闭自动完成界面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Close Project</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
@@ -18100,6 +18124,22 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
         <seg>确认</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Confirm Autocompleter Without Closing</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T045503Z" creationid="WynnChen" creationdate="20230323T045401Z">
+        <seg>确认自动完成而不关闭界面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Confirm and Close Autocompleter</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T045509Z" creationid="WynnChen" creationdate="20230323T045347Z">
+        <seg>确认并关闭自动完成界面</seg>
       </tuv>
     </tu>
     <tu>
@@ -20197,6 +20237,14 @@ Some filters do not allow encoding modifications.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>DOWN</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T045554Z" creationid="WynnChen" creationdate="20230323T045554Z">
+        <seg>DOWN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>DTD files (*.DTD)</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120202T113213Z">
@@ -20393,6 +20441,22 @@ Some filters do not allow encoding modifications.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20200117T033224Z" creationid="WynnChen" creationdate="20200117T033224Z">
         <seg>Sébastien Guillardeau 的学位论文，2010 年（德语）。其中包含对 OmegaT 的全面说明。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Delete Next Token</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T044912Z" creationid="WynnChen" creationdate="20230323T044912Z">
+        <seg>删除下一个词</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Delete Previous Token</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T044906Z" creationid="WynnChen" creationdate="20230323T044727Z">
+        <seg>删除上一个词</seg>
       </tuv>
     </tu>
     <tu>
@@ -22470,6 +22534,14 @@ project_save.tmx 未真正上传，SVN 切换到不稳定状态。
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ENTER</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T044637Z" creationid="WynnChen" creationdate="20230323T044637Z">
+        <seg>ENTER</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>EPWING plugin</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T072617Z" creationid="wynnc" creationdate="20210504T072617Z">
@@ -22490,6 +22562,14 @@ project_save.tmx 未真正上传，SVN 切换到不稳定状态。
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
         <seg>错误：{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ESCAPE</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T045251Z" creationid="WynnChen" creationdate="20230323T045251Z">
+        <seg>ESCAPE</seg>
       </tuv>
     </tu>
     <tu>
@@ -24547,6 +24627,22 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120211T062657Z">
         <seg>F1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>F2</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T045125Z" creationid="WynnChen" creationdate="20230323T045125Z">
+        <seg>F2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>F3</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T045134Z" creationid="WynnChen" creationdate="20230323T045134Z">
+        <seg>F3</seg>
       </tuv>
     </tu>
     <tu>
@@ -27415,6 +27511,54 @@ authors of previous versions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Go Down One Page</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T045616Z" creationid="WynnChen" creationdate="20230323T045616Z">
+        <seg>向下一页</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go Down One Page in Table</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T045707Z" creationid="WynnChen" creationdate="20230323T045707Z">
+        <seg>在表格中向下一页</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go Down The List</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T045553Z" creationid="WynnChen" creationdate="20230323T045553Z">
+        <seg>在列表中向下移动</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go Down in Table</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T045634Z" creationid="WynnChen" creationdate="20230323T045634Z">
+        <seg>在表格中向下移动</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go Left in Table</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T045644Z" creationid="WynnChen" creationdate="20230323T045644Z">
+        <seg>在表格中向左移动</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go Right in Table</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T045651Z" creationid="WynnChen" creationdate="20230323T045651Z">
+        <seg>在表格中向右移动</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Go To</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20200120T061759Z" creationid="WynnChen" creationdate="20200120T061759Z">
@@ -27455,6 +27599,38 @@ authors of previous versions.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Go Up One Page</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T045607Z" creationid="WynnChen" creationdate="20230323T045607Z">
+        <seg>向上一页</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go Up One Page in Table</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T045700Z" creationid="WynnChen" creationdate="20230323T045700Z">
+        <seg>在表格中向上一页</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go Up The List</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T045448Z" creationid="WynnChen" creationdate="20230323T045448Z">
+        <seg>在列表中向上移动</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go Up in Table</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T045630Z" creationid="WynnChen" creationdate="20230323T045630Z">
+        <seg>在表格中向上移动</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>或用“转到”？</note>
       <tuv lang="en">
         <seg>Go to</seg>
@@ -27465,10 +27641,74 @@ authors of previous versions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Go to First Segment</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T044921Z" creationid="WynnChen" creationdate="20230323T044921Z">
+        <seg>转到第一个片段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to First Table</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T045718Z" creationid="WynnChen" creationdate="20230323T045718Z">
+        <seg>转到一个表格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to Last Segment</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T044927Z" creationid="WynnChen" creationdate="20230323T044927Z">
+        <seg>转到最后一个片段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to Last Table</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T045726Z" creationid="WynnChen" creationdate="20230323T045726Z">
+        <seg>转到最后一个表格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to Next Segment</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T044543Z" creationid="WynnChen" creationdate="20230323T044543Z">
+        <seg>转到下一个片段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to Next Segment (not TAB)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T044614Z" creationid="WynnChen" creationdate="20230323T044614Z">
+        <seg>转到下一个片段（非 TAB）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Go to Preferences &gt; External Search to enable.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190324T045042Z" creationid="wynnc" creationdate="20190324T045042Z">
         <seg>前往 首选项 &gt; 外部搜索 来启用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to Previous Segment</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T044548Z" creationid="WynnChen" creationdate="20230323T044548Z">
+        <seg>转到上一个片段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to Previous Segment (not TAB)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T044708Z" creationid="WynnChen" creationdate="20230323T044656Z">
+        <seg>转到上一个片段（非 TAB）</seg>
       </tuv>
     </tu>
     <tu>
@@ -28837,6 +29077,14 @@ SUCH DAMAGES.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190515T044851Z" creationid="WynnChen" creationdate="20190515T044851Z">
         <seg>插入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>INSERT</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T045133Z" creationid="WynnChen" creationdate="20230323T045133Z">
+        <seg>INSERT</seg>
       </tuv>
     </tu>
     <tu>
@@ -33160,6 +33408,14 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Insert Linebreak</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T044716Z" creationid="WynnChen" creationdate="20230323T044716Z">
+        <seg>插入换行符</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Insert Match Into Translation</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="钢" changedate="20130503T165111Z">
@@ -35502,6 +35758,14 @@ itself on the first run. Later calls do not need to be online.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190403T154230Z" creationid="xulihang" creationdate="20180408T115156Z">
         <seg>已学习：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LEFT</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T045645Z" creationid="WynnChen" creationdate="20230323T045645Z">
+        <seg>LEFT</seg>
       </tuv>
     </tu>
     <tu>
@@ -44250,6 +44514,30 @@ unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Open Autocompleter</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T045524Z" creationid="WynnChen" creationdate="20230323T045238Z">
+        <seg>打开自动完成界面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open Autocompleter Next View</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T045519Z" creationid="WynnChen" creationdate="20230323T045317Z">
+        <seg>打开自动完成界面的下一视图</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open Autocompleter Previous View</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T045514Z" creationid="WynnChen" creationdate="20230323T045331Z">
+        <seg>打开自动完成界面的上一视图</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Open Context Menu</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T044508Z" creationid="WynnChen" creationdate="20230323T044508Z">
@@ -45214,6 +45502,22 @@ unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20221128T110044Z" creationid="wynnc" creationdate="20221128T110044Z">
         <seg>项目文件夹(&amp;R)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PAGE_DOWN</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T045617Z" creationid="WynnChen" creationdate="20230323T045617Z">
+        <seg>PAGE_DOWN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PAGE_UP</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T045609Z" creationid="WynnChen" creationdate="20230323T045609Z">
+        <seg>PAGE_UP</seg>
       </tuv>
     </tu>
     <tu>
@@ -47742,6 +48046,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Administrator" changedate="20180411T123334Z" creationid="Administrator" creationdate="20180411T123334Z">
         <seg>RELAX NG schema for XML (*.rng) </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>RIGHT</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T045652Z" creationid="WynnChen" creationdate="20230323T045652Z">
+        <seg>RIGHT</seg>
       </tuv>
     </tu>
     <tu>
@@ -51627,6 +51939,14 @@ When using regular expressions, the replacement string supports references to gr
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select All</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T044724Z" creationid="WynnChen" creationdate="20230323T044724Z">
+        <seg>选择全部</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select Fol&amp;der</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -52939,10 +53259,42 @@ When using regular expressions, the replacement string supports references to gr
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Skip Next Token</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T044936Z" creationid="WynnChen" creationdate="20230323T044936Z">
+        <seg>跳过下一个词</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Skip Next Token with Selection</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T045112Z" creationid="WynnChen" creationdate="20230323T045043Z">
+        <seg>跳过并选中下一个词</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Skip PO header</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190831T055846Z" creationid="Fu Rhong" creationdate="20131113T114134Z">
         <seg>跳过 PO 头</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Skip Previous Token</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T044958Z" creationid="WynnChen" creationdate="20230323T044958Z">
+        <seg>跳过上一个词</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Skip Previous Token with Selection</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T045110Z" creationid="WynnChen" creationdate="20230323T045110Z">
+        <seg>跳过并选中上一个词</seg>
       </tuv>
     </tu>
     <tu>
@@ -54944,6 +55296,14 @@ All sets that match the project source language are applied.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T092201Z" creationid="wynnc" creationdate="20190320T045507Z">
         <seg>翻译记忆库(&amp;M)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TAB</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T044543Z" creationid="WynnChen" creationdate="20230323T044543Z">
+        <seg>TAB</seg>
       </tuv>
     </tu>
     <tu>
@@ -66149,6 +66509,22 @@ install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Toggle Cursor Lock</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T045122Z" creationid="WynnChen" creationdate="20230323T045122Z">
+        <seg>切换光标锁定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Toggle Overtype</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T045130Z" creationid="WynnChen" creationdate="20230323T045130Z">
+        <seg>切换覆盖类型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Toggle Selected</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190324T030236Z" creationid="wynnc" creationdate="20190324T030236Z">
@@ -67213,6 +67589,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190515T044828Z" creationid="WynnChen" creationdate="20190515T044828Z">
         <seg>解锁</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>UP</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T045547Z" creationid="WynnChen" creationdate="20230323T045547Z">
+        <seg>UP</seg>
       </tuv>
     </tu>
     <tu>
@@ -74843,10 +75227,50 @@ If the project contains files but their content is not displayed here:
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>alt BACK_SPACE</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T044908Z" creationid="WynnChen" creationdate="20230323T044908Z">
+        <seg>alt BACK_SPACE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>alt DELETE</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T044914Z" creationid="WynnChen" creationdate="20230323T044914Z">
+        <seg>alt DELETE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>alt RIGHT</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T044937Z" creationid="WynnChen" creationdate="20230323T044937Z">
+        <seg>alt RIGHT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>alt shift D</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043725Z" creationid="WynnChen" creationdate="20230323T043725Z">
         <seg>alt shift D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>alt shift LEFT</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T045114Z" creationid="WynnChen" creationdate="20230323T045114Z">
+        <seg>alt shift LEFT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>alt shift RIGHT</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T045045Z" creationid="WynnChen" creationdate="20230323T045045Z">
+        <seg>alt shift RIGHT</seg>
       </tuv>
     </tu>
     <tu>
@@ -75039,6 +75463,150 @@ If the project contains files but their content is not displayed here:
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190322T055429Z" creationid="wynnc" creationdate="20190322T055429Z">
         <seg>属性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>autocompleterClose</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T045411Z" creationid="WynnChen" creationdate="20230323T045411Z">
+        <seg>autocompleterClose</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>autocompleterConfirmAndClose</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T045348Z" creationid="WynnChen" creationdate="20230323T045348Z">
+        <seg>autocompleterConfirmAndClose</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>autocompleterConfirmWithoutClose</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T045402Z" creationid="WynnChen" creationdate="20230323T045402Z">
+        <seg>autocompleterConfirmWithoutClose</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>autocompleterListDown</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T045553Z" creationid="WynnChen" creationdate="20230323T045553Z">
+        <seg>autocompleterListDown</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>autocompleterListPageDown</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T045616Z" creationid="WynnChen" creationdate="20230323T045616Z">
+        <seg>autocompleterListPageDown</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>autocompleterListPageUp</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T045607Z" creationid="WynnChen" creationdate="20230323T045607Z">
+        <seg>autocompleterListPageUp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>autocompleterListUp</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T045546Z" creationid="WynnChen" creationdate="20230323T045546Z">
+        <seg>autocompleterListUp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>autocompleterNextView</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T045318Z" creationid="WynnChen" creationdate="20230323T045318Z">
+        <seg>autocompleterNextView</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>autocompleterPrevView</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T045331Z" creationid="WynnChen" creationdate="20230323T045331Z">
+        <seg>autocompleterPrevView</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>autocompleterTableDown</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T045635Z" creationid="WynnChen" creationdate="20230323T045635Z">
+        <seg>autocompleterTableDown</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>autocompleterTableFirst</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T045718Z" creationid="WynnChen" creationdate="20230323T045718Z">
+        <seg>autocompleterTableFirst</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>autocompleterTableLast</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T045726Z" creationid="WynnChen" creationdate="20230323T045726Z">
+        <seg>autocompleterTableLast</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>autocompleterTableLeft</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T045645Z" creationid="WynnChen" creationdate="20230323T045645Z">
+        <seg>autocompleterTableLeft</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>autocompleterTablePageDown</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T045709Z" creationid="WynnChen" creationdate="20230323T045709Z">
+        <seg>autocompleterTablePageDown</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>autocompleterTablePageUp</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T045700Z" creationid="WynnChen" creationdate="20230323T045700Z">
+        <seg>autocompleterTablePageUp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>autocompleterTableRight</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T045651Z" creationid="WynnChen" creationdate="20230323T045651Z">
+        <seg>autocompleterTableRight</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>autocompleterTableUp</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T045630Z" creationid="WynnChen" creationdate="20230323T045630Z">
+        <seg>autocompleterTableUp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>autocompleterTrigger</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T045239Z" creationid="WynnChen" creationdate="20230323T045239Z">
+        <seg>autocompleterTrigger</seg>
       </tuv>
     </tu>
     <tu>
@@ -75794,10 +76362,34 @@ If the project contains files but their content is not displayed here:
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ctrl A</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T044725Z" creationid="WynnChen" creationdate="20230323T044725Z">
+        <seg>ctrl A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl BACK_SPACE</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T044908Z" creationid="WynnChen" creationdate="20230323T044908Z">
+        <seg>ctrl BACK_SPACE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ctrl D</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043449Z" creationid="WynnChen" creationdate="20230323T043449Z">
         <seg>ctrl D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl DELETE</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T044913Z" creationid="WynnChen" creationdate="20230323T044913Z">
+        <seg>ctrl DELETE</seg>
       </tuv>
     </tu>
     <tu>
@@ -75818,10 +76410,34 @@ If the project contains files but their content is not displayed here:
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ctrl END</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T045727Z" creationid="WynnChen" creationdate="20230323T045727Z">
+        <seg>ctrl END</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl ENTER</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T044710Z" creationid="WynnChen" creationdate="20230323T044710Z">
+        <seg>ctrl ENTER</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ctrl F</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043648Z" creationid="WynnChen" creationdate="20230323T043648Z">
         <seg>ctrl F</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl HOME</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T045719Z" creationid="WynnChen" creationdate="20230323T045719Z">
+        <seg>ctrl HOME</seg>
       </tuv>
     </tu>
     <tu>
@@ -75858,6 +76474,14 @@ If the project contains files but their content is not displayed here:
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ctrl LEFT</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T045001Z" creationid="WynnChen" creationdate="20230323T045001Z">
+        <seg>ctrl LEFT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ctrl M</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043633Z" creationid="WynnChen" creationdate="20230323T043633Z">
@@ -75890,6 +76514,22 @@ If the project contains files but their content is not displayed here:
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ctrl PAGE_DOWN</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T044928Z" creationid="WynnChen" creationdate="20230323T044928Z">
+        <seg>ctrl PAGE_DOWN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl PAGE_UP</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T044922Z" creationid="WynnChen" creationdate="20230323T044922Z">
+        <seg>ctrl PAGE_UP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ctrl Q</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043628Z" creationid="WynnChen" creationdate="20230323T043628Z">
@@ -75906,10 +76546,26 @@ If the project contains files but their content is not displayed here:
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ctrl RIGHT</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T044936Z" creationid="WynnChen" creationdate="20230323T044936Z">
+        <seg>ctrl RIGHT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ctrl S</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043434Z" creationid="WynnChen" creationdate="20230323T043434Z">
         <seg>ctrl S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl SPACE</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T045248Z" creationid="WynnChen" creationdate="20230323T045248Z">
+        <seg>ctrl SPACE</seg>
       </tuv>
     </tu>
     <tu>
@@ -76074,6 +76730,14 @@ If the project contains files but their content is not displayed here:
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ctrl shift LEFT</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T045114Z" creationid="WynnChen" creationdate="20230323T045114Z">
+        <seg>ctrl shift LEFT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ctrl shift M</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043859Z" creationid="WynnChen" creationdate="20230323T043859Z">
@@ -76106,10 +76770,26 @@ If the project contains files but their content is not displayed here:
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ctrl shift RIGHT</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T045044Z" creationid="WynnChen" creationdate="20230323T045044Z">
+        <seg>ctrl shift RIGHT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ctrl shift S</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043838Z" creationid="WynnChen" creationdate="20230323T043838Z">
         <seg>ctrl shift S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ctrl shift SPACE</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T045332Z" creationid="WynnChen" creationdate="20230323T045332Z">
+        <seg>ctrl shift SPACE</seg>
       </tuv>
     </tu>
     <tu>
@@ -76740,6 +77420,142 @@ If the project contains files but their content is not displayed here:
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190409T045515Z" creationid="WynnChen" creationdate="20190409T045515Z">
         <seg>editUndoMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editorContextMenu</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T044509Z" creationid="WynnChen" creationdate="20230323T044509Z">
+        <seg>editorContextMenu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editorDeleteNextToken</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T044913Z" creationid="WynnChen" creationdate="20230323T044913Z">
+        <seg>editorDeleteNextToken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editorDeletePrevToken</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T044728Z" creationid="WynnChen" creationdate="20230323T044728Z">
+        <seg>editorDeletePrevToken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editorFirstSegment</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T044921Z" creationid="WynnChen" creationdate="20230323T044921Z">
+        <seg>editorFirstSegment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editorInsertLineBreak</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T044716Z" creationid="WynnChen" creationdate="20230323T044716Z">
+        <seg>editorInsertLineBreak</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editorLastSegment</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T044928Z" creationid="WynnChen" creationdate="20230323T044928Z">
+        <seg>editorLastSegment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editorNextSegment</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T044543Z" creationid="WynnChen" creationdate="20230323T044543Z">
+        <seg>editorNextSegment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editorNextSegmentNotTab</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T044615Z" creationid="WynnChen" creationdate="20230323T044615Z">
+        <seg>editorNextSegmentNotTab</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editorPrevSegment</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T044548Z" creationid="WynnChen" creationdate="20230323T044548Z">
+        <seg>editorPrevSegment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editorPrevSegmentNotTab</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T044709Z" creationid="WynnChen" creationdate="20230323T044709Z">
+        <seg>editorPrevSegmentNotTab</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editorSelectAll</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T044724Z" creationid="WynnChen" creationdate="20230323T044724Z">
+        <seg>editorSelectAll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editorSkipNextToken</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T044936Z" creationid="WynnChen" creationdate="20230323T044936Z">
+        <seg>editorSkipNextToken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editorSkipNextTokenWithSelection</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T045044Z" creationid="WynnChen" creationdate="20230323T045044Z">
+        <seg>editorSkipNextTokenWithSelection</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editorSkipPrevToken</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T044958Z" creationid="WynnChen" creationdate="20230323T044958Z">
+        <seg>editorSkipPrevToken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editorSkipPrevTokenWithSelection</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T045114Z" creationid="WynnChen" creationdate="20230323T045114Z">
+        <seg>editorSkipPrevTokenWithSelection</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editorToggleCursorLock</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T045124Z" creationid="WynnChen" creationdate="20230323T045124Z">
+        <seg>editorToggleCursorLock</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>editorToggleOvertype</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T045130Z" creationid="WynnChen" creationdate="20230323T045130Z">
+        <seg>editorToggleOvertype</seg>
       </tuv>
     </tu>
     <tu>
@@ -79836,6 +80652,14 @@ If the project contains files but their content is not displayed here:
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>meta A</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T044726Z" creationid="WynnChen" creationdate="20230323T044726Z">
+        <seg>meta A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>meta D</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043450Z" creationid="WynnChen" creationdate="20230323T043450Z">
@@ -79860,10 +80684,26 @@ If the project contains files but their content is not displayed here:
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>meta ENTER</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T044711Z" creationid="WynnChen" creationdate="20230323T044711Z">
+        <seg>meta ENTER</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>meta F</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043648Z" creationid="WynnChen" creationdate="20230323T043648Z">
         <seg>meta F</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta HOME</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T045719Z" creationid="WynnChen" creationdate="20230323T045719Z">
+        <seg>meta HOME</seg>
       </tuv>
     </tu>
     <tu>
@@ -79928,6 +80768,22 @@ If the project contains files but their content is not displayed here:
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043853Z" creationid="WynnChen" creationdate="20230323T043853Z">
         <seg>meta P (meta Enter / shift Tab)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta PAGE_DOWN</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T044929Z" creationid="WynnChen" creationdate="20230323T044929Z">
+        <seg>meta PAGE_DOWN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>meta PAGE_UP</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T044922Z" creationid="WynnChen" creationdate="20230323T044922Z">
+        <seg>meta PAGE_UP</seg>
       </tuv>
     </tu>
     <tu>
@@ -82086,10 +82942,34 @@ If the project contains files but their content is not displayed here:
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>shift ENTER</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T044717Z" creationid="WynnChen" creationdate="20230323T044717Z">
+        <seg>shift ENTER</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>shift ESCAPE</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T044533Z" creationid="WynnChen" creationdate="20230323T044533Z">
+        <seg>shift ESCAPE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>shift F3</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043726Z" creationid="WynnChen" creationdate="20230323T043726Z">
         <seg>shift F3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>shift TAB</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T044550Z" creationid="WynnChen" creationdate="20230323T044550Z">
+        <seg>shift TAB</seg>
       </tuv>
     </tu>
     <tu>
