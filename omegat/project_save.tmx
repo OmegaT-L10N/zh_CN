@@ -30868,6 +30868,14 @@ OmegaT.exe，请修改设置以显示文件扩展名。</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you change the segmentation while translating, you will have to reload the project for the new segmentation to take effect. This will split or merge some previously translated segments, which will therefore no longer be translated. However, their original translation will still be in the project memory.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T052103Z" creationid="WynnChen" creationdate="20230323T052103Z">
+        <seg>如果在翻译过程中更改了片段分割方案，则必须重新加载项目才能让新的分割方案生效。这会拆分或合并一些之前已经翻译好的片段，因此它们会不再是已译状态。但是，它们原本的翻译依然保存在项目记忆库中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you check the corresponding checkbox, the OmegaT.l4J.ini file is modified to use the language selected (see next section for details).</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131116T123035Z" creationid="Fu Rhong" creationdate="20131116T122813Z">
@@ -37111,6 +37119,14 @@ later version.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20221128T103522Z" creationid="wynnc" creationdate="20221111T104755Z">
         <seg>局部分割规则</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Local Segmentation Rules...</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T052203Z" creationid="WynnChen" creationdate="20230323T052203Z">
+        <seg>局部分割规则...</seg>
       </tuv>
     </tu>
     <tu>
@@ -51667,6 +51683,14 @@ When using regular expressions, the replacement string supports references to gr
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l0/&gt; appendix for general explanations about segmentation (global or local, paragraph or sentence, settings, and so on).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T052148Z" creationid="WynnChen" creationdate="20230323T052148Z">
+        <seg>有关分割（全局或局部、段落级或语句级、设置等）的一般说明，请参阅&lt;l0/&gt;附录。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the &lt;l0/&gt; chapter for details.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T050021Z" creationid="WynnChen" creationdate="20230323T050021Z">
@@ -55360,6 +55384,14 @@ All sets that match the project source language are applied.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T105840Z" creationid="wynnc" creationdate="20190320T105840Z">
         <seg>交换 {0} 和 {1} 视图</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Switching from &lt;e0&gt;sentence&lt;/e0&gt; to &lt;e1&gt;paragraph&lt;/e1&gt; segmentation mid-translation may force OmegaT to upgrade old translation memories that did not use sentence segmentation, but not vice versa. However, OmegaT will attempt to create fuzzy matches for paragraphs by combining existing sentence translations.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T052037Z" creationid="WynnChen" creationdate="20230323T052037Z">
+        <seg>在翻译中途从&lt;e0&gt;语句级&lt;/e0&gt;分割切换到&lt;e1&gt;段落级&lt;/e1&gt;可能会强制 OmegaT 升级不使用语句级分割的旧翻译记忆库，但反过来则不然。但是，OmegaT 会尝试通过组合现有的语句翻译来为段落创建模糊匹配。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60938,6 +60970,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The project will store the new set of rules in the &lt;l0/&gt; file located in its &lt;l1/&gt; folder. These rules will supersede the global segmentation rules.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T052541Z" creationid="WynnChen" creationdate="20230323T052541Z">
+        <seg>该项目将把新的规则集存储在其 &lt;l1/&gt; 文件夹中的 &lt;l0/&gt; 文件内。这些规则将取代全局分割规则。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The purpose of the console (i.e. command line) mode is to permit the use &lt;a0&gt;of OmegaT&lt;/a0&gt; as translation tool in a scripting environment.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120211T063142Z">
@@ -61346,6 +61386,14 @@ protocols for communication across the network.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190902T055316Z" creationid="WynnChen" creationdate="20190902T032837Z">
         <seg>分割规则通常适用于所有项目。但是，用户可能需要生成一组所讨论项目专用的规则。用此按钮打开对话框，激活&lt;g0&gt;将分割规则设为项目专用&lt;/g0&gt;复选框，然后根据需要继续调整分割规则。新的规则集将与项目一起存储，不会干扰到通用的分割规则集。要删除项目专用的分割规则，取消勾选此复选框。更多信息关于分割规则的信息，参见&lt;l1&gt;分割设置首选项&lt;/l1&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The segmentation rules presented when you open the &lt;l0/&gt; preferences (using &lt;l1/&gt;&lt;l2/&gt;) are the global rules.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T052237Z" creationid="WynnChen" creationdate="20230323T052237Z">
+        <seg>打开&lt;l0/&gt;首选项（使用&lt;l1/&gt;&lt;l2/&gt;）时呈现的分割规则是全局规则。</seg>
       </tuv>
     </tu>
     <tu>
@@ -69737,6 +69785,14 @@ OmegaT 选项：
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20200116T061536Z" creationid="wynnc" creationdate="20190902T071054Z">
         <seg>借助这些帮助文字来起步。如果碰到问题，可以在 &lt;u0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt; 用户组&lt;/u0&gt;中发帖。可以用您所最熟悉的语言发帖，无需犹豫。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use this button to create local rules specific to your project. Check the &lt;o0&gt;Use local segmentation rules&lt;/o0&gt; box, and adjust the segmentation rules as desired.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T052412Z" creationid="WynnChen" creationdate="20230323T052412Z">
+        <seg>用此按钮创建项目专属的局部规则。勾选&lt;o0&gt;使用局部分割规则&lt;/o0&gt;复选框，然后根据需要调整分割规则。</seg>
       </tuv>
     </tu>
     <tu>
