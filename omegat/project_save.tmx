@@ -70387,6 +70387,14 @@ OmegaT 选项：
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;g0&gt;&gt; Project&lt;/g0&gt; &lt;g1&gt;&gt; New...&lt;/g1&gt; to create a new project.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230425T040944Z" creationid="WynnChen" creationdate="20230425T040944Z">
+        <seg>用 &lt;g0&gt;&gt; 项目&lt;/g0&gt; &lt;g1&gt;&gt; 新建...&lt;/g1&gt; 来创建一个新项目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;g0&gt;Ctrl+L&lt;/g0&gt; to open and &lt;k1&gt;Esc&lt;/k1&gt; to close it. The &lt;g2&gt;Project Files&lt;/g2&gt; Window displays the following information:</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20200123T050949Z" creationid="WynnChen" creationdate="20200123T050949Z">
