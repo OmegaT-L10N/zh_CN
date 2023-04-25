@@ -16217,6 +16217,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Cannot get correct answer. Abort...</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230425T040713Z" creationid="WynnChen" creationdate="20230425T040713Z">
+        <seg>无法取得正确答案。中止...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cannot install</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T112828Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -20461,6 +20469,14 @@ Some filters do not allow encoding modifications.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>DeepL API key not available. See the user manual for instructions.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230425T040513Z" creationid="WynnChen" creationdate="20230425T040502Z">
+        <seg>DeepL API 密钥不可用。相关说明请参阅用户手册。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>DeepL Api key not available.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T121749Z" creationid="wynnc" creationdate="20190323T121749Z">
@@ -23591,10 +23607,26 @@ is the language code and YY is the region or country code (optional).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enter the password for {0}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230425T040627Z" creationid="WynnChen" creationdate="20230425T040627Z">
+        <seg>输入{0}的密码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enter the segment number:</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
         <seg>输入片段序号：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enter the username for {0}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230425T040621Z" creationid="WynnChen" creationdate="20230425T040621Z">
+        <seg>输入{0}的用户名</seg>
       </tuv>
     </tu>
     <tu>
@@ -25610,6 +25642,14 @@ patents cannot be used to render the program non-free.</seg>
         <seg>First Steps</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20230221T084336Z" creationid="WynnChen" creationdate="20230221T084336Z">
+        <seg>第一步</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>First steps</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230425T040726Z" creationid="WynnChen" creationdate="20230425T040726Z">
         <seg>第一步</seg>
       </tuv>
     </tu>
@@ -28113,6 +28153,14 @@ authors of previous versions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Got unexpected input. Ask again...</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230425T040652Z" creationid="WynnChen" creationdate="20230425T040652Z">
+        <seg>收到非预期的输入。再次询问...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Goto &amp;Line...</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T124231Z" creationid="wynnc" creationdate="20190323T124231Z">
@@ -28892,6 +28940,14 @@ Note: not all filters allow you to select an encoding.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Hit &lt;k0&gt;F1&lt;/k0&gt; or access the &lt;g1&gt;&gt; Help&lt;/g1&gt; menu to open the user manual. It comes with a thorough introduction to OmegaT. To start using OmegaT with minimal settings, do this:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230425T040914Z" creationid="WynnChen" creationdate="20230425T040914Z">
+        <seg>按 &lt;k0&gt;F1&lt;/k0&gt; 或访问 &lt;g1&gt;&gt; 帮助&lt;/g1&gt;菜单来打开用户手册。它附带了对 OmegaT 的详细介绍。想用最少设置步骤就开始使用 OmegaT，如此进行：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Home*</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120203T124012Z">
@@ -29301,6 +29357,14 @@ prior to 60 days after the cessation.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20221125T054918Z" creationid="wynnc" creationdate="20221125T054918Z">
         <seg>IBM Watson 不可用。相关说明请参阅用户指南。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>IBM Watson not available. See the user manual for instructions.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230425T040519Z" creationid="WynnChen" creationdate="20230425T040519Z">
+        <seg>IBM Watson 不可用。相关说明请参阅用户手册。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42387,6 +42451,14 @@ combination as such.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT 6.0.0</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230425T040722Z" creationid="WynnChen" creationdate="20230425T040722Z">
+        <seg>OmegaT 6.0.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT &lt;s0&gt;the free translation memory tool&lt;/s0&gt;</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T120210Z" creationid="10353" creationdate="20180414T110229Z">
@@ -42703,6 +42775,14 @@ combination as such.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120215T125449Z">
         <seg>OmegaT 会显示所有词汇都出现了的片段清单。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT does not have access to the remote repository: verify your connection or your credentials. The project is in offline mode.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230425T040610Z" creationid="WynnChen" creationdate="20230425T040610Z">
+        <seg>OmegaT 无权访问远程存储库：请检查你的连接或凭据。该项目处于脱机模式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -73565,6 +73645,14 @@ Your page is not found</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Wrong password for {0}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230425T040633Z" creationid="WynnChen" creationdate="20230425T040633Z">
+        <seg>{0}的密码错误</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Wrong response format from TaaS service</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T160032Z" creationid="wynnc" creationdate="20190323T160032Z">
@@ -80220,6 +80308,22 @@ If the project contains files but their content is not displayed here:
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131117T032144Z" creationid="Fu Rhong" creationdate="20131117T032144Z">
         <seg>https://developers.google.com/translate/v2/pricing?hl=en-US</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/text/SimpleDateFormat.html</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230425T040717Z" creationid="WynnChen" creationdate="20230425T040717Z">
+        <seg>https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/text/SimpleDateFormat.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/regex/Pattern.html</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230425T040719Z" creationid="WynnChen" creationdate="20230425T040719Z">
+        <seg>https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/regex/Pattern.html</seg>
       </tuv>
     </tu>
     <tu>
