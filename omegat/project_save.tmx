@@ -2398,6 +2398,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;User Manual...</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230425T035855Z" creationid="WynnChen" creationdate="20230425T035855Z">
+        <seg>用户手册(&amp;U)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;User's Manual...</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T110211Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -23787,6 +23795,14 @@ No one hears your screams</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error loading : {0}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230425T040154Z" creationid="WynnChen" creationdate="20230425T040154Z">
+        <seg>加载出错：{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error loading plugin from class '{0}': {1}: {2}</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T080846Z" creationid="WynnChen" creationdate="20221129T080434Z">
@@ -24921,8 +24937,8 @@ Gossamer threads hold you back
       <tuv lang="en">
         <seg>Failed to download page</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230425T035840Z" creationid="WynnChen" creationdate="20230425T035840Z">
-        <seg>无法下载页面</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230425T035929Z" creationid="WynnChen" creationdate="20230425T035840Z">
+        <seg>下载页面失败</seg>
       </tuv>
     </tu>
     <tu>
@@ -28656,6 +28672,14 @@ Note: not all filters allow you to select an encoding.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T100914Z" creationid="WynnChen" creationdate="20230323T100914Z">
         <seg>隐藏的标签简单地堆叠在片段的末尾。尽管这通常不会阻止打开翻译后的文件，但在使用此功能时请记住以下几点：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hide &amp;Options</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230425T040045Z" creationid="WynnChen" creationdate="20230425T040045Z">
+        <seg>隐藏选项(&amp;O)</seg>
       </tuv>
     </tu>
     <tu>
@@ -51144,6 +51168,49 @@ When using regular expressions, the replacement string supports references to gr
     <tu>
       <tuv lang="en">
         <seg>Scope:
+Searches apply to the project and cover its source and target text, reference TMs, glossaries, notes, and comments by default. Tick or untick the appropriate boxes to change these settings.
+Searches can also be performed on a specified folder hierarchy.
+ 
+Types:
+Exact searches match the whole search string.
+Keyword searches match all space-separated keywords in any order.
+Regular expression searches match Java regular expressions as documented in the user manual.
+ 
+Wildcards:
+Both exact and keyword searches support the * and ? wildcards.
+'*' matches zero or more characters ('run*' matches 'run', 'runs', 'running', etc.)
+'?' matches exactly one character ('run?' matches 'runs' and 'rung', but not 'run' or 'running').
+ 
+Text Replace:
+Replace applies to the target segments of the project.
+Keyword searches are not available in the search string.
+When using regular expressions, the replacement string supports references to groups defined in the search string. Use $n to refer to the nth group.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230425T040121Z" creationid="WynnChen" creationdate="20230425T040121Z">
+        <seg>范围：
+默认情况下，搜索作用于整个项目，覆盖其原文和译文文本、参考翻译记忆库、词汇表、备注和注释。勾选或取消勾选相应的复选框可以更改这些设置。
+搜索还可以在指定文件夹层次上执行。
+
+类型：
+精确搜索完全匹配整个搜索字符串。
+关键字搜索会匹配以空格分隔的所有关键字，顺序任意。
+正则表达式搜索则以用户手册中所记载的 Java 正则表达式来进行匹配。
+ 
+通配符：
+精确搜索和关键字搜索都支持 * 和 ? 通配符。
+“*” 匹配零个或若干个字符（“run*”匹配“run”、“runs”、“running”，等等）
+“?” 匹配单个字符（“run?”匹配“runs”和“rung”，但不匹配“run”或“running”）。
+ 
+文本替换：
+替换作用于项目的译文片段。
+在搜索字符串处没有关键字搜索模式。
+当使用正则表达式时，替换字符串支持引用搜索字符串中所定义的组。用 $n 来引用第 n 个组。
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Scope:
 Searches apply to the project and cover its source and target text, reference TMs, glossaries, notes, and comments by default. Tick or untick the approrpiate boxes to change these settings.
 Searches can also be performed on a specified folder hierarchy.
  
@@ -55961,6 +56028,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T113120Z" creationid="WynnChen" creationdate="20221222T113120Z">
         <seg>TM 根 + tmx2source（详情请参阅指南&lt;l0/&gt;。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TM Search &amp;Options</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230425T040035Z" creationid="WynnChen" creationdate="20230425T040035Z">
+        <seg>TM 搜索选项(&amp;O)</seg>
       </tuv>
     </tu>
     <tu>
@@ -68520,6 +68595,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T180632Z" creationid="wynnc" creationdate="20190320T180632Z">
         <seg>无法转换项目！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to create a backup file of {0}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230425T035916Z" creationid="WynnChen" creationdate="20230425T035916Z">
+        <seg>无法创建 {0} 的备份文件</seg>
       </tuv>
     </tu>
     <tu>
@@ -86038,6 +86121,14 @@ If the project contains files but their content is not displayed here:
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T084325Z" creationid="wynnc" creationdate="20190320T084325Z">
         <seg>{0}_{1}_{2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{0} matches</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230425T040138Z" creationid="WynnChen" creationdate="20230425T040138Z">
+        <seg>{0} 个匹配</seg>
       </tuv>
     </tu>
     <tu>
