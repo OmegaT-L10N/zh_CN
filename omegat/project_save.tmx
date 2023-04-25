@@ -11693,10 +11693,26 @@ included in conveying the object code work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add MediaWiki Pa&amp;ge...</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230425T035803Z" creationid="WynnChen" creationdate="20230425T035803Z">
+        <seg>添加 MediaWiki 页面(&amp;G)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add MediaWiki Page</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230425T035816Z" creationid="WynnChen" creationdate="20230425T035816Z">
+        <seg>添加 MediaWiki 页面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add MediaWiki Page...</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T043431Z" creationid="WynnChen" creationdate="20230323T043431Z">
-        <seg>添加 Add MediaWiki 页面...</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230425T035825Z" creationid="WynnChen" creationdate="20230323T043431Z">
+        <seg>添加 MediaWiki 页面...</seg>
       </tuv>
     </tu>
     <tu>
@@ -18764,6 +18780,14 @@ makes it unnecessary.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Copy error to clipboard</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230425T035740Z" creationid="WynnChen" creationdate="20230425T035740Z">
+        <seg>将错误信息复制到剪贴板</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Copy it to &lt;f0&gt;project_save.tmx&lt;/f0&gt;</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120218T060647Z">
@@ -24895,6 +24919,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Failed to download page</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230425T035840Z" creationid="WynnChen" creationdate="20230425T035840Z">
+        <seg>无法下载页面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Failed to fetch latest version info: {0}</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190324T044819Z" creationid="wynnc" creationdate="20190324T044819Z">
@@ -25048,6 +25080,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T082335Z" creationid="WynnChen" creationdate="20221129T082335Z">
         <seg>文件格式(&amp;F)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>File (segs):</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230425T035753Z" creationid="WynnChen" creationdate="20230425T035753Z">
+        <seg>文件（片段）：</seg>
       </tuv>
     </tu>
     <tu>
@@ -43599,6 +43639,33 @@ OmegaT will now terminate.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT ran out of memory and will close when you click OK.
+Possible solutions:
+ 
+1) Reduce the number of files in the source folder;
+ 
+2) Increase the amount of memory available to OmegaT.
+Use "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" from the command 
+line or in the OmegaT start script;
+The current setting is {0}MB;
+ 
+See "How To... Run OmegaT" in the user manual.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230425T035728Z" creationid="WynnChen" creationdate="20230425T035728Z">
+        <seg>OmegaT 内存不足，将在你单击“确定”后退出。
+可能的解决方案：
+ 
+1) 减少 source 文件夹中的文件数量；
+ 
+2) 增加 OmegaT 可用的内存量。
+在命令行或者 OmegaT 启动脚本中使用“java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar”；
+当前设置是 {0}MB；
+ 
+请参阅用户手册中的“如何... 运行 OmegaT”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT ran out of memory, and will quit when you press OK.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T085605Z" creationid="wynnc" creationdate="20190320T085605Z">
@@ -48078,6 +48145,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T142355Z" creationid="wynnc" creationdate="20190323T142355Z">
         <seg>项目将不会更新。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230425T035743Z" creationid="WynnChen" creationdate="20230425T035743Z">
+        <seg>项目：</seg>
       </tuv>
     </tu>
     <tu>
