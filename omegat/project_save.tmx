@@ -23797,8 +23797,8 @@ No one hears your screams</seg>
       <tuv lang="en">
         <seg>Error loading : {0}</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230425T040154Z" creationid="WynnChen" creationdate="20230425T040154Z">
-        <seg>加载出错：{0}</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230425T040208Z" creationid="WynnChen" creationdate="20230425T040154Z">
+        <seg>加载时出错：{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -28005,6 +28005,14 @@ authors of previous versions.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20221125T054804Z" creationid="wynnc" creationdate="20221125T054726Z">
         <seg>Google API 密钥不可用。相关说明请参阅用户指南。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Google API key not available. See the user manual for instructions.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230425T040500Z" creationid="WynnChen" creationdate="20230425T040500Z">
+        <seg>Google API 密钥不可用。相关说明请参阅用户手册。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37715,10 +37723,26 @@ later version.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>MT engine error happened</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230425T040427Z" creationid="WynnChen" creationdate="20230425T040427Z">
+        <seg>发生了机器翻译引擎错误</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>MT engine error({0}) {1}</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20221125T054640Z" creationid="wynnc" creationdate="20221125T054640Z">
         <seg>机器翻译引擎错误（{0}）{1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>MT({0}) report error {1}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230425T040439Z" creationid="WynnChen" creationdate="20230425T040404Z">
+        <seg>机器翻译（{0}）报告错误 {1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -57913,6 +57937,14 @@ software and other kinds of works.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The HTML parser encountered an error during file processing:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230425T040327Z" creationid="WynnChen" creationdate="20230425T040327Z">
+        <seg>HTML 解析器在文件处理过程中遇到错误：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The HTML parser threw an exception during file processing:</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20230221T084151Z" creationid="WynnChen" creationdate="20230221T084151Z">
@@ -57941,6 +57973,14 @@ software and other kinds of works.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Zenobia Fang" changedate="20180423T135426Z" creationid="Zenobia Fang" creationdate="20180423T135426Z">
         <seg>OmegaT 会自带 JRE，不需要单独下载。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Java Resource Bundles filter encountered an error:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230425T040230Z" creationid="WynnChen" creationdate="20230425T040230Z">
+        <seg>Java 资源包筛选器遇到错误：</seg>
       </tuv>
     </tu>
     <tu>
@@ -58089,6 +58129,14 @@ software and other kinds of works.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Moodle PHP filter encountered an error:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230425T040250Z" creationid="WynnChen" creationdate="20230425T040250Z">
+        <seg>Moodle PHP 筛选器遇到错误：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Moodle PHP filter threw an exception:</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T103754Z" creationid="wynnc" creationdate="20190322T063711Z">
@@ -58105,10 +58153,26 @@ software and other kinds of works.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Mozilla DTD filter encountered an error:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230425T040257Z" creationid="WynnChen" creationdate="20230425T040257Z">
+        <seg>Mozilla DTD 筛选器遇到错误：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Mozilla DTD filter threw an exception:</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T103754Z" creationid="wynnc" creationdate="20190322T063816Z">
         <seg>Mozilla DTD 筛选器抛出异常：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Mozilla FTL filter encountered an error:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230425T040305Z" creationid="WynnChen" creationdate="20230425T040305Z">
+        <seg>Mozilla FTL 筛选器遇到错误：</seg>
       </tuv>
     </tu>
     <tu>
@@ -58285,6 +58349,14 @@ software and other kinds of works.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221224T033156Z" creationid="WynnChen" creationdate="20221224T033156Z">
         <seg>加号：&lt;l0&gt;+&lt;/l0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The PO filter encountered an error:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230425T040205Z" creationid="WynnChen" creationdate="20230425T040205Z">
+        <seg>PO 筛选器遇到错误：</seg>
       </tuv>
     </tu>
     <tu>
@@ -68633,6 +68705,14 @@ Use Tools &gt; Check Issues... to correct the tag errors and try again.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unable to get result</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230425T040445Z" creationid="WynnChen" creationdate="20230425T040445Z">
+        <seg>无法获取结果</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unable to initialize read of XML file!</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190322T054849Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -69013,6 +69093,14 @@ Use Tools &gt; Check Issues... to correct the tag errors and try again.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210916T041121Z" creationid="wynnc" creationdate="20190320T171148Z">
         <seg>不重复片段：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unknown language code {0} specified</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230425T040349Z" creationid="WynnChen" creationdate="20230425T040349Z">
+        <seg>指定了未知的语言代码 {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -73641,6 +73729,14 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20230221T083955Z" creationid="WynnChen" creationdate="20230221T083955Z">
         <seg>XLIFF（旧版筛选器）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>XLIFF 1</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230425T040212Z" creationid="WynnChen" creationdate="20230425T040212Z">
+        <seg>XLIFF 1</seg>
       </tuv>
     </tu>
     <tu>
