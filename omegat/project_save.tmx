@@ -27551,6 +27551,14 @@ authors of previous versions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Glossary files folder</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230425T032719Z" creationid="WynnChen" creationdate="20230425T032719Z">
+        <seg>词汇表文件文件夹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Glossary files folder entered does not exist!</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T181335Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -29915,6 +29923,14 @@ their defaults as a result of the location change.</seg>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T111208Z" creationid="wynnc" creationdate="20190323T111208Z">
         <seg>如果稍后给予了访问所需位置的权限，则将使用该位置，
 并且所有设置将因位置更改而恢复为其默认值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If matches are found, they are displayed in the &lt;l0/&gt; pane.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230425T032710Z" creationid="WynnChen" creationdate="20230425T032710Z">
+        <seg>如果找到匹配项，它们会显示在&lt;l0/&gt;窗格中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34670,6 +34686,14 @@ everything.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="lenovo" changedate="20180416T171329Z" creationid="lenovo" creationdate="20180416T171329Z">
         <seg>在&lt;a1&gt;本地化译者列表&lt;/a1&gt;（OmT-l10n）上询问是否有任何参考资料可能有助于您的翻译。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is automatically created the first time a term is added.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230425T032934Z" creationid="WynnChen" creationdate="20230425T032934Z">
+        <seg>它会在第一次添加词条时自动创建。</seg>
       </tuv>
     </tu>
     <tu>
@@ -62831,6 +62855,14 @@ protocols for communication across the network.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The writable glossary is the file that OmegaT uses when you add translated glossary terms to your project with the &lt;l0/&gt;&lt;l1/&gt; command.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230425T032905Z" creationid="WynnChen" creationdate="20230425T032905Z">
+        <seg>可写词汇表是当你用&lt;l0/&gt;&lt;l1/&gt;命令向项目中添加翻译词汇表词条时 OmegaT 所使用的文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The writable project glossary is located in the &lt;l0/&gt; folder by default and called &lt;l1/&gt;.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T100725Z" creationid="WynnChen" creationdate="20221212T100725Z">
@@ -64429,6 +64461,14 @@ the server.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20230425T031833Z" creationid="WynnChen" creationdate="20230425T031802Z">
         <seg>此文件夹包含要翻译的文件。OmegaT 会尝试一次性读取所有文件，并在编辑器中显示它找到的可翻译内容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This folder contains the files that you want to use as reference glossaries. OmegaT tries to read all the files at once, and compares their contents to the segment you are translating.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230425T032739Z" creationid="WynnChen" creationdate="20230425T032739Z">
+        <seg>此文件夹包含要用作参考词汇表的文件。OmegaT 会尝试一次性读取所有文件，并将它们的内容与正在翻译的片段进行比较。</seg>
       </tuv>
     </tu>
     <tu>
