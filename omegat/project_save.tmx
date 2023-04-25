@@ -17502,6 +17502,14 @@ Exception occurred:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Click on the button to select the folder that you want to use instead of the default resource folder.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230425T031708Z" creationid="WynnChen" creationdate="20230425T031521Z">
+        <seg>点击此按钮来选择要用来代替默认资源文件夹的文件夹。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Click on the icon button (to the right of the Name/Description/Comment fields)</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190902T110040Z">
@@ -57332,8 +57340,8 @@ form of a work.</seg>
       <tuv lang="en">
         <seg>The &lt;g0&gt;Browse&lt;/g0&gt; button is available for all user-definable project resources.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230425T031222Z" creationid="WynnChen" creationdate="20230425T031222Z">
-        <seg>&lt;g0&gt;浏览&lt;/g0&gt;按钮可用于查看所有用户定义的项目资源。</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230425T031541Z" creationid="WynnChen" creationdate="20230425T031222Z">
+        <seg>&lt;g0&gt;浏览&lt;/g0&gt;按钮可用于所有可由用户定义的项目资源。</seg>
       </tuv>
     </tu>
     <tu>
