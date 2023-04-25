@@ -11597,6 +11597,14 @@ included in conveying the object code work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Activating this function hides the tags in the source segments, freeing you from the need to handle them manually.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T100613Z" creationid="WynnChen" creationdate="20230323T100613Z">
+        <seg>激活此功能可隐藏原文片段中的标签，使您不必手动处理它们。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Active segment source</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T163043Z" creationid="wynnc" creationdate="20190323T163043Z">
@@ -13161,6 +13169,14 @@ the predecessor has it or can get it with reasonable efforts.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20200123T012639Z" creationid="WynnChen" creationdate="20200123T012639Z">
         <seg>OmegaT 项目是一个文件夹，其中包含若干文件和子文件夹。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An OmegaT translation project consists of a number of resources in separate folders.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T103230Z" creationid="WynnChen" creationdate="20230323T103230Z">
+        <seg>OmegaT 翻译项目由位于不同文件夹中的多个资源组成。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15801,6 +15817,22 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By default, external searches are global and are shared by all projects. They are defined in the &lt;l0/&gt; preferences.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T102908Z" creationid="WynnChen" creationdate="20230323T102908Z">
+        <seg>默认情况下，外部搜索是全局的，由所有项目共享。它们是在&lt;l0/&gt;首选项中定义的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By default, file filter settings are global and shared by all projects. They are found in the &lt;l0/&gt; preferences.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T102535Z" creationid="WynnChen" creationdate="20230323T102535Z">
+        <seg>默认情况下，文件筛选器设置是全局的，由所有项目共享。可以在&lt;l0/&gt;首选项中看到它们。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By default, it is not possible to select words in the source segment using the keyboard rather than the mouse.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Doris" changedate="20180419T013607Z" creationid="Doris" creationdate="20180419T013607Z">
@@ -17848,6 +17880,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190324T045442Z" creationid="wynnc" creationdate="20190324T045442Z">
         <seg>命令</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Commands specified here are only available to this project. They are saved in the &lt;l0/&gt; file. Only enable local post-processing commands if you trust the source of that file.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T102316Z" creationid="WynnChen" creationdate="20230323T102316Z">
+        <seg>此处指定的命令仅对此项目可用。它们保存在&lt;l0/&gt;文件中。仅当您信任该文件的来源时才启用局部后处理命令。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23439,6 +23479,14 @@ is the language code and YY is the region or country code (optional).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enter the commands you want to run in this field.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T102226Z" creationid="WynnChen" creationdate="20230323T102226Z">
+        <seg>在此字段中输入要运行的命令。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enter the name of this set:</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20221125T055124Z" creationid="wynnc" creationdate="20221125T055124Z">
@@ -26314,6 +26362,22 @@ know their rights.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For security purposes, local project-based external searches are disabled by default. To enable them, check &lt;l0/&gt; in the &lt;l1/&gt; preferences.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T103209Z" creationid="WynnChen" creationdate="20230323T103209Z">
+        <seg>出于安全考虑，默认情况下禁用基于项目的局部外部搜索。要启用它们，请勾选&lt;l1/&gt;首选项中的&lt;l0/&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For security reasons, local post-processing commands are disabled by default.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T101050Z" creationid="WynnChen" creationdate="20230323T101050Z">
+        <seg>出于安全原因，默认情况下禁用局部后处理命令。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For some file types, OmegaT differentiates between identical segments by referring to their preceding and following segments.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Zoe" changedate="20180411T131606Z" creationid="Zoe" creationdate="20180411T131606Z">
@@ -28468,6 +28532,14 @@ Note: not all filters allow you to select an encoding.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Hidden tags are simply stacked at the end of the segment. Although this does not normally prevent the translated file from opening, keep the following points in mind when using this function:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T100914Z" creationid="WynnChen" creationdate="20230323T100914Z">
+        <seg>隐藏的标签简单地堆叠在片段的末尾。尽管这通常不会阻止打开翻译后的文件，但在使用此功能时请记住以下几点：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Hide &amp;leading and trailing tags</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20230221T084031Z" creationid="WynnChen" creationdate="20230221T084031Z">
@@ -28504,6 +28576,14 @@ Note: not all filters allow you to select an encoding.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20230224T113127Z" creationid="WynnChen" creationdate="20230224T113127Z">
         <seg>隐藏开头和末尾的标签</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hide tags</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T100515Z" creationid="WynnChen" creationdate="20230323T100515Z">
+        <seg>隐藏标签</seg>
       </tuv>
     </tu>
     <tu>
@@ -30994,6 +31074,14 @@ free software which everyone can redistribute and change under these terms.</seg
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you do not activate this option, all segments can be assigned a different translation, even if they are duplicated in the project.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T100511Z" creationid="WynnChen" creationdate="20230323T100511Z">
+        <seg>如果不激活此选项，则可以为所有片段分配不同的翻译，哪怕它们在项目中是重复的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you do not already have an Azure Marketplace account you will need to register one first.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="weiyi" changedate="20180405T150119Z" creationid="weiyi" creationdate="20180405T145008Z">
@@ -31425,6 +31513,14 @@ to use Java Web Start.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20200120T032852Z" creationid="weiyi" creationdate="20180406T022017Z">
         <seg>如果您在按&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;G&lt;/k3&gt; &lt;/k0&gt;之前（于任意窗格中）选择了文本字符串，则默认会将选中的文本粘贴到&lt;g4&gt;原文词汇&lt;/g4&gt;字段中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you simply want to reduce the number of tags in a &lt;a0&gt;Microsoft Word&lt;/a0&gt; (2007 and later) document, you can use the &lt;l1/&gt; script.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T101026Z" creationid="WynnChen" creationdate="20230323T101026Z">
+        <seg>如果只是想减少 &lt;a0&gt;Microsoft Word&lt;/a0&gt;（2007 及更高版本）文档中的标签数量，可以使用&lt;l1/&gt;脚本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37107,6 +37203,14 @@ later version.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local File Filters...</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T102450Z" creationid="WynnChen" creationdate="20230323T102450Z">
+        <seg>局部文件筛选器...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Local File/Folder</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T180824Z" creationid="wynnc" creationdate="20190320T180824Z">
@@ -37143,6 +37247,14 @@ later version.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T052203Z" creationid="WynnChen" creationdate="20230323T052203Z">
         <seg>局部分割规则...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Local commands are run before global commands.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T102442Z" creationid="WynnChen" creationdate="20230323T102442Z">
+        <seg>局部命令在全局命令之前运行。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42303,6 +42415,14 @@ combination as such.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T105224Z" creationid="WynnChen" creationdate="20221209T105209Z">
         <seg>OmegaT 可以通过诸如添加语言代码或时间戳的方式自动为你所创建的文件建立新的文件名。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT can automatically run commands after the target files have been created.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T102212Z" creationid="WynnChen" creationdate="20230323T102212Z">
+        <seg>OmegaT 可以在创建译文文件后自动运行命令。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49753,6 +49873,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Resource folders can be located anywhere on your system, including on shared disks.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T103408Z" creationid="WynnChen" creationdate="20230323T103408Z">
+        <seg>资源文件夹可以位于系统上的任何位置，包括共享磁盘上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Resource name</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190324T025230Z" creationid="wynnc" creationdate="20190324T025230Z">
@@ -51699,6 +51827,14 @@ When using regular expressions, the replacement string supports references to gr
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l0/&gt; appendix for details.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T102339Z" creationid="WynnChen" creationdate="20230323T102339Z">
+        <seg>有关详细信息，请参阅&lt;l0/&gt;附录。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the &lt;l0/&gt; appendix for general explanations about segmentation (global or local, paragraph or sentence, settings, and so on).</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T052148Z" creationid="WynnChen" creationdate="20230323T052148Z">
@@ -51731,6 +51867,14 @@ When using regular expressions, the replacement string supports references to gr
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l0/&gt; preferences for details.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T102153Z" creationid="WynnChen" creationdate="20230323T102153Z">
+        <seg>有关详细信息，请参阅&lt;l0/&gt;首选项。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the &lt;l0/&gt; projet property for project specific commands.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T112210Z" creationid="WynnChen" creationdate="20221222T112057Z">
@@ -51743,6 +51887,14 @@ When using regular expressions, the replacement string supports references to gr
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T051525Z" creationid="WynnChen" creationdate="20230323T051525Z">
         <seg>有关详细信息，请参阅&lt;l0/&gt;章节。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See the &lt;l0/&gt; section of the &lt;l1/&gt; how-to for details.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T102830Z" creationid="WynnChen" creationdate="20230323T102830Z">
+        <seg>详情请参阅指南&lt;l1/&gt;的&lt;l0/&gt;部分。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56039,6 +56191,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120203T121348Z">
         <seg>标签不是单个的就是成对的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tags are generally useful to reproduce specific layouts or characteristics of the source text in the translated text.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T100556Z" creationid="WynnChen" creationdate="20230323T100556Z">
+        <seg>标签通常用于在译文文本中再现原文文本的特定布局或特征。</seg>
       </tuv>
     </tu>
     <tu>
@@ -60986,6 +61146,22 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The project will store the new set of external searches in the &lt;l0/&gt; file located in its &lt;l1/&gt; folder. These settings will supersede the global external searches settings.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T103029Z" creationid="WynnChen" creationdate="20230323T102952Z">
+        <seg>该项目将把新的外部搜索集合存储在其 &lt;l1/&gt; 文件夹中的 &lt;l0/&gt; 文件内。这些设置将取代全局外部搜索设置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The project will store the new set of file filters in the &lt;l0/&gt; file located in its &lt;l1/&gt; folder. These settings will supersede the global file filter settings.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T103014Z" creationid="WynnChen" creationdate="20230323T102648Z">
+        <seg>该项目将把新的文件筛选器集合存储在其 &lt;l1/&gt; 文件夹中的 &lt;l0/&gt; 文件内。这些设置将取代全局文件筛选器设置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The project will store the new set of rules in the &lt;l0/&gt; file located in its &lt;l1/&gt; folder. These rules will supersede the global segmentation rules.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T052541Z" creationid="WynnChen" creationdate="20230323T052541Z">
@@ -62066,6 +62242,14 @@ protocols for communication across the network.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120217T150201Z">
         <seg>该团队还可以使用相同的子目录结构来保存目标文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The template variables list gives you access to various project data and system variables.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T102332Z" creationid="WynnChen" creationdate="20230323T102332Z">
+        <seg>模板变量列表使您可以访问各种项目数据和系统变量。</seg>
       </tuv>
     </tu>
     <tu>
@@ -64457,6 +64641,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This is especially useful when dealing with texts where inline formatting is not particularly useful (e.g., OCRed PDF, or poorly converted .odt or .docx files.)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T100817Z" creationid="WynnChen" creationdate="20230323T100817Z">
+        <seg>在处理内联格式并不特别有用的文本（如OCRed PDF、转换不佳的 .odt 或 .docx 文件）时特别有用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This is especially useful when dealing with texts where inline formatting is not really useful (e.g., OCRed PDF, bad converted .odt or .docx, etc.) In a normal case it should always be possible to open the target documents, as only inline tags are removed.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131118T124722Z" creationid="Fu Rhong" creationdate="20131118T124312Z">
@@ -65883,6 +66075,14 @@ public, and in some countries other activities as well.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To delete project specific external searches, click on the &lt;g0&gt;Remove&lt;/g0&gt; button or remove that file.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T103105Z" creationid="WynnChen" creationdate="20230323T103105Z">
+        <seg>若要删除项目专用的外部搜索，请单击&lt;g0&gt;删除&lt;/g0&gt;按钮或删除该文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To delete project specific file filters, uncheck the check box.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131118T115714Z" creationid="Fu Rhong" creationdate="20131118T115714Z">
@@ -65911,6 +66111,14 @@ public, and in some countries other activities as well.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T052613Z" creationid="WynnChen" creationdate="20230323T052613Z">
         <seg>要禁用局部分割规则，请禁用此选项或删除该文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To disable project-specific file filters, uncheck the box or remove that file.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T103121Z" creationid="WynnChen" creationdate="20230323T102741Z">
+        <seg>要禁用项目专用文件筛选器，取消对此复选框的勾选或删除此文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -69421,6 +69629,22 @@ OmegaT 选项：
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; and its submenus to access the locations of the project resources.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T103502Z" creationid="WynnChen" creationdate="20230323T103502Z">
+        <seg>使用&lt;l0/&gt;&lt;l1/&gt;及其子菜单访问项目资源所在的位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; or &lt;l2/&gt;&lt;l3/&gt; to create the target files and trigger the command.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T102251Z" creationid="WynnChen" creationdate="20230323T102251Z">
+        <seg>用&lt;l0/&gt;&lt;l1/&gt;或&lt;l2/&gt;&lt;l3/&gt;来创建译文文件并触发命令。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l0/&gt;&lt;l1/&gt; to access it directly.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T104551Z" creationid="WynnChen" creationdate="20221222T104551Z">
@@ -69433,6 +69657,14 @@ OmegaT 选项：
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T051255Z" creationid="WynnChen" creationdate="20230323T051255Z">
         <seg>使用&lt;l0/&gt;&lt;l1/&gt;访问全局分割规则。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to assign an alternative translation to segments that require a different translation.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T100439Z" creationid="WynnChen" creationdate="20230323T100439Z">
+        <seg>使用&lt;l0/&gt;&lt;l1/&gt;来为需要不同翻译的片段分配备选翻译。</seg>
       </tuv>
     </tu>
     <tu>
@@ -69809,6 +70041,22 @@ OmegaT 选项：
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20200116T061536Z" creationid="wynnc" creationdate="20190902T071054Z">
         <seg>借助这些帮助文字来起步。如果碰到问题，可以在 &lt;u0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt; 用户组&lt;/u0&gt;中发帖。可以用您所最熟悉的语言发帖，无需犹豫。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use this button to create local external searches specific to your project and adjust the settings as desired.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T102934Z" creationid="WynnChen" creationdate="20230323T102934Z">
+        <seg>使用此按钮可以创建专属于项目的局部外部搜索，并根据需要调整设置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use this button to create local file filters specific to your project. Check the &lt;o0&gt;Use local file filter settings&lt;/o0&gt; box, and adjust the settings as desired.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T102616Z" creationid="WynnChen" creationdate="20230323T102616Z">
+        <seg>使用此按钮可以创建专属于项目的局部文件筛选器。勾选&lt;o0&gt;使用局部文件筛选器设置&lt;/o0&gt;复选框，并根据需要调整设置。</seg>
       </tuv>
     </tu>
     <tu>
@@ -71254,6 +71502,14 @@ of selecting, obtaining and installing it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When a new project is created, OmegaT proposes a default project folder structure that contains all the resources used in the translation, but that structure is not compulsory.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T103352Z" creationid="WynnChen" creationdate="20230323T103352Z">
+        <seg>当创建新项目时，OmegaT 会推荐一个默认的项目文件夹结构，其中包含翻译中使用的所有资源，但该结构不是强制的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When a rule is triggered, the corresponding phrase will be underlined in blue in the Editor (see &lt;e1&gt;also &lt;/e1&gt;and &lt;e2&gt;I didn't do nothing&lt;/e2&gt; in the picture above).</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Lenovo" changedate="20180418T085508Z" creationid="Fu Rhong" creationdate="20131108T113145Z">
@@ -71597,6 +71853,14 @@ free programs, and that you know you can do these things.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190902T055502Z" creationid="wynnc" creationdate="20190902T055348Z">
         <seg>在处理团队项目时，此窗口允许您定义远程文件夹和本地文件夹之间的映射（示例参见&lt;l0&gt;此处&lt;/l0&gt;）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When working on a team project, this window allows you to define the mapping between the remote and local folders.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T102803Z" creationid="WynnChen" creationdate="20230323T102803Z">
+        <seg>在处理团队项目时，此窗口允许您定义远程和本地文件夹之间的映射。</seg>
       </tuv>
     </tu>
     <tu>
@@ -73093,6 +73357,14 @@ covered work, you indicate your acceptance of this License to do so.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can also define global post-processing commands available to all projects that share the same configuration folder. Such commands are defined in the &lt;l0/&gt; preference.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T102427Z" creationid="WynnChen" creationdate="20230323T102427Z">
+        <seg>还可以定义共享同一配置文件夹的所有项目都可用的全局后处理命令。此类命令在&lt;l0/&gt;首选项中定义。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can also define various options relating to tag validation and define custom tags.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20201125T054743Z" creationid="wynnc" creationdate="20201125T054743Z">
@@ -73631,6 +73903,14 @@ linux-install.sh 脚本的文件夹，然后用 ./linux-install.sh 执行脚本�
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20191219T023546Z" creationid="WynnChen" creationdate="20191219T023546Z">
         <seg>你可以通过编辑 &lt;e0&gt;Properties&lt;/e0&gt; 以及包中的 &lt;f1&gt;Configuration.properties&lt;/f1&gt; 文件来修改 OmegaT 的行为。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can modify the structure of your project by adding or removing files from the folders, or even by changing the folders used by the project at any time, even during the course of the translation.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T103437Z" creationid="WynnChen" creationdate="20230323T103437Z">
+        <seg>您可以通过在文件夹中添加或删除文件来修改项目的结构，甚至可以随时更改项目使用的文件夹，即使在翻译过程中也是如此。</seg>
       </tuv>
     </tu>
     <tu>
@@ -74488,6 +74768,14 @@ them.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190324T041228Z" creationid="wynnc" creationdate="20190324T041108Z">
         <seg>每次启动 OmegaT 时，系统都会提示您输入此密码。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You will have to manually apply bold, italics, or other text decorations in the translated file.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T100941Z" creationid="WynnChen" creationdate="20230323T100941Z">
+        <seg>你必须在翻译后的文件中手动应用粗体、斜体或其他文本修饰。</seg>
       </tuv>
     </tu>
     <tu>
