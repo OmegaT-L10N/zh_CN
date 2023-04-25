@@ -64433,6 +64433,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This folder contains the files that you want to use as reference translation memories. OmegaT tries to read all the files at once, and compares their contents to the segment you are translating.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230425T032644Z" creationid="WynnChen" creationdate="20230425T032644Z">
+        <seg>此文件夹包含要用作参考翻译记忆库的文件。OmegaT 会尝试一次性读取所有文件，并将它们的内容与正在翻译的片段进行比较。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This folder contains your spelling dictionaries. See &lt;l0/&gt; for details.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221206T142430Z" creationid="WynnChen" creationdate="20221206T141806Z">
@@ -67715,6 +67723,14 @@ install.sh.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Yujun Yin" changedate="20131007T073755Z" creationid="Yujun Yin" creationdate="20131007T073755Z">
         <seg>如果译文中存在大量重复，或相似的句段，译法记忆文件可以有效提高效率。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translation memories folder</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230425T032538Z" creationid="WynnChen" creationdate="20230425T032538Z">
+        <seg>翻译记忆库文件夹</seg>
       </tuv>
     </tu>
     <tu>
