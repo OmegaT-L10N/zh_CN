@@ -20969,6 +20969,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Dictionaries folder</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230425T033029Z" creationid="WynnChen" creationdate="20230425T033029Z">
+        <seg>词典文件夹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Dictionaries folder:</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T071329Z" creationid="WynnChen" creationdate="20221129T071329Z">
@@ -24435,6 +24443,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20221125T055218Z" creationid="wynnc" creationdate="20221125T055218Z">
         <seg>导出翻译记忆库文件夹 {0} 不存在。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Exported translation memories folder</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230425T033457Z" creationid="WynnChen" creationdate="20230425T033457Z">
+        <seg>导出的翻译记忆库文件夹</seg>
       </tuv>
     </tu>
     <tu>
@@ -40321,6 +40337,14 @@ appropriate location such as the Applications folder.</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="en">
+        <seg>Newly added entries are automatically recognized and displayed if they match terms in the current segment.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230425T033005Z" creationid="WynnChen" creationdate="20230425T033005Z">
+        <seg>如果新添加的条目和当前片段中的词汇匹配，则会自动识别并显示它们。</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>有点怪</note>
       <tuv lang="en">
         <seg>Newly added terms will not be recognized once the changes in the text file have been saved.</seg>
@@ -52235,6 +52259,14 @@ When using regular expressions, the replacement string supports references to gr
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Segments that have been translated are replaced by their translation and untranslated segments remain in the source language.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230425T033238Z" creationid="WynnChen" creationdate="20230425T033238Z">
+        <seg>已翻译的片段会被替换为其译文，而未翻译的片段则维持原文。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Segments which occur more than once are described in OmegaT as "non-unique segments".</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="lenovo" changedate="20180416T120046Z" creationid="lenovo" creationdate="20180416T115952Z">
@@ -59607,6 +59639,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The folder structure mirrors that of the &lt;l0/&gt; folder. Files that are not supported by OmegaT’s file filters are copied without modification.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230425T033427Z" creationid="WynnChen" creationdate="20230425T033427Z">
+        <seg>文件夹的结构镜像了 &lt;l0/&gt; 文件夹的结构。不受 OmegaT 的文件筛选器支持的文件会不做改动原样复制。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The folder where distributed scripts are located. See &lt;l0/&gt; for details.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221205T120910Z" creationid="WynnChen" creationdate="20221205T120910Z">
@@ -62486,6 +62526,14 @@ protocols for communication across the network.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The translated files are the translated versions of the files located in the &lt;l0/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230425T033211Z" creationid="WynnChen" creationdate="20230425T033211Z">
+        <seg>译文文件是位于 &lt;l0/&gt; 文件夹中的文件翻译后的版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The translated files folder does not exist!</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T073605Z" creationid="WynnChen" creationdate="20221129T073605Z">
@@ -64401,6 +64449,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This file is &lt;e0&gt;always&lt;/e0&gt; located in the &lt;l1/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230425T033023Z" creationid="WynnChen" creationdate="20230425T033023Z">
+        <seg>此文件&lt;e0&gt;始终&lt;/e0&gt;位于 &lt;l1/&gt; 文件夹中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This file is not a plugin archive.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T102825Z" creationid="WynnChen" creationdate="20221222T102825Z">
@@ -64461,6 +64517,14 @@ the server.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20230425T031833Z" creationid="WynnChen" creationdate="20230425T031802Z">
         <seg>此文件夹包含要翻译的文件。OmegaT 会尝试一次性读取所有文件，并在编辑器中显示它找到的可翻译内容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This folder contains the files that you want to use as reference dictionaries. OmegaT tries to read all the files at once, and matches their contents to the segment you are translating.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230425T033050Z" creationid="WynnChen" creationdate="20230425T033050Z">
+        <seg>此文件夹包含要用作参考词典的文件。OmegaT 会尝试一次性读取所有文件，并将它们的内容与正在翻译的片段进行匹配。</seg>
       </tuv>
     </tu>
     <tu>
@@ -64869,6 +64933,22 @@ the server.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Zoe" changedate="20180411T135828Z" creationid="Zoe" creationdate="20180411T135655Z">
         <seg>这个文件夹将用于存放拼写字典。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is the folder where OmegaT copies the current state of the translation in the form of TMX files when you create the translated files.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230425T033629Z" creationid="WynnChen" creationdate="20230425T033629Z">
+        <seg>当你创建译文文件时 OmegaT 会将翻译的当前状态以 TMX 文件的形式复制到此文件夹中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is the folder where OmegaT creates the translated files.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230425T033139Z" creationid="WynnChen" creationdate="20230425T033139Z">
+        <seg>这是 OmegaT 存放所创建译文文件的文件夹。</seg>
       </tuv>
     </tu>
     <tu>
@@ -67607,6 +67687,14 @@ install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translated files folder</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230425T033059Z" creationid="WynnChen" creationdate="20230425T033059Z">
+        <seg>译文文件文件夹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translated files folder entered does not exist!</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T181330Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -69753,6 +69841,14 @@ OmegaT 选项：
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20200123T044359Z" creationid="WynnChen" creationdate="20200123T043215Z">
         <seg>用 &lt;g0&gt;ID 比较&lt;/g0&gt;模式来对齐 键=值 文本。即使两个文件中键的顺序不同或两个文件包含的信息数量不等，这种方式也有效。仅当两个文件都被识别为 键=值 文件时才会出现此选项。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt; or &lt;l1/&gt; to create the translated files.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230425T033441Z" creationid="WynnChen" creationdate="20230425T033441Z">
+        <seg>用&lt;l0/&gt;或&lt;l1/&gt;来创建译文文件。</seg>
       </tuv>
     </tu>
     <tu>
