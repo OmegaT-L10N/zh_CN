@@ -17566,6 +17566,14 @@ Exception occurred:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Click the &lt;g0&gt;Exclusions...&lt;/g0&gt; button to specify files or folders that should be ignored by OmegaT. An ignored file or folder is:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230425T032119Z" creationid="WynnChen" creationdate="20230425T032119Z">
+        <seg>点击&lt;g0&gt;排除...&lt;/g0&gt;按钮可指定 OmegaT 要忽略的文件或文件夹。被忽略的文件或文件夹会：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Click the &lt;g0&gt;Restore Defaults&lt;/g0&gt; button to reset the file filters to their default settings.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T103754Z" creationid="WynnChen" creationdate="20221209T101428Z">
@@ -24275,6 +24283,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T160602Z" creationid="wynnc" creationdate="20190323T160602Z">
         <seg>排除模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Exclusions...</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230425T032019Z" creationid="WynnChen" creationdate="20230425T032019Z">
+        <seg>排除...</seg>
       </tuv>
     </tu>
     <tu>
@@ -57577,6 +57593,14 @@ Source.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Exclusion patterns dialog allows you to add or remove a pattern, or edit one either by double-clicking it or selecting it and pressing &lt;k0&gt;F2&lt;/k0&gt;. Use the &lt;u1&gt;Apache ant syntax&lt;/u1&gt; to define exclusions.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230425T032531Z" creationid="WynnChen" creationdate="20230425T032531Z">
+        <seg>排除模式对话框允许你添加或删除模式，或者通过双击某个模式或选定后按 &lt;k0&gt;F2&lt;/k0&gt; 来编辑它。使用 &lt;u1&gt;Apache ant 语法&lt;/u1&gt;来定义排除项。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Free Software Foundation may publish revised and/or new versions of
 the GNU General Public License from time to time.  Such new versions will
 be similar in spirit to the present version, but may differ in detail to
@@ -82133,10 +82157,34 @@ If the project contains files but their content is not displayed here:
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>not copied to the &lt;l0/&gt; folder when the translated files are created.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230425T032238Z" creationid="WynnChen" creationdate="20230425T032238Z">
+        <seg>在生成译文文件时不会被复制到 &lt;l0/&gt; 目录中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>not displayed in the &lt;l0/&gt; pane,</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230425T032135Z" creationid="WynnChen" creationdate="20230425T032135Z">
+        <seg>不显示在&lt;l0/&gt;窗格中、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>not fuzzy</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T023742Z" creationid="WynnChen" creationdate="20221212T023742Z">
         <seg>非模糊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>not taken into account in the various statistics reports (such as the &lt;l0/&gt;&lt;l1/&gt; command), and</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230425T032213Z" creationid="WynnChen" creationdate="20230425T032213Z">
+        <seg>不会计入各种统计报告（诸如&lt;l0/&gt;&lt;l1/&gt;命令）中、且</seg>
       </tuv>
     </tu>
     <tu>
