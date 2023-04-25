@@ -30280,6 +30280,14 @@ copy of the Program in return for a fee.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the folder is empty, none of the files contain translatable content, or there are no files supported by the available file filters, OmegaT will tell you that the folder is empty.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230425T032014Z" creationid="WynnChen" creationdate="20230425T032014Z">
+        <seg>如果文件夹是空的、所有文件都不包含可翻译内容、或者所有文件都不受可用文件筛选器支持，OmegaT 会告诉你文件夹是空的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the language of the user's system is not available, &lt;a6&gt;OmegaT&lt;/a6&gt; defaults to English.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131031T075040Z">
@@ -54413,6 +54421,14 @@ of the GPL, as needed to protect the freedom of users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source files folder</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230425T031716Z" creationid="WynnChen" creationdate="20230425T031716Z">
+        <seg>原文文件文件夹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source files folder entered does not exist!</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T181327Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -64381,6 +64397,14 @@ the server.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221205T122011Z" creationid="WynnChen" creationdate="20221205T122011Z">
         <seg>此文件夹包含许多日志文件。最新的是 &lt;f0&gt;OmegaT.log&lt;/f0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This folder contains the files that you want to translate. OmegaT tries to read all the files at once, and displays the translatable contents it finds in the editor.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230425T031833Z" creationid="WynnChen" creationdate="20230425T031802Z">
+        <seg>此文件夹包含要翻译的文件。OmegaT 会尝试一次性读取所有文件，并在编辑器中显示它找到的可翻译内容。</seg>
       </tuv>
     </tu>
     <tu>
