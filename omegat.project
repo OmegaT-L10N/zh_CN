@@ -36,6 +36,9 @@
                 <mapping local="source/scripts/nbsp.properties" repository="scripts/properties/nbsp.properties"/>
                 <mapping local="source/scripts/tagwipe.properties" repository="scripts/properties/tagwipe.properties"/>
             </repository>
+            <repository type="http" url="https://raw.githubusercontent.com/omegat-org/omegat/releases/">
+                <mapping local="source/5.8/Bundle.properties" repository="5.8/src/org/omegat/Bundle.properties"/>
+            </repository>
             <repository type="svn" url="https://github.com/omegat-org/omegat-website.git/trunk/_i18n/en/">
                 <mapping local="source/website/" repository="/">
                     <excludes>**/howtos/**</excludes>
