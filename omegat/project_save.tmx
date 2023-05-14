@@ -12997,6 +12997,14 @@ rights of fair use or other equivalent, as provided by copyright law.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Also, consider testing &lt;a0&gt;nightly builds&lt;/a0&gt; of OmegaT that may contain even more new and fascinating bugs!</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230514T151925Z" creationid="WynnChen" creationdate="20230514T151925Z">
+        <seg>另外，考虑测试 OmegaT 的&lt;a0&gt;每日构建版&lt;/a0&gt;，它可能包含更新更稀奇古怪的 bug!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Alt</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T125204Z" creationid="WynnChen" creationdate="20230227T125204Z">
@@ -43759,6 +43767,14 @@ to be launched.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20200116T073626Z" creationid="WynnChen" creationdate="20200116T073626Z">
         <seg>OmegaT 是用 Java 编写的。如果你是程序员又刚好懂 Java，请查看&lt;a0&gt;源代码&lt;/a0&gt;中 docs_devel 文件夹内的文档来了解如何开始研发。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT is written in Java. If you're a programmer, and you happen to know Java, please check the &lt;a0&gt;OmegaT contribution guide&lt;/a0&gt;, or its document source text in the &lt;a1&gt;source code&lt;/a1&gt; under /docs_devel for information on how to get started.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230514T152033Z" creationid="WynnChen" creationdate="20230514T152033Z">
+        <seg>OmegaT 是用 Java 编写的。如果你是程序员又刚好懂 Java，请查看 &lt;a0&gt;OmegaT 贡献指南&lt;/a0&gt;或&lt;a1&gt;源代码&lt;/a1&gt;中 docs_devel 文件夹内的文档来了解如何开始研发。</seg>
       </tuv>
     </tu>
     <tu>
