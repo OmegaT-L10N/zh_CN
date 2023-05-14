@@ -23995,6 +23995,14 @@ No one hears your screams</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error while reading a TMX file in the project: {0}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230514T150357Z" creationid="WynnChen" creationdate="20230514T150357Z">
+        <seg>读取项目中的 TMX 文件时出错：{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error while trying to edit the project!</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T110944Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -24327,6 +24335,14 @@ No one hears your screams</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
         <seg>编辑选项时发生异常：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Exception while parsing "project_save.tmx":</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230514T150255Z" creationid="WynnChen" creationdate="20230514T150255Z">
+        <seg>解析“project_save.tmx”时出现异常：</seg>
       </tuv>
     </tu>
     <tu>
@@ -25095,6 +25111,14 @@ a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190322T060813Z" creationid="wynnc" creationdate="20190320T045507Z">
         <seg>解析时在第 {0} 行第 {1} 列时出现致命错误：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Fatal error while parsing "project_save.tmx" file(line {0}, column {1}):</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230514T150333Z" creationid="WynnChen" creationdate="20230514T150333Z">
+        <seg>解析“project_save.tmx”文件时出现致命错误（第 {0} 行，第 {1} 列）：</seg>
       </tuv>
     </tu>
     <tu>
@@ -68861,6 +68885,14 @@ Use Tools &gt; Check Issues... to correct the tag errors and try again.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20200730T052327Z" creationid="WynnChen" creationdate="20200730T052327Z">
         <seg>无法解析服务错误报告</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to parse source XML file</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230514T150426Z" creationid="WynnChen" creationdate="20230514T150426Z">
+        <seg>无法解析原文 XML 文件</seg>
       </tuv>
     </tu>
     <tu>
