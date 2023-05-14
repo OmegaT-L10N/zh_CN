@@ -18192,6 +18192,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Compatible with other translation memory applications via exchange formats such as TMX, TTX, TXML, XLIFF, SDLXLIFF</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230514T151710Z" creationid="WynnChen" creationdate="20230514T151710Z">
+        <seg>通过 TMX、TTX、TXML、XLIFF、SDLXLIFF 等交换格式兼容于其他翻译记忆应用程序</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Compile as described in the Compiling OmegaT from Source HowTo.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="anton" changedate="20180416T091030Z" creationid="anton" creationdate="20180416T091030Z">
@@ -34490,6 +34498,14 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Integral spelling checker that uses Hunspell dictionaries (same as in other software such as LibreOffice or Mozilla FireFox)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230514T151632Z" creationid="WynnChen" creationdate="20230514T151632Z">
+        <seg>集成的拼写检查器，使用 Hunspell 词典（与 LibreOffice 或 Mozilla Firefox 等其他软件相同）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Integrates the Apertium machine translation functionality into OmegaT.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T124829Z" creationid="18261" creationdate="20180413T022730Z">
@@ -34534,6 +34550,14 @@ everything.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190523T020741Z" creationid="18261" creationdate="20180412T084405Z">
         <seg>与 Google 翻译的接口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Interface to machine translation/neural machine translation software/Web services</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230514T151748Z" creationid="WynnChen" creationdate="20230514T151748Z">
+        <seg>可接入机器翻译/神经网络机器翻译软件/网络服务</seg>
       </tuv>
     </tu>
     <tu>
@@ -39372,6 +39396,14 @@ later version.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190831T063340Z">
         <seg>Microsoft Office Open XML 文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Microsoft Office Word, Excel, PowerPoint (2007 or later)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230514T151502Z" creationid="WynnChen" creationdate="20230514T151502Z">
+        <seg>Microsoft Office Word、Excel、PowerPoint（2007 或更高版本）</seg>
       </tuv>
     </tu>
     <tu>
@@ -45617,6 +45649,14 @@ unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T103754Z" creationid="wynnc" creationdate="20190322T072722Z">
         <seg>OpenDocument 筛选器选项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OpenDocument Format (native file format for LibreOffice, Apache OpenOffice)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230514T151522Z" creationid="WynnChen" creationdate="20230514T151522Z">
+        <seg>OpenDocument 格式（LibreOffice、Apache OpenOffice 的原生格式）</seg>
       </tuv>
     </tu>
     <tu>
@@ -69273,6 +69313,14 @@ Use Tools &gt; Check Issues... to correct the tag errors and try again.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unicode support: can be used with various alphabets and scripts</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230514T151603Z" creationid="WynnChen" creationdate="20230514T151603Z">
+        <seg>Unicode 支持：可用于各种字母与文字</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Uninstalling OmegaT</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="lenovo" changedate="20180420T062242Z" creationid="lenovo" creationdate="20180415T131613Z">
@@ -86997,6 +87045,14 @@ If the project contains files but their content is not displayed here:
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190324T040646Z" creationid="wynnc" creationdate="20190324T040646Z">
         <seg>“{0}”({1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>…and around 30 other file formats</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230514T151528Z" creationid="WynnChen" creationdate="20230514T151528Z">
+        <seg>……和近 30 种其他文件格式</seg>
       </tuv>
     </tu>
     <tu>
