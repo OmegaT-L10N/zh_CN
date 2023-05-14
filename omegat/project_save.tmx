@@ -10181,6 +10181,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; is a translation memory application that works on Windows, macOS, Linux… It is a tool intended for professional translators. It does not translate for you! (Software that does this is called "machine translation". OmegaT can interface to some machine translation programs or Internet services)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230514T151247Z" creationid="WynnChen" creationdate="20230514T151247Z">
+        <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; 是翻译记忆应用程序，适用于 Windows、macOS、Linux……它是为专业翻译人员设计的工具。它并不会替你翻译！（执行此操作的软件称为“机器翻译”，OmegaT 可以接入某些机器翻译程序或互联网服务。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; is available in many different versions in order to suit a range of user requirements.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190523T020821Z" creationid="18261" creationdate="20180412T085025Z">
@@ -26494,6 +26502,14 @@ know their rights.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T132211Z" creationid="Zenobia Fang" creationdate="20180423T130006Z">
         <seg>用于在 Windows 系统上安装。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For installation on macOS.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230514T151137Z" creationid="WynnChen" creationdate="20230514T151137Z">
+        <seg>用于在 macOS 系统上安装。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43525,6 +43541,14 @@ published by the Free Software Foundation, either version 3 of the License, or
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT is free software. That means that users like you can download and use it with no restrictions. You are also free to copy it and pass it on to other people and even modify OmegaT to suit your own requirements. A more detailed &lt;a0&gt;explanation of free software&lt;/a0&gt; can be found on the Free Software Foundation website.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230514T151444Z" creationid="WynnChen" creationdate="20230514T151444Z">
+        <seg>OmegaT 是一款自由软件。这意味着像您这样的用户可以不受限制地下载并使用它。你同样可以自由地将其复制并传给其他人，甚至可以修改 OmegaT 来满足你自己的需求。自由软件基金会网站上有更详细的&lt;a0&gt;关于自由软件的解释&lt;/a0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT is generally observant of the conditions and tolerant of other tools' failure to observe them; should problems arise here, however, they can generally be resolved fairly easily by a search &amp; replace in a text editor of the illegal character in the TMX file.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Wyndy" changedate="20180418T092449Z" creationid="Wyndy" creationdate="20180418T092358Z">
@@ -44457,6 +44481,14 @@ unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190402T041158Z" creationid="WynnChen" creationdate="20190402T041158Z">
         <seg>OmegaT 可在任何已安装或可安装相应 JRE（Java 运行环境）的系统上运行。OmegaT 现在自带 JRE，无需单独获取。OmegaT 已在 Windows（从 98 开始的所有版本）、Micintosh OS X 及 Linux 上成功安装。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT will run on any system on which the appropriate JRE (Java Runtime Environment) has been or can be installed. The JRE is now supplied with OmegaT and need not be obtained separately. OmegaT has been successfully installed on Windows (all versions from 98 onwards), macOS and Linux.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230514T151148Z" creationid="WynnChen" creationdate="20230514T151148Z">
+        <seg>OmegaT 可在任何已安装或可安装相应 JRE（Java 运行环境）的系统上运行。OmegaT 现在自带 JRE，无需单独获取。OmegaT 已在 Windows（从 98 开始的所有版本）、macOS 及 Linux 上成功安装。</seg>
       </tuv>
     </tu>
     <tu>
