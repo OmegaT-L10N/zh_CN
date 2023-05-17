@@ -71755,6 +71755,14 @@ OmegaT 选项：
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;g0&gt;&gt; Project&lt;/g0&gt;&lt;g1&gt;&gt; Create Translated Files&lt;/g1&gt; to create the translated document at any time.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230517T014926Z" creationid="WynnChen" creationdate="20230517T014926Z">
+        <seg>随时都可以用&lt;g0&gt;&gt; 项目&lt;/g0&gt;&lt;g1&gt;&gt; 创建译文文件&lt;/g1&gt;来创建译文文档。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;g0&gt;Ctrl+L&lt;/g0&gt; to open and &lt;k1&gt;Esc&lt;/k1&gt; to close it. The &lt;g2&gt;Project Files&lt;/g2&gt; Window displays the following information:</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20200123T050949Z" creationid="WynnChen" creationdate="20200123T050949Z">
@@ -88041,6 +88049,14 @@ If the project contains files but their content is not displayed here:
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20230517T014204Z" creationid="WynnChen" creationdate="20230517T014204Z">
         <seg>→ OmegaT 将创建包含您的文件的文件夹集。它还将创建一个空的翻译记忆库，随着你输入译文，OmegaT 会在背后在背后将此片段填充进入翻译记忆库。来自此翻译记忆库的匹配最终会出现在&lt;g0&gt;模糊匹配&lt;/g0&gt;窗格中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>→ OmegaT will register that segment into the project translation memory and will move the cursor to the next segment.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230517T014834Z" creationid="WynnChen" creationdate="20230517T014834Z">
+        <seg>→ OmegaT 会将该片段注册到项目翻译记忆库中，并将光标移动到下一个片段。</seg>
       </tuv>
     </tu>
     <tu>
