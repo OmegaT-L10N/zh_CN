@@ -1870,6 +1870,14 @@ java -jar OmegaT.jar $*</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Redo</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230517T011836Z" creationid="WynnChen" creationdate="20230517T011836Z">
+        <seg>重做(&amp;R)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Redo Last Action</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T092801Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -2002,6 +2010,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
         <seg>恢复主窗口(&amp;R)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Restore OmegaT Window</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230517T011920Z" creationid="WynnChen" creationdate="20230517T011920Z">
+        <seg>还原OmegaT主窗口(&amp;R)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2346,6 +2362,14 @@ java -jar OmegaT.jar $*</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T133630Z" creationid="WynnChen" creationdate="20221128T133558Z">
         <seg>大写（UPPER CASE）(&amp;U)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Undo</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230517T011824Z" creationid="WynnChen" creationdate="20230517T011824Z">
+        <seg>撤消(&amp;U)</seg>
       </tuv>
     </tu>
     <tu>
@@ -21746,6 +21770,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Displays the translation memory segments that match the source segment. Matches come from your current translation or the reference files placed in the /tm/ folder.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230517T011936Z" creationid="WynnChen" creationdate="20230517T011936Z">
+        <seg>显示与原文片段匹配的翻译记忆片段。匹配结果来自当前翻译或放在 /tm/ 文件夹中的参考文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Displays the translation of the current segment provided by the machine translation services selected in Preferences &gt; Machine Translation if those services are available.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20221125T053006Z" creationid="wynnc" creationdate="20221125T053006Z">
@@ -22214,6 +22246,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120201T124358Z">
         <seg>双击以 OmegaT 图标显示的项足以打开这个项目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Double-click characters, or select them and press the Insert key, to add them to the custom table.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230517T012053Z" creationid="WynnChen" creationdate="20230517T012053Z">
+        <seg>双击字符或选择它们之后按 Insert 键，可将其添加到自定义表中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34000,6 +34040,14 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Insert Missing &amp;Tags</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230517T011844Z" creationid="WynnChen" creationdate="20230517T011844Z">
+        <seg>插入缺失的标签(&amp;T)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Insert Missing Source &amp;Tags</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T174533Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -42227,6 +42275,14 @@ otherwise be available to you under applicable patent law.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T105537Z" creationid="wynnc" creationdate="20190323T105526Z">
         <seg>片段有备注时通知我</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Notify Me When the Segment Has Fuzzy Matches</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230517T011957Z" creationid="WynnChen" creationdate="20230517T011957Z">
+        <seg>片段有模糊匹配时通知我</seg>
       </tuv>
     </tu>
     <tu>
@@ -70468,6 +70524,186 @@ Console only options:
 	  A script file to be executed on project events.
  
 	--tag-validation=[abort|warn]
+	  Validate tags. Abort: Exit with an error if tags are invalid.
+	  Warn: Report invalid tags to stdout.
+ 
+{0}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230517T011747Z" creationid="WynnChen" creationdate="20230517T011747Z">
+        <seg>用法： java -jar [&lt;Java 选项&gt;] OmegaT.jar [&lt;OmegaT 选项&gt;] [&lt;项目路径&gt;]
+ 
+有关详细信息，包括可用的 Java 选项，请参阅“帮助 &gt; 用户手册”
+ 
+OmegaT 选项：
+ 
+	不带任何选项：启动图形界面
+ 
+	只提供了项目路径：启动图形界面并加载指定项目
+ 
+	-h, --help
+	  显示本帮助信息。
+ 
+	--remote-project
+	  从作为&lt;项目路径&gt;给出的 URL 下载 omegat.project 文件并加载此项目。
+ 
+	--no-team
+	  禁用团队项目功能。
+ 
+	team init &lt;原文语言&gt; &lt;译文语言&gt;
+	  团队项目工具。
+	  以指定语言初始化一个最小的团队项目。
+	  如果在 git 工作树或 svn 检出中调用，其结果会被 stage/add。
+ 
+	--disable-project-locking
+	  不要尝试锁定 omegat.project 文件。
+	--disable-location-save
+	  不要记忆最后一次在文件选择器中打开的文件夹。
+ 
+	--ITokenizer=&lt;类名&gt;
+	--ITokenizerTarget=&lt;类名&gt;
+	  原文语言或译文语言所使用的分词器（会覆盖项目设置）。
+	  有关有效的值，请参阅 OmegaT.jar/META-INF/MANIFEST.MF。
+ 
+	--config-file=&lt;路径&gt;
+	  用于加载默认设置的 Java .properties 文件。
+ 
+	--config-dir=&lt;路径&gt;
+	  用于读/写 OmegaT 配置文件的文件夹。
+ 
+	--resource-bundle=&lt;路径&gt;
+	  用于界面文本的 Java .properties 文件
+ 
+	--mode=[控制台模式名称]
+	  指定图形界面模式而不使用默认值。详情参见下文。
+ 
+控制台模式名称及其选项：
+ 
+	--mode=console-translate
+	  --source-pattern=&lt;正则模式&gt;
+	    代表要处理的原文文件的白名单的正则表达式。
+ 
+	--mode=console-createpseudotranslatetmx
+	  --pseudotranslatetmx=&lt;路径&gt;
+	    输出的伪翻译 TMX 文件。
+	  --pseudotranslatetype=[equal|empty]
+	    伪翻译 TMX 中放什么内容。
+ 
+	--mode=console-align
+	  --alignDir=&lt;路径&gt;
+	    包含已翻译文件的文件夹。
+ 
+	--mode=console-stats
+	  项目路径
+	    项目的路径
+	  --output-file=[统计数据输出文件]
+	    输出到指定文件，如果没有给出文件或未使用此选项则输出到 stdout。
+	  --stats-type=[xml|text|txt|json]
+	    指定输出格式。
+	    如果未指定 --stats-type，则通过文件扩展名来确定格式。
+	    默认为 xml。
+
+仅用于控制台的选项：
+ 
+	--quiet
+	  减少输出到命令行标准输出的内容。
+ 
+	--script=&lt;path&gt;
+	  在项目事件时执行的脚本文件。
+
+	--tag-validation=[abort|warn]
+	  校验标签。Abort：当标签无效时退出并显示错误。
+	  Warn：将无效的标签记录到 stdout。
+ 
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Usage: java -jar [&lt;java options&gt;] OmegaT.jar [&lt;OmegaT options&gt;] [&lt;project path&gt;]
+ 
+See Help &gt; User Manual for details, including available Java options.
+ 
+OmegaT options:
+ 
+	No option: Launch GUI.
+ 
+	Project path only: Launch GUI and load specified project.
+ 
+	-h, --help
+	  Print this help message.
+ 
+	--remote-project
+	  Download an omegat.project file from the URL given as &lt;project
+	  path&gt; and load the project.
+ 
+	--no-team
+	  Disable team project functionality.
+ 
+	team init &lt;source language&gt; &lt;target language&gt;
+	  Team project tool.
+	  Initialize a minimal team project with the specified languages.
+	  If invoked in a git working tree or svn checkout, the results
+	  will be staged/added.
+ 
+	--disable-project-locking
+	  Do not attempt to lock the omegat.project file.
+	--disable-location-save
+	  Do not remember the last folder opened in the file picker.
+ 
+	--ITokenizer=&lt;classname&gt;
+	--ITokenizerTarget=&lt;classname&gt;
+	  Source- or target-language tokenizer to use (overrides project
+	  settings). See OmegaT.jar/META-INF/MANIFEST.MF for valid values.
+ 
+	--config-file=&lt;path&gt;
+	  A Java .properties file from which to load default settings.
+ 
+	--config-dir=&lt;path&gt;
+	  The folder used to read or write OmegaT configuration files.
+ 
+	--resource-bundle=&lt;path&gt;
+	  A Java .properties file to use for the interface text.
+ 
+	--mode=[console mode name]
+	  Specify a mode other than the GUI default. See below for details.
+ 
+Console mode names and their options:
+ 
+	--mode=console-translate
+	  --source-pattern=&lt;pattern&gt;
+	    A regex whitelist of source files to process.
+ 
+	--mode=console-createpseudotranslatetmx
+	  --pseudotranslatetmx=&lt;path&gt;
+	    The output pseudotranslated TMX file.
+	  --pseudotranslatetype=[equal|empty]
+	    What to put in the pseudotranslated TMX.
+ 
+	--mode=console-align
+	  --alignDir=&lt;path&gt;
+	    A folder containing the translated files.
+ 
+	--mode=console-stats
+	  project_path
+	    The path to the project.
+	  --output-file=[stats-output-file]
+	    Prints to the specified file, or to standard output
+	    if no file is given or the option is not used.
+	  --stats-type=[xml|text|txt|json]
+	    Specifies the output format.
+	    If --stats-type is not specified, the format is
+	    detected from the file extension.
+	    Defaults to xml.
+ 
+Console only options:
+ 
+	--quiet
+	  Reduce output to command line stdout.
+ 
+	--script=&lt;path&gt;
+	  A script file to be executed on project events.
+ 
+	--tag-validation=[abort|warn]
 	  Validate tags. Abort: Exit with an error if tags invalid.
 	  Warn: Report invalid tags to stdout.
  
@@ -76295,6 +76531,46 @@ To add files to the project you can
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
         <seg>项目没有包含任何所支持格式的文件。（在用户手册中，请参阅要翻译的文件&gt;文件格式列表来了解支持的文件格式。）\n要添加文件到项目中，打开项目文件窗口并点击复制文件到源文件夹按钮或者从项目菜单中调用该功能并选择想导入的源文件。您也可以使用您喜欢的文件管理工具将文件复制到项目的源文件夹，然后通过调用项目菜单的 项目 -&gt; 重新载入 来重新载入项目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your project does not seem to contain translatable files.
+ 
+To add files to the project you can:
+ 
+	- drag and drop files on this pane;
+	- use Project &gt; Add Files...;
+	- use Project &gt; Source Files... and click on Add Files...;
+	- use your file manager to copy files to the 'source' folder,
+	  and then use Project &gt; Reload to reload the project.
+ 
+If the project contains files but their content is not displayed here:
+ 
+	- verify that their format is supported by OmegaT:
+	  if local filter settings are enabled
+	  use Project &gt; Properties... &gt; Local File Filters...,
+	  otherwise use Options &gt; Global File Filters...;
+	- open them in their original application and verify that they are not empty.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230517T011816Z" creationid="WynnChen" creationdate="20230517T011816Z">
+        <seg>你的项目似乎并不包含可翻译文件。
+ 
+要将文件添加到项目中，你可以：
+ 
+	- 将文件拖放到此窗格中；
+	- 使用“项目 &gt; 添加文件...”；
+	- 使用“项目 &gt; 原文文件...”并点击“添加文件...”；
+	- 使用文件管理器将文件复制到“source”文件夹中，
+	  然后用“项目 &gt; 重新加载”来重新加载项目。
+ 
+如果项目中包含有文件但其内容并未显示在此：
+ 
+	- 确认其格式是 OmegaT 所支持的，
+	  如果启用了局部筛选器设置
+	  使用“项目 &gt; 属性... &gt; 局部文件筛选器...”，
+	  否则使用“选项 &gt; 全局文件筛选器...”；
+	- 将其用原始应用程序打开来确认它们不是空的。</seg>
       </tuv>
     </tu>
     <tu>
