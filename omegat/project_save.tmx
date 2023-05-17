@@ -2016,8 +2016,8 @@ java -jar OmegaT.jar $*</seg>
       <tuv lang="en">
         <seg>&amp;Restore OmegaT Window</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230517T011920Z" creationid="WynnChen" creationdate="20230517T011920Z">
-        <seg>还原OmegaT主窗口(&amp;R)</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230517T013550Z" creationid="WynnChen" creationdate="20230517T011920Z">
+        <seg>还原OmegaT窗口(&amp;R)</seg>
       </tuv>
     </tu>
     <tu>
@@ -11501,6 +11501,14 @@ included in conveying the object code work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Access Configuration Folder...</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230517T013707Z" creationid="WynnChen" creationdate="20230517T013707Z">
+        <seg>访问配置文件夹...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Access Project Contents</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="weiyi" changedate="20180406T072729Z" creationid="weiyi" creationdate="20180406T072729Z">
@@ -14676,6 +14684,30 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Auto-Completion/History Completion</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230517T013641Z" creationid="WynnChen" creationdate="20230517T013641Z">
+        <seg>自动完成/历史完成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Auto-Completion/History Prediction</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230517T013650Z" creationid="WynnChen" creationdate="20230517T013650Z">
+        <seg>自动完成/历史预测</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Auto-Completion/Show Relevant Suggestions Automatically</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230517T013638Z" creationid="WynnChen" creationdate="20230517T013638Z">
+        <seg>自动完成/自动显示相关建议</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Auto-Popu&amp;lated Segments</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20230517T012926Z" creationid="WynnChen" creationdate="20221222T102505Z">
@@ -16493,6 +16525,14 @@ Exception occurred:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Change the language codes to reflect your source and target languages. Click on &lt;g0&gt;OK&lt;/g0&gt;.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230517T013806Z" creationid="WynnChen" creationdate="20230517T013806Z">
+        <seg>更改语言代码以反映您的原文语言和译文语言。点击&lt;g0&gt;确定&lt;/g0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Change the line:</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Mac Pro" changedate="20180425T194953Z" creationid="Mac Pro" creationdate="20180425T194953Z">
@@ -16809,6 +16849,14 @@ Exception occurred:</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20200120T094226Z" creationid="WynnChen" creationdate="20200120T094226Z">
         <seg>检查当前文档问题</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check Issues for Current File</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230517T013602Z" creationid="WynnChen" creationdate="20230517T013602Z">
+        <seg>检查当前文件问题</seg>
       </tuv>
     </tu>
     <tu>
@@ -21181,6 +21229,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190413T072154Z" creationid="WynnChen" creationdate="20190413T072008Z">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; 中的词典基于 StarDict 或 Lingvo DSL 格式。要安装 StarDict 格式所必需的文件，请按以下步骤操作：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Dictionaries/Use Fuzzy Matching</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230517T013634Z" creationid="WynnChen" creationdate="20230517T013634Z">
+        <seg>词典/使用模糊匹配</seg>
       </tuv>
     </tu>
     <tu>
@@ -27509,6 +27565,14 @@ authors of previous versions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>GLobal Segmentation Rules...</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230517T013702Z" creationid="WynnChen" creationdate="20230517T013702Z">
+        <seg>全局分割规则...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>GNOME Users</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120206T122318Z">
@@ -27767,6 +27831,14 @@ authors of previous versions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Global File Filters...</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230517T013659Z" creationid="WynnChen" creationdate="20230517T013659Z">
+        <seg>全局文件筛选器...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Global Segmentation Rules</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T104742Z" creationid="wynnc" creationdate="20221111T104742Z">
@@ -27875,6 +27947,14 @@ authors of previous versions.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="xulihang" changedate="20180404T021248Z" creationid="Fu Rhong" creationdate="20131116T114313Z">
         <seg>术语表，术语表窗格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossaries/Use Fuzzy Matching</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230517T013621Z" creationid="WynnChen" creationdate="20230517T013621Z">
+        <seg>词汇表/使用模糊匹配</seg>
       </tuv>
     </tu>
     <tu>
@@ -38351,6 +38431,14 @@ later version.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131128T001702Z" creationid="Fu Rhong" creationdate="20131128T001702Z">
         <seg>机器翻译窗格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Machine Translation/Automatically Fetch Translations</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230517T013608Z" creationid="WynnChen" creationdate="20230517T013608Z">
+        <seg>机器翻译/自动获取翻译</seg>
       </tuv>
     </tu>
     <tu>
@@ -77905,6 +77993,14 @@ If the project contains files but their content is not displayed here:
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>alt LEFT</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230517T013715Z" creationid="WynnChen" creationdate="20230517T013715Z">
+        <seg>alt LEFT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>alt RIGHT</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T044937Z" creationid="WynnChen" creationdate="20230323T044937Z">
@@ -87205,6 +87301,14 @@ If the project contains files but their content is not displayed here:
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>viewRestoreGUIMenuItem</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230517T013557Z" creationid="WynnChen" creationdate="20230517T013557Z">
+        <seg>viewRestoreGUIMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>vo</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131108T101834Z" creationid="Fu Rhong" creationdate="20131108T101834Z">
@@ -87905,6 +88009,14 @@ If the project contains files but their content is not displayed here:
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T154154Z" creationid="wynnc" creationdate="20190323T154154Z">
         <seg>← 后退</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>→ OmegaT will create a folder set that contains your files. It will also create an empty translation memory that it will fill in the background, one segment at as time as you type your translation. Matches for that memory will eventually appear in the &lt;g0&gt;Fuzzy Matches&lt;/g0&gt; pane.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230517T014204Z" creationid="WynnChen" creationdate="20230517T014204Z">
+        <seg>→ OmegaT 将创建包含您的文件的文件夹集。它还将创建一个空的翻译记忆库，随着你输入译文，OmegaT 会在背后在背后将此片段填充进入翻译记忆库。来自此翻译记忆库的匹配最终会出现在&lt;g0&gt;模糊匹配&lt;/g0&gt;窗格中。</seg>
       </tuv>
     </tu>
     <tu>
