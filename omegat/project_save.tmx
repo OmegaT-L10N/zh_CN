@@ -14870,8 +14870,32 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="en">
         <seg>Autopopulated Segments/Next Segment from tm/auto/</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230517T012819Z" creationid="WynnChen" creationdate="20230517T012819Z">
-        <seg>自动填充Autopopulated Segments/Next Segment from tm/auto/</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230517T013001Z" creationid="WynnChen" creationdate="20230517T012819Z">
+        <seg>自动填充的片段/下一个来自 tm/auto/ 的片段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Autopopulated Segments/Next Segment from tm/enforce/</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230517T013022Z" creationid="WynnChen" creationdate="20230517T013022Z">
+        <seg>自动填充的片段/下一个来自 tm/enforce/ 的片段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Autopopulated Segments/Previous Segment from tm/auto/</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230517T013006Z" creationid="WynnChen" creationdate="20230517T013006Z">
+        <seg>自动填充的片段/上一个来自 tm/auto/ 的片段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Autopopulated Segments/Previous Segment from tm/enforce/</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230517T013028Z" creationid="WynnChen" creationdate="20230517T013028Z">
+        <seg>自动填充的片段/上一个来自 tm/enforce/ 的片段</seg>
       </tuv>
     </tu>
     <tu>
@@ -21473,10 +21497,34 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Display Bidirectional Algorithm Control Characters</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230517T013217Z" creationid="WynnChen" creationdate="20230517T013217Z">
+        <seg>显示双向算法控制字符</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Display Font</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
         <seg>显示字体</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Display Non-Breakable Spaces</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230517T013158Z" creationid="WynnChen" creationdate="20230517T013158Z">
+        <seg>显示不换行空格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Display Paragraph Delimitations</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230517T013046Z" creationid="WynnChen" creationdate="20230517T013046Z">
+        <seg>显示段落界定</seg>
       </tuv>
     </tu>
     <tu>
@@ -21493,6 +21541,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T092458Z" creationid="WynnChen" creationdate="20221129T092458Z">
         <seg>显示 TBX 词汇表上下文说明(&amp;G)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Display Whitespace</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230517T013205Z" creationid="WynnChen" creationdate="20230517T013205Z">
+        <seg>显示空白字符</seg>
       </tuv>
     </tu>
     <tu>
@@ -29036,10 +29092,42 @@ Note: not all filters allow you to select an encoding.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Highlight Repeated Segments</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230517T013104Z" creationid="WynnChen" creationdate="20230517T013104Z">
+        <seg>高亮重复的片段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Highlight Segments &amp;with Notes</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20230221T083322Z" creationid="WynnChen" creationdate="20230221T083322Z">
         <seg>高亮含备注的片段(&amp;W)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Highlight Segments with Notes</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230517T013150Z" creationid="WynnChen" creationdate="20230517T013150Z">
+        <seg>高亮含备注的片段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Highlight Translated Segments</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230517T013033Z" creationid="WynnChen" creationdate="20230517T013033Z">
+        <seg>高亮已译片段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Highlight Untranslated Segments</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230517T013042Z" creationid="WynnChen" creationdate="20230517T013042Z">
+        <seg>高亮未译片段</seg>
       </tuv>
     </tu>
     <tu>
