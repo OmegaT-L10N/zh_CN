@@ -21499,8 +21499,8 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="en">
         <seg>Display Bidirectional Algorithm Control Characters</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230517T013217Z" creationid="WynnChen" creationdate="20230517T013217Z">
-        <seg>显示双向算法控制字符</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230517T013256Z" creationid="WynnChen" creationdate="20230517T013217Z">
+        <seg>显示双向算法控制符</seg>
       </tuv>
     </tu>
     <tu>
@@ -21509,6 +21509,30 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
         <seg>显示字体</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Display Modification Info/None</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230517T013409Z" creationid="WynnChen" creationdate="20230517T013402Z">
+        <seg>显示修订信息/无</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Display Modification Info/for All Segments</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230517T013513Z" creationid="WynnChen" creationdate="20230517T013513Z">
+        <seg>显示修订信息/对所有片段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Display Modification Info/for Current Segment</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230517T013505Z" creationid="WynnChen" creationdate="20230517T013443Z">
+        <seg>显示修订信息/对当前片段</seg>
       </tuv>
     </tu>
     <tu>
@@ -29072,6 +29096,14 @@ Note: not all filters allow you to select an encoding.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20230221T083206Z" creationid="WynnChen" creationdate="20230221T083206Z">
         <seg>高亮未译片段(&amp;U)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Highlight Auto-Populated Segments</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230517T013328Z" creationid="WynnChen" creationdate="20230517T013328Z">
+        <seg>高亮自动填充的片段</seg>
       </tuv>
     </tu>
     <tu>
@@ -38932,6 +38964,14 @@ later version.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T120632Z" creationid="wynnc" creationdate="20190323T115605Z">
         <seg>标记词汇表匹配</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mark Language Checker Issues</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230517T013334Z" creationid="WynnChen" creationdate="20230517T013334Z">
+        <seg>标记语言检查器问题</seg>
       </tuv>
     </tu>
     <tu>
@@ -50752,6 +50792,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
         <seg>恢复主窗口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Restore OmegaT Window</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230517T013530Z" creationid="WynnChen" creationdate="20230517T013530Z">
+        <seg>还原OmegaT窗口</seg>
       </tuv>
     </tu>
     <tu>
@@ -71719,6 +71767,14 @@ OmegaT 选项：
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20230221T083514Z" creationid="WynnChen" creationdate="20230221T083514Z">
         <seg>使用激进式字体候补(&amp;F)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use Aggressive Font Fallback</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230517T013337Z" creationid="WynnChen" creationdate="20230517T013337Z">
+        <seg>使用激进式字体候补</seg>
       </tuv>
     </tu>
     <tu>
