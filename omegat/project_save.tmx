@@ -14678,8 +14678,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="en">
         <seg>Auto-Popu&amp;lated Segments</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T102511Z" creationid="WynnChen" creationdate="20221222T102505Z">
-        <seg>自动填充片段(&amp;L)</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230517T012926Z" creationid="WynnChen" creationdate="20221222T102505Z">
+        <seg>自动填充的片段(&amp;L)</seg>
       </tuv>
     </tu>
     <tu>
@@ -14864,6 +14864,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120201T035732Z">
         <seg>通过将可翻译内容替换为译文，自动修改可译文档的文件名。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Autopopulated Segments/Next Segment from tm/auto/</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230517T012819Z" creationid="WynnChen" creationdate="20230517T012819Z">
+        <seg>自动填充Autopopulated Segments/Next Segment from tm/auto/</seg>
       </tuv>
     </tu>
     <tu>
@@ -28035,6 +28043,14 @@ authors of previous versions.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20200120T061759Z" creationid="WynnChen" creationdate="20200120T061759Z">
         <seg>转到</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go To Menu</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230517T012734Z" creationid="WynnChen" creationdate="20230517T012734Z">
+        <seg>前往菜单</seg>
       </tuv>
     </tu>
     <tu>
@@ -53141,6 +53157,62 @@ When using regular expressions, the replacement string supports references to gr
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190409T134819Z" creationid="WynnChen" creationdate="20190409T134819Z">
         <seg>选择第五个匹配</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select Match/Select Match #1</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230517T012701Z" creationid="WynnChen" creationdate="20230517T012701Z">
+        <seg>选择匹配/选择第一个匹配</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select Match/Select Match #2</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230517T012714Z" creationid="WynnChen" creationdate="20230517T012714Z">
+        <seg>选择匹配/选择第二个匹配</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select Match/Select Match #3</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230517T012719Z" creationid="WynnChen" creationdate="20230517T012719Z">
+        <seg>选择匹配/选择第三个匹配</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select Match/Select Match #4</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230517T012725Z" creationid="WynnChen" creationdate="20230517T012725Z">
+        <seg>选择匹配/选择第四个匹配</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select Match/Select Match #5</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230517T012732Z" creationid="WynnChen" creationdate="20230517T012732Z">
+        <seg>选择匹配/选择第五个匹配</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select Match/Select Next Match</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230517T012644Z" creationid="WynnChen" creationdate="20230517T012644Z">
+        <seg>选择匹配/选择下一个匹配</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select Match/Select Previous Match</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230517T012637Z" creationid="WynnChen" creationdate="20230517T012637Z">
+        <seg>选择匹配/选择上一个匹配</seg>
       </tuv>
     </tu>
     <tu>
