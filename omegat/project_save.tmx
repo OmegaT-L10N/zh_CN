@@ -17590,6 +17590,14 @@ Exception occurred:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Click on &lt;g0&gt;Add Files...&lt;/g0&gt; and add the files that you want to translate. Dismiss the window.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230517T014239Z" creationid="WynnChen" creationdate="20230517T014239Z">
+        <seg>点击&lt;g0&gt;添加文件...&lt;/g0&gt;来添加要翻译的文件。然后关闭此窗口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Click on &lt;g0&gt;Auto-text...&lt;/g0&gt; to configure Auto-text options and to add or remove entries.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T134710Z" creationid="weiyi" creationdate="20180406T071053Z">
@@ -88009,6 +88017,14 @@ If the project contains files but their content is not displayed here:
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T154154Z" creationid="wynnc" creationdate="20190323T154154Z">
         <seg>← 后退</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>→ OmegaT will copy the selected files into the project that you created in the previous step. It now displays them segment per segment for you to translate them.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230517T014700Z" creationid="WynnChen" creationdate="20230517T014700Z">
+        <seg>→ OmegaT 会将选定的文件复制到您在上一步中创建的项目中。现在 OmegaT 将此文件按片段依次显示以供您翻译。</seg>
       </tuv>
     </tu>
     <tu>
