@@ -69325,6 +69325,14 @@ install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Type the translation of the first segment. Hit &lt;k0&gt;Enter&lt;/k0&gt;.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230517T014727Z" creationid="WynnChen" creationdate="20230517T014727Z">
+        <seg>输入第一个片段的译文。按 &lt;k0&gt;Enter&lt;/k0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Types:
 Exact searches match the whole search string.</seg>
       </tuv>
