@@ -19304,6 +19304,14 @@ unpacking, reading or copying.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create MED Project</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230517T012527Z" creationid="WynnChen" creationdate="20230517T012527Z">
+        <seg>创建 MED 项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create MED Project...</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T091912Z" creationid="wynnc" creationdate="20190320T091912Z">
@@ -21301,6 +21309,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190403T151744Z" creationid="xulihang" creationdate="20180408T113143Z">
         <seg>首字母大小写不同</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Digits and letters of the alphabet preceded by a backslash (&lt;l0&gt;\&lt;/l0&gt;) take on a special meaning</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230517T012408Z" creationid="WynnChen" creationdate="20230517T012408Z">
+        <seg>前面有反斜杠（&lt;l0&gt;\&lt;/l0&gt;）的数字和字母具有特殊含义</seg>
       </tuv>
     </tu>
     <tu>
@@ -34076,6 +34092,14 @@ everything.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190409T061057Z" creationid="weiyi" creationdate="20180406T020933Z">
         <seg>插入缺失的原文标签</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert Missing Tags</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230517T012552Z" creationid="WynnChen" creationdate="20230517T012552Z">
+        <seg>插入缺失的标签</seg>
       </tuv>
     </tu>
     <tu>
@@ -49153,6 +49177,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Redo</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230517T012548Z" creationid="WynnChen" creationdate="20230517T012548Z">
+        <seg>重做</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Redo Last Action</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190409T045520Z">
@@ -52209,6 +52241,14 @@ When using regular expressions, the replacement string supports references to gr
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Search...</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230517T012557Z" creationid="WynnChen" creationdate="20230517T012557Z">
+        <seg>搜索...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Searches</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
@@ -52229,6 +52269,14 @@ When using regular expressions, the replacement string supports references to gr
       </tuv>
       <tuv lang="zh-CN" changeid="钢" changedate="20130503T151008Z">
         <seg>搜索可在原文（且）、译文或（且）注释中进行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Searches include a &lt;l0/&gt; option that allows you to make extremely powerful searches across your files.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230517T012351Z" creationid="WynnChen" creationdate="20230517T012351Z">
+        <seg>搜索包含一个&lt;l0/&gt;选项，允许你在文件中进行极其强大的搜索。</seg>
       </tuv>
     </tu>
     <tu>
@@ -55697,6 +55745,14 @@ All sets that match the project source language are applied.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Start a new segment after a period followed by a space, tab, or other whitespace.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230517T012516Z" creationid="WynnChen" creationdate="20230517T012516Z">
+        <seg>在一个句点后跟着一个空格、tab、或其他空白字符之后的位置处开始一个新片段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Start a new segment after “。” (Japanese period).</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T124228Z" creationid="WynnChen" creationdate="20230227T124228Z">
@@ -56278,6 +56334,46 @@ All sets that match the project source language are applied.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190409T061315Z" creationid="lenovo" creationdate="20180411T131704Z">
         <seg>转换大小写为/大写</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Switch Case to/Cycle</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230517T012621Z" creationid="WynnChen" creationdate="20230517T012621Z">
+        <seg>转换大小写为/循环切换</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Switch Case to/Sentence case</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230517T012618Z" creationid="WynnChen" creationdate="20230517T012618Z">
+        <seg>转换大小写为/句子式大小写</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Switch Case to/Title Case</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230517T012615Z" creationid="WynnChen" creationdate="20230517T012615Z">
+        <seg>转换大小写为/标题式大小写</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Switch Case to/UPPER CASE</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230517T012612Z" creationid="WynnChen" creationdate="20230517T012612Z">
+        <seg>转换大小写为/大写</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Switch Case to/lower case</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230517T012608Z" creationid="WynnChen" creationdate="20230517T012608Z">
+        <seg>转换大小写为/小写</seg>
       </tuv>
     </tu>
     <tu>
@@ -67622,6 +67718,14 @@ you modify it: responsibilities to respect the freedom of others.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To specify the type of segmentation, use the &lt;l0/&gt; project property.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230517T012437Z" creationid="WynnChen" creationdate="20230517T012437Z">
+        <seg>要指定分割类型，请使用&lt;l0/&gt;项目属性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To speed up this process, existing translations can be reused.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120218T061928Z">
@@ -69357,6 +69461,14 @@ Use Tools &gt; Check Issues... to correct the tag errors and try again.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131112T110658Z" creationid="Fu Rhong" creationdate="20131112T110658Z">
         <seg>在Linux中，如果&lt;a2&gt;OmegaT&lt;/a2&gt;仍要求凭据，则您可以选中&lt;g3&gt;强制保存密码为纯文本&lt;/g3&gt;复选框。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Undo</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230517T012544Z" creationid="WynnChen" creationdate="20230517T012544Z">
+        <seg>撤消</seg>
       </tuv>
     </tu>
     <tu>
@@ -84871,6 +84983,22 @@ If the project contains files but their content is not displayed here:
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190409T044956Z" creationid="WynnChen" creationdate="20190409T044956Z">
         <seg>projectImportMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectMedCreateMenuItem</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230517T012537Z" creationid="WynnChen" creationdate="20230517T012537Z">
+        <seg>projectMedCreateMenuItem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectMedOpenMenuItem</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230517T012519Z" creationid="WynnChen" creationdate="20230517T012519Z">
+        <seg>projectMedOpenMenuItem</seg>
       </tuv>
     </tu>
     <tu>
