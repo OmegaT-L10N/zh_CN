@@ -4273,6 +4273,30 @@ not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>./gradlew installDist</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230518T030830Z" creationid="WynnChen" creationdate="20230518T030830Z">
+        <seg>./gradlew installDist</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>./gradlew run</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230518T030831Z" creationid="WynnChen" creationdate="20230518T030831Z">
+        <seg>./gradlew run</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>./gradlew tasks</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230518T030838Z" creationid="WynnChen" creationdate="20230518T030838Z">
+        <seg>./gradlew tasks</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>.csv</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T101627Z" creationid="WynnChen" creationdate="20221212T101627Z">
@@ -22436,8 +22460,8 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       <tuv lang="en">
         <seg>Double click on the package you downloaded to unpack it. This creates a folder called &lt;f0&gt;OmegaT&lt;/f0&gt;. The folder contains two files: &lt;f1&gt;index.html&lt;/f1&gt; (the user manual entry file) and &lt;f2&gt;OmegaT.app&lt;/f2&gt; (the application). Copy the folder to a suitable location (e.g. &lt;f3&gt;Applications&lt;/f3&gt;).</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230518T030524Z" creationid="WynnChen" creationdate="20230518T030524Z">
-        <seg>双击所下载的包以将其解压缩。Double click on the package you downloaded to unpack it. This creates a folder called &lt;f0&gt;OmegaT&lt;/f0&gt;. The folder contains two files: &lt;f1&gt;index.html&lt;/f1&gt; (the user manual entry file) and &lt;f2&gt;OmegaT.app&lt;/f2&gt; (the application). Copy the folder to a suitable location (e.g. &lt;f3&gt;Applications&lt;/f3&gt;).</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230518T030647Z" creationid="WynnChen" creationdate="20230518T030524Z">
+        <seg>双击所下载的包以将其解压缩。这会创建一个名叫 &lt;f0&gt;OmegaT&lt;/f0&gt; 的文件夹。此文件夹包含两个文件：&lt;f1&gt;index.html&lt;/f1&gt;（用户手册入口文件）和 &lt;f2&gt;OmegaT.app&lt;/f2&gt;（应用程序）。将文件夹复制到合适的位置（例如：&lt;f3&gt;Applications&lt;/f3&gt;）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30747,6 +30771,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20200120T074343Z" creationid="WynnChen" creationdate="20200120T074343Z">
         <seg>如果选择了多个翻译引擎，则可以用&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt;在它们之间切换并插入最后一个选定的结果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If so desired, drag and drop &lt;f0&gt;OmegaT.app&lt;/f0&gt; onto the Dock for easier access.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230518T030739Z" creationid="WynnChen" creationdate="20230518T030739Z">
+        <seg>如果有需要，将 &lt;f0&gt;OmegaT.app&lt;/f0&gt; 拖放到 Dock 栏上以便于访问。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45237,6 +45269,14 @@ unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>On other platforms</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230518T030843Z" creationid="WynnChen" creationdate="20230518T030843Z">
+        <seg>其他平台</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>On the Developer tab, click on Record Macro.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Mac Pro" changedate="20180425T194755Z" creationid="Mac Pro" creationdate="20180425T194755Z">
@@ -45457,6 +45497,14 @@ unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131116T123943Z" creationid="Fu Rhong" creationdate="20131116T123943Z">
         <seg>完成上述操作后，即可删除&lt;e5&gt;OmegaT_3.n.n_Mac.zip&lt;/e5&gt;文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Once you have done this, you can delete the downloaded package as it is no longer needed.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230518T030800Z" creationid="WynnChen" creationdate="20230518T030800Z">
+        <seg>完成此操作后，就可以删除下载的程序包，它已不再需要。</seg>
       </tuv>
     </tu>
     <tu>
