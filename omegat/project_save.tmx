@@ -21125,6 +21125,14 @@ Some filters do not allow encoding modifications.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Developer: OmegaT Nightly</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230518T025302Z" creationid="WynnChen" creationdate="20230518T025302Z">
+        <seg>开发版：OmegaT Nightly</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Developers</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190327T170119Z" creationid="cpeishan" creationdate="20180407T105303Z">
@@ -56007,6 +56015,14 @@ All sets that match the project source language are applied.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Standard: OmegaT 6.1.0</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230518T025240Z" creationid="WynnChen" creationdate="20230518T025240Z">
+        <seg>标准版：OmegaT 6.1.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Start OmegaT again, download the team project, close OmegaT
 5.</seg>
       </tuv>
@@ -65499,6 +65515,22 @@ the server.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190404T015430Z" creationid="WynnChen" creationdate="20190404T015430Z">
         <seg>本文档既可作为教程，也可作为参考指南。以下是各章节及其内容的简短概要。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This edition is automatically generated every time new code is added to OmegaT. It is used for testing purposes.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230518T025327Z" creationid="WynnChen" creationdate="20230518T025327Z">
+        <seg>每次向 OmegaT 添加新代码时都会自动生成此版本。它用于测试目的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This edition is recommended for everyday use.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230518T025251Z" creationid="WynnChen" creationdate="20230518T025251Z">
+        <seg>此版本推荐日常使用。</seg>
       </tuv>
     </tu>
     <tu>
