@@ -13189,6 +13189,14 @@ rights of fair use or other equivalent, as provided by copyright law.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Although you can run OmegaT directly from the available files, you can also run the &lt;f0&gt;linux-install.sh&lt;/f0&gt; script found there to have OmegaT installed in more appropriate locations.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230518T030232Z" creationid="WynnChen" creationdate="20230518T030232Z">
+        <seg>您可以直接从这些文件运行 OmegaT，但也可以运行其中的 &lt;f0&gt;linux-install.sh&lt;/f0&gt; 脚本来将 OmegaT 安装到更合适的位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Always Confirm Quit</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190409T135810Z">
@@ -51404,6 +51412,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Running the script will require you to enter your &lt;f0&gt;sudo&lt;/f0&gt; password.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230518T030247Z" creationid="WynnChen" creationdate="20230518T030247Z">
+        <seg>运行该脚本需要你Running the script will require you to enter your &lt;f0&gt;sudo&lt;/f0&gt; password.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Runs (text elements) are set to RTL</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190902T065016Z" creationid="Fu Rhong" creationdate="20131116T075254Z">
@@ -54989,6 +55005,14 @@ When using regular expressions, the replacement string supports references to gr
       </tuv>
       <tuv lang="zh-CN" changeid="Wyndy" changedate="20180418T123751Z" creationid="Wyndy" creationdate="20180418T123751Z">
         <seg>某些 CAT 工具，如著名的 TRADOS， 能输出许多种格式的文件，包括桌面出版文件，并为其在相关软件进行翻译做好准备。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Some Linux distributions offer OmegaT in their package manager. The instructions given here apply to people who download the package from the &lt;u0&gt;https://omegat.org&lt;/u0&gt; site and install it manually.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230518T030041Z" creationid="WynnChen" creationdate="20230518T030041Z">
+        <seg>一些 Linux 发行版在其包管理器中提供了 OmegaT。此处的说明适用于从 &lt;u0&gt;https://omegat.org&lt;/u0&gt; 网站下载包并手工安装的人。</seg>
       </tuv>
     </tu>
     <tu>
@@ -70252,6 +70276,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190902T105634Z" creationid="wynnc" creationdate="20190902T105634Z">
         <seg>解压缩下载的文件。这将在工作文件夹中创建一个 &lt;f0&gt;omegat/&lt;/f0&gt; 文件夹，你可以在其中找到运行 &lt;a1&gt;OmegaT&lt;/a1&gt; 所需的全部文件。要解压缩 &lt;f2&gt;.tar.gz&lt;/f2&gt; 文件：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unpack/untar the file you downloaded. This creates a new folder named after the package you downloaded. That folder contains all the files needed to run OmegaT.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230518T030137Z" creationid="WynnChen" creationdate="20230518T030137Z">
+        <seg>unpack/untar 你所下载的包。这会生成一个和所下载的包同名的新文件夹。此文件夹包含了运行 OmegaT 所需的所有文件。</seg>
       </tuv>
     </tu>
     <tu>
