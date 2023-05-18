@@ -88061,6 +88061,14 @@ If the project contains files but their content is not displayed here:
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>→ OmegaT will store the translated files into the &lt;g0&gt;target&lt;/g0&gt; folder of the project that was created in the first step. Use &lt;g1&gt;&gt; Project&lt;/g1&gt; &lt;g2&gt;&gt; Access Project Contents&lt;/g2&gt; to access the files.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230518T024500Z" creationid="WynnChen" creationdate="20230518T024500Z">
+        <seg>→ OmegaT 会将译文文件存储到第一步中所创建的项目的 &lt;g0&gt;target&lt;/g0&gt; 文件夹中。用&lt;g1&gt;&gt; 项目&lt;/g1&gt; &lt;g2&gt;&gt; 访问项目内容&lt;/g2&gt;可以访问这些文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>▲</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190324T030544Z" creationid="wynnc" creationdate="20190324T030544Z">
