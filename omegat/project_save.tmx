@@ -27277,6 +27277,14 @@ authors of previous versions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Freedoms</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230518T024519Z" creationid="WynnChen" creationdate="20230518T024519Z">
+        <seg>自由</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>French</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T065804Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -32225,6 +32233,14 @@ to use Java Web Start.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120218T123644Z">
         <seg>如果您想让译文等同于原文，只需简单地删除所有文本使编辑区域为空（&lt;k0&gt;Ctrl+A&lt;/k0&gt; 然后用 &lt;k1&gt;Del&lt;/k1&gt; 删除）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you want to know more, read the user manual.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230518T024515Z" creationid="WynnChen" creationdate="20230518T024515Z">
+        <seg>如果想了解更多信息，请阅读用户手册。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43810,6 +43826,14 @@ readme.txt 文件中详细记录了其他贡献
  
 OmegaT 使用了以下库：
 {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT is a free computer-assisted translation (CAT) solution for professional translators. It is distributed under the terms of the &lt;e0&gt;GNU General Public License, version 3.0&lt;/e0&gt;. See &lt;g1&gt;&gt; Help&lt;/g1&gt; &lt;g2&gt;&gt; About&lt;/g2&gt;. The license grants you the following freedoms:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230518T024653Z" creationid="WynnChen" creationdate="20230518T024653Z">
+        <seg>OmegaT 是针对专业译者的自由计算机辅助翻译（CAT）解决方案。它依据 &lt;e0&gt;GNU 通用公共许可证 3.0 版&lt;/e0&gt;的条款分发。请参阅&lt;g1&gt;&gt; 帮助&lt;/g1&gt; &lt;g2&gt;&gt; 关于&lt;/g2&gt;。该许可证授予您以下自由：</seg>
       </tuv>
     </tu>
     <tu>
@@ -61017,6 +61041,14 @@ instead.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120203T123532Z">
         <seg>您复制的标签组所代表的格式将会应用到原标签和复制标签的两个部分。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The freedom to run OmegaT as you wish, for any purpose.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230518T024721Z" creationid="WynnChen" creationdate="20230518T024721Z">
+        <seg>以任何目的随意运行 OmegaT 的自由。</seg>
       </tuv>
     </tu>
     <tu>
