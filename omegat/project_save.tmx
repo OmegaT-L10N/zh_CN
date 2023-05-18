@@ -43291,6 +43291,14 @@ combination as such.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT comes in two editions:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230518T025234Z" creationid="WynnChen" creationdate="20230518T025234Z">
+        <seg>OmegaT 有两个版本：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT compatibility</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="cpeishan" changedate="20180407T140029Z" creationid="cpeishan" creationdate="20180407T140029Z">
@@ -61045,10 +61053,34 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The freedom to distribute copies of your modified versions to others.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230518T024920Z" creationid="WynnChen" creationdate="20230518T024920Z">
+        <seg>将您修改后版本的拷贝分发给他人的自由。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The freedom to redistribute copies so you can help others.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230518T024925Z" creationid="WynnChen" creationdate="20230518T024859Z">
+        <seg>再分发拷贝的自由，这样您就可以帮助他人。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The freedom to run OmegaT as you wish, for any purpose.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20230518T024721Z" creationid="WynnChen" creationdate="20230518T024721Z">
         <seg>以任何目的随意运行 OmegaT 的自由。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The freedom to study how OmegaT works, and change it so it does your computing as you wish.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230518T024955Z" creationid="WynnChen" creationdate="20230518T024834Z">
+        <seg>研究 OmegaT 如何工作、并随意进行更改以执行您的计算需求的自由。</seg>
       </tuv>
     </tu>
     <tu>
