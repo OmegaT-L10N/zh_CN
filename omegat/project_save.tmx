@@ -15310,6 +15310,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Basically, that means that you have:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230518T143939Z" creationid="WynnChen" creationdate="20230518T143939Z">
+        <seg>基本上，这意味着你有：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Basque</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190405T031219Z">
@@ -37777,8 +37785,8 @@ later version.</seg>
       <tuv lang="en">
         <seg>License</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230518T031014Z" creationid="WynnChen" creationdate="20230518T031014Z">
-        <seg>License</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230518T143943Z" creationid="WynnChen" creationdate="20230518T031014Z">
+        <seg>许可证</seg>
       </tuv>
     </tu>
     <tu>
@@ -44167,6 +44175,14 @@ published by the Free Software Foundation, either version 3 of the License, or
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190403T143647Z" creationid="Wyndy" creationdate="20180418T054034Z">
         <seg>OmegaT 能够直接处理当前的 Microsoft Office 格式，而无需转换为其他格式或从其他格式转换。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT is distributed under the GPL v3 license agreement.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230518T143935Z" creationid="WynnChen" creationdate="20230518T143935Z">
+        <seg>OmegaT是根据 GPL v3 许可协议分发的。</seg>
       </tuv>
     </tu>
     <tu>
