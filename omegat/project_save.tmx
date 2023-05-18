@@ -22450,6 +22450,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Double-click on the package you downloaded.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230518T025838Z" creationid="WynnChen" creationdate="20230518T025838Z">
+        <seg>双击您下载的包。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Double-click on&lt;e0&gt; &lt;a1&gt;OmegaT&lt;/a1&gt;.app&lt;/e0&gt; or click on its location in the Dock.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120207T112411Z">
@@ -22750,6 +22758,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190324T024040Z" creationid="wynnc" creationdate="20190324T024040Z">
         <seg>将词汇表文件拖到此处来将其添加到项目中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Due to licensing considerations, the OmegaT team recommends the Eclipse Temurin Java runtime provided by the Eclipse Foundation's Adoptium Project, but any Java 8 compatible runtime environment should work. See &lt;u0&gt;The Eclipse Temurin™ project&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230518T025819Z" creationid="WynnChen" creationdate="20230518T025819Z">
+        <seg>出于许可方面的考虑，OmegaT 团队推荐使用 Eclipse Foundation 的 Adoptium Project 提供的 Eclipse Temurin Java 运行时，但任何兼容 Java 8 的运行时环境都应当可以运行。请参阅 &lt;u0&gt;Eclipse Temurin™ 项目&lt;/u0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -75887,6 +75903,14 @@ from there.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can choose the language used during the installation and the language used by OmegaT. You can also change this later by editing the &lt;f0&gt;OmegaT.l4J.ini&lt;/f0&gt; file.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230518T025939Z" creationid="WynnChen" creationdate="20230518T025939Z">
+        <seg>您可以选择在安装过程中使用的语言和 OmegaT 使用的语言。以后您也可以通过编辑 &lt;f0&gt;OmegaT.l4J.ini&lt;/f0&gt; 文件来更改此设置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can clear it by selecting it and hitting Delete.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Mac Pro" changedate="20180425T195455Z" creationid="Mac Pro" creationdate="20180425T195455Z">
@@ -81880,6 +81904,14 @@ If the project contains files but their content is not displayed here:
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>https://developer.ibm.com/languages/java/semeru-runtimes/downloads/</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230518T025829Z" creationid="WynnChen" creationdate="20230518T025829Z">
+        <seg>https://developer.ibm.com/languages/java/semeru-runtimes/downloads/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>https://developers.google.com/translate/v2/faq</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131117T032244Z" creationid="Fu Rhong" creationdate="20131117T032244Z">
@@ -82044,6 +82076,14 @@ If the project contains files but their content is not displayed here:
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20200116T062246Z" creationid="WynnChen" creationdate="20200116T062246Z">
         <seg>https://omegat.sourceforge.net/webstart/OmegaT.jnlp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://projects.eclipse.org/projects/adoptium.temurin</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230518T025650Z" creationid="WynnChen" creationdate="20230518T025650Z">
+        <seg>https://projects.eclipse.org/projects/adoptium.temurin</seg>
       </tuv>
     </tu>
     <tu>
