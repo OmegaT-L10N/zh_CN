@@ -11667,6 +11667,22 @@ included in conveying the object code work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Access to machine translation services</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230518T145700Z" creationid="WynnChen" creationdate="20230518T145652Z">
+        <seg>访问机器翻译服务</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Access to team projects</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230518T145707Z" creationid="WynnChen" creationdate="20230518T145707Z">
+        <seg>访问团队项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Accessing the TaaS service</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Doris" changedate="20180418T124820Z" creationid="Doris" creationdate="20180418T124820Z">
@@ -31992,6 +32008,14 @@ free software which everyone can redistribute and change under these terms.</seg
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you find through your analysis that OmegaT communicates with an online service that you have not set, that would be a bug and we would ask you to report it.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230518T150003Z" creationid="WynnChen" creationdate="20230518T150003Z">
+        <seg>如果您通过分析发现 OmegaT 与未设置过的在线服务进行通信，这是 Bug，我们希望您报告该问题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you have TransTips option activated (&lt;g0&gt;Options → TransTips&lt;/g0&gt;), you can right click on the highlighted word in the source segment to open a pop-up menu with suggested translation, as offered by your glossary.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="xulihang" changedate="20180404T021248Z" creationid="Fu Rhong" creationdate="20131127T135624Z">
@@ -43397,6 +43421,14 @@ combination as such.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T125608Z" creationid="WynnChen" creationdate="20230227T125608Z">
         <seg>OmegaT 为&lt;l0/&gt;、&lt;l1/&gt;、和&lt;l2/&gt;菜单中的大多数功能以及&lt;l3/&gt;窗格中的许多功能都分配了快捷键。你还可以添加或修改大多数功能的快捷键。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT automatically checks the availability of newer versions on its development server without transmitting any user information, and the user can easily opt out in the Preferences settings.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230518T145900Z" creationid="WynnChen" creationdate="20230518T145900Z">
+        <seg>OmegaT 自动检查其开发服务器上是否有更新版本，此操作无需传输任何用户信息，同时用户可以很轻松地在首选项设置中关闭此特性。</seg>
       </tuv>
     </tu>
     <tu>
@@ -64463,8 +64495,8 @@ protocols for communication across the network.</seg>
       <tuv lang="en">
         <seg>The user or their project manager can set OmegaT to use online services. In that case, OmegaT shares information with online services:</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230518T145644Z" creationid="WynnChen" creationdate="20230518T145644Z">
-        <seg>用户或他们的项目经理可以将 OmegaT 设置为使用在线服务。在这种情况下，OmegaT 与以下在线服务共享信息：</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230518T145655Z" creationid="WynnChen" creationdate="20230518T145644Z">
+        <seg>用户或他们的项目经理可以将 OmegaT 设置为使用在线服务。在这种情况下，OmegaT 与在线服务共享信息：</seg>
       </tuv>
     </tu>
     <tu>
