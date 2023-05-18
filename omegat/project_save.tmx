@@ -3499,6 +3499,28 @@ not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>- Marco Cevoli (Telegram community manager)
+- Jean-Christophe Helary (Twitter community manager)
+- Kos Ivantsov (localisation manager)
+- Concepción Martin (Facebook community manager)
+- Hiroshi Miura (lead developer)
+- Briac Pilpré (webmaster)
+- Philippe Tourigny (documentation manager)
+- Lucie Vecerova (Facebook community manager)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230518T141252Z" creationid="WynnChen" creationdate="20230518T141252Z">
+        <seg>- Marco Cevoli（Telegram 社区经理）
+- Jean-Christophe Helary（Twitter 社区经理）
+- Kos Ivantsov（本地化经理）
+- Concepción Martin（Facebook 社区经理）
+- Hiroshi Miura（首席开发人员）
+- Briac Pilpré（网站管理员）
+- Philippe Tourigny（文档经理）
+- Lucie Vecerova（Facebook 社区经理）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>- Microsoft Open XML (*.docx, *.xlsx, *.pptx)</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="钢" changedate="20130514T151918Z">
@@ -12813,6 +12835,14 @@ rights of fair use or other equivalent, as provided by copyright law.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All the parameters located in the Configuration Folder will be shared unless you specify a different configuration folder with the &lt;c0&gt;--config-dir=&lt;path&gt;&lt;/c0&gt; option from the OmegaT options on the command line . All the parameters located in a Project Folder will apply to that project regardless of which version of OmegaT opens it.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230518T143429Z" creationid="WynnChen" creationdate="20230518T143429Z">
+        <seg>所有位于配置文件夹中的参数都会共享，除非您通过 OmegaT 命令行参数 &lt;c0&gt;--config-dir=&lt;path&gt;&lt;/c0&gt; 指定了不同的配置文件夹。所有位于项目文件夹中的参数则只会应用于该项目，无论使用哪个版本的 OmegaT 打开。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All the tags that are marked with &lt;c0&gt;translate="no"&lt;/c0&gt; will be ignored.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T121227Z" creationid="WynnChen" creationdate="20221209T121227Z">
@@ -13001,6 +13031,14 @@ rights of fair use or other equivalent, as provided by copyright law.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="lenovo" changedate="20180416T102955Z" creationid="lenovo" creationdate="20180416T102955Z">
         <seg>几乎所有当前版本的Tcl / Tk都适用，但你必须同时拥有Tcl（脚本解释器）和Tk（图形组件）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Alongside an existing version</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230518T142749Z" creationid="WynnChen" creationdate="20230518T142749Z">
+        <seg>与现有版本并存</seg>
       </tuv>
     </tu>
     <tu>
@@ -31862,6 +31900,14 @@ been installed in ROM).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you decide to install a new version, keep the following in mind:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230518T141348Z" creationid="WynnChen" creationdate="20230518T141348Z">
+        <seg>如果您决定安装新版本，请记住以下几点：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you develop a new program, and you want it to be of the greatest
 possible use to the public, the best way to achieve this is to make it
 free software which everyone can redistribute and change under these terms.</seg>
@@ -45317,6 +45363,14 @@ unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT’s preferences are stored in the configuration folder and will &lt;s0&gt; &lt;e1&gt;not&lt;/e1&gt; &lt;/s0&gt; be modified by the new version.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230518T141425Z" creationid="WynnChen" creationdate="20230518T141425Z">
+        <seg>OmegaT 的首选项存储在配置文件夹中，&lt;s0&gt;&lt;e1&gt;不会&lt;/e1&gt;&lt;/s0&gt;被新版本修改。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>On Linux</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
@@ -46885,6 +46939,14 @@ unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Over an existing version</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230518T142638Z" creationid="WynnChen" creationdate="20230518T142638Z">
+        <seg>覆盖现有版本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Overlapping is the result of bad manipulations of tag pairs and is guaranteed to result in formatting corruption and sometimes in the translated file not opening at all.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120205T115946Z">
@@ -47197,6 +47259,14 @@ Vanishing like mist</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131116T075129Z" creationid="Fu Rhong" creationdate="20131116T035311Z">
         <seg>段落、节和表被设为双向</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Parameter files that are included in the downloaded OmegaT package (especially the &lt;c0&gt;OmegaT.l4J.ini&lt;/c0&gt; for Windows and the &lt;c1&gt;Configuration.properties&lt;/c1&gt; and &lt;c2&gt;Info.plist&lt;/c2&gt; files for macOS packages) might be overwritten or deleted, so you may want to create a backup before upgrading, if you have been using these files to modify OmegaT’s launch parameters.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230518T142622Z" creationid="WynnChen" creationdate="20230518T142551Z">
+        <seg>包含在所下载的 OmegaT 程序包中的参数文件（特别是针对 Windows 的程序包中的 &lt;c0&gt;OmegaT.l4J.ini&lt;/c0&gt; 和针对 macOS 的程序包中的 &lt;c1&gt;Configuration.properties&lt;/c1&gt; 和 &lt;c2&gt;Info.plist&lt;/c2&gt;）可能会被覆盖或删除，因此，如果你已经在使用这些文件修改 OmegaT 的启动参数，则可能需要在升级前创建备份。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49177,6 +49247,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190410T101048Z" creationid="WynnChen" creationdate="20190410T101048Z">
         <seg>可以根据您的开发风格和需求来管理项目。与 OmegaT 项目类似，您需要为不同的语言对提供各自的存储库。在给定的语言对中，最好同样保持不同的主题和/或客户分处单独的存储库。另一种方法是让单个存储库中包含子文件夹 &lt;l0&gt;Project1&lt;/l0&gt;、&lt;l1&gt;Project2&lt;/l1&gt; 等，并通过公用的 &lt;l2&gt;tm&lt;/l2&gt;、&lt;l3&gt;glossary&lt;/l3&gt; 和 &lt;l4&gt;dictionary&lt;/l4&gt; 文件夹来共享公共资料。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Projects that you have created in the past or are currently using will &lt;s0&gt; &lt;e1&gt;not&lt;/e1&gt; &lt;/s0&gt; be modified or deleted. OmegaT projects are &lt;s2&gt; &lt;e3&gt;not&lt;/e3&gt; &lt;/s2&gt; stored inside OmegaT. They are separate objects that have no physical connection to the OmegaT application itself.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230518T141648Z" creationid="WynnChen" creationdate="20230518T141648Z">
+        <seg>过往创建或当前正在使用的项目&lt;s0&gt;&lt;e1&gt;不会&lt;/e1&gt;&lt;/s0&gt;被修改或删除。OmegaT 的项目并&lt;s2&gt;&lt;e3&gt;不&lt;/e3&gt;&lt;/s2&gt;存储在 OmegaT 内。它们是独立的对象，与 OmegaT 应用程序本身没有物理联系。</seg>
       </tuv>
     </tu>
     <tu>
@@ -58736,6 +58814,14 @@ form of a work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;c0&gt;plugins&lt;/c0&gt; and &lt;c1&gt;scripts&lt;/c1&gt; folders might be overwritten, so you may want to create a backup before upgrading.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230518T142619Z" creationid="WynnChen" creationdate="20230518T142619Z">
+        <seg>&lt;c0&gt;plugins&lt;/c0&gt; 和 &lt;c1&gt;scripts&lt;/c1&gt; 文件夹可能会被覆盖，因此可能需要在升级之前创建备份。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;c0&gt;shortcut&lt;/c0&gt; represents the key combination pressed by the user. It takes the following form:</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20230303T104025Z" creationid="WynnChen" creationdate="20230303T104025Z">
@@ -60129,6 +60215,14 @@ Please try to correct the error and reload the project.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Doris" changedate="20180418T132709Z" creationid="Doris" creationdate="20180418T132709Z">
         <seg>显示更改。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The changes between your version and the current version are documented in the development site’s &lt;a0&gt;changes.txt&lt;/a0&gt; file.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230518T141340Z" creationid="WynnChen" creationdate="20230518T141340Z">
+        <seg>您的版本与当前版本之间的变更记录在开发站点的 &lt;a0&gt;changes.txt&lt;/a0&gt; 文件中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -67333,6 +67427,14 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This will enable you to keep any number of versions side-by-side, which you may wish to do until you feel comfortable with the new version.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230518T142847Z" creationid="WynnChen" creationdate="20230518T142847Z">
+        <seg>这将让您能同时保留任意多个版本，你可能希望维持如此直至对新版本感到满意为止。、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This will greatly simplify updating of your translation in the future.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="lenovo" changedate="20180417T030335Z" creationid="lenovo" creationdate="20180417T030335Z">
@@ -67981,6 +68083,14 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="think" changedate="20180416T072202Z" creationid="think" creationdate="20180416T071958Z">
         <seg>为此，打开一个终端（也就是控制台或命令行窗口；它的通用程序是（KDE）和gnome-terminal（GNOME）），然后输入：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To do this, simply select the same installation folder as the existing installation when installing the new version. The “old” version of OmegaT will be overwritten, but settings made from the OmegaT interface will be retained in the various configurations folders (see above).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230518T142740Z" creationid="WynnChen" creationdate="20230518T142632Z">
+        <seg>要做到这一点，只需在安装新版本时选择与现有安装相同的安装文件夹。“旧”版本的 OmegaT 将被覆盖，但通过 OmegaT 的界面修改的设置将保留在各种配置文件夹中（见上文）。</seg>
       </tuv>
     </tu>
     <tu>
