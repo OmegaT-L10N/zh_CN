@@ -22706,6 +22706,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Download the &lt;s0&gt; &lt;e1&gt;Cross-platform without JRE&lt;/e1&gt; &lt;/s0&gt; version.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230518T031716Z" creationid="WynnChen" creationdate="20230518T031716Z">
+        <seg>下载&lt;s0&gt;跨平台无 JRE&lt;/e1&gt; &lt;/s0&gt;版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Download the file - it should be a &lt;f0&gt;tarball&lt;/f0&gt; archive (extension &lt;e1&gt;tar.bz&lt;/e1&gt; or &lt;e2&gt;tar.bz2&lt;/e2&gt;).</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190413T072328Z">
@@ -45581,6 +45589,14 @@ unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Once you have done this, you can delete the downloaded file as it is no longer needed.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230518T031512Z" creationid="WynnChen" creationdate="20230518T031512Z">
+        <seg>完成此操作后，就可以删除下载的文件，它已不再需要。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Once you have done this, you can delete the downloaded package as it is no longer needed.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20230518T030800Z" creationid="WynnChen" creationdate="20230518T030800Z">
@@ -59001,6 +59017,14 @@ Source.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Eclipse Foundation provides OpenJDK Runtime Environments JREs for many systems at &lt;a0&gt;https://adoptium.net/temurin&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230518T031755Z" creationid="WynnChen" creationdate="20230518T031755Z">
+        <seg>Eclipse Foundation 在 &lt;a0&gt;https://adoptium.net/temurin&lt;/a0&gt; 为很多系统提供了 OpenJDK 运行时环境 JRE。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Edit Pattern Dialog offers among others the following options:</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131113T124209Z" creationid="Fu Rhong" creationdate="20131113T123634Z">
@@ -66229,6 +66253,14 @@ the server.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190902T104637Z" creationid="wynnc" creationdate="20190902T104637Z">
         <seg>此处的信息仅适用于 OmegaT 的“传统”Windows 版本。它不适用于自动升级的 Web Start 版本，也不适用于安装在 Windows 上的跨平台版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This information applies to all systems that have a Java version compatible with Java {{site.data.versions.standard.java_version}} Runtime Environment. That includes the platforms described above, but also the platforms for which specific packages are not provided.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230518T031657Z" creationid="WynnChen" creationdate="20230518T031657Z">
+        <seg>此信息适用于其 Java 版本与 Java {{site.data.versions.standard.java_version}} 运行时环境兼容的所有系统。这包括上述平台，但也包括其他未提供专门程序包的平台。</seg>
       </tuv>
     </tu>
     <tu>
