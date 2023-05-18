@@ -12313,6 +12313,14 @@ the above requirements apply either way.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>After the unpacking or installation is complete, you can delete the downloaded file as it is no longer needed.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230518T030501Z" creationid="WynnChen" creationdate="20230518T030501Z">
+        <seg>解包或安装完毕后，你可以删除下载的文件，它已不再需要。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>After you give your project a name, the &lt;g0&gt;Create New Project&lt;/g0&gt; dialog will open.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131117T005637Z" creationid="Fu Rhong" creationdate="20131117T005409Z">
@@ -13191,8 +13199,8 @@ rights of fair use or other equivalent, as provided by copyright law.</seg>
       <tuv lang="en">
         <seg>Although you can run OmegaT directly from the available files, you can also run the &lt;f0&gt;linux-install.sh&lt;/f0&gt; script found there to have OmegaT installed in more appropriate locations.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230518T030232Z" creationid="WynnChen" creationdate="20230518T030232Z">
-        <seg>您可以直接从这些文件运行 OmegaT，但也可以运行其中的 &lt;f0&gt;linux-install.sh&lt;/f0&gt; 脚本来将 OmegaT 安装到更合适的位置。</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230518T030258Z" creationid="WynnChen" creationdate="20230518T030232Z">
+        <seg>可以直接从这些文件运行 OmegaT，但也可以运行其中的 &lt;f0&gt;linux-install.sh&lt;/f0&gt; 脚本来将 OmegaT 安装到更合适的位置。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22422,6 +22430,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20191219T020958Z" creationid="WynnChen" creationdate="20191219T020958Z">
         <seg>双击 &lt;f0&gt;OmegaT_4.n.n_Mac.zip&lt;/f0&gt; 将其解压缩。这将创建一个名为 &lt;f1&gt;OmegaT&lt;/f1&gt; 的文件夹。该文件夹包含 2 个文件：&lt;f2&gt;index.html&lt;/f2&gt; 和 &lt;f3&gt;OmegaT.app&lt;/f3&gt;。将此文件夹复制到合适的文件夹（例如 Applications）中。完成此操作后，可以删除 &lt;f4&gt;OmegaT_4.n.n_Mac.zip&lt;/f4&gt; 文件，该文件不再需要。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Double click on the package you downloaded to unpack it. This creates a folder called &lt;f0&gt;OmegaT&lt;/f0&gt;. The folder contains two files: &lt;f1&gt;index.html&lt;/f1&gt; (the user manual entry file) and &lt;f2&gt;OmegaT.app&lt;/f2&gt; (the application). Copy the folder to a suitable location (e.g. &lt;f3&gt;Applications&lt;/f3&gt;).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230518T030524Z" creationid="WynnChen" creationdate="20230518T030524Z">
+        <seg>双击所下载的包以将其解压缩。Double click on the package you downloaded to unpack it. This creates a folder called &lt;f0&gt;OmegaT&lt;/f0&gt;. The folder contains two files: &lt;f1&gt;index.html&lt;/f1&gt; (the user manual entry file) and &lt;f2&gt;OmegaT.app&lt;/f2&gt; (the application). Copy the folder to a suitable location (e.g. &lt;f3&gt;Applications&lt;/f3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -51414,8 +51430,8 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Running the script will require you to enter your &lt;f0&gt;sudo&lt;/f0&gt; password.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230518T030247Z" creationid="WynnChen" creationdate="20230518T030247Z">
-        <seg>运行该脚本需要你Running the script will require you to enter your &lt;f0&gt;sudo&lt;/f0&gt; password.</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230518T030312Z" creationid="WynnChen" creationdate="20230518T030247Z">
+        <seg>运行该脚本需要输入 &lt;f0&gt;sudo&lt;/f0&gt; 密码。</seg>
       </tuv>
     </tu>
     <tu>
@@ -62876,6 +62892,14 @@ protocols for communication across the network.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The script checks for an existing installation of the same OmegaT version in &lt;f0&gt;/opt/omegat/&lt;/f0&gt;. If there isn’t one, it installs the program in &lt;f1&gt;/opt/omegat/OmegaT_6.1.0&lt;/f1&gt; and sets it as the default version (in &lt;f2&gt;/opt/omegat/OmegaT-default&lt;/f2&gt;).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230518T030437Z" creationid="WynnChen" creationdate="20230518T030437Z">
+        <seg>此脚本会检查 &lt;f0&gt;/opt/omegat/&lt;/f0&gt; 中是否已经安装了相同的OmegaT 版本。如果没有，那么它会将程序安装到 &lt;f1&gt;/opt/omegat/OmegaT_6.1.0&lt;/f1&gt; 并将其设置为默认版本（在 &lt;f2&gt;/opt/omegat/OmegaT-default&lt;/f2&gt; 中）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The script will quit now.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="xulihang" changedate="20180408T121611Z" creationid="xulihang" creationdate="20180408T121611Z">
@@ -70282,8 +70306,8 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>Unpack/untar the file you downloaded. This creates a new folder named after the package you downloaded. That folder contains all the files needed to run OmegaT.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230518T030137Z" creationid="WynnChen" creationdate="20230518T030137Z">
-        <seg>unpack/untar 你所下载的包。这会生成一个和所下载的包同名的新文件夹。此文件夹包含了运行 OmegaT 所需的所有文件。</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230518T030542Z" creationid="WynnChen" creationdate="20230518T030137Z">
+        <seg>解压缩/untar 所下载的包。这会生成一个和所下载的包同名的新文件夹。此文件夹包含了运行 OmegaT 所需的所有文件。</seg>
       </tuv>
     </tu>
     <tu>
