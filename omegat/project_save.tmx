@@ -18772,6 +18772,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Contributing</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230518T031027Z" creationid="WynnChen" creationdate="20230518T031027Z">
+        <seg>贡献</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Contributing to &lt;a0&gt;OmegaT&lt;/a0&gt; project</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120130T073234Z">
@@ -35010,6 +35018,14 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Introduction to OmegaT</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230518T030901Z" creationid="WynnChen" creationdate="20230518T030901Z">
+        <seg>Introduction to OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Introduction to OmegaT (2.5.0). By Arno Peters and Mariëtte van Drunen (in Dutch).</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20200117T032255Z" creationid="WynnChen" creationdate="20200117T032255Z">
@@ -37645,6 +37661,14 @@ later version.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="lenovo" changedate="20180416T084752Z" creationid="lenovo" creationdate="20180416T084752Z">
         <seg>LibreOffice是一个功能齐全的办公套件，类似于Microsoft Office。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>License</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230518T031014Z" creationid="WynnChen" creationdate="20230518T031014Z">
+        <seg>License</seg>
       </tuv>
     </tu>
     <tu>
@@ -44365,6 +44389,14 @@ Reload the project now?</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT packages are available both in versions bundled with Java, and versions without it. Packages without Java rely on a Java {{site.data.versions.standard.java_version}} Runtime Environment installed systemwide.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230518T031129Z" creationid="WynnChen" creationdate="20230518T031129Z">
+        <seg>OmegaT 的发行包既有捆绑有 Java 的版本，也有未捆绑 Java 的版本。不带 Java 的版本依赖于系统范围安装的 Java {{site.data.versions.standard.java_version}} 运行时环境。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT packages which include the Java Runtime Environment are now  available to save users the trouble of selecting, obtaining and installing it.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Puzzlist" changedate="20130922T041301Z" creationid="Puzzlist" creationdate="20130922T041301Z">
@@ -45097,6 +45129,22 @@ unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190326T163034Z" creationid="WynnChen" creationdate="20190326T163034Z">
         <seg>OmegaT {0} 现已推出。您目前使用的是 {1}。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT {{site.data.versions.standard.name}} and later also support Java 11 Runtime Environment on any platforms.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230518T031204Z" creationid="WynnChen" creationdate="20230518T031204Z">
+        <seg>OmegaT {{site.data.versions.standard.name}} 及更高版本也支持任意平台上的 Java 11 运行时环境。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT {{site.data.versions.standard.name}} requires a Java {{site.data.versions.standard.java_version}} Runtime Environment (JRE) to run.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230518T031117Z" creationid="WynnChen" creationdate="20230518T031117Z">
+        <seg>OmegaT {{site.data.versions.standard.name}} 需要 Java {{site.data.versions.standard.java_version}} 运行时环境（JRE）才能运行。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47939,6 +47987,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20200123T044028Z" creationid="WynnChen" creationdate="20200123T043310Z">
         <seg>泊松分布（Poisson）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Policies</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230518T031034Z" creationid="WynnChen" creationdate="20230518T031034Z">
+        <seg>政策</seg>
       </tuv>
     </tu>
     <tu>
@@ -51428,6 +51484,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Run OmegaT</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230518T030856Z" creationid="WynnChen" creationdate="20230518T030856Z">
+        <seg>Run OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Run script in slot #{0}.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20221125T055113Z" creationid="wynnc" creationdate="20221125T055113Z">
@@ -54241,6 +54305,14 @@ When using regular expressions, the replacement string supports references to gr
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Set up a team project</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230518T030858Z" creationid="WynnChen" creationdate="20230518T030858Z">
+        <seg>Set up a team project</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Sets</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T124323Z" creationid="wynnc" creationdate="20190323T124323Z">
@@ -56151,6 +56223,14 @@ All sets that match the project source language are applied.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Standard: OmegaT {{site.data.versions.standard.name}}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230518T031049Z" creationid="WynnChen" creationdate="20230518T031049Z">
+        <seg>标准版：OmegaT {{site.data.versions.standard.name}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Start OmegaT again, download the team project, close OmegaT
 5.</seg>
       </tuv>
@@ -56734,6 +56814,14 @@ All sets that match the project source language are applied.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190523T020530Z" creationid="18261" creationdate="20180412T083749Z">
         <seg>支持从右向左的语言</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Support other formats</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230518T030859Z" creationid="WynnChen" creationdate="20230518T030859Z">
+        <seg>Support other formats</seg>
       </tuv>
     </tu>
     <tu>
@@ -58749,6 +58837,16 @@ form of a work.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120209T133630Z">
         <seg>&lt;x0/&gt; 描述了关于颜色代码的细节。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The @language@ version of OmegaT has been translated by:
+@TRANSLATION_NOTICE@</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230518T030952Z" creationid="WynnChen" creationdate="20230518T030910Z">
+        <seg>OmegaT 的@language@版由以下人员翻译：
+@TRANSLATION_NOTICE@</seg>
       </tuv>
     </tu>
     <tu>
@@ -60785,6 +60883,14 @@ instead.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131113T015807Z">
         <seg>导出的内容会保存到OmegaT用户文件目录的/script子文件夹中的文件，包括：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The files are downloadable directly from &lt;a0&gt;https://omegat.org&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230518T031102Z" creationid="WynnChen" creationdate="20230518T031102Z">
+        <seg>这些文件可直接从 &lt;a0&gt;https://omegat.org&lt;/a0&gt; 下载。</seg>
       </tuv>
     </tu>
     <tu>
@@ -69421,6 +69527,14 @@ install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Troubleshoot issues</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230518T030854Z" creationid="WynnChen" creationdate="20230518T030854Z">
+        <seg>Troubleshoot issues</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Troubleshooting</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="lenovo" changedate="20180416T111913Z" creationid="lenovo" creationdate="20180416T111913Z">
@@ -70538,6 +70652,14 @@ Please try to correct the error and reload the project.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="xulihang" changedate="20180404T021248Z" creationid="Fu Rhong" creationdate="20131116T121544Z">
         <seg>因此更新术语表变得非常简单：按下&lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt;并输入新术语、其翻译及注释（确保在字段间使用了TAB）并保存文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Upgrade</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230518T030852Z" creationid="WynnChen" creationdate="20230518T030852Z">
+        <seg>升级</seg>
       </tuv>
     </tu>
     <tu>
@@ -72195,6 +72317,14 @@ OmegaT 选项：
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use a team project</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230518T030859Z" creationid="WynnChen" creationdate="20230518T030859Z">
+        <seg>Use a team project</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use all mine</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T153929Z" creationid="wynnc" creationdate="20190323T153929Z">
@@ -72519,6 +72649,14 @@ OmegaT 选项：
       </tuv>
       <tuv lang="zh-CN" changeid="Kaname Madokami☆!" changedate="20180414T160716Z">
         <seg>在对一个或多个组件进行了分离、移动或隐藏操作后无法还原时可以使用这个功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use translation memories</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230518T030900Z" creationid="WynnChen" creationdate="20230518T030900Z">
+        <seg>Use translation memories</seg>
       </tuv>
     </tu>
     <tu>
