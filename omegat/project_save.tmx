@@ -26279,6 +26279,14 @@ patents cannot be used to render the program non-free.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Follow your system’s instructions to install OmegaT shortcuts in convenient places of your choosing.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230518T031938Z" creationid="WynnChen" creationdate="20230518T031938Z">
+        <seg>请按照系统说明在你觉得方便的地方安装 OmegaT 快捷方式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Font</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T112003Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -29909,6 +29917,14 @@ prior to 60 days after the cessation.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20230425T040519Z" creationid="WynnChen" creationdate="20230425T040519Z">
         <seg>IBM Watson 不可用。相关说明请参阅用户手册。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>IBM provides JREs for Linux PowerPC at &lt;a0&gt;https://developer.ibm.com/languages/java/semeru-runtimes/downloads/&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230518T031831Z" creationid="WynnChen" creationdate="20230518T031831Z">
+        <seg>IBM 在 &lt;a0&gt;https://developer.ibm.com/languages/java/semeru-runtimes/downloads/&lt;/a0&gt; 为 Linux PowerPC 提供了 JRE。</seg>
       </tuv>
     </tu>
     <tu>
@@ -70534,6 +70550,14 @@ as the Applications folder.</seg>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20200116T062059Z" creationid="WynnChen" creationdate="20200116T062040Z">
         <seg>解压 OmegaT 的 .zip 压缩包以获得包含文档文件和 OmegaT 应用程序的文件夹。
 将该文件夹移动到合适的地方，比如 Applications 文件夹。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unpack the file that you downloaded. This creates a folder with all the files necessary to run OmegaT.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230518T031906Z" creationid="WynnChen" creationdate="20230518T031906Z">
+        <seg>解压缩所下载的文件，这会创建一个文件夹，其中包含运行 OmegaT 所需的所有文件。</seg>
       </tuv>
     </tu>
     <tu>
