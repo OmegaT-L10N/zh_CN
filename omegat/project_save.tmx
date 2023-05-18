@@ -33581,6 +33581,14 @@ Reopen the project now?</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In some areas, some degree of co-ordination is required. For example, anyone is free to make changes to OmegaT's program code and to submit these changes to the development team. The best way for developers to have a smooth experience when proposing such changes is to follow the guidelines defined on the &lt;a0&gt;Contributing to OmegaT page&lt;/a0&gt;, which is part of the larger &lt;a1&gt;Documentation for developers&lt;/a1&gt; OmegaT offers. Only if these changes are considered beneficial for OmegaT's users, however, will the development team include them in OmegaT. This ensures that the users' interests are protected, and has also resulted in OmegaT being awarded the &lt;a2&gt;Softpedia "100% FREE" guarantee&lt;/a2&gt;.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20230518T143923Z" creationid="WynnChen" creationdate="20230518T143923Z">
+        <seg>在一些领域，需要一定程度的协调。例如，任何人都可以自由地对 OmegaT 的程序代码做出更改，并将这些更改提交给开发团队。对于开发人员来说，在提出此类更改建议时得到流畅体验的最佳方法是遵循&lt;a0&gt;为 OmegaT 贡献页面&lt;/a0&gt;中定义的指导原则，该页面是 OmegaT 所提供的更大的&lt;a1&gt;开发人员文档&lt;/a1&gt;的一部分。仅当这些变更被视为对 OmegaT 用户有益的时候，开发团队才会将它们接纳入 OmegaT 中。这样可以确保用户的利益得到保护，而又让 OmegaT 被授予&lt;a2&gt; Softpedia“100％ 自由”保证&lt;/a2&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In some cases, you may find that the source-language tokenizer interferes with the target-language spelling checker.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="10353" changedate="20180414T105151Z" creationid="10353" creationdate="20180414T105151Z">
