@@ -28523,6 +28523,14 @@ authors of previous versions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>GO</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T162624Z" creationid="WynnChen" creationdate="20240716T162624Z">
+        <seg>GO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>GUI alignment tool for producing translation memory files from legacy texts and their translations.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20200117T030954Z" creationid="chloechao" creationdate="20180412T095613Z">
@@ -55354,6 +55362,14 @@ When using regular expressions, the replacement string supports references to gr
       </tuv>
       <tuv lang="zh-CN" changeid="lenovo" changedate="20180411T132038Z" creationid="lenovo" creationdate="20180411T132038Z">
         <seg>选择上一个匹配</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select Project</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T162604Z" creationid="WynnChen" creationdate="20240716T162604Z">
+        <seg>选择项目</seg>
       </tuv>
     </tu>
     <tu>
