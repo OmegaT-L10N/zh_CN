@@ -13336,6 +13336,14 @@ rights of fair use or other equivalent, as provided by copyright law.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Alongside an existing version</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T150638Z" creationid="WynnChen" creationdate="20240716T150638Z">
+        <seg>与现有版本共存</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Also &lt;f3>ignored_words.txt&lt;/f3> and &lt;f4>learned_words.txt&lt;/f4> in the &lt;f5>omegat&lt;/f5> folder may be worth sharing and maintaining on the team level.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131111T122601Z" creationid="Fu Rhong" creationdate="20131111T122601Z">
@@ -68579,6 +68587,14 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131118T035859Z">
         <seg>这实际上会让它们回到“未译”状态，因为它们不再和记录在翻译记忆中的片段相匹配，即便旧的的匹配翻译仍然存在。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This will enable you to keep any number of versions side-by-side, which you may wish to do until you feel comfortable with the new version.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T150905Z" creationid="WynnChen" creationdate="20240716T150905Z">
+        <seg>这样就可以同时保留任意数量的版本，你可能希望这么做，直到对新版本感到满意为止。</seg>
       </tuv>
     </tu>
     <tu>
