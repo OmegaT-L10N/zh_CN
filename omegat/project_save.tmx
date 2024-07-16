@@ -13144,6 +13144,22 @@ rights of fair use or other equivalent, as provided by copyright law.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All the parameters located in a &lt;l0>project folder&lt;/l0> will apply to that project regardless of which version of OmegaT opens it.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T151217Z" creationid="WynnChen" creationdate="20240716T151217Z">
+        <seg>无论用哪个版本的 OmegaT 打开项目，所有位于&lt;l0>项目文件夹&lt;/l0>内的参数都会应用于该项目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>All the parameters located in the OmegaT configuration folder will be shared unless you specify a different configuration folder with the &lt;l0>--config-dir=&lt;path>&lt;/l0> option on the command line. See the &lt;l1/> section.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T151055Z" creationid="WynnChen" creationdate="20240716T151055Z">
+        <seg>所有位于 OmegaT 配置文件夹中的参数都是公用的，除非在命令行用 &lt;l0>--config-dir=&lt;path>&lt;/l0> 选项指定了不同的配置文件夹。参见&lt;l1/>章节。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All the tags that are marked with &lt;c0>translate="no"&lt;/c0> will be ignored.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T121227Z" creationid="WynnChen" creationdate="20221209T121227Z">
