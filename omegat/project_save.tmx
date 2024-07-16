@@ -13705,6 +13705,14 @@ rights of fair use or other equivalent, as provided by copyright law.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Although you can run OmegaT directly from the available files, you can also run the &lt;c0>linux-install.sh&lt;/c0> script found there to have OmegaT installed in more appropriate locations.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T182323Z" creationid="WynnChen" creationdate="20240716T182323Z">
+        <seg>虽然可以直接从可用文件运行 OmegaT，但您也可以运行其中的 &lt;c0>linux-install.sh&lt;/c0> 脚本将 OmegaT 安装在更合适的位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Although you can run OmegaT directly from the available files, you can also run the &lt;f0>linux-install.sh&lt;/f0> script found there to have OmegaT installed in more appropriate locations.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20230718T075504Z" creationid="WynnChen" creationdate="20230718T075504Z">
@@ -23694,6 +23702,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20230718T074822Z" creationid="WynnChen" creationdate="20230718T074822Z">
         <seg>出于许可方面的考虑，OmegaT 团队推荐使用由 Eclipse 基金会的 Adoptium 项目所提供的 Eclipse Temurin Java 运行时，但任何兼容于 Java 8 的运行环境应当都可以。参见 &lt;u0>Eclipse Temurin™ 项目&lt;/u0>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Due to licensing considerations, the OmegaT team recommends the Java runtime Eclipse Temurin provided by the Eclipse Foundation's Adoptium Project, but any Java {{site.data.versions.standard.java_version}} compatible runtime environment should work.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T182232Z" creationid="WynnChen" creationdate="20240716T182232Z">
+        <seg>出于许可方面的考虑，OmegaT 团队推荐使用由 Eclipse 基金会的 Adoptium 项目所提供的 Java runtime Eclipse Temurin，但任何兼容于 Java {{site.data.versions.standard.java_version}} 的运行环境应当都可以。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46437,6 +46453,14 @@ Reload the project now?</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT packages are available both in versions bundled with Java, and versions without it. Packages without Java rely on a Java {{site.data.versions.standard.java_version}} Runtime Environment installed systemwide.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T182104Z" creationid="WynnChen" creationdate="20240716T182104Z">
+        <seg>OmegaT 软件包既有捆绑 Java 的版本，也有不带 Java 的版本。不带 Java 的包依赖于在系统级别安装的 Java {{site.data.versions.standard.java_version}} 运行环境。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT packages which include the Java Runtime Environment are now  available to save users the trouble of selecting, obtaining and installing it.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Puzzlist" changedate="20130922T041301Z" creationid="Puzzlist" creationdate="20130922T041301Z">
@@ -47361,6 +47385,22 @@ unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190326T163034Z" creationid="WynnChen" creationdate="20190326T163034Z">
         <seg>OmegaT {0} 现已推出。您目前使用的是 {1}。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT {{site.data.versions.standard.name}} and later also support Java 11 Runtime Environment on any platforms.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T182136Z" creationid="WynnChen" creationdate="20240716T182136Z">
+        <seg>OmegaT {{site.data.versions.standard.name}} 及更高版本还支持任意平台上的 Java 11 运行环境。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT {{site.data.versions.standard.name}} requires a Java {{site.data.versions.standard.java_version}} Runtime Environment (JRE) to run.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T182054Z" creationid="WynnChen" creationdate="20240716T182054Z">
+        <seg>OmegaT {{site.data.versions.standard.name}} 需要 Java {{site.data.versions.standard.java_version}} 运行环境（JRE）才能运行。</seg>
       </tuv>
     </tu>
     <tu>
@@ -57818,6 +57858,14 @@ Please check a link: {0}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Some Linux distributions offer OmegaT in their package manager. The instructions given here apply to people who download the package from the &lt;a0>https://omegat.org&lt;/a0> site and install it manually.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T182254Z" creationid="WynnChen" creationdate="20240716T182254Z">
+        <seg>一些 Linux 发行版在其包管理器中提供了 OmegaT。此处给出的说明适用于从 &lt;a0>https://omegat.org&lt;/a0> 网站下载软件包并手动安装的用户。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Some Linux distributions offer OmegaT in their package manager. The instructions given here apply to people who download the package from the &lt;u0>https://omegat.org&lt;/u0> site and install it manually.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20230718T075101Z" creationid="WynnChen" creationdate="20230718T075101Z">
@@ -63786,6 +63834,14 @@ instead.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131113T015807Z">
         <seg>导出的内容会保存到OmegaT用户文件目录的/script子文件夹中的文件，包括：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The files are downloadable directly from &lt;a0>https://omegat.org&lt;/a0>.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T182036Z" creationid="WynnChen" creationdate="20240716T182036Z">
+        <seg>这些文件可直接从 &lt;a0>https://omegat.org&lt;/a0> 下载。</seg>
       </tuv>
     </tu>
     <tu>
@@ -80366,6 +80422,14 @@ from there.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T113417Z" creationid="WynnChen" creationdate="20221209T113417Z">
         <seg>你可以选择要翻译的其他文档元素。它们在编辑器中将呈现为单独的片段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can choose the language used during the installation and the language used by OmegaT. You can also change this later by editing &lt;c0>OmegaT.l4J.ini&lt;/c0>.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T182245Z" creationid="WynnChen" creationdate="20240716T182245Z">
+        <seg>您可以选择安装过程中所使用的语言和 OmegaT 所使用的语言。你也可以在以后通过编辑 &lt;c0>OmegaT.l4J.ini&lt;/c0> 文件来更改此设置。</seg>
       </tuv>
     </tu>
     <tu>
