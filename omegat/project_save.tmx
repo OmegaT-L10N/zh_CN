@@ -19547,8 +19547,8 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       <tuv lang="en">
         <seg>Contribution Guide source text</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T180541Z" creationid="WynnChen" creationdate="20240716T180514Z">
-        <seg>贡献指南原文文本</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T181924Z" creationid="WynnChen" creationdate="20240716T180514Z">
+        <seg>贡献指南源文本</seg>
       </tuv>
     </tu>
     <tu>
@@ -46295,6 +46295,14 @@ to be launched.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT is written in Java. If you're a programmer, and you happen to know Java, please check the &lt;a0>OmegaT contribution guide&lt;/a0>, or its document source text in the &lt;a1>source code&lt;/a1> under /docs_devel for information on how to get started.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T181955Z" creationid="WynnChen" creationdate="20240716T181907Z">
+        <seg>OmegaT 是用 Java 编写的。如果您是程序员，并且恰巧懂 Java，请查看 &lt;a0>OmegaT 贡献指南&lt;/a0>，或其文档源文本（在 /docs_devel 下的 &lt;a1>source code&lt;/a1> 内），了解有关如何开始的信息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT isn't just a product; it's an exciting project, and you can be part of it.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190523T025723Z" creationid="18261" creationdate="20180412T100549Z">
@@ -58962,6 +58970,14 @@ All sets that match the project source language are applied.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Standard: OmegaT {{site.data.versions.standard.name}}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T182003Z" creationid="WynnChen" creationdate="20240716T182003Z">
+        <seg>标准版：OmegaT {{site.data.versions.standard.name}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Start OmegaT again, download the team project, close OmegaT
 
 5.</seg>
@@ -61752,8 +61768,8 @@ form of a work.</seg>
       <tuv lang="en">
         <seg>The Contribution Guide source text in the OmegaT repository.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T180531Z" creationid="WynnChen" creationdate="20240716T180531Z">
-        <seg>OmegaT 存储库中的贡献指南原文文本。</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T181930Z" creationid="WynnChen" creationdate="20240716T180531Z">
+        <seg>OmegaT 存储库中的贡献指南源文本。</seg>
       </tuv>
     </tu>
     <tu>
