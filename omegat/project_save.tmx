@@ -15943,6 +15943,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Basically, that means that you have:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T183730Z" creationid="WynnChen" creationdate="20240716T183730Z">
+        <seg>基本上，这意味着您拥有：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Basque</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190405T031219Z">
@@ -39411,6 +39419,14 @@ later version.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>License</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T183545Z" creationid="WynnChen" creationdate="20240716T183545Z">
+        <seg>许可证</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>License will therefore apply, along with any applicable section 7</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131101T131204Z" creationid="Fu Rhong" creationdate="20131101T131204Z">
@@ -46135,6 +46151,14 @@ published by the Free Software Foundation, either version 3 of the License, or
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190403T143647Z" creationid="Wyndy" creationdate="20180418T054034Z">
         <seg>OmegaT 能够直接处理当前的 Microsoft Office 格式，而无需转换为其他格式或从其他格式转换。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT is distributed under the GPL v3 license agreement.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T183602Z" creationid="WynnChen" creationdate="20240716T183602Z">
+        <seg>OmegaT 根据 GPT v3 许可协议分发。</seg>
       </tuv>
     </tu>
     <tu>
@@ -91885,6 +91909,38 @@ If the project contains files but their content is not displayed here:
       </tuv>
       <tuv lang="zh-CN" changeid="lenovo" changedate="20180416T104800Z" creationid="lenovo" creationdate="20180416T104800Z">
         <seg>你已安装的文件转换功能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the freedom to change the software to suit your needs,</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T183809Z" creationid="WynnChen" creationdate="20240716T183740Z">
+        <seg>更改该软件以满足您的需求的自由，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the freedom to share the changes you make.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T183757Z" creationid="WynnChen" creationdate="20240716T183757Z">
+        <seg>the freedom to share the changes you make.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the freedom to share the software with your friends and neighbors, and</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T183822Z" creationid="WynnChen" creationdate="20240716T183745Z">
+        <seg>与朋友和邻居分享该软件的自由，以及</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the freedom to use the software for any purpose,</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T183803Z" creationid="WynnChen" creationdate="20240716T183737Z">
+        <seg>出于任何目的使用该软件的自由，</seg>
       </tuv>
     </tu>
     <tu>
