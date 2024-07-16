@@ -35125,6 +35125,17 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Initialized {0}-{1} team project. Place source files in ./source and supplementary
+material in ./tm, ./glossary, and ./dictionary as required, then commit
+everything.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T153832Z" creationid="WynnChen" creationdate="20240716T153832Z">
+        <seg>初始化 {0}-{1} 团队项目。根据需要将原文文件放在 ./source 中、附加资料放在
+./tm、./glossary、和 ./dictionary 中，然后提交所有内容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Initializing</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -45576,6 +45587,33 @@ See "How To... Run OmegaT" in the user manual.</seg>
 当前设置是 {0}MB；
 
  
+
+请参阅用户手册中的“如何... 运行 OmegaT”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT ran out of memory and will close when you click OK.
+Possible solutions:
+ 
+1) Reduce the number of files in the source folder;
+ 
+2) Increase the amount of memory available to OmegaT.
+Use "java -Xmx&lt;size-in-MB>M -jar OmegaT.jar" from the command 
+line or in the OmegaT start script;
+The current setting is {0}MB;
+ 
+See "How To... Run OmegaT" in the user manual.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T153928Z" creationid="WynnChen" creationdate="20240716T153928Z">
+        <seg>OmegaT 内存不足，将在你单击“确定”后退出。
+可能的解决方案：
+
+1) 减少 source 文件夹中的文件数量；
+
+2) 增加 OmegaT 可用的内存量。
+在命令行或者 OmegaT 启动脚本中使用“java -Xmx&lt;size-in-MB>M -jar OmegaT.jar”；
+当前设置是 {0}MB；
 
 请参阅用户手册中的“如何... 运行 OmegaT”。</seg>
       </tuv>
@@ -74163,6 +74201,16 @@ Console only options:
 	  Warn: Report invalid tags to stdout.
  
 {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Usage: team init &lt;source language> &lt;target language>
+	See --help.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T153816Z" creationid="WynnChen" creationdate="20240716T153816Z">
+        <seg>用法：team init &lt;原文语言> &lt;译文语言>
+	请参阅 --help。</seg>
       </tuv>
     </tu>
     <tu>
