@@ -19569,6 +19569,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Contributing</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T184443Z" creationid="WynnChen" creationdate="20240716T184443Z">
+        <seg>贡献</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Contributing to &lt;a0>OmegaT&lt;/a0> project</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120130T073234Z">
@@ -23754,6 +23762,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Due to licensing considerations, the OmegaT team recommends the Eclipse Temurin Java runtime provided by the Eclipse Foundation's Adoptium Project, but any Java 11 compatible runtime environment should work. See &lt;u0>The Eclipse Temurin™ project&lt;/u0>.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T184538Z" creationid="WynnChen" creationdate="20240716T184538Z">
+        <seg>出于许可方面的考虑，OmegaT 团队推荐使用由 Eclipse 基金会的 Adoptium 项目所提供的 Eclipse Temurin Java 运行时，但任何兼容于 Java 11 的运行环境应当都可以。参见 &lt;u0>Eclipse Temurin™ 项目&lt;/u0>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Due to licensing considerations, the OmegaT team recommends the Eclipse Temurin Java runtime provided by the Eclipse Foundation's Adoptium Project, but any Java 8 compatible runtime environment should work. See &lt;u0>The Eclipse Temurin™ project&lt;/u0>.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20230718T074822Z" creationid="WynnChen" creationdate="20230718T074822Z">
@@ -25593,6 +25609,14 @@ No one hears your screams</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190410T025019Z" creationid="Fu Rhong" creationdate="20131110T071203Z">
         <seg>默认情况下，每隔三分钟，团队中的其他成员就能使用更新后的共享数据</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Every time the &lt;f0>project_save.tmx&lt;/f0> file is modified:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T184610Z" creationid="WynnChen" creationdate="20240716T184610Z">
+        <seg>每次修改 &lt;f0>project_save.tmx&lt;/f0> 文件时：</seg>
       </tuv>
     </tu>
     <tu>
@@ -45060,6 +45084,14 @@ combination as such.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT 6.1.0 and later can also run with a Java 17 Runtime Environment on any platform.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T184528Z" creationid="WynnChen" creationdate="20240716T184528Z">
+        <seg>OmegaT 6.1.0 及更高版本还可以在任意平台上使用 Java 17 运行环境运行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT 6.1.0 requires a Java 11 Runtime Environment (JRE) to run.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20230718T074048Z" creationid="WynnChen" creationdate="20230718T074048Z">
@@ -50497,6 +50529,14 @@ language you would like to translate to.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20200123T044028Z" creationid="WynnChen" creationdate="20200123T043310Z">
         <seg>泊松分布（Poisson）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Policies</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T184447Z" creationid="WynnChen" creationdate="20240716T184447Z">
+        <seg>政策</seg>
       </tuv>
     </tu>
     <tu>
@@ -69743,6 +69783,14 @@ the server.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
         <seg>这是缺省的情况。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is the edition of OmegaT in active development. It is automatically generated every week, and serves as a beta version for testing purposes.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T184512Z" creationid="WynnChen" creationdate="20240716T184512Z">
+        <seg>这是正在积极开发的 OmegaT 版本。它每周自动生成，并作为测试版用于测试目的。</seg>
       </tuv>
     </tu>
     <tu>
