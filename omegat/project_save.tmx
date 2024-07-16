@@ -32851,6 +32851,16 @@ OmegaT.exe，请修改设置以显示文件扩展名。</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you can see the file OmegaT but not OmegaT.exe in your File Manager (Windows
+Explorer), change the settings so that file extensions are displayed.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T170136Z" creationid="WynnChen" creationdate="20240716T170136Z">
+        <seg>如果您在文件管理器（Windows 资源管理器）中能看到文件 OmegaT 但看不到
+OmegaT.exe，请修改设置以显示文件扩展名。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you can't run &lt;a0>OmegaT&lt;/a0> normally (no graphical environment available): copy the settings files from some other &lt;a1>OmegaT&lt;/a1> installation on another machine to a specific folder.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131116T143833Z" creationid="Fu Rhong" creationdate="20131116T143833Z">
@@ -33754,6 +33764,15 @@ to use Java Web Start.</seg>
 double-click on that shortcut.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20200116T062256Z" creationid="WynnChen" creationdate="20200116T062256Z">
+        <seg>如果在安装过程中已经在桌面上创建了快捷方式，双击此快捷方式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If, during installation, you have created a shortcut on the desktop,
+double-click on that shortcut.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T165926Z" creationid="WynnChen" creationdate="20240716T165926Z">
         <seg>如果在安装过程中已经在桌面上创建了快捷方式，双击此快捷方式。</seg>
       </tuv>
     </tu>
@@ -36097,6 +36116,16 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Installing OmegaT (Linux)
+=========================</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T165902Z" creationid="WynnChen" creationdate="20240716T165902Z">
+        <seg>安装 OmegaT（Linux）
+=========================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Installing OmegaT (Mac)
 
 =======================</seg>
@@ -36104,6 +36133,16 @@ everything.</seg>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190325T164107Z" creationid="xulihang" creationdate="20180408T020835Z">
         <seg>安装 OmegaT（Mac）
 
+=======================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Installing OmegaT (Mac)
+=======================</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T165857Z" creationid="WynnChen" creationdate="20240716T165857Z">
+        <seg>安装 OmegaT（Mac）
 =======================</seg>
       </tuv>
     </tu>
@@ -36133,6 +36172,16 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Installing OmegaT (Solaris, FreeBSD, etc.)
+=========================================</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T165921Z" creationid="WynnChen" creationdate="20240716T165921Z">
+        <seg>安装 OmegaT（Solaris、FreeBSD 等）
+=========================================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Installing OmegaT (Windows)
 
 ===========================</seg>
@@ -36140,6 +36189,16 @@ everything.</seg>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190325T164018Z" creationid="xulihang" creationdate="20180408T020817Z">
         <seg>安装 OmegaT（Windows）
 
+===========================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Installing OmegaT (Windows)
+===========================</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T165854Z" creationid="WynnChen" creationdate="20240716T165854Z">
+        <seg>安装 OmegaT（Windows）
 ===========================</seg>
       </tuv>
     </tu>
@@ -38670,6 +38729,16 @@ later version.</seg>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190325T165229Z" creationid="WynnChen" creationdate="20190325T165229Z">
         <seg>启动 OmegaT（Windows）
 
+==========================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Launching OmegaT (Windows)
+==========================</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T165924Z" creationid="WynnChen" creationdate="20240716T165924Z">
+        <seg>启动 OmegaT（Windows）
 ==========================</seg>
       </tuv>
     </tu>
@@ -46344,6 +46413,15 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT requires the Java Runtime Environment (JRE) version 1.8 or higher to be
+installed on your system.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T165843Z" creationid="WynnChen" creationdate="20240716T165843Z">
+        <seg>OmegaT 需要您的系统安装有 Java 运行环境（JRE）1.8 或者更高版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT runs on any operating system on which a suitable version of the Java Runtime Environment (JRE) can be run.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Wyndy" changedate="20180418T050155Z" creationid="Wyndy" creationdate="20180418T050155Z">
@@ -46543,6 +46621,16 @@ installed on your system.</seg>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20200116T062005Z" creationid="WynnChen" creationdate="20200116T062005Z">
         <seg>OmegaT使用了许多库。各个库的许可证在以下文件中有所提及：
 
+/lib/licenses/Licenses.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT uses a number of librairies. The license of each library is mentioned in
+/lib/licenses/Licenses.txt.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T165836Z" creationid="WynnChen" creationdate="20240716T165836Z">
+        <seg>OmegaT使用了许多库。各个库的许可证在以下文件中有所提及：
 /lib/licenses/Licenses.txt</seg>
       </tuv>
     </tu>
@@ -49293,6 +49381,15 @@ be launched.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Place the archive in any suitable folder and unpack it. OmegaT is then ready to
+be launched.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T165905Z" creationid="WynnChen" creationdate="20240716T165905Z">
+        <seg>将压缩包放在任何合适的文件夹中并解压之。然后 OmegaT 就已就位，可以运行了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Place the cursor in your paragraph of text (not in the first or last lines).</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Mac Pro" changedate="20180425T192632Z" creationid="Mac Pro" creationdate="20180425T192632Z">
@@ -50036,6 +50133,16 @@ language you would like to translate to.</seg>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190325T163714Z" creationid="xulihang" creationdate="20180408T020637Z">
         <seg>安装 OmegaT 的先决条件
 
+===================================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Prerequisites for installing OmegaT
+===================================</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T165839Z" creationid="WynnChen" creationdate="20240716T165839Z">
+        <seg>安装 OmegaT 的先决条件
 ===================================</seg>
       </tuv>
     </tu>
@@ -64002,6 +64109,18 @@ start menu, the desktop or the quick launch area to link it from there.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The installer can create shortcuts for you in the start menu, on the desktop and
+in the quick launch area. You can also manually drag the file OmegaT.exe to the
+start menu, the desktop or the quick launch area to link it from there.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T170111Z" creationid="WynnChen" creationdate="20240716T170111Z">
+        <seg>安装程序可以在开始菜单、桌面和快速启动栏中创建快捷方式。
+您也可以将 OmegaT.exe 文件手工拖动到开始菜单、桌面或快速启动栏
+来将其链接到那些地方。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The interval of 3 minutes can be changed in &lt;l0>&lt;m1> &lt;g2>Options&lt;/g2> &lt;g3>Preferences&lt;/g3> &lt;g4>Saving and Output&lt;/g4> &lt;/m1>&lt;/l0>.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190902T101935Z" creationid="wynnc" creationdate="20190902T101935Z">
@@ -73065,6 +73184,17 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unpack the OmegaT .zip archive to obtain a folder that contains a documentation
+file and the OmegaT application. Move the folder to an appropriate location such
+as the Applications folder.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T165901Z" creationid="WynnChen" creationdate="20240716T165901Z">
+        <seg>解压 OmegaT 的 .zip 压缩包以获得包含文档文件和 OmegaT 应用程序的文件夹。
+将该文件夹移动到合适的地方，比如 Applications 文件夹。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unpack the file that you downloaded. This creates a folder with all the files necessary to run OmegaT.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T145252Z" creationid="WynnChen" creationdate="20240716T145252Z">
@@ -77405,6 +77535,15 @@ of selecting, obtaining and installing it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>We recommend using OmegaT packages that include the JRE, to save you the trouble
+of selecting, obtaining and installing it.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T165852Z" creationid="WynnChen" creationdate="20240716T165852Z">
+        <seg>我们推荐使用包含 JRE 的 OmegaT 软件包，以避免选择、获取、安装 JRE 的麻烦。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>We therefore recommend that you download and install either the Oracle Java Runtime Environment (JRE) or the OmegaT package bundled with JRE (the .tar.bz2) bundle marked "Linux").</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Puzzlist" changedate="20130922T041532Z" creationid="Puzzlist" creationdate="20130922T041532Z">
@@ -80074,6 +80213,19 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
 
 要使用此脚本，请打开终端窗口（控制台），进入包含 OmegaT.jar 和
 
+linux-install.sh 脚本的文件夹，然后用 ./linux-install.sh 执行脚本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can however obtain a neater and more user-friendly installation by using the
+installation script (linux-install.sh). To use this script, open a terminal
+window (console), change folder to the folder containing OmegaT.jar and the
+linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T165919Z" creationid="WynnChen" creationdate="20240716T165919Z">
+        <seg>不过，您可以使用安装脚本（linux-install.sh）获得更整洁、更友好的安装。
+要使用此脚本，请打开终端窗口（控制台），进入包含 OmegaT.jar 和
 linux-install.sh 脚本的文件夹，然后用 ./linux-install.sh 执行脚本。</seg>
       </tuv>
     </tu>
