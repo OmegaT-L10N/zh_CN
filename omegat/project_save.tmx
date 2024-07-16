@@ -23114,6 +23114,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Documentation for developers</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T180432Z" creationid="WynnChen" creationdate="20240716T180432Z">
+        <seg>开发人员文档</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Documentation manager</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="cpeishan" changedate="20180407T105114Z" creationid="cpeishan" creationdate="20180407T105114Z">
@@ -45340,6 +45348,22 @@ combination as such.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT for Beginners tutorial (2014 edition)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T180426Z" creationid="WynnChen" creationdate="20240716T180426Z">
+        <seg>OmegaT 初学者教程（2014 年版）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT for CAT beginners (2020, in Japanese)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T180305Z" creationid="WynnChen" creationdate="20240716T180305Z">
+        <seg>面向 CAT 初学者的 OmegaT（2020，日语）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT for CAT beginners tutorial (2020 edition)</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221222T103254Z" creationid="WynnChen" creationdate="20221222T103254Z">
@@ -46761,6 +46785,22 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190330T071037Z" creationid="cpeishan" creationdate="20180407T143019Z">
         <seg>OmegaT 文本导出功能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT the CAT power tools</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T180350Z" creationid="WynnChen" creationdate="20240716T180350Z">
+        <seg>OmegaT，强大的 CAT 工具</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT the CAT power tools(in Japanese)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T180402Z" creationid="WynnChen" creationdate="20240716T180402Z">
+        <seg>OmegaT，强大的 CAT 工具（日语）</seg>
       </tuv>
     </tu>
     <tu>
@@ -70835,6 +70875,14 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To find out how to help, have a look at our documentation for developers:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T180445Z" creationid="WynnChen" creationdate="20240716T180445Z">
+        <seg>要了解如何提供帮助，请查看我们的开发人员文档：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To find out what the paragraph tags should be, examine a sample file in a text editor.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="anton" changedate="20180416T084751Z" creationid="anton" creationdate="20180416T084751Z">
@@ -77726,6 +77774,14 @@ Reinstall the {0} plugin?</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>We always welcome new contributors!</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T180436Z" creationid="WynnChen" creationdate="20240716T180436Z">
+        <seg>我们始终欢迎新的贡献者！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>We are grateful for all translations, but it simplifies our work considerably if files are returned in the same format (and not as Word files, for example).</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="lenovo" changedate="20180416T173348Z" creationid="lenovo" creationdate="20180416T173348Z">
@@ -83478,6 +83534,22 @@ If the project contains files but their content is not displayed here:
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131107T142652Z" creationid="Fu Rhong" creationdate="20131107T142652Z">
         <seg>bul</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>by Hiroshi Miura</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T180353Z" creationid="WynnChen" creationdate="20240716T180353Z">
+        <seg>作者：Hiroshi Miura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>by Susan Welsh, Marc Prior and Hiroshi Miura</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T180239Z" creationid="WynnChen" creationdate="20240716T180239Z">
+        <seg>作者：Susan Welsh、Marc Prior 和 Hiroshi Miura</seg>
       </tuv>
     </tu>
     <tu>
