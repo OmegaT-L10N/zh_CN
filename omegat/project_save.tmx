@@ -71558,6 +71558,16 @@ Use Tools > Check Issues... to correct the tag errors and try again.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unable to create the translated files due to missing or damaged tags.
+Use Tools > Check Issues... to correct the tag errors and try again.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T160329Z" creationid="WynnChen" creationdate="20240716T160329Z">
+        <seg>由于标签缺失或损坏，无法创建译文文件。
+用“工具 > 检查问题...”来更正标签错误，然后重试。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unable to delete the selected dictionary</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20221125T054236Z" creationid="wynnc" creationdate="20221125T054236Z">
