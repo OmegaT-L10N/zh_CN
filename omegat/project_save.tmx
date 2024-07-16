@@ -16246,6 +16246,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Build OmegaT</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T151609Z" creationid="WynnChen" creationdate="20240716T151609Z">
+        <seg>构建 OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Building &lt;a0>OmegaT&lt;/a0> From Source</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20200119T094656Z">
@@ -84727,6 +84735,14 @@ If the project contains files but their content is not displayed here:
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20201125T060511Z" creationid="wynnc" creationdate="20201125T060511Z">
         <seg>https://git.code.sf.net/p/omegat/code</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://github.com/omegat-org/omegat.git</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T152303Z" creationid="WynnChen" creationdate="20240716T152303Z">
+        <seg>https://github.com/omegat-org/omegat.git</seg>
       </tuv>
     </tu>
     <tu>
