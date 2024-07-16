@@ -19743,6 +19743,14 @@ makes it unnecessary.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Cookies</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T184407Z" creationid="WynnChen" creationdate="20240716T184352Z">
+        <seg>Cookie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cop&amp;y Files to Source Folder...</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T174308Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -45484,6 +45492,14 @@ combination as such.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT does not store your information online (this is not a "cloud-based" product).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T184350Z" creationid="WynnChen" creationdate="20240716T184350Z">
+        <seg>Omegat 不会在线存储您的信息（这不是“基于云”的产品）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT does not support either site in any way. If you find other interesting references—in any language—the OmegaT team would love to hear about them.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T120154Z" creationid="WynnChen" creationdate="20230227T115914Z">
@@ -49217,6 +49233,14 @@ unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="钢" changedate="20130514T144438Z">
         <seg>否则，OmegaT 将会使用操作系统的语言。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Our website only uses cookies that are strictly necessary cookies for its operation.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T184434Z" creationid="WynnChen" creationdate="20240716T184404Z">
+        <seg>我们的网站仅使用其运行所严格必要的 cookie。</seg>
       </tuv>
     </tu>
     <tu>
@@ -67192,6 +67216,22 @@ protocols for communication across the network.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Wyndy" changedate="20180418T114833Z" creationid="Wyndy" creationdate="20180418T114833Z">
         <seg>传统的 Wordfast 翻译记忆文件格式尤其看重自身简洁性。它由纯文本构成，每行一个翻译单元（片段），行内用 tab 分隔源语言与目标语言。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The translatable data (ie. the files you are translating) are accessed to display the translatable contents to the user.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T184224Z" creationid="WynnChen" creationdate="20240716T184218Z">
+        <seg>会访问可翻译的数据（即，您正在翻译的文件）以向用户显示可翻译的内容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The translated data is stored in a file called project_save.tmx located in the omegat/ folder of any translation project. That file is compliant with the TMX specification, which is a standard used by most tools of the same category.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T184339Z" creationid="WynnChen" creationdate="20240716T184221Z">
+        <seg>翻译后的数据存储在名为 Project_Save.tmx 的文件中，该文件位于翻译项目的 omegat/ 文件夹中。该文件符合 TMX 规范，该规范是大多数同类别工具使用的标准。</seg>
       </tuv>
     </tu>
     <tu>
