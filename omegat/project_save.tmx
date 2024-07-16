@@ -14572,6 +14572,14 @@ menu, a prominent item in the list meets this criterion.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Apply to all repositories on host {0}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T164001Z" creationid="WynnChen" creationdate="20240716T164001Z">
+        <seg>应用于主机 {0} 上的所有存储库</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Appropriate Legal Notices; however, if the Program has interactive</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="xulihang" changedate="20180405T033420Z" creationid="weiyi" creationdate="20180404T162838Z">
@@ -16919,6 +16927,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Cannot get the correct answer. Abort...</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T164008Z" creationid="WynnChen" creationdate="20240716T163953Z">
+        <seg>无法得到正确的应答。中止...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cannot install</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T112828Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -19160,10 +19176,26 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Console alignment mode</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T163810Z" creationid="WynnChen" creationdate="20240716T163810Z">
+        <seg>控制台对齐模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Console project stats mode</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T163637Z" creationid="WynnChen" creationdate="20240716T163637Z">
         <seg>控制台项目统计模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Console pseudo-translate mode</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T163802Z" creationid="WynnChen" creationdate="20240716T163802Z">
+        <seg>控制台伪翻译模式</seg>
       </tuv>
     </tu>
     <tu>
@@ -24716,6 +24748,14 @@ is the language code and YY is the region or country code (optional).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enter your credentials for {0}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T163844Z" creationid="WynnChen" creationdate="20240716T163844Z">
+        <seg>输入您的 {0} 凭据</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enter your master password</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20230718T063250Z" creationid="WynnChen" creationdate="20230718T063250Z">
@@ -25068,6 +25108,14 @@ No one hears your screams</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190708T025425Z" creationid="WynnChen" creationdate="20190708T025425Z">
         <seg>更新存储库时出错。正在跳过。错误：{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error while autosaving: {0}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T163825Z" creationid="WynnChen" creationdate="20240716T163825Z">
+        <seg>自动保存时出错：{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -28749,6 +28797,14 @@ authors of previous versions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Git: Ignore credentials query: {0}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T164018Z" creationid="WynnChen" creationdate="20240716T164018Z">
+        <seg>Git：忽略凭据查询：{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Give access to the five last edited projects.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="weiyi" changedate="20180405T152303Z" creationid="weiyi" creationdate="20180405T152303Z">
@@ -29491,6 +29547,14 @@ authors of previous versions.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T121524Z" creationid="wynnc" creationdate="20190323T121524Z">
         <seg>Google Translate v2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Got directory/file open error. Does specified directory exist?</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T163751Z" creationid="WynnChen" creationdate="20240716T163751Z">
+        <seg>出现目录/文件打开错误。指定的目录是否存在？</seg>
       </tuv>
     </tu>
     <tu>
@@ -42599,6 +42663,14 @@ appropriate location such as the Applications folder.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T133725Z" creationid="wynnc" creationdate="20190320T045507Z">
         <seg>没有可用连接，项目处于离线模式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No console found.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T163834Z" creationid="WynnChen" creationdate="20240716T163834Z">
+        <seg>找不到控制台。</seg>
       </tuv>
     </tu>
     <tu>
@@ -72200,6 +72272,14 @@ Use Tools > Check Issues... to correct the tag errors and try again.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unable to get exclusive lock for autosave.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T163822Z" creationid="WynnChen" creationdate="20240716T163822Z">
+        <seg>无法获得 AutoSave 的独占锁。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unable to get result</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20230425T040445Z" creationid="WynnChen" creationdate="20230425T040445Z">
@@ -76100,6 +76180,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20221125T054809Z" creationid="wynnc" creationdate="20221125T054809Z">
         <seg>用户名或 API 密钥：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Username or password has extra space character(s)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T163927Z" creationid="WynnChen" creationdate="20240716T163927Z">
+        <seg>用户名或密码具有多余的空白字符</seg>
       </tuv>
     </tu>
     <tu>
