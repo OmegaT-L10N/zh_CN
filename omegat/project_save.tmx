@@ -21868,6 +21868,14 @@ Some filters do not allow encoding modifications.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Developer: OmegaT Weekly</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T165645Z" creationid="WynnChen" creationdate="20240716T165645Z">
+        <seg>开发者：OmegaT Weekly</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Developers</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190327T170119Z" creationid="cpeishan" creationdate="20180407T105303Z">
@@ -39027,6 +39035,16 @@ later version.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Licensing information
+=====================</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T165749Z" creationid="WynnChen" creationdate="20240716T165749Z">
+        <seg>许可信息
+=====================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Light theme:</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T163005Z" creationid="WynnChen" creationdate="20240716T163005Z">
@@ -45378,6 +45396,16 @@ translation leveraging into updated projects.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT is a free and open source multiplatform Computer Assisted Translation
+tool with fuzzy matching, translation memory, keyword search, glossaries, and
+translation leveraging into updated projects.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T165747Z" creationid="WynnChen" creationdate="20240716T165747Z">
+        <seg>OmegaT 是自由且开源的多平台计算机辅助翻译工具，具有模糊匹配、翻译记忆、关键字查找、词汇表、以及为更新后的项目自动套用翻译等特性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT is a free and open source multiplatform Computer Assisted Translation tool with fuzzy matching, translation memory, keyword search, glossaries, and translation leveraging into updated projects.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190325T163022Z" creationid="wynnc" creationdate="20190322T083638Z">
@@ -45625,6 +45653,19 @@ published by the Free Software Foundation, either version 3 of the License, or
 
 （根据您的选择）任何更高版本的条款提供。你可以在此找到许可证的文本：
 
+/docs/OmegaT-license.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT is available under the terms of the GNU General Public License as
+published by the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version. You can find the text of the license in
+/docs/OmegaT-license.txt.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T165832Z" creationid="WynnChen" creationdate="20240716T165832Z">
+        <seg>OmegaT 根据自由软件基金会发布的 GNU 通用公共许可证许第 3 版或
+（根据您的选择）任何更高版本的条款提供。你可以在此找到许可证的文本：
 /docs/OmegaT-license.txt</seg>
       </tuv>
     </tu>
@@ -61123,6 +61164,16 @@ form of a work.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120209T133630Z">
         <seg>&lt;x0/> 描述了关于颜色代码的细节。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The @language@ version of OmegaT has been translated by:
+@TRANSLATION_NOTICE@</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T165733Z" creationid="WynnChen" creationdate="20240716T165645Z">
+        <seg>OmegaT 的 @language@ 版本已由以下人员翻译：
+@TRANSLATION_NOTICE@</seg>
       </tuv>
     </tu>
     <tu>
@@ -77463,6 +77514,16 @@ of selecting, obtaining and installing it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>What is OmegaT?
+===============</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T165741Z" creationid="WynnChen" creationdate="20240716T165741Z">
+        <seg>OmegaT 是什么？
+===============</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>What is the language pair you need?</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120209T120436Z">
@@ -82834,6 +82895,14 @@ If the project contains files but their content is not displayed here:
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131107T142626Z" creationid="Fu Rhong" creationdate="20131107T142626Z">
         <seg>ba</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>bad location exception when changing case</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T165620Z" creationid="WynnChen" creationdate="20240716T165620Z">
+        <seg>更改大小写时出现不良位置异常</seg>
       </tuv>
     </tu>
     <tu>
