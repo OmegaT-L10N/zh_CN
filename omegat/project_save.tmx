@@ -12065,6 +12065,22 @@ included in conveying the object code work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Access to machine translation services</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T183951Z" creationid="WynnChen" creationdate="20240716T183937Z">
+        <seg>访问机器翻译服务</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Access to team projects</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T183954Z" creationid="WynnChen" creationdate="20240716T183954Z">
+        <seg>访问团队项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Accessing the TaaS service</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Doris" changedate="20180418T124820Z" creationid="Doris" creationdate="20180418T124820Z">
@@ -33386,6 +33402,14 @@ free software which everyone can redistribute and change under these terms.</seg
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you find through your analysis that OmegaT communicates with an online service that you have not set, that would be a bug and we would ask you to report it.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T184128Z" creationid="WynnChen" creationdate="20240716T184128Z">
+        <seg>如果您通过分析发现 OmegaT 与您未设置的在线服务通信，那可能是个 Bug，我们希望您将其上报。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you have TransTips option activated (&lt;g0>Options → TransTips&lt;/g0>), you can right click on the highlighted word in the source segment to open a pop-up menu with suggested translation, as offered by your glossary.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="xulihang" changedate="20180404T021248Z" creationid="Fu Rhong" creationdate="20131127T135624Z">
@@ -45196,6 +45220,14 @@ combination as such.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT automatically checks the availability of newer versions on its development server without transmitting any user information, and the user can easily opt out in the Preferences settings.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T184038Z" creationid="WynnChen" creationdate="20240716T184038Z">
+        <seg>OmegaT会自动检查其开发服务器上新版本的可用性，而无需传输任何用户信息，并且用户可以轻松地在首选项设置中将其关闭。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT automatically chose the 'Yes' option.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20221111T091347Z" creationid="wynnc" creationdate="20221111T091347Z">
@@ -45384,6 +45416,14 @@ combination as such.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120215T125449Z">
         <seg>OmegaT 会显示所有词汇都出现了的片段清单。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT does not collect any user information and does not transmit any information without the explicit consent of the user.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T183904Z" creationid="WynnChen" creationdate="20240716T183904Z">
+        <seg>未经用户明确同意，OmegaT 不会收集任何用户信息，也不会传输任何信息。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50975,6 +51015,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="lenovo" changedate="20180416T092550Z" creationid="lenovo" creationdate="20180416T092550Z">
         <seg>Priorview是一个小工具，提供与OmegaT一起使用的预览功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Privacy Policy</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T183851Z" creationid="WynnChen" creationdate="20240716T183851Z">
+        <seg>隐私政策</seg>
       </tuv>
     </tu>
     <tu>
@@ -67421,6 +67469,14 @@ protocols for communication across the network.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The user or their project manager can set OmegaT to use online services. In that case, OmegaT shares information with online services:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T184001Z" creationid="WynnChen" creationdate="20240716T183923Z">
+        <seg>用户或他们的项目经理可以设置 OmegaT 为使用在线服务。在这种情况下，OmegaT 将与在线服务共享信息：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The user, however, may need to generate a set of rules, specific to the project in question.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131118T112823Z" creationid="Fu Rhong" creationdate="20131118T040033Z">
@@ -68030,6 +68086,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T110813Z" creationid="wynnc" creationdate="20190323T110813Z">
         <seg>因此，无法可靠地确定 OmegaT 的配置文件夹位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These 4 items are a good summary but you can also read the &lt;a0>whole license&lt;/a0>.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T183849Z" creationid="WynnChen" creationdate="20240716T183849Z">
+        <seg>这 4 项是个很好的总结，但您也可以阅读&lt;a0>整个许可证&lt;/a0>。</seg>
       </tuv>
     </tu>
     <tu>
@@ -91923,8 +91987,8 @@ If the project contains files but their content is not displayed here:
       <tuv lang="en">
         <seg>the freedom to share the changes you make.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T183757Z" creationid="WynnChen" creationdate="20240716T183757Z">
-        <seg>the freedom to share the changes you make.</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T183830Z" creationid="WynnChen" creationdate="20240716T183757Z">
+        <seg>分享您所做更改的自由。</seg>
       </tuv>
     </tu>
     <tu>
