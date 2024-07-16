@@ -11776,6 +11776,14 @@ included in conveying the object code work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Abort restart, because launcher or java executable is not found.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T163533Z" creationid="WynnChen" creationdate="20240716T163533Z">
+        <seg>中止重新启动，因为找不到启动器或 Java 可执行文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Abort: Exit with an error if tags invalid.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190325T160011Z" creationid="wynnc" creationdate="20190320T084643Z">
@@ -19152,6 +19160,22 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Console project stats mode</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T163637Z" creationid="WynnChen" creationdate="20240716T163637Z">
+        <seg>控制台项目统计模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Console translation mode</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T163634Z" creationid="WynnChen" creationdate="20240716T163634Z">
+        <seg>控制台翻译模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Console-align mode:
 
 	--alignDir=&lt;path>
@@ -22913,6 +22937,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
         <seg>停靠</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Docking Framework version: {0}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T163630Z" creationid="WynnChen" creationdate="20240716T163630Z">
+        <seg>Docking Framework 版本：{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -42555,6 +42587,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No active spell checker engine found</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T163456Z" creationid="WynnChen" creationdate="20240716T163456Z">
+        <seg>未找到活动的拼写检查器引擎</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No connection available, the project is in offline mode.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T133725Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -55536,6 +55576,14 @@ When using regular expressions, the replacement string supports references to gr
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select a plugin file (*.jar) or a zip archive (*.zip) that contains a plugin jar file.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T163603Z" creationid="WynnChen" creationdate="20240716T163603Z">
+        <seg>选择一个插件文件（*.jar）或包含插件 jar 文件的压缩包（*.zip）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select a plugin file (*.jar, *.zip)</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T120817Z" creationid="WynnChen" creationdate="20221209T120817Z">
@@ -57281,6 +57329,14 @@ of the GPL, as needed to protect the freedom of users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sort by Source Term Length</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T163523Z" creationid="WynnChen" creationdate="20240716T163523Z">
+        <seg>按原文词汇长度排序</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Sort by Target Term Length</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20221125T052903Z" creationid="wynnc" creationdate="20221125T052903Z">
@@ -57849,6 +57905,14 @@ All sets that match the project source language are applied.</seg>
         <seg>专门的集合应当放在通用集合之上：
 “FR-CA”应当在“FR.*”之上，而后者又应当在“.*”之上。
 所有与项目源语言相匹配的集合都会应用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Specified UNKNOWN file type for statistics. aborted."</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T163740Z" creationid="WynnChen" creationdate="20240716T163740Z">
+        <seg>为指定了未知的统计数据文件类型。中止。”</seg>
       </tuv>
     </tu>
     <tu>
@@ -76036,6 +76100,14 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20221125T054809Z" creationid="wynnc" creationdate="20221125T054809Z">
         <seg>用户名或 API 密钥：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Username:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T163459Z" creationid="WynnChen" creationdate="20240716T163459Z">
+        <seg>用户名：</seg>
       </tuv>
     </tu>
     <tu>
