@@ -15334,6 +15334,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Automatic backups</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T153101Z" creationid="WynnChen" creationdate="20240716T153101Z">
+        <seg>自动备份</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Automatic hyphenation also adds unnecessary tags, so disable it.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="liufang" changedate="20180416T123312Z" creationid="liufang" creationdate="20180416T123312Z">
@@ -44336,6 +44344,14 @@ combination as such.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT creates backups of your project settings to ensure it can retrieve them in case of problem. See the &lt;l0/> section for details.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T153213Z" creationid="WynnChen" creationdate="20240716T153213Z">
+        <seg>OmegaT 会为您的项目设置创建备份，以确保在出现问题时可以检索它们。详情请参阅&lt;l0/>章节。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT currently requires version 1.6 of the JRE or later.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Zenobia Fang" changedate="20180423T131838Z" creationid="Zenobia Fang" creationdate="20180423T131838Z">
@@ -45634,6 +45650,14 @@ OmegaT 现在将终止。</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120218T061045Z">
         <seg>OmegaT 使用下面两个标准约定来识别语言代码：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT regularly and automatically stores all your progress in the &lt;l0/> file located in the project’s &lt;l1/> folder. OmegaT also creates regular backups of that file.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T153331Z" creationid="WynnChen" creationdate="20240716T153331Z">
+        <seg>OmegaT 会定期自动地将您的所有进度存储在项目的 &lt;l1/> 文件夹中的 &lt;l0/> 文件内。OmegaT 还会定期为此文件创建备份。</seg>
       </tuv>
     </tu>
     <tu>
@@ -71039,6 +71063,14 @@ install.sh.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="lenovo" changedate="20180415T144326Z" creationid="lenovo" creationdate="20180415T144326Z">
         <seg>翻译者可以自行决定他们的工作量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Troubleshoot issues</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T153110Z" creationid="WynnChen" creationdate="20240716T153110Z">
+        <seg>解决问题</seg>
       </tuv>
     </tu>
     <tu>
