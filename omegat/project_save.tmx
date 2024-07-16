@@ -16931,6 +16931,18 @@ Exception occurred:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Cannot reset the filter to default patterns.
+ 
+Exception occurred:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T162101Z" creationid="WynnChen" creationdate="20240716T162101Z">
+        <seg>无法将过滤器重置为默认模式。
+
+发生异常：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Care must be exercised with tags.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
@@ -21066,6 +21078,16 @@ Some filters do not allow encoding modifications.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Customize the processed source filename patterns, the translated file names and their respective encodings.
+Some filters do not allow encoding modifications.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T162111Z" creationid="WynnChen" creationdate="20240716T162111Z">
+        <seg>自定义处理的原文文件名模式、译文文件名模式及其各自的编码。
+某些筛选器不允许修改编码。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Customizing the Fuzzy matches pane</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131127T125322Z" creationid="Fu Rhong" creationdate="20131127T125322Z">
@@ -24459,6 +24481,16 @@ is the language code and YY is the region or country code (optional).</seg>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T073526Z" creationid="WynnChen" creationdate="20221129T073526Z">
         <seg>输入 xx-YY、xxx-YY、xx_YY 或 xxx_YY 格式的语言代码，其中 xx 或 xxx 
 
+是语言代码而 YY 是地区或国家代码（可选）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enter a language code in xx-YY, xxx-YY, xx_YY or xxx_YY format, where xx or xxx 
+is the language code and YY is the region or country code (optional).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T161856Z" creationid="WynnChen" creationdate="20240716T161856Z">
+        <seg>输入 xx-YY、xxx-YY、xx_YY 或 xxx_YY 格式的语言代码，其中 xx 或 xxx 
 是语言代码而 YY 是地区或国家代码（可选）。</seg>
       </tuv>
     </tu>
@@ -29821,6 +29853,18 @@ Its winter has come</seg>
 
 正逃离你要走的路
 
+寒冬已将它逮住</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Help you are seeking
+From your path it is fleeing
+Its winter has come</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T161839Z" creationid="WynnChen" creationdate="20240716T161839Z">
+        <seg>你苦苦寻觅的帮助
+正逃离你要走的路
 寒冬已将它逮住</seg>
       </tuv>
     </tu>
@@ -45032,6 +45076,36 @@ OmegaT 使用了以下库：
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT is a free and open source multiplatform computer-assisted translation (CAT) tool offering fuzzy matching, translation memory, keyword search, glossaries, and translation leveraging into updated projects.
+ 
+OmegaT is the original work of Keith Godfrey.
+Jean-Christophe Helary is the OmegaT project manager.
+ 
+Code has been contributed by:
+{0}
+ 
+Other contributions are detailed in the readme.txt file
+ 
+OmegaT uses the following libraries:
+{1}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T162018Z" creationid="WynnChen" creationdate="20240716T162018Z">
+        <seg>OmegaT 是自由且开源的多平台计算机辅助翻译（CAT）工具，提供了模糊匹配、翻译记忆、关键字搜索、词汇表、以及为更新后的项目自动套用翻译等特性。
+
+OmegaT 最初的工作由 Keith Godfrey 完成。
+Jean-Christophe Helary 是 OmegaT 的项目经理。
+
+以下人士贡献了代码：
+{0}
+
+readme.txt 文件中详细记录了其他贡献
+
+OmegaT 使用了以下库：
+{1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT is a free computer-assisted translation (CAT) solution for professional translators. It is distributed under the terms of the &lt;e0>GNU General Public License, version 3.0&lt;/e0>. See &lt;g1>> Help&lt;/g1> &lt;g2>> About&lt;/g2>. The license grants you the following freedoms:</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20230718T073544Z" creationid="WynnChen" creationdate="20230718T073544Z">
@@ -46191,6 +46265,24 @@ unexpected, but correct behaviour.</seg>
 这会将所有设置重置为其默认值，因此你可能
 
 会经历意外但正确的行为。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT was refused access to the system property containing
+the name of your OS and/or the system property containing
+your home folder. Therefore, the location of OmegaT's
+configuration folder cannot be reliably determined. The
+current folder will be used instead. This will reset all
+settings to their defaults. You may therefore experience
+unexpected, but correct behaviour.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T162212Z" creationid="WynnChen" creationdate="20240716T162212Z">
+        <seg>OmegaT 无法访问包含操作系统名称的系统属性及
+包含你的主文件夹的系统属性。因此，无法可靠地确定
+ OmegaT 的配置文件夹位置。将改用当前文件夹。
+这会将所有设置重置为其默认值，因此你可能
+会经历出乎意料但正确的行为。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53681,6 +53773,49 @@ When using regular expressions, the replacement string supports references to gr
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Scope:
+Searches apply to the project and cover its source and target text, reference TMs, glossaries, notes, and comments by default. Tick or untick the appropriate boxes to change these settings.
+Searches can also be performed on a specified folder hierarchy.
+ 
+Types:
+Exact searches match the whole search string.
+Keyword searches match all space-separated keywords in any order.
+Regular expression searches match Java regular expressions as documented in the user manual.
+ 
+Wildcards:
+Both exact and keyword searches support the * and ? wildcards.
+'*' matches zero or more characters ('run*' matches 'run', 'runs', 'running', etc.)
+'?' matches exactly one character ('run?' matches 'runs' and 'rung', but not 'run' or 'running').
+ 
+Text Replace:
+Replace applies to the target segments of the project.
+Keyword searches are not available in the search string.
+When using regular expressions, the replacement string supports references to groups defined in the search string. Use $n to refer to the nth group.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T161932Z" creationid="WynnChen" creationdate="20240716T161932Z">
+        <seg>范围：
+默认情况下，搜索作用于整个项目，覆盖其原文和译文文本、参考翻译记忆库、词汇表、备注和注释。勾选或取消勾选相应的复选框可以更改这些设置。
+搜索还可以在指定文件夹层次上执行。
+
+类型：
+精确搜索完全匹配整个搜索字符串。
+关键字搜索会匹配以空格分隔的所有关键字，顺序任意。
+正则表达式搜索则以用户手册中所记载的 Java 正则表达式来进行匹配。
+
+通配符：
+精确搜索和关键字搜索都支持 * 和 ? 通配符。
+“*” 匹配零个或若干个字符（“run*”匹配“run”、“runs”、“running”，等等）
+“?” 匹配单个字符（“run?”匹配“runs”和“rung”，但不匹配“run”或“running”）。
+
+文本替换：
+替换作用于项目的译文片段。
+在搜索字符串处没有关键字搜索模式。
+当使用正则表达式时，替换字符串支持引用搜索字符串中所定义的组。用 $n 来引用第 n 个组。
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Scope:\n\</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -57462,6 +57597,18 @@ All sets that match the project source language are applied.</seg>
 
 “FR-CA”应当在“FR.*”之上，而后者又应当在“.*”之上。
 
+所有与项目源语言相匹配的集合都会应用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Specific sets should be put above general sets:
+"FR-CA" should be above "FR.*", which should be above ".*".
+All sets that match the project source language are applied.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T162120Z" creationid="WynnChen" creationdate="20240716T162120Z">
+        <seg>专门的集合应当放在通用集合之上：
+“FR-CA”应当在“FR.*”之上，而后者又应当在“.*”之上。
 所有与项目源语言相匹配的集合都会应用。</seg>
       </tuv>
     </tu>
@@ -68654,6 +68801,22 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (at your option) any later version.
+ 
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T162052Z" creationid="WynnChen" creationdate="20240716T162052Z">
+        <seg>本程序是自由软件；您可以根据自由软件基金会发布的 GNU 通用公共许可证许第 3 版或（根据您的选择）任何更高版本的条款重新分发和/或修改它。
+
+This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (at your option) any later version.
+
+本程序怀揣有所帮助之期望而发布，但不提供任何保证；亦不对适销性或特定用途适用性的提供任何暗示性保证。
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This project</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T120951Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -70893,6 +71056,16 @@ install.sh.</seg>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190322T062636Z" creationid="wynnc" creationdate="20190322T062636Z">
         <seg>译文文件路径不能与原文文件路径相同：
 
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translated file path cannot be identical to the source file path:
+{0}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T161938Z" creationid="WynnChen" creationdate="20240716T161938Z">
+        <seg>译文文件路径不能与原文文件路径相同：
 {0}</seg>
       </tuv>
     </tu>
