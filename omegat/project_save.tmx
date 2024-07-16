@@ -23111,6 +23111,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Download the &lt;e0>Cross-platform without JRE&lt;/e0> version.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T145231Z" creationid="WynnChen" creationdate="20240716T145231Z">
+        <seg>下载&lt;e0>不带 JRE 的跨平台&lt;/e0>版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Download the file - it should be a &lt;f0>tarball&lt;/f0> archive (extension &lt;e1>tar.bz&lt;/e1> or &lt;e2>tar.bz2&lt;/e2>).</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190413T072328Z">
@@ -26771,6 +26779,14 @@ patents cannot be used to render the program non-free.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20200117T071816Z">
         <seg>请按照系统说明在你觉得方便的地方安装 &lt;a0>OmegaT&lt;/a0> 快捷方式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Follow your system’s instructions to install OmegaT shortcuts in convenient places of your choosing.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T145324Z" creationid="WynnChen" creationdate="20240716T145324Z">
+        <seg>请按照系统的说明在您选择的方便位置安装 Omegat 快捷方式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44180,6 +44196,14 @@ combination as such.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190324T042244Z" creationid="wynnc" creationdate="20190324T042244Z">
         <seg>OmegaT 可以生成并存储主密码，因此您不必每次都输入密码，但这样做的安全性要低得多。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT can tell you when a new version is available. See the &lt;l0/> preference for details.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T145401Z" creationid="WynnChen" creationdate="20240716T145401Z">
+        <seg>OmegaT 可以告诉您何时有新版本可用。详情请参阅&lt;l0/>首选项。</seg>
       </tuv>
     </tu>
     <tu>
@@ -67425,8 +67449,8 @@ the server.</seg>
       <tuv lang="en">
         <seg>This information applies to any system for a Java version compatible with Java 11 Runtime Environment is available. That includes the platforms described above, as well as platforms for which no specific OmegaT package is provided.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T144933Z" creationid="WynnChen" creationdate="20240716T144933Z">
-        <seg>This information applies to any system for a Java version compatible with Java 11 Runtime Environment is available. That includes the platforms described above, as well as platforms for which no specific OmegaT package is provided.</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T145158Z" creationid="WynnChen" creationdate="20240716T144933Z">
+        <seg>此信息适用于有任何与 Java 11 运行时环境兼容的 Java 版本可用的系统。这包括上述平台，以及未提供特定 OmegaT 软件包的平台。</seg>
       </tuv>
     </tu>
     <tu>
@@ -71753,6 +71777,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unpack the file that you downloaded. This creates a folder with all the files necessary to run OmegaT.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T145252Z" creationid="WynnChen" creationdate="20240716T145252Z">
+        <seg>解压下载的文件。这将创建一个文件夹，其中包含运行 OmegaT 所需的所有文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unpack/untar the downloaded file.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120206T121256Z">
@@ -71969,6 +72001,14 @@ Please try to correct the error and reload the project.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="xulihang" changedate="20180404T021248Z" creationid="Fu Rhong" creationdate="20131116T121544Z">
         <seg>因此更新术语表变得非常简单：按下&lt;k0>Ctrl+Shift+G&lt;/k0>并输入新术语、其翻译及注释（确保在字段间使用了TAB）并保存文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Upgrade</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T145328Z" creationid="WynnChen" creationdate="20240716T145328Z">
+        <seg>升级</seg>
       </tuv>
     </tu>
     <tu>
