@@ -13812,6 +13812,16 @@ the predecessor has it or can get it with reasonable efforts.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An error occurred while processing a font changed event:
+{0}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T162246Z" creationid="WynnChen" creationdate="20240716T162246Z">
+        <seg>处理字体变更事件时发生错误：
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An error occurred while processing a new file event:
 
 {0}</seg>
@@ -13819,6 +13829,16 @@ the predecessor has it or can get it with reasonable efforts.</seg>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T112302Z" creationid="wynnc" creationdate="20190323T112302Z">
         <seg>处理新文件事件时发生错误：
 
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An error occurred while processing a new file event:
+{0}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T162241Z" creationid="WynnChen" creationdate="20240716T162241Z">
+        <seg>处理新文件事件时发生错误：
 {0}</seg>
       </tuv>
     </tu>
@@ -13836,6 +13856,16 @@ the predecessor has it or can get it with reasonable efforts.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An error occurred while processing a project change event:
+{0}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T162234Z" creationid="WynnChen" creationdate="20240716T162234Z">
+        <seg>处理项目变更事件时发生错误：
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An error occurred while processing an application shutdown event:
 
 {0}</seg>
@@ -13843,6 +13873,16 @@ the predecessor has it or can get it with reasonable efforts.</seg>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T112213Z" creationid="wynnc" creationdate="20190323T112213Z">
         <seg>处理应用程序关闭事件时发生错误：
 
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An error occurred while processing an application shutdown event:
+{0}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T162239Z" creationid="WynnChen" creationdate="20240716T162239Z">
+        <seg>处理应用程序关闭事件时发生错误：
 {0}</seg>
       </tuv>
     </tu>
@@ -13860,6 +13900,16 @@ the predecessor has it or can get it with reasonable efforts.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An error occurred while processing an application startup event:
+{0}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T162236Z" creationid="WynnChen" creationdate="20240716T162236Z">
+        <seg>处理应用程序启动事件时发生错误：
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An error occurred while processing an entry activated event:
 
 {0}</seg>
@@ -13867,6 +13917,16 @@ the predecessor has it or can get it with reasonable efforts.</seg>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T112338Z" creationid="wynnc" creationdate="20190323T112338Z">
         <seg>处理激活条目事件时发生错误：
 
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An error occurred while processing an entry activated event:
+{0}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T162244Z" creationid="WynnChen" creationdate="20240716T162244Z">
+        <seg>处理激活条目事件时发生错误：
 {0}</seg>
       </tuv>
     </tu>
@@ -36836,6 +36896,16 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It was not possible to create the script folder
+inside the configuration folder. The configuration folder will be used
+instead.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T162231Z" creationid="WynnChen" creationdate="20240716T162231Z">
+        <seg>无法在配置文件夹中创建脚本文件夹。将改用配置文件夹。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It was not possible to create the script folder\n\</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -44854,6 +44924,28 @@ project without team functionality. (You will still able to use OmegaT
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT has detected a 3.6-style team project.
+ 
+Press 'OK' to convert the project into a 4.x team project. This will
+delete your local data and re-download the project contents from
+the server.
+ 
+Press 'Cancel' to leave the project unmodified and load it as a local
+project without team functionality. (You will still able to use OmegaT
+3.6 to edit this project as a team project.)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T162301Z" creationid="WynnChen" creationdate="20240716T162301Z">
+        <seg>OmegaT 已检测到 3.6 格式的团队项目。
+
+按“确定”将此项目转换为 4.x 团队项目。
+这将删除你的本地数据并从服务器重新下载项目内容。
+
+按“取消”将保持项目不变，并将其作为没有团队功能的本地项目加载。
+（你依然可以用 OmegaT 3.6 来将此项目作为团队项目编辑。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT has file filters for both Open Document Format and for the Star Office format which it replaced.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Wyndy" changedate="20180418T075152Z" creationid="Wyndy" creationdate="20180418T075152Z">
@@ -50216,6 +50308,19 @@ You may have forgotten an initial commit.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Project conversion failed.
+Check whether your repository has correct commits and files.
+You may have forgotten an initial commit.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T162314Z" creationid="WynnChen" creationdate="20240716T162314Z">
+        <seg>项目转换失败。
+
+请检查你的存储库是否有正确的提交和文件。
+你可能忘记进行初始提交。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Project conversion successful.
 
  
@@ -50228,6 +50333,19 @@ additional steps need to be taken.</seg>
         <seg>项目转换成功。
 
 
+
+联系你的项目管理员来了解是否需要采取其他步骤。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project conversion successful.
+ 
+Contact your project administrator to find out if any
+additional steps need to be taken.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T162308Z" creationid="WynnChen" creationdate="20240716T162308Z">
+        <seg>项目转换成功。
 
 联系你的项目管理员来了解是否需要采取其他步骤。</seg>
       </tuv>
@@ -72627,6 +72745,18 @@ new version: {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Upgrade/override plugin {0}
+current: {1}
+new version: {2}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T162319Z" creationid="WynnChen" creationdate="20240716T162319Z">
+        <seg>升级/覆盖插件 {0}
+当前：{1}
+新版本：{2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Upgrading OmegaT</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120206T094257Z">
@@ -74527,6 +74657,181 @@ Console only options:
 	--tag-validation=[abort|warn]
 	  Validate tags. Abort: Exit with an error if tags are invalid.
 	  Warn: Report invalid tags to stdout.
+ 
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Usage: java -jar [&lt;java options>] OmegaT.jar [&lt;OmegaT options>] [&lt;project path>]
+ 
+See Help > User Manual for details, including available Java options.
+ 
+OmegaT options:
+ 
+	No option: Launch GUI.
+ 
+	Project path only: Launch GUI and load specified project.
+ 
+	-h, --help
+	  Print this help message.
+ 
+	--remote-project
+	  Download an omegat.project file from the URL given as &lt;project
+	  path> and load the project.
+ 
+	--no-team
+	  Disable team project functionality.
+ 
+	team init &lt;source language> &lt;target language>
+	  Team project tool.
+	  Initialize a minimal team project with the specified languages.
+	  If invoked in a git working tree or svn checkout, the results
+	  will be staged/added.
+ 
+	--disable-project-locking
+	  Do not attempt to lock the omegat.project file.
+	--disable-location-save
+	  Do not remember the last folder opened in the file picker.
+ 
+	--ITokenizer=&lt;classname>
+	--ITokenizerTarget=&lt;classname>
+	  Source- or target-language tokenizer to use (overrides project
+	  settings). See OmegaT.jar/META-INF/MANIFEST.MF for valid values.
+ 
+	--config-file=&lt;path>
+	  A Java .properties file from which to load default settings.
+ 
+	--config-dir=&lt;path>
+	  The folder used to read or write OmegaT configuration files.
+ 
+	--resource-bundle=&lt;path>
+	  A Java .properties file to use for the interface text.
+ 
+	--mode=[console mode name] &lt;project path> &lt;mode options>
+	  Specify a mode other than the GUI default. See below for details.
+ 
+Console mode names and their options:
+ 
+	--mode=console-translate
+	  --source-pattern=&lt;pattern>
+	    A regex whitelist of source files to process.
+ 
+	--mode=console-createpseudotranslatetmx
+	  --pseudotranslatetmx=&lt;path>
+	    The output pseudotranslated TMX file.
+	  --pseudotranslatetype=[equal|empty]
+	    What to put in the pseudotranslated TMX.
+ 
+	--mode=console-align
+	  --alignDir=&lt;path>
+	    The folder containing the translated files.
+ 
+	--mode=console-stats
+	  --output-file=[stats-output-file]
+	    Prints to the specified file, or to standard output
+	    if no file is given or the option is not used.
+	  --stats-type=[xml|text|txt|json]
+	    Specifies the output format.
+	    If --stats-type is not specified, the format is
+	    detected from the file extension.
+	    Defaults to xml.
+ 
+Console only options:
+ 
+	--quiet
+	  Reduce output to command line stdout.
+ 
+	--script=&lt;path>
+	  A script file to be executed on project events.
+ 
+	--tag-validation=[abort|warn]
+	  Validate tags. Abort: Exit with an error if tags are invalid.
+	  Warn: Report invalid tags to stdout.
+ 
+{0}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T162557Z" creationid="WynnChen" creationdate="20240716T162557Z">
+        <seg>用法： java -jar [&lt;Java 选项>] OmegaT.jar [&lt;OmegaT 选项>] [&lt;项目路径>]
+ 
+有关详细信息，包括可用的 Java 选项，请参阅“帮助 > 用户手册”
+ 
+OmegaT 选项：
+	不带任何选项：启动图形界面
+ 
+	只提供了项目路径：启动图形界面并加载指定项目
+ 
+	-h, --help
+	  显示本帮助信息。
+ 
+	--remote-project
+	  从作为&lt;项目路径>给出的 URL 下载 omegat.project 文件并加载此项目。
+ 
+	--no-team
+	  禁用团队项目功能。
+ 
+	team init &lt;原文语言> &lt;译文语言>
+	  团队项目工具。
+	  以指定语言初始化一个最小的团队项目。
+	  如果在 git 工作树或 svn 检出中调用，其结果会被 stage/add。
+ 
+	--disable-project-locking
+	  不要尝试锁定 omegat.project 文件。
+	--disable-location-save
+	  不要记忆最后一次在文件选择器中打开的文件夹。
+ 
+	--ITokenizer=&lt;类名>
+	--ITokenizerTarget=&lt;类名>
+	  原文语言或译文语言所使用的分词器（会覆盖项目设置）。
+	  有关有效的值，请参阅 OmegaT.jar/META-INF/MANIFEST.MF。
+ 
+	--config-file=&lt;路径>
+	  用于加载默认设置的 Java .properties 文件。
+ 
+	--config-dir=&lt;路径>
+	  用于读/写 OmegaT 配置文件的文件夹。
+ 
+	--resource-bundle=&lt;路径>
+	  用于界面文本的 Java .properties 文件
+ 
+	--mode=[控制台模式名称] &lt;项目路径> &lt;模式选项>
+	  指定图形界面模式而不使用默认值。详情参见下文。
+ 
+控制台模式名称及其选项：
+ 
+	--mode=console-translate
+	  --source-pattern=&lt;正则模式>
+	    代表要处理的原文文件的白名单的正则表达式。
+ 
+	--mode=console-createpseudotranslatetmx
+	  --pseudotranslatetmx=&lt;路径>
+	    输出的伪翻译 TMX 文件。
+	  --pseudotranslatetype=[equal|empty]
+	    伪翻译 TMX 中放什么内容。
+ 
+	--mode=console-align
+	  --alignDir=&lt;路径>
+	    包含已翻译文件的文件夹。
+ 
+	--mode=console-stats
+	  --output-file=[统计数据输出文件]
+	    输出到指定文件，如果没有给出文件或未使用此选项则输出到 stdout。
+	  --stats-type=[xml|text|txt|json]
+	    指定输出格式。
+	    如果未指定 --stats-type，则通过文件扩展名来确定格式。
+	    默认为 xml。
+
+仅用于控制台的选项：
+ 
+	--quiet
+	  减少输出到命令行标准输出的内容。
+ 
+	--script=&lt;path>
+	  在项目事件时执行的脚本文件。
+
+	--tag-validation=[abort|warn]
+	  校验标签。Abort：当标签无效时退出并显示错误。
+	  Warn：将无效的标签记录到 stdout。
  
 {0}</seg>
       </tuv>
@@ -80371,6 +80676,20 @@ their default values.</seg>
 
 如果稍后给予了访问所需位置的权限，将使用该位置，
 
+并且所有设置都会重置为其默认值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your operating system refused to let OmegaT
+create the configuration folder. The current folder will be used
+instead. If access to the desired location is granted later,
+that location will be used and all settings will be reset to
+their default values.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T162216Z" creationid="WynnChen" creationdate="20240716T162216Z">
+        <seg>你的操作系统拒绝让 OmegaT 创建配置文件夹。将改用当前文件夹。
+如果稍后给予了访问所需位置的权限，将使用该位置，
 并且所有设置都会重置为其默认值。</seg>
       </tuv>
     </tu>
