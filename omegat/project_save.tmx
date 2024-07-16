@@ -4436,6 +4436,14 @@ not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>./gradlew installDist</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T152545Z" creationid="WynnChen" creationdate="20240716T152545Z">
+        <seg>./gradlew installDist</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>.csv</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T101627Z" creationid="WynnChen" creationdate="20221212T101627Z">
@@ -46492,6 +46500,14 @@ unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Once the code is downloaded, open a terminal in the source folder (&lt;f0>omegat-code/&lt;/f0> if you cloned from Sourceforge, or &lt;f1>/omegat&lt;/f1> if you cloned from GitHub) and type:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T152544Z" creationid="WynnChen" creationdate="20240716T152544Z">
+        <seg>下载代码后，在源代码文件夹（如果从 Sourceforge 克隆那么是 &lt;f0>omegat-code/&lt;/f0>，如果从 GitHub 克隆 则是 &lt;f1>/omegat&lt;/f1>）打开终端并输入：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Once the operation has finished, you can check the said folder: it should now contain a subfolder .svn and a green OK badge on its icon will show, that the contents of the folder are up-to-date:</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131111T125826Z" creationid="Fu Rhong" creationdate="20131111T114804Z">
@@ -68607,6 +68623,14 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This will create a full, ready to launch distribution of OmegaT in the &lt;f0>build/install/OmegaT&lt;/f0> folder.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T152701Z" creationid="WynnChen" creationdate="20240716T152701Z">
+        <seg>这会在 &lt;f0>build/install/OmegaT&lt;/f0> 文件夹中创建完整的、可直接启动的 OmegaT 发行版。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This will create an omegat/ folder in the working folder in which you will find all the files needed to run &lt;a0>OmegaT&lt;/a0>.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120206T121348Z">
@@ -78191,6 +78215,14 @@ from there.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20200119T095647Z" creationid="WynnChen" creationdate="20200119T095647Z">
         <seg>你也可以用以下命令直接运行该应用程序：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also run the application directly with the following command:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T152720Z" creationid="WynnChen" creationdate="20240716T152720Z">
+        <seg>也可以用以下命令直接运行应用程序：</seg>
       </tuv>
     </tu>
     <tu>
