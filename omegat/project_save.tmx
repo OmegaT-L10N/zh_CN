@@ -13273,6 +13273,14 @@ rights of fair use or other equivalent, as provided by copyright law.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All the parameters located in the Configuration Folder will be shared unless you specify a different configuration folder with the &lt;c0>--config-dir=&lt;path>&lt;/c0> option from the OmegaT options on the command line . All the parameters located in a Project Folder will apply to that project regardless of which version of OmegaT opens it.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T183319Z" creationid="WynnChen" creationdate="20240716T183319Z">
+        <seg>所有位于配置文件夹中的参数都是公用的，除非在命令行上的 OmegaT 选项部分用 &lt;c0>--config-dir=&lt;path>&lt;/c0> 指定了不同的配置文件夹。无论用哪个版本的 OmegaT 打开项目，所有位于项目文件夹内的参数都会应用于该项目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All the parameters located in the OmegaT configuration folder will be shared unless you specify a different configuration folder with the &lt;l0>--config-dir=&lt;path>&lt;/l0> option on the command line. See the &lt;l1/> section.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T151055Z" creationid="WynnChen" creationdate="20240716T151055Z">
@@ -47557,6 +47565,14 @@ unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT’s preferences are stored in the configuration folder and will &lt;s0> &lt;e1>not&lt;/e1> &lt;/s0> be modified by the new version.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T182958Z" creationid="WynnChen" creationdate="20240716T182958Z">
+        <seg>OmegaT 的首选项设置存储在配置文件夹中，&lt;s0>&lt;e1>不会&lt;/e1>&lt;/s0>被新版本修改。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>On Linux</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131001T130136Z">
@@ -49477,6 +49493,14 @@ Vanishing like mist</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131116T075129Z" creationid="Fu Rhong" creationdate="20131116T035311Z">
         <seg>段落、节和表被设为双向</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Parameter files that are included in the downloaded OmegaT package (especially the &lt;c0>OmegaT.l4J.ini&lt;/c0> for Windows and the &lt;c1>Configuration.properties&lt;/c1> and &lt;c2>Info.plist&lt;/c2> files for macOS packages) might be overwritten or deleted, so you may want to create a backup before upgrading, if you have been using these files to modify OmegaT’s launch parameters.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T183115Z" creationid="WynnChen" creationdate="20240716T183115Z">
+        <seg>下载的 OmegaT 包中有包含的参数文件（特别是 Windows 包中的 &lt;c0>OmegaT.l4J.ini&lt;/c0> 和 macOS 包中的 &lt;c1>Configuration.properties&lt;/c1> 和 &lt;c2>Info.plist&lt;/c2> 文件）则可能会被覆盖或删除，因此，如果你在使用这些文件来修改 OmegaT 的启动参数，则可能需要在升级前将其备份。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51571,6 +51595,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T145935Z" creationid="WynnChen" creationdate="20240716T145935Z">
         <seg>过往创建的或当前正在使用的项目&lt;e0>不会&lt;/e0>被删除或修改。OmegaT 的项目并&lt;e1>不&lt;/e1>存储在 OmegaT 内。它们是独立的对象，与 OmegaT 应用程序本身并没有天然的连接。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Projects that you have created in the past or are currently using will &lt;s0> &lt;e1>not&lt;/e1> &lt;/s0> be modified or deleted. OmegaT projects are &lt;s2> &lt;e3>not&lt;/e3> &lt;/s2> stored inside OmegaT. They are separate objects that have no physical connection to the OmegaT application itself.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T183029Z" creationid="WynnChen" creationdate="20240716T183029Z">
+        <seg>过往创建的或当前正在使用的项目&lt;s0>&lt;e1>不会&lt;/e1>&lt;/s0>被删除或修改。OmegaT 的项目并&lt;s2>&lt;e3>不&lt;/e3>&lt;/s2>存储在 OmegaT 内。它们是独立的对象，与 OmegaT 应用程序本身并没有天然的连接。</seg>
       </tuv>
     </tu>
     <tu>
@@ -61603,6 +61635,14 @@ form of a work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;c0>plugins&lt;/c0> and &lt;c1>scripts&lt;/c1> folders might be overwritten, so you may want to create a backup before upgrading.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T183127Z" creationid="WynnChen" creationdate="20240716T183127Z">
+        <seg>&lt;c0>plugins&lt;/c0> 和 &lt;c1>scripts&lt;/c1> 文件夹可能会被覆盖，因此可能需要在升级前将其备份。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;c0>shortcut&lt;/c0> represents the key combination pressed by the user. It takes the following form:</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20230303T104025Z" creationid="WynnChen" creationdate="20230303T104025Z">
@@ -63038,6 +63078,14 @@ Please try to correct the error and reload the project.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Doris" changedate="20180418T132709Z" creationid="Doris" creationdate="20180418T132709Z">
         <seg>显示更改。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The changes between your version and the current version are documented in the development site’s &lt;a0>changes.txt&lt;/a0> file.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T182932Z" creationid="WynnChen" creationdate="20240716T182932Z">
+        <seg>您的版本与当前版本之间的更改记录在开发站点的 &lt;a0>changes.txt&lt;/a0> 文件中。</seg>
       </tuv>
     </tu>
     <tu>
