@@ -13488,6 +13488,14 @@ rights of fair use or other equivalent, as provided by copyright law.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Alternative translation highlight</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T164242Z" creationid="WynnChen" creationdate="20240716T164242Z">
+        <seg>备选翻译高亮部分</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Alternatively, if you already know which version you wish to download, click on the button to have an overview of the different OmegaT versions available.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190523T023151Z" creationid="18261" creationdate="20180412T090332Z">
@@ -35893,6 +35901,14 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Install Plugin</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T164246Z" creationid="WynnChen" creationdate="20240716T164246Z">
+        <seg>安装插件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Install a second, non-default version of Java at system level, and launch OmegaT explicitly using this version.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="think" changedate="20180416T083106Z" creationid="think" creationdate="20180416T083106Z">
@@ -35933,6 +35949,14 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Install the {0} {1} plugin?</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T164304Z" creationid="WynnChen" creationdate="20240716T164304Z">
+        <seg>安装 {0} {1} 插件？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Installation Type</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Zenobia Fang" changedate="20180423T124603Z" creationid="Zenobia Fang" creationdate="20180423T124603Z">
@@ -35945,6 +35969,14 @@ everything.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131108T110429Z" creationid="Fu Rhong" creationdate="20131108T110429Z">
         <seg>安装和使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Installed</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T164316Z" creationid="WynnChen" creationdate="20240716T164316Z">
+        <seg>已安装</seg>
       </tuv>
     </tu>
     <tu>
@@ -49564,10 +49596,26 @@ language you would like to translate to.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Plugin Name</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T164314Z" creationid="WynnChen" creationdate="20240716T164314Z">
+        <seg>插件名称</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Plugin installation failed.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T120919Z" creationid="WynnChen" creationdate="20221209T120919Z">
         <seg>插件安装失败。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Plugin installation successful. Restart OmegaT to activate it.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T164312Z" creationid="WynnChen" creationdate="20240716T164312Z">
+        <seg>插件安装成功。重新启动 OmegaT 以将其激活。</seg>
       </tuv>
     </tu>
     <tu>
@@ -55904,6 +55952,14 @@ When using regular expressions, the replacement string supports references to gr
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Selected</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T164320Z" creationid="WynnChen" creationdate="20240716T164320Z">
+        <seg>已选择</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Selected Engine: {0}</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -58388,6 +58444,14 @@ All sets that match the project source language are applied.</seg>
         <seg>Statistics Output Formats</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20230718T063131Z" creationid="WynnChen" creationdate="20230718T063131Z">
+        <seg>统计数据输出格式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Statistics output formats</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T164126Z" creationid="WynnChen" creationdate="20240716T164126Z">
         <seg>统计数据输出格式</seg>
       </tuv>
     </tu>
@@ -68968,6 +69032,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This option sets the project data saving interval, which also applies to team data synchronization.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T164115Z" creationid="WynnChen" creationdate="20240716T164115Z">
+        <seg>该选项设置项目的数据保存间隔，该间隔也应用于团队数据同步。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This package can be used on any platform where a Java 1.6 JRE compatible JRE is installed.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131116T124148Z" creationid="Fu Rhong" creationdate="20131116T124148Z">
@@ -73026,6 +73098,26 @@ Please try to correct the error and reload the project.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Upgrade Plugin</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T164248Z" creationid="WynnChen" creationdate="20240716T164248Z">
+        <seg>升级插件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Upgrade the {0} plugin?
+Current version: {1}
+New version: {2}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T164256Z" creationid="WynnChen" creationdate="20240716T164256Z">
+        <seg>升级 {0} 插件？
+当前版本：{1}
+新版本：{2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Upgrade/override plugin {0}
 
 current: {1}
@@ -76688,6 +76780,16 @@ searchable without subscription:</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190410T022651Z" creationid="Fu Rhong" creationdate="20131110T033145Z">
         <seg>版本控制 - 简介</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Version {1} is already installed.
+Reinstall the {0} plugin?</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T164301Z" creationid="WynnChen" creationdate="20240716T164301Z">
+        <seg>版本 {1} 已安装。
+重新安装 {0} 插件？</seg>
       </tuv>
     </tu>
     <tu>
