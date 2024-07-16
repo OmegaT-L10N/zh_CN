@@ -32530,6 +32530,14 @@ been installed in ROM).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you decide to install a new version, keep the following in mind:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T145456Z" creationid="WynnChen" creationdate="20240716T145456Z">
+        <seg>如果您决定安装新版本，请记住以下事项：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you develop a new program, and you want it to be of the greatest
 
 possible use to the public, the best way to achieve this is to make it
@@ -46200,6 +46208,14 @@ unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131116T032939Z" creationid="Fu Rhong" creationdate="20131116T032939Z">
         <seg>OmegaT.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT’s preferences are stored in the configuration folder and will &lt;e0>not&lt;/e0> be modified by the new version. See the &lt;l1/> chapter for details.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T145654Z" creationid="WynnChen" creationdate="20240716T145549Z">
+        <seg>OmegaT 的首选项设置存储在配置文件夹中，&lt;e0>不会&lt;/e0>被新版本修改。详情请参阅&lt;l1/>章节。</seg>
       </tuv>
     </tu>
     <tu>
@@ -61250,6 +61266,14 @@ Please try to correct the error and reload the project.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The changes between your version and the current version are documented in the development site’s &lt;u0>changes.txt&lt;/u0> file.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T145447Z" creationid="WynnChen" creationdate="20240716T145447Z">
+        <seg>您的版本与当前版本之间的更改记录在开发站点的 &lt;u0>changes.txt&lt;/u0> 文件中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The character with hexadecimal value 0xhh</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190522T052713Z">
@@ -73751,6 +73775,190 @@ OmegaT 选项：
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Usage: java -jar [&lt;java options>] OmegaT.jar [&lt;OmegaT options>] [&lt;project path>]
+ 
+See Help > User Manual for details, including available Java options.
+ 
+OmegaT options:
+ 
+	No option: Launch GUI.
+ 
+	Project path only: Launch GUI and load specified project.
+ 
+	-h, --help
+	  Print this help message.
+ 
+	--remote-project
+	  Download an omegat.project file from the URL given as &lt;project
+	  path> and load the project.
+ 
+	--no-team
+	  Disable team project functionality.
+ 
+	team init &lt;source language> &lt;target language>
+	  Team project tool.
+	  Initialize a minimal team project with the specified languages.
+	  If invoked in a git working tree or svn checkout, the results
+	  will be staged/added.
+ 
+	--disable-project-locking
+	  Do not attempt to lock the omegat.project file.
+	--disable-location-save
+	  Do not remember the last folder opened in the file picker.
+ 
+	--ITokenizer=&lt;classname>
+	--ITokenizerTarget=&lt;classname>
+	  Source- or target-language tokenizer to use (overrides project
+	  settings). See OmegaT.jar/META-INF/MANIFEST.MF for valid values.
+ 
+	--config-file=&lt;path>
+	  A Java .properties file from which to load default settings.
+ 
+	--config-dir=&lt;path>
+	  The folder used to read or write OmegaT configuration files.
+ 
+	--resource-bundle=&lt;path>
+	  A Java .properties file to use for the interface text.
+ 
+	--mode=[console mode name]
+	  Specify a mode other than the GUI default. See below for details.
+ 
+Console mode names and their options:
+ 
+	--mode=console-translate
+	  --source-pattern=&lt;pattern>
+	    A regex whitelist of source files to process.
+ 
+	--mode=console-createpseudotranslatetmx
+	  --pseudotranslatetmx=&lt;path>
+	    The output pseudotranslated TMX file.
+	  --pseudotranslatetype=[equal|empty]
+	    What to put in the pseudotranslated TMX.
+ 
+	--mode=console-align
+	  --alignDir=&lt;path>
+	    A folder containing the translated files.
+ 
+	--mode=console-stats
+	  project_path
+	    The path to the project.
+	  --output-file=[stats-output-file]
+	    Prints to the specified file, or to standard output
+	    if no file is given or the option is not used.
+	  --stats-type=[xml|text|txt|json]
+	    Specifies the output format.
+	    If --stats-type is not specified, the format is
+	    detected from the file extension.
+	    Defaults to xml.
+ 
+Console only options:
+ 
+	--quiet
+	  Reduce output to command line stdout.
+ 
+	--script=&lt;path>
+	  A script file to be executed on project events.
+ 
+	--tag-validation=[abort|warn]
+	  Validate tags. Abort: Exit with an error if tags are invalid.
+	  Warn: Report invalid tags to stdout.
+ 
+{0}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T145556Z" creationid="WynnChen" creationdate="20240716T145556Z">
+        <seg>Usage: java -jar [&lt;java options>] OmegaT.jar [&lt;OmegaT options>] [&lt;project path>]
+ 
+See Help > User Manual for details, including available Java options.
+ 
+OmegaT options:
+ 
+	No option: Launch GUI.
+ 
+	Project path only: Launch GUI and load specified project.
+ 
+	-h, --help
+	  Print this help message.
+ 
+	--remote-project
+	  Download an omegat.project file from the URL given as &lt;project
+	  path> and load the project.
+ 
+	--no-team
+	  Disable team project functionality.
+ 
+	team init &lt;source language> &lt;target language>
+	  Team project tool.
+	  Initialize a minimal team project with the specified languages.
+	  If invoked in a git working tree or svn checkout, the results
+	  will be staged/added.
+ 
+	--disable-project-locking
+	  Do not attempt to lock the omegat.project file.
+	--disable-location-save
+	  Do not remember the last folder opened in the file picker.
+ 
+	--ITokenizer=&lt;classname>
+	--ITokenizerTarget=&lt;classname>
+	  Source- or target-language tokenizer to use (overrides project
+	  settings). See OmegaT.jar/META-INF/MANIFEST.MF for valid values.
+ 
+	--config-file=&lt;path>
+	  A Java .properties file from which to load default settings.
+ 
+	--config-dir=&lt;path>
+	  The folder used to read or write OmegaT configuration files.
+ 
+	--resource-bundle=&lt;path>
+	  A Java .properties file to use for the interface text.
+ 
+	--mode=[console mode name]
+	  Specify a mode other than the GUI default. See below for details.
+ 
+Console mode names and their options:
+ 
+	--mode=console-translate
+	  --source-pattern=&lt;pattern>
+	    A regex whitelist of source files to process.
+ 
+	--mode=console-createpseudotranslatetmx
+	  --pseudotranslatetmx=&lt;path>
+	    The output pseudotranslated TMX file.
+	  --pseudotranslatetype=[equal|empty]
+	    What to put in the pseudotranslated TMX.
+ 
+	--mode=console-align
+	  --alignDir=&lt;path>
+	    A folder containing the translated files.
+ 
+	--mode=console-stats
+	  project_path
+	    The path to the project.
+	  --output-file=[stats-output-file]
+	    Prints to the specified file, or to standard output
+	    if no file is given or the option is not used.
+	  --stats-type=[xml|text|txt|json]
+	    Specifies the output format.
+	    If --stats-type is not specified, the format is
+	    detected from the file extension.
+	    Defaults to xml.
+ 
+Console only options:
+ 
+	--quiet
+	  Reduce output to command line stdout.
+ 
+	--script=&lt;path>
+	  A script file to be executed on project events.
+ 
+	--tag-validation=[abort|warn]
+	  Validate tags. Abort: Exit with an error if tags are invalid.
+	  Warn: Report invalid tags to stdout.
+ 
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Usage: team init &lt;source language> &lt;target language>
 
 	See --help</seg>
@@ -84559,6 +84767,14 @@ If the project contains files but their content is not displayed here:
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20201125T060512Z" creationid="wynnc" creationdate="20201125T060512Z">
         <seg>https://sourceforge.net/p/omegat/code/ci/master/tarball?path=</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://sourceforge.net/p/omegat/code/ci/master/tree/release/changes.txt</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T145404Z" creationid="WynnChen" creationdate="20240716T145404Z">
+        <seg>https://sourceforge.net/p/omegat/code/ci/master/tree/release/changes.txt</seg>
       </tuv>
     </tu>
     <tu>
