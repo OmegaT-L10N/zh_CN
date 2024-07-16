@@ -42385,6 +42385,14 @@ appropriate location such as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Negotiated LanguageTool source language: {0}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T165257Z" creationid="WynnChen" creationdate="20240716T165257Z">
+        <seg>协商得到的 LanguageTool 原文语言：{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Neither the “a” nor the “an” in:</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221224T031956Z" creationid="WynnChen" creationdate="20221224T031956Z">
@@ -56020,6 +56028,22 @@ When using regular expressions, the replacement string supports references to gr
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
         <seg>选择的引擎：{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Selected LanguageTool source language: {0}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T164638Z" creationid="WynnChen" creationdate="20240716T164638Z">
+        <seg>选定的 LanguageTool 原文语言：{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Selected LanguageTool target language: {0}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T164643Z" creationid="WynnChen" creationdate="20240716T164643Z">
+        <seg>选定的 LanguageTool 译文语言：{0}</seg>
       </tuv>
     </tu>
     <tu>
