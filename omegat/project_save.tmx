@@ -21278,6 +21278,14 @@ Some filters do not allow encoding modifications.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Delete OmegaT</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T151220Z" creationid="WynnChen" creationdate="20240716T151220Z">
+        <seg>删除 OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Delete Previous Token</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20230323T044906Z" creationid="WynnChen" creationdate="20230323T044727Z">
@@ -32972,6 +32980,14 @@ to use Java Web Start.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120218T070251Z">
         <seg>如果您只需要文本信息（而不是格式信息），可以使用 OmegaT 创建的级别 1 文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you performed a manual installation on Linux, you will have to manually delete the OmegaT folders in &lt;f0>opt/&lt;/f0>, as well as the symlinks placed in &lt;f1>/usr/local/bin/&lt;/f1> by the installation script.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T151604Z" creationid="WynnChen" creationdate="20240716T151604Z">
+        <seg>如果在 Linux 上执行了手动安装，则必须手动删除 &lt;f0>opt/&lt;/f0> 下的 OmegaT 文件夹，以及安装脚本在 &lt;f1>/usr/local/bin/&lt;/f1> 中建立的符号链接。</seg>
       </tuv>
     </tu>
     <tu>
@@ -74715,6 +74731,14 @@ Console only options:
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190413T072522Z" creationid="WynnChen" creationdate="20190413T072522Z">
         <seg>用 untar 工具（或等效物，比如 Windows 中的 &lt;f0> winrar&lt;/f0>）将其内容提取到项目文件夹“Dictionary”中。应当有三个文件，扩展名分别为 &lt;e1>dz、idx &lt;/e1> 和 &lt;e2>ifo&lt;/e2>。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use your operating system’s standard procedure to remove OmegaT. If you want to remove OmegaT completely, you will also have to delete the configuration folder.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T151304Z" creationid="WynnChen" creationdate="20240716T151304Z">
+        <seg>用操作系统的标准流程来移除 OmegaT。如果想要彻底移除 OmegaT，还需要删除配置文件夹。</seg>
       </tuv>
     </tu>
     <tu>
