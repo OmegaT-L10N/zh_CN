@@ -23578,6 +23578,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Download the &lt;s0> &lt;e1>Cross-platform without JRE&lt;/e1> &lt;/s0> version.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T182801Z" creationid="WynnChen" creationdate="20240716T182801Z">
+        <seg>下载&lt;s0>&lt;e1>不带 JRE 的跨平台&lt;/e1>&lt;/s0>版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Download the file - it should be a &lt;f0>tarball&lt;/f0> archive (extension &lt;e1>tar.bz&lt;/e1> or &lt;e2>tar.bz2&lt;/e2>).</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190413T072328Z">
@@ -31212,6 +31220,14 @@ prior to 60 days after the cessation.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20230425T040519Z" creationid="WynnChen" creationdate="20230425T040519Z">
         <seg>IBM Watson 不可用。相关说明请参阅用户手册。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>IBM provides JREs for Linux PowerPC at &lt;a0>https://developer.ibm.com/languages/java/semeru-runtimes/downloads/&lt;/a0>.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T182920Z" creationid="WynnChen" creationdate="20240716T182920Z">
+        <seg>IBM 在 &lt;a0>https://developer.ibm.com/languages/java/semeru-runtimes/downloads/&lt;/a0> 上为 Linux PowerPC 提供了 JRE。</seg>
       </tuv>
     </tu>
     <tu>
@@ -61894,6 +61910,14 @@ Source.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="lenovo" changedate="20180416T120619Z" creationid="lenovo" creationdate="20180416T120619Z">
         <seg>DéjàVu“外部视图”文件格式是DéjàVu DVX的一项功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Eclipse Foundation provides OpenJDK Runtime Environments JREs for many systems at &lt;a0>https://adoptium.net/temurin&lt;/a0>.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T182849Z" creationid="WynnChen" creationdate="20240716T182849Z">
+        <seg>Eclipse 基金会在 &lt;a0>https://adoptium.net/temurin&lt;/a0> 上为很多系统提供了 OpenJDK 运行时环境 JRE。</seg>
       </tuv>
     </tu>
     <tu>
