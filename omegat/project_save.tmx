@@ -47780,6 +47780,14 @@ unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Over an existing version</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T150413Z" creationid="WynnChen" creationdate="20240716T150413Z">
+        <seg>覆盖现有版本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Overlapping is the result of bad manipulations of tag pairs and is guaranteed to result in formatting corruption and sometimes in the translated file not opening at all.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120205T115946Z">
@@ -59941,6 +59949,14 @@ form of a work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;f0>plugins&lt;/f0> and &lt;f1>scripts&lt;/f1> folders might be overwritten, so you may want to create a backup before upgrading.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T150344Z" creationid="WynnChen" creationdate="20240716T150317Z">
+        <seg>&lt;f0>plugins&lt;/f0> 和 &lt;f1>scripts&lt;/f1> 文件夹可能会被覆盖，因此可能需要在升级前将其备份。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;f0>project_stats.txt&lt;/f0> located in the omegat folder of your project contains more detailed segment information, broken down by file.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120219T124019Z">
@@ -69243,6 +69259,14 @@ the "copyright" line and a pointer to where the full notice is found.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="think" changedate="20180416T072202Z" creationid="think" creationdate="20180416T071958Z">
         <seg>为此，打开一个终端（也就是控制台或命令行窗口；它的通用程序是（KDE）和gnome-terminal（GNOME）），然后输入：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To do this, simply select the same installation folder as the existing installation when installing the new version. The “old” version of OmegaT will be overwritten, but settings made from the OmegaT interface will be retained in the various configurations folders (see above).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T150628Z" creationid="WynnChen" creationdate="20240716T150628Z">
+        <seg>要实现此操作，只需在安装新版本时选择与现有安装相同的安装文件夹即可。“旧”版本的 OmegaT 会被覆盖，但通过 OmegaT 界面所做出的各种设置会保留在各个配置文件夹（参见上文）中。</seg>
       </tuv>
     </tu>
     <tu>
