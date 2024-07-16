@@ -15887,6 +15887,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Based on your choices, we recommend you use:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T180652Z" creationid="WynnChen" creationdate="20240716T180652Z">
+        <seg>根据您的选择，我们推荐您使用：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Bashkir</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190405T031210Z" creationid="Fu Rhong" creationdate="20131107T142626Z">
@@ -19493,6 +19501,22 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20120130T073234Z">
         <seg>为 &lt;a0>OmegaT&lt;/a0> 项目做贡献</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Contribution Guide</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T180456Z" creationid="WynnChen" creationdate="20240716T180456Z">
+        <seg>贡献指南</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Contribution Guide source text</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T180541Z" creationid="WynnChen" creationdate="20240716T180514Z">
+        <seg>贡献指南原文文本</seg>
       </tuv>
     </tu>
     <tu>
@@ -27951,6 +27975,14 @@ know their rights.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For installation on macOS.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T180621Z" creationid="WynnChen" creationdate="20240716T180621Z">
+        <seg>用于在 macOS 上安装。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For installation on other operating systems (such as FreeBSD and Solaris).&lt;br0/></seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Zenobia Fang" changedate="20180423T130625Z" creationid="Zenobia Fang" creationdate="20180423T130625Z">
@@ -27971,6 +28003,14 @@ know their rights.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T071851Z" creationid="wynnc" creationdate="20210504T071851Z">
         <seg>用于在其他操作系统（例如 FreeBSD 和 Solaris）上安装。&lt;br0/> &lt;i1>OmegaT 可以安装在任何能够运行 Java 运行时环境 1.8 版的操作系统上。&lt;/i1></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For installation on other operating systems (such as FreeBSD and Solaris).&lt;br0/> &lt;i1>OmegaT can be installed on any operating system capable of running version 11 of the Java runtime environment.&lt;/i1></seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T180631Z" creationid="WynnChen" creationdate="20240716T180631Z">
+        <seg>用于在其他操作系统（例如 FreeBSD 和 Solaris）上安装。&lt;br0/> &lt;i1>OmegaT 可以安装在任何能够运行 Java 运行时环境 11 版的操作系统上。&lt;/i1></seg>
       </tuv>
     </tu>
     <tu>
@@ -39385,6 +39425,14 @@ later version.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Links are provided below to the various versions of OmegaT. If you are confused about which version to download, you can use the &lt;a0>Download selector&lt;/a0>. Currently, we offer only a Standard version.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T180609Z" creationid="WynnChen" creationdate="20240716T180609Z">
+        <seg>提供旧版本的 OmegaT 链接. 如果您不确定应下载哪个版本，您可以使用 &lt;a0>下载选择&lt;/a0>。目前，我们只提供标准版。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Linux</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190330T075554Z" creationid="WynnChen" creationdate="20190330T075554Z">
@@ -47149,6 +47197,14 @@ unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT will run on any system on which the appropriate JRE (Java Runtime Environment) has been or can be installed. The JRE is now supplied with OmegaT and need not be obtained separately. OmegaT has been successfully installed on Windows (all versions from Windows 8 onwards), macOS and Linux.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T180710Z" creationid="WynnChen" creationdate="20240716T180710Z">
+        <seg>OmegaT 可在任何已安装或可安装相应 JRE（Java 运行环境）的系统上运行。OmegaT 现在自带 JRE，无需单独获取。OmegaT 已在 Windows（从 Windows 8 开始的所有版本）、MacOS 及 Linux 上成功安装。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT will run on the open-implementation source Java packaged with many Linux distributions (for example, Ubuntu), but you may experience bugs, display problems or missing features.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Puzzlist" changedate="20130922T041441Z" creationid="Puzzlist" creationdate="20130922T041441Z">
@@ -47209,6 +47265,14 @@ unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210504T071856Z" creationid="wynnc" creationdate="20210504T071856Z">
         <seg>OmegaT 通常可以在任何能安装合适版本的 Java 运行环境（JRE）的 Linux 系统上运行。OmegaT 目前需要 JRE 1.8 或更高版本。要检查你的 Linux 系统上安装了哪个版本的 JRE（如果有），请打开控制台（命令行窗口）并输入：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT will usually run on any Linux system on which a suitable version of the Java Runtime Environment (JRE) can be be installed. OmegaT currently requires version 11 of the JRE or later. To check what version of the JRE, if any, is installed on your Linux system, open a console (command-line window) and type:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T180638Z" creationid="WynnChen" creationdate="20240716T180638Z">
+        <seg>OmegaT 通常可以在任何能安装合适版本的 Java 运行环境（JRE）的 Linux 系统上运行。OmegaT 目前需要 JRE 11 或更高版本。要检查你的 Linux 系统上安装了哪个版本的 JRE（如果有），请打开控制台（命令行窗口）并输入：</seg>
       </tuv>
     </tu>
     <tu>
@@ -61071,6 +61135,14 @@ subprograms and other parts of the work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The "Standard" version of OmegaT includes a full user manual (at least in English) and will have usually been tested for some time to eliminate any bugs. It is the recommended version for first-time users.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T180648Z" creationid="WynnChen" creationdate="20240716T180648Z">
+        <seg>OmegaT的“标准”版本包含完整的用户手册（至少有英语版本）并且通常已经过一段时间测试来消除各种 Bug。首次使用的用户推荐使用此版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The "Standard" version of OmegaT includes a full user manual (at least in English) and will usually have been tested for some time to eliminate any bugs.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Zenobia Fang" changedate="20180423T134444Z" creationid="Zenobia Fang" creationdate="20180423T134444Z">
@@ -61606,6 +61678,14 @@ form of a work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Contribution Guide source text in the OmegaT repository.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T180531Z" creationid="WynnChen" creationdate="20240716T180531Z">
+        <seg>OmegaT 存储库中的贡献指南原文文本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Corresponding Source for a work in source code form is that
 
 same work.</seg>
@@ -62034,6 +62114,14 @@ software and other kinds of works.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20230103T060402Z" creationid="WynnChen" creationdate="20230103T060402Z">
         <seg>左方括号：&lt;l0>[&lt;/l0></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The OmegaT Contribution Guide.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T180506Z" creationid="WynnChen" creationdate="20240716T180506Z">
+        <seg>OmegaT 贡献指南。</seg>
       </tuv>
     </tu>
     <tu>
@@ -77896,6 +77984,14 @@ of selecting, obtaining and installing it.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190413T080128Z">
         <seg>韦氏国际词典（Webster's Revised Unabridged Dictionary）（1913）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Weekly Builds</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T180741Z" creationid="WynnChen" creationdate="20240716T180741Z">
+        <seg>每周构建</seg>
       </tuv>
     </tu>
     <tu>
