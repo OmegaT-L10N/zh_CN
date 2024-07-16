@@ -24976,6 +24976,14 @@ No one hears your screams</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error load dictionary from '{0}': {1}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T165518Z" creationid="WynnChen" creationdate="20240716T165518Z">
+        <seg>从“{0}”中加载词典出错：{1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error load plugin from class '{0}': {1}: {2}</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190322T062306Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -25060,6 +25068,14 @@ No one hears your screams</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20221128T103108Z" creationid="wynnc" creationdate="20221128T103047Z">
         <seg>将 {0} 作为远程项目文件检索时出错</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error saving ignore words"</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T165537Z" creationid="WynnChen" creationdate="20240716T165537Z">
+        <seg>保存忽略词时出错”</seg>
       </tuv>
     </tu>
     <tu>
@@ -25632,6 +25648,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="zh-CN" changeid="10353" changedate="20180414T103342Z" creationid="10353" creationdate="20180414T103342Z">
         <seg>执行这个文件，现在再打开OmegaT ，应该就能使用分词功能了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Executing command: {0}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T165355Z" creationid="WynnChen" creationdate="20240716T165355Z">
+        <seg>正在执行命令：{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -39283,6 +39307,14 @@ later version.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Loaded dictionary from '{0}': {1} ms</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T165454Z" creationid="WynnChen" creationdate="20240716T165454Z">
+        <seg>已从“{0}”加载词典：{1} 毫秒</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Loading Project</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20221128T105734Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -42389,6 +42421,14 @@ appropriate location such as the Applications folder.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T165257Z" creationid="WynnChen" creationdate="20240716T165257Z">
         <seg>协商得到的 LanguageTool 原文语言：{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Negotiated LanguageTool target language: {0}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T165318Z" creationid="WynnChen" creationdate="20240716T165318Z">
+        <seg>协商得到的 LanguageTool 译文语言：{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -57993,6 +58033,14 @@ of the GPL, as needed to protect the freedom of users.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source tokenizer: {0}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T165344Z" creationid="WynnChen" creationdate="20240716T165344Z">
+        <seg>原文分词器：{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source/translation length (characters)</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T065156Z" creationid="WynnChen" creationdate="20221129T064715Z">
@@ -59988,6 +60036,14 @@ ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190901T170042Z" creationid="Fu Rhong" creationdate="20131127T130038Z">
         <seg>匹配的译文文本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Target tokenizer: {0}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T165349Z" creationid="WynnChen" creationdate="20240716T165349Z">
+        <seg>译文分词器：{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -91522,6 +91578,14 @@ If the project contains files but their content is not displayed here:
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T105856Z" creationid="WynnChen" creationdate="20221209T105856Z">
         <seg>用户的登录名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>using segmentation rules from {0}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T165336Z" creationid="WynnChen" creationdate="20240716T165336Z">
+        <seg>使用 {0} 中的分割规则</seg>
       </tuv>
     </tu>
     <tu>
