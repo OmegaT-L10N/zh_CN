@@ -15694,6 +15694,18 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Bartender yells loud:
+Your page cannot be found, boy
+Buy another drink</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T161810Z" creationid="WynnChen" creationdate="20240716T161810Z">
+        <seg>调酒师大声叫：
+你的页面找不到，
+小子再买杯饮料！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Bartender yells loud:&lt;p>Your page cannot be found, boy&lt;p>Buy another drink.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T154800Z" creationid="wynnc" creationdate="20190320T112944Z">
@@ -24140,6 +24152,18 @@ Your help page not found</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Emptiness of soul
+Forever aching blackness
+Your help page not found</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T161826Z" creationid="WynnChen" creationdate="20240716T161826Z">
+        <seg>灵魂的空虚无界
+永世痛苦的暗夜
+找不到你的帮助页</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Emptiness of soul&lt;p>Forever aching blackness&lt;p>Your help page not found</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T161921Z" creationid="wynnc" creationdate="20190320T113028Z">
@@ -24619,6 +24643,18 @@ No one hears your screams</seg>
 
 死亡蓝屏在你面前
 
+你的尖叫无人听见</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ephemeral page
+I am the Blue Screen of Death
+No one hears your screams</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T161829Z" creationid="WynnChen" creationdate="20240716T161829Z">
+        <seg>页面昙花一现
+死亡蓝屏在你面前
 你的尖叫无人听见</seg>
       </tuv>
     </tu>
@@ -41448,6 +41484,18 @@ Lost to paradise</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mourning and sorrow
+404 not with us now
+Lost to paradise</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T161836Z" creationid="WynnChen" creationdate="20240716T161836Z">
+        <seg>悲痛又哀伤
+404 不再陪伴我们身旁
+迷失在天堂路上</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mourning and sorrow&lt;p>404 not with us now&lt;p>Lost to paradise</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T163704Z" creationid="wynnc" creationdate="20190320T113038Z">
@@ -48195,6 +48243,18 @@ Vanishing like mist</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Page slips through fingers
+Pulse pounding hard and frantic
+Vanishing like mist</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T161814Z" creationid="WynnChen" creationdate="20240716T161814Z">
+        <seg>心脏狂跳似要冲出嗓子
+页面自指缝中流逝
+如迷雾般消失</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Page slips through fingers&lt;p>Pulse pounding hard and frantic&lt;p>Vanishing like mist.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T160639Z" creationid="wynnc" creationdate="20190320T112947Z">
@@ -50685,6 +50745,18 @@ These words: 'Page not found'</seg>
 
 也没有粗鲁的出错讯息
 
+“页面找不到”就是全部的东西</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Rather than beep
+Or a rude error message
+These words: 'Page not found'</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T161832Z" creationid="WynnChen" creationdate="20240716T161832Z">
+        <seg>不会哔哔哔
+也没有粗鲁的出错讯息
 “页面找不到”就是全部的东西</seg>
       </tuv>
     </tu>
@@ -62973,6 +63045,18 @@ But others await</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The help page you seek
+Lies beyond our perception
+But others await</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T161823Z" creationid="WynnChen" creationdate="20240716T161823Z">
+        <seg>你所寻找的页面
+超越我们的观念
+但其余仍待你发现</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The help page you seek&lt;p>Lies beyond our perception&lt;p>But others await</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T161224Z" creationid="wynnc" creationdate="20190320T113026Z">
@@ -66500,6 +66584,18 @@ You, victim of one</seg>
 
 死亡、税收、和找不到页面的问题。
 
+你，受害于其中之一。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These three are certain:
+Death, taxes, and page not found
+You, victim of one</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T161817Z" creationid="WynnChen" creationdate="20240716T161817Z">
+        <seg>世间三事确定无疑：
+死亡、税收、和找不到页面的问题。
 你，受害于其中之一。</seg>
       </tuv>
     </tu>
