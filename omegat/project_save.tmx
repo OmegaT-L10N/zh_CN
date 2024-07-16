@@ -36509,6 +36509,14 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Integral spelling checker that uses Hunspell dictionaries (same as in other software such as LibreOffice or Mozilla FireFox)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T181410Z" creationid="WynnChen" creationdate="20240716T181410Z">
+        <seg>使用 Hunspell 词典的集成拼写检查器（与诸如 LibreOffice 或 Mozilla FireFox 等其他软件相同）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Integrates the Apertium machine translation functionality into OmegaT.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221128T124829Z" creationid="18261" creationdate="20180413T022730Z">
@@ -41542,6 +41550,14 @@ later version.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190831T063340Z">
         <seg>Microsoft Office Open XML 文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Microsoft Office Word, Excel, PowerPoint (2007 or later)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T181157Z" creationid="WynnChen" creationdate="20240716T181157Z">
+        <seg>Microsoft Office Word、Excel、PowerPoint（2007 或更高版本）</seg>
       </tuv>
     </tu>
     <tu>
@@ -48385,6 +48401,14 @@ unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221209T103754Z" creationid="wynnc" creationdate="20190322T072722Z">
         <seg>OpenDocument 筛选器选项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OpenDocument Format (native file format for LibreOffice, Apache OpenOffice)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T181229Z" creationid="WynnChen" creationdate="20240716T181229Z">
+        <seg>OpenDocument 格式（LibreOffice 和  Apache OpenOffice 的原生文件格式）</seg>
       </tuv>
     </tu>
     <tu>
@@ -73307,6 +73331,14 @@ Use Tools > Check Issues... to correct the tag errors and try again.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unicode support: can be used with various alphabets and scripts</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T181301Z" creationid="WynnChen" creationdate="20240716T181301Z">
+        <seg>Unicode支持：可用于非拉丁字母和文本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Uninstalling OmegaT</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="lenovo" changedate="20180420T062242Z" creationid="lenovo" creationdate="20180415T131613Z">
@@ -93133,6 +93165,14 @@ If the project contains files but their content is not displayed here:
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190324T040646Z" creationid="wynnc" creationdate="20190324T040646Z">
         <seg>“{0}”({1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>…and around 30 other file formats</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T181236Z" creationid="WynnChen" creationdate="20240716T181236Z">
+        <seg>……和近 30 种其他文件格式</seg>
       </tuv>
     </tu>
     <tu>
