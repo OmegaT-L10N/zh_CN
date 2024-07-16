@@ -10473,6 +10473,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0>&lt;a1>{{site.data.versions.standard.name}}&lt;/a1>&lt;/s0> Latest Version</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T181549Z" creationid="WynnChen" creationdate="20240716T181549Z">
+        <seg>&lt;s0>&lt;a1>{{site.data.versions.standard.name}}&lt;/a1>&lt;/s0> 最新版</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0>&lt;a1>{{site.data.versions.standard.name}}&lt;/a1>&lt;/s0> Standard Version</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="18261" changedate="20180412T095952Z" creationid="18261" creationdate="20180412T095952Z">
@@ -13525,6 +13533,14 @@ rights of fair use or other equivalent, as provided by copyright law.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190522T041036Z" creationid="WynnChen" creationdate="20190522T041036Z">
         <seg>还支持 CSV 格式。该格式和制表符分隔的格式一样：原文词汇、译文词汇。注释字段则以逗号“,”分隔。字符串可以用引号“"”括起来，这样就允许字符串内部出现逗号：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Also, consider testing &lt;a0>weekly builds&lt;/a0> of OmegaT that may contain even more new and fascinating bugs!</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T181700Z" creationid="WynnChen" creationdate="20240716T181700Z">
+        <seg>此外，可以考虑测试 OmegaT 的 &lt;a0>weekly builds&lt;/a0>，其中可能有更多更新更神奇的 Bug！</seg>
       </tuv>
     </tu>
     <tu>
@@ -19045,6 +19061,14 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190523T020648Z" creationid="18261" creationdate="20180412T084238Z">
         <seg>兼容其他翻译记忆应用程序（TMX、TTX、TXML、XLIFF、SDLXLIFF）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Compatible with other translation memory applications via exchange formats such as TMX, TTX, TXML, XLIFF, SDLXLIFF</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T181449Z" creationid="WynnChen" creationdate="20240716T181449Z">
+        <seg>通过 TMX、TTX、TXML、XLIFF、SDLXLIFF 等交换格式与其他翻译记忆应用程序兼容</seg>
       </tuv>
     </tu>
     <tu>
@@ -36561,6 +36585,14 @@ everything.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190523T020741Z" creationid="18261" creationdate="20180412T084405Z">
         <seg>与 Google 翻译的接口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Interface to machine translation/neural machine translation software/Web services</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T181539Z" creationid="WynnChen" creationdate="20240716T181539Z">
+        <seg>对接机器翻译/神经网络机器翻译软件/网络服务</seg>
       </tuv>
     </tu>
     <tu>
