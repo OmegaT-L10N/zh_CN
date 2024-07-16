@@ -23338,6 +23338,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Double click on the package you downloaded to unpack it. This creates a folder called &lt;c0>OmegaT&lt;/c0>. The folder contains two files: &lt;c1>index.html&lt;/c1> (the user guide index) and &lt;c2>OmegaT.app&lt;/c2> (the application). Copy the folder to a suitable location (e.g. &lt;c3>Applications&lt;/c3>).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T182454Z" creationid="WynnChen" creationdate="20240716T182454Z">
+        <seg>双击您所下载的软件包来将其解压。这会创建一个名为 &lt;c0>OmegaT&lt;/c0> 的文件夹。此文件夹包含两个文件：&lt;c1>index.html&lt;/c1>（用户指南索引）和 &lt;c2>OmegaT.app&lt;/c2>（应用程序）。将文件夹复制到合适的位置（例如 &lt;c3>Applications&lt;/c3>）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Double click on the package you downloaded to unpack it. This creates a folder called &lt;f0>OmegaT&lt;/f0>. The folder contains two files: &lt;f1>index.html&lt;/f1> (the user manual entry file) and &lt;f2>OmegaT.app&lt;/f2> (the application). Copy the folder to a suitable location (e.g. &lt;f3>Applications&lt;/f3>).</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20230718T081951Z" creationid="WynnChen" creationdate="20230718T081951Z">
@@ -25513,6 +25521,14 @@ No one hears your screams</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T112057Z" creationid="wynnc" creationdate="20190320T045507Z">
         <seg>事件：项目变更 - “{0}”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Eventually, drag and drop &lt;c0>OmegaT.app&lt;/c0> onto the Dock to easily access it.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T182525Z" creationid="WynnChen" creationdate="20240716T182525Z">
+        <seg>最后，将 &lt;c0>OmegaT.app&lt;/c0> 拖放到 Dock 上以便于访问。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47821,6 +47837,14 @@ unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Once you have done this, you can delete the downloaded file as it is no longer needed.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T182533Z" creationid="WynnChen" creationdate="20240716T182533Z">
+        <seg>完成此操作后，您可以删除下载的文件，因为已不再需要它。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Once you have done this, you can delete the downloaded package as it is no longer needed.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20230718T082051Z" creationid="WynnChen" creationdate="20230718T082051Z">
@@ -53972,6 +53996,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T090410Z" creationid="wynnc" creationdate="20190320T090410Z">
         <seg>运行于 Java {0} ({1}-bit)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Running the script will require you to enter your &lt;c0>sudo&lt;/c0> password.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T182330Z" creationid="WynnChen" creationdate="20240716T182330Z">
+        <seg>运行此脚本将要求您输入 &lt;c0>sudo&lt;/c0> 密码。</seg>
       </tuv>
     </tu>
     <tu>
@@ -66084,6 +66116,14 @@ protocols for communication across the network.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The script checks for an existing installation of the same OmegaT version in &lt;c0>/opt/omegat/&lt;/c0>. If there isn’t one, it installs the program in &lt;c1>/opt/omegat/OmegaT_{{site.data.versions.standard.name}}&lt;/c1> and sets it as the default version (in &lt;c2>/opt/omegat/OmegaT-default&lt;/c2>).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T182414Z" creationid="WynnChen" creationdate="20240716T182414Z">
+        <seg>此脚本会检查 &lt;c0>/opt/omegat/&lt;/c0> 中是否已经安装有相同版本的 OmegaT。如果没有，它会将程序安装在 &lt;c1>/opt/omegat/OmegaT_{{site.data.versions.standard.name}}&lt;/c1> 中并将其设置为默认版本（在 &lt;c2>/opt/omegat/OmegaT-default&lt;/c2> 中）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The script checks for an existing installation of the same OmegaT version in &lt;f0>/opt/omegat/&lt;/f0>. If there isn’t one, it installs the program in &lt;f1>/opt/omegat/OmegaT_6.1.0&lt;/f1> and sets it as the default version (in &lt;f2>/opt/omegat/OmegaT-default&lt;/f2>).</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20230718T075700Z" creationid="WynnChen" creationdate="20230718T075700Z">
@@ -69247,6 +69287,14 @@ the server.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190902T104637Z" creationid="wynnc" creationdate="20190902T104637Z">
         <seg>此处的信息仅适用于 OmegaT 的“传统”Windows 版本。它不适用于自动升级的 Web Start 版本，也不适用于安装在 Windows 上的跨平台版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This information applies to all systems that have a Java version compatible with Java {{site.data.versions.standard.java_version}} Runtime Environment. That includes the platforms described above, but also the platforms for which specific packages are not provided.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T182714Z" creationid="WynnChen" creationdate="20240716T182714Z">
+        <seg>此信息适用于有兼容于 Java {{site.data.versions.standard.java_version}} 运行时环境兼容的 Java 版本的所有系统。这包括上述平台，但也包括未提供专门软件包的平台。</seg>
       </tuv>
     </tu>
     <tu>
