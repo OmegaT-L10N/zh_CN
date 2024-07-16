@@ -4444,6 +4444,22 @@ not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>./gradlew run</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T152720Z" creationid="WynnChen" creationdate="20240716T152720Z">
+        <seg>./gradlew run</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>./gradlew tasks</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T152746Z" creationid="WynnChen" creationdate="20240716T152746Z">
+        <seg>./gradlew tasks</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>.csv</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T101627Z" creationid="WynnChen" creationdate="20221212T101627Z">
@@ -21594,6 +21610,14 @@ Some filters do not allow encoding modifications.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Zenobia Fang" changedate="20180423T154927Z" creationid="Zenobia Fang" creationdate="20180423T154927Z">
         <seg>详细说明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Detailed instructions on building OmegaT can be found in the &lt;u0>README.txt&lt;/u0> file located in the &lt;f1>docs_devel&lt;/f1> subfolder.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T152852Z" creationid="WynnChen" creationdate="20240716T152852Z">
+        <seg>位于 &lt;f1>docs_devel&lt;/f1> 子文件夹中的 &lt;u0>README.txt&lt;/u0> 文件内有构建 OmegaT 的详细说明。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44914,6 +44938,14 @@ OmegaT 使用了以下库：
       </tuv>
       <tuv lang="zh-CN" changeid="lenovo" changedate="20180415T143117Z" creationid="lenovo" creationdate="20180415T143117Z">
         <seg>OmegaT是一款免费的开源翻译记忆程序。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT is a robust and trustworthy application, but even so, it is smart to take precautions to guard against data loss when using it, just as with any other application.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T153043Z" creationid="WynnChen" creationdate="20240716T153043Z">
+        <seg>OmegaT 是一款健壮且值得信赖的应用程序，但即便如此，和使用任何其他应用程序一样，在使用它时采取预防措施以防止数据丢失也是明智之举。</seg>
       </tuv>
     </tu>
     <tu>
@@ -78552,6 +78584,14 @@ from there.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="lenovo" changedate="20180420T061814Z" creationid="think" creationdate="20180416T085623Z">
         <seg>例如，您可以使用它来选择用户界面语言，为 OmegaT 分配更多内存，或输入  Google 翻译密码。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can get a list of all available tasks by typing:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T152752Z" creationid="WynnChen" creationdate="20240716T152743Z">
+        <seg>可以输入以下内容列出所有可用任务：</seg>
       </tuv>
     </tu>
     <tu>
