@@ -2938,6 +2938,17 @@ not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(The Java executable file is the file java on Linux and java.exe on Windows.  If
+Java is installed at system level and is in the command path, the full path need
+not be entered.)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T170157Z" creationid="WynnChen" creationdate="20240716T170157Z">
+        <seg>（所谓 Java 可执行文件，在 Linux 下是 java 文件，在 Windows 下则是 java.exe 文件。
+如果 Java 是在系统级安装的且处于命令行路径中，则无需输入完整路径。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(The definition of “unique” is case-sensitive: "Run" and "run" are treated as being different)</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="xulihang" changedate="20180404T033741Z">
@@ -19452,6 +19463,16 @@ Zoltan Bartko, Volker Berlin, Didier Briel (development manager), Kim Bruning, A
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Contributors
+============</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T170201Z" creationid="WynnChen" creationdate="20240716T170201Z">
+        <seg>贡献者
+============</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Convenient alternative functions or solutions may also exist.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="18261" changedate="20180412T131340Z" creationid="18261" creationdate="20180412T131340Z">
@@ -21025,6 +21046,16 @@ unpacking, reading or copying.</seg>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190326T155528Z" creationid="WynnChen" creationdate="20190326T155528Z">
         <seg>当前团队：
 
+（按字母顺序）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Current team:
+(alphabetical order)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T175935Z" creationid="WynnChen" creationdate="20240716T175935Z">
+        <seg>当前团队：
 （按字母顺序）</seg>
       </tuv>
     </tu>
@@ -27367,6 +27398,18 @@ can then launch the Kaptain launch script with:</seg>
 
 脚本（omegat.kaptn）。要使用此脚本，必须先安装 Kaptain。
 
+然后，可以这样启动 Kaptain 启动脚本：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For a more user-friendly way of launching OmegaT, you can use the Kaptain script
+provided (omegat.kaptn). To use this script you must first install Kaptain. You
+can then launch the Kaptain launch script with:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T170151Z" creationid="WynnChen" creationdate="20240716T170151Z">
+        <seg>要以对用户更友好的方式启动 OmegaT，您可以使用所提供的 Kaptain
+脚本（omegat.kaptn）。要使用此脚本，必须先安装 Kaptain。
 然后，可以这样启动 Kaptain 启动脚本：</seg>
       </tuv>
     </tu>
@@ -38710,6 +38753,16 @@ later version.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Launching OmegaT (Linux)
+========================</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T170147Z" creationid="WynnChen" creationdate="20240716T170147Z">
+        <seg>启动 OmegaT（Linux）
+========================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Launching OmegaT (Mac)
 
 ======================</seg>
@@ -38717,6 +38770,16 @@ later version.</seg>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190325T165554Z" creationid="WynnChen" creationdate="20190325T165554Z">
         <seg>启动 OmegaT（Mac）
 
+======================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Launching OmegaT (Mac)
+======================</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T170138Z" creationid="WynnChen" creationdate="20240716T170138Z">
+        <seg>启动 OmegaT（Mac）
 ======================</seg>
       </tuv>
     </tu>
@@ -38767,6 +38830,16 @@ later version.</seg>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190325T170030Z" creationid="WynnChen" creationdate="20190325T170030Z">
         <seg>从命令行启动 OmegaT（所有平台）
 
+====================================================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Launching OmegaT from the command line (all systems)
+====================================================</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T170153Z" creationid="WynnChen" creationdate="20240716T170153Z">
+        <seg>从命令行启动 OmegaT（所有平台）
 ====================================================</seg>
       </tuv>
     </tu>
@@ -80828,6 +80901,17 @@ the Spotlight search field.</seg>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20200116T064003Z" creationid="WynnChen" creationdate="20200116T062802Z">
         <seg>你可以将 OmegaT 应用程序拖动到程序坞（dock）面板或访达（Finder）窗口的工具栏
 
+以便从任意位置启动它。您还可以从聚焦搜索（Spotlight search）的搜索区中启动它。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You may drag the OmegaT application to your dock or to the toolbar of a Finder
+window to be able to launch it from any location. You can also launch it from
+the Spotlight search field.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T170145Z" creationid="WynnChen" creationdate="20240716T170145Z">
+        <seg>你可以将 OmegaT 应用程序拖动到程序坞（dock）面板或访达（Finder）窗口的工具栏
 以便从任意位置启动它。您还可以从聚焦搜索（Spotlight search）的搜索区中启动它。</seg>
       </tuv>
     </tu>
