@@ -48100,6 +48100,14 @@ Vanishing like mist</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Parameter files that are included in the downloaded OmegaT package (especially the &lt;f0>OmegaT.l4J.ini&lt;/f0> for &lt;l1>Windows&lt;/l1> and the &lt;f2>Configuration.properties&lt;/f2> and &lt;f3>Info.plist&lt;/f3> files for &lt;l4>macOS&lt;/l4> packages) might be overwritten or deleted, so you may want to create a backup before upgrading, if you have been using these files to modify OmegaT’s launch parameters.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T150255Z" creationid="WynnChen" creationdate="20240716T150255Z">
+        <seg>下载的 OmegaT 包中有包含的参数文件（特别是 &lt;l1>Windows&lt;/l1> 包中的 &lt;f0>OmegaT.l4J.ini&lt;/f0> 和 &lt;l4>macOS&lt;/l4> 包中的 &lt;f2>Configuration.properties&lt;/f2> 和 &lt;f3>Info.plist&lt;/f3> 文件）则可能会被覆盖或删除，因此，如果你在使用这些文件来修改 OmegaT 的启动参数，则可能需要在升级前将其备份。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Parentheses are always used in opening and closing pairs. Trying to use only the opening or closing parenthesis on its own will cause an error.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20230103T055653Z" creationid="WynnChen" creationdate="20230103T055653Z">
@@ -50087,6 +50095,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190410T101048Z" creationid="WynnChen" creationdate="20190410T101048Z">
         <seg>可以根据您的开发风格和需求来管理项目。与 OmegaT 项目类似，您需要为不同的语言对提供各自的存储库。在给定的语言对中，最好同样保持不同的主题和/或客户分处单独的存储库。另一种方法是让单个存储库中包含子文件夹 &lt;l0>Project1&lt;/l0>、&lt;l1>Project2&lt;/l1> 等，并通过公用的 &lt;l2>tm&lt;/l2>、&lt;l3>glossary&lt;/l3> 和 &lt;l4>dictionary&lt;/l4> 文件夹来共享公共资料。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Projects that you have created in the past or are currently using will &lt;e0>not&lt;/e0> be modified or deleted. OmegaT projects are &lt;e1>not&lt;/e1> stored inside OmegaT. They are separate objects that have no physical connection to the OmegaT application itself.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T145935Z" creationid="WynnChen" creationdate="20240716T145935Z">
+        <seg>过往创建的或当前正在使用的项目&lt;e0>不会&lt;/e0>被删除或修改。OmegaT 的项目并&lt;e1>不&lt;/e1>存储在 OmegaT 内。它们是独立的对象，与 OmegaT 应用程序本身并没有天然的连接。</seg>
       </tuv>
     </tu>
     <tu>
