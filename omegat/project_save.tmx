@@ -21764,6 +21764,14 @@ Some filters do not allow encoding modifications.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Detect a wrong character encoding or wrong character in specified encoding when output to translation file. Please check your project configuration and translations.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T163353Z" creationid="WynnChen" creationdate="20240716T163353Z">
+        <seg>在输出到译文文件时，检测到在指定编码中错误的字符编码或错误的字符。请检查项目配置和译文。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Detecting...</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T142657Z" creationid="wynnc" creationdate="20190323T142657Z">
@@ -22729,6 +22737,14 @@ giving you legal permission to copy, distribute and/or modify it.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20230227T123624Z" creationid="WynnChen" creationdate="20230227T123624Z">
         <seg>不要在 Ms. 之后进行分割</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do not translate property if it has a NOI18N comment</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T163426Z" creationid="WynnChen" creationdate="20240716T163426Z">
+        <seg>不翻译带有 NOI18N 注释的属性</seg>
       </tuv>
     </tu>
     <tu>
@@ -26108,6 +26124,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Failed to instantiate filter: {0}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T163244Z" creationid="WynnChen" creationdate="20240716T163244Z">
+        <seg>无法实例化过滤器：{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Failed to load specified project!</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20221128T105454Z" creationid="wynnc" creationdate="20190320T045507Z">
@@ -26179,6 +26203,16 @@ Make sure all links are outside the source folder and subfolders.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20230718T062214Z" creationid="WynnChen" creationdate="20230718T062214Z">
         <seg>无法为项目加载翻译记忆库 {0}。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to load translation memory: {0}
+Some attributes have invalid values. Use a TMX validator to find and fix them.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T163222Z" creationid="WynnChen" creationdate="20240716T163222Z">
+        <seg>无法加载翻译记忆库：{0}
+某些属性的值无效。用 TMX 验证器来查找并修复它们。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39061,6 +39095,14 @@ later version.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190405T140151Z" creationid="Fu Rhong" creationdate="20131108T122011Z">
         <seg>通过单击左侧面板列表中的脚本名称将它加载到编辑器中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Load project source files: {0} ms</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T163233Z" creationid="WynnChen" creationdate="20240716T163233Z">
+        <seg>加载项目原文文件：{0} 毫秒</seg>
       </tuv>
     </tu>
     <tu>
@@ -56705,6 +56747,14 @@ Invalid link: {0}</seg>
 因为指定的原文文件夹包含指向其自身或子文件夹的符号链接或硬链接。
 请确保所有链接都在原文文件夹或其子文件夹之外。
 无效链接：{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Skipped one or more source files due to an access permission error in the source folder. Check the permissions of {0}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T163145Z" creationid="WynnChen" creationdate="20240716T163145Z">
+        <seg>由于原文文件夹中的访问权限错误，跳过了一个或多个原文文件。检查 {0} 的权限</seg>
       </tuv>
     </tu>
     <tu>
