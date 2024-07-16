@@ -45272,6 +45272,14 @@ to be launched.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT keeps up to ten of those files.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T153445Z" creationid="WynnChen" creationdate="20240716T153445Z">
+        <seg>Omegat 最多会保留十个此类文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT leaves the editing field blank.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Administrator" changedate="20180411T084126Z">
@@ -45656,8 +45664,8 @@ OmegaT 现在将终止。</seg>
       <tuv lang="en">
         <seg>OmegaT regularly and automatically stores all your progress in the &lt;l0/> file located in the project’s &lt;l1/> folder. OmegaT also creates regular backups of that file.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T153331Z" creationid="WynnChen" creationdate="20240716T153331Z">
-        <seg>OmegaT 会定期自动地将您的所有进度存储在项目的 &lt;l1/> 文件夹中的 &lt;l0/> 文件内。OmegaT 还会定期为此文件创建备份。</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T153338Z" creationid="WynnChen" creationdate="20240716T153331Z">
+        <seg>OmegaT 会定期自动地将您的所有进度存储在项目的 &lt;l1/> 文件夹中的 &lt;l0/> 文件内。OmegaT 还会定期备份此文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -61282,6 +61290,14 @@ Please try to correct the error and reload the project.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The backup filename follows the pattern &lt;f0>project_save.tmx.YYYYMMDDhhmm.bak&lt;/f0> where &lt;c1>YYYY&lt;/c1> represents the 4-digit year, &lt;c2>MM&lt;/c2> the month, &lt;c3>DD&lt;/c3> the day of the month, and &lt;c4>hh&lt;/c4> and &lt;c5>mm&lt;/c5> indicate the hours and minutes.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T153740Z" creationid="WynnChen" creationdate="20240716T153740Z">
+        <seg>备份的文件名遵循 &lt;f0>project_save.tmx.YYYYMMDDhhmm.bak&lt;/f0> 的模式，其中 &lt;c1>YYYY&lt;/c1> 表示 4 位数的年份、&lt;c2>MM&lt;/c2> 表示月份、&lt;c3>DD&lt;/c3> 表示月份中的日期、&lt;c4>hh&lt;/c4> 和 &lt;c5>mm&lt;/c5> 表示小时和分钟。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The bash script is a very basic file that can be edited manually with command-line options for launching and configuring OmegaT.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="lenovo" changedate="20180420T061752Z" creationid="think" creationdate="20180416T085303Z">
@@ -76853,6 +76869,14 @@ technological measures.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20200122T084919Z" creationid="WynnChen" creationdate="20200122T084808Z">
         <seg>当您移动至下一片段时，将自动选择第一个模糊匹配（拥有最佳匹配度百分比的那个）。您可以通过按下 &lt;g0>Ctrl+2、3、4、或 5&lt;/g0> 来选择其他匹配项。显然，如果没有第五个匹配，按下 &lt;k1> &lt;k2>Ctrl&lt;/k2> &lt;k3>5&lt;/k3> &lt;/k1>就不会有效果。要在译文中使用选定的匹配项，用 &lt;g4>Ctrl+R&lt;/g4> 来将译文区域替换为匹配内容，或用 &lt;g5>Ctrl+I &lt;/g5> 来将其插入到光标位置处。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When you open a project, OmegaT backs up the &lt;f0>project_save.tmx&lt;/f0> file to a timestamped backup file.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T153426Z" creationid="WynnChen" creationdate="20240716T153332Z">
+        <seg>在打开项目时，OmegaT 会将 &lt;f0>project_save.tmx&lt;/f0> 文件备份成一个带有时间戳的备份文件。</seg>
       </tuv>
     </tu>
     <tu>
