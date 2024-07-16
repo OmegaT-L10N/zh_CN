@@ -16863,6 +16863,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Can't read spelling dictionary: {0}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T164619Z" creationid="WynnChen" creationdate="20240716T164619Z">
+        <seg>无法读取拼写词典：{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cancel</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T122858Z" creationid="wynnc" creationdate="20190323T122858Z">
@@ -24984,6 +24992,22 @@ No one hears your screams</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error loading hunspell: {0}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T164516Z" creationid="WynnChen" creationdate="20240716T164516Z">
+        <seg>加载 hunspell 时出错：{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error loading jmyspell: {0}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T164601Z" creationid="WynnChen" creationdate="20240716T164601Z">
+        <seg>加载 jmyspell 时出错：{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error loading plugin from class '{0}': {1}: {2}</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T080846Z" creationid="WynnChen" creationdate="20221129T080434Z">
@@ -25816,6 +25840,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T093910Z" creationid="WynnChen" creationdate="20221129T093910Z">
         <seg>外部GPG未返回有效签名；得到的是：{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>External GPG returns an invalid signature; got: {0}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T164334Z" creationid="WynnChen" creationdate="20240716T164334Z">
+        <seg>外部 GPG 返回无效签名；得到：{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -35430,6 +35462,22 @@ patent against the party.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Initialized JMySpell spell checker for language '{0}' dictionary {1}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T164531Z" creationid="WynnChen" creationdate="20240716T164531Z">
+        <seg>已为语言 '{0}' 词典 {1} 初始化 JMySpell 拼写检查器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Initialized LanguageTool Hunspell spell checker for language '{0}' dictionary {1}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T164512Z" creationid="WynnChen" creationdate="20240716T164512Z">
+        <seg>已为语言 '{0}' 词典 {1} 初始化 LanguageTool Hunspell 拼写检查器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Initialized {0}-{1} team project.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190325T160733Z" creationid="wynnc" creationdate="20190320T084827Z">
@@ -42823,6 +42871,14 @@ measures.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T123550Z" creationid="wynnc" creationdate="20190320T045507Z">
         <seg>未设置脚本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No spell checker found for language {0}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T164337Z" creationid="WynnChen" creationdate="20240716T164337Z">
+        <seg>找不到语言 {0} 的拼写检查器</seg>
       </tuv>
     </tu>
     <tu>
@@ -58193,6 +58249,22 @@ All sets that match the project source language are applied.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="chloechao" changedate="20180412T090935Z" creationid="chloechao" creationdate="20180412T090935Z">
         <seg>拼写词典</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Spelling dictionary appears to be empty: {0}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T164623Z" creationid="WynnChen" creationdate="20240716T164623Z">
+        <seg>拼写词典似乎为空：{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Spelling dictionary exists but is not a file: {0}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T164609Z" creationid="WynnChen" creationdate="20240716T164609Z">
+        <seg>拼写词典存在但不是文件：{0}</seg>
       </tuv>
     </tu>
     <tu>
