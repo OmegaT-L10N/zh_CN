@@ -64780,6 +64780,14 @@ protocols for communication across the network.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The source code for the current version can either be downloaded directly from the OmegaT &lt;u0>download page&lt;/u0>, or cloned from the &lt;u1>Sourceforge&lt;/u1> or &lt;u2>GitHub&lt;/u2> repositories.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T152417Z" creationid="WynnChen" creationdate="20240716T152417Z">
+        <seg>当前版本的源代码可以直接在 OmegaT 的&lt;u0>下载页面&lt;/u0>下载，也可以从 &lt;u1>Sourceforge&lt;/u1> 或 &lt;u2>GitHub&lt;/u2> 存储库克隆。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The source file language entered is invalid!</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T071516Z" creationid="wynnc" creationdate="20190320T181053Z">
