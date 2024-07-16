@@ -21212,6 +21212,14 @@ Some filters do not allow encoding modifications.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Dark theme:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T163035Z" creationid="WynnChen" creationdate="20240716T163008Z">
+        <seg>暗色主题：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Data exported from Trados MultiTerm can be used as &lt;a0>OmegaT&lt;/a0> glossaries without further modification, provided they are given the file extension &lt;f1>.tab&lt;/f1> and the source and target term fields are the first two fields respectively.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="xulihang" changedate="20180404T021248Z">
@@ -28525,8 +28533,8 @@ authors of previous versions.</seg>
       <tuv lang="en">
         <seg>GO</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T162624Z" creationid="WynnChen" creationdate="20240716T162624Z">
-        <seg>GO</seg>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T162828Z" creationid="WynnChen" creationdate="20240716T162624Z">
+        <seg>前往</seg>
       </tuv>
     </tu>
     <tu>
@@ -30202,6 +30210,14 @@ Note: not all filters allow you to select an encoding.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20230221T083322Z" creationid="WynnChen" creationdate="20230221T083322Z">
         <seg>高亮含备注的片段(&amp;W)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Highlight Segments with Alternative Translation</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T162938Z" creationid="WynnChen" creationdate="20240716T162938Z">
+        <seg>高亮有多重译文的片段</seg>
       </tuv>
     </tu>
     <tu>
@@ -38773,6 +38789,14 @@ later version.</seg>
         <seg>许可信息
 
 =====================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Light theme:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T163005Z" creationid="WynnChen" creationdate="20240716T163005Z">
+        <seg>浅色主题：</seg>
       </tuv>
     </tu>
     <tu>
@@ -50416,6 +50440,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Project files:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T162831Z" creationid="WynnChen" creationdate="20240716T162831Z">
+        <seg>项目文件：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Project folder</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20200123T012601Z" creationid="WynnChen" creationdate="20200123T012601Z">
@@ -50636,6 +50668,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="xulihang" changedate="20180408T105614Z">
         <seg>属性...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Provided URL is invalid.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T162842Z" creationid="WynnChen" creationdate="20240716T162842Z">
+        <seg>提供的 URL 无效。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56654,6 +56694,21 @@ When using regular expressions, the replacement string supports references to gr
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Skipped one or more source files
+because the specified source folder contains a symbolic or hard link
+that points back to itself or one of its subfolders.
+Make sure all links are outside the source folder and subfolders.
+Invalid link: {0}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T163122Z" creationid="WynnChen" creationdate="20240716T163122Z">
+        <seg>跳过了一个或多个原文文件，
+因为指定的原文文件夹包含指向其自身或子文件夹的符号链接或硬链接。
+请确保所有链接都在原文文件夹或其子文件夹之外。
+无效链接：{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Skipped some source file(s)
 
 because the specified source folder contains a symbolic or hard link
@@ -58718,6 +58773,14 @@ All sets that match the project source language are applied.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190323T113153Z" creationid="wynnc" creationdate="20190323T113153Z">
         <seg>切换至内建版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sync with OS colour preference</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T163050Z" creationid="WynnChen" creationdate="20240716T163050Z">
+        <seg>与操作系统颜色首选项同步</seg>
       </tuv>
     </tu>
     <tu>
@@ -66321,6 +66384,14 @@ protocols for communication across the network.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Theme</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T163000Z" creationid="WynnChen" creationdate="20240716T163000Z">
+        <seg>主题</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Theme:</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210916T040836Z" creationid="wynnc" creationdate="20210916T040836Z">
@@ -71793,6 +71864,14 @@ Exact searches match the whole search string.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>UI Style</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T162957Z" creationid="WynnChen" creationdate="20240716T162957Z">
+        <seg>UI 样式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>UNL</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190515T044828Z" creationid="WynnChen" creationdate="20190515T044828Z">
@@ -71813,6 +71892,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221212T022900Z" creationid="wynnc" creationdate="20190320T180714Z">
         <seg>URL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>URL Error</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T162852Z" creationid="WynnChen" creationdate="20240716T162852Z">
+        <seg>URL 错误</seg>
       </tuv>
     </tu>
     <tu>
