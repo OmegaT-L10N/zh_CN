@@ -25968,6 +25968,17 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Failed to load the project because the specified source folder contains a symbolic or hard link that points back to itself or one of its subfolders.
+Make sure all links are outside the source folder and subfolders.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T160319Z" creationid="WynnChen" creationdate="20240716T160319Z">
+        <seg>项目加载失败，因为指定的原文文件夹包含指向其自身或子文件夹的符号链接或硬链接。
+请确保所有链接都在原文文件夹或其子文件夹之外。
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Failed to load the project due to a file access issue. Make sure you have the correct permissions or that you can access the files if they are stored in the cloud.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20230718T062428Z" creationid="WynnChen" creationdate="20230718T062428Z">
@@ -25984,6 +25995,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Failed to load the specified project!</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T155309Z" creationid="WynnChen" creationdate="20240716T155309Z">
+        <seg>无法加载指定项目！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Failed to load the specified project.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20230718T062217Z" creationid="WynnChen" creationdate="20230718T062217Z">
@@ -25995,6 +26014,14 @@ Gossamer threads hold you back
         <seg>Failed to load translation memory {0} for project!</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T110523Z" creationid="wynnc" creationdate="20190320T045507Z">
+        <seg>无法为项目加载翻译记忆库 {0}！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to load translation memory {0} for the project!</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T155305Z" creationid="WynnChen" creationdate="20240716T155305Z">
         <seg>无法为项目加载翻译记忆库 {0}！</seg>
       </tuv>
     </tu>
@@ -45354,6 +45381,16 @@ Reload the project now?</seg>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20221129T064408Z" creationid="WynnChen" creationdate="20221129T064408Z">
         <seg>OmegaT 需要重新加载项目才能让修改生效。
 
+是否立即重新加载项目？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT needs to reload the project to take the modifications into account.
+Reload the project now?</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T155257Z" creationid="WynnChen" creationdate="20240716T155257Z">
+        <seg>OmegaT 需要重新加载项目才能让修改生效。
 是否立即重新加载项目？</seg>
       </tuv>
     </tu>
