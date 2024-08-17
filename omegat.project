@@ -38,8 +38,6 @@
             </repository>
             <repository type="http" url="https://raw.githubusercontent.com/omegat-org/omegat/releases/">
                 <mapping local="source/6.0/Bundle.properties" repository="6.0/src/org/omegat/Bundle.properties"/>
-            </repository>
-            <repository type="http" url="https://raw.githubusercontent.com/omegat-org/omegat/releases/">
                 <mapping local="source/5.8/Bundle.properties" repository="5.8/src/org/omegat/Bundle.properties"/>
             </repository>
             <repository type="git" url="https://github.com/omegat-l10n/omegat-website.git">
@@ -47,7 +45,7 @@
                    <excludes>**/howtos/**</excludes>
                 </mapping>
                 <mapping local="source/website/yml/zh_CN.yml" repository="_i18n/en.yml"/>
-            </repository>            
+            </repository>
         </repositories>
     </project>
 </omegat>
