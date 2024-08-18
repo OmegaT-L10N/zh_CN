@@ -29928,6 +29928,14 @@ authors of previous versions.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Got error during autosaving: {0}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240818T125644Z" creationid="WynnChen" creationdate="20240818T125644Z">
+        <seg>在自动保存过程中出错：{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Got unexpected HTTP response {0}</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210916T041321Z" creationid="wynnc" creationdate="20210916T041321Z">
@@ -40117,6 +40125,14 @@ later version.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190320T045507Z" creationid="wynnc" creationdate="20190320T045507Z">
         <seg>位置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Lock trying timeout during autosave</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240818T125654Z" creationid="WynnChen" creationdate="20240818T125630Z">
+        <seg>自动保存过程中锁定尝试超时</seg>
       </tuv>
     </tu>
     <tu>
@@ -54636,6 +54652,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20190409T044755Z" creationid="WynnChen" creationdate="20190409T044724Z">
         <seg>然后保存文件并重新启动&lt;a0>OmegaT &lt;/a0>。您的新快捷键现在应该会显示在已修改的菜单项旁边。如果它们与系统快捷键不冲突，则它们在 OmegaT 中应当可用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Save thread interrupted: {0}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240818T125709Z" creationid="WynnChen" creationdate="20240818T125709Z">
+        <seg>保存线程中断：{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -85834,6 +85858,14 @@ If the project contains files but their content is not displayed here:
       </tuv>
       <tuv lang="zh-CN" changeid="Fu Rhong" changedate="20131107T145555Z" creationid="Fu Rhong" creationdate="20131107T145555Z">
         <seg>ee</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>either after saving the project data (use &lt;l0/>&lt;l1/>),</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240818T125832Z" creationid="WynnChen" creationdate="20240818T125832Z">
+        <seg>无论是在保存项目数据（用&lt;l0/>&lt;l1/>）后，</seg>
       </tuv>
     </tu>
     <tu>
