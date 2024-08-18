@@ -45444,6 +45444,14 @@ combination as such.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT creates a backup file named &lt;f0>project_save.tmx.bak&lt;/f0>.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240818T125934Z" creationid="WynnChen" creationdate="20240818T125934Z">
+        <seg>OmegaT 都会创建名为 &lt;f0>project_save.tmx.bak&lt;/f0> 的备份文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT creates backups of your project settings to ensure it can retrieve them in case of problem. See the &lt;l0/> section for details.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="WynnChen" changedate="20240716T153213Z" creationid="WynnChen" creationdate="20240716T153213Z">
@@ -90563,6 +90571,14 @@ If the project contains files but their content is not displayed here:
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20190902T103129Z" creationid="wynnc" creationdate="20190902T103100Z">
         <seg>或者用命令行使用 &lt;c0>--no-team&lt;/c0> 选项来打开项目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>or when making a regular backup (every 3 minutes by default),</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="WynnChen" changedate="20240818T125901Z" creationid="WynnChen" creationdate="20240818T125901Z">
+        <seg>还是在进行常规备份（默认每 3 分钟一次）后，</seg>
       </tuv>
     </tu>
     <tu>
