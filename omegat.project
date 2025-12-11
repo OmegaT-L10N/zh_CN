@@ -1,51 +1,73 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <omegat>
-    <project version="1.0">
-        <source_dir>__DEFAULT__</source_dir>
-        <target_dir>__DEFAULT__</target_dir>
-        <tm_dir>__DEFAULT__</tm_dir>
-        <glossary_dir>__DEFAULT__</glossary_dir>
-        <glossary_file>__DEFAULT__</glossary_file>
-        <dictionary_dir>__DEFAULT__</dictionary_dir>
-        <source_lang>EN</source_lang>
-        <target_lang>ZH-CN</target_lang>
-        <source_tok>org.omegat.tokenizer.LuceneEnglishTokenizer</source_tok>
-        <target_tok>org.omegat.tokenizer.LuceneSmartChineseTokenizer</target_tok>
-        <sentence_seg>false</sentence_seg>
-        <support_default_translations>true</support_default_translations>
-        <remove_tags>false</remove_tags>       
-        <external_command></external_command>
-        <repositories>
-            <repository type="git" url="https://github.com/OmegaT-L10N/zh_CN.git">
-                <mapping local="/" repository="/"/>
-            </repository>
-            <repository type="git" url="https://github.com/OmegaT-L10N/doc_src.git">
-                <mapping local="source/doc_src/" repository="en"/>
-            </repository>
-            <repository type="http" url="https://github.com/omegat-org/omegat/raw/master/">
-                <mapping local="source/Bundle.properties" repository="src/org/omegat/Bundle.properties"/>
-                <mapping local="source/readme_zh_CN.txt" repository="release/readme.txt"/>
-                <mapping local="source/release/win32-specific/CustomMessages_zh_CN.ini" repository="release/win32-specific/CustomMessages.ini"/>
-                <mapping local="source/release/mac-specific/OmegaT.app/Contents/Resources/zh_CN.lproj/Localizable.strings" repository="release/mac-specific/OmegaT.app/Contents/Resources/en.lproj/Localizable.strings"/>
-                <mapping local="source/scripts/check_rules.properties" repository="scripts/properties/check_rules.properties"/>
-                <mapping local="source/scripts/spellcheck.properties" repository="scripts/properties/spellcheck.properties"/>
-                <mapping local="source/scripts/svn_cleanup_selected.properties" repository="scripts/properties/svn_cleanup_selected.properties"/>
-                <mapping local="source/scripts/search_replace.properties" repository="scripts/properties/search_replace.properties"/>
-                <mapping local="source/scripts/replace_strip_tags.properties" repository="scripts/properties/replace_strip_tags.properties"/>
-                <mapping local="source/scripts/strip_bidi_marks.properties" repository="scripts/properties/strip_bidi_marks.properties"/>
-                <mapping local="source/scripts/nbsp.properties" repository="scripts/properties/nbsp.properties"/>
-                <mapping local="source/scripts/tagwipe.properties" repository="scripts/properties/tagwipe.properties"/>
-            </repository>
-            <repository type="http" url="https://raw.githubusercontent.com/omegat-org/omegat/releases/">
-                <mapping local="source/6.0/Bundle.properties" repository="6.0/src/org/omegat/Bundle.properties"/>
-                <mapping local="source/5.8/Bundle.properties" repository="5.8/src/org/omegat/Bundle.properties"/>
-            </repository>
-            <repository type="git" url="https://github.com/omegat-l10n/omegat-website.git">
-                <mapping local="source/website/" repository="_i18n/en/">
-                   <excludes>**/howtos/**</excludes>
-                </mapping>
-                <mapping local="source/website/yml/zh_CN.yml" repository="_i18n/en.yml"/>
-            </repository>
-        </repositories>
-    </project>
+  <project version="1.0">
+    <repositories>
+      <repository type="git" url="https://github.com/OmegaT-L10N/zh_CN.git">
+        <mapping local="/" repository="/">
+          <excludes>.github/**</excludes>
+        </mapping>
+      </repository>
+      <repository type="git" url="https://github.com/OmegaT-L10N/doc_src.git">
+        <mapping local="source/" repository=""/>
+      </repository>
+      <repository type="http" url="https://github.com/omegat-org/omegat/raw/master/">
+        <mapping local="source/Bundle.properties" repository="src/org/omegat/Bundle.properties"/>
+        <mapping local="source/aligner/Bundle.properties" repository="aligner/src/main/resources/org/omegat/gui/align/Bundle.properties"/>
+        <mapping local="source/machinetranslators/apertium/Bundle.properties" repository="machinetranslators/apertium/src/main/resources/org/omegat/machinetranslators/apertium/Bundle.properties"/>
+        <mapping local="source/machinetranslators/belazar/Bundle.properties" repository="machinetranslators/belazar/src/main/resources/org/omegat/machinetranslators/belazar/Bundle.properties"/>
+        <mapping local="source/machinetranslators/google/Bundle.properties" repository="machinetranslators/google/src/main/resources/org/omegat/machinetranslators/google/Bundle.properties"/>
+        <mapping local="source/machinetranslators/ibmwatson/Bundle.properties" repository="machinetranslators/ibmwatson/src/main/resources/org/omegat/machinetranslators/ibmwatson/Bundle.properties"/>
+        <mapping local="source/machinetranslators/mymemory/Bundle.properties" repository="machinetranslators/mymemory/src/main/resources/org/omegat/machinetranslators/mymemory/Bundle.properties"/>
+        <mapping local="source/machinetranslators/yandex/Bundle.properties" repository="machinetranslators/yandex/src/main/resources/org/omegat/machinetranslators/yandex/Bundle.properties"/>
+        <mapping local="source/spellchecker/hunspell/Bundle.properties" repository="spellchecker/hunspell/src/main/resources/org/omegat/spellchecker/hunspell/Bundle.properties"/>
+        <mapping local="source/tipoftheday/Bundle.properties" repository="tipoftheday/src/main/resources/org/omegat/gui/tipoftheday/Bundle.properties"/>
+        <mapping local="source/readme_zh_CN.txt" repository="release/readme.txt"/>
+        <mapping local="source/release/win32-specific/CustomMessages_zh_CN.ini" repository="release/win32-specific/CustomMessages.ini"/>
+        <mapping local="source/release/mac-specific/OmegaT.app/Contents/Resources/zh_CN.lproj/Localizable.strings" repository="release/mac-specific/OmegaT.app/Contents/Resources/en.lproj/Localizable.strings"/>
+        <mapping local="source/scripts/check_rules.properties" repository="scripts/properties/check_rules.properties"/>
+        <mapping local="source/scripts/spellcheck.properties" repository="scripts/properties/spellcheck.properties"/>
+        <mapping local="source/scripts/svn_cleanup_selected.properties" repository="scripts/properties/svn_cleanup_selected.properties"/>
+        <mapping local="source/scripts/search_replace.properties" repository="scripts/properties/search_replace.properties"/>
+        <mapping local="source/scripts/replace_strip_tags.properties" repository="scripts/properties/replace_strip_tags.properties"/>
+        <mapping local="source/scripts/strip_bidi_marks.properties" repository="scripts/properties/strip_bidi_marks.properties"/>
+        <mapping local="source/scripts/nbsp.properties" repository="scripts/properties/nbsp.properties"/>
+        <mapping local="source/scripts/tagwipe.properties" repository="scripts/properties/tagwipe.properties"/>
+      </repository>
+      <repository type="http" url="https://raw.githubusercontent.com/omegat-org/omegat/releases/">
+        <mapping local="source/6.0/Bundle.properties" repository="6.0/src/org/omegat/Bundle.properties"/>
+        <mapping local="source/5.8/Bundle.properties" repository="5.8/src/org/omegat/Bundle.properties"/>
+      </repository>
+      <repository type="git" url="https://github.com/omegat-l10n/omegat-website.git">
+        <mapping local="source/website/" repository="_i18n/en/">
+          <excludes>**/howtos/**</excludes>
+        </mapping>
+        <mapping local="source/website/yml/zh_CN.yml" repository="_i18n/en.yml"/>
+      </repository>
+    </repositories>
+    <source_dir>__DEFAULT__</source_dir>
+    <source_dir_excludes>
+      <mask>**/.svn/**</mask>
+      <mask>**/CVS/**</mask>
+      <mask>**/.cvs/**</mask>
+      <mask>**/desktop.ini</mask>
+      <mask>**/Thumbs.db</mask>
+      <mask>/doc_src/en/license.txt</mask>
+      <mask>/doc_src/en/version.properties</mask>
+    </source_dir_excludes>
+    <target_dir>__DEFAULT__</target_dir>
+    <tm_dir>__DEFAULT__</tm_dir>
+    <glossary_dir>__DEFAULT__</glossary_dir>
+    <glossary_file>__DEFAULT__</glossary_file>
+    <dictionary_dir>__DEFAULT__</dictionary_dir>
+    <export_tm_dir>__DEFAULT__</export_tm_dir>
+    <export_tm_levels>omegat level1 level2</export_tm_levels>
+    <source_lang>en</source_lang>
+    <target_lang>zh_CN</target_lang>
+    <source_tok>org.omegat.tokenizer.LuceneEnglishTokenizer</source_tok>
+    <target_tok>org.omegat.tokenizer.LuceneSmartChineseTokenizer</target_tok>
+    <sentence_seg>true</sentence_seg>
+    <support_default_translations>true</support_default_translations>
+    <remove_tags>false</remove_tags>
+    <external_command></external_command>
+  </project>
 </omegat>
