@@ -23,6 +23,7 @@
                 <mapping local="source/doc_src/" repository="en"/>
                 <mapping local="source/greeting/" repository="greeting"/>
                 <mapping local="source/tips/" repository="tips"/>
+                <mapping local="source/manuals-6.0" repository="manuals-6.0"/>
             </repository>
             <repository type="http" url="https://github.com/omegat-org/omegat/raw/master/">
                 <mapping local="source/Bundle.properties" repository="src/org/omegat/Bundle.properties"/>
